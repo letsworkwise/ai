@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: exhaust fan point wiring | feature_or_specifications: switch: 6A, socket: 6A near fan, wire: 2 x 1.5 sq.mm pvc insulated 1100 V grade frls(fire retardant low smoke) copper conductor, earth wire: 1 x 1.5 sq.mm pvc insulated, conduit: 20 mm diameter rigid pvc conduit of medium guage, standard: IS 9537:3, approval: ISI(indian standards) and FIA(fire insurance approval), height of ceiling: 4.5 to 4.8 meters, feature: separate neutral for each circuit, feature: flexible pvc conduit wherever required, feature: inclusive of moduler switches, switch boxes, back box, connectors, junction box, ceiling rose, terminations",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: exhaust fan",
+        "raw_product_name": "EXHAUST FAN",
+        "list_of_product_ids": [
+          "23604",
+          "14324",
+          "14788",
+          "16554",
+          "20796",
+          "23589"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: ventilation fan",
+        "raw_product_name": "VENTILATION FAN",
+        "list_of_product_ids": [
+          "7",
+          "127",
+          "745",
+          "418",
+          "478"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: ventilation system",
+        "raw_product_name": "VENTILATION SYSTEM",
+        "list_of_product_ids": [
+          "7062",
+          "7389",
+          "8497",
+          "8501",
+          "18414"
+        ]
+      }
+    }
+  ]
+}

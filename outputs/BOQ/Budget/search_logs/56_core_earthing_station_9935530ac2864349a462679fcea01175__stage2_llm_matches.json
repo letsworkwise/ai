@@ -1,0 +1,70 @@
+{
+  "query": "core_product_name: earthing station | size: inspection chamber: 400(L)x400(W)x450(D)mm, block work thickness: 150mm, CI pipe: 100mm ID, pipe thickness: 13mm, excavation: 400(W & L) | feature_or_specifications: cover: CI (cast iron), lid: hinged to CI frame, watering funnel: with wire mesh, mixture: salt & charcoal, bolts & nuts: M10, clamps: universal stainless steel, standard: IS:3043-2018 (indian standard 3043-2018), standard: NBC 2016 (national building code 2016), compliance: IS:3043-2018 Earthing Standards/ NBC 2016 (latest), back filling: around the rod/pipe",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: fitting | material: Cast Iron (CI)",
+        "raw_product_name": "FITTINGS -CAST IRON (CI)",
+        "list_of_product_ids": [
+          "7618",
+          "7292",
+          "7881",
+          "15941",
+          "16290",
+          "16308",
+          "34586",
+          "35732",
+          "35733"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cast iron pipe",
+        "raw_product_name": "PIPE CAST IRON",
+        "list_of_product_ids": [
+          "7576",
+          "7251",
+          "11128",
+          "11130",
+          "7830",
+          "14420",
+          "14532",
+          "15940",
+          "16307",
+          "23714",
+          "39752",
+          "39929"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: casting | material: Cast Iron",
+        "raw_product_name": "CASTING -CAST IRON",
+        "list_of_product_ids": [
+          "21885",
+          "21883",
+          "24612",
+          "39753",
+          "39842",
+          "39868",
+          "39927",
+          "40032"
+        ]
+      }
+    }
+  ]
+}

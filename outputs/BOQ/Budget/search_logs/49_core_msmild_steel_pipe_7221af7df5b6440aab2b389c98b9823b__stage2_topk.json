@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: ms(mild steel) pipe | size: diameter: 2 inch | feature_or_specifications: class: C, application: 1500 KVA DG Set",
+  "retrieval_results": [
+    {
+      "id": "variant-da9c94d9-ca6a-5f06-9f4c-6ab7978cc2ae",
+      "score": 0.88136697,
+      "metadata": {
+        "text": "core_product_name: ms (mild steel) pipe",
+        "raw_product_name": "MS PIPE",
+        "list_of_product_ids": "13780,14665,19247,17239,17228,18434,39305,22590,22621,22726,22761,22750,22744,22790,23133,30896,30927,30958,39306,27364,29739,28917,28966,35311,35312,40051",
+        "core_id": 1510.0
+      }
+    },
+    {
+      "id": "variant-801581c6-a47e-5285-97d2-488db8ecfbcc",
+      "score": 0.87676466,
+      "metadata": {
+        "text": "core_product_name: pipe-ms (mild steel) | material: MS (Mild Steel) | construction_features: GI (Galvanized Iron) coating",
+        "raw_product_name": "PIPES-MS-(GI)",
+        "list_of_product_ids": "13947,14615,14654,14664,19769,21055,21413,22593,29948,29951,29953,35289,35310,35314",
+        "core_id": 1690.0
+      }
+    },
+    {
+      "id": "variant-e2f2fd26-d7af-57d5-b362-4c77226da917",
+      "score": 0.8759805,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | material: MS (Mild Steel)",
+        "raw_product_name": "MS PIPE FITTINGS",
+        "list_of_product_ids": "137,812,283,128,755",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-65840ecf-7374-526b-8e01-2bb631ca3499",
+      "score": 0.8729209,
+      "metadata": {
+        "text": "core_product_name: tube | material: Mild Steel (MS)",
+        "raw_product_name": "Mild Steel Tubes",
+        "list_of_product_ids": "17961,17971,17970,17969,17966,17964,17962,18647",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-7fd4cfef-d998-5282-9241-7387b128f297",
+      "score": 0.871369,
+      "metadata": {
+        "text": "core_product_name: round | material: MS (Mild Steel)",
+        "raw_product_name": "MS ROUND",
+        "list_of_product_ids": "30196,32891,13504,13511,13489,13518,13524,13530,13537,13544,13558,13551,26246,29406,16067,16106,29429,31907,17722,17738,29467,29481,29534,23326,29888,30348,29540,29570,29855,30356,31544,31688,24732,31134,24751,24759,24870,24858,24847,24894,31379,24916,24925,24903,31573,25001,30790,25020,25005,25049,25038,25031,29605,30910,25083,25074,25065,25060,25108,25117,30379,30538,25129,25138,25156,25168,25195,25184,25177,25206,25218,25236,25257,25246,25271,25287,25297,25301,25314,25339,25323,25351,25367,25390,25379,25410,30948,31144,25495,29629,30031,30399,31166,31386,31832,25862,31862,25934,30547,31337,31842,31406,31597,25976,30061,26121,26155,29682,30572,31090,26180,26274,26306,30964,31446,26332,26357,30088,30594,26378,26443,26492,26466,26534,26540,26572,26598,30434,26621,26644,26702,29697,30105,26725,26821,26830,30619,30985,26913,26949,26976,27007,27157,30457,27186,30128,31198,27233,30168,30149,30657,27261,27290,29722,27313,27393,31454,27419,27445,27557,29742,31223,27585,27614,27668,27686,27846,27893,27853,27936,27966,29771,30671,31052,28000,30487,31737,28036,28102,28152,28138,30216,31644,28324,28301,31261,28358,30243,28389,28445,28470,28520,29799,31265,31477,31619,28552,28647,28685,28700,30700,28726,28863,28857,28887,29828,28939,30265,31291,28944,28976,31683,29016,29023,30721,31514,31010,29068,29072,30305,31315,31522,31070,29160,29136,29163,29192,29229,30313,29348,29325,29351,29375,31943,31951,31974,32024,31996,32052,32090,32114,32145,32173,32207,32257,32373,32309,32335,32411,32433,32455,32538,32588,32617,32637,32665,32735,32781,32824,32855,32916,32966,33052,33072,33104,33156,33131,33221,33288,33316,33358,33399,33468,33519,33580,33654,33693,33722,33741,33765,33793,33827,33877,33853,33924,33963,34046,34067,34096,34123,34148,34179,34201,34223,34261,34290,34356,34385,34424,34446,34468,34503,34525,34548,34605,34654,34707,34737,34758,34805,34784,34860,34831,34884,34935,35024,35059,35081,35103,35125,35168",
+        "core_id": 1511.0
+      }
+    },
+    {
+      "id": "variant-a39dd6fd-8fdf-5f9c-9f2b-665c6cfa3c66",
+      "score": 0.8635046,
+      "metadata": {
+        "text": "core_product_name: black ms (mild steel) pipe",
+        "raw_product_name": "PIPES-MS-(BLACK)",
+        "list_of_product_ids": "13946,14614,14653,14663,19768,21054,29949,29952,29954,28753,29950,29947",
+        "core_id": 1687.0
+      }
+    },
+    {
+      "id": "variant-161fa21f-33fa-588b-b919-b504d3d47901",
+      "score": 0.8610426,
+      "metadata": {
+        "text": "core_product_name: flange | material: MS (Mild Steel)",
+        "raw_product_name": "FLANGE (MS) /Mild Steel Flange",
+        "list_of_product_ids": "10255,10260,10265,10270,10277,9941,9942,9947,9948,10225,9964,10238,10239,10244,10249,13101,17431,24567,25825",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-8686717b-373e-55c7-9041-9945bb30655c",
+      "score": 0.8547671,
+      "metadata": {
+        "text": "core_product_name: ladder | material: Mild Steel (MS)",
+        "raw_product_name": "MILD STEEL LADDERS",
+        "list_of_product_ids": "274,932,750,927,490",
+        "core_id": 96.0
+      }
+    },
+    {
+      "id": "variant-5a869d21-d3d4-58a2-ba29-246aab6b27a4",
+      "score": 0.85264134,
+      "metadata": {
+        "text": "core_product_name: plate flange | material: Mild Steel (MS)",
+        "raw_product_name": "MILD STEEL PLATE FLANGES",
+        "list_of_product_ids": "174,302,456,624,652",
+        "core_id": 1474.0
+      }
+    },
+    {
+      "id": "variant-7a47b8db-ee25-518f-9ee3-4b13bf063bda",
+      "score": 0.85242677,
+      "metadata": {
+        "text": "core_product_name: large-diameter pipe",
+        "raw_product_name": "Large-diameter pipe",
+        "list_of_product_ids": "758,772,628,028",
+        "core_id": 1410.0
+      }
+    },
+    {
+      "id": "variant-34b71fab-80fa-5d51-9106-d0f846a7d333",
+      "score": 0.85185766,
+      "metadata": {
+        "text": "core_product_name: conduit | acronymed_core_product_name: m.s. (mild steel) conduit | material: M.S. (Mild Steel) | standards_and_approvals: ISI (Indian Standards Institute)",
+        "raw_product_name": "M.S. CONDUIT ISI",
+        "list_of_product_ids": "20486,20544,20553,20584,20692,20750",
+        "core_id": 442.0
+      }
+    },
+    {
+      "id": "variant-1aeeb9f0-2267-5818-8a0c-b69d22b012f4",
+      "score": 0.8514437,
+      "metadata": {
+        "text": "core_product_name: ms (mild steel) pipe | special_attributes: ERW (Electric Resistance Welded)",
+        "raw_product_name": "MS PIPE (ERW)",
+        "list_of_product_ids": "23798,23802,24467,24468,24471,29649,32761,32760,32759,32758,32765,32774,32775,32800,32805,32841,32818,32815,32844,32851,32849,32848,32847,39992",
+        "core_id": 1510.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.8487198,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    },
+    {
+      "id": "variant-959c9eda-a951-548e-a884-f232b0345449",
+      "score": 0.84587187,
+      "metadata": {
+        "text": "core_product_name: diesel generator set | acronymed_core_product_name: dg set | type_or_class: Alternator | size_or_capacity: MV (Medium Voltage)",
+        "raw_product_name": "DG SET (ALTERNATOR- MV)",
+        "list_of_product_ids": "136,341,588,521,826",
+        "core_id": 580.0
+      }
+    },
+    {
+      "id": "variant-3f159fee-0ee0-59d2-942e-6e8b0f3d3724",
+      "score": 0.84551316,
+      "metadata": {
+        "text": "core_product_name: pipe cap | material: A S (Alloy Steel)",
+        "raw_product_name": "FITTINGS PIPE CAP (A S)",
+        "list_of_product_ids": "6328,5499,10386,11292,8083,13134,15993,19735,24596,34143,34144,34145,34168,34169,34173,34172,34171,34170,36851,40054",
+        "core_id": 875.0
+      }
+    },
+    {
+      "id": "variant-12a73032-e144-544b-89bf-5cc8a8f7d79f",
+      "score": 0.8454999,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | material: CS (Carbon Steel)",
+        "raw_product_name": "CS PIPE FITTING",
+        "list_of_product_ids": "7577,7252,10081,10435,10450,10451,11398,10633,10637,9331,8019,15976,16037,16207,16254,24441,30950,37249",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-a226040d-f054-5c9a-9605-d81b357cb8e5",
+      "score": 0.8454979,
+      "metadata": {
+        "text": "core_product_name: flange | material: Mild Steel (MS) | connection_details: Screwed",
+        "raw_product_name": "FLANGE MILD STEEL SCREWED",
+        "list_of_product_ids": "174,451,744,727,926",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-15585739-cb35-5050-94db-9b124ee7c772",
+      "score": 0.8449141,
+      "metadata": {
+        "text": "core_product_name: diesel generating set",
+        "raw_product_name": "DIESEL GENERATING SET",
+        "list_of_product_ids": "19330,19331,19332,19339,19615,24361,24360,26864,39715,39840,39911",
+        "core_id": 584.0
+      }
+    },
+    {
+      "id": "variant-d64f7135-268c-5d22-8dc8-6141ff6c2b78",
+      "score": 0.844679,
+      "metadata": {
+        "text": "core_product_name: low pressure pipe fitting | material: CS (Carbon Steel)",
+        "raw_product_name": "LP PIPE FITTING (CS)",
+        "list_of_product_ids": "13656,14612,14704,14715,14876,14912,21408,23051,23688",
+        "core_id": 1396.0
+      }
+    },
+    {
+      "id": "variant-eabf7f2b-a3e7-5d1b-8a79-6ce35bcaea92",
+      "score": 0.84344053,
+      "metadata": {
+        "text": "core_product_name: district heat pipe",
+        "raw_product_name": "District heat pipes",
+        "list_of_product_ids": "758,372,588,023",
+        "core_id": 657.0
+      }
+    },
+    {
+      "id": "variant-0932ced8-ebc1-57ed-befb-5f8b22ab010c",
+      "score": 0.843343,
+      "metadata": {
+        "text": "core_product_name: low temperature steel pipe",
+        "raw_product_name": "PIPE/LOW TEMP STEEL",
+        "list_of_product_ids": "6811,6812,6998,6999,7624,7630,7000,6818,24455,6823,40335",
+        "core_id": 1676.0
+      }
+    },
+    {
+      "id": "variant-59e94b31-1f84-515b-8f08-a2e3057b2f77",
+      "score": 0.84213,
+      "metadata": {
+        "text": "core_product_name: pipe | material: Super Duplex Stainless Steel (SS) | special_attributes: Welded",
+        "raw_product_name": "DUPLEX/SUPER DUPLEX SS WELDED PIPES",
+        "list_of_product_ids": "6294,5465,10332,7801,7803,7797,10908,37095",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-a6103f7d-434d-59c3-b0c8-a5ad206ecb93",
+      "score": 0.84158975,
+      "metadata": {
+        "text": "core_product_name: gas metering system | special_attributes: dual chamber orifice",
+        "raw_product_name": "GAS METERING SYSTEM -DUAL CHAMBR ORIFICE",
+        "list_of_product_ids": "6614,5784,38506,38496",
+        "core_id": 1031.0
+      }
+    },
+    {
+      "id": "variant-aff08504-c506-51f5-a4d6-a4176100a6a8",
+      "score": 0.841369,
+      "metadata": {
+        "text": "core_product_name: fitting pipe cap | material: C S (Carbon Steel)",
+        "raw_product_name": "FITTINGS PIPE CAP (C S)",
+        "list_of_product_ids": "10369,6327,5498,10381,11291,11334,11406,8044,8082,8086,12102,12768,12741,12751,12782,13125,13208,13306,8043,13405,15992,17658,17920,19732,21807,24595,36574,34026,34025,34024,34023,34022,34021,34027,34688,36850",
+        "core_id": 876.0
+      }
+    },
+    {
+      "id": "variant-354cec49-716d-5ab8-a38e-83a30de69772",
+      "score": 0.84132546,
+      "metadata": {
+        "text": "core_product_name: duplex stainless steel pipe",
+        "raw_product_name": "Duplex Stainless Steel Pipes",
+        "list_of_product_ids": "7593,7268,10299,10562,10615,8033,8041,12710,13120,13122,13140,13302,13324,13326,19897,37087",
+        "core_id": 664.0
+      }
+    },
+    {
+      "id": "variant-82c03398-790c-5c62-b331-691aa7d6b609",
+      "score": 0.84132546,
+      "metadata": {
+        "text": "core_product_name: duplex stainless steel pipe",
+        "raw_product_name": "Pipe-(Duplex SS)",
+        "list_of_product_ids": "15635,15900,24435,26855",
+        "core_id": 664.0
+      }
+    },
+    {
+      "id": "variant-bd778dd0-f065-5f4c-93c4-1eb35497923b",
+      "score": 0.8409909,
+      "metadata": {
+        "text": "core_product_name: carbon steel impulse pipe | material: CS (Carbon Steel)",
+        "raw_product_name": "CS IMPULSE PIPES",
+        "list_of_product_ids": "14243,19893,22595,22728,22876",
+        "core_id": 530.0
+      }
+    },
+    {
+      "id": "variant-9e1152a3-fea8-5e88-b9c1-f65dfa7602ec",
+      "score": 0.84096783,
+      "metadata": {
+        "text": "core_product_name: pipe-carbon steel",
+        "raw_product_name": "PIPE-CARBON STEEL",
+        "list_of_product_ids": "6135,5453,11148,11346,10703,9257,7749,7750,7782,7789,7787,9298,9299,9309,9311,8035,8046,8048,8050,8053,8055,8057,8059,8061,8045,8047,8049,8052,8054,8056,8058,8060,9335,9396,9398,9391,9420,9176,9297,9177,9300,9308,9312,12253,12563,12999,17640,18867,18913,21056,21641,24436,30012,30011,30013,32041,40009,40080",
+        "core_id": 1667.0
+      }
+    },
+    {
+      "id": "variant-b64a4c90-2696-5405-b806-b18e296f80cf",
+      "score": 0.84091705,
+      "metadata": {
+        "text": "core_product_name: stainless steel pipe (ss pipe)",
+        "raw_product_name": "SS PIPES",
+        "list_of_product_ids": "14028,19345,19593,19875,22591,22810,22829,23350,30895,30926,26240,27367",
+        "core_id": 2095.0
+      }
+    },
+    {
+      "id": "variant-fc5ea489-34d9-5f79-8a61-0e7e57a98756",
+      "score": 0.8404621,
+      "metadata": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards) 3589",
+        "raw_product_name": "PIPE-CARBON STEEL IS: 3589",
+        "list_of_product_ids": "15698,14000,21300,22746,22893,37056,37052,37057,37058,37059,37060,37061,37062",
+        "core_id": 529.0
+      }
+    }
+  ]
+}

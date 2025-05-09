@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: danger board | size: voltage: 440v | feature_or_specifications: finish: enameled, feature: supply and installation",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: board | material: Cement",
+        "raw_product_name": "CEMENT BOARD",
+        "list_of_product_ids": [
+          "156",
+          "861",
+          "903",
+          "127",
+          "990"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: relay board",
+        "raw_product_name": "RELAY BOARD",
+        "list_of_product_ids": [
+          "19671",
+          "19678",
+          "19682",
+          "19686"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fixed switch board | mounting_or_installation: for package equipments | protection_features: flame proof",
+        "raw_product_name": "SWITCH BOARD FIXED FOR PACKAGE EQUIPMENTS FLAME PROOF",
+        "list_of_product_ids": [
+          "13973",
+          "14603",
+          "14849",
+          "19440",
+          "20280",
+          "22864",
+          "35781"
+        ]
+      }
+    }
+  ]
+}

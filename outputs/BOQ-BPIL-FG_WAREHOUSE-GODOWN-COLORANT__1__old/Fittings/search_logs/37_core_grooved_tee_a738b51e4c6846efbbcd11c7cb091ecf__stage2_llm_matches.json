@@ -1,0 +1,67 @@
+{
+  "query": "core_product_name: grooved tee | size: nominal bore: 80 x 25",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: tee fitting",
+        "raw_product_name": "FITTINGS \u001eTEES",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: barred tee",
+        "raw_product_name": "BARRED TEE",
+        "list_of_product_ids": [
+          "14187",
+          "22417",
+          "27760",
+          "27750",
+          "27740",
+          "27730",
+          "27720",
+          "27781",
+          "36527"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: flow tee",
+        "raw_product_name": "FLOW TEE",
+        "list_of_product_ids": [
+          "5371",
+          "6067",
+          "11152",
+          "11151",
+          "10737",
+          "11283",
+          "10560",
+          "12908",
+          "15980",
+          "17555",
+          "27536",
+          "27759",
+          "27749",
+          "27739",
+          "27729",
+          "27719",
+          "27782",
+          "36526"
+        ]
+      }
+    }
+  ]
+}

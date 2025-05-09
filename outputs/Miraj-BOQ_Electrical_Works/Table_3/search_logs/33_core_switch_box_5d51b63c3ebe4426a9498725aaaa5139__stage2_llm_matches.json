@@ -1,0 +1,69 @@
+{
+  "query": "core_product_name: switch box | size: type: SWB3",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fixed switchboard",
+        "raw_product_name": "SWITCHBOARD FIXED FOR PACKAGE EQUIPTS",
+        "list_of_product_ids": [
+          "5562",
+          "6391",
+          "10610",
+          "11364",
+          "8428",
+          "12734",
+          "15926",
+          "17932",
+          "22774",
+          "22840",
+          "24466",
+          "24465",
+          "24460",
+          "24454",
+          "19305"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: switch",
+        "raw_product_name": "SWITCHES",
+        "list_of_product_ids": [
+          "13967",
+          "14807",
+          "15296",
+          "36552",
+          "17540",
+          "24101",
+          "22217",
+          "22288",
+          "23682"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: switch",
+        "raw_product_name": "DISTANCE SWITCHES",
+        "list_of_product_ids": [
+          "19150",
+          "27607",
+          "19152",
+          "38467"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "query": "core_product_name: perforated cable tray vertical bend (outside) | size: width: 150 mm | feature_or_specifications: bend angle: 90 degree, type: perforated, position: outside, feature: shall be decided as per detail engineering",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "Material",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: perforated cable tray | acronymed_core_product_name: gi (galvanized iron) cable tray | material: GI (Galvanized Iron) | accessories_or_attachments: Accessories | type_or_class: Perforated",
+        "raw_product_name": "GI CABLE TRAYS AND ACCESSORIES (PERFORATED TYPE)",
+        "list_of_product_ids": [
+          "7301",
+          "7349",
+          "7899",
+          "17491",
+          "26434"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: perforated cable tray",
+        "raw_product_name": "Perforrated Cable Tray",
+        "list_of_product_ids": [
+          "7",
+          "013",
+          "732",
+          "126",
+          "432"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable tray | material: Fibre Glass",
+        "raw_product_name": "FIBRE GLASS CABLE TRAYS",
+        "list_of_product_ids": [
+          "7064",
+          "7391",
+          "10455",
+          "10640",
+          "10641",
+          "26435"
+        ]
+      }
+    }
+  ]
+}

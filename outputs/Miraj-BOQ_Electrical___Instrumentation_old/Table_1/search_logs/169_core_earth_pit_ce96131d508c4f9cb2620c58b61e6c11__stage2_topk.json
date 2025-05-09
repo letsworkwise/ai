@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: earth pit | feature_or_specifications: application: body earthing (bep)",
+  "retrieval_results": [
+    {
+      "id": "variant-9cab3a59-4c3f-5408-9e1e-d68d6a3b5435",
+      "score": 0.87230253,
+      "metadata": {
+        "text": "core_product_name: earthing material",
+        "raw_product_name": "EARTHING MATERIALS",
+        "list_of_product_ids": "378,733,788,037,898",
+        "core_id": 672.0
+      }
+    },
+    {
+      "id": "variant-c877b74e-265d-5bd4-bb90-01b78c749417",
+      "score": 0.86954665,
+      "metadata": {
+        "text": "core_product_name: instrumentation earthing",
+        "raw_product_name": "INSTRUMENTATION EARTHING",
+        "list_of_product_ids": "13420",
+        "core_id": 1263.0
+      }
+    },
+    {
+      "id": "variant-1297bf95-04c8-51c3-88c3-57508e8f85d8",
+      "score": 0.8470018,
+      "metadata": {
+        "text": "core_product_name: piping speciality",
+        "raw_product_name": "PIPING SPECIALITY",
+        "list_of_product_ids": "194,961,949,428,268",
+        "core_id": 1689.0
+      }
+    },
+    {
+      "id": "variant-c1db22b0-157d-56cc-899f-3e45f614fef3",
+      "score": 0.84688425,
+      "metadata": {
+        "text": "core_product_name: chipping",
+        "raw_product_name": "CHIPPING",
+        "list_of_product_ids": "239,692,397,328,692",
+        "core_id": 347.0
+      }
+    },
+    {
+      "id": "variant-5b1e3e9d-8ae5-5f6a-8ddd-8f228cb065b7",
+      "score": 0.84687155,
+      "metadata": {
+        "text": "core_product_name: wet pit pump | mounting_or_installation: vertical",
+        "raw_product_name": "WET PIT PUMPS - VERTICAL",
+        "list_of_product_ids": "37846,37847,37848,37849,37804,37810,37843,37844,37845",
+        "core_id": 2471.0
+      }
+    },
+    {
+      "id": "variant-cdd7df47-084c-5075-8f21-50076f647f41",
+      "score": 0.8452028,
+      "metadata": {
+        "text": "core_product_name: quick connect body and stem",
+        "raw_product_name": "QUICK CONNECT BODY & STEM",
+        "list_of_product_ids": "8605",
+        "core_id": 1847.0
+      }
+    },
+    {
+      "id": "variant-cf23d18a-3fb3-5ab5-b22b-a3778ac1d5c7",
+      "score": 0.8447198,
+      "metadata": {
+        "text": "core_product_name: soil pipe",
+        "raw_product_name": "SOIL PIPES",
+        "list_of_product_ids": "20572,20534,20613,20618,20667,20725",
+        "core_id": 2054.0
+      }
+    },
+    {
+      "id": "variant-f23555b4-6776-5418-b12f-82367d57d9b5",
+      "score": 0.8445541,
+      "metadata": {
+        "text": "core_product_name: fitting | type_or_class: ERMETO",
+        "raw_product_name": "ERMETO FITTINGS",
+        "list_of_product_ids": "254,072,567,926,699",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-c3316671-1084-5801-b30a-c27420018e41",
+      "score": 0.8442688,
+      "metadata": {
+        "text": "core_product_name: type valve control body",
+        "raw_product_name": "VALVE CONTROL BODY TYPE",
+        "list_of_product_ids": "14051,15178,17084,20252,22357,23086,23779,23783,36658",
+        "core_id": 2349.0
+      }
+    },
+    {
+      "id": "variant-3efeda5d-6e70-51e8-8f2e-ad8a9436822e",
+      "score": 0.8427842,
+      "metadata": {
+        "text": "core_product_name: bend",
+        "raw_product_name": "BENDS",
+        "list_of_product_ids": "219,382,194,421,936",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-524372ff-f9e3-5635-873c-15ac67da493b",
+      "score": 0.8423691,
+      "metadata": {
+        "text": "core_product_name: induction-bent pipe",
+        "raw_product_name": "Induction-bent pipe",
+        "list_of_product_ids": "7586,7261,8027,36530",
+        "core_id": 1301.0
+      }
+    },
+    {
+      "id": "variant-9f830cf9-aaed-5a97-8a1b-c000701412dd",
+      "score": 0.84216565,
+      "metadata": {
+        "text": "core_product_name: for cementitious surface water proofing",
+        "raw_product_name": "WATER PROOFING FOR CEMENTITIONS SURFACE",
+        "list_of_product_ids": "14088,22464,24156,23887,22879,35650",
+        "core_id": 2445.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.8418001,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    },
+    {
+      "id": "variant-c61a0e42-40cc-517d-abad-c49cb4a5f82e",
+      "score": 0.8417075,
+      "metadata": {
+        "text": "core_product_name: earth leakage relay",
+        "raw_product_name": "EARTH LEAKAGE RELAY",
+        "list_of_product_ids": "1,379,915,295",
+        "core_id": 670.0
+      }
+    },
+    {
+      "id": "variant-1fe6caaa-8193-5668-9fe1-01bba48a41b8",
+      "score": 0.841689,
+      "metadata": {
+        "text": "core_product_name: heating element",
+        "raw_product_name": "HEATING ELEMENT",
+        "list_of_product_ids": "214,212,142,627,045",
+        "core_id": 1117.0
+      }
+    },
+    {
+      "id": "variant-03c39063-4ac8-5441-8f8b-a1e87d0585a0",
+      "score": 0.84159166,
+      "metadata": {
+        "text": "core_product_name: built up beam",
+        "raw_product_name": "BUILT UP BEAM",
+        "list_of_product_ids": "20856,20878,20900,27079",
+        "core_id": 252.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.84102035,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-0d2b59fc-65fd-5169-91ae-b2bc22f3ed34",
+      "score": 0.84099084,
+      "metadata": {
+        "text": "core_product_name: bent line pipe",
+        "raw_product_name": "Line pipe, bent",
+        "list_of_product_ids": "759,072,658,031",
+        "core_id": 1414.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8408341,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-6a2eb1b0-38c1-5e50-8fd3-5808f51bb1ee",
+      "score": 0.8407798,
+      "metadata": {
+        "text": "core_product_name: bearing",
+        "raw_product_name": "Bearing",
+        "list_of_product_ids": "7047,7374,15509,15505,18776,20394,20653,19595,37012",
+        "core_id": 267.0
+      }
+    },
+    {
+      "id": "variant-4a40dd6f-7d8c-58dc-b47f-6a3a3bf50a6e",
+      "score": 0.8407598,
+      "metadata": {
+        "text": "core_product_name: site fabrication and erection",
+        "raw_product_name": "FABRICATION & ERECTION (SITE)",
+        "list_of_product_ids": "260,232,602,226,692",
+        "core_id": 789.0
+      }
+    },
+    {
+      "id": "variant-30453020-7b88-55b3-8cef-647ee7ab265c",
+      "score": 0.84014577,
+      "metadata": {
+        "text": "core_product_name: breathing equipment",
+        "raw_product_name": "BREATHING EQUIPMENT",
+        "list_of_product_ids": "188,191,880,228,060",
+        "core_id": 247.0
+      }
+    },
+    {
+      "id": "variant-824e620c-9454-58ca-b3a3-b9bc5765fe8d",
+      "score": 0.83998585,
+      "metadata": {
+        "text": "core_product_name: skin thermocouple",
+        "raw_product_name": "SKIN THERMOCOUPLES",
+        "list_of_product_ids": "6547,5718,10142,11460,11890,12795,13236,17146,17179,19250,31356,29847,31332,35159,35198,35203,35211,36273,36425",
+        "core_id": 2041.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.8397938,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    },
+    {
+      "id": "variant-8b17e0b9-66f6-5d0e-86c3-90233954cdce",
+      "score": 0.83963865,
+      "metadata": {
+        "text": "core_product_name: pipe fitting",
+        "raw_product_name": "PIPE FITTINGS",
+        "list_of_product_ids": "22332,22331,22330,23352,23353,24583,36871,30825,36882,37027,28815,37304,36590,33279,33280,33281,37015,37157,36862,35736,35737,35738,35739,35740,35741,35742,36885,36524",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-e66559cd-efc4-5ee2-b4f3-09750bdc8fc6",
+      "score": 0.8392976,
+      "metadata": {
+        "text": "core_product_name: biochemical",
+        "raw_product_name": "BIOCHEMICALS",
+        "list_of_product_ids": "370,543,702,437,021",
+        "core_id": 204.0
+      }
+    },
+    {
+      "id": "variant-7e796f6f-0d17-514d-aca4-a14dcdb48ba7",
+      "score": 0.8390935,
+      "metadata": {
+        "text": "core_product_name: fluid power equipment",
+        "raw_product_name": "FLUID POWER EQUIPMENT",
+        "list_of_product_ids": "1,364,936,946",
+        "core_id": 949.0
+      }
+    },
+    {
+      "id": "variant-d9da89a6-d299-59f2-9254-807eaf9aa7f5",
+      "score": 0.8390585,
+      "metadata": {
+        "text": "core_product_name: electro-pneumatic positioner",
+        "raw_product_name": "ELECTRO - PNEUMATIC POSITIONER",
+        "list_of_product_ids": "4,019,640,266",
+        "core_id": 716.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.83901304,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    },
+    {
+      "id": "variant-62e9d5fb-3cb4-5db6-9c87-632de704fb71",
+      "score": 0.8388543,
+      "metadata": {
+        "text": "core_product_name: erection and commissioning equipment",
+        "raw_product_name": "EQUIPMENT - ERECTION & COMMISSIONING",
+        "list_of_product_ids": "16194,16202,16350,16355,33812,34490,35836,35844",
+        "core_id": 757.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "query": "core_product_name: grooved coupling | size: nominal bore: 50",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: coupling",
+        "raw_product_name": "COUPLING",
+        "list_of_product_ids": [
+          "14102",
+          "19606",
+          "19603",
+          "21430",
+          "24786",
+          "24777",
+          "24787",
+          "24800",
+          "24801",
+          "24814",
+          "25096",
+          "37417",
+          "37437"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: hose coupling",
+        "raw_product_name": "HOSE COUPLING",
+        "list_of_product_ids": [
+          "8887",
+          "8914",
+          "9058",
+          "9822",
+          "9050",
+          "9054",
+          "9143",
+          "20026",
+          "20038"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fluid coupling",
+        "raw_product_name": "Fluid Coupling",
+        "list_of_product_ids": [
+          "7541",
+          "7215",
+          "9733",
+          "16462"
+        ]
+      }
+    }
+  ]
+}

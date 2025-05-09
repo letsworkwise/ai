@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: frls copper wire with pvc conduit | size: wire: 2 runs of 4 sq.mm, wire: 1 run of 2.5 sq.mm, conduit diameter: 25mm | feature_or_specifications: type: frls(fire retardant low smoke), material: copper, conduit material: pvc, standard: IS 9537:3, voltage: 1100 V grade, approval: ISI(indian standards) and FIA(fire insurance approval)",
+  "retrieval_results": [
+    {
+      "id": "variant-50985070-9f03-5bda-8aff-50bb3ee6ccad",
+      "score": 0.8837506,
+      "metadata": {
+        "text": "core_product_name: fire retardant low smoke cable | acronymed_core_product_name: frls cable (fire retardant low smoke cable) | size_or_capacity: 1.1 KV | protection_features: fire retardant | protection_features: low smoke | type_or_class: FRLS (Fire Retardant Low Smoke)",
+        "raw_product_name": "1.1 KV FIRE RETARDANT LOW SMOKE CABLES(FRLS)",
+        "list_of_product_ids": "1,029,021,403",
+        "core_id": 5.0
+      }
+    },
+    {
+      "id": "variant-bb001d38-b128-522d-9d87-0b59ec1edf02",
+      "score": 0.86644745,
+      "metadata": {
+        "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+        "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+        "list_of_product_ids": "140,901,478,121,282",
+        "core_id": 313.0
+      }
+    },
+    {
+      "id": "variant-e4fb7566-88cb-5b16-875c-301cb0eb7c64",
+      "score": 0.8542774,
+      "metadata": {
+        "text": "core_product_name: flexible wire and cable | acronymed_core_product_name: fr-lsh wire and cable | type_or_class: FR-LSH (Flame Retardant Low Smoke and Halogen)",
+        "raw_product_name": "FR-LSH FLEXIBLE WIRES AND CABLES",
+        "list_of_product_ids": "39984,39985,39986,39987,39988,40154",
+        "core_id": 982.0
+      }
+    },
+    {
+      "id": "variant-4dd90f9e-4a1a-51a9-85b8-5801fa7498c6",
+      "score": 0.8464404,
+      "metadata": {
+        "text": "core_product_name: control cable | size_or_capacity: 1100 Volts | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "1100 VOLTS GRADE PVC CONTROL CABLES",
+        "list_of_product_ids": "23936,24085,21514,28591",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-f66091af-76fc-50e7-a5df-3e52eddbd562",
+      "score": 0.84397626,
+      "metadata": {
+        "text": "core_product_name: lighting wire | type_or_class: Fire Retardant",
+        "raw_product_name": "LIGHTING WIRES FIRE RETARDANT TYPE",
+        "list_of_product_ids": "1,360,714,791",
+        "core_id": 1355.0
+      }
+    },
+    {
+      "id": "variant-ee21be37-7683-5a3d-8756-84b1a08b8fa6",
+      "score": 0.84317786,
+      "metadata": {
+        "text": "core_product_name: fabric belting | protection_features: FR (Fire Resistant) grade",
+        "raw_product_name": "FABRIC BELTING(FR GRADE)",
+        "list_of_product_ids": "1,396,214,555",
+        "core_id": 791.0
+      }
+    },
+    {
+      "id": "variant-415d3f4c-4cc5-5cc9-9229-84cf4ef1c9ae",
+      "score": 0.8430907,
+      "metadata": {
+        "text": "core_product_name: electric wire | material: Copper",
+        "raw_product_name": "ELECTRIC COPPER WIRE",
+        "list_of_product_ids": "211,542,115,028,492",
+        "core_id": 688.0
+      }
+    },
+    {
+      "id": "variant-accb30cd-95a1-5192-91a8-1f932f8e1a69",
+      "score": 0.84284526,
+      "metadata": {
+        "text": "core_product_name: flexible wire | material: Copper",
+        "raw_product_name": "FLEXIBLE COPPER WIRES",
+        "list_of_product_ids": "136,081,478,520,094",
+        "core_id": 912.0
+      }
+    },
+    {
+      "id": "variant-76f2380b-e820-5790-96f0-0815dbd8e1a4",
+      "score": 0.8404904,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper | construction_features: PVC (Polyvinyl Chloride) coated",
+        "raw_product_name": "COPPER TUBE (PVC COATED)",
+        "list_of_product_ids": "16380,16442,16464,16437",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-d01e7f04-41a2-5983-a7cb-2052b99c5edb",
+      "score": 0.84032875,
+      "metadata": {
+        "text": "core_product_name: control cable | protection_features: Fire Survival",
+        "raw_product_name": "CONTROL CABLE - FIRE SURVIVAL",
+        "list_of_product_ids": "6424,5594,10194,10666,11369,11371,12120,13290,15814,17323,17783,23993,23862",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-1c2b8fdb-3ab1-5869-b71b-d009d023377b",
+      "score": 0.8375918,
+      "metadata": {
+        "text": "core_product_name: signal cable | protection_features: Fire Resistant",
+        "raw_product_name": "SIGNAL CABLE - FIRE RESISTANT",
+        "list_of_product_ids": "6482,5653,10413,10664,12117,13288,13294,17776,17788,23870,24034,38767,38585,38611,38690,38715,38639,38826,38662,38858,38900,38926,38741,38963,38990,39018,39047,39086,39116,39162,39206,39245,39280,39326,39362,39391,39421,39472,39554,39527,39616,39592,39644,39678,39718,39788,39816,39887",
+        "core_id": 826.0
+      }
+    },
+    {
+      "id": "variant-b90e4959-0e4c-5eb5-9820-fa2c177b2ecd",
+      "score": 0.8355245,
+      "metadata": {
+        "text": "core_product_name: pipe-frp (fiber reinforced plastic)",
+        "raw_product_name": "PIPE-FRP",
+        "list_of_product_ids": "6298,5469,10648,8088,8076,8814,12261,12381,8812,12536,13160,13175,13190,13203,13169,13184,13339,17880",
+        "core_id": 1669.0
+      }
+    },
+    {
+      "id": "variant-b2fd74a4-89f2-5719-ba63-b6451df8aa47",
+      "score": 0.8352745,
+      "metadata": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": "32910,32911,33009,33041,33195,33260,33562,33633,35922",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-852e0cf7-491f-5120-8c23-037d62b5cec0",
+      "score": 0.83456033,
+      "metadata": {
+        "text": "core_product_name: solid conductor | material: Copper",
+        "raw_product_name": "SOLID COPPER CONDUCTOR",
+        "list_of_product_ids": "180,781,807,918,591",
+        "core_id": 2063.0
+      }
+    },
+    {
+      "id": "variant-f8a1ee85-e2d7-59eb-a075-771e231186d7",
+      "score": 0.8342475,
+      "metadata": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC Conduit",
+        "list_of_product_ids": "16287,17401,21575,16288",
+        "core_id": 442.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.8339129,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    },
+    {
+      "id": "variant-6d36d78e-c720-5c26-ab98-438d4edfd3fb",
+      "score": 0.83247995,
+      "metadata": {
+        "text": "core_product_name: fire survival cable | protection_features: Fire Survival",
+        "raw_product_name": "Fire Survival Cables",
+        "list_of_product_ids": "18687,18691,18690,18689,18688,19017,24074,21256,21579,21615,21624,21596,23926,38742,38663,38768,36637,38586,38127,38612,38136,38716,38640,38827,38859,38901,38927,38691,38964,38991,39019,39048,39087,39117,39164,39207,39246,39281,39327,39363,39392,39422,39473,39528,39555,39593,39617,39645,39679,39719,39789,39817,39888",
+        "core_id": 998.0
+      }
+    },
+    {
+      "id": "variant-501f4268-336a-5e01-af3e-8edf7d0a9e1c",
+      "score": 0.832283,
+      "metadata": {
+        "text": "core_product_name: fire proofing material | protection_features: Fireproof",
+        "raw_product_name": "FIRE PROOFING MATERIAL",
+        "list_of_product_ids": "38658,38561,38562,38566",
+        "core_id": 856.0
+      }
+    },
+    {
+      "id": "variant-185b88e9-63b7-56a0-9df9-801c2285f4c5",
+      "score": 0.83208096,
+      "metadata": {
+        "text": "core_product_name: fitting | standards_and_approvals: IS (Indian Standards)-1239",
+        "raw_product_name": "FITTINGS TO IS-1239",
+        "list_of_product_ids": "14270,14771,33994,33993,33992,33991,33990",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-34b71fab-80fa-5d51-9106-d0f846a7d333",
+      "score": 0.8316851,
+      "metadata": {
+        "text": "core_product_name: conduit | acronymed_core_product_name: m.s. (mild steel) conduit | material: M.S. (Mild Steel) | standards_and_approvals: ISI (Indian Standards Institute)",
+        "raw_product_name": "M.S. CONDUIT ISI",
+        "list_of_product_ids": "20486,20544,20553,20584,20692,20750",
+        "core_id": 442.0
+      }
+    },
+    {
+      "id": "variant-0a5df05a-2bf4-5cb3-900c-892c94edd78e",
+      "score": 0.8315178,
+      "metadata": {
+        "text": "core_product_name: ball valve | protection_features: fire safe | standards_and_approvals: CCS (China Classification Society)",
+        "raw_product_name": "VALVE BALL FIRE SAFE-CCS",
+        "list_of_product_ids": "6241,5410,11559,11124,11628,11644,10430,11229,11269,11298,7861,7821,8285,8307,8630,8666,8680,12336,12434,12450,12551,12965,13271,16654,17678,19731,23743,21270,30058,32811,33378,33494,35479,36252,36405",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-05c9db43-5c4d-52ba-ab45-526ce58a2d3e",
+      "score": 0.8305951,
+      "metadata": {
+        "text": "core_product_name: thermal insulation",
+        "raw_product_name": "Thermal Insulation",
+        "list_of_product_ids": "7572,7247,11774,11775,7759,7755,7757,9770,12863,13002,13009,16997,17020,17014,34601",
+        "core_id": 2305.0
+      }
+    },
+    {
+      "id": "variant-fc5ea489-34d9-5f79-8a61-0e7e57a98756",
+      "score": 0.83058673,
+      "metadata": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards) 3589",
+        "raw_product_name": "PIPE-CARBON STEEL IS: 3589",
+        "list_of_product_ids": "15698,14000,21300,22746,22893,37056,37052,37057,37058,37059,37060,37061,37062",
+        "core_id": 529.0
+      }
+    },
+    {
+      "id": "variant-6f388475-f466-5ff3-ba8a-3d0e206bd2c6",
+      "score": 0.83009857,
+      "metadata": {
+        "text": "core_product_name: flameproof plug | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF PLUG",
+        "list_of_product_ids": "201,172,041,520,651",
+        "core_id": 897.0
+      }
+    },
+    {
+      "id": "variant-651e7de1-5940-5447-b20c-de1f1785c37c",
+      "score": 0.83006585,
+      "metadata": {
+        "text": "core_product_name: flameproof convenience outlet | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF - CONVENIENCE OUTLETS",
+        "list_of_product_ids": "19657,19639,19667,28279",
+        "core_id": 892.0
+      }
+    },
+    {
+      "id": "variant-8a64a31f-72ae-52f1-a05d-5aeaa094f84d",
+      "score": 0.8297925,
+      "metadata": {
+        "text": "core_product_name: cord belting | material: Steel | type_or_class: FR (Fire Resistant) Grade",
+        "raw_product_name": "STEEL CORD BELTING(FR GRADE)",
+        "list_of_product_ids": "1,406,114,556",
+        "core_id": 2113.0
+      }
+    },
+    {
+      "id": "variant-7d3babc0-7766-59e4-892d-3dc9f1d580bf",
+      "score": 0.8294181,
+      "metadata": {
+        "text": "core_product_name: flow duct",
+        "raw_product_name": "DUCT (FLOW)",
+        "list_of_product_ids": "21027,21026,21020,36684,27258",
+        "core_id": 637.0
+      }
+    },
+    {
+      "id": "variant-067779a2-122f-53f1-9469-d03371626e54",
+      "score": 0.82936686,
+      "metadata": {
+        "text": "core_product_name: pipe insulation",
+        "raw_product_name": "PIPE INSULATION",
+        "list_of_product_ids": "13921,16092,16635,16633,18103,23466,23458,34600",
+        "core_id": 1662.0
+      }
+    },
+    {
+      "id": "variant-742bde15-cd17-5ab1-9705-cb646d9256c3",
+      "score": 0.82922095,
+      "metadata": {
+        "text": "core_product_name: induction motor | type_or_class: M.V (Medium Voltage) | protection_features: Flame Proof",
+        "raw_product_name": "MOTOR-INDUCTION-M.V (FLAME PROOF)",
+        "list_of_product_ids": "6405,5576,11381,11386,9418,24531,24530",
+        "core_id": 1506.0
+      }
+    },
+    {
+      "id": "variant-361f0a6c-be07-52cd-995f-85d382c94f3b",
+      "score": 0.82893443,
+      "metadata": {
+        "text": "core_product_name: thermocouple wire",
+        "raw_product_name": "THERMOCOUPLE WIRE",
+        "list_of_product_ids": "220,072,203,322,053",
+        "core_id": 2243.0
+      }
+    }
+  ]
+}

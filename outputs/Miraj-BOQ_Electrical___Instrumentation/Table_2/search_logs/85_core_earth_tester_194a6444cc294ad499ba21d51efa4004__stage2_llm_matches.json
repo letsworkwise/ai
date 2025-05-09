@@ -1,0 +1,48 @@
+{
+  "query": "core_product_name: earth tester",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": [
+          "24296",
+          "20768",
+          "20767",
+          "24283"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: test and measuring equipment",
+        "raw_product_name": "Test & Measuring Equipment",
+        "list_of_product_ids": [
+          "1",
+          "401",
+          "515",
+          "286"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": [
+          "22280",
+          "22279",
+          "22278",
+          "27344",
+          "30010"
+        ]
+      }
+    }
+  ]
+}

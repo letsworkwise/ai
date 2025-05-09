@@ -1,0 +1,526 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.92787385,
+      "text": "core_product_name: diesel engine",
+      "core_id": 587.0,
+      "raw_product_name": "SHIP REPAIR - DIESEL ENGINE",
+      "list_of_product_ids": [
+        "29474",
+        "29300",
+        "29297",
+        "29296",
+        "29294"
+      ]
+    },
+    {
+      "retrieval_score": 0.9275109,
+      "text": "core_product_name: diesel engine | material: Diesel",
+      "core_id": 587.0,
+      "raw_product_name": "DIESEL ENGINE",
+      "list_of_product_ids": [
+        "5929",
+        "6758",
+        "9157",
+        "9179",
+        "9186",
+        "12065",
+        "12352",
+        "17023",
+        "18042",
+        "18173",
+        "18745",
+        "23643",
+        "31968",
+        "37415",
+        "36856",
+        "35964",
+        "37405"
+      ]
+    },
+    {
+      "retrieval_score": 0.9228925,
+      "text": "core_product_name: diesel generating set",
+      "core_id": 584.0,
+      "raw_product_name": "DIESEL GENERATING SET",
+      "list_of_product_ids": [
+        "19330",
+        "19331",
+        "19332",
+        "19339",
+        "19615",
+        "24361",
+        "24360",
+        "26864",
+        "39715",
+        "39840",
+        "39911"
+      ]
+    },
+    {
+      "retrieval_score": 0.9108484,
+      "text": "core_product_name: for diesel engine spare | accessories_or_attachments: for diesel engine",
+      "core_id": 2073.0,
+      "raw_product_name": "SPARES FOR DIESEL ENGINE",
+      "list_of_product_ids": [
+        "19623",
+        "19622",
+        "19619",
+        "19618",
+        "27547",
+        "37917"
+      ]
+    },
+    {
+      "retrieval_score": 0.90691274,
+      "text": "core_product_name: diesel centrifuge",
+      "core_id": 651.0,
+      "raw_product_name": "Diesel Centrifuge",
+      "list_of_product_ids": [
+        "1",
+        "857",
+        "727",
+        "068"
+      ]
+    },
+    {
+      "retrieval_score": 0.9035824,
+      "text": "core_product_name: emergency diesel generator",
+      "core_id": 738.0,
+      "raw_product_name": "EMERGENCY DIESEL GENERATOR",
+      "list_of_product_ids": [
+        "13916",
+        "20008",
+        "36889",
+        "39841"
+      ]
+    },
+    {
+      "retrieval_score": 0.8964867,
+      "text": "core_product_name: engine",
+      "core_id": 748.0,
+      "raw_product_name": "ENGINE",
+      "list_of_product_ids": [
+        "13931",
+        "18581",
+        "21040",
+        "21827",
+        "36855"
+      ]
+    },
+    {
+      "retrieval_score": 0.8954387,
+      "text": "core_product_name: gas engine",
+      "core_id": 1029.0,
+      "raw_product_name": "GAS ENGINES",
+      "list_of_product_ids": [
+        "19281",
+        "19275",
+        "20424",
+        "20399",
+        "20491",
+        "20450",
+        "36674"
+      ]
+    },
+    {
+      "retrieval_score": 0.8944508,
+      "text": "core_product_name: diesel generator set | acronymed_core_product_name: dg set",
+      "core_id": 580.0,
+      "raw_product_name": "DG SET",
+      "list_of_product_ids": [
+        "6759",
+        "5930",
+        "11563",
+        "11249",
+        "11480",
+        "11481",
+        "12066",
+        "12143",
+        "19225",
+        "19228",
+        "18329",
+        "18370",
+        "19210",
+        "19197",
+        "19624",
+        "19620",
+        "23641",
+        "23642",
+        "23796",
+        "23856",
+        "23656"
+      ]
+    },
+    {
+      "retrieval_score": 0.88813215,
+      "text": "core_product_name: signal distributor",
+      "core_id": 2023.0,
+      "raw_product_name": "SIGNAL DISTRIBUTORS",
+      "list_of_product_ids": [
+        "13943",
+        "15212",
+        "20873",
+        "22615"
+      ]
+    },
+    {
+      "retrieval_score": 0.8876315,
+      "text": "core_product_name: repair and servicing diesel generator set | acronymed_core_product_name: dg set",
+      "core_id": 581.0,
+      "raw_product_name": "DG SET REPAIR & SERVICING",
+      "list_of_product_ids": [
+        "24662",
+        "24660",
+        "24659",
+        "26794"
+      ]
+    },
+    {
+      "retrieval_score": 0.88726324,
+      "text": "core_product_name: diode",
+      "core_id": 601.0,
+      "raw_product_name": "DIODE",
+      "list_of_product_ids": [
+        "164",
+        "311",
+        "647",
+        "122",
+        "293"
+      ]
+    },
+    {
+      "retrieval_score": 0.88499445,
+      "text": "core_product_name: engine servicing",
+      "core_id": 751.0,
+      "raw_product_name": "ENGINE SERVICING",
+      "list_of_product_ids": [
+        "24306",
+        "24359",
+        "24308",
+        "26865"
+      ]
+    },
+    {
+      "retrieval_score": 0.88494635,
+      "text": "core_product_name: crude desalter",
+      "core_id": 516.0,
+      "raw_product_name": "CRUDE DESALTER",
+      "list_of_product_ids": [
+        "6153",
+        "5323",
+        "33393",
+        "33810"
+      ]
+    },
+    {
+      "retrieval_score": 0.88459396,
+      "text": "core_product_name: fluid power equipment",
+      "core_id": 949.0,
+      "raw_product_name": "FLUID POWER EQUIPMENT",
+      "list_of_product_ids": [
+        "1",
+        "364",
+        "936",
+        "946"
+      ]
+    },
+    {
+      "retrieval_score": 0.8845291,
+      "text": "core_product_name: diffuser",
+      "core_id": 588.0,
+      "raw_product_name": "DIFFUSERS",
+      "list_of_product_ids": [
+        "15543",
+        "15555",
+        "13642",
+        "15563"
+      ]
+    },
+    {
+      "retrieval_score": 0.8845091,
+      "text": "core_product_name: starter",
+      "core_id": 608.0,
+      "raw_product_name": "STARTERS",
+      "list_of_product_ids": [
+        "20786",
+        "20780",
+        "20781",
+        "21197",
+        "21194",
+        "27047"
+      ]
+    },
+    {
+      "retrieval_score": 0.8844817,
+      "text": "core_product_name: drive turbine",
+      "core_id": 626.0,
+      "raw_product_name": "DRIVE TURBINE",
+      "list_of_product_ids": [
+        "13714",
+        "15264",
+        "15237",
+        "21580"
+      ]
+    },
+    {
+      "retrieval_score": 0.8843498,
+      "text": "core_product_name: oil level indicator",
+      "core_id": 1582.0,
+      "raw_product_name": "OIL LEVEL INDICATOR",
+      "list_of_product_ids": [
+        "21633",
+        "21630",
+        "21639",
+        "21757"
+      ]
+    },
+    {
+      "retrieval_score": 0.88412964,
+      "text": "core_product_name: disc",
+      "core_id": 594.0,
+      "raw_product_name": "DISC",
+      "list_of_product_ids": [
+        "20135",
+        "20446",
+        "20421",
+        "20468",
+        "20509",
+        "20643"
+      ]
+    },
+    {
+      "retrieval_score": 0.88398796,
+      "text": "core_product_name: oil temperature indicator",
+      "core_id": 1590.0,
+      "raw_product_name": "OIL TEMPERATURE INDICATOR",
+      "list_of_product_ids": [
+        "6466",
+        "5637",
+        "15947",
+        "16111"
+      ]
+    },
+    {
+      "retrieval_score": 0.8839742,
+      "text": "core_product_name: silo",
+      "core_id": 1102.0,
+      "raw_product_name": "SILOS",
+      "list_of_product_ids": [
+        "5976",
+        "5148",
+        "9614",
+        "19436",
+        "21985",
+        "33352",
+        "33381",
+        "36304"
+      ]
+    },
+    {
+      "retrieval_score": 0.8836172,
+      "text": "core_product_name: deaerator",
+      "core_id": 562.0,
+      "raw_product_name": "DEAERATOR",
+      "list_of_product_ids": [
+        "1",
+        "362",
+        "621",
+        "581"
+      ]
+    },
+    {
+      "retrieval_score": 0.8835068,
+      "text": "core_product_name: motor",
+      "core_id": 556.0,
+      "raw_product_name": "Motors",
+      "list_of_product_ids": [
+        "6407",
+        "5578",
+        "11169",
+        "11344",
+        "10182",
+        "11378",
+        "11384",
+        "12243",
+        "12377",
+        "14875",
+        "15882",
+        "16439",
+        "19757",
+        "24028",
+        "21986",
+        "23476",
+        "23490",
+        "39314",
+        "36618",
+        "34590",
+        "34595",
+        "34593",
+        "34594",
+        "34625",
+        "34626",
+        "34627",
+        "34628",
+        "34632",
+        "34633",
+        "34634",
+        "34635",
+        "34636",
+        "34637",
+        "34638",
+        "34639",
+        "34640",
+        "34646",
+        "34881",
+        "34909",
+        "34908",
+        "34907",
+        "34906",
+        "34905",
+        "34919",
+        "34918",
+        "34917",
+        "34916",
+        "34915",
+        "34914",
+        "34913",
+        "34912",
+        "34911",
+        "34910",
+        "34920",
+        "34929",
+        "34928",
+        "34927",
+        "34926",
+        "34921",
+        "34924",
+        "34923",
+        "34925",
+        "34922",
+        "35146",
+        "35152",
+        "35188",
+        "35214",
+        "35270",
+        "35322",
+        "35323",
+        "35443",
+        "35448",
+        "35665",
+        "35680",
+        "35688",
+        "35875",
+        "35873",
+        "35955",
+        "35971",
+        "40181",
+        "40232"
+      ]
+    },
+    {
+      "retrieval_score": 0.8834556,
+      "text": "core_product_name: oil level controller",
+      "core_id": 1583.0,
+      "raw_product_name": "OIL LEVEL CONTROLLER",
+      "list_of_product_ids": [
+        "21631",
+        "21640",
+        "21635",
+        "21756"
+      ]
+    },
+    {
+      "retrieval_score": 0.88323635,
+      "text": "core_product_name: lubricant",
+      "core_id": 1406.0,
+      "raw_product_name": "LUBRICANT",
+      "list_of_product_ids": [
+        "24974",
+        "24972",
+        "24970",
+        "26774"
+      ]
+    },
+    {
+      "retrieval_score": 0.88318866,
+      "text": "core_product_name: bioethanol",
+      "core_id": 206.0,
+      "raw_product_name": "BIOETHANOL",
+      "list_of_product_ids": [
+        "370",
+        "533",
+        "702",
+        "337",
+        "019"
+      ]
+    },
+    {
+      "retrieval_score": 0.8826453,
+      "text": "core_product_name: transformer oil",
+      "core_id": 2271.0,
+      "raw_product_name": "TRANSFORMER OIL",
+      "list_of_product_ids": [
+        "199",
+        "521",
+        "995",
+        "127",
+        "635"
+      ]
+    },
+    {
+      "retrieval_score": 0.88236016,
+      "text": "core_product_name: pipe",
+      "core_id": 241.0,
+      "raw_product_name": "PIPES",
+      "list_of_product_ids": [
+        "6282",
+        "5452",
+        "11043",
+        "10725",
+        "11044",
+        "10336",
+        "10697",
+        "6906",
+        "7716",
+        "7718",
+        "7717",
+        "7719",
+        "8063",
+        "8065",
+        "8062",
+        "8064",
+        "12663",
+        "12664",
+        "12667",
+        "12668",
+        "12671",
+        "13024",
+        "13026",
+        "13028",
+        "13123",
+        "13316",
+        "16445",
+        "36935",
+        "33427",
+        "33428",
+        "33429",
+        "33430",
+        "33431",
+        "33602"
+      ]
+    },
+    {
+      "retrieval_score": 0.88236016,
+      "text": "core_product_name: pipe",
+      "core_id": 241.0,
+      "raw_product_name": "Pipes for optimizing pipelines",
+      "list_of_product_ids": [
+        "759",
+        "172",
+        "668",
+        "032"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: led fixture | feature_or_specifications: type: street light, driver: integral",
+  "retrieval_results": [
+    {
+      "id": "variant-cf977c7c-e368-56f7-9ce9-23eb8659bb38",
+      "score": 0.86525196,
+      "metadata": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": "13606,16555,16546,16591,16576,17657,17650,17702,17682,18058,20306,20834,21315,22108,23384,35044",
+        "core_id": 1006.0
+      }
+    },
+    {
+      "id": "variant-eb58eb3c-f1fc-59ff-ba71-ccf7d770f771",
+      "score": 0.86510694,
+      "metadata": {
+        "text": "core_product_name: incandescent lighting fixture",
+        "raw_product_name": "INCANDESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19026,19024,19022,19020,19163",
+        "core_id": 1228.0
+      }
+    },
+    {
+      "id": "variant-4fb06b11-26b4-5061-9d90-55082e9f8959",
+      "score": 0.86135226,
+      "metadata": {
+        "text": "core_product_name: street light pole",
+        "raw_product_name": "STREET LIGHT POLES",
+        "list_of_product_ids": "241,872,418,827,640",
+        "core_id": 2127.0
+      }
+    },
+    {
+      "id": "variant-94f0b75a-b8d8-5fb4-9863-864b99a3a23a",
+      "score": 0.85980564,
+      "metadata": {
+        "text": "core_product_name: solar street lighting",
+        "raw_product_name": "SOLAR STREET LIGHTING",
+        "list_of_product_ids": "13982,17713,17709,17767,18696,37006,34978,35048",
+        "core_id": 2059.0
+      }
+    },
+    {
+      "id": "variant-e86062e6-2903-51eb-9c92-a29d8a2c92b5",
+      "score": 0.8574412,
+      "metadata": {
+        "text": "core_product_name: fluorescent lighting fixture",
+        "raw_product_name": "FLUORESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19025,19023,19021,19019,19164",
+        "core_id": 951.0
+      }
+    },
+    {
+      "id": "variant-5ce39e66-51d3-5c8d-8399-07e58423611b",
+      "score": 0.8549395,
+      "metadata": {
+        "text": "core_product_name: tube light fixture",
+        "raw_product_name": "TUBE LIGHT FIXTURES",
+        "list_of_product_ids": "139,811,494,021,021",
+        "core_id": 2282.0
+      }
+    },
+    {
+      "id": "variant-c67f99b2-1581-533a-bfd9-79e30811dae4",
+      "score": 0.8523628,
+      "metadata": {
+        "text": "core_product_name: navigational light",
+        "raw_product_name": "NAVIGATIONAL LIGHTS",
+        "list_of_product_ids": "28223,28249,28222,28221,28220",
+        "core_id": 1537.0
+      }
+    },
+    {
+      "id": "variant-370c43d3-b815-5435-9810-24d97f958927",
+      "score": 0.85180604,
+      "metadata": {
+        "text": "core_product_name: indicating lamp fitting",
+        "raw_product_name": "INDICATING LAMP FITTING",
+        "list_of_product_ids": "20128,20443,20418,20465,20506,20645",
+        "core_id": 1232.0
+      }
+    },
+    {
+      "id": "variant-73f845ce-e1a7-568a-a0af-b33495fdb172",
+      "score": 0.85144746,
+      "metadata": {
+        "text": "core_product_name: lighting transformer | type_or_class: Dry Type",
+        "raw_product_name": "DRY TYPE LIGHTING TRANSFORMERS",
+        "list_of_product_ids": "5632,6461,7931,15572,15561,15581,15616,15617,15583,15567,15611,15585,15622,15578,15559,18301,18872,18918",
+        "core_id": 635.0
+      }
+    },
+    {
+      "id": "variant-1a654752-870e-5c3a-958f-e8464036d7ab",
+      "score": 0.8507637,
+      "metadata": {
+        "text": "core_product_name: lighting transformer",
+        "raw_product_name": "LIGHTING TRANSFORMERS",
+        "list_of_product_ids": "17731,17727,18659,19486,35388",
+        "core_id": 635.0
+      }
+    },
+    {
+      "id": "variant-2e53d84e-e3e8-5b7a-9692-1dff85b1b95f",
+      "score": 0.84984374,
+      "metadata": {
+        "text": "core_product_name: aviation marker lighting fixture | type_or_class: Div.2 (Division 2)",
+        "raw_product_name": "Div.2 Aviation Marker Lighting Fixtures",
+        "list_of_product_ids": "18715,18711,19014,37433",
+        "core_id": 659.0
+      }
+    },
+    {
+      "id": "variant-4e0ba911-cbe0-52b3-9940-995ea28ba1f7",
+      "score": 0.849422,
+      "metadata": {
+        "text": "core_product_name: electric light fitting | accessories_or_attachments: accessories",
+        "raw_product_name": "ELECTRIC LIGHT FITTINGS (COMM) & ACCESSORIES",
+        "list_of_product_ids": "208,382,083,728,502",
+        "core_id": 704.0
+      }
+    },
+    {
+      "id": "variant-6f5ecfa8-6693-52e0-8ba6-d305343e1ef8",
+      "score": 0.8484984,
+      "metadata": {
+        "text": "core_product_name: inline inductor",
+        "raw_product_name": "INLINE INDUCTORS",
+        "list_of_product_ids": "6029,5208,8476,8737,16410,23830",
+        "core_id": 1250.0
+      }
+    },
+    {
+      "id": "variant-a807b261-d030-557d-80c2-edb07d018ba1",
+      "score": 0.8482613,
+      "metadata": {
+        "text": "core_product_name: accessory lighting fixture | protection_features: Non Hazardous",
+        "raw_product_name": "LIGHTING FIXTURE & ACCESORY-NON HZARDOUS",
+        "list_of_product_ids": "5630,6459,10568,10188,10179,19512,19508,19540,26082",
+        "core_id": 1352.0
+      }
+    },
+    {
+      "id": "variant-2871fae9-7edc-5be1-b153-13a90cdb9355",
+      "score": 0.847911,
+      "metadata": {
+        "text": "core_product_name: lighting fixture | acronymed_core_product_name: LTG (Lighting) Fixtures | type_or_class: Fluorescent or Incandescent | type_or_class: Class-B",
+        "raw_product_name": "Fluorescent / Incandescent Class-“B” LTG Fixtures",
+        "list_of_product_ids": "18685,18686,18683,32299,18684,19018,35809,35860,35884,35937",
+        "core_id": 1006.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.84777987,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-1b90235e-1746-5b7a-a919-353235e01195",
+      "score": 0.8477038,
+      "metadata": {
+        "text": "core_product_name: proximity switch | type_or_class: Inductive",
+        "raw_product_name": "PROXIMITY SWITCHES (INDUCTIVE)",
+        "list_of_product_ids": "19091,19106,19087,36749,38450,36719",
+        "core_id": 1799.0
+      }
+    },
+    {
+      "id": "variant-0cb3d965-6b71-56dc-a522-f463c04698ee",
+      "score": 0.8466039,
+      "metadata": {
+        "text": "core_product_name: light fabricated component",
+        "raw_product_name": "LIGHT FABRICATED COMPONENT",
+        "list_of_product_ids": "26019,26018,26017,26690",
+        "core_id": 1347.0
+      }
+    },
+    {
+      "id": "variant-d3918fb3-1dcf-5330-9bbe-6452020c252d",
+      "score": 0.8465828,
+      "metadata": {
+        "text": "core_product_name: plumbing fitting and fixture",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+        "list_of_product_ids": "6364,5535,7874,12489,12648,12649,34680,34681",
+        "core_id": 1961.0
+      }
+    },
+    {
+      "id": "variant-8b814fd7-106f-5fd3-a273-6c9340ea527b",
+      "score": 0.84630066,
+      "metadata": {
+        "text": "core_product_name: interior",
+        "raw_product_name": "CONTROL ROOM INTERIOR",
+        "list_of_product_ids": "19384,19379,28261,38713",
+        "core_id": 458.0
+      }
+    },
+    {
+      "id": "variant-61dd7c63-23bb-5778-9571-2bd66ccc4a00",
+      "score": 0.8460721,
+      "metadata": {
+        "text": "core_product_name: strobe",
+        "raw_product_name": "STROBE",
+        "list_of_product_ids": "8899,8903,9848,9857,9866,8935,9078,9139",
+        "core_id": 2130.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.84456205,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-4899927d-b320-5265-8d88-74ca5f512243",
+      "score": 0.84427184,
+      "metadata": {
+        "text": "core_product_name: flame proof lighting fixture | protection_features: Flame proof | accessories_or_attachments: Accessories",
+        "raw_product_name": "FLAME PROOF LIGHTING FIXTURES & ACCESSORIES",
+        "list_of_product_ids": "13572,14602,14848,15164,15923,18858,22863,16552,35780",
+        "core_id": 890.0
+      }
+    },
+    {
+      "id": "variant-18909d01-ade7-5b6d-8f15-e409a6ab83ac",
+      "score": 0.844225,
+      "metadata": {
+        "text": "core_product_name: digital indicator",
+        "raw_product_name": "DIGITAL INDICATOR",
+        "list_of_product_ids": "1,365,123,180",
+        "core_id": 590.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.844149,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-e4b3d538-ba38-5529-966b-8ba26cabef70",
+      "score": 0.8440738,
+      "metadata": {
+        "text": "core_product_name: fitting and fixture | type_or_class: sanitary | type_or_class: plumbing | accessories_or_attachments: mirror or glass",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - MIRROR / GLASS",
+        "list_of_product_ids": "6365,5536,12516,17444,19499,34682",
+        "core_id": 1964.0
+      }
+    },
+    {
+      "id": "variant-e87ec355-3466-5d94-ab67-f0f6c7fde455",
+      "score": 0.8440176,
+      "metadata": {
+        "text": "core_product_name: inverter",
+        "raw_product_name": "INVERTER",
+        "list_of_product_ids": "16881,17800,17790,17898,18650,21385,21368,21357,21351,36614",
+        "core_id": 1290.0
+      }
+    },
+    {
+      "id": "variant-0e4d04c7-96ab-5803-96ea-fa89fe6f4c0f",
+      "score": 0.84281695,
+      "metadata": {
+        "text": "core_product_name: indicating pilot | type_or_class: HI-LO (High-Low) | construction_features: dial type",
+        "raw_product_name": "HI-LO PILOTS (INDICATING DIAL TYPE)",
+        "list_of_product_ids": "13816,38324,35544,36103",
+        "core_id": 1125.0
+      }
+    },
+    {
+      "id": "variant-570afd8d-9b8b-5bc7-bb07-f46fa5d847ac",
+      "score": 0.8428103,
+      "metadata": {
+        "text": "core_product_name: light | acronymed_core_product_name: led (light emitting diode) light | type_or_class: LED (Light Emitting Diode)",
+        "raw_product_name": "LED LIGHTS",
+        "list_of_product_ids": "36554,24238,24241,26878",
+        "core_id": 1326.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.84253395,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    }
+  ]
+}

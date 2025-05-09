@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: buffer tank | size: capacity: 990 LTR, wall: single | feature_or_specifications: feature: supply, installation, testing, commissioning",
+  "retrieval_results": [
+    {
+      "id": "variant-5f07eb39-d2d8-57c5-8d17-e9a296199a94",
+      "score": 0.8530284,
+      "metadata": {
+        "text": "core_product_name: site fabricated storage tank",
+        "raw_product_name": "SITE FABRICATED STORAGE TANKS",
+        "list_of_product_ids": "1,395,423,053",
+        "core_id": 2038.0
+      }
+    },
+    {
+      "id": "variant-1186d7ad-c268-5e27-872f-1f5ecf8a3d13",
+      "score": 0.8501663,
+      "metadata": {
+        "text": "core_product_name: storage tank",
+        "raw_product_name": "STORAGE TANK",
+        "list_of_product_ids": "20109,20123,20708,37075,35997,36142,36153,36284,36290,36303",
+        "core_id": 1376.0
+      }
+    },
+    {
+      "id": "variant-bef91277-0c1c-513b-a55c-9934dfd07641",
+      "score": 0.85008955,
+      "metadata": {
+        "text": "core_product_name: single chamber orifice fitting",
+        "raw_product_name": "SINGLE CHAMBER ORIFICE FITTINGS",
+        "list_of_product_ids": "20395,20396,20477,20471,20716,20658",
+        "core_id": 2035.0
+      }
+    },
+    {
+      "id": "variant-269e457b-4919-55be-a1a4-a830df6229e6",
+      "score": 0.84838396,
+      "metadata": {
+        "text": "core_product_name: water storage tank",
+        "raw_product_name": "WATER STORAGE TANK",
+        "list_of_product_ids": "157,901,585,615,871",
+        "core_id": 2451.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.84757346,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.8440604,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-b707a80a-d66c-5b5f-8be7-ce761b68fa83",
+      "score": 0.8434864,
+      "metadata": {
+        "text": "core_product_name: settling tank",
+        "raw_product_name": "SETTLING TANK",
+        "list_of_product_ids": "143,621,445,814,495",
+        "core_id": 2000.0
+      }
+    },
+    {
+      "id": "variant-a36a1d10-cd01-5381-be4c-5c59cd4524ec",
+      "score": 0.8432827,
+      "metadata": {
+        "text": "core_product_name: fabrication and supply bunker",
+        "raw_product_name": "BUNKER (FABRICATION & SUPPLY)",
+        "list_of_product_ids": "21044,21046,28516,36542,36543,36544",
+        "core_id": 255.0
+      }
+    },
+    {
+      "id": "variant-4a0320ce-349d-56b6-83d6-e53be458a6de",
+      "score": 0.8431211,
+      "metadata": {
+        "text": "core_product_name: tank insulation",
+        "raw_product_name": "TANK INSULATION",
+        "list_of_product_ids": "1,663,716,640",
+        "core_id": 2201.0
+      }
+    },
+    {
+      "id": "variant-a6cc56e6-ddcb-55f4-99f9-dcd15b9c0bac",
+      "score": 0.84311026,
+      "metadata": {
+        "text": "core_product_name: shop fabricated tank",
+        "raw_product_name": "SHOP FABRICATED TANK",
+        "list_of_product_ids": "7037,7364,11705,11497,12044,12854,13001,13072,15859,17343,22796,26143,37268,37271,37276,37278",
+        "core_id": 2018.0
+      }
+    },
+    {
+      "id": "variant-f3b10537-edba-50d7-87ba-01a555ee8df7",
+      "score": 0.8427384,
+      "metadata": {
+        "text": "core_product_name: buffer hopper",
+        "raw_product_name": "BUFFER HOPPER",
+        "list_of_product_ids": "1,451,814,523",
+        "core_id": 251.0
+      }
+    },
+    {
+      "id": "variant-7fbf3cec-6462-58ed-9e53-ad251c55f0d2",
+      "score": 0.8417045,
+      "metadata": {
+        "text": "core_product_name: fabrication and erection tank",
+        "raw_product_name": "TANK- FABRICATION & ERECTION",
+        "list_of_product_ids": "15608,15601,15609,15603,15740,15607,16536,34495,35835,35842,36083",
+        "core_id": 2206.0
+      }
+    },
+    {
+      "id": "variant-19d97951-bdf6-5c19-ac99-9a0583e7490a",
+      "score": 0.8411609,
+      "metadata": {
+        "text": "core_product_name: surge tank",
+        "raw_product_name": "Surge Tanks",
+        "list_of_product_ids": "7096,7423,11864,14457,14494,39468,39470",
+        "core_id": 2196.0
+      }
+    },
+    {
+      "id": "variant-a6103f7d-434d-59c3-b0c8-a5ad206ecb93",
+      "score": 0.8411174,
+      "metadata": {
+        "text": "core_product_name: gas metering system | special_attributes: dual chamber orifice",
+        "raw_product_name": "GAS METERING SYSTEM -DUAL CHAMBR ORIFICE",
+        "list_of_product_ids": "6614,5784,38506,38496",
+        "core_id": 1031.0
+      }
+    },
+    {
+      "id": "variant-371b3ece-a606-5c8d-9ec9-de52fb9e3846",
+      "score": 0.84034175,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper | construction_features: Coated | construction_features: Bare",
+        "raw_product_name": "COPPER TUBES(COATED,BARE)",
+        "list_of_product_ids": "6,487,565,818,967",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.8398064,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-ab6fb6ed-859d-5a8f-96b5-b82dbe88eb88",
+      "score": 0.8396675,
+      "metadata": {
+        "text": "core_product_name: pressure vessel tank",
+        "raw_product_name": "Pressure Vessel Tanks",
+        "list_of_product_ids": "19117,13874,19110,19095,17356,22231,22504,22501,22555,23201,19202,19192",
+        "core_id": 1842.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.83957946,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    },
+    {
+      "id": "variant-823a3033-c869-5b9d-b9d9-57681f7be79a",
+      "score": 0.83895266,
+      "metadata": {
+        "text": "core_product_name: sump tank",
+        "raw_product_name": "SUMP TANK",
+        "list_of_product_ids": "13925,18554,22902,16942",
+        "core_id": 2160.0
+      }
+    },
+    {
+      "id": "variant-d616fdf7-183f-5df7-a6c1-73cc02bab427",
+      "score": 0.8389448,
+      "metadata": {
+        "text": "core_product_name: flush door | construction_features: Prelaminated",
+        "raw_product_name": "PRELAMINATED FLUSH DOORS",
+        "list_of_product_ids": "21139,21132,28546,21078",
+        "core_id": 1764.0
+      }
+    },
+    {
+      "id": "variant-053579c3-3498-5b60-8344-1f2872278138",
+      "score": 0.8377941,
+      "metadata": {
+        "text": "core_product_name: painting tank",
+        "raw_product_name": "TANK - PAINTING WORK",
+        "list_of_product_ids": "168,882,781,434,496",
+        "core_id": 2198.0
+      }
+    },
+    {
+      "id": "variant-97c47e7e-d6e0-5d36-80a4-01f0fe6e1f26",
+      "score": 0.837563,
+      "metadata": {
+        "text": "core_product_name: heat exchanger | construction_features: plates-gasketted",
+        "raw_product_name": "HEAT EXCHANGER (PLATES-GASKETTED)",
+        "list_of_product_ids": "6669,5840,12278,8820,8817,8821,23059,37943,37962,37991,38013,38043,38348,38369,37896,38404,38423",
+        "core_id": 1110.0
+      }
+    },
+    {
+      "id": "variant-dc269b34-5fe6-52c8-b9e0-382ada3ea9ef",
+      "score": 0.8373503,
+      "metadata": {
+        "text": "core_product_name: tank | acronymed_core_product_name: tank (IBD) | type_or_class: IBD (Inlet Buffer Drum)",
+        "raw_product_name": "TANK(IBD)",
+        "list_of_product_ids": "21066,21115,21124,21141,21108,21216,21709,35683",
+        "core_id": 2205.0
+      }
+    },
+    {
+      "id": "variant-0f65ae9a-96f2-5688-a949-d7158ab2dd48",
+      "score": 0.8371252,
+      "metadata": {
+        "text": "core_product_name: quick connect fitting | construction_features: quick connect | construction_features: quick connect",
+        "raw_product_name": "FITTINGS-QUICK CONNECT BODY & STEM",
+        "list_of_product_ids": "229,102,291,128,622",
+        "core_id": 883.0
+      }
+    },
+    {
+      "id": "variant-e8a4d1eb-c4de-5d7d-acc6-5be564032217",
+      "score": 0.83642185,
+      "metadata": {
+        "text": "core_product_name: boiler structure | construction_features: welded",
+        "raw_product_name": "BOILER STRUCTURES (SUPPLY WELDED)",
+        "list_of_product_ids": "220,792,208,628,610",
+        "core_id": 224.0
+      }
+    },
+    {
+      "id": "variant-d3918fb3-1dcf-5330-9bbe-6452020c252d",
+      "score": 0.8362577,
+      "metadata": {
+        "text": "core_product_name: plumbing fitting and fixture",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+        "list_of_product_ids": "6364,5535,7874,12489,12648,12649,34680,34681",
+        "core_id": 1961.0
+      }
+    },
+    {
+      "id": "variant-49123560-ea61-5cc9-8cba-948cd6479642",
+      "score": 0.8362369,
+      "metadata": {
+        "text": "core_product_name: chemical storage and dosing system",
+        "raw_product_name": "CHEMICAL STORAGE & DOSING SYSTEM",
+        "list_of_product_ids": "7053,7380,17865,18358,21023,21294,21252,21316,37071,37082,39187,39201",
+        "core_id": 344.0
+      }
+    },
+    {
+      "id": "variant-4f7adc80-ee42-5a2b-922c-293dbf795a61",
+      "score": 0.8361719,
+      "metadata": {
+        "text": "core_product_name: boiler structure | construction_features: fabrication welded",
+        "raw_product_name": "BOILER STRUCTURES (FABRICATION WELDED)",
+        "list_of_product_ids": "220,852,208,027,812",
+        "core_id": 224.0
+      }
+    },
+    {
+      "id": "variant-40f5e806-4a91-59d6-8fea-bf521847066a",
+      "score": 0.8361498,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: Forged",
+        "raw_product_name": "VALVE CHECK FORGED",
+        "list_of_product_ids": "6231,5400,11625,11641,11223,11242,11255,9246,11448,9262,8280,8383,8555,8649,8626,9412,9451,9253,9166,9343,12098,12493,12572,12656,13266,13360,19382,19390,17623,17908,18030,19711,19860,31813,36763,32701",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-e0478912-c934-59e6-9c1e-16962d2b34e5",
+      "score": 0.836065,
+      "metadata": {
+        "text": "core_product_name: nitrogen receiver tank",
+        "raw_product_name": "NITROGEN RECEIVER TANK",
+        "list_of_product_ids": "15712,15715,15714,15789,15820,15901,16011,16047,16180,16568,16874,33334",
+        "core_id": 1549.0
+      }
+    }
+  ]
+}

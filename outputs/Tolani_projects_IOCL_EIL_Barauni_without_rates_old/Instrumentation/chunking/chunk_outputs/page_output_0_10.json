@@ -1,0 +1,168 @@
+{
+  "sheet_name": "Instrumentation",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "instrumentation | pressure instruments (excl. supply impulse pipe/tubing materials)",
+      "full_product_description": "Installation of Pressure Transmitters/ Pressure Switches (with or without Pulsation Dampener, Over-range Protector)/ Diaphragm seal type Pressure Transmitters/ Diaphragm seal type Pressure Switches including mounting on Yoke/  Surface,  supply of supports for capillary,  supply and erection of supports for impulse lines wherever required, fabrication and installation of manifolds/  impulse lines with supports as per Standard indicated below, laying of capillary on supports, hydraulic testing and painting of supports but exclusive of Supply of Instrument, Piping/tubing materials, all Electrical/ Pneumatic connections, Yoke and Calibration. In   Carbon Steel   as per Standard   7-52-1221",
+      "core_product_name": "installation of pressure transmitters or pressure switches or diaphragm seal type pressure transmitters or diaphragm seal type pressure switches",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "mounting: yoke or surface, supports: for capillary and impulse lines, fabrication: manifolds and impulse lines, testing: hydraulic, painting: supports, exclusion: supply of instrument, piping/tubing materials, all electrical/pneumatic connections, yoke and calibration, material: carbon steel, standard: 7-52-1221",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | radar level instruments",
+      "full_product_description": "Installation of radar sensor and antenna, flanged type connection on equipment nozzle/ rail mounting with/without still well, but exclusive of supply of instruments. Installation of electronics units (total system for indication, transmission, marshalling etc. for one tank), including mounting on Yoke, supply of angle tray with supports, fabrication and erection of supports and laying of cable up to instrument/probe with clamps, termination of cables at both ends, but exclusive of supply of Instruments, supply of yokes and Calibration. Installation of Top Mounted Radar",
+      "core_product_name": "installation of radar sensor and antenna",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "connection: flanged, mounting: equipment nozzle or rail, inclusion: installation of electronics units (system for indication, transmission, marshalling for one tank), mounting: yoke, supply: angle tray with supports, fabrication: supports, cable laying: up to instrument/probe with clamps, cable termination: both ends, exclusion: supply of instruments, supply of yokes, calibration",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | radar level instruments",
+      "full_product_description": "Installation of radar sensor and antenna, flanged type connection on equipment nozzle/ rail mounting with/without still well, but exclusive of supply of instruments. Installation of electronics units (total system for indication, transmission, marshalling etc. for one tank), including mounting on Yoke, supply of angle tray with supports, fabrication and erection of supports and laying of cable up to instrument/probe with clamps, termination of cables at both ends, but exclusive of supply of Instruments, supply of yokes and Calibration. Installation of Still well (8\") of Carbon/Stainless steel",
+      "core_product_name": "installation of radar sensor and antenna",
+      "acronymed_core_product_name": "",
+      "size": "still well diameter: 8\"",
+      "feature_or_specifications": "connection: flanged, mounting: equipment nozzle or rail, inclusion: installation of electronics units (system for indication, transmission, marshalling for one tank), mounting: yoke, supply: angle tray with supports, fabrication: supports, cable laying: up to instrument/probe with clamps, cable termination: both ends, exclusion: supply of instruments, supply of yokes, calibration, material: carbon steel or stainless steel",
+      "quantity": "9.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      0,
+      9
+    ],
+    "original_rows": [
+      {
+        "0": 242,
+        "1": 0,
+        "2": "01II",
+        "3": "INSTRUMENTATION",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 243,
+        "1": 0,
+        "2": "01II.30",
+        "3": "PRESSURE INSTRUMENTS (Excl. supply Impulse pipe/Tubing materials)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 244,
+        "1": 0,
+        "2": "01II.30.10",
+        "3": "Installation of Pressure Transmitters/ Pressure Switches (with or without Pulsation Dampener, Over-range Protector)/ Diaphragm seal type Pressure Transmitters/ Diaphragm seal type Pressure Switches including mounting on Yoke/  Surface,  supply of supports for capillary,  supply and erection of supports for impulse lines wherever required, fabrication and installation of manifolds/  impulse lines with supports as per Standard indicated below, laying of capillary on supports, hydraulic testing and painting of supports but exclusive of Supply of Instrument, Piping/tubing materials, all Electrical/ Pneumatic connections, Yoke and Calibration.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 245,
+        "1": 0,
+        "2": "01II.30.10.1V31",
+        "3": "In   Carbon Steel   as per Standard   7-52-1221",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 246,
+        "1": 0,
+        "2": "01II.260",
+        "3": "RADAR LEVEL INSTRUMENTS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 247,
+        "1": 0,
+        "2": "01II.260.10",
+        "3": "Installation of radar sensor and antenna, flanged type connection on equipment nozzle/ rail mounting with/without still well, but exclusive of supply of instruments. Installation of electronics units (total system for indication, transmission, marshalling etc. for one tank), including mounting on Yoke, supply of angle tray with supports, fabrication and erection of supports and laying of cable up to instrument/probe with clamps, termination of cables at both ends, but exclusive of supply of Instruments, supply of yokes and Calibration.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 248,
+        "1": 0,
+        "2": "01II.260.10.2",
+        "3": "Installation of Top Mounted Radar",
+        "4": 9.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 249,
+        "1": 0,
+        "2": "01II.260.10.4",
+        "3": "Installation of Still well (8\") of Carbon/Stainless steel",
+        "4": 9.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 250,
+        "1": 0,
+        "2": "01II.297",
+        "3": "DISMANTLING OF EXISTING INSTRUMENTS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 251,
+        "1": 0,
+        "2": "01II.297.10",
+        "3": "Disconnection, Dismantling, removal of existing instruments with associated accessories presently installed on the equipment, associated piping, connecting stairs, structures/ stairways/ operating platforms, etc., which are getting dismantled/ modified and transportation of the same to stores as per tender specifications, approved drawings, and instruction of Engineer-in-charge. This also includes removal of impulse lines/ lead lines/ purge gas lines/ purge oil lines with pipe fittings, tubes, tube fittings, accessories, supports, trays, cables, cable glands, etc.,",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2382,
+    "completion_tokens": 1200
+  }
+}

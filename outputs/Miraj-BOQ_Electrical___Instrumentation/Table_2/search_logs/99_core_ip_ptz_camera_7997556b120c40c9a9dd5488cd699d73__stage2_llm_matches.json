@@ -1,0 +1,71 @@
+{
+  "query": "core_product_name: ip ptz camera | acronymed_core_product_name: ptz camera | size: resolution: 2MP, optical zoom: 30X HD, lens: 4.8 to 120 mm | feature_or_specifications: type: full HD, rating: IP66, day/night: CCD/CMOS, lens: motorised varifocal, sensor: progressive scan, feature: wide dynamic range, streaming: dual H.264 and M-JPEG, processing: digital signal processing, power: PoE and 12 VDC/24 VAC, protocol: ONVIF conformant, listing: UL (underwriters laboratories), POE enabled, accessories: IP66 connectors, lens, camera mounts, power supply, surge protectors, mounting bracket (same make as camera)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: closed circuit television | acronymed_core_product_name: cctv",
+        "raw_product_name": "CLOSED CIRCUIT TV",
+        "list_of_product_ids": [
+          "6592",
+          "5762",
+          "10914",
+          "10889",
+          "11962",
+          "12202",
+          "12473",
+          "16497",
+          "19259",
+          "19269",
+          "30476",
+          "31285",
+          "37696",
+          "37697",
+          "37705",
+          "37709",
+          "37713",
+          "40236",
+          "40237",
+          "40234",
+          "40235",
+          "40257"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: public address equipment | acronymed_core_product_name: pa equipment",
+        "raw_product_name": "PA EQUIPMENTS",
+        "list_of_product_ids": [
+          "980",
+          "898",
+          "159",
+          "862"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": [
+          "5954",
+          "6782",
+          "12132",
+          "14671",
+          "14679",
+          "18191",
+          "20174",
+          "36159"
+        ]
+      }
+    }
+  ]
+}

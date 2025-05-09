@@ -1,0 +1,43 @@
+{
+  "query": "core_product_name: grooved elbow | size: nominal bore: 25",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: elbow fitting",
+        "raw_product_name": "FITTINGS \u0013ELBOW",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: elbowlet",
+        "raw_product_name": "ELBOWLET",
+        "list_of_product_ids": [
+          "14395",
+          "14719",
+          "14722",
+          "14725",
+          "19815",
+          "22922"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: welded fitting",
+        "raw_product_name": "FITTINGS \u0013 AS WELDED",
+        "list_of_product_ids": []
+      }
+    }
+  ]
+}

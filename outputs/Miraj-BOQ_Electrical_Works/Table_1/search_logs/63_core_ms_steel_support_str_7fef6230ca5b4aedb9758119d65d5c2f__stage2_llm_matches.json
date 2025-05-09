@@ -1,0 +1,85 @@
+{
+  "query": "core_product_name: ms steel support structure | size: isa: 50x50x6 or 65x65x6, ismc: 75 or 100 or 125 or 150 or 200 | feature_or_specifications: material: ms (mild steel), finish: red oxide & gi (galvanized iron) painted",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: support structure",
+        "raw_product_name": "GANTRY AND EQUIPMENT SUPPORT STRUCTURE",
+        "list_of_product_ids": [
+          "17432",
+          "17331",
+          "17332",
+          "17347",
+          "17351",
+          "17358",
+          "17370",
+          "17376",
+          "17382",
+          "17400",
+          "17423",
+          "17424",
+          "17442",
+          "17449",
+          "17454",
+          "17521",
+          "17519",
+          "17648",
+          "17655",
+          "17706",
+          "17693",
+          "18666",
+          "17537",
+          "17710",
+          "32192",
+          "35981",
+          "35988"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: hollow section | material: Steel | type_or_class: Structural",
+        "raw_product_name": "STRUCTURAL STEEL ( HOLLOW SECTIONS)",
+        "list_of_product_ids": [
+          "9",
+          "526",
+          "954",
+          "613",
+          "014"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: flat | acronymed_core_product_name: m. s. flat (mild steel flat) | material: Mild Steel (M. S.)",
+        "raw_product_name": "MILD STEEL FLAT (M. S. FLAT)",
+        "list_of_product_ids": [
+          "17119",
+          "17126",
+          "17135",
+          "17133",
+          "17129",
+          "19597",
+          "33984",
+          "17156",
+          "35811"
+        ]
+      }
+    }
+  ]
+}

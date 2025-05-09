@@ -1,0 +1,95 @@
+{
+  "query": "core_product_name: pdb panel for tfms",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: power distribution board | acronymed_core_product_name: pdb (power distribution board)",
+        "raw_product_name": "POWER DISTRIBUTION BOARD (PDB)",
+        "list_of_product_ids": [
+          "13892",
+          "14644",
+          "14778",
+          "14809",
+          "17930",
+          "17917",
+          "17892",
+          "17949",
+          "17939",
+          "18026",
+          "18008",
+          "18049",
+          "20762",
+          "20761",
+          "27494"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (pdb (power distribution board))",
+        "raw_product_name": "A.C. DISTRIBUTION BOARD (PDB)",
+        "list_of_product_ids": [
+          "14164",
+          "14792",
+          "14811",
+          "19308"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: control panel",
+        "raw_product_name": "CONTROL PANEL",
+        "list_of_product_ids": [
+          "7620",
+          "10723",
+          "10724",
+          "7294",
+          "11348",
+          "10704",
+          "10706",
+          "10708",
+          "10709",
+          "10705",
+          "10707",
+          "7889",
+          "8210",
+          "16017",
+          "16030",
+          "16028",
+          "36914",
+          "16897",
+          "18294",
+          "18873",
+          "18919",
+          "19439",
+          "20784",
+          "20783",
+          "21195",
+          "24829",
+          "24817",
+          "24932",
+          "24943",
+          "21198",
+          "36654",
+          "36677",
+          "33483",
+          "33678",
+          "35056"
+        ]
+      }
+    }
+  ]
+}

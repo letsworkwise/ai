@@ -1,0 +1,64 @@
+{
+  "query": "core_product_name: hot dip galvanized pole | size: height: 8 M, cantilevers: one at 8 m & second at 1.5 M of 1.5 meter (above ground) | feature_or_specifications: foundation: included, painting: as per tender specifications, includes: supply, erection & fabrication of structural steel work for installation of JB & camera, painting: industrial grade",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: octagonal pole | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI-OCTAGONAL POLE",
+        "list_of_product_ids": [
+          "180",
+          "571",
+          "805",
+          "618",
+          "592"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: galvanized structure | material: Steel",
+        "raw_product_name": "GALVANIZED STEEL STRUCTURES",
+        "list_of_product_ids": [
+          "13697",
+          "16818",
+          "16886",
+          "16869",
+          "17140",
+          "18104",
+          "18096",
+          "22747"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: lattice structure | material: Galvanized Steel",
+        "raw_product_name": "GALVANIZED STEEL STRUCTURES- LATTICE",
+        "list_of_product_ids": [
+          "21292",
+          "21290",
+          "21283",
+          "21279",
+          "21265",
+          "21263",
+          "21311",
+          "21295",
+          "27932"
+        ]
+      }
+    }
+  ]
+}

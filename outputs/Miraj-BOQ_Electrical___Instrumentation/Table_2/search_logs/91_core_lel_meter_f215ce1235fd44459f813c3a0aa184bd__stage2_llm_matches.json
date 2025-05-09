@@ -1,0 +1,62 @@
+{
+  "query": "core_product_name: lel meter | size: range: 0~100 VOL% | feature_or_specifications: type: IR, response time: below 20 sec.",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: meter",
+        "raw_product_name": "METERS",
+        "list_of_product_ids": [
+          "6464",
+          "5635",
+          "9440",
+          "9449",
+          "9457",
+          "9465",
+          "9224",
+          "9223",
+          "20438",
+          "20412",
+          "20968"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: meter",
+        "raw_product_name": "WOBBE METERS",
+        "list_of_product_ids": [
+          "6564",
+          "5734",
+          "18968",
+          "37761",
+          "35704"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: indicating meter",
+        "raw_product_name": "INDICATING METERS",
+        "list_of_product_ids": [
+          "13682",
+          "14947",
+          "19149",
+          "19123",
+          "19142"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "query": "core_product_name: gas monitoring system | feature_or_specifications: controller: dual redundant (parallel/hot standby) wall mounted programmable logic controller (process plc), included: plc panels, input output modules, power supply units, relays with base, barriers, tbs(terminal blocks), dual ethernet ports per processor, serial interface modules, wirings, glands, plugs, other modules/hardware, spare requirements, licenses, tags, software, ai(analog input): 28 nos, di(digital input): 12 nos, do(digital output): 4 nos, serial interface ports: 4, additional 20% spare (min 1), panel: wall mounted, location: central monitoring hub (cmh), includes: all components, accessories, customization of reports",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: gas detection system",
+        "raw_product_name": "GAS DETECTION SYSTEMS",
+        "list_of_product_ids": [
+          "6549",
+          "5720",
+          "10456",
+          "11233",
+          "11243",
+          "10651",
+          "10650",
+          "11424",
+          "11422",
+          "11722",
+          "12817",
+          "12820",
+          "12819",
+          "13110",
+          "13111",
+          "18189",
+          "36733",
+          "35577",
+          "36091",
+          "36095"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire and gas detection system",
+        "raw_product_name": "FIRE & GAS DETECTION SYSTEMS",
+        "list_of_product_ids": [
+          "6550",
+          "5721",
+          "10943",
+          "10040",
+          "11234",
+          "11244",
+          "11420",
+          "11423",
+          "11421",
+          "11425",
+          "12425",
+          "12818",
+          "17482",
+          "17481",
+          "19831",
+          "29874",
+          "37765",
+          "37770",
+          "37775",
+          "37791",
+          "35578",
+          "36117",
+          "36233",
+          "36385",
+          "36457"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: programmable logic controller-fire and gas system | acronymed_core_product_name: PLC-FGS",
+        "raw_product_name": "PLC-FGS",
+        "list_of_product_ids": [
+          "13801",
+          "15110",
+          "20985",
+          "23214",
+          "36204",
+          "36353"
+        ]
+      }
+    }
+  ]
+}

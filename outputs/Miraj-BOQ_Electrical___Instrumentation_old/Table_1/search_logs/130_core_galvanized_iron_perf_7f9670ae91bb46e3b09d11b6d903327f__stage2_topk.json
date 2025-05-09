@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: galvanized iron perforated cable tray | acronymed_core_product_name: gi perforated cable tray | size: depth: 100 mm, thickness: 3 mm, width: 750 mm | feature_or_specifications: coating: zinc, coating thickness: 100 micron, accessories: bend, accessories: reducer, accessories: coupler plate, accessories: other hardware",
+  "retrieval_results": [
+    {
+      "id": "variant-5a518091-1505-5c53-a5e9-7c4a82cceeab",
+      "score": 0.90979993,
+      "metadata": {
+        "text": "core_product_name: perforated cable tray | acronymed_core_product_name: gi (galvanized iron) cable tray | material: GI (Galvanized Iron) | accessories_or_attachments: Accessories | type_or_class: Perforated",
+        "raw_product_name": "GI CABLE TRAYS AND ACCESSORIES (PERFORATED TYPE)",
+        "list_of_product_ids": "7301,7349,7899,17491,26434",
+        "core_id": 1054.0
+      }
+    },
+    {
+      "id": "variant-a9245aec-5b16-564d-ac03-7a12f88974c3",
+      "score": 0.89292425,
+      "metadata": {
+        "text": "core_product_name: cable tray | acronymed_core_product_name: gi cable tray | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI CABLE TRAYS",
+        "list_of_product_ids": "9939,9940,9943,9945,9944,9946,13481,15701,15731,15765,15788,15745,15824,18876,18922,15817,15848,15777,26430,32139",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-63fe34f4-fc4f-530c-b91a-36e72ebe079b",
+      "score": 0.8926904,
+      "metadata": {
+        "text": "core_product_name: flexible cable tray support system | acronymed_core_product_name: gi (galvanized iron) cable tray support system | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI FLEXIBLE CABLE TRAY SUPPORT SYSTEM",
+        "list_of_product_ids": "7302,7350,7900,16236,20193,16264",
+        "core_id": 1055.0
+      }
+    },
+    {
+      "id": "variant-c8b561b8-4147-5de5-8da2-00b0cd2ef9a0",
+      "score": 0.88987404,
+      "metadata": {
+        "text": "core_product_name: ladder cable tray | acronymed_core_product_name: gi (galvanized iron) cable trays | material: GI (Galvanized Iron) | accessories_or_attachments: Accessories | type_or_class: Ladder",
+        "raw_product_name": "GI CABLE TRAYS AND ACCESSORIES (LADDER TYPE)",
+        "list_of_product_ids": "7300,7348,7898,16218,16242,16233,16262,16774,16809,16865,17490,20192,16861",
+        "core_id": 1052.0
+      }
+    },
+    {
+      "id": "variant-aced03b4-d6e4-5165-b3cf-7a7e7de87bc6",
+      "score": 0.87107354,
+      "metadata": {
+        "text": "core_product_name: perforated cable tray",
+        "raw_product_name": "Perforrated Cable Tray",
+        "list_of_product_ids": "7,013,732,126,432",
+        "core_id": 1054.0
+      }
+    },
+    {
+      "id": "variant-67df8260-d86a-5d00-bc9a-a99f7703c14f",
+      "score": 0.8629465,
+      "metadata": {
+        "text": "core_product_name: galvanized iron pipe | acronymed_core_product_name: gi pipe",
+        "raw_product_name": "GI PIPE",
+        "list_of_product_ids": "15427,17238,17227,30897,30959,27363,28754,28918,28967,35290,35308,35313,39993",
+        "core_id": 1007.0
+      }
+    },
+    {
+      "id": "variant-b496a6b6-2141-5c21-b849-227068ae618b",
+      "score": 0.860924,
+      "metadata": {
+        "text": "core_product_name: sheet | acronymed_core_product_name: C.G.I. (corrugated galvanized iron) sheet | material: Corrugated Galvanized Iron | accessories_or_attachments: Accessories",
+        "raw_product_name": "ROOFING SHEETS & ACCESSORIES - C.G.I. SHEET",
+        "list_of_product_ids": "6359,5530,13015,15462,15847,17280,17099,35783",
+        "core_id": 132.0
+      }
+    },
+    {
+      "id": "variant-b29f45f6-c600-525a-969d-04357eb2ecc6",
+      "score": 0.8598053,
+      "metadata": {
+        "text": "core_product_name: cable tray | accessories_or_attachments: accessories",
+        "raw_product_name": "CABLE TRAYS & ACCESSORIES",
+        "list_of_product_ids": "14375,19396,19397,24231,19501,26433",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-b9b8d302-eb32-505d-ab46-ec618ebbffaa",
+      "score": 0.85951895,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | acronymed_core_product_name: gi (galvanized iron) pipe fittings | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI PIPE FITTINGS",
+        "list_of_product_ids": "137,342,283,228,756",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-78d4f458-5f1c-5e98-ae99-653602ddc2c8",
+      "score": 0.85538733,
+      "metadata": {
+        "text": "core_product_name: cable tray",
+        "raw_product_name": "CABLE TRAY",
+        "list_of_product_ids": "7297,7345,10639,10642,7895,7896,16219,18875,18921,19965,19975,24240,21182,21180,22148,26429",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-e97794e3-4158-5e4d-a167-1bc48ffc7e9c",
+      "score": 0.85372055,
+      "metadata": {
+        "text": "core_product_name: galvanized iron pipe | acronymed_core_product_name: gi pipe (galvanized iron pipe)",
+        "raw_product_name": "GALVANIZED IRON PIPES(GI)",
+        "list_of_product_ids": "7600,11065,7275,8051",
+        "core_id": 1007.0
+      }
+    },
+    {
+      "id": "variant-f13d17eb-f844-5c45-9d81-533c78f874e4",
+      "score": 0.8495417,
+      "metadata": {
+        "text": "core_product_name: cable tray | material: Fibre Glass",
+        "raw_product_name": "FIBRE GLASS CABLE TRAYS",
+        "list_of_product_ids": "7064,7391,10455,10640,10641,26435",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-076d4160-4b44-50c0-8db0-e89015678362",
+      "score": 0.8493132,
+      "metadata": {
+        "text": "core_product_name: flat | acronymed_core_product_name: g. i. flat (galvanized iron flat) | material: Galvanized Iron",
+        "raw_product_name": "GALVANIZED IRON FLAT (G. I. FLAT)",
+        "list_of_product_ids": "17147,17136,17122,17130,17127,17157,17158,27365,28915,35812",
+        "core_id": 1008.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.8484965,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-2c6d2fb0-4d65-53a0-9797-0709ec5bdacd",
+      "score": 0.8480435,
+      "metadata": {
+        "text": "core_product_name: earthing wire | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI EARTHING WIRE",
+        "list_of_product_ids": "13437",
+        "core_id": 1053.0
+      }
+    },
+    {
+      "id": "variant-744f1f9d-187a-5767-a160-1c829f9da1f4",
+      "score": 0.84768337,
+      "metadata": {
+        "text": "core_product_name: accessory | acronymed_core_product_name: ci (cast iron) accessory | material: Cast Iron",
+        "raw_product_name": "CI ACCESSORIES",
+        "list_of_product_ids": "20535,20612,20619,20573,20668,20726",
+        "core_id": 354.0
+      }
+    },
+    {
+      "id": "variant-bb96db43-a603-5b08-b082-1a787ab9db3c",
+      "score": 0.84750384,
+      "metadata": {
+        "text": "core_product_name: conduit accessory",
+        "raw_product_name": "CONDUIT ACCESSORIES",
+        "list_of_product_ids": "20550,20514,20591,20632,20686,20744",
+        "core_id": 439.0
+      }
+    },
+    {
+      "id": "variant-a625472d-0256-59f3-9ecf-b952f316c7e4",
+      "score": 0.84723103,
+      "metadata": {
+        "text": "core_product_name: roofing sheet | material: Precoated | construction_features: Profiled | material: G.I. (Galvanized Iron) | material: Galvalume | material: Zincalume | accessories_or_attachments: Accessories",
+        "raw_product_name": "ROOFING SHEETS & ACCESSORIES - PRECOATED PROFILED G.I./ GALVALUME/ ZINCALUME SHEETS",
+        "list_of_product_ids": "5529,6358,12558,12562,12559,12574,12604,12605,12638,12643,12635,12641,12644,17306,17295,34679,38550,38551,38552,38553",
+        "core_id": 1921.0
+      }
+    },
+    {
+      "id": "variant-b282183e-bc8e-5a78-bf84-96bc3fea7930",
+      "score": 0.8470156,
+      "metadata": {
+        "text": "core_product_name: cable gland",
+        "raw_product_name": "CABLE GLANDS",
+        "list_of_product_ids": "5961,6789,8221,8217,10553,10605,8222,8223,12107,15811,15929,16012,16032,16026,17577,22860,26078,26074,26071,36606,33509,33510,35776,35866,39358",
+        "core_id": 278.0
+      }
+    },
+    {
+      "id": "variant-b38364ed-944e-5328-ae92-c2de4288e310",
+      "score": 0.8466081,
+      "metadata": {
+        "text": "core_product_name: cable tray | acronymed_core_product_name: frp (fiber reinforced plastic) cable tray | material: FRP (Fiber Reinforced Plastic)",
+        "raw_product_name": "CABLE TRAY FRP- Package Type",
+        "list_of_product_ids": "38434,38297,38329,38330,38331,38425",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-5216a47d-4541-5472-b2f9-4b743900498b",
+      "score": 0.8448552,
+      "metadata": {
+        "text": "core_product_name: plain coil | acronymed_core_product_name: gp (galvanized plain) coil | material: Galvanized",
+        "raw_product_name": "GALVANIZED PLAIN COIL / GP COIL",
+        "list_of_product_ids": "29781,29414,29437,29458,29490,29521,29551,29898,30338,31100,31348,29578,31552,29865,31125,30364,31369,30798,31581,31698,29613,30917,31395,30526,25226,25225,25227,30387,31153,25421,25463,25449,25435,25477,29639,30039,25514,25500,25542,25533,25557,25571,25585,25627,25613,25599,25655,25641,25669,25701,25715,25757,25743,25771,25729,25800,25787,25837,25851,25814,30937,31175,31823,25888,25873,25904,31872,25918,30558,30409,31607,25987,26092,30071,30580,26131,25948,26111,26166,29667,31416,26190,26256,26285,26317,31447,26341,26366,30094,30604,30973,26389,26404,26423,26453,26501,26477,26551,26523,26583,26609,30442,26632,26655,30115,26736,26713,26761,26810,29703,26841,26924,26959,30627,30995,26987,27018,27146,30465,30139,27197,27220,27244,29730,31208,27272,30647,31020,27301,27324,27382,30160,31727,27409,27456,29753,30182,31231,27568,27596,27625,30678,31040,27657,27697,27835,27863,27882,27946,27977,30204,28011,30495,31463,28047,28091,28127,30226,31249,31652,28167,28312,28335,31849,28369,31486,28400,28434,28481,28531,30250,31629,28565,28636,28674,28711,29810,31275,30273,28737,28874,28846,28898,28928,29836,30708,28955,31299,28986,29005,29034,31504,29069,29083,30293,30729,31530,31323,31079,31671,29151,29137,29174,29200,29218,29312,29339,29362,29386,30320,31915,31933,31959,31982,32004,32032,32060,32073,32098,32122,32153,32181,32215,32268,32249,32233,32293,32317,32343,32359,32381,32396,32419,32441,32463,32524,32546,32559,32575,32597,32625,32648,32672,32689,32717,32745,32789,32832,32865,32900,32926,32976,33060,33082,33112,33164,33141,33229,33298,33329,33366,33407,33478,33527,33588,33660,33703,33730,33751,33775,33801,33835,33885,33861,33932,33973,34054,34104,34077,34131,34158,34187,34231,34209,34269,34298,34366,34395,34456,34478,34513,34534,34558,34434,34615,34664,34717,34745,34768,34815,34792,34870,34839,34894,34943,35034,35069,35091,35113,35135,35178",
+        "core_id": 1009.0
+      }
+    },
+    {
+      "id": "variant-248f2090-57dd-54ea-9a64-b78c3b79c297",
+      "score": 0.84470755,
+      "metadata": {
+        "text": "core_product_name: galvanized structure | material: Steel",
+        "raw_product_name": "GALVANIZED STEEL STRUCTURES",
+        "list_of_product_ids": "13697,16818,16886,16869,17140,18104,18096,22747",
+        "core_id": 1011.0
+      }
+    },
+    {
+      "id": "variant-0d864684-0c5c-5fb0-b8da-da3982f30c1f",
+      "score": 0.844681,
+      "metadata": {
+        "text": "core_product_name: cable tray | material: FRP (Fibre Reinforced Plastic)",
+        "raw_product_name": "CABLE TRAYS-FRP",
+        "list_of_product_ids": "6448,5618,7011,10644,7897,8783,8785,8786,8784,9181,17329,17325,18877,18923,26431,36084",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.8441694,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-bd51a105-2c90-5d87-a36c-f9c6b31272fb",
+      "score": 0.84414613,
+      "metadata": {
+        "text": "core_product_name: hi-rib roofing sheet | material: GI (Galvanized Iron) | accessories_or_attachments: accessories",
+        "raw_product_name": "ROOFING SHEETS & ACCESSORIES - GI HI-RIB",
+        "list_of_product_ids": "16184,16199,16211,16205,16248,16269,16330,16323,16351,34571",
+        "core_id": 1922.0
+      }
+    },
+    {
+      "id": "variant-14443caa-2439-5721-819e-c6aed59e6538",
+      "score": 0.84328574,
+      "metadata": {
+        "text": "core_product_name: octagonal pole | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI-OCTAGONAL POLE",
+        "list_of_product_ids": "180,571,805,618,592",
+        "core_id": 1057.0
+      }
+    },
+    {
+      "id": "variant-f1aaaa16-e4d1-54f0-902f-ed534e654ad6",
+      "score": 0.8426897,
+      "metadata": {
+        "text": "core_product_name: expansion bellow | material: Metallic",
+        "raw_product_name": "Mettalic Expansion Bellows",
+        "list_of_product_ids": "13753,22100,23437,23436,32732",
+        "core_id": 1526.0
+      }
+    },
+    {
+      "id": "variant-5f6025f4-d869-56e7-bced-6488b91fa952",
+      "score": 0.8423543,
+      "metadata": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": "6444,5614,11000,12263,12344,15781,23866,24503",
+        "core_id": 282.0
+      }
+    },
+    {
+      "id": "variant-cd16e3d1-fe34-56f4-aeb9-d37bca739e72",
+      "score": 0.84230685,
+      "metadata": {
+        "text": "core_product_name: tray",
+        "raw_product_name": "SOAP TRAY",
+        "list_of_product_ids": "16316,16370,26428,34411",
+        "core_id": 395.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.84217465,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    }
+  ]
+}

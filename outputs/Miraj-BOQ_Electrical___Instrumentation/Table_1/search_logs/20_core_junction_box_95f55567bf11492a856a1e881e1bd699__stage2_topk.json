@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: junction box | size: voltage: 240 V AC, current: 16 A, ways: 4-way, internal dimensions: 125 mm (minimum) | feature_or_specifications: material: cast aluminium, type: weatherproof, terminal block suitability: 2.5 sq.mm, feature: weatherproof double compression ni (nickel) plated brass cable glands for all incoming and outgoing cables, feature: pvc shroud, feature: other accessories",
+  "retrieval_results": [
+    {
+      "id": "variant-035bb6e4-a7d4-5f12-9d32-b43f858be59a",
+      "score": 0.8693552,
+      "metadata": {
+        "text": "core_product_name: weatherproof junction box | protection_features: Weatherproof",
+        "raw_product_name": "JUNCTION BOX (WEATHERPROOF)",
+        "list_of_product_ids": "215,532,156,528,596",
+        "core_id": 1310.0
+      }
+    },
+    {
+      "id": "variant-5504c024-4b72-5368-8851-9130177d4a4c",
+      "score": 0.85588264,
+      "metadata": {
+        "text": "core_product_name: junction box",
+        "raw_product_name": "JUNCTION BOXES",
+        "list_of_product_ids": "5960,6788,10303,10552,10606,8206,8209,15928,17373,18803,24168,22859,27495,36562,36607,35775,35887,35865,35940,36519,39357",
+        "core_id": 1311.0
+      }
+    },
+    {
+      "id": "variant-c078d442-499e-5fef-af59-18af5b47f64b",
+      "score": 0.8554147,
+      "metadata": {
+        "text": "core_product_name: flame proof junction box | protection_features: Flame proof",
+        "raw_product_name": "JUNCTION BOXES (FLAME PROOF)",
+        "list_of_product_ids": "6417,5587,11078,11075,10304,11324,10578,10585,10555,10601,10686,8207,8208,8402,15922,16008,16029,16025,26747,26746,33512,35769",
+        "core_id": 1315.0
+      }
+    },
+    {
+      "id": "variant-4d61d445-0ca2-5a71-a2b2-abf92cbb9dac",
+      "score": 0.8385193,
+      "metadata": {
+        "text": "core_product_name: communication cable | construction_features: jelly filled",
+        "raw_product_name": "CABLES COMMN. (JELLY FILLED)",
+        "list_of_product_ids": "6426,5596,11747,12089,12121,13297,23995,23864",
+        "core_id": 287.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.83513373,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-11b5ebb2-c136-58d8-ae90-c22c25a8234c",
+      "score": 0.8320661,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 220 kV (kilovolt) | material: XLPE (cross-linked polyethylene)",
+        "raw_product_name": "220 kV CABLE XLPE",
+        "list_of_product_ids": "14151,15785,20056,24051,23902",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-bb96db43-a603-5b08-b082-1a787ab9db3c",
+      "score": 0.8318202,
+      "metadata": {
+        "text": "core_product_name: conduit accessory",
+        "raw_product_name": "CONDUIT ACCESSORIES",
+        "list_of_product_ids": "20550,20514,20591,20632,20686,20744",
+        "core_id": 439.0
+      }
+    },
+    {
+      "id": "variant-b282183e-bc8e-5a78-bf84-96bc3fea7930",
+      "score": 0.83105946,
+      "metadata": {
+        "text": "core_product_name: cable gland",
+        "raw_product_name": "CABLE GLANDS",
+        "list_of_product_ids": "5961,6789,8221,8217,10553,10605,8222,8223,12107,15811,15929,16012,16032,16026,17577,22860,26078,26074,26071,36606,33509,33510,35776,35866,39358",
+        "core_id": 278.0
+      }
+    },
+    {
+      "id": "variant-5f6025f4-d869-56e7-bced-6488b91fa952",
+      "score": 0.8306418,
+      "metadata": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": "6444,5614,11000,12263,12344,15781,23866,24503",
+        "core_id": 282.0
+      }
+    },
+    {
+      "id": "variant-475d6e28-3e39-5b3c-86e9-f6970c05297a",
+      "score": 0.8302897,
+      "metadata": {
+        "text": "core_product_name: hazardous area cable gland",
+        "raw_product_name": "CABLE GLANDS ( HAZARDOUS AREA)",
+        "list_of_product_ids": "6443,5613,8218,10559,10589,10590,10604,8216,8219,8220,8224,12670,17578,23865,22857,24500,35772",
+        "core_id": 279.0
+      }
+    },
+    {
+      "id": "variant-b55a4457-928b-5d4f-a0d7-6fb8f7583369",
+      "score": 0.83023256,
+      "metadata": {
+        "text": "core_product_name: insulating joint",
+        "raw_product_name": "INSULATING JOINTS",
+        "list_of_product_ids": "6206,5375,12910,31006,31054,31064",
+        "core_id": 1269.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.83010083,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-1c2b8fdb-3ab1-5869-b71b-d009d023377b",
+      "score": 0.8300819,
+      "metadata": {
+        "text": "core_product_name: signal cable | protection_features: Fire Resistant",
+        "raw_product_name": "SIGNAL CABLE - FIRE RESISTANT",
+        "list_of_product_ids": "6482,5653,10413,10664,12117,13288,13294,17776,17788,23870,24034,38767,38585,38611,38690,38715,38639,38826,38662,38858,38900,38926,38741,38963,38990,39018,39047,39086,39116,39162,39206,39245,39280,39326,39362,39391,39421,39472,39554,39527,39616,39592,39644,39678,39718,39788,39816,39887",
+        "core_id": 826.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.8291368,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    },
+    {
+      "id": "variant-25256c42-dac6-5ebd-b99a-5aa3d8f05e6f",
+      "score": 0.8291062,
+      "metadata": {
+        "text": "core_product_name: gear box",
+        "raw_product_name": "Gear Box",
+        "list_of_product_ids": "7534,7208,9726,19610,19616,23496,34585,34587,34588,34597,34598,34602,34599,34629,34630,34642,34644,34645,34648,34649,34641,34643,34953,35150,35145,35147,35151,35189,35208,35207,35201,35215,35271,35269,35414,35423,35430,35440,35441,35444,35449,35417,35607,35663,35664,35660,35659,35658,35657,35661,35662,35681,35679,35689,35697,35876,35874,35872,35870,35871,35883,35859,35858,35946,35898,35897,35896,35952,35951,35948,35949,35954,35958,35967,35970,35975,35977,35984,35985,35986",
+        "core_id": 1081.0
+      }
+    },
+    {
+      "id": "variant-561ccbee-4cf2-55d6-9001-685613ac299b",
+      "score": 0.82896966,
+      "metadata": {
+        "text": "core_product_name: armoured cable | type_or_class: Power | construction_features: Armour",
+        "raw_product_name": "ARMOURED CABLE-(POWER)",
+        "list_of_product_ids": "8891,8910,8938,8942,8950,8946,8954,9083,9087,9091,9095,9099,23875,24038,24687,24728,24957,27122,27117,27126,27130,27134,27161,27166,27171,27180,27284,27336,27357,27397,27432,27519,27525,27538,27543,27552,27579,27637,27645,27681,27672,27770,27788,27809,27899,27916,27961,28027,28079,28068,28144,28114,28110,28106,28270,28282,28294,28290,28349,28384,28380,28412,28420,28457,28454,28465,28497,28513,39980,39981,39982,39983,40102,40105,40106,40103,40104,40107,40108,40109",
+        "core_id": 130.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.82873523,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-c0875fc8-a188-5b80-a701-f51d97ce66b3",
+      "score": 0.8286572,
+      "metadata": {
+        "text": "core_product_name: tube | special_attributes: Seamless | material: Nickel Alloys",
+        "raw_product_name": "PIPE/TUBE-NICKEL ALLOYS (S.LESS & WELDED)",
+        "list_of_product_ids": "6289,5460,10330,7774,7795,7807,7781,13138,17018,17429,19628,21096,21317,21307,30870,30875,37088",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-b579f3df-602f-56fe-9304-f7776a9e3283",
+      "score": 0.8285289,
+      "metadata": {
+        "text": "core_product_name: cooling tower gear box",
+        "raw_product_name": "COOLING TOWER GEAR BOX",
+        "list_of_product_ids": "31769,31771,31770,31772,31773,31882",
+        "core_id": 485.0
+      }
+    },
+    {
+      "id": "variant-e7e36f9e-c2bd-5fb1-9e61-4ed595438655",
+      "score": 0.8284473,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper and Alloys",
+        "raw_product_name": "TUBE COPPER AND ALLOYS",
+        "list_of_product_ids": "6308,5479,8815,8816,31806",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-d01e7f04-41a2-5983-a7cb-2052b99c5edb",
+      "score": 0.82832974,
+      "metadata": {
+        "text": "core_product_name: control cable | protection_features: Fire Survival",
+        "raw_product_name": "CONTROL CABLE - FIRE SURVIVAL",
+        "list_of_product_ids": "6424,5594,10194,10666,11369,11371,12120,13290,15814,17323,17783,23993,23862",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-58b032b2-bfc8-58c5-b09c-f758859b2d22",
+      "score": 0.8282176,
+      "metadata": {
+        "text": "core_product_name: bolt and nut | protection_features: galvanised",
+        "raw_product_name": "BOLTS & NUTS (GALVANISED)",
+        "list_of_product_ids": "21576,21573,26271,26205,26208,26210,26219,26228,21578,27711",
+        "core_id": 231.0
+      }
+    },
+    {
+      "id": "variant-c6f0eba4-fa2a-56b7-bdb4-a61b5f29101a",
+      "score": 0.8281413,
+      "metadata": {
+        "text": "core_product_name: outdoor insulator and bushing | size_or_capacity: 132 kV or 220 kV | operating_conditions: outdoor",
+        "raw_product_name": "132kV/ 220 kV outdoor Insulator & Bushing",
+        "list_of_product_ids": "14148,14691,16117,17435,18327,21497",
+        "core_id": 8.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.8280562,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-bb001d38-b128-522d-9d87-0b59ec1edf02",
+      "score": 0.82769996,
+      "metadata": {
+        "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+        "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+        "list_of_product_ids": "140,901,478,121,282",
+        "core_id": 313.0
+      }
+    },
+    {
+      "id": "variant-81a14c31-0118-5e0b-b544-f02bc84e131a",
+      "score": 0.8276784,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 132kV (132 kilovolt) | material: XLPE (cross-linked polyethylene)",
+        "raw_product_name": "132kV CABLE XLPE",
+        "list_of_product_ids": "14146,15782,20052,24050,23901",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-b2fd74a4-89f2-5719-ba63-b6451df8aa47",
+      "score": 0.82763565,
+      "metadata": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": "32910,32911,33009,33041,33195,33260,33562,33633,35922",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.8276279,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-b0717a7e-736c-55cc-93fc-42317ed84e45",
+      "score": 0.82747436,
+      "metadata": {
+        "text": "core_product_name: marshalling box",
+        "raw_product_name": "Marshalling Boxes",
+        "list_of_product_ids": "16914,17029,17037,35828",
+        "core_id": 1523.0
+      }
+    },
+    {
+      "id": "variant-0859b49b-78bf-5420-917f-73bdcad0fd3d",
+      "score": 0.82744104,
+      "metadata": {
+        "text": "core_product_name: partition | material: Aluminium",
+        "raw_product_name": "PATITIONS - ALUMINIUM",
+        "list_of_product_ids": "15639,15633,15618,15724",
+        "core_id": 1637.0
+      }
+    }
+  ]
+}

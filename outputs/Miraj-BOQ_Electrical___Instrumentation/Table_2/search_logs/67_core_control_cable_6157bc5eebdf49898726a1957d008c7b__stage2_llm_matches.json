@@ -1,0 +1,132 @@
+{
+  "query": "core_product_name: control cable | size: core: 36 core, cross section: 1.5 mm2 | feature_or_specifications: insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: control cable | size_or_capacity: 1100 Volts | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "1100 VOLTS GRADE PVC CONTROL CABLES",
+        "list_of_product_ids": [
+          "23936",
+          "24085",
+          "21514",
+          "28591"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: control cable | material: PVC (Polyvinyl Chloride) | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES:CONTROL-PVC/XLPE",
+        "list_of_product_ids": [
+          "6422",
+          "5592",
+          "10193",
+          "11360",
+          "10665",
+          "11368",
+          "11745",
+          "12088",
+          "12118",
+          "13289",
+          "13295",
+          "16038",
+          "16281",
+          "17782",
+          "23991",
+          "23860",
+          "40317"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: control cable | type_or_class: Unpaired | material: PVC (Polyvinyl Chloride) or XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES:CONTROL (UNPAIRED)-PVC/XLPE",
+        "list_of_product_ids": [
+          "8994",
+          "8997",
+          "9355",
+          "9364",
+          "9372",
+          "9383",
+          "9381",
+          "9390",
+          "9395",
+          "9456",
+          "9192",
+          "9198",
+          "9195",
+          "9196",
+          "9201",
+          "9202",
+          "9205",
+          "9208",
+          "9296",
+          "9357",
+          "9370",
+          "9374",
+          "14648",
+          "24043",
+          "23894",
+          "27028",
+          "27032",
+          "27033",
+          "27031",
+          "38755",
+          "38840",
+          "38595",
+          "38621",
+          "38704",
+          "38781",
+          "38649",
+          "38729",
+          "38872",
+          "38914",
+          "38940",
+          "38676",
+          "38977",
+          "39004",
+          "39032",
+          "39068",
+          "39100",
+          "39130",
+          "39178",
+          "39217",
+          "39259",
+          "39301",
+          "39337",
+          "39373",
+          "39402",
+          "39432",
+          "39483",
+          "39538",
+          "39565",
+          "39603",
+          "39627",
+          "39655",
+          "39689",
+          "39729",
+          "39799",
+          "39827",
+          "39898"
+        ]
+      }
+    }
+  ]
+}

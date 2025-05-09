@@ -1,0 +1,178 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "SOR description same as item No. 01VV.MJ2.1",
+      "core_product_name": "sor description",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "reference: same as item no. 01vv.mj2.1",
+      "quantity": "7.5",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Surface preparation to SSPC-SP-10, application of primer and paint on underside of bottom plate (soil side) and on",
+      "core_product_name": "surface preparation and painting",
+      "acronymed_core_product_name": "",
+      "size": "area: 2078.0 sqm",
+      "feature_or_specifications": "standard: sspc-sp-10, application: primer and paint, location: underside of bottom plate (soil side)",
+      "quantity": "2078.0",
+      "unit": "sqm"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply, fabrication, installation, welding, radiography, PAUT, UT, DPT , heat treatment, inspection and testing as required",
+      "core_product_name": "appurtenances",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "processes: supply, fabrication, installation, welding, radiography, paut(phase array ultrasonic testing), ut(ultrasonic testing), dpt(dye penetrant testing), heat treatment, inspection and testing as required",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply, fabrication, erection, inspection and testing of steel structure for cone roof/ dome roof tank including curb angle,",
+      "core_product_name": "steel structure for cone roof or dome roof tank",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "processes: supply, fabrication, erection, inspection and testing, inclusion: curb angle",
+      "quantity": "15.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Design, Supply, fabrication, erection, inspection and testing of steel structure for cone roof/ dome roof supporting",
+      "core_product_name": "steel structure for cone roof or dome roof supporting",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "processes: design, supply, fabrication, erection, inspection and testing",
+      "quantity": "35.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "SUPPLY & INSTALLATION OF JET MIXER ASSEMBLY",
+      "core_product_name": "jet mixer assembly",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "processes: supply and installation",
+      "quantity": "3.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      430,
+      439
+    ],
+    "original_rows": [
+      {
+        "0": 431,
+        "1": 0,
+        "2": "01VV.MJ2.2",
+        "3": "SOR description same as item No. 01VV.MJ2.1",
+        "4": 7.5,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 432,
+        "1": 0,
+        "2": "01VV.MJ3",
+        "3": "External Surfaces (underside of Bottom & Drip Ring plate):",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 433,
+        "1": 0,
+        "2": "01VV.MJ3.1",
+        "3": "Surface preparation to SSPC-SP-10, application of primer and paint on underside of bottom plate (soil side) and on",
+        "4": 2078.0,
+        "5": "sqm",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 434,
+        "1": 0,
+        "2": "01VV.MJ4",
+        "3": "APPURTENANCES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 435,
+        "1": 0,
+        "2": "01VV.MJ4.1",
+        "3": "Supply, fabrication, installation, welding, radiography, PAUT, UT, DPT , heat treatment, inspection and testing as required",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 436,
+        "1": 0,
+        "2": "01VV.MJ5",
+        "3": "STRUCTURAL/ PLATE WORK",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 437,
+        "1": 0,
+        "2": "01VV.MJ5.1",
+        "3": "Supply, fabrication, erection, inspection and testing of steel structure for cone roof/ dome roof tank including curb angle,",
+        "4": 15.0,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 438,
+        "1": 0,
+        "2": "01VV.MJ5.2",
+        "3": "Design, Supply, fabrication, erection, inspection and testing of steel structure for cone roof/ dome roof supporting",
+        "4": 35.0,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 439,
+        "1": 0,
+        "2": "01VV.MJ6",
+        "3": "SUPPLY & INSTALLATION OF JET MIXER ASSEMBLY",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 440,
+        "1": 0,
+        "2": "01VV.MJ7",
+        "3": "Dismantling of Existing tanks:",
+        "4": 30.0,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2252,
+    "completion_tokens": 953
+  }
+}

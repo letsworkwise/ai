@@ -1,0 +1,72 @@
+{
+  "query": "core_product_name: led fixture | size: mounting height: > 10m | feature_or_specifications: type: high bay, type: industrial, driver: integral",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": [
+          "13606",
+          "16555",
+          "16546",
+          "16591",
+          "16576",
+          "17657",
+          "17650",
+          "17702",
+          "17682",
+          "18058",
+          "20306",
+          "20834",
+          "21315",
+          "22108",
+          "23384",
+          "35044"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: aviation marker lighting fixture | type_or_class: Div.2 (Division 2)",
+        "raw_product_name": "Div.2 Aviation Marker Lighting Fixtures",
+        "list_of_product_ids": [
+          "18715",
+          "18711",
+          "19014",
+          "37433"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Protection"
+      ],
+      "match_details": {
+        "text": "core_product_name: accessory lighting fixture | protection_features: Non Hazardous",
+        "raw_product_name": "LIGHTING FIXTURE & ACCESORY-NON HZARDOUS",
+        "list_of_product_ids": [
+          "5630",
+          "6459",
+          "10568",
+          "10188",
+          "10179",
+          "19512",
+          "19508",
+          "19540",
+          "26082"
+        ]
+      }
+    }
+  ]
+}

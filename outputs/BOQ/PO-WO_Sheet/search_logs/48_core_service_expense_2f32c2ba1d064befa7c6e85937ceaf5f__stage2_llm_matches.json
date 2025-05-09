@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: service expense",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: engineering service provider",
+        "raw_product_name": "ENGINEERING SERVICE PROVIDERS",
+        "list_of_product_ids": [
+          "17042",
+          "17049",
+          "17128",
+          "17151",
+          "17143",
+          "17159",
+          "17176"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: electronic repair and servicing",
+        "raw_product_name": "ELECTRONIC REPAIR & SERVICING",
+        "list_of_product_ids": [
+          "24355",
+          "24353",
+          "24351",
+          "24354",
+          "26868"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: engine servicing",
+        "raw_product_name": "ENGINE SERVICING",
+        "list_of_product_ids": [
+          "24306",
+          "24359",
+          "24308",
+          "26865"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "query": "core_product_name: pressure transmitter | size: range: 0~7kg/cm2 (11 nos.) & 0~15kg/cm2 (11 Nos ) | feature_or_specifications: voltage: 24 v dc(direct current), type: exd, included: 2 nos. with each dv(deluge valve) (1 nos. for air line & 1 no. for water line), protection: ip-66, certification: eexia iia iib, t3 (atex /cenelec), ccoe, output: 4 ~ 20 ma +hart, accuracy: 0.075% of span, rangeability: 1:100, service: water & air, cable gland: ss316(stainless steel 316)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: pressure transmitter",
+        "raw_product_name": "PRESSURE TRANSMITTER",
+        "list_of_product_ids": [
+          "10037",
+          "10038",
+          "10043",
+          "10159",
+          "10626",
+          "9515",
+          "9555",
+          "36531",
+          "15313",
+          "17103",
+          "17110",
+          "18208",
+          "24110",
+          "19474",
+          "20012",
+          "20022",
+          "20017",
+          "35953",
+          "36165",
+          "36313",
+          "36510"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: differential pressure transmitter",
+        "raw_product_name": "DIFFERENTIAL PRESSURE TRANSMITTER",
+        "list_of_product_ids": [
+          "10006",
+          "10015",
+          "10039",
+          "15083",
+          "18209",
+          "19852",
+          "36178",
+          "36326"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: transmitter",
+        "raw_product_name": "TRANSMITTER",
+        "list_of_product_ids": [
+          "13839",
+          "24344",
+          "23185",
+          "36621"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "query": "core_product_name: loto(lockout tagout) locks | acronymed_core_product_name: loto locks",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lock",
+        "raw_product_name": "LOCKS",
+        "list_of_product_ids": [
+          "13622",
+          "17251",
+          "20004",
+          "20045",
+          "20112"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lock fitting",
+        "raw_product_name": "LOCK FITTINGS",
+        "list_of_product_ids": [
+          "193",
+          "371",
+          "933",
+          "827",
+          "255"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: terminal automation software | feature_or_specifications: feature: operator stations, feature: dongle/key, feature: licenses, feature: media, feature: documentation, feature: system interfaces for monitoring, logging, reporting, controls-interlocks, feature: interface with SAP (systems, TT & packed truck loading & unloading), MCC (motor control center), VFD (variable frequency drive), DG sets (diesel generator sets), UPS (uninterruptible power supply), PLC (programmable logic controller), ESD (emergency shutdown), ROV (remote operated valve), TFMS (tank farm management system), PAGA (public address and general alarm), FAS (fire alarm system), fire fighting system, CCTV (closed circuit television) systems, DV operational panel, GMS (gas monitoring system) repeater panel, feature: alarms, archiving, events logging",
+  "retrieval_results": [
+    {
+      "id": "variant-0ea9e5f6-ccd4-5364-bbd1-e4bf6dcb09de",
+      "score": 0.8662524,
+      "metadata": {
+        "text": "core_product_name: terminal automation system",
+        "raw_product_name": "TERMINAL AUTOMATION SYSTEM",
+        "list_of_product_ids": "6572,5742,10065,10150,11898,19578,30475",
+        "core_id": 2229.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.84829444,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-72eec985-31f4-579d-8d75-17ce3f807158",
+      "score": 0.8461143,
+      "metadata": {
+        "text": "core_product_name: terminal block",
+        "raw_product_name": "TERMINAL BLOCKS",
+        "list_of_product_ids": "5940,6769,12287,11388,8256,9278,17855,18812",
+        "core_id": 2228.0
+      }
+    },
+    {
+      "id": "variant-b0c2061a-aa8d-5939-97cc-7b5703645203",
+      "score": 0.84466,
+      "metadata": {
+        "text": "core_product_name: terminal box",
+        "raw_product_name": "TERMINAL BOX",
+        "list_of_product_ids": "141,951,736,936,609",
+        "core_id": 2230.0
+      }
+    },
+    {
+      "id": "variant-e2c5e19f-b004-5e9a-af92-357a7b21565d",
+      "score": 0.843323,
+      "metadata": {
+        "text": "core_product_name: technological control system",
+        "raw_product_name": "TECHNOLOGICAL CONTROL SYSTEM",
+        "list_of_product_ids": "236,112,356,823,584",
+        "core_id": 2209.0
+      }
+    },
+    {
+      "id": "variant-694e9b22-1590-52c8-9da7-95e6af8ae4f3",
+      "score": 0.8432151,
+      "metadata": {
+        "text": "core_product_name: terminal strip",
+        "raw_product_name": "TERMINAL STRIPS",
+        "list_of_product_ids": "1,400,220,181",
+        "core_id": 2231.0
+      }
+    },
+    {
+      "id": "variant-44ef153c-f8c1-591b-bcfa-ee12e6ec437f",
+      "score": 0.84108657,
+      "metadata": {
+        "text": "core_product_name: fire and gas detection system",
+        "raw_product_name": "FIRE & GAS DETECTION SYSTEMS",
+        "list_of_product_ids": "6550,5721,10943,10040,11234,11244,11420,11423,11421,11425,12425,12818,17482,17481,19831,29874,37765,37770,37775,37791,35578,36117,36233,36385,36457",
+        "core_id": 836.0
+      }
+    },
+    {
+      "id": "variant-413ae249-19f3-5238-9e1e-81c9b8824457",
+      "score": 0.8405822,
+      "metadata": {
+        "text": "core_product_name: addressable fire alarm panel",
+        "raw_product_name": "ADDRESSABLE FIRE ALARM PANEL",
+        "list_of_product_ids": "37759,37764,37769,37774,37780,37790",
+        "core_id": 48.0
+      }
+    },
+    {
+      "id": "variant-a4ebd8e5-7045-562f-b9cd-963999de4c2c",
+      "score": 0.8405819,
+      "metadata": {
+        "text": "core_product_name: fire alarm panel",
+        "raw_product_name": "FIRE ALARM PANEL",
+        "list_of_product_ids": "8896,8906,9845,9853,9863,8933,9076,9137,14320,14321,10735,16601,16125,34974,35217,36088,36458",
+        "core_id": 837.0
+      }
+    },
+    {
+      "id": "variant-132c533b-320e-537c-a412-ad6fd7b77d90",
+      "score": 0.840318,
+      "metadata": {
+        "text": "core_product_name: fire alarm system",
+        "raw_product_name": "FIRE ALARM SYSTEM",
+        "list_of_product_ids": "6432,5602,10173,12289,12290,17862,18175,31111,25486,31761,31058,36635,36636,37801,37806,34963,34973,34970,34975,34988,34991,34998,35001,35005,35010,35015,35218,36087,36459,36517",
+        "core_id": 838.0
+      }
+    },
+    {
+      "id": "variant-0a9290b3-8ea7-59a2-a8d9-9ba99d3dbdaa",
+      "score": 0.8402693,
+      "metadata": {
+        "text": "core_product_name: machine monitoring system",
+        "raw_product_name": "MACHINE MONITORING SYSTEMS",
+        "list_of_product_ids": "6478,5649,12455,32772,38192",
+        "core_id": 1418.0
+      }
+    },
+    {
+      "id": "variant-36546641-c966-56c1-bc4e-3a8fa0c0e909",
+      "score": 0.840029,
+      "metadata": {
+        "text": "core_product_name: programmable logic controller-fire and gas system | acronymed_core_product_name: PLC-FGS",
+        "raw_product_name": "PLC-FGS",
+        "list_of_product_ids": "13801,15110,20985,23214,36204,36353",
+        "core_id": 1706.0
+      }
+    },
+    {
+      "id": "variant-38556993-23d0-512b-884c-fd1ea12aff26",
+      "score": 0.8395025,
+      "metadata": {
+        "text": "core_product_name: fire detection system",
+        "raw_product_name": "FIRE DETECTION SYSTEM",
+        "list_of_product_ids": "14244,17861,18174,20243,20302,22254,24381,24380,24695,31751,31753,26666,26669,26674,31756,31760,34972,34989,35006,35012,35016,35220,36456",
+        "core_id": 844.0
+      }
+    },
+    {
+      "id": "variant-c4e119cc-aafe-5001-a6b3-3284be36811b",
+      "score": 0.83849216,
+      "metadata": {
+        "text": "core_product_name: turnkey instrumentation",
+        "raw_product_name": "TURNKEY INSTRUMENTATION",
+        "list_of_product_ids": "6627,5797,10074,8347,30050,29691,27064,30481,38274,32771,38190,37692,37693,37700,37702,37706,37710,34960,36098,36246,36399",
+        "core_id": 2299.0
+      }
+    },
+    {
+      "id": "variant-64dd023c-4e0c-53f1-ae6a-c0cadf9b4ca1",
+      "score": 0.8383988,
+      "metadata": {
+        "text": "core_product_name: terminal bushing",
+        "raw_product_name": "TERMINAL BUSHING",
+        "list_of_product_ids": "1,399,814,467",
+        "core_id": 2232.0
+      }
+    },
+    {
+      "id": "variant-a04485bf-b3ca-5e35-af82-40b9c4157210",
+      "score": 0.8377623,
+      "metadata": {
+        "text": "core_product_name: local control station",
+        "raw_product_name": "LOCAL CONTROL STATIONS",
+        "list_of_product_ids": "99,911,003,018,831",
+        "core_id": 1380.0
+      }
+    },
+    {
+      "id": "variant-1ab3bbc1-7237-500d-90d8-27f6498da945",
+      "score": 0.8375258,
+      "metadata": {
+        "text": "core_product_name: equipment",
+        "raw_product_name": "CONTROL ROOM EQUIPMENT",
+        "list_of_product_ids": "14034,14815,17256,21098",
+        "core_id": 460.0
+      }
+    },
+    {
+      "id": "variant-9d54fd87-21ea-5c1a-ae13-333a826234cd",
+      "score": 0.8374088,
+      "metadata": {
+        "text": "core_product_name: system panel",
+        "raw_product_name": "SYSTEM PANELS",
+        "list_of_product_ids": "1,413,621,099",
+        "core_id": 2180.0
+      }
+    },
+    {
+      "id": "variant-ba352a37-db3b-5375-bfcd-46763d5daee7",
+      "score": 0.8372211,
+      "metadata": {
+        "text": "core_product_name: flame scanner",
+        "raw_product_name": "FLAME SCANNER",
+        "list_of_product_ids": "5965,6793,10940,7007,11921",
+        "core_id": 893.0
+      }
+    },
+    {
+      "id": "variant-6aa0a898-71c9-566e-b82e-854055a79538",
+      "score": 0.8368994,
+      "metadata": {
+        "text": "core_product_name: embedded control system",
+        "raw_product_name": "EMBEDDED CONTROL SYSTEM",
+        "list_of_product_ids": "236,092,358,623,573",
+        "core_id": 737.0
+      }
+    },
+    {
+      "id": "variant-692606a7-2e50-5121-82ff-ab4dc8967cc5",
+      "score": 0.83681595,
+      "metadata": {
+        "text": "core_product_name: gas turbine",
+        "raw_product_name": "GAS TURBINE",
+        "list_of_product_ids": "19283,19284,20427,20402,20494,20453,37422,37194,37402",
+        "core_id": 1035.0
+      }
+    },
+    {
+      "id": "variant-902898b5-5bbb-5f2a-9756-53fa35109b39",
+      "score": 0.8367787,
+      "metadata": {
+        "text": "core_product_name: gas turbine",
+        "raw_product_name": "TURBINE-GAS",
+        "list_of_product_ids": "5926,6755,11343,11472,8427,37421,33916,36125,37403",
+        "core_id": 1035.0
+      }
+    },
+    {
+      "id": "variant-7dce4d21-d1e9-5d82-98f9-329565ede5d1",
+      "score": 0.83675635,
+      "metadata": {
+        "text": "core_product_name: fieldbus monitor",
+        "raw_product_name": "FIELDBUS MONITOR",
+        "list_of_product_ids": "5,948,677,710,076",
+        "core_id": 821.0
+      }
+    },
+    {
+      "id": "variant-09fda6e0-1a13-5098-925f-788f30f1f21d",
+      "score": 0.8363664,
+      "metadata": {
+        "text": "core_product_name: stack emission monitoring system",
+        "raw_product_name": "STACK EMMISSION MONITORING SYSTEM",
+        "list_of_product_ids": "1,403,321,845",
+        "core_id": 2097.0
+      }
+    },
+    {
+      "id": "variant-7cc5ca9a-c9fd-5cb7-8b41-1167a6d57856",
+      "score": 0.83636355,
+      "metadata": {
+        "text": "core_product_name: turbine generator set",
+        "raw_product_name": "TURBINE GENERATOR SET",
+        "list_of_product_ids": "9481,9594,14798,24321,37420,36130,37401",
+        "core_id": 2290.0
+      }
+    },
+    {
+      "id": "variant-19ed9fe9-31f3-5298-9c2c-4e26777a2d11",
+      "score": 0.8357994,
+      "metadata": {
+        "text": "core_product_name: gas detection system",
+        "raw_product_name": "GAS DETECTION SYSTEMS",
+        "list_of_product_ids": "6549,5720,10456,11233,11243,10651,10650,11424,11422,11722,12817,12820,12819,13110,13111,18189,36733,35577,36091,36095",
+        "core_id": 1028.0
+      }
+    },
+    {
+      "id": "variant-9b36928c-cfc0-5123-a3d5-7d49bce9d9de",
+      "score": 0.8357819,
+      "metadata": {
+        "text": "core_product_name: loading arm",
+        "raw_product_name": "LOADING ARM",
+        "list_of_product_ids": "13621",
+        "core_id": 1375.0
+      }
+    },
+    {
+      "id": "variant-74473618-f368-5f8e-9f75-5bb7b011cde3",
+      "score": 0.8357662,
+      "metadata": {
+        "text": "core_product_name: ground monitoring system",
+        "raw_product_name": "GROUND MONITORING SYSTEMS",
+        "list_of_product_ids": "6629,5799,10305,24235,19579",
+        "core_id": 1079.0
+      }
+    },
+    {
+      "id": "variant-95f9a5df-0976-54ef-be1f-2d157fbf662c",
+      "score": 0.83556455,
+      "metadata": {
+        "text": "core_product_name: plant communication system | acronymed_core_product_name: PAGA (Public Address and General Alarm) communication system",
+        "raw_product_name": "PLANT COMMUNICATION SYSTEM (PAGA)",
+        "list_of_product_ids": "202,422,034,739,508",
+        "core_id": 1696.0
+      }
+    },
+    {
+      "id": "variant-42e08f95-d7cd-57f5-ba2f-6871ab20420b",
+      "score": 0.83550185,
+      "metadata": {
+        "text": "core_product_name: control panel",
+        "raw_product_name": "CONTROL PANEL",
+        "list_of_product_ids": "7620,10723,10724,7294,11348,10704,10706,10708,10709,10705,10707,7889,8210,16017,16030,16028,36914,16897,18294,18873,18919,19439,20784,20783,21195,24829,24817,24932,24943,21198,36654,36677,33483,33678,35056",
+        "core_id": 453.0
+      }
+    }
+  ]
+}

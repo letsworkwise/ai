@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: elcometer",
+  "retrieval_results": [
+    {
+      "id": "variant-5acb3330-406e-585f-a009-955c08deb24b",
+      "score": 0.90995204,
+      "metadata": {
+        "text": "core_product_name: coating thickness measurement instrument | acronymed_core_product_name: elcometer | type_or_class: Coating Thickness Measurement",
+        "raw_product_name": "ELCOMETER FOR COATING THICKNESS MEASUREMENT",
+        "list_of_product_ids": "138,443,614,536,154",
+        "core_id": 684.0
+      }
+    },
+    {
+      "id": "variant-2e84cef9-327a-515b-8b9e-5d2b777c59cb",
+      "score": 0.8902022,
+      "metadata": {
+        "text": "core_product_name: elbowlet",
+        "raw_product_name": "ELBOWLET",
+        "list_of_product_ids": "14395,14719,14722,14725,19815,22922",
+        "core_id": 681.0
+      }
+    },
+    {
+      "id": "variant-22d616a9-27b2-5045-8c46-dc2ca062c176",
+      "score": 0.8872188,
+      "metadata": {
+        "text": "core_product_name: viscosity meter",
+        "raw_product_name": "VISCOSITY METER",
+        "list_of_product_ids": "6,607,577,711,317",
+        "core_id": 2409.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.885383,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-a34f1f1e-82d9-5e87-b46b-8d2eb35aca6c",
+      "score": 0.8841863,
+      "metadata": {
+        "text": "core_product_name: tachometer",
+        "raw_product_name": "TACHOMETER",
+        "list_of_product_ids": "164,341,646,822,032",
+        "core_id": 2208.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.88365763,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    },
+    {
+      "id": "variant-ceb0a573-d64e-5eb7-a450-39581bf427ab",
+      "score": 0.8830479,
+      "metadata": {
+        "text": "core_product_name: electronic counter",
+        "raw_product_name": "ELECTRONIC COUNTER",
+        "list_of_product_ids": "219,702,196,827,076",
+        "core_id": 726.0
+      }
+    },
+    {
+      "id": "variant-debcf96a-5534-5d1a-a9c3-19d56dae7053",
+      "score": 0.8826586,
+      "metadata": {
+        "text": "core_product_name: elbow fitting",
+        "raw_product_name": "FITTINGS –ELBOW",
+        "list_of_product_ids": "14264,14692,14667,14709,14902,14914,15995,16042,18891,18937,19402,19723,19798,19792,20060,20167,20935,21918,22659,22655,22914,36880,36883,27766,27756,27746,27736,27726,27775,37065,36443",
+        "core_id": 880.0
+      }
+    },
+    {
+      "id": "variant-a32d8296-ea3c-51d4-95de-73a3824167db",
+      "score": 0.8823126,
+      "metadata": {
+        "text": "core_product_name: measurement system",
+        "raw_product_name": "MEASUREMENT SYSTEM",
+        "list_of_product_ids": "188,511,884,918,973",
+        "core_id": 1451.0
+      }
+    },
+    {
+      "id": "variant-89a5c131-f178-5da7-9060-dd340393808b",
+      "score": 0.88087666,
+      "metadata": {
+        "text": "core_product_name: target flowmeter",
+        "raw_product_name": "TARGET FLOWMETERS",
+        "list_of_product_ids": "65,755,745",
+        "core_id": 2207.0
+      }
+    },
+    {
+      "id": "variant-23ddd03b-4ec1-5137-adee-501343ea8d64",
+      "score": 0.8805423,
+      "metadata": {
+        "text": "core_product_name: multi-combination meter",
+        "raw_product_name": "MULTI-COMBINATION METER",
+        "list_of_product_ids": "137,821,494,616,620",
+        "core_id": 1514.0
+      }
+    },
+    {
+      "id": "variant-bc08e481-a9ae-551e-9e13-ace49d85e974",
+      "score": 0.8802749,
+      "metadata": {
+        "text": "core_product_name: measurement",
+        "raw_product_name": "VIBRATION MEASUREMENT",
+        "list_of_product_ids": "242,652,426,624,269",
+        "core_id": 2401.0
+      }
+    },
+    {
+      "id": "variant-555378b6-6cc6-5593-8abe-cf642f1dabd1",
+      "score": 0.88016176,
+      "metadata": {
+        "text": "core_product_name: dosimeter",
+        "raw_product_name": "DOSIMETER",
+        "list_of_product_ids": "154,331,876,938,887",
+        "core_id": 611.0
+      }
+    },
+    {
+      "id": "variant-a8db3448-b0b2-5ef1-a215-ab5bf6aac376",
+      "score": 0.8800447,
+      "metadata": {
+        "text": "core_product_name: cone meter",
+        "raw_product_name": "Cone Meter",
+        "list_of_product_ids": "1,860,527,441",
+        "core_id": 548.0
+      }
+    },
+    {
+      "id": "variant-afab6dc3-050d-5261-8459-27f733291778",
+      "score": 0.8800013,
+      "metadata": {
+        "text": "core_product_name: conductivity meter",
+        "raw_product_name": "CONDUCTIVITY METER",
+        "list_of_product_ids": "1,383,823,184",
+        "core_id": 438.0
+      }
+    },
+    {
+      "id": "variant-d9da89a6-d299-59f2-9254-807eaf9aa7f5",
+      "score": 0.879089,
+      "metadata": {
+        "text": "core_product_name: electro-pneumatic positioner",
+        "raw_product_name": "ELECTRO - PNEUMATIC POSITIONER",
+        "list_of_product_ids": "4,019,640,266",
+        "core_id": 716.0
+      }
+    },
+    {
+      "id": "variant-98ffb5b2-ba7e-59ba-975e-6977c0b87585",
+      "score": 0.87894684,
+      "metadata": {
+        "text": "core_product_name: analogue meter",
+        "raw_product_name": "ANALOGUE METER",
+        "list_of_product_ids": "181,191,811,818,590",
+        "core_id": 104.0
+      }
+    },
+    {
+      "id": "variant-3c0e1a2b-6230-56b3-958c-0c8c6d19abe1",
+      "score": 0.87797964,
+      "metadata": {
+        "text": "core_product_name: explosimeter",
+        "raw_product_name": "EXPLOSIMETER",
+        "list_of_product_ids": "164,651,648,016,498",
+        "core_id": 774.0
+      }
+    },
+    {
+      "id": "variant-4bd609d0-a6e5-5f99-bc69-170a34efc5c1",
+      "score": 0.8778673,
+      "metadata": {
+        "text": "core_product_name: viscosity analyser",
+        "raw_product_name": "VISCOSITY ANALYSER",
+        "list_of_product_ids": "1,411,714,689",
+        "core_id": 2414.0
+      }
+    },
+    {
+      "id": "variant-e087cfea-1dfe-59a0-95e5-714d9562a582",
+      "score": 0.8772226,
+      "metadata": {
+        "text": "core_product_name: rotameter | material: Metal",
+        "raw_product_name": "ROTAMETER(METAL TUBE)",
+        "list_of_product_ids": "138,581,707,819,877",
+        "core_id": 1923.0
+      }
+    },
+    {
+      "id": "variant-3e48178f-5c06-56a3-8668-4e1ad2ec2508",
+      "score": 0.87700295,
+      "metadata": {
+        "text": "core_product_name: ultrasonic flow meter",
+        "raw_product_name": "ULTRASONIC FLOW METER",
+        "list_of_product_ids": "6574,5744,11654,11727,11729,11728,11749,11922,13398,17968,18231,19176,38508,36840,35992,38498",
+        "core_id": 2315.0
+      }
+    },
+    {
+      "id": "variant-ad80e64e-d2d9-512e-8543-513e50466e6a",
+      "score": 0.87668276,
+      "metadata": {
+        "text": "core_product_name: echo sounder",
+        "raw_product_name": "ECHO SOUNDER",
+        "list_of_product_ids": "23413,23410,23407,28225,28248",
+        "core_id": 673.0
+      }
+    },
+    {
+      "id": "variant-0eb5d02c-397d-58fc-80d8-1ab2e3a705cc",
+      "score": 0.87643784,
+      "metadata": {
+        "text": "core_product_name: test and measuring equipment",
+        "raw_product_name": "Test & Measuring Equipment",
+        "list_of_product_ids": "1,401,515,286",
+        "core_id": 2303.0
+      }
+    },
+    {
+      "id": "variant-3976aae7-ebcf-56a0-8db1-19617153ad72",
+      "score": 0.87615216,
+      "metadata": {
+        "text": "core_product_name: trivector meter",
+        "raw_product_name": "TRIVECTOR METER",
+        "list_of_product_ids": "2,152,328,594",
+        "core_id": 2278.0
+      }
+    },
+    {
+      "id": "variant-e015dccb-5f49-5d0f-aa32-a40814dff6c3",
+      "score": 0.87568843,
+      "metadata": {
+        "text": "core_product_name: millivolt meter",
+        "raw_product_name": "MILLIVOLT METER",
+        "list_of_product_ids": "219,972,203,128,609",
+        "core_id": 1477.0
+      }
+    },
+    {
+      "id": "variant-a28f217c-33b3-55f8-9958-274b5f02542e",
+      "score": 0.87565106,
+      "metadata": {
+        "text": "core_product_name: special measuring tool",
+        "raw_product_name": "SPECIAL MEASURING TOOLS",
+        "list_of_product_ids": "216,462,165,121,750",
+        "core_id": 2079.0
+      }
+    },
+    {
+      "id": "variant-a0035dd1-f740-526c-9e6b-edd8cceff95c",
+      "score": 0.8755135,
+      "metadata": {
+        "text": "core_product_name: flow meter",
+        "raw_product_name": "FLOW METER",
+        "list_of_product_ids": "9516,9556,20013,20023,20018,36586",
+        "core_id": 938.0
+      }
+    },
+    {
+      "id": "variant-89d62cb0-5eaa-5b46-9322-2dd3b312b339",
+      "score": 0.87516063,
+      "metadata": {
+        "text": "core_product_name: corrosion voltmeter",
+        "raw_product_name": "CORROSION VOLTMETER",
+        "list_of_product_ids": "1,410,114,945",
+        "core_id": 494.0
+      }
+    },
+    {
+      "id": "variant-0f4440ea-bde2-5092-9bec-3a611b7ce624",
+      "score": 0.87502486,
+      "metadata": {
+        "text": "core_product_name: weldolet",
+        "raw_product_name": "WELDOLETS",
+        "list_of_product_ids": "14393,14717,14720,14723,19813,22920,37261",
+        "core_id": 2465.0
+      }
+    },
+    {
+      "id": "variant-a4f50f03-dcc3-503a-b810-c1859fab99b9",
+      "score": 0.8745918,
+      "metadata": {
+        "text": "core_product_name: coriolis flowmeter",
+        "raw_product_name": "CORIOLIS FLOWMETER",
+        "list_of_product_ids": "14096,15026,15040,15012,15052,15084,15115,15130,15138,15146,15218,15224,15226,15229,15231,15275,15241,15255,15267,15271,23174,36104,36179,36327",
+        "core_id": 488.0
+      }
+    }
+  ]
+}

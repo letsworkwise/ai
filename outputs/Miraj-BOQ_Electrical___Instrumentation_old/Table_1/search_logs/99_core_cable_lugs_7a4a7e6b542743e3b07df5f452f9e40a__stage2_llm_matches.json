@@ -1,0 +1,66 @@
+{
+  "query": "core_product_name: cable lugs | size: cores: 1c, conductor size: 400 sqmm | feature_or_specifications: type: crimping, feature: heavy duty, barrel: long, finish: tinned, material: copper or aluminium, suitability: all aluminium and copper cables, suitability: indoor use, suitability: xlpe (cross-linked polyethylene) cables",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable lug",
+        "raw_product_name": "CABLE LUG",
+        "list_of_product_ids": [
+          "2",
+          "064",
+          "720",
+          "116"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "accessories_or_attachments"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable lug | accessories_or_attachments: Lugs",
+        "raw_product_name": "CABLE – LUGS",
+        "list_of_product_ids": [
+          "13715",
+          "14861",
+          "18113",
+          "19564",
+          "20439",
+          "20413",
+          "20462",
+          "20503",
+          "24057",
+          "23908",
+          "32998",
+          "33032",
+          "33185",
+          "33250",
+          "33552",
+          "33624",
+          "35913"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: tube | material: Copper and Alloys",
+        "raw_product_name": "TUBE COPPER AND ALLOYS",
+        "list_of_product_ids": [
+          "6308",
+          "5479",
+          "8815",
+          "8816",
+          "31806"
+        ]
+      }
+    }
+  ]
+}

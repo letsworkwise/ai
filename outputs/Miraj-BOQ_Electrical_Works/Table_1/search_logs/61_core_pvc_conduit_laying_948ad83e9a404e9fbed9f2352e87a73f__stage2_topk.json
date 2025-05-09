@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: pvc conduit laying | size: conduit: 50 mm | feature_or_specifications: material: pvc (polyvinyl chloride)",
+  "retrieval_results": [
+    {
+      "id": "variant-f8a1ee85-e2d7-59eb-a075-771e231186d7",
+      "score": 0.90716374,
+      "metadata": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC Conduit",
+        "list_of_product_ids": "16287,17401,21575,16288",
+        "core_id": 442.0
+      }
+    },
+    {
+      "id": "variant-7930aac4-4837-5a2d-9160-b0e71f7b6da1",
+      "score": 0.8938446,
+      "metadata": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride) | accessories_or_attachments: accessories",
+        "raw_product_name": "PVC Conduit and accessories",
+        "list_of_product_ids": "7222,7548,10494,10502",
+        "core_id": 442.0
+      }
+    },
+    {
+      "id": "variant-731a2417-b478-5c08-b7a2-e9757c4e5536",
+      "score": 0.8891136,
+      "metadata": {
+        "text": "core_product_name: fitting | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC Pipe Fittings",
+        "list_of_product_ids": "13913,16304,16719,22337,22901",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-bb001d38-b128-522d-9d87-0b59ec1edf02",
+      "score": 0.8882729,
+      "metadata": {
+        "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+        "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+        "list_of_product_ids": "140,901,478,121,282",
+        "core_id": 313.0
+      }
+    },
+    {
+      "id": "variant-76f2380b-e820-5790-96f0-0815dbd8e1a4",
+      "score": 0.8872585,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper | construction_features: PVC (Polyvinyl Chloride) coated",
+        "raw_product_name": "COPPER TUBE (PVC COATED)",
+        "list_of_product_ids": "16380,16442,16464,16437",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-0c89508d-0dbf-50ac-b11c-f1fdbb37cb9f",
+      "score": 0.88562495,
+      "metadata": {
+        "text": "core_product_name: tube | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC TUBE",
+        "list_of_product_ids": "223,352,233,327,804",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-fe38cd61-738a-5cc9-a038-d121d7f1974e",
+      "score": 0.88393164,
+      "metadata": {
+        "text": "core_product_name: rigid rigid polyvinyl chloride (PVC) conduit pipe | material: Polyvinyl Chloride (PVC)",
+        "raw_product_name": "RIGID PVC CONDUIT PIPE",
+        "list_of_product_ids": "20551,20515,20592,20631,20685,20743",
+        "core_id": 1910.0
+      }
+    },
+    {
+      "id": "variant-4768fdd4-2359-5702-b815-a2e57c32cc3d",
+      "score": 0.88112134,
+      "metadata": {
+        "text": "core_product_name: pvc (polyvinyl chloride) pipe",
+        "raw_product_name": "PVC Pipe",
+        "list_of_product_ids": "14387,14545,16303,16718,16711,18505,22900,27371,35734,35735",
+        "core_id": 1824.0
+      }
+    },
+    {
+      "id": "variant-921a72d2-68fb-54d7-821d-995601344d9f",
+      "score": 0.8742682,
+      "metadata": {
+        "text": "core_product_name: tape | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC TAPE",
+        "list_of_product_ids": "20688,20548,20512,20595,20589,20746",
+        "core_id": 815.0
+      }
+    },
+    {
+      "id": "variant-a4fc46d1-dd28-5aaf-b76e-a54ecabd041e",
+      "score": 0.8722586,
+      "metadata": {
+        "text": "core_product_name: handrail | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC HANDRAIL",
+        "list_of_product_ids": "20552,20516,20593,20630,20684,20742,37427",
+        "core_id": 1822.0
+      }
+    },
+    {
+      "id": "variant-25064e37-54fa-5ed5-b3a6-fd5535e931b2",
+      "score": 0.8718918,
+      "metadata": {
+        "text": "core_product_name: water stop | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC WATER STOPS",
+        "list_of_product_ids": "18271,18273,18548,37428",
+        "core_id": 1826.0
+      }
+    },
+    {
+      "id": "variant-1570567c-1ac6-5c6a-a11a-20c3425371b1",
+      "score": 0.8704519,
+      "metadata": {
+        "text": "core_product_name: tile | material: PVC (Polyvinyl Chloride) | type_or_class: tile or roll",
+        "raw_product_name": "FLOOR FINISHING - PVC TILES/ROLLS",
+        "list_of_product_ids": "6334,5505,11356,16744",
+        "core_id": 2.0
+      }
+    },
+    {
+      "id": "variant-c61c3687-035c-50f1-a184-70194e77bd52",
+      "score": 0.868547,
+      "metadata": {
+        "text": "core_product_name: pvc pipe | accessories_or_attachments: fittings | type_or_class: cable conduit",
+        "raw_product_name": "PVC PIPES AND FITTINGS (CABLE CONDUITS)",
+        "list_of_product_ids": "16289,16286,16284,16283,16291,27072,34651,35164",
+        "core_id": 1823.0
+      }
+    },
+    {
+      "id": "variant-d4c22e67-d401-509f-8435-cd289e676970",
+      "score": 0.8685268,
+      "metadata": {
+        "text": "core_product_name: lining | material: PVC (Polyvinyl Chloride) or PE (Polyethylene) or PP (Polypropylene)",
+        "raw_product_name": "LINING (PVC/PE/PP)",
+        "list_of_product_ids": "6171,5341,8813,13165,13181,17878",
+        "core_id": 1367.0
+      }
+    },
+    {
+      "id": "variant-4dd90f9e-4a1a-51a9-85b8-5801fa7498c6",
+      "score": 0.868149,
+      "metadata": {
+        "text": "core_product_name: control cable | size_or_capacity: 1100 Volts | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "1100 VOLTS GRADE PVC CONTROL CABLES",
+        "list_of_product_ids": "23936,24085,21514,28591",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-2d86eccf-fb2d-58f7-b0ec-42bc6ba1a1dd",
+      "score": 0.86668086,
+      "metadata": {
+        "text": "core_product_name: drift eliminator | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "DRIFT ELIMINATOR-PVC",
+        "list_of_product_ids": "233,692,337,023,372",
+        "core_id": 627.0
+      }
+    },
+    {
+      "id": "variant-2c3cc1c4-6df3-5856-b641-bb8663a9e714",
+      "score": 0.86660665,
+      "metadata": {
+        "text": "core_product_name: water tank | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC WATER TANK",
+        "list_of_product_ids": "156,051,589,015,905",
+        "core_id": 1828.0
+      }
+    },
+    {
+      "id": "variant-10c606a9-33db-5bb2-a87f-18c04f2a5b5d",
+      "score": 0.8649737,
+      "metadata": {
+        "text": "core_product_name: cpvc (chlorinated polyvinyl chloride) pipe",
+        "raw_product_name": "CPVC Pipe",
+        "list_of_product_ids": "16672,16668,16720,16712,16679,16727,27073,38432,35205",
+        "core_id": 506.0
+      }
+    },
+    {
+      "id": "variant-74503a1f-fa22-5c08-ac97-9f8dba31f1f4",
+      "score": 0.86389476,
+      "metadata": {
+        "text": "core_product_name: conduit fitting",
+        "raw_product_name": "FITTINGS (CONDUIT)",
+        "list_of_product_ids": "165,391,654,021,574",
+        "core_id": 870.0
+      }
+    },
+    {
+      "id": "variant-6732f056-36dc-5925-8124-8d41e0b618e8",
+      "score": 0.86203164,
+      "metadata": {
+        "text": "core_product_name: ball valve | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "VALVE BALL (PVC)",
+        "list_of_product_ids": "20196,20290,20267,20318,20339,20360,35455",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-a00f6604-75e2-5ab1-a320-ff7946bb62f4",
+      "score": 0.861121,
+      "metadata": {
+        "text": "core_product_name: floor finishing tile | material: PVC (Polyvinyl Chloride) | type_or_class: tile or roll | protection_features: anti static",
+        "raw_product_name": "FLOOR FINISHING - PVC TILES/ROLLS(ANTI STATIC)",
+        "list_of_product_ids": "6335,5506,10802,16743,18508,18528,35355",
+        "core_id": 921.0
+      }
+    },
+    {
+      "id": "variant-a67cdf27-c99f-5eb6-9f3a-62a992bb7a83",
+      "score": 0.860268,
+      "metadata": {
+        "text": "core_product_name: rain water pipe (polyvinyl chloride)",
+        "raw_product_name": "PVC RAIN WATER",
+        "list_of_product_ids": "13445,13497,14536,14544,14546,35723,35724,35725,35731",
+        "core_id": 1825.0
+      }
+    },
+    {
+      "id": "variant-b2934f72-046a-511c-b279-1e68e75f481c",
+      "score": 0.85971725,
+      "metadata": {
+        "text": "core_product_name: control cable | material: PVC (Polyvinyl Chloride) | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES:CONTROL-PVC/XLPE",
+        "list_of_product_ids": "6422,5592,10193,11360,10665,11368,11745,12088,12118,13289,13295,16038,16281,17782,23991,23860,40317",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-e97b28d7-9fa4-50db-91af-7a00f21b0ad4",
+      "score": 0.85956585,
+      "metadata": {
+        "text": "core_product_name: ship repair | material: Insulation | material: Cement | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "SHIP REPAIR (INSULATION/CEMENT/ PVC)",
+        "list_of_product_ids": "2,929,229,499",
+        "core_id": 2008.0
+      }
+    },
+    {
+      "id": "variant-94afc0d1-e0c4-562d-b6d3-a66d8aa3ea57",
+      "score": 0.8581128,
+      "metadata": {
+        "text": "core_product_name: conduit pipe",
+        "raw_product_name": "CONDUIT PIPE",
+        "list_of_product_ids": "222,962,229,728,617",
+        "core_id": 440.0
+      }
+    },
+    {
+      "id": "variant-cd2ce7ac-ec78-5067-9682-9b78a83ccfbb",
+      "score": 0.8572005,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | acronymed_core_product_name: upvc (unplasticized polyvinyl chloride) pipe fitting | material: UPVC (Unplasticized Polyvinyl Chloride)",
+        "raw_product_name": "UPVC PIPE FITTING",
+        "list_of_product_ids": "15515,15516,15934,27366",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-c1595de7-9673-5e8f-846d-3386450520fc",
+      "score": 0.8570034,
+      "metadata": {
+        "text": "core_product_name: power cable | size_or_capacity: medium voltage | material: PVC (Polyvinyl Chloride) or XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES-MEDIUM VOLTAGE-POWER-PVC/XLPE",
+        "list_of_product_ids": "8987,9004,10662,9469,9472,9476,9356,9366,9382,9393,9454,9191,9197,9193,9199,9203,9206,9209,9295,9359,9369,9373,15970,19317,19309,19311,17781,19314,16908,24041,23892,26973,27004,27003,19310,38593,38753,38647,36581,38619,38702,38779,38727,38870,38838,38912,38938,38674,38975,39002,39030,39066,39098,39128,39176,39215,39257,39299,39335,39371,39400,39430,39481,39536,39563,39601,39625,39653,39687,39727,39797,39825,39896",
+        "core_id": 3.0
+      }
+    },
+    {
+      "id": "variant-95b90083-1f6a-5896-9644-118865f8e8ca",
+      "score": 0.85684,
+      "metadata": {
+        "text": "core_product_name: cpvc (chlorinated polyvinyl chloride) pipe | acronymed_core_product_name: cpvc pipe | material: CPVC (Chlorinated Polyvinyl Chloride)",
+        "raw_product_name": "CPVC PIPES & FITTINGS",
+        "list_of_product_ids": "16721,16638,16636,16713,16680,16728,27992,38433,35206",
+        "core_id": 506.0
+      }
+    },
+    {
+      "id": "variant-658c36eb-5400-5ea4-9ce8-e1dc6088296f",
+      "score": 0.85590255,
+      "metadata": {
+        "text": "core_product_name: shutdown valve | material: CPVC (Chlorinated Polyvinyl Chloride)",
+        "raw_product_name": "VALVES SHUTDOWN (CPVC)",
+        "list_of_product_ids": "20198,20291,20268,20319,20338,20361",
+        "core_id": 2381.0
+      }
+    },
+    {
+      "id": "variant-bb96db43-a603-5b08-b082-1a787ab9db3c",
+      "score": 0.8543678,
+      "metadata": {
+        "text": "core_product_name: conduit accessory",
+        "raw_product_name": "CONDUIT ACCESSORIES",
+        "list_of_product_ids": "20550,20514,20591,20632,20686,20744",
+        "core_id": 439.0
+      }
+    }
+  ]
+}

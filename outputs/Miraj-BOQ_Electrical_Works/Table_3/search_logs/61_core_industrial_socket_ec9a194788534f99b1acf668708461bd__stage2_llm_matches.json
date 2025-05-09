@@ -1,0 +1,64 @@
+{
+  "query": "core_product_name: industrial socket | feature_or_specifications: current rating: 5a, voltage: 24v (twenty four volts), type: industrial",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof socket | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF SOCKET",
+        "list_of_product_ids": [
+          "20118",
+          "20440",
+          "20416",
+          "20650",
+          "22853"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: socket",
+        "raw_product_name": "SOCKET",
+        "list_of_product_ids": [
+          "7559",
+          "7233",
+          "10501",
+          "22289",
+          "26077",
+          "26073",
+          "26072",
+          "36553",
+          "37010",
+          "37292",
+          "35869",
+          "35891",
+          "35944"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: reducing socket",
+        "raw_product_name": "REDUCING SOCKET",
+        "list_of_product_ids": [
+          "1",
+          "547",
+          "915",
+          "481"
+        ]
+      }
+    }
+  ]
+}

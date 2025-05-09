@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: danger plate | feature_or_specifications: standard: indian standard 2551",
+  "retrieval_results": [
+    {
+      "id": "variant-185b88e9-63b7-56a0-9df9-801c2285f4c5",
+      "score": 0.86315715,
+      "metadata": {
+        "text": "core_product_name: fitting | standards_and_approvals: IS (Indian Standards)-1239",
+        "raw_product_name": "FITTINGS TO IS-1239",
+        "list_of_product_ids": "14270,14771,33994,33993,33992,33991,33990",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-887682e1-b5c0-5cf1-8309-45fa808bdbac",
+      "score": 0.8555343,
+      "metadata": {
+        "text": "core_product_name: intrinsic safety barrier",
+        "raw_product_name": "INTRINSIC SAFETY BARRIERS",
+        "list_of_product_ids": "137,582,030,823,683",
+        "core_id": 1289.0
+      }
+    },
+    {
+      "id": "variant-27806220-c919-53b0-a8d1-1b2f4465f897",
+      "score": 0.8554335,
+      "metadata": {
+        "text": "core_product_name: marking plate",
+        "raw_product_name": "MARKING PLATE",
+        "list_of_product_ids": "1,542,818,339",
+        "core_id": 1438.0
+      }
+    },
+    {
+      "id": "variant-f0c36a3d-119d-5b25-8f28-08168a4fd2ac",
+      "score": 0.85339826,
+      "metadata": {
+        "text": "core_product_name: plate",
+        "raw_product_name": "PLATES AND ROLLED SECTION",
+        "list_of_product_ids": "14139,18375,18350,22846,38280,35200,35272",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-441d8c72-7c5b-503b-a519-76a02386ab8d",
+      "score": 0.8478245,
+      "metadata": {
+        "text": "core_product_name: deflector plate",
+        "raw_product_name": "DEFLECTOR PLATE",
+        "list_of_product_ids": "16090,16091,16160,16149,16145,16139,16178",
+        "core_id": 563.0
+      }
+    },
+    {
+      "id": "variant-56692aba-58df-55cd-8741-8841f21911e6",
+      "score": 0.84778506,
+      "metadata": {
+        "text": "core_product_name: chequered plate",
+        "raw_product_name": "CHEQUERED PLATE",
+        "list_of_product_ids": "29410,29433,29461,29486,31097,29524,29895,29548,29858,31343,29574,31545,31127,30360,31372,30794,31577,31695,29609,30341,30913,31391,30383,31149,25253,25277,25279,25474,25418,30529,30939,25460,25446,25432,29630,30035,25511,25497,25539,25536,31168,25554,25568,25582,25726,25638,25624,25610,25596,25652,25666,25685,25698,25712,25767,25753,25738,25797,25784,25833,25847,25811,25900,25885,25870,31826,25914,25945,30551,30406,31845,31604,25984,26089,26114,29670,26127,30068,30576,31413,26186,26163,26252,26282,26314,30969,26337,26362,30601,26386,26426,26449,26497,26474,26548,26526,26580,26606,30438,30090,31437,26629,26652,26733,26710,26758,26813,29699,30112,26921,26956,30623,30992,31626,26984,26838,27015,27149,30461,30135,27194,27217,27241,30156,30650,31205,27269,27298,29726,30178,27321,27385,31017,31730,27411,27453,27565,31227,27593,29750,30674,31043,27622,27660,27694,27838,27860,27885,27944,27974,30200,31252,28008,29773,31460,28044,28094,28130,28163,30223,31648,28309,28332,31865,28366,30491,31482,28397,28437,28478,28528,30246,31272,28555,28639,28677,28708,30701,28734,28871,28849,28895,29832,30269,28931,28952,31295,31507,28983,29008,29031,30725,29058,29080,30296,31319,31526,29126,31075,31674,29147,29807,29171,29196,29221,30316,29335,29315,29359,29383,31911,31936,31955,31978,32028,32000,32056,32070,32094,32118,32149,32177,32208,32265,32251,32236,32296,32313,32339,32354,32377,32392,32415,32459,32437,32542,32519,32555,32571,32896,32589,32645,32621,32681,32684,32720,32742,32785,32828,32862,32923,32973,33056,33077,33108,33160,33138,33225,33295,33325,33362,33403,33472,33523,33584,33656,33700,33726,33747,33772,33797,33831,33881,33857,33928,33970,34050,34074,34100,34127,34183,34227,34205,34265,34294,34155,34363,34392,34431,34453,34475,34510,34531,34555,34612,34661,34714,34741,34765,34812,34788,34867,34835,34891,34939,35031,35066,35088,35110,35132,35175",
+        "core_id": 345.0
+      }
+    },
+    {
+      "id": "variant-b7c0512d-7522-56f2-893f-6d86c283186d",
+      "score": 0.8465138,
+      "metadata": {
+        "text": "core_product_name: check valve | type_or_class: Dual Plate Type",
+        "raw_product_name": "VALVE CHECK (DUAL PLATE TYPE)",
+        "list_of_product_ids": "6234,5403,11558,11057,10427,11468,11476,11470,11474,12333,12431,12494,13264,19422,19730,22771,31566,30834",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-00b0fc93-0903-5e42-ba5a-16f0089f41f2",
+      "score": 0.8464155,
+      "metadata": {
+        "text": "core_product_name: switch plate",
+        "raw_product_name": "SWITCH PLATE",
+        "list_of_product_ids": "20511,20547,20587,20634,20689,20747",
+        "core_id": 2169.0
+      }
+    },
+    {
+      "id": "variant-4ee544d6-0f39-5064-8d24-8c48472ff71a",
+      "score": 0.84601724,
+      "metadata": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": "5954,6782,12132,14671,14679,18191,20174,36159",
+        "core_id": 2156.0
+      }
+    },
+    {
+      "id": "variant-5b452ea9-dd5f-5e3b-bde6-d56b975fbc36",
+      "score": 0.8459478,
+      "metadata": {
+        "text": "core_product_name: fabricated fitting | material: Plate | construction_features: Cladded",
+        "raw_product_name": "FITTINGS FABRICATED FROM PLATE - CLADDED",
+        "list_of_product_ids": "6326,5497,11561,24593,34020,34019,36846",
+        "core_id": 874.0
+      }
+    },
+    {
+      "id": "variant-a42e2286-63d0-50f1-b7db-ecb2ab6b3661",
+      "score": 0.84454507,
+      "metadata": {
+        "text": "core_product_name: hazardous area lighting panel | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF - HAZARDOUS AREA LIGHTING PANEL",
+        "list_of_product_ids": "19706,19705,19702,19700,19695,19670,27175,35892,35945,40178,40228",
+        "core_id": 891.0
+      }
+    },
+    {
+      "id": "variant-fe2ac88e-3cb2-59c2-9c54-22ff3140d31a",
+      "score": 0.844453,
+      "metadata": {
+        "text": "core_product_name: fabricated fitting | material: Exotic Materials | construction_features: From Plates",
+        "raw_product_name": "FITTINGS FAB. FROM PLATES-EXOTIC MATLS.",
+        "list_of_product_ids": "6325,5496,13133,15989,24585,34018,34017,34016,34015,34014,34013",
+        "core_id": 874.0
+      }
+    },
+    {
+      "id": "variant-475d6e28-3e39-5b3c-86e9-f6970c05297a",
+      "score": 0.84437937,
+      "metadata": {
+        "text": "core_product_name: hazardous area cable gland",
+        "raw_product_name": "CABLE GLANDS ( HAZARDOUS AREA)",
+        "list_of_product_ids": "6443,5613,8218,10559,10589,10590,10604,8216,8219,8220,8224,12670,17578,23865,22857,24500,35772",
+        "core_id": 279.0
+      }
+    },
+    {
+      "id": "variant-fc5ea489-34d9-5f79-8a61-0e7e57a98756",
+      "score": 0.84394515,
+      "metadata": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards) 3589",
+        "raw_product_name": "PIPE-CARBON STEEL IS: 3589",
+        "list_of_product_ids": "15698,14000,21300,22746,22893,37056,37052,37057,37058,37059,37060,37061,37062",
+        "core_id": 529.0
+      }
+    },
+    {
+      "id": "variant-e516e659-612c-582a-b731-007fc95acd57",
+      "score": 0.8439376,
+      "metadata": {
+        "text": "core_product_name: level switch | protection_features: Explosion Proof",
+        "raw_product_name": "Level Switches (Explosion Proof)",
+        "list_of_product_ids": "17095,17094,17093,17092,17091,17090,17096,27177",
+        "core_id": 1337.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.84388274,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    },
+    {
+      "id": "variant-f15c081d-f76b-53df-85b9-2c64f944ca8a",
+      "score": 0.84365267,
+      "metadata": {
+        "text": "core_product_name: plate interceptor",
+        "raw_product_name": "PLATE INTERCEPTOR",
+        "list_of_product_ids": "139,522,001,421,049",
+        "core_id": 1701.0
+      }
+    },
+    {
+      "id": "variant-f513e1e0-8fc9-5237-9a35-e7fed3e9bcf0",
+      "score": 0.8428671,
+      "metadata": {
+        "text": "core_product_name: plate | material: Alloy Steel",
+        "raw_product_name": "ALLOY STEEL PLATE",
+        "list_of_product_ids": "9970,9972,9973,9974,10276,9982,9984,9983,9985,10284,10224,10237,9969,18238,29974,29978,29981,32136,32165,32190,32194,32191,35709,35710,35711",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-83ffcc6e-df53-515c-8647-84fb481b59eb",
+      "score": 0.84237343,
+      "metadata": {
+        "text": "core_product_name: plate valve",
+        "raw_product_name": "PLATE VALVE",
+        "list_of_product_ids": "137,941,445,914,496",
+        "core_id": 1702.0
+      }
+    },
+    {
+      "id": "variant-8de1d93e-9af1-5c68-bf1c-d9c15a9448e9",
+      "score": 0.84212893,
+      "metadata": {
+        "text": "core_product_name: fabricated fitting | material: Plate | standards_and_approvals: A.S. (Australian Standard)",
+        "raw_product_name": "FITTINGS FABRICATED FROM PLATE - A.S.",
+        "list_of_product_ids": "6323,5494,10385,11289,15986,24591,34007,34006,34005,34004,34003,34002,34001,34000,33999,34008,36845",
+        "core_id": 874.0
+      }
+    },
+    {
+      "id": "variant-e8d0d92b-1dda-5e70-b54f-38e4b41d9194",
+      "score": 0.8420157,
+      "metadata": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards): 1239",
+        "raw_product_name": "PIPE-CARBON STEEL IS: 1239",
+        "list_of_product_ids": "13999,15697,21642,22745,22894",
+        "core_id": 529.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.8416309,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-157884b9-3ab5-51ae-b3f9-904ad08fbb26",
+      "score": 0.8414573,
+      "metadata": {
+        "text": "core_product_name: plate | material: Steel",
+        "raw_product_name": "STEEL PLATE",
+        "list_of_product_ids": "15457,15466,14057,15473,15475,15478,15836,19346,18374,18349,19348,21285,22300,22845,21288,22303,26241,29274,29273,29270,38270,38278,36661,36651,37396",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-1105631b-0b22-54a6-a4f0-6a6c11ad3f7e",
+      "score": 0.8411864,
+      "metadata": {
+        "text": "core_product_name: cathodic protection agency",
+        "raw_product_name": "CATHODIC PROTECTION AGENCIES",
+        "list_of_product_ids": "13890",
+        "core_id": 314.0
+      }
+    },
+    {
+      "id": "variant-8fe75b2b-6667-5672-92af-b5e2b55f30aa",
+      "score": 0.8409362,
+      "metadata": {
+        "text": "core_product_name: cathodic protection system",
+        "raw_product_name": "Cathodic Protection System",
+        "list_of_product_ids": "18681,19166,21519,18680,36550",
+        "core_id": 503.0
+      }
+    },
+    {
+      "id": "variant-6c3737d4-39a0-5f0c-aeaf-89178b4d57df",
+      "score": 0.84091914,
+      "metadata": {
+        "text": "core_product_name: plate | material: Stainless Steel",
+        "raw_product_name": "STAINLESS STEEL PLATE",
+        "list_of_product_ids": "29507,29508,29506,29509,29511,29510,29535,32724",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-97c47e7e-d6e0-5d36-80a4-01f0fe6e1f26",
+      "score": 0.84020615,
+      "metadata": {
+        "text": "core_product_name: heat exchanger | construction_features: plates-gasketted",
+        "raw_product_name": "HEAT EXCHANGER (PLATES-GASKETTED)",
+        "list_of_product_ids": "6669,5840,12278,8820,8817,8821,23059,37943,37962,37991,38013,38043,38348,38369,37896,38404,38423",
+        "core_id": 1110.0
+      }
+    },
+    {
+      "id": "variant-1a5a5bf1-d5cc-5063-b966-95d4799adb0f",
+      "score": 0.84002197,
+      "metadata": {
+        "text": "core_product_name: safety valve",
+        "raw_product_name": "SAFETY VALVES",
+        "list_of_product_ids": "14389,14381,14554,15199,15333",
+        "core_id": 1950.0
+      }
+    },
+    {
+      "id": "variant-1e93b9e7-82e4-50d9-8b21-b403c01d688f",
+      "score": 0.8395562,
+      "metadata": {
+        "text": "core_product_name: surge barrier",
+        "raw_product_name": "SURGE BARRIER",
+        "list_of_product_ids": "83,971,395,122,382",
+        "core_id": 2158.0
+      }
+    },
+    {
+      "id": "variant-ddd4f187-98c8-5f28-be50-d5624a3104d8",
+      "score": 0.83949715,
+      "metadata": {
+        "text": "core_product_name: safety shoe",
+        "raw_product_name": "SAFTY SHOES",
+        "list_of_product_ids": "32882,32883,33005,33038,33192,36664,33257,33560,33631,35919",
+        "core_id": 1951.0
+      }
+    }
+  ]
+}

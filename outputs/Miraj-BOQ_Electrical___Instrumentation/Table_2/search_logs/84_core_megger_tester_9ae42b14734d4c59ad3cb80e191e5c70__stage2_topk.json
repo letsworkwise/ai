@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: megger tester",
+  "retrieval_results": [
+    {
+      "id": "variant-5010b770-6de5-50b7-8418-bbbb0e937ded",
+      "score": 0.91420245,
+      "metadata": {
+        "text": "core_product_name: megger (megohmmeter) instrument",
+        "raw_product_name": "MEGGER INSTRUMENT",
+        "list_of_product_ids": "166,191,659,627,346",
+        "core_id": 1458.0
+      }
+    },
+    {
+      "id": "variant-bc4a43e5-ae89-513e-b435-8a2fa0f517cc",
+      "score": 0.8771513,
+      "metadata": {
+        "text": "core_product_name: test product",
+        "raw_product_name": "TEST PRODUCT",
+        "list_of_product_ids": "1,310,627,675",
+        "core_id": 2235.0
+      }
+    },
+    {
+      "id": "variant-0d0de11c-f5fe-5c46-baf4-6f26d957da45",
+      "score": 0.8761456,
+      "metadata": {
+        "text": "core_product_name: meter prover",
+        "raw_product_name": "METER PROVERS",
+        "list_of_product_ids": "6610,5780,11824,10156,10910,11904",
+        "core_id": 1468.0
+      }
+    },
+    {
+      "id": "variant-ec24adf3-64c0-5cab-a601-956105d3788f",
+      "score": 0.8757679,
+      "metadata": {
+        "text": "core_product_name: fieldbus tester",
+        "raw_product_name": "FIELDBUS TESTER",
+        "list_of_product_ids": "5,949,677,810,923",
+        "core_id": 823.0
+      }
+    },
+    {
+      "id": "variant-59b5e3e6-cca0-5578-9fb8-1da38d04a8ce",
+      "score": 0.8751129,
+      "metadata": {
+        "text": "core_product_name: test separator",
+        "raw_product_name": "TEST SEPARATOR",
+        "list_of_product_ids": "6093,5260,8755,23730",
+        "core_id": 2233.0
+      }
+    },
+    {
+      "id": "variant-0eb5d02c-397d-58fc-80d8-1ab2e3a705cc",
+      "score": 0.8729885,
+      "metadata": {
+        "text": "core_product_name: test and measuring equipment",
+        "raw_product_name": "Test & Measuring Equipment",
+        "list_of_product_ids": "1,401,515,286",
+        "core_id": 2303.0
+      }
+    },
+    {
+      "id": "variant-c3d53cbb-630e-5fa5-ae1f-516e4650d0c5",
+      "score": 0.86998403,
+      "metadata": {
+        "text": "core_product_name: deadweight tester",
+        "raw_product_name": "DEADWEIGHT TESTER",
+        "list_of_product_ids": "16391,16406,16492,19503",
+        "core_id": 561.0
+      }
+    },
+    {
+      "id": "variant-37a20e30-39e6-5cce-9382-7bf349c28f51",
+      "score": 0.86975425,
+      "metadata": {
+        "text": "core_product_name: receiver gauge",
+        "raw_product_name": "RECEIVER GAUGES",
+        "list_of_product_ids": "10283,10000,10021,22687,37662,37655,35965",
+        "core_id": 1869.0
+      }
+    },
+    {
+      "id": "variant-4b8a5a23-ea81-58fe-887d-4e5efd8ffbe5",
+      "score": 0.8689287,
+      "metadata": {
+        "text": "core_product_name: instrument test bench",
+        "raw_product_name": "INSTRUMENT TEST BENCH",
+        "list_of_product_ids": "5964,6792,10935,10928",
+        "core_id": 1257.0
+      }
+    },
+    {
+      "id": "variant-dc9cd3e7-cabc-5ac2-9d82-18ad3fe9918c",
+      "score": 0.8671994,
+      "metadata": {
+        "text": "core_product_name: mixer",
+        "raw_product_name": "MIXER",
+        "list_of_product_ids": "1,376,421,278",
+        "core_id": 1483.0
+      }
+    },
+    {
+      "id": "variant-d573ad46-f974-5d62-9670-e3a5a7d099e5",
+      "score": 0.86712927,
+      "metadata": {
+        "text": "core_product_name: sealer",
+        "raw_product_name": "SEALERS",
+        "list_of_product_ids": "15431,18761,30756,30782,30821,31886",
+        "core_id": 1985.0
+      }
+    },
+    {
+      "id": "variant-13d1ac92-02c1-50bb-afd6-80bbe875e2f8",
+      "score": 0.86669946,
+      "metadata": {
+        "text": "core_product_name: analyser",
+        "raw_product_name": "ANALYSER",
+        "list_of_product_ids": "14178,17079,19189,19477,39579,39910,39958,40087",
+        "core_id": 106.0
+      }
+    },
+    {
+      "id": "variant-b72ff8c8-af7d-5e16-aeb6-21b34a6c6f22",
+      "score": 0.8661995,
+      "metadata": {
+        "text": "core_product_name: hydrogen analyser",
+        "raw_product_name": "HYDROGEN ANALYSER",
+        "list_of_product_ids": "13676,14670,14678,15106,36200,36349",
+        "core_id": 1208.0
+      }
+    },
+    {
+      "id": "variant-dc902e3d-597c-5dda-bda3-7f176d1b91e9",
+      "score": 0.8661237,
+      "metadata": {
+        "text": "core_product_name: detector",
+        "raw_product_name": "DETECTOR",
+        "list_of_product_ids": "8900,8902,9849,9858,9867,18250,18249,18248,36841,36225,36377",
+        "core_id": 579.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.86537176,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-64fa1118-ab14-5669-9c06-569ca21af817",
+      "score": 0.8653318,
+      "metadata": {
+        "text": "core_product_name: geyser",
+        "raw_product_name": "Geyser",
+        "list_of_product_ids": "173,781,737,921,425",
+        "core_id": 1086.0
+      }
+    },
+    {
+      "id": "variant-3e6d7b8e-18de-5e41-95ff-e50bbbc94363",
+      "score": 0.8650467,
+      "metadata": {
+        "text": "core_product_name: sample cooler",
+        "raw_product_name": "SAMPLE COOLER",
+        "list_of_product_ids": "5980,5153,8503,8753,23170,23169,23192,23191,26142,23704",
+        "core_id": 1954.0
+      }
+    },
+    {
+      "id": "variant-6d0c75dd-9f8b-5217-b1e9-2776cd193325",
+      "score": 0.86485094,
+      "metadata": {
+        "text": "core_product_name: electronic test bench",
+        "raw_product_name": "ELECTRONIC TEST BENCH",
+        "list_of_product_ids": "171,821,716,727,677",
+        "core_id": 728.0
+      }
+    },
+    {
+      "id": "variant-f36f9a26-b202-54c5-b8bf-b0bf8137e3a4",
+      "score": 0.8646644,
+      "metadata": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPERATURE GAUGES",
+        "list_of_product_ids": "19536,19516,27065,37528,35959,35961,37407",
+        "core_id": 2222.0
+      }
+    },
+    {
+      "id": "variant-613d8036-5c31-5d46-8940-59c45858fe7a",
+      "score": 0.86456615,
+      "metadata": {
+        "text": "core_product_name: automatic sampler",
+        "raw_product_name": "AUTOMATIC GAS SAMPLER",
+        "list_of_product_ids": "6,525,569,635,690",
+        "core_id": 142.0
+      }
+    },
+    {
+      "id": "variant-816a30a2-8f2e-5f97-adc9-aa871f3d496e",
+      "score": 0.8645633,
+      "metadata": {
+        "text": "core_product_name: automatic sampler",
+        "raw_product_name": "AUTOMATIC SAMPLER",
+        "list_of_product_ids": "20254,20346,20482,20475,20663,20721",
+        "core_id": 142.0
+      }
+    },
+    {
+      "id": "variant-23ddd03b-4ec1-5137-adee-501343ea8d64",
+      "score": 0.8645555,
+      "metadata": {
+        "text": "core_product_name: multi-combination meter",
+        "raw_product_name": "MULTI-COMBINATION METER",
+        "list_of_product_ids": "137,821,494,616,620",
+        "core_id": 1514.0
+      }
+    },
+    {
+      "id": "variant-f137bdce-af71-511f-9954-636b434a08d5",
+      "score": 0.8645528,
+      "metadata": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPARETURE GAUGE",
+        "list_of_product_ids": "13992,36535,17284,17283,17282,23171,35667,35957,35960,35972,37406",
+        "core_id": 2222.0
+      }
+    },
+    {
+      "id": "variant-4f374d94-1b89-566c-a340-967f5423bfe0",
+      "score": 0.86443067,
+      "metadata": {
+        "text": "core_product_name: gauge",
+        "raw_product_name": "ROCHESTER GAUGE",
+        "list_of_product_ids": "13848,13850,15244,15258,21980,37412",
+        "core_id": 1043.0
+      }
+    },
+    {
+      "id": "variant-3976aae7-ebcf-56a0-8db1-19617153ad72",
+      "score": 0.86433905,
+      "metadata": {
+        "text": "core_product_name: trivector meter",
+        "raw_product_name": "TRIVECTOR METER",
+        "list_of_product_ids": "2,152,328,594",
+        "core_id": 2278.0
+      }
+    },
+    {
+      "id": "variant-1ac5d110-6c9d-59d6-bd4c-32269eda6ffd",
+      "score": 0.86394006,
+      "metadata": {
+        "text": "core_product_name: meter",
+        "raw_product_name": "WOBBE METERS",
+        "list_of_product_ids": "6564,5734,18968,37761,35704",
+        "core_id": 1470.0
+      }
+    },
+    {
+      "id": "variant-b281fb48-a8db-5508-9142-753be03be143",
+      "score": 0.8638022,
+      "metadata": {
+        "text": "core_product_name: manometer | material: Mercury",
+        "raw_product_name": "MANOMETER (MERCURY)",
+        "list_of_product_ids": "219,942,203,028,608",
+        "core_id": 1435.0
+      }
+    },
+    {
+      "id": "variant-a3ea87f7-7dcb-5836-840f-58464d7fabbb",
+      "score": 0.8637909,
+      "metadata": {
+        "text": "core_product_name: meter",
+        "raw_product_name": "METERS",
+        "list_of_product_ids": "6464,5635,9440,9449,9457,9465,9224,9223,20438,20412,20968",
+        "core_id": 1470.0
+      }
+    },
+    {
+      "id": "variant-cbae75ef-1f57-51fb-a18d-88a528fb3ab5",
+      "score": 0.86368275,
+      "metadata": {
+        "text": "core_product_name: measuring special gauge",
+        "raw_product_name": "SPECIAL MEASURING GAUGES",
+        "list_of_product_ids": "216,522,165,021,743",
+        "core_id": 2077.0
+      }
+    },
+    {
+      "id": "variant-eddcf08b-628e-5689-b3ec-a48b2f96dc3e",
+      "score": 0.8635073,
+      "metadata": {
+        "text": "core_product_name: moisture analyzer system integrator",
+        "raw_product_name": "Moisture Analyzer System Integrator",
+        "list_of_product_ids": "18263,18550,18262,39321",
+        "core_id": 1529.0
+      }
+    }
+  ]
+}

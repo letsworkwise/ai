@@ -1,0 +1,58 @@
+{
+  "query": "core_product_name: receptacle | size: type: RC | feature_or_specifications: feature: flame proof",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof convenience outlet | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF - CONVENIENCE OUTLETS",
+        "list_of_product_ids": [
+          "19657",
+          "19639",
+          "19667",
+          "28279"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof socket | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF SOCKET",
+        "list_of_product_ids": [
+          "20118",
+          "20440",
+          "20416",
+          "20650",
+          "22853"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof plug | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF PLUG",
+        "list_of_product_ids": [
+          "201",
+          "172",
+          "041",
+          "520",
+          "651"
+        ]
+      }
+    }
+  ]
+}

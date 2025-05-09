@@ -1,0 +1,72 @@
+{
+  "query": "core_product_name: temperature bath set | size: range: 0~200°C",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: bath heater",
+        "raw_product_name": "BATH HEATERS",
+        "list_of_product_ids": [
+          "8750",
+          "14188",
+          "16456",
+          "17548",
+          "22671"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: heat exchanger",
+        "raw_product_name": "HEAT EXCHANGER",
+        "list_of_product_ids": [
+          "6660",
+          "5831",
+          "8523",
+          "11965",
+          "12047",
+          "12855",
+          "12976",
+          "16931",
+          "17274",
+          "17385",
+          "23724",
+          "23754",
+          "21191",
+          "26141",
+          "36717",
+          "36587",
+          "36648",
+          "37716",
+          "37721",
+          "36077",
+          "36287",
+          "36281"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: strip heater",
+        "raw_product_name": "STRIP HEATER",
+        "list_of_product_ids": [
+          "1",
+          "552",
+          "014",
+          "072"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: epabx(electronic private automatic branch exchange) system | acronymed_core_product_name: epabx system | feature_or_specifications: operator console: included, battery: included, battery charger: included, junction boxes: included, accessories: included, cable glands: suitable size, cable lugs: included, installation: CHM Room, cabling: between CHM room and all telephone locations, hardware: to fulfill system requirement",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: electronic private automatic branch exchange system | acronymed_core_product_name: epabx system",
+        "raw_product_name": "EPABX SYSTEM",
+        "list_of_product_ids": [
+          "18169",
+          "18166",
+          "18575",
+          "26934",
+          "35019"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: internal servicing telephone exchange",
+        "raw_product_name": "INTERNAL TELEPHONE EXCHANGE SERVICING",
+        "list_of_product_ids": [
+          "243",
+          "572",
+          "686",
+          "724",
+          "356"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: telephone system",
+        "raw_product_name": "TELEPHONE SYSTEM",
+        "list_of_product_ids": [
+          "193",
+          "772",
+          "764",
+          "139",
+          "783"
+        ]
+      }
+    }
+  ]
+}

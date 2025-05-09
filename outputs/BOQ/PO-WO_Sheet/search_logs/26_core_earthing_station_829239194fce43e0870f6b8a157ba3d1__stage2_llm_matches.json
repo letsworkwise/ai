@@ -1,0 +1,67 @@
+{
+  "query": "core_product_name: earthing station | size: inspection chamber: 400(L)x400(W)x450(D)mm, thickness: 150mm, ci(cast iron) pipe: 100mm id, thickness: 13mm, gi(galvanized iron) plate: 600x600x3mm | feature_or_specifications: feature: providing, installing, testing, commissioning, cover/lid: cast iron, frame: cast iron, pipe: cast iron, watering funnel: with wire mesh, mixture: salt & charcoal, bolts & nuts: m10, clamps: universal stainless steel",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cast iron pipe",
+        "raw_product_name": "PIPE CAST IRON",
+        "list_of_product_ids": [
+          "7576",
+          "7251",
+          "11128",
+          "11130",
+          "7830",
+          "14420",
+          "14532",
+          "15940",
+          "16307",
+          "23714",
+          "39752",
+          "39929"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: plate | material: Cast Iron",
+        "raw_product_name": "CAST IRON PLATE",
+        "list_of_product_ids": [
+          "399",
+          "713",
+          "996",
+          "039",
+          "973"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: fitting | material: Cast Iron (CI)",
+        "raw_product_name": "FITTINGS -CAST IRON (CI)",
+        "list_of_product_ids": [
+          "7618",
+          "7292",
+          "7881",
+          "15941",
+          "16290",
+          "16308",
+          "34586",
+          "35732",
+          "35733"
+        ]
+      }
+    }
+  ]
+}

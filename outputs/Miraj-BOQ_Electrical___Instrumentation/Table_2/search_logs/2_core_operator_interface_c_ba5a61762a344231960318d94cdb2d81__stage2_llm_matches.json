@@ -1,0 +1,54 @@
+{
+  "query": "core_product_name: operator interface console computer | acronymed_core_product_name: oic | size: monitor size: 22 inch | feature_or_specifications: feature: colour led monitor, feature: standard keyboard, feature: carousal, feature: ews (engineering workstation)/ows (operator workstation), feature: gms (gas monitoring system), feature: weigh bridge, feature: cylinder inventory",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: miniature type hardwire console item",
+        "raw_product_name": "MINIATURE TYPE HARDWIRE CONSOLE ITEMS",
+        "list_of_product_ids": [
+          "5935",
+          "6764",
+          "10918",
+          "10920",
+          "10919"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: control desk",
+        "raw_product_name": "CONTROL DESK",
+        "list_of_product_ids": [
+          "14011",
+          "17257",
+          "19417",
+          "19412",
+          "36643"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: instrument panel",
+        "raw_product_name": "INSTRUMENT PANEL",
+        "list_of_product_ids": [
+          "13720",
+          "14806",
+          "14814",
+          "14824",
+          "21097",
+          "22773",
+          "36101"
+        ]
+      }
+    }
+  ]
+}

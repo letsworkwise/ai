@@ -1,0 +1,178 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Making of 1/2\" screwed connections on 1-1/2\" blind flanges of specified materials/ ratings, by drilling holes and tapping In   Carbon Steel   ,   150#   flange",
+      "core_product_name": "screwed connection making on blind flanges",
+      "acronymed_core_product_name": "",
+      "size": "connection size: 1/2\", flange size: 1-1/2\"",
+      "feature_or_specifications": "feature: drilling holes and tapping, material: carbon steel, rating: 150#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Making of 1/2\" screwed connections on 1-1/2\" blind flanges of specified materials/ ratings, by drilling holes and tapping In   Carbon Steel   ,   300#   flange",
+      "core_product_name": "screwed connection making on blind flanges",
+      "acronymed_core_product_name": "",
+      "size": "connection size: 1/2\", flange size: 1-1/2\"",
+      "feature_or_specifications": "feature: drilling holes and tapping, material: carbon steel, rating: 300#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Making of 1/2\" screwed connections on 2\" blind flanges of specified materials/ ratings, by drilling holes and tapping In   Carbon Steel   ,   150#   flange",
+      "core_product_name": "screwed connection making on blind flanges",
+      "acronymed_core_product_name": "",
+      "size": "connection size: 1/2\", flange size: 2\"",
+      "feature_or_specifications": "feature: drilling holes and tapping, material: carbon steel, rating: 150#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Making of 1/2\" screwed connections on 2\" blind flanges of specified materials/ ratings, by drilling holes and tapping In   Carbon Steel   ,   300#   flange",
+      "core_product_name": "screwed connection making on blind flanges",
+      "acronymed_core_product_name": "",
+      "size": "connection size: 1/2\", flange size: 2\"",
+      "feature_or_specifications": "feature: drilling holes and tapping, material: carbon steel, rating: 300#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Making of 1/2\" screwed connections on 3\" blind flanges of specified materials/ ratings, by drilling holes and tapping In   Carbon Steel   ,   150#   flange",
+      "core_product_name": "screwed connection making on blind flanges",
+      "acronymed_core_product_name": "",
+      "size": "connection size: 1/2\", flange size: 3\"",
+      "feature_or_specifications": "feature: drilling holes and tapping, material: carbon steel, rating: 150#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "PWHT/ STRESS RELIEF - CARBON STEEL",
+      "core_product_name": "post-weld heat treatment or stress relief",
+      "acronymed_core_product_name": "pwht",
+      "size": "",
+      "feature_or_specifications": "material: carbon steel",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      390,
+      399
+    ],
+    "original_rows": [
+      {
+        "0": 391,
+        "1": 0,
+        "2": "01II.750.10.1V1",
+        "3": "In   Carbon Steel   ,   150#   flange",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 392,
+        "1": 0,
+        "2": "01II.750.10.1V2",
+        "3": "In   Carbon Steel   ,   300#   flange",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 393,
+        "1": 0,
+        "2": "01II.750.20",
+        "3": "Making of 1/2\" screwed connections on 2\" blind flanges of specified materials/ ratings, by drilling holes and tapping",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 394,
+        "1": 0,
+        "2": "01II.750.20.1V1",
+        "3": "In   Carbon Steel   ,   150#   flange",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 395,
+        "1": 0,
+        "2": "01II.750.20.1V2",
+        "3": "In   Carbon Steel   ,   300#   flange",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 396,
+        "1": 0,
+        "2": "01II.750.50",
+        "3": "Making of 1/2\" screwed connections on 3\" blind flanges of specified materials/ ratings, by drilling holes and tapping",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 397,
+        "1": 0,
+        "2": "01II.750.50.1V1",
+        "3": "In   Carbon Steel   ,   150#   flange",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 398,
+        "1": 0,
+        "2": "01II.780",
+        "3": "PWHT/ STRESS RELIEF - CARBON STEEL",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 399,
+        "1": 0,
+        "2": "01II.780.10",
+        "3": "Post-weld Heat Treatment (PWHT)/ Stress Relieving of all weld joints in impulse piping of Pressure Gauges",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 400,
+        "1": 0,
+        "2": "01II.780.10.2",
+        "3": "Installation standard 7-52-0434/ 0435/1121/1122",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2289,
+    "completion_tokens": 1142
+  }
+}

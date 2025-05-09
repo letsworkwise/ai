@@ -1,0 +1,60 @@
+{
+  "query": "core_product_name: arc flash suit | feature_or_specifications: voltage system: 11 kv, cal: 40",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: fire proximity suit | protection_features: Fireproof",
+        "raw_product_name": "Fire Proximity Suit",
+        "list_of_product_ids": [
+          "14352",
+          "14355",
+          "14340",
+          "37468"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: flash tank",
+        "raw_product_name": "FLASH TANK",
+        "list_of_product_ids": [
+          "21074",
+          "21119",
+          "21120",
+          "21110",
+          "21145",
+          "21220",
+          "21713",
+          "35684"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: product quality analyser | type_or_class: Flash Point",
+        "raw_product_name": "PRODUCT QUALITY ANALYSERS (FLASH POINT)",
+        "list_of_product_ids": [
+          "6555",
+          "5725",
+          "11197",
+          "10146",
+          "11894",
+          "20860",
+          "22042",
+          "29877",
+          "29647",
+          "32945",
+          "35349",
+          "36236",
+          "36388"
+        ]
+      }
+    }
+  ]
+}

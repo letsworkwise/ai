@@ -1,0 +1,17 @@
+{
+  "sheet_name": "architecture",
+  "boq_context": "Sl. No. | PART NO | ITEM NO | DESCRIPTION | QTY | UOM | RATE | AMOUNT | TPPL Rate | TPPL Amount\n712 | 0 | 01AR | ARCHITECTURE |  |  |  |  |  | \n713 | 0 | 01AR.8 | ROOFING |  |  |  |  |  | ",
+  "header_rows": "Sl. No. | PART NO | ITEM NO | DESCRIPTION | QTY | UOM | RATE | AMOUNT | TPPL Rate | TPPL Amount",
+  "products_entries": [
+    {
+      "section_context_for_this_product_block": "ARCHITECTURE > ROOFING",
+      "full_product_description": "Barricading of corrugated GI sheet of 0.8mm thickness Providing and fixing corrugated GI sheet of 0.8mm thickness, minimum 120 GSM coating and conforming to IS : 277 in barricading cladding, corner piece, etc. with 8mm dia `J' or `L' type anticorrosive polymer coated GI hook, bolts, nuts and polymer cap, seal and thrust washer including cutting to proper size, drilling holes, mitering, laps, finishing, providing anticorrosive protective coating on hooks, nuts, bolts etc. and maintaining the same during project execution. After completion of the retention period mentioned elsewhere in the BID document, all materials shall be dismantled  and taken away by the contractor outside plant boundary to the complete satisfaction of Engineer-in-charge all complete as per the direction of Engineer-in-charge. SUPPLY OF ALL MATERIAL IN CONTRACTOR'S SCOPE.",
+      "core_product_name": "corrugated galvanized iron sheet",
+      "acronymed_core_product_name": "gi sheet",
+      "size": "sheet thickness: 0.8mm, hook diameter: 8mm",
+      "feature_or_specifications": "coating: minimum 120 gsm, standard: indian standard 277, hook type: j or l type, hook coating: anticorrosive polymer coated, bolts/nuts/cap/seal/thrust washer: polymer, feature: anticorrosive protective coating on hooks, nuts, bolts, feature: all materials to be dismantled and taken away by contractor after retention period, feature: supply of all material in contractor's scope",
+      "quantity": "2300.0",
+      "unit": "m²"
+    }
+  ]
+}

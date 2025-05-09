@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: safety chart | feature_or_specifications: language: english and kannada",
+  "retrieval_results": [
+    {
+      "id": "variant-81632571-2c7b-524d-bcc4-14aa9f2e33f4",
+      "score": 0.87029994,
+      "metadata": {
+        "text": "core_product_name: lighting and power panel | operating_conditions: Safe Area",
+        "raw_product_name": "LIGHTING & POWER PANELS (SAFE AREA)",
+        "list_of_product_ids": "5631,6460,10307,11363,9150,9362,11943,24828,24816,24931,24942,19386,38289",
+        "core_id": 1351.0
+      }
+    },
+    {
+      "id": "variant-1a5a5bf1-d5cc-5063-b966-95d4799adb0f",
+      "score": 0.8651396,
+      "metadata": {
+        "text": "core_product_name: safety valve",
+        "raw_product_name": "SAFETY VALVES",
+        "list_of_product_ids": "14389,14381,14554,15199,15333",
+        "core_id": 1950.0
+      }
+    },
+    {
+      "id": "variant-4878872f-c56a-53c7-922c-1596298ea898",
+      "score": 0.8648612,
+      "metadata": {
+        "text": "core_product_name: safety valve | operating_conditions: boiler service",
+        "raw_product_name": "SAFETY VALVES BOILER SERVICE",
+        "list_of_product_ids": "6504,5675,10198,8345,17586,21314,27548,28764,28766,28765,28811,36263,36416",
+        "core_id": 1950.0
+      }
+    },
+    {
+      "id": "variant-624ba7e4-dae5-5801-ac32-fc98eac6de2b",
+      "score": 0.8647918,
+      "metadata": {
+        "text": "core_product_name: safety valve | type_or_class: Spring Type",
+        "raw_product_name": "SAFETY VALVES(SPRING TYPE)",
+        "list_of_product_ids": "7610,7285,11131,11825,7847",
+        "core_id": 1950.0
+      }
+    },
+    {
+      "id": "variant-ddd4f187-98c8-5f28-be50-d5624a3104d8",
+      "score": 0.8627069,
+      "metadata": {
+        "text": "core_product_name: safety shoe",
+        "raw_product_name": "SAFTY SHOES",
+        "list_of_product_ids": "32882,32883,33005,33038,33192,36664,33257,33560,33631,35919",
+        "core_id": 1951.0
+      }
+    },
+    {
+      "id": "variant-bbad95d9-b94a-500e-b33a-e10ab8250567",
+      "score": 0.86264807,
+      "metadata": {
+        "text": "core_product_name: safety relief valve",
+        "raw_product_name": "Safety Relief Valve",
+        "list_of_product_ids": "7520,7194,10321,9958,12013,12014,12015,12091,12784,12758,12775,17529,18043,22348,36631,34693,34695,34697,34699,35702,36144,36151,39885",
+        "core_id": 2181.0
+      }
+    },
+    {
+      "id": "variant-a807b261-d030-557d-80c2-edb07d018ba1",
+      "score": 0.86208755,
+      "metadata": {
+        "text": "core_product_name: accessory lighting fixture | protection_features: Non Hazardous",
+        "raw_product_name": "LIGHTING FIXTURE & ACCESORY-NON HZARDOUS",
+        "list_of_product_ids": "5630,6459,10568,10188,10179,19512,19508,19540,26082",
+        "core_id": 1352.0
+      }
+    },
+    {
+      "id": "variant-53485b8f-6855-574b-a29e-f79d9572df34",
+      "score": 0.86130136,
+      "metadata": {
+        "text": "core_product_name: product quality analyser system",
+        "raw_product_name": "PRODUCT QUALITY ANALYSER SYSTEMS",
+        "list_of_product_ids": "6524,5695,10052,11185,10133,11881",
+        "core_id": 1792.0
+      }
+    },
+    {
+      "id": "variant-501f4268-336a-5e01-af3e-8edf7d0a9e1c",
+      "score": 0.86031103,
+      "metadata": {
+        "text": "core_product_name: fire proofing material | protection_features: Fireproof",
+        "raw_product_name": "FIRE PROOFING MATERIAL",
+        "list_of_product_ids": "38658,38561,38562,38566",
+        "core_id": 856.0
+      }
+    },
+    {
+      "id": "variant-1846165d-94ac-545a-9db9-7ba2bf3324b9",
+      "score": 0.8600813,
+      "metadata": {
+        "text": "core_product_name: safety coverall | material: Dangri | special_attributes: Orange",
+        "raw_product_name": "ORANGE SAFETY DANGRI COVERALL",
+        "list_of_product_ids": "32880,32884,33004,33037,33191,33256,33558,33629,35918",
+        "core_id": 1600.0
+      }
+    },
+    {
+      "id": "variant-ae0e8bbe-4a06-5a15-983c-48bd59d44d59",
+      "score": 0.85907173,
+      "metadata": {
+        "text": "core_product_name: safety helmet",
+        "raw_product_name": "SAFETY HELMET",
+        "list_of_product_ids": "21456,21455,27053,33007,33039,33193,36662,33258,33559,33630,37471,35920",
+        "core_id": 1947.0
+      }
+    },
+    {
+      "id": "variant-8fe75b2b-6667-5672-92af-b5e2b55f30aa",
+      "score": 0.8588274,
+      "metadata": {
+        "text": "core_product_name: cathodic protection system",
+        "raw_product_name": "Cathodic Protection System",
+        "list_of_product_ids": "18681,19166,21519,18680,36550",
+        "core_id": 503.0
+      }
+    },
+    {
+      "id": "variant-002b6201-2a10-5089-b8e8-960002640296",
+      "score": 0.8580643,
+      "metadata": {
+        "text": "core_product_name: safety goggle",
+        "raw_product_name": "SAFETY GOGGLES",
+        "list_of_product_ids": "32936,32937,33006,33044,33198,36663,33263,33563,33636,35925",
+        "core_id": 1948.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.8577807,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-185b88e9-63b7-56a0-9df9-801c2285f4c5",
+      "score": 0.8576791,
+      "metadata": {
+        "text": "core_product_name: fitting | standards_and_approvals: IS (Indian Standards)-1239",
+        "raw_product_name": "FITTINGS TO IS-1239",
+        "list_of_product_ids": "14270,14771,33994,33993,33992,33991,33990",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-887682e1-b5c0-5cf1-8309-45fa808bdbac",
+      "score": 0.85688615,
+      "metadata": {
+        "text": "core_product_name: intrinsic safety barrier",
+        "raw_product_name": "INTRINSIC SAFETY BARRIERS",
+        "list_of_product_ids": "137,582,030,823,683",
+        "core_id": 1289.0
+      }
+    },
+    {
+      "id": "variant-1e84e4af-7d7e-5d97-adb2-330b0f9887b6",
+      "score": 0.8565604,
+      "metadata": {
+        "text": "core_product_name: hazardous lighting fixture | accessories_or_attachments: accessories",
+        "raw_product_name": "LIGHTING FIXTURE & ACCESSORIES-HAZARDOUS",
+        "list_of_product_ids": "6414,5584,10587,10557,10600,17341,17357,19480,19473,22850,35768,35810,35886,35864,35939,35950,36518",
+        "core_id": 1353.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.85646105,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-035e5d74-4fc0-5854-ace0-4826f9b36c25",
+      "score": 0.8557941,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+        "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+        "list_of_product_ids": "19885,19880,24078,23930,27348",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-a32d8296-ea3c-51d4-95de-73a3824167db",
+      "score": 0.85506487,
+      "metadata": {
+        "text": "core_product_name: measurement system",
+        "raw_product_name": "MEASUREMENT SYSTEM",
+        "list_of_product_ids": "188,511,884,918,973",
+        "core_id": 1451.0
+      }
+    },
+    {
+      "id": "variant-abfed136-edec-5262-ab3d-4a8d801c1eb2",
+      "score": 0.85473084,
+      "metadata": {
+        "text": "core_product_name: product quality analyser | type_or_class: Sulphur",
+        "raw_product_name": "PRODUCT QUALITY ANALYSER (SULPHUR)",
+        "list_of_product_ids": "6557,5727,10944,11199,10148,11896,20861,29879,29651,35259,35266,36238,36390",
+        "core_id": 1793.0
+      }
+    },
+    {
+      "id": "variant-1105631b-0b22-54a6-a4f0-6a6c11ad3f7e",
+      "score": 0.85458827,
+      "metadata": {
+        "text": "core_product_name: cathodic protection agency",
+        "raw_product_name": "CATHODIC PROTECTION AGENCIES",
+        "list_of_product_ids": "13890",
+        "core_id": 314.0
+      }
+    },
+    {
+      "id": "variant-4d90c084-11dd-5309-a710-bba18baf4ab9",
+      "score": 0.8545823,
+      "metadata": {
+        "text": "core_product_name: check valve | material: Cast",
+        "raw_product_name": "VALVE CHECK CAST",
+        "list_of_product_ids": "6229,5398,29399,11623,11640,11225,11237,11247,11279,11282,11259,11446,11431,6853,6858,6863,6873,6878,6883,6888,6893,6898,7697,7698,7699,7700,7701,7702,7703,7704,7705,7706,7707,7708,7866,9261,9387,9411,9407,9162,9252,9163,9175,9244,9342,12330,12429,12568,12548,12652,13364,13375,13381,6868,19359,16650,19409,18053,18383,19710,33375",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-0c022592-495c-58f9-9f30-f0bec8ff1ccd",
+      "score": 0.8545235,
+      "metadata": {
+        "text": "core_product_name: alarm card",
+        "raw_product_name": "ALARM CARDS",
+        "list_of_product_ids": "14173,15213,20875,22617",
+        "core_id": 83.0
+      }
+    },
+    {
+      "id": "variant-d336578f-a19c-5eaa-9a0d-b1ad2fa4c4d5",
+      "score": 0.85451585,
+      "metadata": {
+        "text": "core_product_name: humidity indicating card",
+        "raw_product_name": "HUMIDITY INDICATING CARDS",
+        "list_of_product_ids": "949,995,799,782",
+        "core_id": 1183.0
+      }
+    },
+    {
+      "id": "variant-6f51bba4-79b9-5d92-928d-652b82cce02e",
+      "score": 0.85446125,
+      "metadata": {
+        "text": "core_product_name: flameproof equipment | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF EQUIPMENT",
+        "list_of_product_ids": "13446,13447,13448,13449,13450,13473,13477",
+        "core_id": 894.0
+      }
+    },
+    {
+      "id": "variant-a42e2286-63d0-50f1-b7db-ecb2ab6b3661",
+      "score": 0.8540648,
+      "metadata": {
+        "text": "core_product_name: hazardous area lighting panel | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF - HAZARDOUS AREA LIGHTING PANEL",
+        "list_of_product_ids": "19706,19705,19702,19700,19695,19670,27175,35892,35945,40178,40228",
+        "core_id": 891.0
+      }
+    },
+    {
+      "id": "variant-3d916622-9bc5-58ec-9d80-045b33881e4b",
+      "score": 0.8539452,
+      "metadata": {
+        "text": "core_product_name: cartridge or candle filter",
+        "raw_product_name": "FILTER - CARTRIDGE/CANDLE",
+        "list_of_product_ids": "6081,5246,11484,7913,7915,8745,8765,23601,15193,16143,18237,23637,19754,23644,22067,22339,22995,23026,23561,24390,36729,36738",
+        "core_id": 827.0
+      }
+    },
+    {
+      "id": "variant-d01e7f04-41a2-5983-a7cb-2052b99c5edb",
+      "score": 0.8536694,
+      "metadata": {
+        "text": "core_product_name: control cable | protection_features: Fire Survival",
+        "raw_product_name": "CONTROL CABLE - FIRE SURVIVAL",
+        "list_of_product_ids": "6424,5594,10194,10666,11369,11371,12120,13290,15814,17323,17783,23993,23862",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.85358244,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    }
+  ]
+}

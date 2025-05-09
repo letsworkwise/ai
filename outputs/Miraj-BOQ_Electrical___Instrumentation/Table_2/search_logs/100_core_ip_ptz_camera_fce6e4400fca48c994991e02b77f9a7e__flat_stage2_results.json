@@ -1,0 +1,452 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.85325,
+      "text": "core_product_name: interface device",
+      "core_id": 1280.0,
+      "raw_product_name": "INTERFACE DEVICES",
+      "list_of_product_ids": [
+        "6630",
+        "5800",
+        "11596",
+        "11597",
+        "10310",
+        "11701",
+        "11702",
+        "11703",
+        "12288",
+        "8405",
+        "13108",
+        "13117",
+        "21089",
+        "21081",
+        "21077",
+        "21070"
+      ]
+    },
+    {
+      "retrieval_score": 0.84845066,
+      "text": "core_product_name: infrared detector | acronymed_core_product_name: ir detector",
+      "core_id": 1295.0,
+      "raw_product_name": "IR DETECTOR",
+      "list_of_product_ids": [
+        "980",
+        "798",
+        "149",
+        "854"
+      ]
+    },
+    {
+      "retrieval_score": 0.8482837,
+      "text": "core_product_name: radiography",
+      "core_id": 1856.0,
+      "raw_product_name": "RADIOGRAPHY",
+      "list_of_product_ids": [
+        "218",
+        "552",
+        "185",
+        "721",
+        "856"
+      ]
+    },
+    {
+      "retrieval_score": 0.8477588,
+      "text": "core_product_name: equipment",
+      "core_id": 460.0,
+      "raw_product_name": "CONTROL ROOM EQUIPMENT",
+      "list_of_product_ids": [
+        "14034",
+        "14815",
+        "17256",
+        "21098"
+      ]
+    },
+    {
+      "retrieval_score": 0.84724844,
+      "text": "core_product_name: coupling device",
+      "core_id": 499.0,
+      "raw_product_name": "COUPLING DEVICE",
+      "list_of_product_ids": [
+        "18582",
+        "18579",
+        "18578",
+        "18637"
+      ]
+    },
+    {
+      "retrieval_score": 0.84545606,
+      "text": "core_product_name: portable oscilloscope",
+      "core_id": 1729.0,
+      "raw_product_name": "PORTABLE OSCILLOSCOPE",
+      "list_of_product_ids": [
+        "59",
+        "516",
+        "780"
+      ]
+    },
+    {
+      "retrieval_score": 0.8453984,
+      "text": "core_product_name: public address equipment | acronymed_core_product_name: pa equipment",
+      "core_id": 1617.0,
+      "raw_product_name": "PA EQUIPMENTS",
+      "list_of_product_ids": [
+        "980",
+        "898",
+        "159",
+        "862"
+      ]
+    },
+    {
+      "retrieval_score": 0.8452881,
+      "text": "core_product_name: addressable detector",
+      "core_id": 47.0,
+      "raw_product_name": "ADDRESSABLE DETECTOR",
+      "list_of_product_ids": [
+        "37763",
+        "37768",
+        "37773",
+        "37779",
+        "37789",
+        "37758"
+      ]
+    },
+    {
+      "retrieval_score": 0.84528196,
+      "text": "core_product_name: instrumentation fitting",
+      "core_id": 1264.0,
+      "raw_product_name": "INSTRUMENTATION FITTINGS",
+      "list_of_product_ids": [
+        "14372",
+        "17508",
+        "17507",
+        "17506",
+        "17505",
+        "17504",
+        "17501",
+        "17500",
+        "17496",
+        "17958",
+        "17960"
+      ]
+    },
+    {
+      "retrieval_score": 0.8451749,
+      "text": "core_product_name: measurement",
+      "core_id": 2401.0,
+      "raw_product_name": "VIBRATION MEASUREMENT",
+      "list_of_product_ids": [
+        "242",
+        "652",
+        "426",
+        "624",
+        "269"
+      ]
+    },
+    {
+      "retrieval_score": 0.8451538,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    },
+    {
+      "retrieval_score": 0.84504426,
+      "text": "core_product_name: closed circuit television | acronymed_core_product_name: cctv",
+      "core_id": 323.0,
+      "raw_product_name": "CLOSED CIRCUIT TV",
+      "list_of_product_ids": [
+        "6592",
+        "5762",
+        "10914",
+        "10889",
+        "11962",
+        "12202",
+        "12473",
+        "16497",
+        "19259",
+        "19269",
+        "30476",
+        "31285",
+        "37696",
+        "37697",
+        "37705",
+        "37709",
+        "37713",
+        "40236",
+        "40237",
+        "40234",
+        "40235",
+        "40257"
+      ]
+    },
+    {
+      "retrieval_score": 0.84486556,
+      "text": "core_product_name: electrical accessory",
+      "core_id": 701.0,
+      "raw_product_name": "ELECTRICAL ACCESSORIES",
+      "list_of_product_ids": [
+        "211",
+        "632",
+        "705",
+        "121",
+        "165"
+      ]
+    },
+    {
+      "retrieval_score": 0.84448844,
+      "text": "core_product_name: breathing equipment",
+      "core_id": 247.0,
+      "raw_product_name": "BREATHING EQUIPMENT",
+      "list_of_product_ids": [
+        "188",
+        "191",
+        "880",
+        "228",
+        "060"
+      ]
+    },
+    {
+      "retrieval_score": 0.8444294,
+      "text": "core_product_name: input convertor | acronymed_core_product_name: i/p convertor",
+      "core_id": 1222.0,
+      "raw_product_name": "I/P CONVERTOR",
+      "list_of_product_ids": [
+        "1",
+        "542",
+        "023",
+        "681"
+      ]
+    },
+    {
+      "retrieval_score": 0.84433997,
+      "text": "core_product_name: binocular",
+      "core_id": 203.0,
+      "raw_product_name": "BINOCULAR",
+      "list_of_product_ids": [
+        "259",
+        "312",
+        "592",
+        "926",
+        "698"
+      ]
+    },
+    {
+      "retrieval_score": 0.84405017,
+      "text": "core_product_name: surge protection device",
+      "core_id": 2156.0,
+      "raw_product_name": "SURG PROTECTION DEVICES",
+      "list_of_product_ids": [
+        "5954",
+        "6782",
+        "12132",
+        "14671",
+        "14679",
+        "18191",
+        "20174",
+        "36159"
+      ]
+    },
+    {
+      "retrieval_score": 0.8439553,
+      "text": "core_product_name: measuring instrument",
+      "core_id": 1450.0,
+      "raw_product_name": "MEASURING INSTRUMENTS",
+      "list_of_product_ids": [
+        "22280",
+        "22279",
+        "22278",
+        "27344",
+        "30010"
+      ]
+    },
+    {
+      "retrieval_score": 0.84385437,
+      "text": "core_product_name: test and measuring equipment",
+      "core_id": 2303.0,
+      "raw_product_name": "Test & Measuring Equipment",
+      "list_of_product_ids": [
+        "1",
+        "401",
+        "515",
+        "286"
+      ]
+    },
+    {
+      "retrieval_score": 0.84380376,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLES",
+      "list_of_product_ids": [
+        "15455",
+        "13721",
+        "24275",
+        "15161",
+        "16241",
+        "19098",
+        "23820",
+        "23814",
+        "21319",
+        "19315",
+        "23819",
+        "23822",
+        "24273",
+        "23829",
+        "20141",
+        "23831",
+        "24058",
+        "23836",
+        "23909",
+        "23839",
+        "23828",
+        "24685",
+        "24726",
+        "24844",
+        "24955",
+        "31590",
+        "31591",
+        "26436",
+        "26438",
+        "31740",
+        "33330"
+      ]
+    },
+    {
+      "retrieval_score": 0.8438026,
+      "text": "core_product_name: electrical measuring instrument",
+      "core_id": 709.0,
+      "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+      "list_of_product_ids": [
+        "24296",
+        "20768",
+        "20767",
+        "24283"
+      ]
+    },
+    {
+      "retrieval_score": 0.8437907,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLE STOCKIST/TRADERS",
+      "list_of_product_ids": [
+        "2",
+        "467",
+        "924",
+        "680"
+      ]
+    },
+    {
+      "retrieval_score": 0.8433061,
+      "text": "core_product_name: compressed breathing apparatus",
+      "core_id": 243.0,
+      "raw_product_name": "BREATHING APPARATUS - COMPRESSED",
+      "list_of_product_ids": [
+        "24212",
+        "24216",
+        "26883",
+        "37472"
+      ]
+    },
+    {
+      "retrieval_score": 0.8432783,
+      "text": "core_product_name: quartzoid bulb detector",
+      "core_id": 1846.0,
+      "raw_product_name": "QUARTZOID BULB DETECTOR",
+      "list_of_product_ids": [
+        "16789",
+        "27820",
+        "37489",
+        "37490",
+        "37493",
+        "37494",
+        "37497"
+      ]
+    },
+    {
+      "retrieval_score": 0.8432493,
+      "text": "core_product_name: measurement system",
+      "core_id": 1451.0,
+      "raw_product_name": "MEASUREMENT SYSTEM",
+      "list_of_product_ids": [
+        "188",
+        "511",
+        "884",
+        "918",
+        "973"
+      ]
+    },
+    {
+      "retrieval_score": 0.84316427,
+      "text": "core_product_name: portable calibrator",
+      "core_id": 1732.0,
+      "raw_product_name": "Portable Calibrator",
+      "list_of_product_ids": [
+        "18091",
+        "27913",
+        "37511",
+        "37498"
+      ]
+    },
+    {
+      "retrieval_score": 0.84316427,
+      "text": "core_product_name: portable calibrator",
+      "core_id": 1732.0,
+      "raw_product_name": "PORTABLE TEMPERATURE CALIBRATOR",
+      "list_of_product_ids": [
+        "171",
+        "831",
+        "717",
+        "327",
+        "912"
+      ]
+    },
+    {
+      "retrieval_score": 0.8429066,
+      "text": "core_product_name: calibration",
+      "core_id": 1265.0,
+      "raw_product_name": "INSTRUMENTS CALIBRATION",
+      "list_of_product_ids": [
+        "24237",
+        "23794",
+        "23833",
+        "23950",
+        "23799",
+        "26879"
+      ]
+    },
+    {
+      "retrieval_score": 0.8426514,
+      "text": "core_product_name: infrared radiation pyrometer",
+      "core_id": 1239.0,
+      "raw_product_name": "INFRARED RADIATION PYROMETER",
+      "list_of_product_ids": [
+        "18861",
+        "18860",
+        "18909",
+        "18959",
+        "18964",
+        "18957",
+        "37674",
+        "37481"
+      ]
+    },
+    {
+      "retrieval_score": 0.842647,
+      "text": "core_product_name: power supply",
+      "core_id": 250.0,
+      "raw_product_name": "BUIL POWER SUPPLY",
+      "list_of_product_ids": [
+        "5",
+        "937",
+        "676",
+        "612",
+        "114"
+      ]
+    }
+  ]
+}

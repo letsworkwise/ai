@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: vehicle hiring expense",
+  "retrieval_results": [
+    {
+      "id": "variant-17002a52-9336-52a1-ac61-3e4440b88e11",
+      "score": 0.8680084,
+      "metadata": {
+        "text": "core_product_name: engine servicing",
+        "raw_product_name": "ENGINE SERVICING",
+        "list_of_product_ids": "24306,24359,24308,26865",
+        "core_id": 751.0
+      }
+    },
+    {
+      "id": "variant-b26d4dc9-144c-5c09-a378-6c991246756f",
+      "score": 0.8644814,
+      "metadata": {
+        "text": "core_product_name: labour supply contractor",
+        "raw_product_name": "LABOUR SUPPLY CONTRACTORS FOR MECHANICAL WORKS",
+        "list_of_product_ids": "35824,35839,35834,35878,35830",
+        "core_id": 1316.0
+      }
+    },
+    {
+      "id": "variant-477f0b0f-879d-5a1f-a1fc-744e06945ccc",
+      "score": 0.8632804,
+      "metadata": {
+        "text": "core_product_name: motor servicing",
+        "raw_product_name": "MOTOR SERVICING",
+        "list_of_product_ids": "246,582,679,724,656",
+        "core_id": 1505.0
+      }
+    },
+    {
+      "id": "variant-aee137b0-552a-50c0-995d-be1a301a917d",
+      "score": 0.86256325,
+      "metadata": {
+        "text": "core_product_name: at site material handling and transportation",
+        "raw_product_name": "MATERIAL HANDLING AND TRANSPORTATION AT SITE",
+        "list_of_product_ids": "35825,35831,35840,35879,36082,40091",
+        "core_id": 1445.0
+      }
+    },
+    {
+      "id": "variant-abc974db-6c48-57e2-9ca5-1b55d8b33ef6",
+      "score": 0.8613473,
+      "metadata": {
+        "text": "core_product_name: engine",
+        "raw_product_name": "ENGINE",
+        "list_of_product_ids": "13931,18581,21040,21827,36855",
+        "core_id": 748.0
+      }
+    },
+    {
+      "id": "variant-ebe2aa2f-1490-5d11-8010-a1fcc4fb88e7",
+      "score": 0.86108047,
+      "metadata": {
+        "text": "core_product_name: unmanned vehicle",
+        "raw_product_name": "UNMANNED VEHICLES",
+        "list_of_product_ids": "21160,21158,28577,40090",
+        "core_id": 2324.0
+      }
+    },
+    {
+      "id": "variant-77ce042f-51f3-5adf-be7c-52204603b83a",
+      "score": 0.86039805,
+      "metadata": {
+        "text": "core_product_name: transfer car",
+        "raw_product_name": "TRANSFER CAR",
+        "list_of_product_ids": "401,224,014,840,160",
+        "core_id": 2270.0
+      }
+    },
+    {
+      "id": "variant-c9c58aff-a0f1-50b5-b1f4-9bd02d954bc4",
+      "score": 0.8594718,
+      "metadata": {
+        "text": "core_product_name: auto telephone system",
+        "raw_product_name": "AUTO TELEPHONE SYSTEM",
+        "list_of_product_ids": "23967,22940,22939,22938,27057,22941",
+        "core_id": 138.0
+      }
+    },
+    {
+      "id": "variant-0cd6a304-ead2-5deb-91e8-b4c74619be10",
+      "score": 0.8588277,
+      "metadata": {
+        "text": "core_product_name: drive arrangement",
+        "raw_product_name": "DRIVE ARRANGEMENT FOR CLINKER GRINDER",
+        "list_of_product_ids": "1,344,114,445",
+        "core_id": 624.0
+      }
+    },
+    {
+      "id": "variant-15555846-926d-5bb2-91ad-2e36d9cd60e2",
+      "score": 0.8554597,
+      "metadata": {
+        "text": "core_product_name: engine repair",
+        "raw_product_name": "ENGINE REPAIR",
+        "list_of_product_ids": "24305,24358,24307,26866",
+        "core_id": 750.0
+      }
+    },
+    {
+      "id": "variant-f733ad3f-528f-5638-b3b0-5fea67d5c4fc",
+      "score": 0.8552761,
+      "metadata": {
+        "text": "core_product_name: gas engine",
+        "raw_product_name": "GAS ENGINES",
+        "list_of_product_ids": "19281,19275,20424,20399,20491,20450,36674",
+        "core_id": 1029.0
+      }
+    },
+    {
+      "id": "variant-e9bf36f6-8246-5b9a-a510-8cec8a1cd9d5",
+      "score": 0.8551555,
+      "metadata": {
+        "text": "core_product_name: engine supplier and packager",
+        "raw_product_name": "C. ENGINE SUPPLIER AND PACKAGER",
+        "list_of_product_ids": "13679",
+        "core_id": 275.0
+      }
+    },
+    {
+      "id": "variant-fd2d06b4-51d4-5792-ac68-2d6ad3718d70",
+      "score": 0.8546297,
+      "metadata": {
+        "text": "core_product_name: trailer mounted fire fighting equipment",
+        "raw_product_name": "TRAILER MOUNTED FIRE FIGHTING EQUIPMENT",
+        "list_of_product_ids": "6030,5209,8292,8483,8481,23844,23847,23850,23837,23516",
+        "core_id": 2265.0
+      }
+    },
+    {
+      "id": "variant-acb2293f-88b9-5225-8d9b-658e5124afcc",
+      "score": 0.85430026,
+      "metadata": {
+        "text": "core_product_name: internal servicing telephone exchange",
+        "raw_product_name": "INTERNAL TELEPHONE EXCHANGE SERVICING",
+        "list_of_product_ids": "243,572,686,724,356",
+        "core_id": 1286.0
+      }
+    },
+    {
+      "id": "variant-7867d7db-d5b6-5c83-a410-5675a8b0c4ba",
+      "score": 0.8535512,
+      "metadata": {
+        "text": "core_product_name: mobile compressor",
+        "raw_product_name": "COMPRESSURE-MOBILE",
+        "list_of_product_ids": "5921,6750,9438,18902,18962,19740",
+        "core_id": 419.0
+      }
+    },
+    {
+      "id": "variant-185579eb-7d9a-5771-a99f-16e67b29b972",
+      "score": 0.85350263,
+      "metadata": {
+        "text": "core_product_name: steering gear",
+        "raw_product_name": "STEERING GEAR",
+        "list_of_product_ids": "22955,22945,22946,23382,26061,26054",
+        "core_id": 2115.0
+      }
+    },
+    {
+      "id": "variant-48cfead3-0cd8-53ed-aef5-38ff9160c78c",
+      "score": 0.8532764,
+      "metadata": {
+        "text": "core_product_name: automotive battery",
+        "raw_product_name": "AUTOMOTIVE BATTERIES",
+        "list_of_product_ids": "194,851,948,127,927",
+        "core_id": 145.0
+      }
+    },
+    {
+      "id": "variant-966e4ca5-fe30-58c0-97b6-4325ab0c701e",
+      "score": 0.85322905,
+      "metadata": {
+        "text": "core_product_name: electric hoist control equipment",
+        "raw_product_name": "ELECTRIC HOIST CONTROL EQUIPMENT",
+        "list_of_product_ids": "20829,20827,20825,20823,27097",
+        "core_id": 694.0
+      }
+    },
+    {
+      "id": "variant-60cc1389-d2d7-5796-b91e-9be0cfc16c55",
+      "score": 0.8529701,
+      "metadata": {
+        "text": "core_product_name: instrumentation fitting",
+        "raw_product_name": "INSTRUMENTATION FITTINGS",
+        "list_of_product_ids": "14372,17508,17507,17506,17505,17504,17501,17500,17496,17958,17960",
+        "core_id": 1264.0
+      }
+    },
+    {
+      "id": "variant-1ab3bbc1-7237-500d-90d8-27f6498da945",
+      "score": 0.85291135,
+      "metadata": {
+        "text": "core_product_name: equipment",
+        "raw_product_name": "CONTROL ROOM EQUIPMENT",
+        "list_of_product_ids": "14034,14815,17256,21098",
+        "core_id": 460.0
+      }
+    },
+    {
+      "id": "variant-8dd04693-bfca-5cb1-8bad-aada8a7db235",
+      "score": 0.8528341,
+      "metadata": {
+        "text": "core_product_name: welding consumable",
+        "raw_product_name": "WELDING CONSUMABLES",
+        "list_of_product_ids": "17040,17034,17152,17155,27910,33206,33271,33573,33644,35933",
+        "core_id": 2461.0
+      }
+    },
+    {
+      "id": "variant-a17fd78e-0a80-5e83-8bfc-b675b3dda993",
+      "score": 0.85246706,
+      "metadata": {
+        "text": "core_product_name: refilling service fire extinguisher",
+        "raw_product_name": "FIRE EXTINGUISHER REFILLING SERVICE",
+        "list_of_product_ids": "22319,22315,22312,27052",
+        "core_id": 853.0
+      }
+    },
+    {
+      "id": "variant-adf0d1b6-cbf5-570c-a838-776b12d5794d",
+      "score": 0.8522902,
+      "metadata": {
+        "text": "core_product_name: trailer",
+        "raw_product_name": "TRAILERS",
+        "list_of_product_ids": "6178,5349,9765,40057",
+        "core_id": 2268.0
+      }
+    },
+    {
+      "id": "variant-7eae955a-c095-54af-90f1-66b1e99763fd",
+      "score": 0.8519061,
+      "metadata": {
+        "text": "core_product_name: winch",
+        "raw_product_name": "WINCH",
+        "list_of_product_ids": "26047,26044,26043,26041,26684",
+        "core_id": 2473.0
+      }
+    },
+    {
+      "id": "variant-62e9d5fb-3cb4-5db6-9c87-632de704fb71",
+      "score": 0.8515657,
+      "metadata": {
+        "text": "core_product_name: erection and commissioning equipment",
+        "raw_product_name": "EQUIPMENT - ERECTION & COMMISSIONING",
+        "list_of_product_ids": "16194,16202,16350,16355,33812,34490,35836,35844",
+        "core_id": 757.0
+      }
+    },
+    {
+      "id": "variant-2f91b92f-f416-591a-9b7b-faade5d1ddca",
+      "score": 0.8515603,
+      "metadata": {
+        "text": "core_product_name: road roller",
+        "raw_product_name": "ROAD ROLLER",
+        "list_of_product_ids": "617,653,479,760",
+        "core_id": 1907.0
+      }
+    },
+    {
+      "id": "variant-49b73ca9-9bcf-5025-b7eb-281b8c263141",
+      "score": 0.8513633,
+      "metadata": {
+        "text": "core_product_name: motor",
+        "raw_product_name": "Motors",
+        "list_of_product_ids": "6407,5578,11169,11344,10182,11378,11384,12243,12377,14875,15882,16439,19757,24028,21986,23476,23490,39314,36618,34590,34595,34593,34594,34625,34626,34627,34628,34632,34633,34634,34635,34636,34637,34638,34639,34640,34646,34881,34909,34908,34907,34906,34905,34919,34918,34917,34916,34915,34914,34913,34912,34911,34910,34920,34929,34928,34927,34926,34921,34924,34923,34925,34922,35146,35152,35188,35214,35270,35322,35323,35443,35448,35665,35680,35688,35875,35873,35955,35971,40181,40232",
+        "core_id": 556.0
+      }
+    },
+    {
+      "id": "variant-b67de829-158f-51e0-9e29-51e26359a134",
+      "score": 0.85097903,
+      "metadata": {
+        "text": "core_product_name: hydraulic motor",
+        "raw_product_name": "Hydraulic Motor",
+        "list_of_product_ids": "7069,7396,14756,14760",
+        "core_id": 1218.0
+      }
+    },
+    {
+      "id": "variant-7f149df1-7e8a-5ea5-a69e-f03a0aa9aa90",
+      "score": 0.85097665,
+      "metadata": {
+        "text": "core_product_name: loader",
+        "raw_product_name": "LOADERS",
+        "list_of_product_ids": "6172,5343,9764,9759,24363,33910",
+        "core_id": 1373.0
+      }
+    },
+    {
+      "id": "variant-8d7ef8ec-6bfc-56ba-a6a6-cb5f01f7752c",
+      "score": 0.85097367,
+      "metadata": {
+        "text": "core_product_name: vacuum drying contractor",
+        "raw_product_name": "CONTRACTORS FOR VACCUM DRYING",
+        "list_of_product_ids": "1,540,536,646",
+        "core_id": 451.0
+      }
+    }
+  ]
+}

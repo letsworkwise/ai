@@ -1,0 +1,66 @@
+{
+  "query": "core_product_name: exhaust pipe | size: diameter: 10 inch, insulation thickness: 50 mm, insulation density: 64 Kg/m3 | feature_or_specifications: insulation material: rock wool, cladding: aluminium, location: before residential silencer",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: insulation product | material: Rock Wool",
+        "raw_product_name": "ROCK WOOL INSULATION PRODUCTS",
+        "list_of_product_ids": [
+          "6145",
+          "5315",
+          "8806",
+          "8808",
+          "8805",
+          "8807",
+          "8809",
+          "18881",
+          "18927",
+          "24317",
+          "24318",
+          "24319",
+          "33284"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cladded pipe",
+        "raw_product_name": "CLADDED PIPE",
+        "list_of_product_ids": [
+          "6295",
+          "5466",
+          "11562",
+          "7764",
+          "7783",
+          "7799",
+          "13030",
+          "13031"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: large-diameter pipe",
+        "raw_product_name": "Large-diameter pipe",
+        "list_of_product_ids": [
+          "758",
+          "772",
+          "628",
+          "028"
+        ]
+      }
+    }
+  ]
+}

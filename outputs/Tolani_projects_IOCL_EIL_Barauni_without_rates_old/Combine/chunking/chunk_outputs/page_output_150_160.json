@@ -1,0 +1,168 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and laying of following sizes of  G.I. Pipes (medium) in required length fixed on steel, concrete or similar 50 mm NB.",
+      "core_product_name": "pipe supply and laying",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 50 mm",
+      "feature_or_specifications": "material: G.I. (galvanized iron), type: medium, installation: fixed on steel, concrete or similar",
+      "quantity": "50.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and laying of following sizes of  G.I. Pipes (medium) in required length fixed on steel, concrete or similar 100 mm NB.",
+      "core_product_name": "pipe supply and laying",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 100 mm",
+      "feature_or_specifications": "material: G.I. (galvanized iron), type: medium, installation: fixed on steel, concrete or similar",
+      "quantity": "50.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "STRUCTURAL STEEL",
+      "core_product_name": "structural steel",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and installation of push button station supports complete with base plate, foundations bolts, grouting and As per std. 7-51-0306",
+      "core_product_name": "push button station support supply and installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "base plate: included, foundation bolts: included, grouting: included, standard: 7-51-0306",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "CABLE - TRAYS",
+      "core_product_name": "cable tray",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      150,
+      159
+    ],
+    "original_rows": [
+      {
+        "0": 151,
+        "1": 0,
+        "2": "01EE.2070.20.20",
+        "3": "50 mm NB.",
+        "4": 50.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 152,
+        "1": 0,
+        "2": "01EE.2070.20.50",
+        "3": "100 mm NB.",
+        "4": 50.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 153,
+        "1": 0,
+        "2": "01EE.2080",
+        "3": "STRUCTURAL STEEL",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 154,
+        "1": 0,
+        "2": "01EE.2080.40",
+        "3": "Supply and installation of push button station supports complete with base plate, foundations bolts, grouting and",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 155,
+        "1": 0,
+        "2": "01EE.2080.40.10",
+        "3": "As per std. 7-51-0306",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 156,
+        "1": 0,
+        "2": "01EE.2090",
+        "3": "CABLE - TRAYS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 157,
+        "1": 0,
+        "2": "01EE.2090.30",
+        "3": "Supply and installation of following galvanised slotted channel trays of 2 mm thickness and 50 mm high for",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 158,
+        "1": 0,
+        "2": "01EE.2090.30.10",
+        "3": "100 mm wide.",
+        "4": 100.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 159,
+        "1": 0,
+        "2": "01EE.2090.30.20",
+        "3": "150 mm wide.",
+        "4": 100.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 160,
+        "1": 0,
+        "2": "01EE.2090.30.30",
+        "3": "60 mm wide.",
+        "4": 300.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2298,
+    "completion_tokens": 1046
+  }
+}

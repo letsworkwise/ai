@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: gs flat | size: size: 25x3 mm",
+  "retrieval_results": [
+    {
+      "id": "variant-7fd4cfef-d998-5282-9241-7387b128f297",
+      "score": 0.87503695,
+      "metadata": {
+        "text": "core_product_name: round | material: MS (Mild Steel)",
+        "raw_product_name": "MS ROUND",
+        "list_of_product_ids": "30196,32891,13504,13511,13489,13518,13524,13530,13537,13544,13558,13551,26246,29406,16067,16106,29429,31907,17722,17738,29467,29481,29534,23326,29888,30348,29540,29570,29855,30356,31544,31688,24732,31134,24751,24759,24870,24858,24847,24894,31379,24916,24925,24903,31573,25001,30790,25020,25005,25049,25038,25031,29605,30910,25083,25074,25065,25060,25108,25117,30379,30538,25129,25138,25156,25168,25195,25184,25177,25206,25218,25236,25257,25246,25271,25287,25297,25301,25314,25339,25323,25351,25367,25390,25379,25410,30948,31144,25495,29629,30031,30399,31166,31386,31832,25862,31862,25934,30547,31337,31842,31406,31597,25976,30061,26121,26155,29682,30572,31090,26180,26274,26306,30964,31446,26332,26357,30088,30594,26378,26443,26492,26466,26534,26540,26572,26598,30434,26621,26644,26702,29697,30105,26725,26821,26830,30619,30985,26913,26949,26976,27007,27157,30457,27186,30128,31198,27233,30168,30149,30657,27261,27290,29722,27313,27393,31454,27419,27445,27557,29742,31223,27585,27614,27668,27686,27846,27893,27853,27936,27966,29771,30671,31052,28000,30487,31737,28036,28102,28152,28138,30216,31644,28324,28301,31261,28358,30243,28389,28445,28470,28520,29799,31265,31477,31619,28552,28647,28685,28700,30700,28726,28863,28857,28887,29828,28939,30265,31291,28944,28976,31683,29016,29023,30721,31514,31010,29068,29072,30305,31315,31522,31070,29160,29136,29163,29192,29229,30313,29348,29325,29351,29375,31943,31951,31974,32024,31996,32052,32090,32114,32145,32173,32207,32257,32373,32309,32335,32411,32433,32455,32538,32588,32617,32637,32665,32735,32781,32824,32855,32916,32966,33052,33072,33104,33156,33131,33221,33288,33316,33358,33399,33468,33519,33580,33654,33693,33722,33741,33765,33793,33827,33877,33853,33924,33963,34046,34067,34096,34123,34148,34179,34201,34223,34261,34290,34356,34385,34424,34446,34468,34503,34525,34548,34605,34654,34707,34737,34758,34805,34784,34860,34831,34884,34935,35024,35059,35081,35103,35125,35168",
+        "core_id": 1511.0
+      }
+    },
+    {
+      "id": "variant-a3b21856-928b-5ccc-9090-eb9cea2bab58",
+      "score": 0.8657063,
+      "metadata": {
+        "text": "core_product_name: gasket | material: Rubber",
+        "raw_product_name": "GASKET RUBBER",
+        "list_of_product_ids": "17840,17839,18654,22361,37308,37310,37313,37315,37318,37303",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-710db86a-5665-5d2e-b3fd-987c788a21ba",
+      "score": 0.8656145,
+      "metadata": {
+        "text": "core_product_name: gasket | material: Rubber",
+        "raw_product_name": "RUBBER GASKETS",
+        "list_of_product_ids": "8366",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-161fa21f-33fa-588b-b919-b504d3d47901",
+      "score": 0.8652857,
+      "metadata": {
+        "text": "core_product_name: flange | material: MS (Mild Steel)",
+        "raw_product_name": "FLANGE (MS) /Mild Steel Flange",
+        "list_of_product_ids": "10255,10260,10265,10270,10277,9941,9942,9947,9948,10225,9964,10238,10239,10244,10249,13101,17431,24567,25825",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-65840ecf-7374-526b-8e01-2bb631ca3499",
+      "score": 0.8641242,
+      "metadata": {
+        "text": "core_product_name: tube | material: Mild Steel (MS)",
+        "raw_product_name": "Mild Steel Tubes",
+        "list_of_product_ids": "17961,17971,17970,17969,17966,17964,17962,18647",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-55f29422-ef46-5cd6-8317-ebfba9db3a18",
+      "score": 0.86173666,
+      "metadata": {
+        "text": "core_product_name: flatness or shape gauge",
+        "raw_product_name": "Flatness/ Shape Gauge",
+        "list_of_product_ids": "7554,7228,10510,18015",
+        "core_id": 1005.0
+      }
+    },
+    {
+      "id": "variant-e8711b02-f227-56cf-89e4-fe3169669830",
+      "score": 0.8610662,
+      "metadata": {
+        "text": "core_product_name: lattice structure | material: Galvanized Steel",
+        "raw_product_name": "GALVANIZED STEEL STRUCTURES- LATTICE",
+        "list_of_product_ids": "21292,21290,21283,21279,21265,21263,21311,21295,27932",
+        "core_id": 1012.0
+      }
+    },
+    {
+      "id": "variant-97c47e7e-d6e0-5d36-80a4-01f0fe6e1f26",
+      "score": 0.8603667,
+      "metadata": {
+        "text": "core_product_name: heat exchanger | construction_features: plates-gasketted",
+        "raw_product_name": "HEAT EXCHANGER (PLATES-GASKETTED)",
+        "list_of_product_ids": "6669,5840,12278,8820,8817,8821,23059,37943,37962,37991,38013,38043,38348,38369,37896,38404,38423",
+        "core_id": 1110.0
+      }
+    },
+    {
+      "id": "variant-d5d3a3bb-538b-5db4-9a35-07a48a0373f7",
+      "score": 0.8598906,
+      "metadata": {
+        "text": "core_product_name: gasket | type_or_class: Kamprofile",
+        "raw_product_name": "GASKET KAMPROFILE",
+        "list_of_product_ids": "5999,5178,7784,8352,8356,8361,8572,23347,23346,23345",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-5a869d21-d3d4-58a2-ba29-246aab6b27a4",
+      "score": 0.8597713,
+      "metadata": {
+        "text": "core_product_name: plate flange | material: Mild Steel (MS)",
+        "raw_product_name": "MILD STEEL PLATE FLANGES",
+        "list_of_product_ids": "174,302,456,624,652",
+        "core_id": 1474.0
+      }
+    },
+    {
+      "id": "variant-ee0df5dd-21a8-58a7-a293-d049b3e1042a",
+      "score": 0.8595051,
+      "metadata": {
+        "text": "core_product_name: gauge | material: Glass",
+        "raw_product_name": "GAUGE GIASS",
+        "list_of_product_ids": "164,191,652,834,576",
+        "core_id": 1043.0
+      }
+    },
+    {
+      "id": "variant-e2f2fd26-d7af-57d5-b362-4c77226da917",
+      "score": 0.859479,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | material: MS (Mild Steel)",
+        "raw_product_name": "MS PIPE FITTINGS",
+        "list_of_product_ids": "137,812,283,128,755",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-4173582a-6ddd-5391-86a4-9c2653bc8f5a",
+      "score": 0.8591626,
+      "metadata": {
+        "text": "core_product_name: gasket",
+        "raw_product_name": "GASKET",
+        "list_of_product_ids": "9922,9923,9924,9925,9926,9927,9928,9929,14319,14759,17708,36907,36908,19453,19462,19488,19520,19533,19548,19555,23028,23022,23012,23077,23072,36596,35882",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-bef9e8d8-b371-52cc-b8d8-a94a4cb6dd98",
+      "score": 0.8589157,
+      "metadata": {
+        "text": "core_product_name: gasket",
+        "raw_product_name": "Gasket",
+        "list_of_product_ids": "6921",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-a04e326a-e012-52d5-b0cf-79c485e8ddee",
+      "score": 0.8589157,
+      "metadata": {
+        "text": "core_product_name: gasket",
+        "raw_product_name": "GASKETS",
+        "list_of_product_ids": "7738",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-792dc40b-4891-5ed7-a39d-58a31777372a",
+      "score": 0.8579635,
+      "metadata": {
+        "text": "core_product_name: rotameter | material: Glass Tube",
+        "raw_product_name": "ROTAMETER(GLASS TUBE)",
+        "list_of_product_ids": "13857,17077,19697,19689,19878,39959",
+        "core_id": 1923.0
+      }
+    },
+    {
+      "id": "variant-d83655ef-094e-5952-8b4e-9678ec3606e4",
+      "score": 0.8576169,
+      "metadata": {
+        "text": "core_product_name: pressure vessel | material: CS (Carbon Steel) | size_or_capacity: up to 25mm",
+        "raw_product_name": "PRESSURE VESSEL -CS (UP TO 25MM)",
+        "list_of_product_ids": "6631,5801,10965,10970,10966,10976,11067,11106,11100,11672,11490,11498,21223,8507,8531,8757,8879,9643,12049,12154,12580,12988,13073,13080,16157,16455,16674,16813,16850,16932,17398,17388,17361,17406,17754,17744,17804,17588,23759,19743,23793,20964,21233,21229,21228,21226,21225,21224,21222,21221,21287,21277,21254,21329,21327,21318,21310,21309,21308,21305,21304,21298,21297,21342,21353,21352,21942,23010,23247,23315,21276,23705,21251,17252,37659,37663,37666,37667,38282,38169,37670,38059,38102,38107,36755,37733,37749,39447,39497",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-01a90f65-f53a-5f3e-9822-820a66b5a99d",
+      "score": 0.8573751,
+      "metadata": {
+        "text": "core_product_name: fitting | material: SS (Stainless Steel)",
+        "raw_product_name": "SS FITTINGS",
+        "list_of_product_ids": "14024,17502,17498,18363,19876,22592,22811,22830,23351,24442,27369,36132",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-e736bd2a-bba8-5ab3-861f-88a9bde6910b",
+      "score": 0.85696274,
+      "metadata": {
+        "text": "core_product_name: pressure vessel | material: SS (Stainless Steel) | size_or_capacity: up to 25mm",
+        "raw_product_name": "PRESSURE VESSEL-SS (UP TO 25MM)",
+        "list_of_product_ids": "6636,5806,10972,10968,10978,11016,12280,11108,11103,11669,21893,11504,8506,8534,8759,9640,9676,12050,12136,12596,12992,16161,16484,16937,17399,17392,17592,21842,23755,19745,20966,21812,21798,21791,21789,21776,21848,21847,21844,21841,21840,21837,21835,21914,21913,21897,21890,21931,21930,21937,21933,21967,21998,21992,21991,21977,21976,21975,21972,23706,23318,36758,38170,38300,38062,38099,38110,37735,37751,39448,39498",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-0be0dab5-207b-5e3d-b59d-1f61c63a4719",
+      "score": 0.8567889,
+      "metadata": {
+        "text": "core_product_name: lining | material: Glass",
+        "raw_product_name": "LINING (GLASS)",
+        "list_of_product_ids": "6,165,533,519,742",
+        "core_id": 1367.0
+      }
+    },
+    {
+      "id": "variant-1dd8daa0-a12e-562d-b4d8-179a0d11624c",
+      "score": 0.8566758,
+      "metadata": {
+        "text": "core_product_name: goggle valve",
+        "raw_product_name": "Goggle Valves",
+        "list_of_product_ids": "7470,7143,10693,12744,18491",
+        "core_id": 1088.0
+      }
+    },
+    {
+      "id": "variant-c3bf3b5d-c7e1-567b-896e-879ca0b726dc",
+      "score": 0.85626054,
+      "metadata": {
+        "text": "core_product_name: gasket | material: Metel",
+        "raw_product_name": "Metel Gasket",
+        "list_of_product_ids": "1,421,914,239",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-7230ddf6-78f4-56d9-aadd-a874276a64dd",
+      "score": 0.8558838,
+      "metadata": {
+        "text": "core_product_name: sheet | material: Rubber",
+        "raw_product_name": "RUBBER SHEETS",
+        "list_of_product_ids": "19950,19949,19948,21187,25144",
+        "core_id": 132.0
+      }
+    },
+    {
+      "id": "variant-cd6ddf57-09e6-5454-8210-336cd5415241",
+      "score": 0.85587794,
+      "metadata": {
+        "text": "core_product_name: geotextile",
+        "raw_product_name": "GEO TEXTILE",
+        "list_of_product_ids": "2,416,128,694",
+        "core_id": 1050.0
+      }
+    },
+    {
+      "id": "variant-9b25b784-a1a1-5ce1-9130-4075d704d02b",
+      "score": 0.8557064,
+      "metadata": {
+        "text": "core_product_name: globe valve | construction_features: forged",
+        "raw_product_name": "VALVE GLOBE FORGED",
+        "list_of_product_ids": "6222,5391,11621,11639,11241,11254,11278,8279,8380,8554,8644,8621,9386,9428,9410,9452,9251,9165,9247,9341,11976,12097,12492,12571,13261,13361,19389,17622,17817,17907,18303,18031,19861,31811,19381,32700,36762,35556",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-8962498e-7511-5273-b0e7-ff09bc8cbeb4",
+      "score": 0.8556748,
+      "metadata": {
+        "text": "core_product_name: bearing shell | type_or_class: GEN RING",
+        "raw_product_name": "BEARING SHELL (GEN RING)",
+        "list_of_product_ids": "1,412,815,154",
+        "core_id": 191.0
+      }
+    },
+    {
+      "id": "variant-bb5c3c9a-68a3-5a60-8ea0-ed5439358d33",
+      "score": 0.8553396,
+      "metadata": {
+        "text": "core_product_name: centrifugal horizontal pump | type_or_class: GWS",
+        "raw_product_name": "PUMP-CENT.HOR(GWS)",
+        "list_of_product_ids": "6709,5880,10341,8713,12229,18150,18331,24092,19778,23795,24106,23674,23692,23712,23715,23504,23752,36706,37102,33948,36998,37907,38457",
+        "core_id": 329.0
+      }
+    },
+    {
+      "id": "variant-83118196-9940-5869-81ea-aa56a5076c9b",
+      "score": 0.8550313,
+      "metadata": {
+        "text": "core_product_name: winding wire | type_or_class: Flat Cable",
+        "raw_product_name": "WINDING WIRES & FLAT CABLES",
+        "list_of_product_ids": "38750,38835,38671,38590,38535,38616,38537,38776,38724,38644,38867,38909,38935,38956,38699,38972,38999,39027,39061,39095,39125,39173,39226,39254,39296,39346,39382,39411,39441,39457,39492,39547,39574,39612,39636,39664,39698,39738,39808,39836,39907",
+        "core_id": 2476.0
+      }
+    },
+    {
+      "id": "variant-172a68b6-cd52-5685-883b-446f0e6aeee5",
+      "score": 0.85486466,
+      "metadata": {
+        "text": "core_product_name: gate valve | material: Cast",
+        "raw_product_name": "VALVE GATE CAST",
+        "list_of_product_ids": "5382,11614,29395,7639,7652,11635,11222,11235,11245,11257,11396,11429,6845,6849,6854,6859,6869,6874,6879,6884,6889,6894,6864,6963,6976,6978,6980,6984,6986,6955,6957,6959,6961,6990,6994,6982,6988,6992,9258,7662,7664,7666,7668,7670,7631,7633,7635,7637,7654,7656,7658,7660,9408,9427,9240,9248,9167,9174,9242,9306,9319,9320,9338,12024,12042,12033,12324,12328,12427,12566,12546,12651,13252,13362,13366,13373,13376,13380,6213,19358,16660,19369,18054,18381,18506,19707,31712,33376,35515,39521,40044,40143",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-4af2736c-e759-5609-93a4-afc42f6dce9e",
+      "score": 0.8548135,
+      "metadata": {
+        "text": "core_product_name: globe valve | material: Cast",
+        "raw_product_name": "VALVE GLOBE CAST",
+        "list_of_product_ids": "6220,5389,29398,6981,11619,11638,11224,11236,11246,11277,11258,11441,11430,6852,6857,6862,6872,6877,6882,6887,6892,6897,6867,6977,6979,6985,6956,6958,6960,6962,6964,6987,6991,6995,6983,6989,6993,7661,7663,7665,7667,7669,7671,7632,7634,7636,7638,9260,7640,7653,7655,7657,7659,9388,9413,9436,9241,9250,9164,9243,9307,9318,9328,9340,12329,12428,12567,12547,13259,13365,13374,13382,17621,18382,19709,16651,31717,33377,35551,39523,39933,40045",
+        "core_id": 1062.0
+      }
+    }
+  ]
+}

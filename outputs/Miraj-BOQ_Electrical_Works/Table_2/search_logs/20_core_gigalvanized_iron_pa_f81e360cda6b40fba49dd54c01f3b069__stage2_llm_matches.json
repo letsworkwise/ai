@@ -1,0 +1,62 @@
+{
+  "query": "core_product_name: gi(galvanized iron) paint | feature_or_specifications: feature: or as per requirement",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: gi (galvanized iron) pipe | acronymed_core_product_name: gi pipe (erw) | special_attributes: erw (electric resistance welded)",
+        "raw_product_name": "GI PIPE(ERW)",
+        "list_of_product_ids": [
+          "29650",
+          "29098",
+          "29099",
+          "29097",
+          "35291",
+          "35309",
+          "35315"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "acronymed_core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: pipe fitting | acronymed_core_product_name: gi (galvanized iron) pipe fittings | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI PIPE FITTINGS",
+        "list_of_product_ids": [
+          "137",
+          "342",
+          "283",
+          "228",
+          "756"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "acronymed_core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flexible cable tray support system | acronymed_core_product_name: gi (galvanized iron) cable tray support system | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI FLEXIBLE CABLE TRAY SUPPORT SYSTEM",
+        "list_of_product_ids": [
+          "7302",
+          "7350",
+          "7900",
+          "16236",
+          "20193",
+          "16264"
+        ]
+      }
+    }
+  ]
+}

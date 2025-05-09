@@ -1,0 +1,178 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, fabricating, fixing and keeping in position at all levels and locations THREADED ANCHOR BOLTS of all",
+      "core_product_name": "threaded anchor bolts",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, fabricating, fixing, keeping in position at all levels and locations",
+      "quantity": "6.5",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, transporting, storing, fabricating and fixing in position M.S. METAL INSERT (with lugs) of any shape",
+      "core_product_name": "metal insert",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: m.s.(mild steel), feature: with lugs, feature: supplying, transporting, storing, fabricating, fixing in position, shape: any shape",
+      "quantity": "0.5",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, fabricating and fixing in position G.I. PIPE SLEEVES of all diameters including providing necessary",
+      "core_product_name": "pipe sleeves",
+      "acronymed_core_product_name": "",
+      "size": "diameter: all diameters",
+      "feature_or_specifications": "material: g.i.(galvanized iron), feature: supplying, fabricating, fixing in position, feature: including providing necessary",
+      "quantity": "0.2",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, fabricating and erecting in position at all levels and locations bolted, screwed and/or welded M.S.",
+      "core_product_name": "m.s.",
+      "acronymed_core_product_name": "m.s.",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, fabricating, erecting in position at all levels and locations, feature: bolted, screwed and/or welded, material: m.s.(mild steel)",
+      "quantity": "0.5",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, fabricating and erecting in position at all levels and locations ELECTROFORGED GALVANISED",
+      "core_product_name": "electroforged galvanised",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, fabricating, erecting in position at all levels and locations, feature: electroforged, feature: galvanised",
+      "quantity": "0.2",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Making openings in galvanized grating for pipes / ducts etc., at all levels and at at all locations by cutting the existing",
+      "core_product_name": "openings in galvanized grating",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: for pipes or ducts etc., feature: at all levels and at all locations, feature: by cutting the existing",
+      "quantity": "2.0",
+      "unit": "each"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      570,
+      579
+    ],
+    "original_rows": [
+      {
+        "0": 571,
+        "1": 0,
+        "2": "01CS.6.16.1",
+        "3": "Supplying, transporting, storing, fabricating and fixing in position M.S. METAL INSERT (with lugs) of any shape",
+        "4": 0.5,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 572,
+        "1": 0,
+        "2": "01CS.6.17",
+        "3": "GI Pipe Sleeves - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 573,
+        "1": 0,
+        "2": "01CS.6.17.1",
+        "3": "Supplying, fabricating and fixing in position G.I. PIPE SLEEVES of all diameters including providing necessary",
+        "4": 0.2,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 574,
+        "1": 0,
+        "2": "01CS.6.18",
+        "3": "MS Chequered Plates - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 575,
+        "1": 0,
+        "2": "01CS.6.18.1",
+        "3": "Supplying, fabricating and erecting in position at all levels and locations bolted, screwed and/or welded M.S.",
+        "4": 0.5,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 576,
+        "1": 0,
+        "2": "01CS.6.19",
+        "3": "MS Grating Cat. A,B - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 577,
+        "1": 0,
+        "2": "01CS.6.19.6",
+        "3": "Supplying, fabricating and erecting in position at all levels and locations ELECTROFORGED GALVANISED",
+        "4": 0.2,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 578,
+        "1": 0,
+        "2": "01CS.6.19.7",
+        "3": "Making openings in galvanized grating for pipes / ducts etc., at all levels and at at all locations by cutting the existing",
+        "4": 2.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 579,
+        "1": 0,
+        "2": "01CS.6.22",
+        "3": "MS Rungs - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 580,
+        "1": 0,
+        "2": "01CS.6.22.1",
+        "3": "Supplying, fabricating, fixing and keeping in position M.S. RUNGS in R.C.C. works at all depths and heights including",
+        "4": 120.0,
+        "5": "kg",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2283,
+    "completion_tokens": 1111
+  }
+}

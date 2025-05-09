@@ -1,0 +1,509 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8664072,
+      "text": "core_product_name: colour printer | type_or_class: LaserJet (Laser Jet)",
+      "core_id": 1321.0,
+      "raw_product_name": "LASERJET COLOUR PRINTER",
+      "list_of_product_ids": [
+        "191",
+        "561",
+        "915",
+        "726",
+        "940"
+      ]
+    },
+    {
+      "retrieval_score": 0.862904,
+      "text": "core_product_name: printer",
+      "core_id": 1787.0,
+      "raw_product_name": "PRINTER",
+      "list_of_product_ids": [
+        "20435",
+        "20538",
+        "20577",
+        "20641",
+        "20698",
+        "20755"
+      ]
+    },
+    {
+      "retrieval_score": 0.8584597,
+      "text": "core_product_name: access chamber",
+      "core_id": 26.0,
+      "raw_product_name": "ACCESS CHAMBER",
+      "list_of_product_ids": [
+        "158",
+        "151",
+        "585",
+        "815",
+        "880"
+      ]
+    },
+    {
+      "retrieval_score": 0.85650146,
+      "text": "core_product_name: lighting and power panel | operating_conditions: Safe Area",
+      "core_id": 1351.0,
+      "raw_product_name": "LIGHTING & POWER PANELS (SAFE AREA)",
+      "list_of_product_ids": [
+        "5631",
+        "6460",
+        "10307",
+        "11363",
+        "9150",
+        "9362",
+        "11943",
+        "24828",
+        "24816",
+        "24931",
+        "24942",
+        "19386",
+        "38289"
+      ]
+    },
+    {
+      "retrieval_score": 0.8562527,
+      "text": "core_product_name: security search light system",
+      "core_id": 1989.0,
+      "raw_product_name": "SECURITY SEARCH LIGHT SYSTEM",
+      "list_of_product_ids": [
+        "7",
+        "065",
+        "739",
+        "211",
+        "726"
+      ]
+    },
+    {
+      "retrieval_score": 0.85172623,
+      "text": "core_product_name: access control system",
+      "core_id": 30.0,
+      "raw_product_name": "ACCESS CONTROL SYSTEM",
+      "list_of_product_ids": [
+        "6601",
+        "5771",
+        "10891",
+        "10915",
+        "11070",
+        "10890",
+        "10892",
+        "19260",
+        "19270",
+        "34967",
+        "34987",
+        "35018"
+      ]
+    },
+    {
+      "retrieval_score": 0.8514964,
+      "text": "core_product_name: light fabricated component",
+      "core_id": 1347.0,
+      "raw_product_name": "LIGHT FABRICATED COMPONENT",
+      "list_of_product_ids": [
+        "26019",
+        "26018",
+        "26017",
+        "26690"
+      ]
+    },
+    {
+      "retrieval_score": 0.8514616,
+      "text": "core_product_name: toner cartridge | accessories_or_attachments: computer printer",
+      "core_id": 424.0,
+      "raw_product_name": "COMPUTER PRINTER- TONER CARTRIDGE",
+      "list_of_product_ids": [
+        "193",
+        "212",
+        "338",
+        "528",
+        "071"
+      ]
+    },
+    {
+      "retrieval_score": 0.85138386,
+      "text": "core_product_name: access floor system",
+      "core_id": 29.0,
+      "raw_product_name": "ACCESS FLOOR SYSTEM",
+      "list_of_product_ids": [
+        "19257",
+        "28256",
+        "38565",
+        "38555",
+        "38556",
+        "38557",
+        "38559",
+        "39640",
+        "40151",
+        "40157"
+      ]
+    },
+    {
+      "retrieval_score": 0.8507574,
+      "text": "core_product_name: primary structure | construction_features: bolted",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+      "list_of_product_ids": [
+        "20000",
+        "19997",
+        "20035",
+        "21038",
+        "21002",
+        "21083",
+        "21901",
+        "22017",
+        "22116",
+        "22826",
+        "22992"
+      ]
+    },
+    {
+      "retrieval_score": 0.85033333,
+      "text": "core_product_name: internal wall | protection_features: fireproof",
+      "core_id": 1288.0,
+      "raw_product_name": "INTERNAL FIRE WALL",
+      "list_of_product_ids": [
+        "19216",
+        "28252",
+        "39669",
+        "39674",
+        "39745",
+        "39812",
+        "39784",
+        "39913"
+      ]
+    },
+    {
+      "retrieval_score": 0.8501145,
+      "text": "core_product_name: interior",
+      "core_id": 458.0,
+      "raw_product_name": "CONTROL ROOM INTERIOR",
+      "list_of_product_ids": [
+        "19384",
+        "19379",
+        "28261",
+        "38713"
+      ]
+    },
+    {
+      "retrieval_score": 0.8496777,
+      "text": "core_product_name: fire proofing material | protection_features: Fireproof",
+      "core_id": 856.0,
+      "raw_product_name": "FIRE PROOFING MATERIAL",
+      "list_of_product_ids": [
+        "38658",
+        "38561",
+        "38562",
+        "38566"
+      ]
+    },
+    {
+      "retrieval_score": 0.8494211,
+      "text": "core_product_name: fitting",
+      "core_id": 273.0,
+      "raw_product_name": "FITTINGS",
+      "list_of_product_ids": [
+        "6290",
+        "5461",
+        "11537",
+        "7894",
+        "11072",
+        "11094",
+        "11098",
+        "11099",
+        "11127",
+        "11129",
+        "10446",
+        "10452",
+        "11402",
+        "8101",
+        "8103",
+        "8105",
+        "7876",
+        "7878",
+        "7880",
+        "7882",
+        "7883",
+        "7875",
+        "7877",
+        "7879",
+        "8095",
+        "8018",
+        "8097",
+        "8099",
+        "8094",
+        "8096",
+        "8098",
+        "8100",
+        "8102",
+        "8104",
+        "8106",
+        "8130",
+        "9273",
+        "9274",
+        "8824",
+        "8107",
+        "8108",
+        "12258",
+        "12679",
+        "12666",
+        "12683",
+        "12688",
+        "13310",
+        "13317",
+        "13403",
+        "14515",
+        "14568",
+        "15748",
+        "16005",
+        "16058",
+        "16446",
+        "16530",
+        "16614",
+        "19374",
+        "19368",
+        "19267",
+        "19252",
+        "19261",
+        "17541",
+        "19356",
+        "19736",
+        "20066",
+        "21742",
+        "21303",
+        "19811",
+        "19277",
+        "16579",
+        "24581",
+        "30951",
+        "30637",
+        "30687",
+        "33435",
+        "37262",
+        "37014",
+        "37026",
+        "35746",
+        "36881",
+        "36884"
+      ]
+    },
+    {
+      "retrieval_score": 0.8492089,
+      "text": "core_product_name: addressable fire alarm panel",
+      "core_id": 48.0,
+      "raw_product_name": "ADDRESSABLE FIRE ALARM PANEL",
+      "list_of_product_ids": [
+        "37759",
+        "37764",
+        "37769",
+        "37774",
+        "37780",
+        "37790"
+      ]
+    },
+    {
+      "retrieval_score": 0.84920174,
+      "text": "core_product_name: control room",
+      "core_id": 457.0,
+      "raw_product_name": "CONTROL ROOM",
+      "list_of_product_ids": [
+        "19383",
+        "19371",
+        "19373",
+        "23748"
+      ]
+    },
+    {
+      "retrieval_score": 0.8489703,
+      "text": "core_product_name: light machined component",
+      "core_id": 1350.0,
+      "raw_product_name": "LIGHT MACHINED COMPONENTS",
+      "list_of_product_ids": [
+        "239",
+        "522",
+        "395",
+        "328",
+        "688"
+      ]
+    },
+    {
+      "retrieval_score": 0.8482866,
+      "text": "core_product_name: modular accommodation",
+      "core_id": 1494.0,
+      "raw_product_name": "MODULAR ACCOMODATION",
+      "list_of_product_ids": [
+        "23416",
+        "23417",
+        "26048",
+        "26683"
+      ]
+    },
+    {
+      "retrieval_score": 0.84806263,
+      "text": "core_product_name: lock fitting",
+      "core_id": 1378.0,
+      "raw_product_name": "LOCK FITTINGS",
+      "list_of_product_ids": [
+        "193",
+        "371",
+        "933",
+        "827",
+        "255"
+      ]
+    },
+    {
+      "retrieval_score": 0.84801614,
+      "text": "core_product_name: primary structure | construction_features: welded",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+      "list_of_product_ids": [
+        "19999",
+        "20036",
+        "22016",
+        "21003",
+        "21084",
+        "21900",
+        "22115",
+        "21039",
+        "19993",
+        "22825",
+        "22991"
+      ]
+    },
+    {
+      "retrieval_score": 0.847984,
+      "text": "core_product_name: indicating lamp fitting",
+      "core_id": 1232.0,
+      "raw_product_name": "INDICATING LAMP FITTING",
+      "list_of_product_ids": [
+        "20128",
+        "20443",
+        "20418",
+        "20465",
+        "20506",
+        "20645"
+      ]
+    },
+    {
+      "retrieval_score": 0.84794366,
+      "text": "core_product_name: bullet proof glass | protection_features: Bullet proof",
+      "core_id": 256.0,
+      "raw_product_name": "BULLET PROOF GLASS",
+      "list_of_product_ids": [
+        "282",
+        "412",
+        "824",
+        "228",
+        "240"
+      ]
+    },
+    {
+      "retrieval_score": 0.84653264,
+      "text": "core_product_name: paper",
+      "core_id": 1066.0,
+      "raw_product_name": "GRAPH PAPERS & CHART",
+      "list_of_product_ids": [
+        "157",
+        "001",
+        "571",
+        "915",
+        "735"
+      ]
+    },
+    {
+      "retrieval_score": 0.846173,
+      "text": "core_product_name: precision machined component",
+      "core_id": 1760.0,
+      "raw_product_name": "PRECESION MACHINED COMPONENTS",
+      "list_of_product_ids": [
+        "239",
+        "482",
+        "394",
+        "928",
+        "689"
+      ]
+    },
+    {
+      "retrieval_score": 0.84569013,
+      "text": "core_product_name: computer software",
+      "core_id": 423.0,
+      "raw_product_name": "COMPUTER SOFTWARE",
+      "list_of_product_ids": [
+        "193",
+        "121",
+        "931",
+        "327",
+        "257"
+      ]
+    },
+    {
+      "retrieval_score": 0.8456482,
+      "text": "core_product_name: accommodation ladder",
+      "core_id": 31.0,
+      "raw_product_name": "ACCOMMODATION LADDER",
+      "list_of_product_ids": [
+        "260",
+        "502",
+        "604",
+        "926",
+        "682"
+      ]
+    },
+    {
+      "retrieval_score": 0.8455445,
+      "text": "core_product_name: addressable detector",
+      "core_id": 47.0,
+      "raw_product_name": "ADDRESSABLE DETECTOR",
+      "list_of_product_ids": [
+        "37763",
+        "37768",
+        "37773",
+        "37779",
+        "37789",
+        "37758"
+      ]
+    },
+    {
+      "retrieval_score": 0.8454893,
+      "text": "core_product_name: measurement system",
+      "core_id": 1451.0,
+      "raw_product_name": "MEASUREMENT SYSTEM",
+      "list_of_product_ids": [
+        "188",
+        "511",
+        "884",
+        "918",
+        "973"
+      ]
+    },
+    {
+      "retrieval_score": 0.84545183,
+      "text": "core_product_name: primary structure | accessories_or_attachments: Fabrication | accessories_or_attachments: Supply",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE (FABRICATION & SUPPLY)",
+      "list_of_product_ids": [
+        "237",
+        "742",
+        "105",
+        "321",
+        "052"
+      ]
+    },
+    {
+      "retrieval_score": 0.845343,
+      "text": "core_product_name: accessory lighting fixture | protection_features: Non Hazardous",
+      "core_id": 1352.0,
+      "raw_product_name": "LIGHTING FIXTURE & ACCESORY-NON HZARDOUS",
+      "list_of_product_ids": [
+        "5630",
+        "6459",
+        "10568",
+        "10188",
+        "10179",
+        "19512",
+        "19508",
+        "19540",
+        "26082"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "query": "core_product_name: gi(galvanized iron) pipe | acronymed_core_product_name: gi pipe | size: diameter: 2 inch",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: galvanized iron pipe | acronymed_core_product_name: gi pipe",
+        "raw_product_name": "GI PIPE",
+        "list_of_product_ids": [
+          "15427",
+          "17238",
+          "17227",
+          "30897",
+          "30959",
+          "27363",
+          "28754",
+          "28918",
+          "28967",
+          "35290",
+          "35308",
+          "35313",
+          "39993"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: galvanized iron pipe | acronymed_core_product_name: gi pipe (galvanized iron pipe)",
+        "raw_product_name": "GALVANIZED IRON PIPES(GI)",
+        "list_of_product_ids": [
+          "7600",
+          "11065",
+          "7275",
+          "8051"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "special_attributes"
+      ],
+      "match_details": {
+        "text": "core_product_name: gi (galvanized iron) pipe | acronymed_core_product_name: gi pipe (erw) | special_attributes: erw (electric resistance welded)",
+        "raw_product_name": "GI PIPE(ERW)",
+        "list_of_product_ids": [
+          "29650",
+          "29098",
+          "29099",
+          "29097",
+          "35291",
+          "35309",
+          "35315"
+        ]
+      }
+    }
+  ]
+}

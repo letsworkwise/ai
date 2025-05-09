@@ -1,0 +1,61 @@
+{
+  "query": "core_product_name: capacitor panel | size: voltage: 415 V, phases: 3 phase-neutral, frequency: 50 Hz, short circuit withstand: 50 KA for 1 second, capacity: 250 KVAR (2X75, 1X50, 2X25 KVAR) | feature_or_specifications: feature: apfc (automatic power factor correction) relay, feature: protections, feature: filters, standard: as per attached sld (single line diagram), specifications & ds (data sheet), feature: weather proof double compression ni (nickel) plated brass cable glands and lugs for all incoming and outgoing feeders",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: automatic power factor correction panel | acronymed_core_product_name: apfc panel",
+        "raw_product_name": "APFC PANEL",
+        "list_of_product_ids": [
+          "14207",
+          "14608",
+          "14633",
+          "36913",
+          "24833",
+          "24821",
+          "24947",
+          "33479",
+          "33501",
+          "33677"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: capacitor bank",
+        "raw_product_name": "CAPACITOR BANK",
+        "list_of_product_ids": [
+          "7118",
+          "7445",
+          "11170",
+          "10847",
+          "12360"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: electric capacitor",
+        "raw_product_name": "ELECTRIC CAPACITOR",
+        "list_of_product_ids": [
+          "20800",
+          "20799",
+          "22292",
+          "28494"
+        ]
+      }
+    }
+  ]
+}

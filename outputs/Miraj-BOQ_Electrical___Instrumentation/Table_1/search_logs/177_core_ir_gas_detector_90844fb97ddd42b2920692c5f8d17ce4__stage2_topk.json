@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: ir gas detector | feature_or_specifications: type: flameproof, ex-proof (explosion proof), ingress protection: ip-66, area suitability: hazardous area zone-1, iia/b t3, accessories: canopy, other accessories included",
+  "retrieval_results": [
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.86179227,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    },
+    {
+      "id": "variant-a42e2286-63d0-50f1-b7db-ecb2ab6b3661",
+      "score": 0.8578047,
+      "metadata": {
+        "text": "core_product_name: hazardous area lighting panel | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF - HAZARDOUS AREA LIGHTING PANEL",
+        "list_of_product_ids": "19706,19705,19702,19700,19695,19670,27175,35892,35945,40178,40228",
+        "core_id": 891.0
+      }
+    },
+    {
+      "id": "variant-7c3e9537-bad4-5736-9cce-b57a0949b499",
+      "score": 0.8575278,
+      "metadata": {
+        "text": "core_product_name: external fire proofing | protection_features: Fireproof | type_or_class: A Rated",
+        "raw_product_name": "EXTERNAL FIRE PROOFING A RATED",
+        "list_of_product_ids": "39642,39670,39676,39673,39744",
+        "core_id": 776.0
+      }
+    },
+    {
+      "id": "variant-44ef153c-f8c1-591b-bcfa-ee12e6ec437f",
+      "score": 0.8545149,
+      "metadata": {
+        "text": "core_product_name: fire and gas detection system",
+        "raw_product_name": "FIRE & GAS DETECTION SYSTEMS",
+        "list_of_product_ids": "6550,5721,10943,10040,11234,11244,11420,11423,11421,11425,12425,12818,17482,17481,19831,29874,37765,37770,37775,37791,35578,36117,36233,36385,36457",
+        "core_id": 836.0
+      }
+    },
+    {
+      "id": "variant-fc1f7925-7372-55a1-9253-aba90e14a95e",
+      "score": 0.85337687,
+      "metadata": {
+        "text": "core_product_name: external fire proofing | protection_features: Fireproof | type_or_class: H Rated",
+        "raw_product_name": "EXTERNAL FIRE PROOFING H RATED",
+        "list_of_product_ids": "19201,28251,39639,39672",
+        "core_id": 776.0
+      }
+    },
+    {
+      "id": "variant-b775aa2e-7972-5b0d-8aab-d1d0a869d229",
+      "score": 0.8509216,
+      "metadata": {
+        "text": "core_product_name: inert gas extinguishing system",
+        "raw_product_name": "INERT GAS EXTINGUISHING SYSTEM",
+        "list_of_product_ids": "32476,32477,32606,33785",
+        "core_id": 1238.0
+      }
+    },
+    {
+      "id": "variant-e516e659-612c-582a-b731-007fc95acd57",
+      "score": 0.8506155,
+      "metadata": {
+        "text": "core_product_name: level switch | protection_features: Explosion Proof",
+        "raw_product_name": "Level Switches (Explosion Proof)",
+        "list_of_product_ids": "17095,17094,17093,17092,17091,17090,17096,27177",
+        "core_id": 1337.0
+      }
+    },
+    {
+      "id": "variant-6f51bba4-79b9-5d92-928d-652b82cce02e",
+      "score": 0.8505178,
+      "metadata": {
+        "text": "core_product_name: flameproof equipment | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF EQUIPMENT",
+        "list_of_product_ids": "13446,13447,13448,13449,13450,13473,13477",
+        "core_id": 894.0
+      }
+    },
+    {
+      "id": "variant-4899927d-b320-5265-8d88-74ca5f512243",
+      "score": 0.8499622,
+      "metadata": {
+        "text": "core_product_name: flame proof lighting fixture | protection_features: Flame proof | accessories_or_attachments: Accessories",
+        "raw_product_name": "FLAME PROOF LIGHTING FIXTURES & ACCESSORIES",
+        "list_of_product_ids": "13572,14602,14848,15164,15923,18858,22863,16552,35780",
+        "core_id": 890.0
+      }
+    },
+    {
+      "id": "variant-aeb4f6a9-b1de-541e-9b7d-a9e5a83c65b6",
+      "score": 0.8496385,
+      "metadata": {
+        "text": "core_product_name: portable gas detector",
+        "raw_product_name": "PORTABLE GAS DETECTOR",
+        "list_of_product_ids": "13831,14336,14674,14682,14934,14935,14936,14937,19376,23210,33600,33610,33673,33689,34959,36085",
+        "core_id": 1726.0
+      }
+    },
+    {
+      "id": "variant-19ed9fe9-31f3-5298-9c2c-4e26777a2d11",
+      "score": 0.84935784,
+      "metadata": {
+        "text": "core_product_name: gas detection system",
+        "raw_product_name": "GAS DETECTION SYSTEMS",
+        "list_of_product_ids": "6549,5720,10456,11233,11243,10651,10650,11424,11422,11722,12817,12820,12819,13110,13111,18189,36733,35577,36091,36095",
+        "core_id": 1028.0
+      }
+    },
+    {
+      "id": "variant-5a3dccc3-1bfc-5555-8837-abbdff1584d8",
+      "score": 0.8475922,
+      "metadata": {
+        "text": "core_product_name: gas detector",
+        "raw_product_name": "GAS DETECTORS",
+        "list_of_product_ids": "9806,9813,9861,19902,34955,36092,36086,36094,39317",
+        "core_id": 1026.0
+      }
+    },
+    {
+      "id": "variant-456432a9-ab05-55ad-9b92-0bf762831942",
+      "score": 0.84479696,
+      "metadata": {
+        "text": "core_product_name: fire fighting accessory",
+        "raw_product_name": "FIRE FIGHTING ACCESSORIES",
+        "list_of_product_ids": "16168,16173,16277,16274,16273,16272,16271,16266,21064,21057,34088",
+        "core_id": 845.0
+      }
+    },
+    {
+      "id": "variant-62910790-3afc-5300-9796-f3874f331d36",
+      "score": 0.84439075,
+      "metadata": {
+        "text": "core_product_name: flame proof control station | protection_features: Flame proof",
+        "raw_product_name": "CONTROL STATIONS-FLAME PROOF",
+        "list_of_product_ids": "6396,5567,10309,10586,10556,10599,16896,24100,22849,24498,24497,24496,24495,35767",
+        "core_id": 463.0
+      }
+    },
+    {
+      "id": "variant-9958feea-789c-5aae-a14d-84cf4d8178d7",
+      "score": 0.8442902,
+      "metadata": {
+        "text": "core_product_name: fire detector",
+        "raw_product_name": "FIRE DETECTORS",
+        "list_of_product_ids": "20032,20033,20031,20040,21851,20044,24696,31749,31750,31752,31754,31755,26667,26668,26673,31757,31758,31759,37800,37805,35219,39917",
+        "core_id": 842.0
+      }
+    },
+    {
+      "id": "variant-9143306f-1c3d-5e36-b761-385a5aeb8e3b",
+      "score": 0.84399503,
+      "metadata": {
+        "text": "core_product_name: explosion proof control station | protection_features: Explosion proof",
+        "raw_product_name": "CONTROL STATIONS - EXPLOSION PROOF",
+        "list_of_product_ids": "19797,19862,19850,19865,19864,28286,35867,35889,35942",
+        "core_id": 461.0
+      }
+    },
+    {
+      "id": "variant-6f388475-f466-5ff3-ba8a-3d0e206bd2c6",
+      "score": 0.8434251,
+      "metadata": {
+        "text": "core_product_name: flameproof plug | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF PLUG",
+        "list_of_product_ids": "201,172,041,520,651",
+        "core_id": 897.0
+      }
+    },
+    {
+      "id": "variant-a2809c8f-d8fc-59ef-92ef-c3639cd334c9",
+      "score": 0.8431876,
+      "metadata": {
+        "text": "core_product_name: multi gas detector",
+        "raw_product_name": "MULTI GAS DETECTOR",
+        "list_of_product_ids": "16470,16479,16499,34957",
+        "core_id": 1513.0
+      }
+    },
+    {
+      "id": "variant-2b04f37a-fd10-57bc-a269-68ba91254353",
+      "score": 0.8429253,
+      "metadata": {
+        "text": "core_product_name: flame detector",
+        "raw_product_name": "FLAME DETECTOR",
+        "list_of_product_ids": "14274,14672,14680,18190",
+        "core_id": 888.0
+      }
+    },
+    {
+      "id": "variant-501f4268-336a-5e01-af3e-8edf7d0a9e1c",
+      "score": 0.84246504,
+      "metadata": {
+        "text": "core_product_name: fire proofing material | protection_features: Fireproof",
+        "raw_product_name": "FIRE PROOFING MATERIAL",
+        "list_of_product_ids": "38658,38561,38562,38566",
+        "core_id": 856.0
+      }
+    },
+    {
+      "id": "variant-dbe53d3b-b232-59ad-a14e-f85b04c8befb",
+      "score": 0.8414939,
+      "metadata": {
+        "text": "core_product_name: extractive gas analyser system",
+        "raw_product_name": "STACK GAS ANALYSER SYSTEMS (EXTRACTIVE)",
+        "list_of_product_ids": "6526,5697,10053,11186,11765,11785,10134,11882,19069,19572,29266,29267,29265,29264,33424,33539,33606,33603,33686,33670,33817,33942,33960,35608,35612,36276,36428",
+        "core_id": 2098.0
+      }
+    },
+    {
+      "id": "variant-3ce73ff4-e68b-5cbf-b95e-8d29109fe9a2",
+      "score": 0.8412762,
+      "metadata": {
+        "text": "core_product_name: infrared radiation pyrometer",
+        "raw_product_name": "INFRARED RADIATION PYROMETER",
+        "list_of_product_ids": "18861,18860,18909,18959,18964,18957,37674,37481",
+        "core_id": 1239.0
+      }
+    },
+    {
+      "id": "variant-38556993-23d0-512b-884c-fd1ea12aff26",
+      "score": 0.8410398,
+      "metadata": {
+        "text": "core_product_name: fire detection system",
+        "raw_product_name": "FIRE DETECTION SYSTEM",
+        "list_of_product_ids": "14244,17861,18174,20243,20302,22254,24381,24380,24695,31751,31753,26666,26669,26674,31756,31760,34972,34989,35006,35012,35016,35220,36456",
+        "core_id": 844.0
+      }
+    },
+    {
+      "id": "variant-a61cf322-50a0-5edd-9933-4560aead10ca",
+      "score": 0.8407489,
+      "metadata": {
+        "text": "core_product_name: smoke detector",
+        "raw_product_name": "SMOKE DETECTOR",
+        "list_of_product_ids": "9001,8990,11435,9079,9140,18004,31184,37767,37772,37777,37793,37803,37808,36089",
+        "core_id": 2045.0
+      }
+    },
+    {
+      "id": "variant-0efb7545-ace8-5231-a7a1-6342569f67d0",
+      "score": 0.8392395,
+      "metadata": {
+        "text": "core_product_name: thermal detector",
+        "raw_product_name": "THERMAL DETECTORS",
+        "list_of_product_ids": "14012,14939,18003,18002,37766,37771,37776,37792,37802,37807",
+        "core_id": 2239.0
+      }
+    },
+    {
+      "id": "variant-a0c0bcb6-a4e3-59a2-a30a-467701880557",
+      "score": 0.83920705,
+      "metadata": {
+        "text": "core_product_name: flameproof socket | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF SOCKET",
+        "list_of_product_ids": "20118,20440,20416,20650,22853",
+        "core_id": 900.0
+      }
+    },
+    {
+      "id": "variant-d9531954-4f67-53ea-bad4-d89c7caa7d6e",
+      "score": 0.8390803,
+      "metadata": {
+        "text": "core_product_name: fire proximity suit | protection_features: Fireproof",
+        "raw_product_name": "Fire Proximity Suit",
+        "list_of_product_ids": "14352,14355,14340,37468",
+        "core_id": 999.0
+      }
+    },
+    {
+      "id": "variant-651e7de1-5940-5447-b20c-de1f1785c37c",
+      "score": 0.8385207,
+      "metadata": {
+        "text": "core_product_name: flameproof convenience outlet | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF - CONVENIENCE OUTLETS",
+        "list_of_product_ids": "19657,19639,19667,28279",
+        "core_id": 892.0
+      }
+    },
+    {
+      "id": "variant-b90c3dc5-0a21-59cf-be4a-d059afd54e5f",
+      "score": 0.8384454,
+      "metadata": {
+        "text": "core_product_name: addressable detector",
+        "raw_product_name": "ADDRESSABLE DETECTOR",
+        "list_of_product_ids": "37763,37768,37773,37779,37789,37758",
+        "core_id": 47.0
+      }
+    },
+    {
+      "id": "variant-3d1bb32b-82c9-5e48-bdfa-b2c33d26a29d",
+      "score": 0.83777404,
+      "metadata": {
+        "text": "core_product_name: gas analysis component",
+        "raw_product_name": "GAS ANALYSIS COMPONENTS",
+        "list_of_product_ids": "19223,19224,19648,27343,39577,39714",
+        "core_id": 1019.0
+      }
+    }
+  ]
+}

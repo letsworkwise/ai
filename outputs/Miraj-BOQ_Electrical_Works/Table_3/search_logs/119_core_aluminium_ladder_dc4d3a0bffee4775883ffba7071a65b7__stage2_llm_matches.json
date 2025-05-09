@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: aluminium ladder | size: height: 10m | feature_or_specifications: type: wheel mounted, adjustable",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: ladder | material: Aluminium",
+        "raw_product_name": "ALUMINIUM LADDERS",
+        "list_of_product_ids": [
+          "274",
+          "922",
+          "751",
+          "027",
+          "487"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: accommodation ladder",
+        "raw_product_name": "ACCOMMODATION LADDER",
+        "list_of_product_ids": [
+          "260",
+          "502",
+          "604",
+          "926",
+          "682"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: ladder | material: Mild Steel (MS)",
+        "raw_product_name": "MILD STEEL LADDERS",
+        "list_of_product_ids": [
+          "274",
+          "932",
+          "750",
+          "927",
+          "490"
+        ]
+      }
+    }
+  ]
+}

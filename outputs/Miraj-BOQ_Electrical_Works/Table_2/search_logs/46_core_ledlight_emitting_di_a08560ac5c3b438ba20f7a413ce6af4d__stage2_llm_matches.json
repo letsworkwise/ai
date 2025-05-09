@@ -1,0 +1,69 @@
+{
+  "query": "core_product_name: led(light emitting diode) based illumination system | acronymed_core_product_name: led based illumination system | feature_or_specifications: application: indoor and outdoor, includes: led lighting fixtures, lighting panels, lighting poles, switch boxes, single phase receptacles, three phase welding receptacles, conduits, portable emergency lantern with sealed maintenance free lead acid battery, cables, wires, poles, earthing wires, etc.",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: light | acronymed_core_product_name: led (light emitting diode) light | type_or_class: LED (Light Emitting Diode)",
+        "raw_product_name": "LED LIGHTS",
+        "list_of_product_ids": [
+          "36554",
+          "24238",
+          "24241",
+          "26878"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "material"
+      ],
+      "match_details": {
+        "text": "core_product_name: video wall | material: LED (Light Emitting Diode)",
+        "raw_product_name": "Video Walls (LED)",
+        "list_of_product_ids": [
+          "7078",
+          "7405",
+          "18019",
+          "18418",
+          "18417"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": [
+          "13606",
+          "16555",
+          "16546",
+          "16591",
+          "16576",
+          "17657",
+          "17650",
+          "17702",
+          "17682",
+          "18058",
+          "20306",
+          "20834",
+          "21315",
+          "22108",
+          "23384",
+          "35044"
+        ]
+      }
+    }
+  ]
+}

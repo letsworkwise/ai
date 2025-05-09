@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: half height turnstile | feature_or_specifications: type: tripod",
+  "retrieval_results": [
+    {
+      "id": "variant-f0062a1b-d2d4-53ba-af6d-d4fcfb9eb852",
+      "score": 0.8514373,
+      "metadata": {
+        "text": "core_product_name: centrifugal pump | construction_features: horizontal back pullout",
+        "raw_product_name": "CENTRIFUGAL PUMPS-HORIZONTAL BACK PULLOUT",
+        "list_of_product_ids": "15362,15392,21694,39961",
+        "core_id": 328.0
+      }
+    },
+    {
+      "id": "variant-f22df410-5864-5695-b4f2-59a2af6615db",
+      "score": 0.8506849,
+      "metadata": {
+        "text": "core_product_name: centrifugal pump | construction_features: horizontal split casing",
+        "raw_product_name": "CENTRIFUGAL PUMPS-HORIZONTAL SPLIT CASING",
+        "list_of_product_ids": "153,611,539,121,692",
+        "core_id": 328.0
+      }
+    },
+    {
+      "id": "variant-45793403-b06f-59e4-833f-bdd2803ae72a",
+      "score": 0.8505528,
+      "metadata": {
+        "text": "core_product_name: trestle",
+        "raw_product_name": "TRESTLES",
+        "list_of_product_ids": "209,482,095,328,021",
+        "core_id": 2279.0
+      }
+    },
+    {
+      "id": "variant-ec136044-7bf4-5467-968a-07ff90551611",
+      "score": 0.8463785,
+      "metadata": {
+        "text": "core_product_name: centrifugal horizontal pump | construction_features: Back Pullout",
+        "raw_product_name": "PUMP-CENT.HOR(Back Pullout)",
+        "list_of_product_ids": "1,389,815,066",
+        "core_id": 329.0
+      }
+    },
+    {
+      "id": "variant-19ecfe5d-434c-5517-af3a-3f4e244e82e3",
+      "score": 0.8450443,
+      "metadata": {
+        "text": "core_product_name: centrifugal horizontal pump | construction_features: Split Casting",
+        "raw_product_name": "PUMP-CENT.HOR(Split Casting)",
+        "list_of_product_ids": "1,390,315,065",
+        "core_id": 329.0
+      }
+    },
+    {
+      "id": "variant-6b23306a-3a13-5927-bda2-dbf55a23bbef",
+      "score": 0.844146,
+      "metadata": {
+        "text": "core_product_name: turnstile gate",
+        "raw_product_name": "TURNSTILE GATE",
+        "list_of_product_ids": "18857,18856,18953,18965",
+        "core_id": 2300.0
+      }
+    },
+    {
+      "id": "variant-2750c753-642a-560b-982a-ebaf6599dc73",
+      "score": 0.84390247,
+      "metadata": {
+        "text": "core_product_name: turbine pump | mounting_or_installation: vertical",
+        "raw_product_name": "TURBINE PUMPS-VERTICAL",
+        "list_of_product_ids": "37783,37784,37785,37794,37795,37796,37797,37809",
+        "core_id": 2294.0
+      }
+    },
+    {
+      "id": "variant-db2eb6fe-65f6-54d0-91f7-0b9cd1b6f6fb",
+      "score": 0.83858806,
+      "metadata": {
+        "text": "core_product_name: butterfly valve | type_or_class: Triple Offset",
+        "raw_product_name": "VALVE-BUTTERFLY (TRIPLE OFFSET)",
+        "list_of_product_ids": "6254,5423,11526,10995,11433,11507,8180,8665,8702,19360,19858,22770,35502",
+        "core_id": 277.0
+      }
+    },
+    {
+      "id": "variant-c4e119cc-aafe-5001-a6b3-3284be36811b",
+      "score": 0.8381502,
+      "metadata": {
+        "text": "core_product_name: turnkey instrumentation",
+        "raw_product_name": "TURNKEY INSTRUMENTATION",
+        "list_of_product_ids": "6627,5797,10074,8347,30050,29691,27064,30481,38274,32771,38190,37692,37693,37700,37702,37706,37710,34960,36098,36246,36399",
+        "core_id": 2299.0
+      }
+    },
+    {
+      "id": "variant-538ee8b0-3bc5-51df-a346-f852b580ca15",
+      "score": 0.8373253,
+      "metadata": {
+        "text": "core_product_name: electric hoist | size_or_capacity: >5 MT",
+        "raw_product_name": "ELECTRIC HOIST >5 MT",
+        "list_of_product_ids": "13846,23074,29913,29914,29917,29916,29918,29921,29924,29926,29925,29929,29923,29922,29930",
+        "core_id": 692.0
+      }
+    },
+    {
+      "id": "variant-97c1a9bb-7da2-5da5-a81c-95948c9b083c",
+      "score": 0.83667433,
+      "metadata": {
+        "text": "core_product_name: triple eccentric butterfly valve | type_or_class: Triple Eccentric",
+        "raw_product_name": "Triple Eccentric Butterfly Valves",
+        "list_of_product_ids": "7467,7140,8654,11971,35506",
+        "core_id": 2311.0
+      }
+    },
+    {
+      "id": "variant-c272cfc6-cf4b-5ec8-ab5f-7397cd5600cc",
+      "score": 0.8362497,
+      "metadata": {
+        "text": "core_product_name: horizontal brace",
+        "raw_product_name": "HORIZONTAL BRACE",
+        "list_of_product_ids": "199,091,991,428,350",
+        "core_id": 1141.0
+      }
+    },
+    {
+      "id": "variant-66881985-1db4-5c08-85da-5799c37fbc25",
+      "score": 0.8355116,
+      "metadata": {
+        "text": "core_product_name: centrifugal horizontal pump",
+        "raw_product_name": "CENTRIFUGAL PUMPS- HORIZONTAL",
+        "list_of_product_ids": "13590,15846,17032,18712,18708,21618,22246,23229,23335,29997,29995,29993,29988,29990,29998,31784",
+        "core_id": 329.0
+      }
+    },
+    {
+      "id": "variant-0e4d04c7-96ab-5803-96ea-fa89fe6f4c0f",
+      "score": 0.8346745,
+      "metadata": {
+        "text": "core_product_name: indicating pilot | type_or_class: HI-LO (High-Low) | construction_features: dial type",
+        "raw_product_name": "HI-LO PILOTS (INDICATING DIAL TYPE)",
+        "list_of_product_ids": "13816,38324,35544,36103",
+        "core_id": 1125.0
+      }
+    },
+    {
+      "id": "variant-6acf83ce-edd4-5a01-87c4-5f88cdffa6ae",
+      "score": 0.8342984,
+      "metadata": {
+        "text": "core_product_name: telescopic access platform",
+        "raw_product_name": "TELESCOPIC ACCESS PLATFORM",
+        "list_of_product_ids": "61,805,351",
+        "core_id": 2216.0
+      }
+    },
+    {
+      "id": "variant-84cf3e1d-5a13-5b4f-b2c2-ff8deb7f514f",
+      "score": 0.8331887,
+      "metadata": {
+        "text": "core_product_name: centrifugal horizontal pump | type_or_class: LCWS",
+        "raw_product_name": "PUMP-CENT.HOR(LCWS)",
+        "list_of_product_ids": "6710,5881,8714,17420,18133,18153,24165,24167,19779,24129,24210,36705,37105,38459,33949,36999",
+        "core_id": 329.0
+      }
+    },
+    {
+      "id": "variant-3976aae7-ebcf-56a0-8db1-19617153ad72",
+      "score": 0.8331068,
+      "metadata": {
+        "text": "core_product_name: trivector meter",
+        "raw_product_name": "TRIVECTOR METER",
+        "list_of_product_ids": "2,152,328,594",
+        "core_id": 2278.0
+      }
+    },
+    {
+      "id": "variant-3faa1339-26f6-59ca-849b-275874a04b84",
+      "score": 0.83306813,
+      "metadata": {
+        "text": "core_product_name: centrifugal pump | construction_features: axially split casing",
+        "raw_product_name": "CENTRIFUGAL PUMPS-AXIALLY SPLIT CASING",
+        "list_of_product_ids": "236,052,360,623,673",
+        "core_id": 328.0
+      }
+    },
+    {
+      "id": "variant-bb5c3c9a-68a3-5a60-8ea0-ed5439358d33",
+      "score": 0.8324012,
+      "metadata": {
+        "text": "core_product_name: centrifugal horizontal pump | type_or_class: GWS",
+        "raw_product_name": "PUMP-CENT.HOR(GWS)",
+        "list_of_product_ids": "6709,5880,10341,8713,12229,18150,18331,24092,19778,23795,24106,23674,23692,23712,23715,23504,23752,36706,37102,33948,36998,37907,38457",
+        "core_id": 329.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.83184797,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-b2a73007-f1cb-5a14-a4dc-f703a589fbd6",
+      "score": 0.8318085,
+      "metadata": {
+        "text": "core_product_name: slurry pump | type_or_class: centrifugal | type_or_class: horizontal or vertical",
+        "raw_product_name": "PUMP-SLURRY.CENT.H/V",
+        "list_of_product_ids": "5901,6730,10841,10842,24865,25098,25124,33957",
+        "core_id": 1818.0
+      }
+    },
+    {
+      "id": "variant-e95bf32f-2e82-542f-9843-2a3047bb1f54",
+      "score": 0.83138955,
+      "metadata": {
+        "text": "core_product_name: butterfly valve | type_or_class: Concentric",
+        "raw_product_name": "VALVE BUTTERFLY (CONCENTRIC)",
+        "list_of_product_ids": "8557,8668,8724,14023,15088,19362,18066,22545,22652,22769,25971,35497,36183,36331",
+        "core_id": 277.0
+      }
+    },
+    {
+      "id": "variant-6b67f430-17ce-5362-9694-6cb2e5e96b1c",
+      "score": 0.8313682,
+      "metadata": {
+        "text": "core_product_name: false ceiling | material: Aluminium | type_or_class: Strip or Tray Type",
+        "raw_product_name": "FALSE CEILING - ALUMINIUM STRIP/ TRAY TYPE",
+        "list_of_product_ids": "6366,5537,10829,12515,12518,12561,12650,12660,38560,34692",
+        "core_id": 794.0
+      }
+    },
+    {
+      "id": "variant-07622eef-071b-5834-af54-4316e8214ff5",
+      "score": 0.8312517,
+      "metadata": {
+        "text": "core_product_name: travelling tripper",
+        "raw_product_name": "TRAVELLING TRIPPER",
+        "list_of_product_ids": "143,881,448,814,550",
+        "core_id": 2276.0
+      }
+    },
+    {
+      "id": "variant-49b66bbe-04fa-5c5b-869e-a750997e7d57",
+      "score": 0.8310588,
+      "metadata": {
+        "text": "core_product_name: butterfly valve | type_or_class: Double Offset",
+        "raw_product_name": "VALVE BUTTERFLY (DOUBLE OFFSET)",
+        "list_of_product_ids": "8556,8667,8723,14037,15087,19361,18067,22544,22651,22768,35501,36182,36330",
+        "core_id": 277.0
+      }
+    },
+    {
+      "id": "variant-31a63a03-e3b0-5171-8ec3-c5e3e1658862",
+      "score": 0.83050305,
+      "metadata": {
+        "text": "core_product_name: flange | material: Carbon steel | construction_features: Raised Face (RF)",
+        "raw_product_name": "Carbon steel Flange (RF)",
+        "list_of_product_ids": "68,157,318",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-5b1e3e9d-8ae5-5f6a-8ddd-8f228cb065b7",
+      "score": 0.8301436,
+      "metadata": {
+        "text": "core_product_name: wet pit pump | mounting_or_installation: vertical",
+        "raw_product_name": "WET PIT PUMPS - VERTICAL",
+        "list_of_product_ids": "37846,37847,37848,37849,37804,37810,37843,37844,37845",
+        "core_id": 2471.0
+      }
+    },
+    {
+      "id": "variant-ca023509-dc8f-5cca-ad86-6a93e55a228c",
+      "score": 0.8300717,
+      "metadata": {
+        "text": "core_product_name: turbo vent | mounting_or_installation: roof",
+        "raw_product_name": "ROOF TURBO VENTS",
+        "list_of_product_ids": "15936,15939,16285,16325,16393,15935",
+        "core_id": 1919.0
+      }
+    },
+    {
+      "id": "variant-cd9b6be5-fa41-56db-a70b-16686d51173b",
+      "score": 0.8296795,
+      "metadata": {
+        "text": "core_product_name: duplex strainer | type_or_class: Duplex",
+        "raw_product_name": "STRAINER-(DUPLEX TYPE)",
+        "list_of_product_ids": "388,903,889,138,924",
+        "core_id": 2132.0
+      }
+    },
+    {
+      "id": "variant-e2437085-e69b-5d8e-b712-6b1e2bda0a43",
+      "score": 0.8294728,
+      "metadata": {
+        "text": "core_product_name: level switch | type_or_class: Displacer or Float",
+        "raw_product_name": "LEVEL SWITCHES(DISPLACER/FLOAT)",
+        "list_of_product_ids": "6589,5759,11661,11692,11683,11810,11310,10095,10109,10550,10623,11708,7943,7945,7949,7947,8395,12074,12217,12813,12814,14200,16823,18395,38275,36310,36162",
+        "core_id": 1337.0
+      }
+    }
+  ]
+}

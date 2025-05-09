@@ -1,0 +1,73 @@
+{
+  "query": "core_product_name: sprinkler | feature_or_specifications: type: Q.B., orientation: pendent, temperature: 68° C, k-factor: 80, manufacturer: newage",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: sprinkler",
+        "raw_product_name": "SPRINKLER",
+        "list_of_product_ids": [
+          "13482",
+          "13498",
+          "13499",
+          "31059",
+          "37496",
+          "35014",
+          "37488",
+          "37491",
+          "37492",
+          "37495"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: water sprinkler",
+        "raw_product_name": "WATER SPRINKLER",
+        "list_of_product_ids": [
+          "6032",
+          "5211",
+          "8921",
+          "8925",
+          "8928",
+          "8956",
+          "8959",
+          "9061",
+          "9066",
+          "9070",
+          "9101",
+          "9105",
+          "22756",
+          "31060",
+          "34994"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: foam sprinkler",
+        "raw_product_name": "FOAM SPRINKLER",
+        "list_of_product_ids": [
+          "8996",
+          "8995",
+          "9062",
+          "9067",
+          "9071",
+          "9102",
+          "24711"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: insulation rubber mat | size: thickness: 2.5 mm | feature_or_specifications: grade: 11 kv, standard: indian standard 15652, class: b type, max leakage current: 10 mamp, feature: flame retardant, feature: anti skid",
+  "retrieval_results": [
+    {
+      "id": "variant-d2ad8830-acb6-5143-9758-6e0e9959e302",
+      "score": 0.8512636,
+      "metadata": {
+        "text": "core_product_name: lining | material: Rubber",
+        "raw_product_name": "LINING (RUBBER)",
+        "list_of_product_ids": "6167,5337,12267,12269,12265,12268,12480",
+        "core_id": 1367.0
+      }
+    },
+    {
+      "id": "variant-f728c4ed-4c19-5413-83f7-8a107bce1c33",
+      "score": 0.8495654,
+      "metadata": {
+        "text": "core_product_name: insulation | material: Nitrile Rubber",
+        "raw_product_name": "INSULATION NITRILE RUBBER",
+        "list_of_product_ids": "7503,7178,7762,8172",
+        "core_id": 404.0
+      }
+    },
+    {
+      "id": "variant-aab0641a-2868-5118-aedc-b66662fb298e",
+      "score": 0.8478486,
+      "metadata": {
+        "text": "core_product_name: tile flooring | material: Rubber",
+        "raw_product_name": "RUBBER TILE FLOORING",
+        "list_of_product_ids": "167,461,674,527,996",
+        "core_id": 1936.0
+      }
+    },
+    {
+      "id": "variant-710db86a-5665-5d2e-b3fd-987c788a21ba",
+      "score": 0.84710664,
+      "metadata": {
+        "text": "core_product_name: gasket | material: Rubber",
+        "raw_product_name": "RUBBER GASKETS",
+        "list_of_product_ids": "8366",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-a3b21856-928b-5ccc-9090-eb9cea2bab58",
+      "score": 0.8470935,
+      "metadata": {
+        "text": "core_product_name: gasket | material: Rubber",
+        "raw_product_name": "GASKET RUBBER",
+        "list_of_product_ids": "17840,17839,18654,22361,37308,37310,37313,37315,37318,37303",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-f2ac1e37-b35c-5116-bd5e-47a63da76831",
+      "score": 0.84643346,
+      "metadata": {
+        "text": "core_product_name: cable | material: Rubber",
+        "raw_product_name": "RUBBER CABLES",
+        "list_of_product_ids": "38749,38955,38670,38589,38533,38534,38615,38698,38775,38723,38643,38834,38866,38908,38934,38971,38998,39026,39060,39094,39124,39172,39225,39253,39295,39345,39381,39410,39440,39456,39491,39546,39573,39611,39635,39663,39697,39737,39807,39835,39906",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-cf48d592-c958-55c5-94cd-da65d30a680d",
+      "score": 0.84637445,
+      "metadata": {
+        "text": "core_product_name: moulding product | material: Rubber",
+        "raw_product_name": "RUBBER PRODUCT(MOULDING)",
+        "list_of_product_ids": "16394,16405,16395,19947,21188,34544",
+        "core_id": 1935.0
+      }
+    },
+    {
+      "id": "variant-ba3d7620-8f6f-5c5a-bdc1-21d5c6b75b6f",
+      "score": 0.8458219,
+      "metadata": {
+        "text": "core_product_name: insulation material",
+        "raw_product_name": "INSULATION MATERIAL",
+        "list_of_product_ids": "10251,10256,10261,10266,10273,10278,10281,7088,7415,10172,10221,10226,10230,10234,10240,10245,11862,13008,38431,33383",
+        "core_id": 1274.0
+      }
+    },
+    {
+      "id": "variant-05c9db43-5c4d-52ba-ab45-526ce58a2d3e",
+      "score": 0.8454322,
+      "metadata": {
+        "text": "core_product_name: thermal insulation",
+        "raw_product_name": "Thermal Insulation",
+        "list_of_product_ids": "7572,7247,11774,11775,7759,7755,7757,9770,12863,13002,13009,16997,17020,17014,34601",
+        "core_id": 2305.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.8431494,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    },
+    {
+      "id": "variant-7230ddf6-78f4-56d9-aadd-a874276a64dd",
+      "score": 0.842466,
+      "metadata": {
+        "text": "core_product_name: sheet | material: Rubber",
+        "raw_product_name": "RUBBER SHEETS",
+        "list_of_product_ids": "19950,19949,19948,21187,25144",
+        "core_id": 132.0
+      }
+    },
+    {
+      "id": "variant-501f4268-336a-5e01-af3e-8edf7d0a9e1c",
+      "score": 0.8406001,
+      "metadata": {
+        "text": "core_product_name: fire proofing material | protection_features: Fireproof",
+        "raw_product_name": "FIRE PROOFING MATERIAL",
+        "list_of_product_ids": "38658,38561,38562,38566",
+        "core_id": 856.0
+      }
+    },
+    {
+      "id": "variant-818e7d99-2e76-50e3-ae9d-2d7e5a8b0eb1",
+      "score": 0.83975387,
+      "metadata": {
+        "text": "core_product_name: insulating refractory castable",
+        "raw_product_name": "INSULATING REFRACTORY CASTABLE",
+        "list_of_product_ids": "6140,5310,10463,8833,8836,8850,8866,9621,9629,9662,9667,9658,9802,13156,24310",
+        "core_id": 1271.0
+      }
+    },
+    {
+      "id": "variant-fa9f8ed7-2f4d-56d8-8db2-ddfc1250d2ed",
+      "score": 0.8397374,
+      "metadata": {
+        "text": "core_product_name: insulation",
+        "raw_product_name": "INSULATION WORK",
+        "list_of_product_ids": "7089,7416,11863,19372,39269,39319,39323,39417",
+        "core_id": 404.0
+      }
+    },
+    {
+      "id": "variant-7c3e9537-bad4-5736-9cce-b57a0949b499",
+      "score": 0.8395668,
+      "metadata": {
+        "text": "core_product_name: external fire proofing | protection_features: Fireproof | type_or_class: A Rated",
+        "raw_product_name": "EXTERNAL FIRE PROOFING A RATED",
+        "list_of_product_ids": "39642,39670,39676,39673,39744",
+        "core_id": 776.0
+      }
+    },
+    {
+      "id": "variant-4a0320ce-349d-56b6-83d6-e53be458a6de",
+      "score": 0.83955634,
+      "metadata": {
+        "text": "core_product_name: tank insulation",
+        "raw_product_name": "TANK INSULATION",
+        "list_of_product_ids": "1,663,716,640",
+        "core_id": 2201.0
+      }
+    },
+    {
+      "id": "variant-c5db7b1e-e157-5769-bf42-abcaf65a88ce",
+      "score": 0.83942586,
+      "metadata": {
+        "text": "core_product_name: insulation",
+        "raw_product_name": "COMPARTMENTS INSULATION",
+        "list_of_product_ids": "23464,23467,23465,28660",
+        "core_id": 404.0
+      }
+    },
+    {
+      "id": "variant-9a080055-e276-5571-82e8-315abf8f1400",
+      "score": 0.839299,
+      "metadata": {
+        "text": "core_product_name: fire-retardant coating | protection_features: Fire-retardant",
+        "raw_product_name": "Fire-Retardant Coatings",
+        "list_of_product_ids": "15699,17472,27183,15891",
+        "core_id": 1001.0
+      }
+    },
+    {
+      "id": "variant-c8a96ede-cfbb-5218-9975-4bec14e4ae48",
+      "score": 0.83928514,
+      "metadata": {
+        "text": "core_product_name: insulation tape",
+        "raw_product_name": "INSULATION TAPE",
+        "list_of_product_ids": "211,492,114,827,368",
+        "core_id": 1275.0
+      }
+    },
+    {
+      "id": "variant-ab242901-e7e7-5e21-9482-3dbe00b0dfe3",
+      "score": 0.83880574,
+      "metadata": {
+        "text": "core_product_name: fender | material: Rubber",
+        "raw_product_name": "RUBBER FENDERS",
+        "list_of_product_ids": "19111,19144,19118,38479",
+        "core_id": 1932.0
+      }
+    },
+    {
+      "id": "variant-1d9db4e0-7018-5ebc-90d6-8520667bbe4e",
+      "score": 0.8384871,
+      "metadata": {
+        "text": "core_product_name: fire sealing system | type_or_class: Type B",
+        "raw_product_name": "Fire sealing system Type B",
+        "list_of_product_ids": "731,273,277,979",
+        "core_id": 1002.0
+      }
+    },
+    {
+      "id": "variant-3b34fa26-6d5b-5da6-a44d-64cc3a911258",
+      "score": 0.8378463,
+      "metadata": {
+        "text": "core_product_name: expansion compensator | material: Rubber",
+        "raw_product_name": "Expansion Compensators (Rubber)",
+        "list_of_product_ids": "7,500,717,518,492",
+        "core_id": 784.0
+      }
+    },
+    {
+      "id": "variant-cbc52520-de19-539d-8330-37e47b852457",
+      "score": 0.83754605,
+      "metadata": {
+        "text": "core_product_name: long rod insulator | material: Polymer | type_or_class: Long Rod",
+        "raw_product_name": "INSULATORS (POLIMER LONG ROD TYPE)",
+        "list_of_product_ids": "34492,34497,34592,34584",
+        "core_id": 1277.0
+      }
+    },
+    {
+      "id": "variant-742bde15-cd17-5ab1-9705-cb646d9256c3",
+      "score": 0.8373135,
+      "metadata": {
+        "text": "core_product_name: induction motor | type_or_class: M.V (Medium Voltage) | protection_features: Flame Proof",
+        "raw_product_name": "MOTOR-INDUCTION-M.V (FLAME PROOF)",
+        "list_of_product_ids": "6405,5576,11381,11386,9418,24531,24530",
+        "core_id": 1506.0
+      }
+    },
+    {
+      "id": "variant-c93a43c0-1ae5-52fb-8f5c-24ef9b90fde5",
+      "score": 0.8369097,
+      "metadata": {
+        "text": "core_product_name: composite insulator | material: Polymer",
+        "raw_product_name": "COMPOSITE POLYMER INSULATOR",
+        "list_of_product_ids": "3,448,834,589",
+        "core_id": 411.0
+      }
+    },
+    {
+      "id": "variant-64cf4fe0-bb0c-526b-aab5-82a9f5bae62c",
+      "score": 0.8367885,
+      "metadata": {
+        "text": "core_product_name: flameproof switch | protection_features: Flameproof",
+        "raw_product_name": "SWITCH- FLAMEPROOF",
+        "list_of_product_ids": "228,782,301,335,779",
+        "core_id": 2173.0
+      }
+    },
+    {
+      "id": "variant-fc1f7925-7372-55a1-9253-aba90e14a95e",
+      "score": 0.8367007,
+      "metadata": {
+        "text": "core_product_name: external fire proofing | protection_features: Fireproof | type_or_class: H Rated",
+        "raw_product_name": "EXTERNAL FIRE PROOFING H RATED",
+        "list_of_product_ids": "19201,28251,39639,39672",
+        "core_id": 776.0
+      }
+    },
+    {
+      "id": "variant-977e2586-038c-5b84-92a1-ae69b5b42611",
+      "score": 0.8366858,
+      "metadata": {
+        "text": "core_product_name: insulating material | material: Ceramic",
+        "raw_product_name": "CERAMIC INSULATING MATERIALS",
+        "list_of_product_ids": "23418,23419,27486,27512",
+        "core_id": 336.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.83653724,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-623d6294-9afa-580a-9254-01782fd595b0",
+      "score": 0.8364526,
+      "metadata": {
+        "text": "core_product_name: indoor isolator | type_or_class: Medium Voltage (M.V.) | operating_conditions: Indoor | size_or_capacity: Up to 3.3 kV - 11 kV",
+        "raw_product_name": "ISOLATOR INDOOR M.V. UP TO 3.3 KV. - 11KV.",
+        "list_of_product_ids": "175,761,866,917,542",
+        "core_id": 1299.0
+      }
+    }
+  ]
+}

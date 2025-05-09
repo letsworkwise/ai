@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: grooved 90° elbow | size: elbow size: 150 NB",
+  "retrieval_results": [
+    {
+      "id": "variant-debcf96a-5534-5d1a-a9c3-19d56dae7053",
+      "score": 0.87109613,
+      "metadata": {
+        "text": "core_product_name: elbow fitting",
+        "raw_product_name": "FITTINGS –ELBOW",
+        "list_of_product_ids": "14264,14692,14667,14709,14902,14914,15995,16042,18891,18937,19402,19723,19798,19792,20060,20167,20935,21918,22659,22655,22914,36880,36883,27766,27756,27746,27736,27726,27775,37065,36443",
+        "core_id": 880.0
+      }
+    },
+    {
+      "id": "variant-2e84cef9-327a-515b-8b9e-5d2b777c59cb",
+      "score": 0.8685561,
+      "metadata": {
+        "text": "core_product_name: elbowlet",
+        "raw_product_name": "ELBOWLET",
+        "list_of_product_ids": "14395,14719,14722,14725,19815,22922",
+        "core_id": 681.0
+      }
+    },
+    {
+      "id": "variant-1b7571e9-3f95-5cec-879a-0f96d023f242",
+      "score": 0.84686875,
+      "metadata": {
+        "text": "core_product_name: large bellow | material: Elastomer",
+        "raw_product_name": "ELASTOMER LARGE BELLOW",
+        "list_of_product_ids": "1,382,321,736",
+        "core_id": 680.0
+      }
+    },
+    {
+      "id": "variant-3efeda5d-6e70-51e8-8f2e-ad8a9436822e",
+      "score": 0.84643215,
+      "metadata": {
+        "text": "core_product_name: bend",
+        "raw_product_name": "BENDS",
+        "list_of_product_ids": "219,382,194,421,936",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-223a653f-ce26-546e-9630-21d058f384c7",
+      "score": 0.84180963,
+      "metadata": {
+        "text": "core_product_name: grating",
+        "raw_product_name": "GRATINGS",
+        "list_of_product_ids": "218,522,185,428,606",
+        "core_id": 1068.0
+      }
+    },
+    {
+      "id": "variant-0f4440ea-bde2-5092-9bec-3a611b7ce624",
+      "score": 0.8398282,
+      "metadata": {
+        "text": "core_product_name: weldolet",
+        "raw_product_name": "WELDOLETS",
+        "list_of_product_ids": "14393,14717,14720,14723,19813,22920,37261",
+        "core_id": 2465.0
+      }
+    },
+    {
+      "id": "variant-510d9426-29cd-560d-9a23-66266118ef65",
+      "score": 0.83915275,
+      "metadata": {
+        "text": "core_product_name: long radius bend",
+        "raw_product_name": "LONG RADIUS BENDS",
+        "list_of_product_ids": "6202,5370,11212,19493,30761,30763,30764,30590,37861,37394,39923,40028,40092,40121",
+        "core_id": 1381.0
+      }
+    },
+    {
+      "id": "variant-dc67092d-c747-58a3-9b64-a36fa7d1d5e6",
+      "score": 0.8388416,
+      "metadata": {
+        "text": "core_product_name: bracing",
+        "raw_product_name": "BRACING",
+        "list_of_product_ids": "20880,20863,20902,21910,21951,22023,22088,22121",
+        "core_id": 239.0
+      }
+    },
+    {
+      "id": "variant-f126676e-a62f-52a6-ba06-b09e7951e71e",
+      "score": 0.8386627,
+      "metadata": {
+        "text": "core_product_name: forged fitting",
+        "raw_product_name": "FORGED FITTINGS",
+        "list_of_product_ids": "13660,22252,24586,36933",
+        "core_id": 972.0
+      }
+    },
+    {
+      "id": "variant-f2e4daa9-7a7d-5b46-ace7-d3f984fd5fee",
+      "score": 0.8382886,
+      "metadata": {
+        "text": "core_product_name: kerbing",
+        "raw_product_name": "KERBING",
+        "list_of_product_ids": "20537,20575,20615,20617,20664,20722",
+        "core_id": 1312.0
+      }
+    },
+    {
+      "id": "variant-6caf8017-d55b-5441-bf5f-7eaed4cb420b",
+      "score": 0.83772147,
+      "metadata": {
+        "text": "core_product_name: grout",
+        "raw_product_name": "GROUT",
+        "list_of_product_ids": "13748,16708,16707,19125,22869,33348,38480,35419,35432",
+        "core_id": 1078.0
+      }
+    },
+    {
+      "id": "variant-44634665-b9e1-57e3-af03-39873a2eec40",
+      "score": 0.8376132,
+      "metadata": {
+        "text": "core_product_name: welding sleeve",
+        "raw_product_name": "WELDING SLEEVES",
+        "list_of_product_ids": "21894,21895,22215,22210,22233,22253,22229,22227,22222,22221,22219,22216",
+        "core_id": 2463.0
+      }
+    },
+    {
+      "id": "variant-c9606761-8875-5ecd-8e32-10a958b09ddd",
+      "score": 0.83732516,
+      "metadata": {
+        "text": "core_product_name: bolt",
+        "raw_product_name": "BOLT",
+        "list_of_product_ids": "13612,20911,20910,26266,26148,26200,26213,26223,26232,27708,33126,37287",
+        "core_id": 228.0
+      }
+    },
+    {
+      "id": "variant-298f2c6e-2bc0-5c2f-b94c-30f82a72d824",
+      "score": 0.8371535,
+      "metadata": {
+        "text": "core_product_name: nozzle",
+        "raw_product_name": "NOZZLE",
+        "list_of_product_ids": "24248,24222,22342,22340,22766,22794,26877",
+        "core_id": 1547.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.8371024,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    },
+    {
+      "id": "variant-9aa36f08-e097-54b1-94fe-8359583782f8",
+      "score": 0.8369635,
+      "metadata": {
+        "text": "core_product_name: orifice fitting",
+        "raw_product_name": "ORIFICE - FITTINGS",
+        "list_of_product_ids": "36537,36541,36539,36546",
+        "core_id": 1602.0
+      }
+    },
+    {
+      "id": "variant-fc11023f-6aa9-5a2a-9ffa-b1e3abd66cf0",
+      "score": 0.83680755,
+      "metadata": {
+        "text": "core_product_name: craft",
+        "raw_product_name": "SURVIVAL CRAFT",
+        "list_of_product_ids": "188,592,806,237,502",
+        "core_id": 2164.0
+      }
+    },
+    {
+      "id": "variant-74503a1f-fa22-5c08-ac97-9f8dba31f1f4",
+      "score": 0.8365456,
+      "metadata": {
+        "text": "core_product_name: conduit fitting",
+        "raw_product_name": "FITTINGS (CONDUIT)",
+        "list_of_product_ids": "165,391,654,021,574",
+        "core_id": 870.0
+      }
+    },
+    {
+      "id": "variant-123f81c9-bb37-5180-9d3f-25fcda640179",
+      "score": 0.83648753,
+      "metadata": {
+        "text": "core_product_name: gear",
+        "raw_product_name": "GEARS",
+        "list_of_product_ids": "23954,23955,24993,25023",
+        "core_id": 1045.0
+      }
+    },
+    {
+      "id": "variant-383781f7-59ee-5d5b-8a29-cf16569a65fc",
+      "score": 0.8359962,
+      "metadata": {
+        "text": "core_product_name: welded fitting",
+        "raw_product_name": "FITTINGS – AS WELDED",
+        "list_of_product_ids": "14259,15973,19406,19805,19790,20139,22666,37085,37098",
+        "core_id": 878.0
+      }
+    },
+    {
+      "id": "variant-c272cfc6-cf4b-5ec8-ab5f-7397cd5600cc",
+      "score": 0.8356299,
+      "metadata": {
+        "text": "core_product_name: horizontal brace",
+        "raw_product_name": "HORIZONTAL BRACE",
+        "list_of_product_ids": "199,091,991,428,350",
+        "core_id": 1141.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8355798,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-aa49f5ea-6b55-5a30-9076-da34e8cc4a42",
+      "score": 0.83552885,
+      "metadata": {
+        "text": "core_product_name: grab bar",
+        "raw_product_name": "GRAB BAR",
+        "list_of_product_ids": "1,677,116,772",
+        "core_id": 1064.0
+      }
+    },
+    {
+      "id": "variant-73142ca9-0678-557a-b1d6-d4687a17e559",
+      "score": 0.835126,
+      "metadata": {
+        "text": "core_product_name: annubar",
+        "raw_product_name": "Annubars / Pitot Tubes",
+        "list_of_product_ids": "17957,17956,17954,18648,19907,19922,36220,36372",
+        "core_id": 158.0
+      }
+    },
+    {
+      "id": "variant-c1546840-79b1-5405-bbea-166aecd28e2f",
+      "score": 0.83501494,
+      "metadata": {
+        "text": "core_product_name: hot induction bend",
+        "raw_product_name": "HOT INDUCTION BEND",
+        "list_of_product_ids": "6304,5475,10335,11399,12134,31798,31799,31797,34691",
+        "core_id": 1156.0
+      }
+    },
+    {
+      "id": "variant-f23555b4-6776-5418-b12f-82367d57d9b5",
+      "score": 0.8349976,
+      "metadata": {
+        "text": "core_product_name: fitting | type_or_class: ERMETO",
+        "raw_product_name": "ERMETO FITTINGS",
+        "list_of_product_ids": "254,072,567,926,699",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-09a3b3f2-09d5-5fdc-b67e-5ebaf7119593",
+      "score": 0.8349587,
+      "metadata": {
+        "text": "core_product_name: binocular",
+        "raw_product_name": "BINOCULAR",
+        "list_of_product_ids": "259,312,592,926,698",
+        "core_id": 203.0
+      }
+    },
+    {
+      "id": "variant-ef59ecb0-320a-5cea-b154-4ba76cf39f9e",
+      "score": 0.83487964,
+      "metadata": {
+        "text": "core_product_name: brush | material: Carbon",
+        "raw_product_name": "CARBON BRUSHES",
+        "list_of_product_ids": "242,252,422,726,882",
+        "core_id": 302.0
+      }
+    },
+    {
+      "id": "variant-5935ee01-a444-52d8-9615-fa4b0239701e",
+      "score": 0.83441556,
+      "metadata": {
+        "text": "core_product_name: geared motor",
+        "raw_product_name": "Geared Motor",
+        "list_of_product_ids": "7,543,721,735,410",
+        "core_id": 1084.0
+      }
+    },
+    {
+      "id": "variant-15b082ab-a3ee-5143-857d-441fbeabb39b",
+      "score": 0.8343836,
+      "metadata": {
+        "text": "core_product_name: item | material: Neoprene Rubber",
+        "raw_product_name": "NEOPRENE RUBBER ITEM",
+        "list_of_product_ids": "229,422,294,328,651",
+        "core_id": 1538.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "query": "core_product_name: rs485 cable | acronymed_core_product_name: rs485 cable",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: converter | acronymed_core_product_name: USB to RS485 Converter | type_or_class: USB (Universal Serial Bus) to RS485 (Recommended Standard 485)",
+        "raw_product_name": "USB to RS485 Converter",
+        "list_of_product_ids": [
+          "14217"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: converter | acronymed_core_product_name: rs 232 to 485 converter | type_or_class: RS 232 (Recommended Standard 232) to 485 (Recommended Standard 485)",
+        "raw_product_name": "RS 232 to 485 Converter",
+        "list_of_product_ids": [
+          "14212"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLES",
+        "list_of_product_ids": [
+          "15455",
+          "13721",
+          "24275",
+          "15161",
+          "16241",
+          "19098",
+          "23820",
+          "23814",
+          "21319",
+          "19315",
+          "23819",
+          "23822",
+          "24273",
+          "23829",
+          "20141",
+          "23831",
+          "24058",
+          "23836",
+          "23909",
+          "23839",
+          "23828",
+          "24685",
+          "24726",
+          "24844",
+          "24955",
+          "31590",
+          "31591",
+          "26436",
+          "26438",
+          "31740",
+          "33330"
+        ]
+      }
+    }
+  ]
+}

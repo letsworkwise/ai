@@ -1,0 +1,495 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8816651,
+      "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups | accessories_or_attachments: acdb (alternating current distribution board)",
+      "core_id": 2316.0,
+      "raw_product_name": "UPS With ACDB",
+      "list_of_product_ids": [
+        "1",
+        "419",
+        "636",
+        "134"
+      ]
+    },
+    {
+      "retrieval_score": 0.86864007,
+      "text": "core_product_name: flame proof local distribution board | acronymed_core_product_name: ldb (local distribution board) | protection_features: Flame proof",
+      "core_id": 889.0,
+      "raw_product_name": "FLAME PROOF LDB’S",
+      "list_of_product_ids": [
+        "13570",
+        "22218",
+        "22257",
+        "22862",
+        "35778"
+      ]
+    },
+    {
+      "retrieval_score": 0.8637751,
+      "text": "core_product_name: power distribution board | acronymed_core_product_name: pdb (power distribution board)",
+      "core_id": 1743.0,
+      "raw_product_name": "POWER DISTRIBUTION BOARD (PDB)",
+      "list_of_product_ids": [
+        "13892",
+        "14644",
+        "14778",
+        "14809",
+        "17930",
+        "17917",
+        "17892",
+        "17949",
+        "17939",
+        "18026",
+        "18008",
+        "18049",
+        "20762",
+        "20761",
+        "27494"
+      ]
+    },
+    {
+      "retrieval_score": 0.8632567,
+      "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups (uninterruptible power supply)",
+      "core_id": 2316.0,
+      "raw_product_name": "UN-INTERRUPTIBLE POWER SUPPLY (UPS)",
+      "list_of_product_ids": [
+        "141",
+        "931",
+        "781",
+        "320",
+        "002"
+      ]
+    },
+    {
+      "retrieval_score": 0.86225474,
+      "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: ups system",
+      "core_id": 2314.0,
+      "raw_product_name": "UPS SYSTEM",
+      "list_of_product_ids": [
+        "14194",
+        "15283",
+        "15287",
+        "15895",
+        "17799",
+        "17789",
+        "17897",
+        "18615",
+        "18614",
+        "18613",
+        "18612"
+      ]
+    },
+    {
+      "retrieval_score": 0.8614526,
+      "text": "core_product_name: intelligent battery charger | acronymed_core_product_name: dcdb (direct current distribution board) | size_or_capacity: 24V DC (24 Volt Direct Current)",
+      "core_id": 1304.0,
+      "raw_product_name": "Intelligent Battery charger 24V DC DCDB",
+      "list_of_product_ids": [
+        "1",
+        "375",
+        "215",
+        "290"
+      ]
+    },
+    {
+      "retrieval_score": 0.8609992,
+      "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+      "core_id": 899.0,
+      "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+      "list_of_product_ids": [
+        "13583",
+        "14851",
+        "20281",
+        "22858",
+        "26788",
+        "26787",
+        "26786",
+        "26789",
+        "35773"
+      ]
+    },
+    {
+      "retrieval_score": 0.858487,
+      "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: u.p.s. system",
+      "core_id": 2314.0,
+      "raw_product_name": "U.P.S.SYSTEM",
+      "list_of_product_ids": [
+        "6399",
+        "5570",
+        "11076",
+        "11073",
+        "10496",
+        "10624",
+        "12084",
+        "12082",
+        "12245",
+        "24506",
+        "24504",
+        "36163",
+        "36311"
+      ]
+    },
+    {
+      "retrieval_score": 0.8580778,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (pdb (power distribution board))",
+      "core_id": 20.0,
+      "raw_product_name": "A.C. DISTRIBUTION BOARD (PDB)",
+      "list_of_product_ids": [
+        "14164",
+        "14792",
+        "14811",
+        "19308"
+      ]
+    },
+    {
+      "retrieval_score": 0.85549957,
+      "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+      "core_id": 559.0,
+      "raw_product_name": "DCDB",
+      "list_of_product_ids": [
+        "15387",
+        "13587",
+        "14607",
+        "14780",
+        "19662",
+        "21388",
+        "36160"
+      ]
+    },
+    {
+      "retrieval_score": 0.8507067,
+      "text": "core_product_name: flameproof lighting and distribution board | protection_features: Flameproof",
+      "core_id": 895.0,
+      "raw_product_name": "FLAMEPROOF LIGHTING & DISTRIBUTION BOARD",
+      "list_of_product_ids": [
+        "13578",
+        "14601",
+        "14847",
+        "24098"
+      ]
+    },
+    {
+      "retrieval_score": 0.8504771,
+      "text": "core_product_name: lightning distribution board | acronymed_core_product_name: ldb (lightning distribution board)",
+      "core_id": 1357.0,
+      "raw_product_name": "LIGHTNING DISTRIBUTION BOARD/LDB",
+      "list_of_product_ids": [
+        "10002",
+        "10019",
+        "10242",
+        "15385",
+        "14605",
+        "14777",
+        "14808",
+        "17874",
+        "17933",
+        "17919",
+        "17894",
+        "17951",
+        "17941",
+        "17944",
+        "18029",
+        "18010",
+        "18051",
+        "19660",
+        "19141"
+      ]
+    },
+    {
+      "retrieval_score": 0.8503156,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: db | accessories_or_attachments: HRC (High Rupturing Capacity) fuse",
+      "core_id": 20.0,
+      "raw_product_name": "DB WITH HRC",
+      "list_of_product_ids": [
+        "13580",
+        "14783",
+        "15328",
+        "18070"
+      ]
+    },
+    {
+      "retrieval_score": 0.84846085,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (ldb (lighting distribution board))",
+      "core_id": 20.0,
+      "raw_product_name": "A.C. DISTRIBUTION BOARD (LDB)",
+      "list_of_product_ids": [
+        "14163",
+        "14793",
+        "14812",
+        "19307"
+      ]
+    },
+    {
+      "retrieval_score": 0.84531415,
+      "text": "core_product_name: fixed switch board | mounting_or_installation: for package equipments | protection_features: flame proof",
+      "core_id": 2168.0,
+      "raw_product_name": "SWITCH BOARD FIXED FOR PACKAGE EQUIPMENTS FLAME PROOF",
+      "list_of_product_ids": [
+        "13973",
+        "14603",
+        "14849",
+        "19440",
+        "20280",
+        "22864",
+        "35781"
+      ]
+    },
+    {
+      "retrieval_score": 0.8443428,
+      "text": "core_product_name: main lighting distribution board | acronymed_core_product_name: MLDB (Main Lighting Distribution Board)",
+      "core_id": 1487.0,
+      "raw_product_name": "MLDB",
+      "list_of_product_ids": [
+        "15386",
+        "13768",
+        "14606",
+        "14779",
+        "17931",
+        "17918",
+        "17893",
+        "17950",
+        "17940",
+        "17945",
+        "18027",
+        "18009",
+        "18050",
+        "19060",
+        "19661"
+      ]
+    },
+    {
+      "retrieval_score": 0.84400827,
+      "text": "core_product_name: surge protection device",
+      "core_id": 2156.0,
+      "raw_product_name": "SURG PROTECTION DEVICES",
+      "list_of_product_ids": [
+        "5954",
+        "6782",
+        "12132",
+        "14671",
+        "14679",
+        "18191",
+        "20174",
+        "36159"
+      ]
+    },
+    {
+      "retrieval_score": 0.84370416,
+      "text": "core_product_name: inside panel | acronymed_core_product_name: mcb (miniature circuit breaker) panel | type_or_class: Flush type only",
+      "core_id": 1448.0,
+      "raw_product_name": "MCB Inside Panels (Flush type only)",
+      "list_of_product_ids": [
+        "1",
+        "371",
+        "214",
+        "885"
+      ]
+    },
+    {
+      "retrieval_score": 0.8424726,
+      "text": "core_product_name: outdoor circuit breaker | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 11.0,
+      "raw_product_name": "33kV outdoor Circuit Breaker",
+      "list_of_product_ids": [
+        "141",
+        "551",
+        "464",
+        "036",
+        "000"
+      ]
+    },
+    {
+      "retrieval_score": 0.8424343,
+      "text": "core_product_name: outdoor potential transformer | acronymed_core_product_name: pt | size_or_capacity: 33kV",
+      "core_id": 17.0,
+      "raw_product_name": "33kV outdoor CT/ PT",
+      "list_of_product_ids": [
+        "7061",
+        "7388",
+        "18218",
+        "18377",
+        "19058"
+      ]
+    },
+    {
+      "retrieval_score": 0.84235364,
+      "text": "core_product_name: miniature circuit breaker | acronymed_core_product_name: mcb",
+      "core_id": 1446.0,
+      "raw_product_name": "MCB",
+      "list_of_product_ids": [
+        "6462",
+        "5633",
+        "10157",
+        "10663",
+        "9350",
+        "9447",
+        "9151",
+        "9187",
+        "9219",
+        "9361",
+        "11905",
+        "11944",
+        "17873",
+        "19028",
+        "19645",
+        "19652",
+        "20775",
+        "21203",
+        "19140",
+        "38290",
+        "36563"
+      ]
+    },
+    {
+      "retrieval_score": 0.84213567,
+      "text": "core_product_name: power supply",
+      "core_id": 250.0,
+      "raw_product_name": "BUIL POWER SUPPLY",
+      "list_of_product_ids": [
+        "5",
+        "937",
+        "676",
+        "612",
+        "114"
+      ]
+    },
+    {
+      "retrieval_score": 0.8421285,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: dc (direct current) distribution board | type_or_class: DC (Direct Current)",
+      "core_id": 20.0,
+      "raw_product_name": "DC Distribution Board",
+      "list_of_product_ids": [
+        "18727",
+        "18725",
+        "18720",
+        "18741",
+        "18738",
+        "18737",
+        "19010",
+        "18999",
+        "19002",
+        "36555",
+        "38291",
+        "35862",
+        "38153"
+      ]
+    },
+    {
+      "retrieval_score": 0.8420703,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    },
+    {
+      "retrieval_score": 0.84130824,
+      "text": "core_product_name: lighting and power panel | acronymed_core_product_name: FLP (Flameproof) panel | protection_features: Flameproof",
+      "core_id": 1351.0,
+      "raw_product_name": "LIGHTING & POWER PANELS (FLP)",
+      "list_of_product_ids": [
+        "6418",
+        "5588",
+        "7009",
+        "10306",
+        "10579",
+        "10558",
+        "10588",
+        "10602",
+        "18874",
+        "18920",
+        "22851",
+        "26777",
+        "26773",
+        "26754",
+        "26750",
+        "35770"
+      ]
+    },
+    {
+      "retrieval_score": 0.84099525,
+      "text": "core_product_name: electric block",
+      "core_id": 682.0,
+      "raw_product_name": "ELECTRIC BLOCK",
+      "list_of_product_ids": [
+        "196",
+        "271",
+        "962",
+        "627",
+        "101"
+      ]
+    },
+    {
+      "retrieval_score": 0.8408841,
+      "text": "core_product_name: power or distribution transformer",
+      "core_id": 1739.0,
+      "raw_product_name": "POWER & DISTRIBUTION TRANSFORMERS",
+      "list_of_product_ids": [
+        "7020",
+        "7340",
+        "10181",
+        "10195",
+        "10207",
+        "10180",
+        "10218",
+        "11723",
+        "14858",
+        "21601",
+        "35405",
+        "35845"
+      ]
+    },
+    {
+      "retrieval_score": 0.8408755,
+      "text": "core_product_name: outdoor insulator and bushing | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 8.0,
+      "raw_product_name": "33kV outdoor Insulator & Bushing",
+      "list_of_product_ids": [
+        "14156",
+        "16118",
+        "17436",
+        "18328",
+        "21499"
+      ]
+    },
+    {
+      "retrieval_score": 0.84083956,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: ac (alternating current) distribution board | type_or_class: AC (Alternating Current)",
+      "core_id": 20.0,
+      "raw_product_name": "AC Distribution Board",
+      "list_of_product_ids": [
+        "18726",
+        "18724",
+        "18719",
+        "18740",
+        "18739",
+        "18736",
+        "19011",
+        "18998",
+        "19001",
+        "38292",
+        "36556",
+        "35863",
+        "38152"
+      ]
+    },
+    {
+      "retrieval_score": 0.8406664,
+      "text": "core_product_name: sub lighting distribution board",
+      "core_id": 2143.0,
+      "raw_product_name": "SUB LIGHTING DISTRIBUTION BOARD",
+      "list_of_product_ids": [
+        "19061",
+        "19062",
+        "19056",
+        "36641"
+      ]
+    }
+  ]
+}

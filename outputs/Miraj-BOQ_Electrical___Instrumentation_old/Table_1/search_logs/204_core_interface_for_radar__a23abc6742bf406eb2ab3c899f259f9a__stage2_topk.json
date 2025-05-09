@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: interface for radar and servo",
+  "retrieval_results": [
+    {
+      "id": "variant-11837de1-613c-5488-90f2-115e8f26cf3b",
+      "score": 0.88736236,
+      "metadata": {
+        "text": "core_product_name: guided wave level instrument | type_or_class: Radar",
+        "raw_product_name": "SPL. LEVEL INSTRUMENTS-GUIDED WAVE RADAR",
+        "list_of_product_ids": "6584,5754,11684,11693,11812,11275,10099,10113,11709,12071,13219,18397,35433",
+        "core_id": 2083.0
+      }
+    },
+    {
+      "id": "variant-67245391-dc3c-5e74-b4e4-ea803165dcdd",
+      "score": 0.88397914,
+      "metadata": {
+        "text": "core_product_name: radar level transmitter",
+        "raw_product_name": "RADAR LEVEL TRANSMITTERS",
+        "list_of_product_ids": "13803,15081,15246,15260,23177,37424,36176,36324",
+        "core_id": 1852.0
+      }
+    },
+    {
+      "id": "variant-c3f94d78-6d8f-5bf3-81aa-721e2dbc6033",
+      "score": 0.88197684,
+      "metadata": {
+        "text": "core_product_name: radar level indicator | type_or_class: Radar Type",
+        "raw_product_name": "LEVEL INDICATORS (RADAR TYPE)",
+        "list_of_product_ids": "13979,15091,15133,15141,15149,15250,15263,36108,36186,36334",
+        "core_id": 1333.0
+      }
+    },
+    {
+      "id": "variant-1753975e-a34d-5e05-ae9b-605d2cabd148",
+      "score": 0.88084024,
+      "metadata": {
+        "text": "core_product_name: level instrument | type_or_class: Radar Type",
+        "raw_product_name": "LEVEL INSTRUMENTS (RADAR TYPE)",
+        "list_of_product_ids": "9487,9587,12075,14687,14707,14801,15021,15024,15103,15239,15253,36197,36346",
+        "core_id": 1335.0
+      }
+    },
+    {
+      "id": "variant-d41da4fc-2387-5ab0-94ea-b5a438b2fb2b",
+      "score": 0.876337,
+      "metadata": {
+        "text": "core_product_name: level switch | type_or_class: Radar Type",
+        "raw_product_name": "LEVEL SWITCH RADAR TYPE",
+        "list_of_product_ids": "1,358,231,746",
+        "core_id": 1337.0
+      }
+    },
+    {
+      "id": "variant-56d026ce-5985-5c62-8888-d88da3287de6",
+      "score": 0.87433344,
+      "metadata": {
+        "text": "core_product_name: radio detection and ranging | acronymed_core_product_name: RADAR (Radio Detection and Ranging)",
+        "raw_product_name": "RADAR",
+        "list_of_product_ids": "23405,23411,23408,28227,28246",
+        "core_id": 1853.0
+      }
+    },
+    {
+      "id": "variant-de47ff96-bd93-5d30-b6a8-28e7215a5255",
+      "score": 0.8724253,
+      "metadata": {
+        "text": "core_product_name: interface device",
+        "raw_product_name": "INTERFACE DEVICES",
+        "list_of_product_ids": "6630,5800,11596,11597,10310,11701,11702,11703,12288,8405,13108,13117,21089,21081,21077,21070",
+        "core_id": 1280.0
+      }
+    },
+    {
+      "id": "variant-4789dddc-e12d-5cdc-85e7-f4c446671e02",
+      "score": 0.87156576,
+      "metadata": {
+        "text": "core_product_name: tank level instrument | type_or_class: Radar | type_or_class: Ultrasonic",
+        "raw_product_name": "TANK LEVEL INSTRUMENT (RADAR,ULTRASONIC)",
+        "list_of_product_ids": "6596,5766,11601,11814,11323,10106,10120,11345,9173,12073,12860,12862,13363,13367,13371,13372,18399,19278,35436,36170,36318",
+        "core_id": 2202.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.8673904,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    },
+    {
+      "id": "variant-48f2033c-304e-52d2-acd9-1d9a493e771a",
+      "score": 0.866497,
+      "metadata": {
+        "text": "core_product_name: telemetry interface cabinet",
+        "raw_product_name": "TELEMETRY INTERFACE CABINET",
+        "list_of_product_ids": "13988,18052,18994,19044,21698",
+        "core_id": 2214.0
+      }
+    },
+    {
+      "id": "variant-cf931f90-5d8d-5718-a96f-cbd4829ddb1f",
+      "score": 0.86644584,
+      "metadata": {
+        "text": "core_product_name: tank level instrument | type_or_class: Servo Type",
+        "raw_product_name": "TANK LEVEL INSTRUMENT (SERVO TYPE)",
+        "list_of_product_ids": "6586,5756,11687,11696,11712,13222,15090,15248,15262,21060,36107,36185,36333",
+        "core_id": 2202.0
+      }
+    },
+    {
+      "id": "variant-324f0818-8b09-5550-b916-e03172d8bfbd",
+      "score": 0.8656621,
+      "metadata": {
+        "text": "core_product_name: speed pick up sensor",
+        "raw_product_name": "SPEED PICK UP SENSOR",
+        "list_of_product_ids": "163,791,643,616,466",
+        "core_id": 2081.0
+      }
+    },
+    {
+      "id": "variant-fde11e68-94e0-5d1b-8ae4-7d03719e2e42",
+      "score": 0.86482483,
+      "metadata": {
+        "text": "core_product_name: special level instrument | type_or_class: RF (Radio Frequency) Type",
+        "raw_product_name": "SPECIAL LEVEL INSTRUMENTS (RF TYPE)",
+        "list_of_product_ids": "6587,5757,11311,11319,11321,10098,10112,12070",
+        "core_id": 2076.0
+      }
+    },
+    {
+      "id": "variant-90d5603f-b888-5d4e-bf0e-963c590d4195",
+      "score": 0.86383796,
+      "metadata": {
+        "text": "core_product_name: radio system",
+        "raw_product_name": "RADIO SYSTEM",
+        "list_of_product_ids": "19387,28262,39972,39999,40023,40020,40029,40052,40085,40095,40267,40268",
+        "core_id": 1855.0
+      }
+    },
+    {
+      "id": "variant-52f9e840-cded-5769-872f-15fea34ec58c",
+      "score": 0.86126095,
+      "metadata": {
+        "text": "core_product_name: instrument valve | accessories_or_attachments: manifold",
+        "raw_product_name": "INSTRUMENT VALVES & MANIFOLDS",
+        "list_of_product_ids": "8451,8593,10656,10878,13417,15195,15214,15274,15282,15336,16883,17199,17298,17503,17499,18364,18481,22506,22608,23348,23343,23354,22927,23551,23546,27485,27484,27483,28117,28812,36133,36256,36409,36450",
+        "core_id": 1259.0
+      }
+    },
+    {
+      "id": "variant-64e9f4f9-db27-5b69-bcbb-9c49a9c50a05",
+      "score": 0.8611528,
+      "metadata": {
+        "text": "core_product_name: instrument hookup",
+        "raw_product_name": "INSTRUMENT HOOKUP",
+        "list_of_product_ids": "13438",
+        "core_id": 1254.0
+      }
+    },
+    {
+      "id": "variant-d11ddc0c-ab4c-5cbd-8b87-dd31c119c41c",
+      "score": 0.8609308,
+      "metadata": {
+        "text": "core_product_name: level indicator | type_or_class: Servo Type TGM",
+        "raw_product_name": "LEVEL INDICATORS (SERVO TYPE TGM)",
+        "list_of_product_ids": "13980",
+        "core_id": 1332.0
+      }
+    },
+    {
+      "id": "variant-f234407a-0223-56e5-932b-43ac340fc304",
+      "score": 0.86064714,
+      "metadata": {
+        "text": "core_product_name: radiography",
+        "raw_product_name": "RADIOGRAPHY",
+        "list_of_product_ids": "218,552,185,721,856",
+        "core_id": 1856.0
+      }
+    },
+    {
+      "id": "variant-d337814d-4caf-55de-a5cc-ad63eedc8308",
+      "score": 0.8601986,
+      "metadata": {
+        "text": "core_product_name: instrument and meter",
+        "raw_product_name": "INSTRUMENT & METER",
+        "list_of_product_ids": "20461,20502,20648,20115",
+        "core_id": 1248.0
+      }
+    },
+    {
+      "id": "variant-9f376ba2-bfd9-569d-9df5-c33008feb16d",
+      "score": 0.86017066,
+      "metadata": {
+        "text": "core_product_name: relay and control panel",
+        "raw_product_name": "RELAY & CONTROL PANEL",
+        "list_of_product_ids": "6389,5560,11172,11457,7888,19357,24445,24450,24448,24827,24815,24451,19363,24930,24941,38203,38204",
+        "core_id": 187.0
+      }
+    },
+    {
+      "id": "variant-86b7fc98-7361-5489-9af1-070a461775ff",
+      "score": 0.8595565,
+      "metadata": {
+        "text": "core_product_name: level sensor",
+        "raw_product_name": "LEVEL SENSOR",
+        "list_of_product_ids": "19121,19128,19133,38465",
+        "core_id": 1336.0
+      }
+    },
+    {
+      "id": "variant-04915d72-1aa1-5772-8f24-c7256b326974",
+      "score": 0.8588818,
+      "metadata": {
+        "text": "core_product_name: distance sensor",
+        "raw_product_name": "DISTANCE SENSOR",
+        "list_of_product_ids": "19120,19127,19134,38464",
+        "core_id": 602.0
+      }
+    },
+    {
+      "id": "variant-7b84b9d7-6c76-5b4d-9aaf-d57ecafe4b91",
+      "score": 0.85888124,
+      "metadata": {
+        "text": "core_product_name: electrical-instrumentation work",
+        "raw_product_name": "ELECTRICAL-INSTRUMENTATION WORKS",
+        "list_of_product_ids": "36860,36857,36888,36892",
+        "core_id": 711.0
+      }
+    },
+    {
+      "id": "variant-64345e07-b280-5ecb-a027-739cbb9cbe2e",
+      "score": 0.85877526,
+      "metadata": {
+        "text": "core_product_name: engineering service provider",
+        "raw_product_name": "ENGINEERING SERVICE PROVIDERS",
+        "list_of_product_ids": "17042,17049,17128,17151,17143,17159,17176",
+        "core_id": 752.0
+      }
+    },
+    {
+      "id": "variant-5199ab2c-72e1-55de-929a-5ccc5de62bfd",
+      "score": 0.858365,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | type_or_class: Control",
+        "raw_product_name": "INSTRUMENTATION CABLES (CONTROL)",
+        "list_of_product_ids": "13723,14729,14736,14743,14766,14774,14834,15159,15185,15169,15834,19883,24060,23911,20049,38759,38600,38680,38626,38708,38654,38733,38785,38844,38876,38918,38944,38981,39008,39036,39051,39104,39134,39182,39210,39263,39284,39330,39366,39395,39425,39476,39531,39558,39596,39620,39648,39682,39722,39792,39820,39891",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-0c3f77fa-76a3-5c86-a778-78ccb3ad95e4",
+      "score": 0.8583485,
+      "metadata": {
+        "text": "core_product_name: wireless communication equipment",
+        "raw_product_name": "Wireless Communication Equipment",
+        "list_of_product_ids": "7073,7400,18829,18864",
+        "core_id": 2493.0
+      }
+    },
+    {
+      "id": "variant-7458c197-a3e9-5658-9af1-02317e6e7066",
+      "score": 0.85792553,
+      "metadata": {
+        "text": "core_product_name: vibration sensor",
+        "raw_product_name": "VIBRATION SENSORS",
+        "list_of_product_ids": "1,410,523,189",
+        "core_id": 2402.0
+      }
+    },
+    {
+      "id": "variant-58752b4f-1c97-5fd3-9fd4-4aebda4978df",
+      "score": 0.8573314,
+      "metadata": {
+        "text": "core_product_name: position transducer",
+        "raw_product_name": "Position Transducer",
+        "list_of_product_ids": "7075,7402,10513,11844,18018",
+        "core_id": 1838.0
+      }
+    },
+    {
+      "id": "variant-a9b3744f-17de-5958-ad3f-e4257f4f471b",
+      "score": 0.85715705,
+      "metadata": {
+        "text": "core_product_name: speed transmitter",
+        "raw_product_name": "SPEED TANSMITTERS",
+        "list_of_product_ids": "6597,5767,12698,12704,12707,12697",
+        "core_id": 2082.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.8571509,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    }
+  ]
+}

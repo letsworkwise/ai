@@ -1,0 +1,470 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.856532,
+      "text": "core_product_name: personal computer and server | acronymed_core_product_name: pc (personal computer) and server",
+      "core_id": 1644.0,
+      "raw_product_name": "PC AND SERVER",
+      "list_of_product_ids": [
+        "5943",
+        "6772",
+        "10713",
+        "10715",
+        "10716",
+        "10719",
+        "10720",
+        "10721",
+        "10711",
+        "11856",
+        "18834",
+        "19469",
+        "30762",
+        "37436",
+        "35054",
+        "37192"
+      ]
+    },
+    {
+      "retrieval_score": 0.85359704,
+      "text": "core_product_name: black and white monitor | acronymed_core_product_name: b&w monitor",
+      "core_id": 164.0,
+      "raw_product_name": "B&W MONITOR",
+      "list_of_product_ids": [
+        "14143",
+        "15099",
+        "36194",
+        "36293",
+        "36342",
+        "40329"
+      ]
+    },
+    {
+      "retrieval_score": 0.8514478,
+      "text": "core_product_name: closed circuit television | acronymed_core_product_name: CCTV",
+      "core_id": 323.0,
+      "raw_product_name": "CCTV",
+      "list_of_product_ids": [
+        "5956",
+        "6784",
+        "11071",
+        "10174",
+        "11373",
+        "11847",
+        "11851",
+        "11843",
+        "12201",
+        "31186",
+        "34966",
+        "34976",
+        "34986",
+        "34997",
+        "35008",
+        "35017",
+        "40277",
+        "40256",
+        "40261",
+        "40260",
+        "40259",
+        "40258",
+        "40295"
+      ]
+    },
+    {
+      "retrieval_score": 0.8501923,
+      "text": "core_product_name: closed circuit television | acronymed_core_product_name: cctv",
+      "core_id": 323.0,
+      "raw_product_name": "CLOSED CIRCUIT TV",
+      "list_of_product_ids": [
+        "6592",
+        "5762",
+        "10914",
+        "10889",
+        "11962",
+        "12202",
+        "12473",
+        "16497",
+        "19259",
+        "19269",
+        "30476",
+        "31285",
+        "37696",
+        "37697",
+        "37705",
+        "37709",
+        "37713",
+        "40236",
+        "40237",
+        "40234",
+        "40235",
+        "40257"
+      ]
+    },
+    {
+      "retrieval_score": 0.8482243,
+      "text": "core_product_name: central processing unit | acronymed_core_product_name: cpu unit",
+      "core_id": 505.0,
+      "raw_product_name": "CPU UNITS",
+      "list_of_product_ids": [
+        "192",
+        "651",
+        "410",
+        "722",
+        "373"
+      ]
+    },
+    {
+      "retrieval_score": 0.8466771,
+      "text": "core_product_name: light emitting diode (LED) display | acronymed_core_product_name: LED display | size_or_capacity: 40” or more",
+      "core_id": 1329.0,
+      "raw_product_name": "LED display (40” or more)",
+      "list_of_product_ids": [
+        "7",
+        "077",
+        "740",
+        "411",
+        "850"
+      ]
+    },
+    {
+      "retrieval_score": 0.8460378,
+      "text": "core_product_name: industrial personal computer | acronymed_core_product_name: pc (personal computer)",
+      "core_id": 1302.0,
+      "raw_product_name": "Industrial PC",
+      "list_of_product_ids": [
+        "7079",
+        "7406",
+        "18422",
+        "18419",
+        "35055"
+      ]
+    },
+    {
+      "retrieval_score": 0.8437282,
+      "text": "core_product_name: site fabricated column | acronymed_core_product_name: las (level alarm system) column",
+      "core_id": 396.0,
+      "raw_product_name": "COLUMN-LAS SITE FABRICATED",
+      "list_of_product_ids": [
+        "6688",
+        "5859",
+        "9698",
+        "23521"
+      ]
+    },
+    {
+      "retrieval_score": 0.8436229,
+      "text": "core_product_name: monitor",
+      "core_id": 2443.0,
+      "raw_product_name": "WATER MONITOR",
+      "list_of_product_ids": [
+        "6039",
+        "5218",
+        "9825",
+        "9830",
+        "9835",
+        "9840",
+        "8259",
+        "8296",
+        "8316",
+        "8739",
+        "9230",
+        "16411",
+        "24091",
+        "23518",
+        "37476"
+      ]
+    },
+    {
+      "retrieval_score": 0.8427615,
+      "text": "core_product_name: visual indicator | acronymed_core_product_name: VIS (Visual Indicator) | accessories_or_attachments: for fan",
+      "core_id": 2408.0,
+      "raw_product_name": "VIS FOR FAN",
+      "list_of_product_ids": [
+        "215",
+        "572",
+        "155",
+        "527",
+        "094"
+      ]
+    },
+    {
+      "retrieval_score": 0.8425356,
+      "text": "core_product_name: computer software",
+      "core_id": 423.0,
+      "raw_product_name": "COMPUTER SOFTWARE",
+      "list_of_product_ids": [
+        "193",
+        "121",
+        "931",
+        "327",
+        "257"
+      ]
+    },
+    {
+      "retrieval_score": 0.8425053,
+      "text": "core_product_name: large screen display",
+      "core_id": 1408.0,
+      "raw_product_name": "Large Screen Display",
+      "list_of_product_ids": [
+        "7076",
+        "7403",
+        "11853",
+        "11845"
+      ]
+    },
+    {
+      "retrieval_score": 0.8425036,
+      "text": "core_product_name: access control system",
+      "core_id": 30.0,
+      "raw_product_name": "ACCESS CONTROL SYSTEM",
+      "list_of_product_ids": [
+        "6601",
+        "5771",
+        "10891",
+        "10915",
+        "11070",
+        "10890",
+        "10892",
+        "19260",
+        "19270",
+        "34967",
+        "34987",
+        "35018"
+      ]
+    },
+    {
+      "retrieval_score": 0.84192926,
+      "text": "core_product_name: remote controlled monitor",
+      "core_id": 1896.0,
+      "raw_product_name": "REMOTE CONTROLLED MONITORS",
+      "list_of_product_ids": [
+        "6042",
+        "5221",
+        "8319",
+        "24103",
+        "22791"
+      ]
+    },
+    {
+      "retrieval_score": 0.8415041,
+      "text": "core_product_name: machine monitoring system",
+      "core_id": 1418.0,
+      "raw_product_name": "MACHINE MONITORING SYSTEMS",
+      "list_of_product_ids": [
+        "6478",
+        "5649",
+        "12455",
+        "32772",
+        "38192"
+      ]
+    },
+    {
+      "retrieval_score": 0.84124565,
+      "text": "core_product_name: distributed digital control, monitoring information system | acronymed_core_product_name: ddcmis",
+      "core_id": 605.0,
+      "raw_product_name": "DISTRIBUTED DIGITAL CONTROL,MONITORING INFORMATION SYSTEM(DDCMIS)",
+      "list_of_product_ids": [
+        "1",
+        "361",
+        "820",
+        "927"
+      ]
+    },
+    {
+      "retrieval_score": 0.8411253,
+      "text": "core_product_name: motor control center | acronymed_core_product_name: mcc package",
+      "core_id": 1447.0,
+      "raw_product_name": "MCC PACKAGE",
+      "list_of_product_ids": [
+        "23571",
+        "23614",
+        "23565",
+        "23559",
+        "23554",
+        "23549",
+        "23541",
+        "23532"
+      ]
+    },
+    {
+      "retrieval_score": 0.84075767,
+      "text": "core_product_name: computer maintenance",
+      "core_id": 422.0,
+      "raw_product_name": "COMPUTER MAINTENANCE",
+      "list_of_product_ids": [
+        "193",
+        "231",
+        "932",
+        "428",
+        "719"
+      ]
+    },
+    {
+      "retrieval_score": 0.83915657,
+      "text": "core_product_name: access chamber",
+      "core_id": 26.0,
+      "raw_product_name": "ACCESS CHAMBER",
+      "list_of_product_ids": [
+        "158",
+        "151",
+        "585",
+        "815",
+        "880"
+      ]
+    },
+    {
+      "retrieval_score": 0.83825934,
+      "text": "core_product_name: switchgear panel | acronymed_core_product_name: pcc (power control center) switchgear panel | size_or_capacity: 415V | type_or_class: PCC (Power Control Center)",
+      "core_id": 18.0,
+      "raw_product_name": "415V SWITCHGEAR PANEL (PCC)",
+      "list_of_product_ids": [
+        "176",
+        "911",
+        "769",
+        "018",
+        "664"
+      ]
+    },
+    {
+      "retrieval_score": 0.8371755,
+      "text": "core_product_name: central air conditioning system",
+      "core_id": 58.0,
+      "raw_product_name": "AIR CONDITIONING SYSTEM - CENTRAL",
+      "list_of_product_ids": [
+        "6043",
+        "5222",
+        "10728",
+        "10729",
+        "10203",
+        "6949",
+        "10820",
+        "10882",
+        "8499",
+        "19674",
+        "19821",
+        "23220"
+      ]
+    },
+    {
+      "retrieval_score": 0.83717257,
+      "text": "core_product_name: local area network switch | acronymed_core_product_name: LAN SWITCH",
+      "core_id": 1317.0,
+      "raw_product_name": "LAN SWITCH",
+      "list_of_product_ids": [
+        "19153",
+        "19154",
+        "27610",
+        "37883",
+        "37888",
+        "37890"
+      ]
+    },
+    {
+      "retrieval_score": 0.83715373,
+      "text": "core_product_name: system panel",
+      "core_id": 2180.0,
+      "raw_product_name": "SYSTEM PANELS",
+      "list_of_product_ids": [
+        "1",
+        "413",
+        "621",
+        "099"
+      ]
+    },
+    {
+      "retrieval_score": 0.83713275,
+      "text": "core_product_name: power control centre | acronymed_core_product_name: pcc (power control centre)",
+      "core_id": 1741.0,
+      "raw_product_name": "POWER CONTROL CENTRE (PCC)",
+      "list_of_product_ids": [
+        "13849",
+        "14618",
+        "14643",
+        "17928",
+        "17915",
+        "17890",
+        "17946",
+        "17937",
+        "18024",
+        "18006",
+        "18047"
+      ]
+    },
+    {
+      "retrieval_score": 0.83713275,
+      "text": "core_product_name: power control centre | acronymed_core_product_name: pcc (power control centre)",
+      "core_id": 1741.0,
+      "raw_product_name": "Power Control Centre (PCC)",
+      "list_of_product_ids": [
+        "8225"
+      ]
+    },
+    {
+      "retrieval_score": 0.8370368,
+      "text": "core_product_name: substation automation system | acronymed_core_product_name: sas system",
+      "core_id": 1963.0,
+      "raw_product_name": "SAS System",
+      "list_of_product_ids": [
+        "7566",
+        "7240",
+        "11203",
+        "10872",
+        "10874",
+        "11375"
+      ]
+    },
+    {
+      "retrieval_score": 0.8369958,
+      "text": "core_product_name: infrared detector | acronymed_core_product_name: ir detector",
+      "core_id": 1295.0,
+      "raw_product_name": "IR DETECTOR",
+      "list_of_product_ids": [
+        "980",
+        "798",
+        "149",
+        "854"
+      ]
+    },
+    {
+      "retrieval_score": 0.8369088,
+      "text": "core_product_name: access floor system",
+      "core_id": 29.0,
+      "raw_product_name": "ACCESS FLOOR SYSTEM",
+      "list_of_product_ids": [
+        "19257",
+        "28256",
+        "38565",
+        "38555",
+        "38556",
+        "38557",
+        "38559",
+        "39640",
+        "40151",
+        "40157"
+      ]
+    },
+    {
+      "retrieval_score": 0.83688533,
+      "text": "core_product_name: public address equipment | acronymed_core_product_name: pa equipment",
+      "core_id": 1617.0,
+      "raw_product_name": "PA EQUIPMENTS",
+      "list_of_product_ids": [
+        "980",
+        "898",
+        "159",
+        "862"
+      ]
+    },
+    {
+      "retrieval_score": 0.8368839,
+      "text": "core_product_name: control room",
+      "core_id": 457.0,
+      "raw_product_name": "CONTROL ROOM",
+      "list_of_product_ids": [
+        "19383",
+        "19371",
+        "19373",
+        "23748"
+      ]
+    }
+  ]
+}

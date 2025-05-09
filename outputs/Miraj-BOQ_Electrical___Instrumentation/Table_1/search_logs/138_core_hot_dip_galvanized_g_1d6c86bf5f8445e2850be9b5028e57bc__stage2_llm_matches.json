@@ -1,0 +1,95 @@
+{
+  "query": "core_product_name: hot dip galvanized ground plate earth connection bar | size: holes: 10, hole diameter: 13mm, plate dimensions: 550mm x 50mm x 6mm | feature_or_specifications: coating: hot dip galvanized, minimum coating: 120 microns of zinc, includes: fixing materials/accessories, ss(stainless steel) hardware",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: plate | material: Steel",
+        "raw_product_name": "STEEL PLATE",
+        "list_of_product_ids": [
+          "15457",
+          "15466",
+          "14057",
+          "15473",
+          "15475",
+          "15478",
+          "15836",
+          "19346",
+          "18374",
+          "18349",
+          "19348",
+          "21285",
+          "22300",
+          "22845",
+          "21288",
+          "22303",
+          "26241",
+          "29274",
+          "29273",
+          "29270",
+          "38270",
+          "38278",
+          "36661",
+          "36651",
+          "37396"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: electro-forged grating | construction_features: electro-forged | material: galvanised",
+        "raw_product_name": "ELECTRO-FORGED GALVANISED GRATINGS",
+        "list_of_product_ids": [
+          "6383",
+          "5554",
+          "9766",
+          "12486",
+          "15791",
+          "17489",
+          "17479",
+          "17486",
+          "24230",
+          "19930",
+          "17493",
+          "24247",
+          "19899",
+          "24233",
+          "19987",
+          "20019",
+          "24239",
+          "24346",
+          "21838",
+          "35257"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: galvanized structure | material: Steel",
+        "raw_product_name": "GALVANIZED STEEL STRUCTURES",
+        "list_of_product_ids": [
+          "13697",
+          "16818",
+          "16886",
+          "16869",
+          "17140",
+          "18104",
+          "18096",
+          "22747"
+        ]
+      }
+    }
+  ]
+}

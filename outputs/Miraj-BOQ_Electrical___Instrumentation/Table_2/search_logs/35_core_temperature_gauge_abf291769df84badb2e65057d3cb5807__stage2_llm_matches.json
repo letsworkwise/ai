@@ -1,0 +1,68 @@
+{
+  "query": "core_product_name: temperature gauge | size: range: 0~100°C, well connection: 1.5\" 300# RF, gauge connection: 1/2\" NPT, dial size: 150mm | feature_or_specifications: type: all angle, material: ss316 (stainless steel 316), glass: shatterproof",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPARETURE GAUGE",
+        "list_of_product_ids": [
+          "13992",
+          "36535",
+          "17284",
+          "17283",
+          "17282",
+          "23171",
+          "35667",
+          "35957",
+          "35960",
+          "35972",
+          "37406"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPERATURE GAUGES",
+        "list_of_product_ids": [
+          "19536",
+          "19516",
+          "27065",
+          "37528",
+          "35959",
+          "35961",
+          "37407"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: temperature gauge | type_or_class: Bi Metallic (Bimetallic) | type_or_class: Filled System",
+        "raw_product_name": "TEMP.GAUGES(BI METALLIC,FILLED SYSTEM)",
+        "list_of_product_ids": [
+          "6569",
+          "5739",
+          "11459",
+          "22723",
+          "31685",
+          "31594",
+          "31262",
+          "31308"
+        ]
+      }
+    }
+  ]
+}

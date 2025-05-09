@@ -1,0 +1,88 @@
+{
+  "query": "core_product_name: radar gauge with display | size: suitable for: 6\" sch(schedule) 10 stilling pipe | feature_or_specifications: accuracy: ±1mm lab condition, display: smart type tank side indicator, temperature sensor interface, outputs: sil3 relay output & analog output, quantity per msv(mounded storage vessel): 1",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: radar level indicator | type_or_class: Radar Type",
+        "raw_product_name": "LEVEL INDICATORS (RADAR TYPE)",
+        "list_of_product_ids": [
+          "13979",
+          "15091",
+          "15133",
+          "15141",
+          "15149",
+          "15250",
+          "15263",
+          "36108",
+          "36186",
+          "36334"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: level instrument | type_or_class: Radar Type",
+        "raw_product_name": "LEVEL INSTRUMENTS (RADAR TYPE)",
+        "list_of_product_ids": [
+          "9487",
+          "9587",
+          "12075",
+          "14687",
+          "14707",
+          "14801",
+          "15021",
+          "15024",
+          "15103",
+          "15239",
+          "15253",
+          "36197",
+          "36346"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: tank level instrument | type_or_class: Radar | type_or_class: Ultrasonic",
+        "raw_product_name": "TANK LEVEL INSTRUMENT (RADAR,ULTRASONIC)",
+        "list_of_product_ids": [
+          "6596",
+          "5766",
+          "11601",
+          "11814",
+          "11323",
+          "10106",
+          "10120",
+          "11345",
+          "9173",
+          "12073",
+          "12860",
+          "12862",
+          "13363",
+          "13367",
+          "13371",
+          "13372",
+          "18399",
+          "19278",
+          "35436",
+          "36170",
+          "36318"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "query": "core_product_name: paint brush | size: width: 2 inch",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: brush | material: Carbon",
+        "raw_product_name": "CARBON BRUSHES",
+        "list_of_product_ids": [
+          "242",
+          "252",
+          "422",
+          "726",
+          "882"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: brush holder | material: Carbon",
+        "raw_product_name": "CARBON BRUSH HOLDER",
+        "list_of_product_ids": [
+          "19611",
+          "19612",
+          "24228",
+          "26881"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: width gauge",
+        "raw_product_name": "Width Gauge",
+        "list_of_product_ids": [
+          "7552",
+          "7226",
+          "10509",
+          "18014"
+        ]
+      }
+    }
+  ]
+}

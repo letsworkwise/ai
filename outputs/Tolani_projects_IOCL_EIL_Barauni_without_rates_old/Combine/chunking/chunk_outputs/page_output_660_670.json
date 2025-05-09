@@ -1,0 +1,158 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and fixing in the encasement concrete, cable crossing indicator, made out of 6mm thick MS circular of dia.",
+      "core_product_name": "cable crossing indicator supplying and fixing",
+      "acronymed_core_product_name": "",
+      "size": "thickness: 6 mm, shape: circular",
+      "feature_or_specifications": "material: ms(mild steel), application: encasement concrete",
+      "quantity": "1.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and Providing removable type PVC Cap at the open end of pipe all complete etc. as per drawings, Outer dia. of pipe   160 mm",
+      "core_product_name": "pvc cap supplying and providing",
+      "acronymed_core_product_name": "pvc cap",
+      "size": "outer diameter of pipe: 160 mm",
+      "feature_or_specifications": "type: removable, application: open end of pipe, feature: all complete etc. as per drawings",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and fixing in position medium/ heavy duty CI manhole frame with lugs and cover conforming to IS-1726 circular size 500 mm dia. Medium duty of grade MD-10",
+      "core_product_name": "ci manhole frame supplying and fixing",
+      "acronymed_core_product_name": "ci manhole frame",
+      "size": "circular size: 500 mm diameter",
+      "feature_or_specifications": "duty: medium/heavy, material: ci(cast iron), feature: with lugs and cover, standard: indian standard 1726, grade: md-10, type: medium duty",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, fabricating and fixing in position in RCC or brick masonry walls MS rungs made out of 20mm dia.",
+      "core_product_name": "ms rung supplying, fabricating and fixing",
+      "acronymed_core_product_name": "ms rung",
+      "size": "diameter: 20 mm",
+      "feature_or_specifications": "material: ms(mild steel), application: rcc or brick masonry walls",
+      "quantity": "55.0",
+      "unit": "each"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      660,
+      669
+    ],
+    "original_rows": [
+      {
+        "0": 661,
+        "1": 0,
+        "2": "01GC.9.3",
+        "3": "Supplying and fixing in the encasement concrete, cable crossing indicator, made out of 6mm thick MS circular of dia.",
+        "4": 1.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 662,
+        "1": 0,
+        "2": "01GC.9.6",
+        "3": "Supplying and Providing removable type PVC Cap at the open end of pipe all complete etc. as per drawings,",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 663,
+        "1": 0,
+        "2": "01GC.9.6.1V1",
+        "3": "Outer dia. of pipe   160 mm",
+        "4": 4.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 664,
+        "1": 0,
+        "2": "01GC.15",
+        "3": "MISC. CIVIL AND STRUCTURAL WORKS FOR U/G PIPING AND OTHER CIVIL WORKS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 665,
+        "1": 0,
+        "2": "01GC.15.6",
+        "3": "Supplying and fixing in position medium/ heavy duty CI manhole frame with lugs and cover conforming to IS-1726",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 666,
+        "1": 0,
+        "2": "01GC.15.6.1",
+        "3": "circular size 500 mm dia. Medium duty of grade MD-10",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 667,
+        "1": 0,
+        "2": "01GC.15.11",
+        "3": "Supplying, fabricating and fixing in position in RCC or brick masonry walls MS rungs made out of 20mm dia.",
+        "4": 55.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 668,
+        "1": 0,
+        "2": "01GC.15.12",
+        "3": "Supply of all materials, fabrication and erection in position, funnels, clean outs, plugs, flame arrester in vent pipe, bird",
+        "4": 630.0,
+        "5": "kg",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 669,
+        "1": 0,
+        "2": "01GC.19",
+        "3": "FILM LINING WITH CONCRETE LINING FOR EARTHEN RESERVOIR",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 670,
+        "1": 0,
+        "2": "01GC.19.2",
+        "3": "Providing 20mm wide x 20mm deep contraction/construction joint in lining for reservoir, channel, etc. including cleaning",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2332,
+    "completion_tokens": 827
+  }
+}

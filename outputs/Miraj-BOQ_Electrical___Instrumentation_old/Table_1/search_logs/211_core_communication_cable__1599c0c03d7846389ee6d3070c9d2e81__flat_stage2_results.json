@@ -1,0 +1,544 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8630763,
+      "text": "core_product_name: resistance temperature detector",
+      "core_id": 1901.0,
+      "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR",
+      "list_of_product_ids": [
+        "17218",
+        "17213",
+        "21738",
+        "27914",
+        "36623"
+      ]
+    },
+    {
+      "retrieval_score": 0.86193734,
+      "text": "core_product_name: temperature transmitter",
+      "core_id": 2226.0,
+      "raw_product_name": "TEMPERATURE TRANSMITTER",
+      "list_of_product_ids": [
+        "13422",
+        "36532",
+        "15082",
+        "15245",
+        "15259",
+        "15305",
+        "15312",
+        "17117",
+        "17116",
+        "17115",
+        "17114",
+        "18212",
+        "36177",
+        "36325",
+        "36511"
+      ]
+    },
+    {
+      "retrieval_score": 0.8580381,
+      "text": "core_product_name: resistance temperature detector | accessories_or_attachments: Thermowell",
+      "core_id": 1901.0,
+      "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR(THERMOWELL)",
+      "list_of_product_ids": [
+        "182",
+        "131",
+        "856",
+        "318",
+        "203"
+      ]
+    },
+    {
+      "retrieval_score": 0.8574308,
+      "text": "core_product_name: communication cable | type_or_class: Communication",
+      "core_id": 287.0,
+      "raw_product_name": "COMMUNICATION CABLES",
+      "list_of_product_ids": [
+        "13928",
+        "14726",
+        "14769",
+        "14836",
+        "15182",
+        "15180",
+        "15332",
+        "19318",
+        "19184",
+        "20041",
+        "20093",
+        "24068",
+        "22823",
+        "23920",
+        "38661",
+        "38857",
+        "38580",
+        "38606",
+        "38766",
+        "36639",
+        "38634",
+        "38825",
+        "38899",
+        "38925",
+        "38689",
+        "38714",
+        "38740",
+        "38962",
+        "38989",
+        "39017",
+        "39046",
+        "39085",
+        "39115",
+        "39160",
+        "39205",
+        "39244",
+        "39279",
+        "39325",
+        "39361",
+        "39390",
+        "39420",
+        "39471",
+        "39526",
+        "39553",
+        "39591",
+        "39615",
+        "39643",
+        "39677",
+        "39717",
+        "39787",
+        "39815",
+        "39886"
+      ]
+    },
+    {
+      "retrieval_score": 0.8564495,
+      "text": "core_product_name: power cable",
+      "core_id": 3.0,
+      "raw_product_name": "POWER CABLE",
+      "list_of_product_ids": [
+        "13440",
+        "14645",
+        "15813",
+        "29442",
+        "29447",
+        "29448",
+        "24045",
+        "23896",
+        "36583",
+        "36611",
+        "38139"
+      ]
+    },
+    {
+      "retrieval_score": 0.8560765,
+      "text": "core_product_name: instrument cable | type_or_class: F (Field), G (Ground), and T/C (Thermocouple) cable",
+      "core_id": 1253.0,
+      "raw_product_name": "Instrument Cables ( F,G & T/C Cables )",
+      "list_of_product_ids": [
+        "13711",
+        "14789",
+        "14827",
+        "14841",
+        "24056",
+        "23907"
+      ]
+    },
+    {
+      "retrieval_score": 0.8542946,
+      "text": "core_product_name: compensating cable",
+      "core_id": 407.0,
+      "raw_product_name": "COMPENSATING CABLE",
+      "list_of_product_ids": [
+        "24082",
+        "21244",
+        "21234",
+        "23933",
+        "28345"
+      ]
+    },
+    {
+      "retrieval_score": 0.8536978,
+      "text": "core_product_name: telemetry interface cabinet",
+      "core_id": 2214.0,
+      "raw_product_name": "TELEMETRY INTERFACE CABINET",
+      "list_of_product_ids": [
+        "13988",
+        "18052",
+        "18994",
+        "19044",
+        "21698"
+      ]
+    },
+    {
+      "retrieval_score": 0.85279423,
+      "text": "core_product_name: plant communication system",
+      "core_id": 1696.0,
+      "raw_product_name": "PLANT COMMUNICATION SYSTEM",
+      "list_of_product_ids": [
+        "9",
+        "484",
+        "958",
+        "414",
+        "803"
+      ]
+    },
+    {
+      "retrieval_score": 0.852208,
+      "text": "core_product_name: radar level transmitter",
+      "core_id": 1852.0,
+      "raw_product_name": "RADAR LEVEL TRANSMITTERS",
+      "list_of_product_ids": [
+        "13803",
+        "15081",
+        "15246",
+        "15260",
+        "23177",
+        "37424",
+        "36176",
+        "36324"
+      ]
+    },
+    {
+      "retrieval_score": 0.852118,
+      "text": "core_product_name: telecommunication system",
+      "core_id": 2212.0,
+      "raw_product_name": "TELECOMMUNICATION SYSTEM",
+      "list_of_product_ids": [
+        "14203",
+        "18336",
+        "22435",
+        "36100"
+      ]
+    },
+    {
+      "retrieval_score": 0.85162073,
+      "text": "core_product_name: signal cable | protection_features: Fire Resistant",
+      "core_id": 826.0,
+      "raw_product_name": "SIGNAL CABLE - FIRE RESISTANT",
+      "list_of_product_ids": [
+        "6482",
+        "5653",
+        "10413",
+        "10664",
+        "12117",
+        "13288",
+        "13294",
+        "17776",
+        "17788",
+        "23870",
+        "24034",
+        "38767",
+        "38585",
+        "38611",
+        "38690",
+        "38715",
+        "38639",
+        "38826",
+        "38662",
+        "38858",
+        "38900",
+        "38926",
+        "38741",
+        "38963",
+        "38990",
+        "39018",
+        "39047",
+        "39086",
+        "39116",
+        "39162",
+        "39206",
+        "39245",
+        "39280",
+        "39326",
+        "39362",
+        "39391",
+        "39421",
+        "39472",
+        "39554",
+        "39527",
+        "39616",
+        "39592",
+        "39644",
+        "39678",
+        "39718",
+        "39788",
+        "39816",
+        "39887"
+      ]
+    },
+    {
+      "retrieval_score": 0.851502,
+      "text": "core_product_name: skin type resistance temperature detector",
+      "core_id": 1903.0,
+      "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR(SKIN TYPE)",
+      "list_of_product_ids": [
+        "182",
+        "021",
+        "821",
+        "418",
+        "562"
+      ]
+    },
+    {
+      "retrieval_score": 0.85137236,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLES",
+      "list_of_product_ids": [
+        "15455",
+        "13721",
+        "24275",
+        "15161",
+        "16241",
+        "19098",
+        "23820",
+        "23814",
+        "21319",
+        "19315",
+        "23819",
+        "23822",
+        "24273",
+        "23829",
+        "20141",
+        "23831",
+        "24058",
+        "23836",
+        "23909",
+        "23839",
+        "23828",
+        "24685",
+        "24726",
+        "24844",
+        "24955",
+        "31590",
+        "31591",
+        "26436",
+        "26438",
+        "31740",
+        "33330"
+      ]
+    },
+    {
+      "retrieval_score": 0.8513611,
+      "text": "core_product_name: transmitter",
+      "core_id": 2274.0,
+      "raw_product_name": "TRANSMITTER",
+      "list_of_product_ids": [
+        "13839",
+        "24344",
+        "23185",
+        "36621"
+      ]
+    },
+    {
+      "retrieval_score": 0.85134774,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLE STOCKIST/TRADERS",
+      "list_of_product_ids": [
+        "2",
+        "467",
+        "924",
+        "680"
+      ]
+    },
+    {
+      "retrieval_score": 0.8504556,
+      "text": "core_product_name: thermal detector",
+      "core_id": 2239.0,
+      "raw_product_name": "THERMAL DETECTORS",
+      "list_of_product_ids": [
+        "14012",
+        "14939",
+        "18003",
+        "18002",
+        "37766",
+        "37771",
+        "37776",
+        "37792",
+        "37802",
+        "37807"
+      ]
+    },
+    {
+      "retrieval_score": 0.850291,
+      "text": "core_product_name: compensating cable | type_or_class: Thermocouple Compensating",
+      "core_id": 407.0,
+      "raw_product_name": "THERMOCOUPLE COMPENSATING CABLE",
+      "list_of_product_ids": [
+        "19874",
+        "19873",
+        "24077",
+        "23929",
+        "28288"
+      ]
+    },
+    {
+      "retrieval_score": 0.8496496,
+      "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+      "core_id": 1262.0,
+      "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+      "list_of_product_ids": [
+        "19885",
+        "19880",
+        "24078",
+        "23930",
+        "27348"
+      ]
+    },
+    {
+      "retrieval_score": 0.8493511,
+      "text": "core_product_name: level transmitter",
+      "core_id": 1080.0,
+      "raw_product_name": "LEVEL TRANSMITTER",
+      "list_of_product_ids": [
+        "14042",
+        "36533",
+        "17995",
+        "18211",
+        "19929",
+        "19985",
+        "19983",
+        "36512",
+        "40096"
+      ]
+    },
+    {
+      "retrieval_score": 0.84921837,
+      "text": "core_product_name: special cable",
+      "core_id": 2074.0,
+      "raw_product_name": "SPECIAL CABLES",
+      "list_of_product_ids": [
+        "13989",
+        "14840",
+        "20102",
+        "20070",
+        "24071",
+        "23923"
+      ]
+    },
+    {
+      "retrieval_score": 0.84906036,
+      "text": "core_product_name: corrosion transmitter",
+      "core_id": 493.0,
+      "raw_product_name": "CORROSION TRANSMITTER",
+      "list_of_product_ids": [
+        "5946",
+        "6775",
+        "10922",
+        "10921"
+      ]
+    },
+    {
+      "retrieval_score": 0.84879285,
+      "text": "core_product_name: thermal mass flow meter",
+      "core_id": 2253.0,
+      "raw_product_name": "THERMAL MASS FLOW METER",
+      "list_of_product_ids": [
+        "14013",
+        "18172",
+        "24191",
+        "36113"
+      ]
+    },
+    {
+      "retrieval_score": 0.8485404,
+      "text": "core_product_name: control cable | protection_features: Fire Survival",
+      "core_id": 4.0,
+      "raw_product_name": "CONTROL CABLE - FIRE SURVIVAL",
+      "list_of_product_ids": [
+        "6424",
+        "5594",
+        "10194",
+        "10666",
+        "11369",
+        "11371",
+        "12120",
+        "13290",
+        "15814",
+        "17323",
+        "17783",
+        "23993",
+        "23862"
+      ]
+    },
+    {
+      "retrieval_score": 0.8482428,
+      "text": "core_product_name: thermocouple wire",
+      "core_id": 2243.0,
+      "raw_product_name": "THERMOCOUPLE WIRE",
+      "list_of_product_ids": [
+        "220",
+        "072",
+        "203",
+        "322",
+        "053"
+      ]
+    },
+    {
+      "retrieval_score": 0.84800696,
+      "text": "core_product_name: cathodic protection power supply module",
+      "core_id": 315.0,
+      "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+      "list_of_product_ids": [
+        "6413",
+        "5583",
+        "8417",
+        "12209"
+      ]
+    },
+    {
+      "retrieval_score": 0.84775907,
+      "text": "core_product_name: electrical terminal",
+      "core_id": 712.0,
+      "raw_product_name": "ELECTRICAL TERMINALS",
+      "list_of_product_ids": [
+        "21153",
+        "21157",
+        "28575",
+        "36610"
+      ]
+    },
+    {
+      "retrieval_score": 0.8475105,
+      "text": "core_product_name: power contactor relay",
+      "core_id": 1839.0,
+      "raw_product_name": "Power Contactors relays",
+      "list_of_product_ids": [
+        "7123",
+        "7450",
+        "10540",
+        "7901",
+        "8227",
+        "8228",
+        "11939",
+        "12178"
+      ]
+    },
+    {
+      "retrieval_score": 0.8474579,
+      "text": "core_product_name: field bus (fieldbus) transmitter",
+      "core_id": 817.0,
+      "raw_product_name": "FIELD BUS TRANSMITTER",
+      "list_of_product_ids": [
+        "1",
+        "403",
+        "220",
+        "945"
+      ]
+    },
+    {
+      "retrieval_score": 0.84725046,
+      "text": "core_product_name: cable trench",
+      "core_id": 285.0,
+      "raw_product_name": "CABLE TRENCHES",
+      "list_of_product_ids": [
+        "15786",
+        "15854",
+        "15876",
+        "15870",
+        "24073",
+        "23925"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: earth tester",
+  "retrieval_results": [
+    {
+      "id": "variant-c877b74e-265d-5bd4-bb90-01b78c749417",
+      "score": 0.8968878,
+      "metadata": {
+        "text": "core_product_name: instrumentation earthing",
+        "raw_product_name": "INSTRUMENTATION EARTHING",
+        "list_of_product_ids": "13420",
+        "core_id": 1263.0
+      }
+    },
+    {
+      "id": "variant-9cab3a59-4c3f-5408-9e1e-d68d6a3b5435",
+      "score": 0.89380515,
+      "metadata": {
+        "text": "core_product_name: earthing material",
+        "raw_product_name": "EARTHING MATERIALS",
+        "list_of_product_ids": "378,733,788,037,898",
+        "core_id": 672.0
+      }
+    },
+    {
+      "id": "variant-74473618-f368-5f8e-9f75-5bb7b011cde3",
+      "score": 0.8839772,
+      "metadata": {
+        "text": "core_product_name: ground monitoring system",
+        "raw_product_name": "GROUND MONITORING SYSTEMS",
+        "list_of_product_ids": "6629,5799,10305,24235,19579",
+        "core_id": 1079.0
+      }
+    },
+    {
+      "id": "variant-c61a0e42-40cc-517d-abad-c49cb4a5f82e",
+      "score": 0.882458,
+      "metadata": {
+        "text": "core_product_name: earth leakage relay",
+        "raw_product_name": "EARTH LEAKAGE RELAY",
+        "list_of_product_ids": "1,379,915,295",
+        "core_id": 670.0
+      }
+    },
+    {
+      "id": "variant-ec24adf3-64c0-5cab-a601-956105d3788f",
+      "score": 0.8819346,
+      "metadata": {
+        "text": "core_product_name: fieldbus tester",
+        "raw_product_name": "FIELDBUS TESTER",
+        "list_of_product_ids": "5,949,677,810,923",
+        "core_id": 823.0
+      }
+    },
+    {
+      "id": "variant-8ac6d987-c430-5590-93cf-188e72e7e669",
+      "score": 0.87965304,
+      "metadata": {
+        "text": "core_product_name: earth leakage circuit breaker",
+        "raw_product_name": "EARTH LEAKAGE CIRCUIT BREAKER",
+        "list_of_product_ids": "6449,5619,9349,9448,9149,9217,9363,11942,24537,24536,38287",
+        "core_id": 668.0
+      }
+    },
+    {
+      "id": "variant-bc4a43e5-ae89-513e-b435-8a2fa0f517cc",
+      "score": 0.87964547,
+      "metadata": {
+        "text": "core_product_name: test product",
+        "raw_product_name": "TEST PRODUCT",
+        "list_of_product_ids": "1,310,627,675",
+        "core_id": 2235.0
+      }
+    },
+    {
+      "id": "variant-0eb5d02c-397d-58fc-80d8-1ab2e3a705cc",
+      "score": 0.8743463,
+      "metadata": {
+        "text": "core_product_name: test and measuring equipment",
+        "raw_product_name": "Test & Measuring Equipment",
+        "list_of_product_ids": "1,401,515,286",
+        "core_id": 2303.0
+      }
+    },
+    {
+      "id": "variant-244b8c71-608d-55cc-ab40-d9438704ec8e",
+      "score": 0.8718199,
+      "metadata": {
+        "text": "core_product_name: manual pump | testing_or_inspection: Hydro test",
+        "raw_product_name": "HYDRO TESTING PUMP (MANUAL)",
+        "list_of_product_ids": "32806,32807,32995,33029,33182,33247,33550,33621,35909",
+        "core_id": 1207.0
+      }
+    },
+    {
+      "id": "variant-6d0c75dd-9f8b-5217-b1e9-2776cd193325",
+      "score": 0.87130076,
+      "metadata": {
+        "text": "core_product_name: electronic test bench",
+        "raw_product_name": "ELECTRONIC TEST BENCH",
+        "list_of_product_ids": "171,821,716,727,677",
+        "core_id": 728.0
+      }
+    },
+    {
+      "id": "variant-a29e594f-5d9e-5f3e-a8ba-1b7a8ba3daf0",
+      "score": 0.8709041,
+      "metadata": {
+        "text": "core_product_name: ambient air analyser system",
+        "raw_product_name": "AMBIENT AIR ANALYSER SYSTEMS",
+        "list_of_product_ids": "6528,5699,11113,12354,33597,33607,33604,33671,33687,33959,33943,35609,35613",
+        "core_id": 103.0
+      }
+    },
+    {
+      "id": "variant-0d0de11c-f5fe-5c46-baf4-6f26d957da45",
+      "score": 0.8707241,
+      "metadata": {
+        "text": "core_product_name: meter prover",
+        "raw_product_name": "METER PROVERS",
+        "list_of_product_ids": "6610,5780,11824,10156,10910,11904",
+        "core_id": 1468.0
+      }
+    },
+    {
+      "id": "variant-6e85113f-e4cb-5eaa-a100-92bc019aa1a0",
+      "score": 0.8701806,
+      "metadata": {
+        "text": "core_product_name: testing, inspection, survey agency",
+        "raw_product_name": "TESTING, INSPECTION, SURVEY AGENCIES",
+        "list_of_product_ids": "16973,17022,27085,16890,34961,35827,35823",
+        "core_id": 2237.0
+      }
+    },
+    {
+      "id": "variant-2feed7e4-24e4-59d5-829f-33f67991b001",
+      "score": 0.8689588,
+      "metadata": {
+        "text": "core_product_name: radiation survey meter",
+        "raw_product_name": "RADIATION SURVEY METER",
+        "list_of_product_ids": "154,321,876,838,886",
+        "core_id": 1858.0
+      }
+    },
+    {
+      "id": "variant-c3d53cbb-630e-5fa5-ae1f-516e4650d0c5",
+      "score": 0.86893356,
+      "metadata": {
+        "text": "core_product_name: deadweight tester",
+        "raw_product_name": "DEADWEIGHT TESTER",
+        "list_of_product_ids": "16391,16406,16492,19503",
+        "core_id": 561.0
+      }
+    },
+    {
+      "id": "variant-d2eab6c2-d22b-57e1-8719-4f726583379e",
+      "score": 0.86865395,
+      "metadata": {
+        "text": "core_product_name: magnetic level instrument",
+        "raw_product_name": "MAGNETIC LEVEL INSTRUMENTS",
+        "list_of_product_ids": "6583,5753,11811,11274,10573,10581,10196,10669,8393,11949,11948,12069,12219,12239,12778,12834,12833,12842,18396,22199",
+        "core_id": 1422.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.8684414,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.86841106,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-4b8a5a23-ea81-58fe-887d-4e5efd8ffbe5",
+      "score": 0.8684044,
+      "metadata": {
+        "text": "core_product_name: instrument test bench",
+        "raw_product_name": "INSTRUMENT TEST BENCH",
+        "list_of_product_ids": "5964,6792,10935,10928",
+        "core_id": 1257.0
+      }
+    },
+    {
+      "id": "variant-59b5e3e6-cca0-5578-9fb8-1da38d04a8ce",
+      "score": 0.868046,
+      "metadata": {
+        "text": "core_product_name: test separator",
+        "raw_product_name": "TEST SEPARATOR",
+        "list_of_product_ids": "6093,5260,8755,23730",
+        "core_id": 2233.0
+      }
+    },
+    {
+      "id": "variant-89603419-a682-5e22-b25d-9f3a05987c84",
+      "score": 0.8676881,
+      "metadata": {
+        "text": "core_product_name: hydrotesting hose pipe | testing_or_inspection: Hydro test",
+        "raw_product_name": "HOSE PIPE FOR HYDROTESTING",
+        "list_of_product_ids": "32812,32813,32996,33030,33183,33248,33549,33622,35910",
+        "core_id": 1148.0
+      }
+    },
+    {
+      "id": "variant-cd6ddf57-09e6-5454-8210-336cd5415241",
+      "score": 0.8675017,
+      "metadata": {
+        "text": "core_product_name: geotextile",
+        "raw_product_name": "GEO TEXTILE",
+        "list_of_product_ids": "2,416,128,694",
+        "core_id": 1050.0
+      }
+    },
+    {
+      "id": "variant-f6f82d72-06c9-560b-9c54-9f2cd13f98d1",
+      "score": 0.86742324,
+      "metadata": {
+        "text": "core_product_name: weatherproof test station | protection_features: Weatherproof",
+        "raw_product_name": "TEST STATION (WEATHERPROOF)",
+        "list_of_product_ids": "215,472,153,627,678",
+        "core_id": 2238.0
+      }
+    },
+    {
+      "id": "variant-dc902e3d-597c-5dda-bda3-7f176d1b91e9",
+      "score": 0.86616856,
+      "metadata": {
+        "text": "core_product_name: detector",
+        "raw_product_name": "DETECTOR",
+        "list_of_product_ids": "8900,8902,9849,9858,9867,18250,18249,18248,36841,36225,36377",
+        "core_id": 579.0
+      }
+    },
+    {
+      "id": "variant-21ba2afc-dbe7-5c05-aa30-8b3ef06c75f1",
+      "score": 0.86597496,
+      "metadata": {
+        "text": "core_product_name: specific gravity analyzer",
+        "raw_product_name": "SPECIFIC GRAVITY ANALYZER",
+        "list_of_product_ids": "14007,15198,15118,15243,15257,17075,20897",
+        "core_id": 2080.0
+      }
+    },
+    {
+      "id": "variant-051c1688-e570-5798-b889-dad4bbdd5307",
+      "score": 0.86540467,
+      "metadata": {
+        "text": "core_product_name: conductivity analyser",
+        "raw_product_name": "CONDUCTIVITY ANALYSER",
+        "list_of_product_ids": "13968,15101,15308,15316,22688,36195,36344",
+        "core_id": 435.0
+      }
+    },
+    {
+      "id": "variant-8073a0f4-08ea-5986-8a7b-495ae6c04c80",
+      "score": 0.8652095,
+      "metadata": {
+        "text": "core_product_name: corrosion probe",
+        "raw_product_name": "CORROSION PROBES",
+        "list_of_product_ids": "17360,17359,27794,35149,35165,35148",
+        "core_id": 492.0
+      }
+    },
+    {
+      "id": "variant-a32d8296-ea3c-51d4-95de-73a3824167db",
+      "score": 0.86517066,
+      "metadata": {
+        "text": "core_product_name: measurement system",
+        "raw_product_name": "MEASUREMENT SYSTEM",
+        "list_of_product_ids": "188,511,884,918,973",
+        "core_id": 1451.0
+      }
+    },
+    {
+      "id": "variant-bc08e481-a9ae-551e-9e13-ace49d85e974",
+      "score": 0.8650358,
+      "metadata": {
+        "text": "core_product_name: measurement",
+        "raw_product_name": "VIBRATION MEASUREMENT",
+        "list_of_product_ids": "242,652,426,624,269",
+        "core_id": 2401.0
+      }
+    },
+    {
+      "id": "variant-cf23d18a-3fb3-5ab5-b22b-a3778ac1d5c7",
+      "score": 0.86479396,
+      "metadata": {
+        "text": "core_product_name: soil pipe",
+        "raw_product_name": "SOIL PIPES",
+        "list_of_product_ids": "20572,20534,20613,20618,20667,20725",
+        "core_id": 2054.0
+      }
+    }
+  ]
+}

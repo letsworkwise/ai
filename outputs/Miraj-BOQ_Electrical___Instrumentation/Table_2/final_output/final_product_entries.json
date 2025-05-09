@@ -1,0 +1,1917 @@
+{
+  "sheet_name": "Table 2",
+  "boq_context": "",
+  "header_rows": "",
+  "products_entries": [
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "4.2.2 | Supply of Terminal Automation Software for Operator Stations with dongle/key, licenses, media, documentation etc., complete as per specifications /  documents. TAS is the front end for all sub systems, hence below subsystems shall be interfaced with TAS for Monitoring, Logging, Reporting and Controls-Interlocks etc. System Interfaces: (Based on functional requirement for interfacing of the available sub systems at the Locations).System stated below with TAS & its commissioning with TAS for Alarms,archiving & events logging - SAP for TAS (TT & packed truck loading & unloading & sub systems covered in the work) - MCC, VFD, DG Sets, UPS  etc. Interface - PLC  & ESD ROV etc. - TFMS Interface including SAP - SAP-TFMS Interface - PAGA Interface - FAS Interface, - Fire Fighting System, - CCTV systems - DV Operational Panel - GMS Repeater Panel",
+      "core_product_name": "terminal automation software",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: operator stations, feature: dongle/key, feature: licenses, feature: media, feature: documentation, feature: system interfaces for monitoring, logging, reporting, controls-interlocks, feature: interface with SAP (systems, TT & packed truck loading & unloading), MCC (motor control center), VFD (variable frequency drive), DG sets (diesel generator sets), UPS (uninterruptible power supply), PLC (programmable logic controller), ESD (emergency shutdown), ROV (remote operated valve), TFMS (tank farm management system), PAGA (public address and general alarm), FAS (fire alarm system), fire fighting system, CCTV (closed circuit television) systems, DV operational panel, GMS (gas monitoring system) repeater panel, feature: alarms, archiving, events logging",
+      "quantity": "1.0",
+      "unit": "Lot"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "4.2.3 | Supply  of SCADA Software with 100%  spare tags alongwith dongle/key, licenses, media, documentation etc. complete as per specifications /  documents.",
+      "core_product_name": "scada software",
+      "acronymed_core_product_name": "scada software",
+      "size": "",
+      "feature_or_specifications": "feature: 100% spare tags, feature: dongle/key, feature: licenses, feature: media, feature: documentation",
+      "quantity": "1.0",
+      "unit": "Lot"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "4.2.4 | Supply  of Operator Interface Console Computer (OIC)/EWS  with 22\" colour LED monitor , standard keyboard etc. complete as per specifications and tender drawing: -CAROUSAL -EWS/OWS -GMS -WEIGH BRIDGE -CYLINDER INVENTORY",
+      "core_product_name": "operator interface console computer",
+      "acronymed_core_product_name": "oic",
+      "size": "monitor size: 22 inch",
+      "feature_or_specifications": "feature: colour led monitor, feature: standard keyboard, feature: carousal, feature: ews (engineering workstation)/ows (operator workstation), feature: gms (gas monitoring system), feature: weigh bridge, feature: cylinder inventory",
+      "quantity": "5.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "4.2.5 | Supply of computer with 22\" LED colour monitor, standard keyboard for SAP terminal for generating  printing invoice, complete as per specifications.",
+      "core_product_name": "computer",
+      "acronymed_core_product_name": "",
+      "size": "monitor size: 22 inch",
+      "feature_or_specifications": "feature: led colour monitor, feature: standard keyboard, feature: for sap terminal, feature: for generating printing invoice",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "4.2.6 | Supply of 24 port Redundant Managed L2 Ethernet Switch (10/100/1000 MBPS)  for connecting LED Display etc. complete as per specification.   [Number of Port shall be as per site Requirment with 20% spare ports]",
+      "core_product_name": "ethernet switch",
+      "acronymed_core_product_name": "",
+      "size": "number of ports: 24",
+      "feature_or_specifications": "feature: redundant, feature: managed, feature: l2, feature: 10/100/1000 mbps, feature: for connecting led display, feature: 20% spare ports",
+      "quantity": "4.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "4.2.7 | Supply of color laser printer of approved make (latest model with added feature is also acceptable) complete as per specifications. A- 4 size @ Security Room.",
+      "core_product_name": "color laser printer",
+      "acronymed_core_product_name": "",
+      "size": "paper size: a-4",
+      "feature_or_specifications": "feature: approved make, feature: latest model, feature: added feature acceptable, location: security room",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "4.2.8 | Supply  of color laser printer of approved make (latest model with added feature is also acceptable) complete as per specifications. A- 3 size @ Central Monitoring Hub (CMH.",
+      "core_product_name": "color laser printer",
+      "acronymed_core_product_name": "",
+      "size": "paper size: a-3",
+      "feature_or_specifications": "feature: approved make, feature: latest model, feature: added feature acceptable, location: central monitoring hub (cmh)",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "4.2.9 | Supply of heavy duty high speed dot matrix network printer  with minimum 550 CPS  at 10 CPI for invoice printing in 01 Nos Security room & 01 Nos in CHM Room,  complete as per specifications and tender document.",
+      "core_product_name": "dot matrix network printer",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: heavy duty, feature: high speed, speed: minimum 550 cps (characters per second), pitch: 10 cpi (characters per inch), feature: for invoice printing, location: security room and chm room",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "2010-02-04 00:00:00 | Supply of GSM modem for auto SMS for transmission after each stage of loading process for ESD as per specification.",
+      "core_product_name": "gsm modem",
+      "acronymed_core_product_name": "gsm modem",
+      "size": "",
+      "feature_or_specifications": "feature: auto sms for transmission after each stage of loading process, feature: for esd (emergency shutdown)",
+      "quantity": "2.0",
+      "unit": "Lot"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "2011-02-04 00:00:00 | Supply of 65\" LED monitor of reputated make to be installed at driver rest room for display of safety videos & slogans.",
+      "core_product_name": "led monitor",
+      "acronymed_core_product_name": "",
+      "size": "screen size: 65 inch",
+      "feature_or_specifications": "feature: reputed make, location: driver rest room, feature: for display of safety videos & slogans",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "2012-02-04 00:00:00 | Supply of 55\" LED monitor of reputated make to be installed at admistrative building Lobby area for plant & safety monitoring & instruction shall be in scope. Scope also includes interfacing with OIC, PAGA & TAS server including cable supply,laying and termination as needed.",
+      "core_product_name": "led monitor",
+      "acronymed_core_product_name": "",
+      "size": "screen size: 55 inch",
+      "feature_or_specifications": "feature: reputed make, location: administrative building lobby area, feature: for plant & safety monitoring, feature: interfacing with oic (operator interface console), paga (public address and general alarm), tas (terminal automation software) server, feature: cable supply, laying and termination",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "2013-02-04 00:00:00 | Supply of UPS  Power Distribution Panel for  powering PLC Panel, ESD System Panel, LRCS,   OIC & EWS stations, TFMS System, TTES, Bay Instruments , Tank Farm Instruments , CCTV system ,  local control panels, Fire Detection System,fire alarm panels, Access control system, pnuematic, header line instruments and other TAS equipments where UPS  power are required for smooth un- interrupted operation  as per OEMs recommendation.  Miscellaneous Instrumentation  comprising of suitable MCCBs for Isolation etc to be provided. The panel shall be complete in all respects with necessary indication lamps for powering, necessary control wiring voltmeter, ammeter etc & as per specifications and tender document. Note: Minimum 20% spare power points to be made available for future use.",
+      "core_product_name": "ups power distribution panel",
+      "acronymed_core_product_name": "ups power distribution panel",
+      "size": "",
+      "feature_or_specifications": "feature: for powering plc (programmable logic controller) panel, esd (emergency shutdown) system panel, lrcs, oic (operator interface console) & ews (engineering workstation) stations, tfms (tank farm management system) system, ttes, bay instruments, tank farm instruments, cctv (closed circuit television) system, local control panels, fire detection system, fire alarm panels, access control system, pneumatic, header line instruments, tas (terminal automation software) equipments, feature: for uninterrupted operation, feature: as per oem recommendation, feature: suitable mccbs (molded case circuit breakers) for isolation, feature: indication lamps, feature: control wiring, voltmeter, ammeter, feature: minimum 20% spare power points",
+      "quantity": "1.0",
+      "unit": "Lot"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "2014-02-04 00:00:00 | Supply  of Open desk operator consoles in CMH room: -CAROUSAL -SAP -ACS -EWS/OWS -TFMS -GMS -CCTV Supply  of Open desk operator consoles in Security Room: -WEIGH BRIDGE -CYLINDER INVETORY -CCTV Each console will consists of nessary electrical wirring, 2 Nos. Sockets, 2 Nos. buttons, MCBs as required, LIght, Louvers & FAN number as required.)",
+      "core_product_name": "open desk operator console",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "location: cmh (central monitoring hub) room, feature: carousal, sap (systems, applications, and products), acs (access control system), ews (engineering workstation)/ows (operator workstation), tfms (tank farm management system), gms (gas monitoring system), cctv (closed circuit television), location: security room, feature: weigh bridge, cylinder inventory, cctv, feature: electrical wiring, sockets: 2 nos., buttons: 2 nos., mcbs (miniature circuit breakers) as required, light, louvers, fan number as required",
+      "quantity": "10.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "2015-02-04 00:00:00 | Supply of Computer chairs (Make: Godrej or equivalent) - -03 Nos for Central Monitoring Hub (CMH) -02 Nos for Security Room",
+      "core_product_name": "computer chair",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "manufacturer: godrej or equivalent, quantity for cmh: 3 nos., quantity for security room: 2 nos.",
+      "quantity": "5.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "2016-02-04 00:00:00 | Supply of  Table (Make: Godrej or equivalent) for printer  in security room/ Central Monitoring Hub (CMH) - 1 nos. for security room (main gate) & 1no.in CMH Room.",
+      "core_product_name": "table",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "manufacturer: godrej or equivalent, location: security room (main gate), location: cmh (central monitoring hub) room, for printer",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "SECURITY GATES  & TRUCK PARKING AREA",
+      "full_product_description": "5.1 | Supply  of electrically operated barrier gates(boom length to sute the site requirement, approx. 4 mtr.) with  detection mechanism, manual bypass control with EX-proof motor, Exproof Traffic lamp & electronics etc. with configurable closing & opening time  with sensors for detection of vehicle crossing the barrier etc. complete with supporting structure, fittings, cable supports complete as per specification. The gates are required for  Security Entry and exit at licence area. 1 set. for packed truck Entry (4 m), 1 set for packed truck Exit (4 m).",
+      "core_product_name": "electrically operated barrier gate",
+      "acronymed_core_product_name": "",
+      "size": "boom length: approx. 4 m",
+      "feature_or_specifications": "feature: detection mechanism, feature: manual bypass control, feature: ex-proof (explosion proof) motor, feature: exproof traffic lamp, feature: electronics, feature: configurable closing & opening time, feature: sensors for detection of vehicle crossing, feature: supporting structure, fittings, cable supports, location: security entry and exit at licence area, packed truck entry and exit",
+      "quantity": "2.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "SECURITY GATES  & TRUCK PARKING AREA",
+      "full_product_description": "5.2 | Supply  of electrically operated barrier gates(boom length to sute the site requirement, approx. 7 mtr.) with  detection mechanism, manual bypass control with EX-proof motor, Exproof Traffic lamp & electronics etc. with configurable closing & opening time  with sensors for detection of vehicle crossing the barrier etc. complete with supporting structure, fittings, cable supports complete as per specification. The gates are required for  Security Entry and exit at licence area. 1 no. at bulk truck Entry/EXIT (7 m).",
+      "core_product_name": "electrically operated barrier gate",
+      "acronymed_core_product_name": "",
+      "size": "boom length: approx. 7 m",
+      "feature_or_specifications": "feature: detection mechanism, feature: manual bypass control, feature: ex-proof (explosion proof) motor, feature: exproof traffic lamp, feature: electronics, feature: configurable closing & opening time, feature: sensors for detection of vehicle crossing, feature: supporting structure, fittings, cable supports, location: security entry and exit at licence area, bulk truck entry/exit",
+      "quantity": "1.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.1 | Supply of Biometric fingerprint cum contactless type smart card reader (entry side, inside Central Monitoring Hub (CMH))   along with ectromagnetic door lock 600 lb, panic bar for fire exit doors, door position magnetic contact with buzzer as per specifications. One more magnetic latch along with push button  shall be provided for emergency exit door, Main security room.",
+      "core_product_name": "biometric fingerprint cum contactless type smart card reader",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "location: entry side, inside central monitoring hub (cmh), feature: electromagnetic door lock 600 lb, feature: panic bar for fire exit doors, feature: door position magnetic contact with buzzer, feature: magnetic latch with push button for emergency exit door, main security room",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.2 | Supply of Biometric fingerprint cum contactless type smart card reader (Outdoor) along with accessories including controller, software and programming kit as per specification. (Entry & Exit both side)",
+      "core_product_name": "biometric fingerprint cum contactless type smart card reader",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "location: outdoor, feature: accessories including controller, software, programming kit, entry & exit both side",
+      "quantity": "3.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.3 | Supply of Access Control System Software for setup, configuration, operation, events, history and archiving, alarm monitoring, recording, printing, time and attendance etc. complete as per specification and tender specifications including ESD input from PLC.",
+      "core_product_name": "access control system software",
+      "acronymed_core_product_name": "acs software",
+      "size": "",
+      "feature_or_specifications": "feature: setup, configuration, operation, events, history, archiving, alarm monitoring, recording, printing, time and attendance, feature: esd (emergency shutdown) input from plc (programmable logic controller)",
+      "quantity": "1.0",
+      "unit": "LS"
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.4 | Supply of Visitor Management Software complete as per specificationand tender specifications.",
+      "core_product_name": "visitor management software",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.5 | Supply of ACS server computer with 22\"color led monitor , standard keyboard, video camera loaded with ACS software for CMH room etc. complete as per specifications.",
+      "core_product_name": "acs server computer",
+      "acronymed_core_product_name": "acs server computer",
+      "size": "monitor size: 22 inch",
+      "feature_or_specifications": "feature: color led monitor, feature: standard keyboard, feature: video camera, feature: loaded with acs (access control system) software, location: cmh (central monitoring hub) room",
+      "quantity": "1.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.6 | Supply of Client Computer of ACS / Visitor Management with 22\"color led monitor, standardkeyboard, OS, Antivirus, video camera etc including installation of ACS software for ID badging & issuing of Visitor pass at security Room  etc. complete as per specifications.",
+      "core_product_name": "client computer",
+      "acronymed_core_product_name": "",
+      "size": "monitor size: 22 inch",
+      "feature_or_specifications": "feature: for acs (access control system) / visitor management, feature: color led monitor, feature: standard keyboard, feature: os (operating system), feature: antivirus, feature: video camera, feature: installation of acs software for id badging & issuing of visitor pass, location: security room",
+      "quantity": "1.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.7 | Supply of the multizone door frame metallic detector as per specification.",
+      "core_product_name": "multizone door frame metallic detector",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.8 | Supply of smart cards for Biometric fingerprint cum contactless type smart card reader as per the specification and tender document.",
+      "core_product_name": "smart card",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "for biometric fingerprint cum contactless type smart card reader",
+      "quantity": "50.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.9 | Supply of half height turnstile (tripod) as per specification.",
+      "core_product_name": "half height turnstile",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: tripod",
+      "quantity": "3.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.1 | Supply of SS 304 guiding rail as per specification.",
+      "core_product_name": "guiding rail",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: ss 304 (stainless steel 304)",
+      "quantity": "30.0",
+      "unit": "RM"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "7.1 | Supply of Static Weighing bridge (50 MT) located at near to Central Monitoring Hub (CMH) with load cells with all accessories (load cells, like cable from field to Central Monitoring Hub (CMH), JB, instruments, Jumbo Display for TT  etc.) The rate shall include Static weighing bridges local marshalling / control panel . Vendor to provide Static Weighing bridge local marshalling/ control panel protocol free of cost to M/s IOCL. Supply & installation of Jumbo display for TTs is also included.",
+      "core_product_name": "static weighing bridge",
+      "acronymed_core_product_name": "",
+      "size": "capacity: 50 MT",
+      "feature_or_specifications": "location: near to central monitoring hub (CMH), accessories: load cells, cable from field to central monitoring hub (CMH), JB (junction box), instruments, jumbo display for TT, includes: static weighing bridges local marshalling/control panel, protocol: local marshalling/control panel protocol free of cost to M/s IOCL, supply & installation: jumbo display for TTs included",
+      "quantity": "1.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.1.1 | supply of bourdon type pressure gauge with range 0~ 25kg/cm2. Pressure gauge- IP-66 , SS316 bourdon,zero adjustment facility, micrometer screw type pointer, ±1% accuracy with  all accessories.",
+      "core_product_name": "pressure gauge",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~25 kg/cm2",
+      "feature_or_specifications": "type: bourdon, protection: IP-66, bourdon material: ss316 (stainless steel 316), feature: zero adjustment facility, pointer: micrometer screw type, accuracy: ±1%, accessories: all accessories",
+      "quantity": "4.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.1.2 | supply of bourdon type pressure gauge with range 0~ 16kg/cm2. Pressure gauge- IP-66 , SS316 bourdon,zero adjustment facility, micrometer screw type pointer, ±1% accuracy with  all accessories.",
+      "core_product_name": "pressure gauge",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~16 kg/cm2",
+      "feature_or_specifications": "type: bourdon, protection: IP-66, bourdon material: ss316 (stainless steel 316), feature: zero adjustment facility, pointer: micrometer screw type, accuracy: ±1%, accessories: all accessories",
+      "quantity": "24.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.1.3 | supply of bourdon type pressure gauge with range 0~ 10kg/cm2. Pressure gauge- IP-66 , SS316 bourdon,zero adjustment facility, micrometer screw type pointer, ±1% accuracy with  all accessories.",
+      "core_product_name": "pressure gauge",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~10 kg/cm2",
+      "feature_or_specifications": "type: bourdon, protection: IP-66, bourdon material: ss316 (stainless steel 316), feature: zero adjustment facility, pointer: micrometer screw type, accuracy: ±1%, accessories: all accessories",
+      "quantity": "21.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.1.4 | supply of bourdon type pressure gauge with range 0~ 6kg/cm2. Pressure gauge- IP-66 , SS316 bourdon,zero adjustment facility, micrometer screw type pointer, ±1% accuracy with  all accessories.",
+      "core_product_name": "pressure gauge",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~6 kg/cm2",
+      "feature_or_specifications": "type: bourdon, protection: IP-66, bourdon material: ss316 (stainless steel 316), feature: zero adjustment facility, pointer: micrometer screw type, accuracy: ±1%, accessories: all accessories",
+      "quantity": "4.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.2.1 | Supply of presssure transmitter with calibration range 0~ 25 kg/cm2. Pressure & Differential pressure transmitter",
+      "core_product_name": "pressure transmitter",
+      "acronymed_core_product_name": "",
+      "size": "calibration range: 0~25 kg/cm2",
+      "feature_or_specifications": "",
+      "quantity": "6.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.3.1 | Supply of tempreture transmitter  with calibration range 0~ 100°C   alonge with tempreture elements & cable from element to transmitter. Tempreture Transmitter",
+      "core_product_name": "temperature transmitter",
+      "acronymed_core_product_name": "",
+      "size": "calibration range: 0~100°C",
+      "feature_or_specifications": "accessories: temperature elements & cable from element to transmitter",
+      "quantity": "3.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.4.1 | Supply of level gauge. level gauge- Description:-Transperent Type,IP-66, C To C distance: HOLD, SS float, Vent & Drain Plug: 3/4 \" NPT , Flange:1 1/2\" 300#  RF, Zone-1 IIA/IIB",
+      "core_product_name": "level gauge",
+      "acronymed_core_product_name": "",
+      "size": "vent & drain plug: 3/4\" NPT, flange: 1 1/2\" 300# RF, c to c distance: HOLD",
+      "feature_or_specifications": "type: transparent, protection: IP-66, float material: ss (stainless steel), zone: 1 IIA/IIB",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.5.1 | Supply of tempreture gauge with range 0 ~ 100°C. Temprature gauge: all angle type, 1.5\" 300#  RF well connection, 1/2\" NPT gauge,150mm dial size, SS316 material, shatterproof glass",
+      "core_product_name": "temperature gauge",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~100°C, well connection: 1.5\" 300# RF, gauge connection: 1/2\" NPT, dial size: 150mm",
+      "feature_or_specifications": "type: all angle, material: ss316 (stainless steel 316), glass: shatterproof",
+      "quantity": "5.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.6.1. | Supply of Electromagnetic Flow meter with range 0 ~ 50 m3/hr. Electromagnetic Flow  meter: For  water line of 100mm.",
+      "core_product_name": "electromagnetic flow meter",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~50 m3/hr, water line: 100mm",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.8.1 | Supply of Magnetic Flow Switch with range 0 ~ 15m3/hr. Flow  Switch: For  Water application and line size is 25mm.",
+      "core_product_name": "magnetic flow switch",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~15 m3/hr, line size: 25mm",
+      "feature_or_specifications": "application: water",
+      "quantity": "4.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.8.1 | Supply of Float type level switch with range of 0 ~ 3 mtr. Level Switch: Level Switch for waste water in plant Sumps.",
+      "core_product_name": "float type level switch",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~3 mtr",
+      "feature_or_specifications": "application: waste water in plant sumps",
+      "quantity": "3.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "JUNCTION BOXES  WITH SPARES ACCESSORIES, ALL REQUIRED  COMPONENTS AS PER  ITB SPECIFICATIONS AND DOCUMENTS/ DRAWINGS INCLUDING DOCUMENTATION, TECHNICAL DISCUSSIONS, CORRESPONDENCES, TESTING, INSPECTION, PACKING, TRANSPORTATION TO SITE, GUARANTEE  ETC.",
+      "full_product_description": "9.1.1 | Supply of  Signal Junction Box (BLUE) : Flame proof /ex-proof,  Die cast AL LM6  body, 12 inlet+2 outlet  as per specification suitable for hazardous area of zone 1, group  IIA/IIB, T3 ,having PESO/CMIFR approval. It shall be complete in all respect. Accessories like certified flameproof /exproof  SS316 double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners. Complete as per specifications /  documents. Junction for Field Instruments",
+      "core_product_name": "signal junction box",
+      "acronymed_core_product_name": "",
+      "size": "inlet: 12, outlet: 2",
+      "feature_or_specifications": "color: blue, flame proof: yes, ex-proof: yes, body material: die cast AL LM6 (aluminium LM6), area suitability: hazardous area of zone 1, group IIA/IIB, temperature class: T3, approval: PESO/CMIFR, accessories: certified flameproof/exproof SS316 (stainless steel 316) double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners, specification: as per specifications/documents",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "JUNCTION BOXES  WITH SPARES ACCESSORIES, ALL REQUIRED  COMPONENTS AS PER  ITB SPECIFICATIONS AND DOCUMENTS/ DRAWINGS INCLUDING DOCUMENTATION, TECHNICAL DISCUSSIONS, CORRESPONDENCES, TESTING, INSPECTION, PACKING, TRANSPORTATION TO SITE, GUARANTEE  ETC.",
+      "full_product_description": "9.1.2 | Supply of  Signal Junction Box (BLUE) : Flame proof /ex-proof,  Die cast AL LM6  body, 6 inlet+2 outlet  as per specification suitable for hazardous area of zone 1, group  IIA/IIB, T3 ,having PESO/CMIFR approval. It shall be complete in all respect. Accessories like certified flameproof /exproof  SS316 double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners. Complete as per specifications /  documents. Junction for Field Instruments",
+      "core_product_name": "signal junction box",
+      "acronymed_core_product_name": "",
+      "size": "inlet: 6, outlet: 2",
+      "feature_or_specifications": "color: blue, flame proof: yes, ex-proof: yes, body material: die cast AL LM6 (aluminium LM6), area suitability: hazardous area of zone 1, group IIA/IIB, temperature class: T3, approval: PESO/CMIFR, accessories: certified flameproof/exproof SS316 (stainless steel 316) double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners, specification: as per specifications/documents",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "JUNCTION BOXES  WITH SPARES ACCESSORIES, ALL REQUIRED  COMPONENTS AS PER  ITB SPECIFICATIONS AND DOCUMENTS/ DRAWINGS INCLUDING DOCUMENTATION, TECHNICAL DISCUSSIONS, CORRESPONDENCES, TESTING, INSPECTION, PACKING, TRANSPORTATION TO SITE, GUARANTEE  ETC.",
+      "full_product_description": "9.1.3 | Control Junction Box(GREY):Flame proof /ex-proof, Die cast AL LM6  body, 12 inlet+2 outlet   as per specification suitable for hazardous area of zone 1, group  IIA/IIB, T3 or better having PESO/CMIFR approval. It shall be complete in all respect. Accessories like certified flameproof /exproof  SS316 double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners. Complete as per specifications /  documents. Junction for Field Instruments",
+      "core_product_name": "control junction box",
+      "acronymed_core_product_name": "",
+      "size": "inlet: 12, outlet: 2",
+      "feature_or_specifications": "color: grey, flame proof: yes, ex-proof: yes, body material: die cast AL LM6 (aluminium LM6), area suitability: hazardous area of zone 1, group IIA/IIB, temperature class: T3 or better, approval: PESO/CMIFR, accessories: certified flameproof/exproof SS316 (stainless steel 316) double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners, specification: as per specifications/documents",
+      "quantity": "6.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "JUNCTION BOXES  WITH SPARES ACCESSORIES, ALL REQUIRED  COMPONENTS AS PER  ITB SPECIFICATIONS AND DOCUMENTS/ DRAWINGS INCLUDING DOCUMENTATION, TECHNICAL DISCUSSIONS, CORRESPONDENCES, TESTING, INSPECTION, PACKING, TRANSPORTATION TO SITE, GUARANTEE  ETC.",
+      "full_product_description": "9.1.4 | Supply of  Power Junction Box (GREY): Flame proof /ex-proof, Die cast AL LM6  body, 12 inlet+2 outlet  as per specification suitable for hazardous area of zone 1, group  IIA/IIB, T3 or better having PESO/CMIFR approval. It shall be complete in all respect. Accessories like certified double compression cable glands with PVC shrouds & plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners. Complete as per specifications /  documents. Junction for Field Instruments",
+      "core_product_name": "power junction box",
+      "acronymed_core_product_name": "",
+      "size": "inlet: 12, outlet: 2",
+      "feature_or_specifications": "color: grey, flame proof: yes, ex-proof: yes, body material: die cast AL LM6 (aluminium LM6), area suitability: hazardous area of zone 1, group IIA/IIB, temperature class: T3 or better, approval: PESO/CMIFR, accessories: certified double compression cable glands with PVC shrouds & plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners, specification: as per specifications/documents",
+      "quantity": "7.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "JUNCTION BOXES  WITH SPARES ACCESSORIES, ALL REQUIRED  COMPONENTS AS PER  ITB SPECIFICATIONS AND DOCUMENTS/ DRAWINGS INCLUDING DOCUMENTATION, TECHNICAL DISCUSSIONS, CORRESPONDENCES, TESTING, INSPECTION, PACKING, TRANSPORTATION TO SITE, GUARANTEE  ETC.",
+      "full_product_description": "9.1.5 | Junction Boxes Ex proof-EExd  (JBP ) Terminals  for  LINE,  NEUTRAL,  shall  be isolation breakers  : All  terminals  suitable  for  240 V AC  ,   Exd  type 12 nos. ½” NPTF cable entries at sides + 2 Nos. cable entries  at bottom  ; complete with suitable size double compressor SS316 Flame proof Glands with  Check  Nuts  & gaskets. Junction for Field Instruments",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "cable entries at sides: 12 nos. ½” NPTF, cable entries at bottom: 2 nos.",
+      "feature_or_specifications": "ex proof: EExd, type: JBP, terminals: for line, neutral, feature: isolation breakers, voltage: 240 V AC, type: Exd, accessories: suitable size double compressor SS316 (stainless steel 316) flame proof glands with check nuts & gaskets",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "JUNCTION BOXES  WITH SPARES ACCESSORIES, ALL REQUIRED  COMPONENTS AS PER  ITB SPECIFICATIONS AND DOCUMENTS/ DRAWINGS INCLUDING DOCUMENTATION, TECHNICAL DISCUSSIONS, CORRESPONDENCES, TESTING, INSPECTION, PACKING, TRANSPORTATION TO SITE, GUARANTEE  ETC.; Junction box  for DELUGE VALVE instruments  &  GAS DETECTORS",
+      "full_product_description": "9.2.1 | Supply of  Signal Junction Box (BLUE) : Flame proof /ex-proof,  Die cast AL LM6  body, 12 inlet+2 outlet  as per specification suitable for hazardous area of zone 1, group  IIA/IIB, T3 ,having PESO/CMIFR approval. It shall be complete in all respect. Accessories like certified flameproof /exproof  SS316 double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners. Complete as per specifications /  documents.",
+      "core_product_name": "signal junction box",
+      "acronymed_core_product_name": "",
+      "size": "inlet: 12, outlet: 2",
+      "feature_or_specifications": "color: blue, flame proof: yes, ex-proof: yes, body material: die cast AL LM6 (aluminium LM6), area suitability: hazardous area of zone 1, group IIA/IIB, temperature class: T3, approval: PESO/CMIFR (Petroleum and Explosives Safety Organisation/Central Mining Research Institute Fire Research), accessories: certified flameproof/exproof SS316 (stainless steel 316) double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners, specification: as per specifications/documents",
+      "quantity": "3.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "JUNCTION BOXES  WITH SPARES ACCESSORIES, ALL REQUIRED  COMPONENTS AS PER  ITB SPECIFICATIONS AND DOCUMENTS/ DRAWINGS INCLUDING DOCUMENTATION, TECHNICAL DISCUSSIONS, CORRESPONDENCES, TESTING, INSPECTION, PACKING, TRANSPORTATION TO SITE, GUARANTEE  ETC.; Junction box  for DELUGE VALVE instruments  &  GAS DETECTORS",
+      "full_product_description": "9.2.2 | Control Junction Box(GREY):Flame proof /ex-proof, Die cast AL LM6  body, 12 inlet+2 outlet   as per specification suitable for hazardous area of zone 1, group  IIA/IIB, T3 or better having PESO/CMIFR approval. It shall be complete in all respect. Accessories like certified flameproof /exproof  SS316 double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners. Complete as per specifications /  documents.",
+      "core_product_name": "control junction box",
+      "acronymed_core_product_name": "",
+      "size": "inlet: 12, outlet: 2",
+      "feature_or_specifications": "color: grey, flame proof: yes, ex-proof: yes, body material: die cast AL LM6 (aluminium LM6), area suitability: hazardous area of zone 1, group IIA/IIB, temperature class: T3 or better, approval: PESO/CMIFR (Petroleum and Explosives Safety Organisation/Central Mining Research Institute Fire Research), accessories: certified flameproof/exproof SS316 (stainless steel 316) double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners, specification: as per specifications/documents",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "JUNCTION BOXES  WITH SPARES ACCESSORIES, ALL REQUIRED  COMPONENTS AS PER  ITB SPECIFICATIONS AND DOCUMENTS/ DRAWINGS INCLUDING DOCUMENTATION, TECHNICAL DISCUSSIONS, CORRESPONDENCES, TESTING, INSPECTION, PACKING, TRANSPORTATION TO SITE, GUARANTEE  ETC.; Junction box  for DELUGE VALVE instruments  &  GAS DETECTORS",
+      "full_product_description": "9.2.3 | Supply of  Junction Box(blue) for spot type IR gas detectors:Flame proof /ex-proof, Die cast AL LM6  body, 12 inlet+2 outlet   as per specification suitable for hazardous area of zone 1, group  IIA/IIB, T3 or better having PESO/CMIFR approval. It shall be complete in all respect. Accessories like certified  flameproof /exproof  SS316 double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners. Complete as per specifications /  documents.",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "inlet: 12, outlet: 2",
+      "feature_or_specifications": "color: blue, application: for spot type IR (infrared) gas detectors, flame proof: yes, ex-proof: yes, body material: die cast AL LM6 (aluminium LM6), area suitability: hazardous area of zone 1, group IIA/IIB, temperature class: T3 or better, approval: PESO/CMIFR (Petroleum and Explosives Safety Organisation/Central Mining Research Institute Fire Research), accessories: certified flameproof/exproof SS316 (stainless steel 316) double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners, specification: as per specifications/documents",
+      "quantity": "4.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "ESD PUSH  BUTTON STATION FOR ESD-ROV",
+      "full_product_description": "10.1 | Supply  of EX-proof/flameproof  ESD Push button  station with  all accessories  mounted at local nearby of ROV (as per IOCL instruction)  for  Emergecy shut down of  ROV .  1 PB station shall be used for 1 no. ESD ROV closed only.",
+      "core_product_name": "esd push button station",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "flame proof: yes, ex-proof: yes, mounting: at local nearby of ROV (remotely operated valve) as per IOCL (Indian Oil Corporation Limited) instruction, application: for emergency shut down of ROV, accessories: all accessories included, usage: 1 push button station for 1 ESD ROV closed only",
+      "quantity": "10.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.01 | 01P  X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "signal cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 1 pair, cross section: 1.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC, shielding: overall shielded",
+      "quantity": "1101.9",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.02 | 01T X 2.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "signal cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 1 triad, cross section: 2.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC, shielding: overall shielded",
+      "quantity": "571.2",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.03 | 02C X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "control cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 2 core, cross section: 1.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC",
+      "quantity": "7286.6",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.04 | 02P  X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "signal cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 2 pair, cross section: 1.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC, shielding: overall shielded",
+      "quantity": "538.02",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.05 | 03C X 2.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "control cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 3 core, cross section: 2.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC",
+      "quantity": "3625.0",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.06 | 03C X 4.0 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "control cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 3 core, cross section: 4.0 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC",
+      "quantity": "250.0",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.07 | 03C X 6.0 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "control cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 3 core, cross section: 6.0 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC",
+      "quantity": "200.0",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.08 | 04C X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "control cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 4 core, cross section: 1.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC",
+      "quantity": "1669.44",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.09 | 04C X 2.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "control cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 4 core, cross section: 2.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC",
+      "quantity": "1094.46",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.1 | 04P  X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "signal cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 4 pair, cross section: 1.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC, shielding: overall shielded",
+      "quantity": "350.0",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.11 | 05C X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "control cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 5 core, cross section: 1.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC",
+      "quantity": "1496.34",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.12 | 06P  X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "signal cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 6 pair, cross section: 1.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC, shielding: overall shielded",
+      "quantity": "539.58",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.13 | 06T X 2.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "signal cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 6 triad, cross section: 2.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC, shielding: overall shielded",
+      "quantity": "211.14",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.14 | 12C X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "control cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 12 core, cross section: 1.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC",
+      "quantity": "1644.62",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.15 | 12C X 2.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "control cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 12 core, cross section: 2.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC",
+      "quantity": "211.14",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.16 | 12P  X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "signal cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 12 pair, cross section: 1.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC, shielding: overall shielded",
+      "quantity": "234.6",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.17 | 10T X 2.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "signal cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 10 triad, cross section: 2.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC, shielding: overall shielded",
+      "quantity": "758.88",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.18 | 24C X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "control cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 24 core, cross section: 1.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC",
+      "quantity": "1149.54",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.19 | 24C X 2.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "control cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 24 core, cross section: 2.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC",
+      "quantity": "744.6",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.2 | 36C X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "control cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 36 core, cross section: 1.5 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC",
+      "quantity": "298.86",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.21 | RS485 CABLE",
+      "core_product_name": "rs485 cable",
+      "acronymed_core_product_name": "rs485 cable",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "4279.92",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.22 | Supply  of Cat 6 cable.accessories like lugs, adapter, blank plate & patch cord etc as required is included",
+      "core_product_name": "cat 6 cable",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "accessories: lugs, adapter, blank plate & patch cord etc as required is included",
+      "quantity": "590.0",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.23 | Supply  of 24 core OF armod cable in HDPE duct .OFC accessories like 12/24  port LIU, splice tray, loaded adapter, blank plate & patch cord etc as required is included",
+      "core_product_name": "ofc cable",
+      "acronymed_core_product_name": "ofc cable",
+      "size": "core: 24 core",
+      "feature_or_specifications": "armoured: yes, duct: HDPE (high density polyethylene), accessories: 12/24 port LIU (line interface unit), splice tray, loaded adapter, blank plate & patch cord etc as required is included",
+      "quantity": "2205.0",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENT CABLES",
+      "full_product_description": "11.24 | 04P  X 0.8 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "signal cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 4 pair, cross section: 0.8 mm2",
+      "feature_or_specifications": "insulation: PVC (polyvinyl chloride), armoured: yes, sheath: FRLS (flame retardant low smoke) PVC, shielding: overall shielded",
+      "quantity": "2010.0",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "2030-01-12 00:00:00 | GASKET -1/2\" -150#  -SS316 GRAPHITE WITH SPIRAL WOUND",
+      "core_product_name": "gasket",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 1/2\"",
+      "feature_or_specifications": "pressure rating: 150#, material: SS316 (stainless steel 316), filler: graphite, type: spiral wound",
+      "quantity": "21.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "2031-01-12 00:00:00 | GASKET -1/2\" -150#  -SS316 GRAPHITE WITH SPIRAL WOUND",
+      "core_product_name": "gasket",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 1/2\"",
+      "feature_or_specifications": "pressure rating: 150#, material: SS316 (stainless steel 316), filler: graphite, type: spiral wound",
+      "quantity": "21.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "2032-01-12 00:00:00 | GASKET -4\"D -300#  -SS316 GRAPHITE WITH SPIRAL WOUND",
+      "core_product_name": "gasket",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 4\"",
+      "feature_or_specifications": "pressure rating: 300#, material: SS316 (stainless steel 316), filler: graphite, type: spiral wound",
+      "quantity": "3.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "2033-01-12 00:00:00 | GASKET -2\"D -150#  -SS316 GRAPHITE WITH SPIRAL WOUND",
+      "core_product_name": "gasket",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 2\"",
+      "feature_or_specifications": "pressure rating: 150#, material: SS316 (stainless steel 316), filler: graphite, type: spiral wound",
+      "quantity": "3.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "2034-01-12 00:00:00 | GASKET -6\"D -300#  -SS316 GRAPHITE WITH SPIRAL WOUND",
+      "core_product_name": "gasket",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 6\"",
+      "feature_or_specifications": "pressure rating: 300#, material: SS316 (stainless steel 316), filler: graphite, type: spiral wound",
+      "quantity": "9.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "2035-01-12 00:00:00 | GASKET -2\"D -150#  -SS316 GRAPHITE WITH SPIRAL WOUND",
+      "core_product_name": "gasket",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 2\"",
+      "feature_or_specifications": "pressure rating: 150#, material: SS316 (stainless steel 316), filler: graphite, type: spiral wound",
+      "quantity": "3.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "2036-01-12 00:00:00 | STUDS  AND NUTS -1/2\" x 75MM -300#  -SS316 GRAPHITE WITH SPIRAL WOUND",
+      "core_product_name": "studs and nuts",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 1/2\", length: 75 mm",
+      "feature_or_specifications": "pressure rating: 300#, material: SS316 (stainless steel 316), filler: graphite, type: spiral wound",
+      "quantity": "84.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "2037-01-12 00:00:00 | STUDS  AND NUTS -1/2\" x 75MM -300#  -SS316 GRAPHITE WITH SPIRAL WOUND",
+      "core_product_name": "studs and nuts",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 1/2\", length: 75 mm",
+      "feature_or_specifications": "pressure rating: 300#, material: SS316 (stainless steel 316), filler: graphite, type: spiral wound",
+      "quantity": "84.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "12.2.1 | Supply  FRP  canopy as per drawing attached with SOR  for pressure transmitters, pressure switch & level switch (suitable for vertical as well as horizontal mounting)",
+      "core_product_name": "frp canopy",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: as per drawing attached with SOR for pressure transmitters, pressure switch & level switch (suitable for vertical as well as horizontal mounting)",
+      "quantity": "6.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "12.2.2 | Supply of Maintenance Free CPRI approved Earth Pit (Ashlok /Equivalent make) of minimum 3.8 mtr length T45 model/equivalent safe earthing electrode with Pipe-in-pipe technology consisting of two mild steel pipes one inside the other, hot dip galvanized (80-100 microns), filled with high conductive & corrosion resistance crystalline mixture and backfilling compound around electrode, 25 mm dia G.I. watering pipe with funnel, test link, brick masonry earth pit including plastering in CM 1:4, 600x600 mm C.I. Manhole chamber etc. Equivalent make shall be approved by client / consultants. Procedure recommended by  chemical earth supplier and IS code to be finally adopted. Item also includes provision of earth station flags with pit nos and date of inspection and the next due date of inspection. Job also includes provision of test certificate of earthing station from a licensed electrician as per the format of the Corporation",
+      "core_product_name": "earth pit",
+      "acronymed_core_product_name": "",
+      "size": "length: minimum 3.8 mtr, watering pipe diameter: 25 mm, manhole chamber: 600x600 mm",
+      "feature_or_specifications": "type: maintenance free, approval: CPRI (central power research institute), make: Ashlok or equivalent, model: T45 or equivalent, technology: pipe-in-pipe, material: mild steel (two pipes, one inside the other), coating: hot dip galvanized (80-100 microns), filling: high conductive & corrosion resistance crystalline mixture and backfilling compound, accessories: G.I. watering pipe with funnel, test link, brick masonry earth pit including plastering in CM 1:4, C.I. manhole chamber, earth station flags with pit nos and date of inspection and next due date, certificate: test certificate of earthing station from licensed electrician, standard: IS code (indian standard), approval: client/consultants",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "12.3 | SUPPLY & ERECTION  OF STRUCTURALS STEEL: Structural steel work riveted,bolted or welded in built up sections, trusses & framed work, including cutting, hoisting, fixing in position and applying a priming coat of approved steel primer all complete:",
+      "core_product_name": "structural steel work",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: riveted, bolted or welded in built up sections, trusses & framed work, including cutting, hoisting, fixing in position and applying a priming coat of approved steel primer all complete",
+      "quantity": "2.0",
+      "unit": "MT"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "13.01 | TONG TESTER",
+      "core_product_name": "tong tester",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "13.02 | MEGGER  TESTER",
+      "core_product_name": "megger tester",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "13.03 | EARTH TESTER",
+      "core_product_name": "earth tester",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "13.04 | PRESSURE GAUGE & TRANSMITTER TEST BENCH SET WITH OIL  + 2 LITER OIL AS SPARE",
+      "core_product_name": "pressure gauge and transmitter test bench set",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "accessories: oil + 2 liter oil as spare",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "13.05 | HAND HELD CALIBRATOR /HART CALIBRATOR  (UNIVERSAL TYPE )",
+      "core_product_name": "hand held calibrator or hart calibrator",
+      "acronymed_core_product_name": "hart calibrator",
+      "size": "",
+      "feature_or_specifications": "type: universal",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "13.06 | TEMPRETURE BATH SET FOR RANGE 0~ 200°C",
+      "core_product_name": "temperature bath set",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~200°C",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "13.07 | VIBRATION METER",
+      "core_product_name": "vibration meter",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "13.08 | GAS SENSOR CALIBRATOR  CYLINDER",
+      "core_product_name": "gas sensor calibrator cylinder",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "13.09 | LEL METER , IR TYPE , 0~100  VOL% , RESPONSE TIME - BELOW 20 SEC.",
+      "core_product_name": "lel meter",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~100 VOL%",
+      "feature_or_specifications": "type: IR, response time: below 20 sec.",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "13.1 | OXYGEN METER",
+      "core_product_name": "oxygen meter",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "13.11 | ELCOMETER",
+      "core_product_name": "elcometer",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "13.12 | DIGITAL LUX METER",
+      "core_product_name": "digital lux meter",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM",
+      "full_product_description": "14.1.1 | Supply of  UL listed HD IP Fixed Dome Camera with IR and MFZ (Motorized Focus & Zoom) Lens 2MP, 1/3'' or better Prograsive scan Cmos sensor , 32GB SD card, multi  streaming  , H.264,  PoE,  DC12V/AC24V,  IP 66 & IK 10  rated ,ONVIF with with features like Camera tampering, Network loss detectionand  all accessories etc. complete as required. for weather proof application including all the wall Mount accessories & pole mounting or accesories as per site requirement. -Wall Mounting Quantity - 12 Nos -Pole Mounting Camera Quantity - 01 Nos Camera shall be installed under driver rest roo, cylinder counting, central monitoring hub room, security path, bulk truck safety, PMCC Panel Room,  Fire water pump  house, Entrance of admin office, canteen, store, incharge room, training hall/conference room. Below mentioned items to be provide along with cameras: -Surge Protectors -Mounting Bracket same make as Camera",
+      "core_product_name": "hd ip fixed dome camera",
+      "acronymed_core_product_name": "",
+      "size": "lens: 2MP, sensor: 1/3'' or better, sd card: 32GB",
+      "feature_or_specifications": "listing: UL (underwriters laboratories), type: IR and MFZ (motorized focus & zoom), sensor: progressive scan CMOS, streaming: multi streaming, compression: H.264, power: PoE, DC12V/AC24V, rating: IP66, IK10, protocol: ONVIF, features: camera tampering, network loss detection, weather proof, accessories: wall mount accessories, pole mounting accessories, surge protectors, mounting bracket (same make as camera)",
+      "quantity": "13.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM",
+      "full_product_description": "14.1.2 | Supply of  UL listed IP Fixed Bullet Camera  with MFZ (Motorized Focus Zoom) lens of 8MP, 4k resolution , better Progresive scan CMOS sensor, 32GB SD card, WDR, multi  streaming  , H.264,  PoE,  DC12V/AC24V,  IP 67 ,ONVIF with Pole Mount accessories or accesory as per site requirement Cameras shall be installed under licensed entry & exit gate both for bulk and packed trucks, Main entry/Exit gate both for bul and packed trucs, external road at plant entry and exit. Below mentioned items to be provide along with cameras: -Surge Protectors -Mounting Bracket same make as Camera",
+      "core_product_name": "ip fixed bullet camera",
+      "acronymed_core_product_name": "",
+      "size": "lens: 8MP, resolution: 4k, sd card: 32GB",
+      "feature_or_specifications": "listing: UL (underwriters laboratories), type: MFZ (motorized focus zoom), sensor: progressive scan CMOS, WDR, streaming: multi streaming, compression: H.264, power: PoE, DC12V/AC24V, rating: IP67, protocol: ONVIF, accessories: pole mount accessories, surge protectors, mounting bracket (same make as camera)",
+      "quantity": "6.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM",
+      "full_product_description": "14.1.3 | Supply of  UL listed IP Fixed Box  Camera , 8MP lens, with 1/2.5'' or better Progresive scan CMOS sensor ,Varifocal lens (8MP) of 2.8 to 8.5mm, #4k Resolution, 32GB SD card, WDR,multi  streaming  , H.264,  PoE,  DC12V/AC24V,  IP 67 ,ONVIF with Pole Mount accessories or accesory as per site requirement. Cameras shall be installed over perimeter at 65 M gap (max).",
+      "core_product_name": "ip fixed box camera",
+      "acronymed_core_product_name": "",
+      "size": "lens: 8MP, sensor: 1/2.5'' or better, varifocal lens: 2.8 to 8.5mm, resolution: 4k, sd card: 32GB",
+      "feature_or_specifications": "listing: UL (underwriters laboratories), sensor: progressive scan CMOS, WDR, streaming: multi streaming, compression: H.264, power: PoE, DC12V/AC24V, rating: IP67, protocol: ONVIF, accessories: pole mount accessories",
+      "quantity": "15.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM",
+      "full_product_description": "14.1.4 | Supply of Full HD , 2MP,  IP PTZ Camera (for peripheral survilience in auto mode) with 30X HD optical zoom,  IP 66  Day/Night CCD/CMOS, 4.8 to 120 mm Lens, motorised varifocal ,  progressive scan, Wide Dynamic Range, Dual H.264  and M-JPEG simultaneously, digital signal processing, both PoE  and 12 VDC/24 VAC,  ONVIF conformant, UL Listed, POE  enabled,  complete with IP 66  Connectors, Lens, Camera Mounts, Power Supply  & all accessories complete as per specifiocation. Cameras shall be installed over perimeter in pair with Manual mode PTZ camera. Below mentioned items to be provide along with cameras: -Surge Protectors -Mounting Bracket same make as Camera",
+      "core_product_name": "ip ptz camera",
+      "acronymed_core_product_name": "ptz camera",
+      "size": "resolution: 2MP, optical zoom: 30X HD, lens: 4.8 to 120 mm",
+      "feature_or_specifications": "type: full HD, rating: IP66, day/night: CCD/CMOS, lens: motorised varifocal, sensor: progressive scan, feature: wide dynamic range, streaming: dual H.264 and M-JPEG, processing: digital signal processing, power: PoE and 12 VDC/24 VAC, protocol: ONVIF conformant, listing: UL (underwriters laboratories), POE enabled, accessories: IP66 connectors, lens, camera mounts, power supply, surge protectors, mounting bracket (same make as camera)",
+      "quantity": "6.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM",
+      "full_product_description": "14.1.5 | Supply of Full HD , 2MP,  IP PTZ Camera (for peripheral survilience in manual mode) with 30X HD optical zoom,  IP 66  Day/Night CCD/CMOS, 4.8 to 120 mm Lens, motorised varifocal ,  progressive scan, Wide Dynamic Range, Dual H.264  and M-JPEG simultaneously, digital signal processing, both PoE  and 12 VDC/24 VAC,  ONVIF conformant, UL Listed, POE  enabled,  complete with IP 66  Connectors, Lens, Camera Mounts, Power Supply  & all accessories complete as per specifiocation. Cameras shall be installed over perimeter in pair with Auto mode PTZ camera. Below mentioned items to be provide along with cameras: -Surge Protectors -Mounting Bracket same make as Camera",
+      "core_product_name": "ip ptz camera",
+      "acronymed_core_product_name": "ptz camera",
+      "size": "resolution: 2MP, optical zoom: 30X HD, lens: 4.8 to 120 mm",
+      "feature_or_specifications": "type: full HD, rating: IP66, day/night: CCD/CMOS, lens: motorised varifocal, sensor: progressive scan, feature: wide dynamic range, streaming: dual H.264 and M-JPEG, processing: digital signal processing, power: PoE and 12 VDC/24 VAC, protocol: ONVIF conformant, listing: UL (underwriters laboratories), POE enabled, accessories: IP66 connectors, lens, camera mounts, power supply, surge protectors, mounting bracket (same make as camera)",
+      "quantity": "6.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM",
+      "full_product_description": "14.1.6 | Supply of Full HD , 2MP,  IP PTZ Camera with 30X HD optical zoom,  IP 66  Day/Night CCD/CMOS, 4.8 to 120 mm Lens, motorised varifocal ,  progressive scan, Wide Dynamic Range, Dual H.264  and M-JPEG simultaneously, digital signal processing, both PoE  and 12 VDC/24 VAC,  ONVIF conformant, UL Listed, POE  enabled,  complete with IP 66  Connectors, Lens, Camera Mounts, Power Supply  & all accessories complete as per specifiocation. Cameras shall be installed in bulk storage area including manifold area, complete location of plant. Below mentioned items to be provide along with cameras: -Surge Protectors -Mounting Bracket same make as Camera",
+      "core_product_name": "ip ptz camera",
+      "acronymed_core_product_name": "ptz camera",
+      "size": "resolution: 2MP, optical zoom: 30X HD, lens: 4.8 to 120 mm",
+      "feature_or_specifications": "type: full HD, rating: IP66, day/night: CCD/CMOS, lens: motorised varifocal, sensor: progressive scan, feature: wide dynamic range, streaming: dual H.264 and M-JPEG, processing: digital signal processing, power: PoE and 12 VDC/24 VAC, protocol: ONVIF conformant, listing: UL (underwriters laboratories), POE enabled, accessories: IP66 connectors, lens, camera mounts, power supply, surge protectors, mounting bracket (same make as camera)",
+      "quantity": "2.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM",
+      "full_product_description": "14.1.7 | Supply of Fixed Ultra High Definition Panoramic camera not less than 8 MP with H.264  with high profile H.264 compression, constant 360 degee recording along with simultaneous multiple angles of view using one sensor, ONVIF, 3D client side Dewarping with no blind spots, POE  enabled, UL certified as per tender specification. Camera shall be installed in TT Parking area. Below mentioned items to be provide along with cameras: -Surge Protectors -Mounting Bracket same make as Camera",
+      "core_product_name": "fixed panoramic camera",
+      "acronymed_core_product_name": "",
+      "size": "resolution: not less than 8 MP",
+      "feature_or_specifications": "type: ultra high definition, compression: high profile H.264, recording: constant 360 degree, feature: simultaneous multiple angles of view using one sensor, protocol: ONVIF, feature: 3D client side dewarping, feature: no blind spots, power: POE enabled, certification: UL (underwriters laboratories), accessories: surge protectors, mounting bracket (same make as camera)",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM",
+      "full_product_description": "14.1.8 | Supply of Explosion proof ATEX Certified Fixed camera , MFZ Lens of 2MP, resolution of 1920x1080 pixels camera with progresive scan, with H.264  with high profile H.264 compression, lens of 3 - 9 mm Lens,DC-Iris, Day-Night 32 GB MicroSD/SDHC card Slot, 30fps, Multi streams, POE  enabled, UL certified. Camera shall be installed in hazardous areas such as LPG Pump  House, LPG Compressor House, Empty Cum Filling SHed, Loading- unloading shed, TLD bays. Below mentioned items to be provide along with cameras: -Surge Protectors -Mounting Bracket same make as Camera",
+      "core_product_name": "explosion proof fixed camera",
+      "acronymed_core_product_name": "",
+      "size": "lens: MFZ, resolution: 2MP, pixels: 1920x1080, lens: 3-9 mm, sd card: 32 GB",
+      "feature_or_specifications": "certification: ATEX, type: explosion proof, sensor: progressive scan, compression: high profile H.264, iris: DC-Iris, day-night, frame rate: 30fps, streaming: multi streams, power: POE enabled, certification: UL (underwriters laboratories), accessories: surge protectors, mounting bracket (same make as camera)",
+      "quantity": "5.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > NEWTORK SERVER & VIDEO MANAGEMENT SOFTWARE",
+      "full_product_description": "14.2.1 | Recording Server(s) with  the following minimum configuration Intel Xeon Quad Core Server 32 GB RAM 2 Gigabit NICs Windows Server 2012  R2 x64 Standard/Data Center OS and Application Volume - Disk Configuration: 2 x 300 GB minimum RAID 5 (with server redundancy) Live Database Disk Configuration: Connectivity Internal or Direct Attached 10 x 15K RPM 600GB  RAID 1 / RAID10",
+      "core_product_name": "recording server",
+      "acronymed_core_product_name": "",
+      "size": "ram: 32 GB, disk configuration: 2 x 300 GB minimum, live database disk: 10 x 15K RPM 600GB",
+      "feature_or_specifications": "processor: intel xeon quad core, network: 2 gigabit NICs, operating system: windows server 2012 R2 x64 standard/data center, disk configuration: RAID 5 (with server redundancy), live database disk configuration: RAID 1 or RAID10, connectivity: internal or direct attached",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > NEWTORK SERVER & VIDEO MANAGEMENT SOFTWARE",
+      "full_product_description": "14.2.2 | Supply of NAS based CCTV storage array (Cumulative 220 TB minimum) for NETWORK SERVER with centralized, scalable video storage, ideal for small to medium setups. The storage shall delivers total available throughput of 350 Mbps / 120 Streams for recording of  IP video streams as well as playback and export through the  client machine .It should have following hardware fetaure as minimum Processor  Intel® Xeon E3-1276 v3 or better, Operating System Microsoft® Windows®Server 2012  . It should have 1TB SSD  storage for Operating system.It should gave Internal Memory 32 GB DDR3 ECC or better. It should support RAID 6 feature for HDD redundancy and NVR should be UL listed. It should have Internal, RedundantcPower Supply.build up hard disk for min. 90 days recording. Supply of Dual Redundant Network Video Recorder(NVR) Server with min 21\" widescreen LED monitor(One no) with KVM switch complete as per specifications and Tender Document.",
+      "core_product_name": "nas based cctv storage array",
+      "acronymed_core_product_name": "nas cctv storage array",
+      "size": "storage: cumulative 220 TB minimum, ssd: 1TB, internal memory: 32 GB DDR3 ECC or better, hard disk: min. 90 days recording, monitor: min 21\" widescreen LED",
+      "feature_or_specifications": "for: network server, throughput: 350 Mbps or 120 streams, processor: intel xeon E3-1276 v3 or better, operating system: microsoft windows server 2012, RAID: RAID 6 for HDD redundancy, NVR: UL (underwriters laboratories) listed, power supply: internal, redundant, accessories: dual redundant network video recorder (NVR) server, KVM switch",
+      "quantity": "3.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > NEWTORK SERVER & VIDEO MANAGEMENT SOFTWARE",
+      "full_product_description": "14.2.3 | Supply of Video Management software licesnes",
+      "core_product_name": "video management software license",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "54.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > NEWTORK SERVER & VIDEO MANAGEMENT SOFTWARE",
+      "full_product_description": "14.2.4 | Supply of Advanced Analytics Software for all fixed cameras (including varifocal, Panoramic, MFZ fixed cameras) alongwith compatible Analytics Server with OS, Antivirus etc including analytic license for each camera complete as per specifications and Tender Document.",
+      "core_product_name": "advanced analytics software",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "for: all fixed cameras (including varifocal, panoramic, MFZ fixed cameras), includes: compatible analytics server with OS, antivirus, analytic license for each camera",
+      "quantity": "1.0",
+      "unit": "Lot"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > WORKSTATION  WITH CLIENT LINSENCE",
+      "full_product_description": "14.3.1 | Supply of workstation. The workstation shall have the following specifications:- Processor – Intel Core i7-4790 @ 3.60GHz Intel® HD Graphics 4600,Memory – Minimum 16 GB,Hard disks – 2TB SATA at 7200  rpms,OS- Windows 8.1/10, 64bit,Network Card – 1Gbit/s network card, Graphic card of minimum 2 GB memory. Location as mentioned below: -Central Monitoring Hub Room -Security Room -Admin Building Plant Manager Room",
+      "core_product_name": "workstation",
+      "acronymed_core_product_name": "",
+      "size": "memory: minimum 16 GB, hard disk: 2TB SATA at 7200 rpms, graphic card: minimum 2 GB memory",
+      "feature_or_specifications": "processor: intel core i7-4790 @ 3.60GHz, graphics: intel hd graphics 4600, operating system: windows 8.1 or 10, 64bit, network card: 1Gbit/s network card, location: central monitoring hub room, security room, admin building plant manager room",
+      "quantity": "3.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CCTV Central Monitoring Hub  (CMH) /SECURITY ROOM",
+      "full_product_description": "14.4.1 | Supply of 55\" Flat LED 4K Colour Monitors installed -Security Room -Admin Building (PM cabin)",
+      "core_product_name": "flat led 4k colour monitor",
+      "acronymed_core_product_name": "",
+      "size": "screen size: 55\"",
+      "feature_or_specifications": "type: flat, resolution: 4k, color: colour, location: security room, admin building (PM cabin)",
+      "quantity": "2.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CCTV Central Monitoring Hub  (CMH) /SECURITY ROOM",
+      "full_product_description": "14.4.2 | Supply  of 42 U Enclosure  cabinet/panel along with all accessories/component  for switches and server installation.",
+      "core_product_name": "enclosure cabinet or panel",
+      "acronymed_core_product_name": "",
+      "size": "height: 42 U",
+      "feature_or_specifications": "accessories: all accessories/component for switches and server installation",
+      "quantity": "1.0",
+      "unit": "Lot"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CABLE, SWITCHES AND ERECTION  MATERIAL",
+      "full_product_description": "14.5.1 | 4 port Industrial grade layer 2  Managed POE/POE+  Ethernet Switch for connecting Cameras with 4 No. RJ copper port and 2 Nos. optical fiber ports and surge protector as per specifications and Tender Document.",
+      "core_product_name": "industrial grade layer 2 managed poe ethernet switch",
+      "acronymed_core_product_name": "poe ethernet switch",
+      "size": "ports: 4 RJ copper, 2 optical fiber",
+      "feature_or_specifications": "type: industrial grade, layer: 2, managed: yes, POE/POE+, accessories: surge protector",
+      "quantity": "28.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CABLE, SWITCHES AND ERECTION  MATERIAL",
+      "full_product_description": "14.5.2 | Supply of  Layer 3 8 Port SFP  , 2SFP+ Ports Managed Switch with Dual internal Power Supply. To be installed in CR",
+      "core_product_name": "layer 3 managed switch",
+      "acronymed_core_product_name": "",
+      "size": "ports: 8 SFP, 2 SFP+",
+      "feature_or_specifications": "layer: 3, managed: yes, power supply: dual internal, installation: CR",
+      "quantity": "2.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CABLE, SWITCHES AND ERECTION  MATERIAL",
+      "full_product_description": "14.5.3 | Supply  of  Explosion Proof junction box  for field switches in licsence area",
+      "core_product_name": "explosion proof junction box",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "for: field switches, area: license area, type: explosion proof",
+      "quantity": "6.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CABLE, SWITCHES AND ERECTION  MATERIAL",
+      "full_product_description": "14.5.4 | Supply of  Layer 3 24 Port SFP  , 2SFP+ Ports Managed Switch with Dual internal Power Supply.",
+      "core_product_name": "layer 3 managed switch",
+      "acronymed_core_product_name": "",
+      "size": "ports: 24 SFP, 2 SFP+",
+      "feature_or_specifications": "layer: 3, managed: yes, power supply: dual internal",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CABLE, SWITCHES AND ERECTION  MATERIAL",
+      "full_product_description": "14.5.5 | Supply of  IP 65 junction box Box for keeping the field switches in non licsence area",
+      "core_product_name": "ip65 junction box",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "protection: IP65, for: field switches, area: non license area",
+      "quantity": "22.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CABLE, SWITCHES AND ERECTION  MATERIAL",
+      "full_product_description": "14.5.6 | Supply of 8 M with cantilever of 3 meter (Above ground) Hot Dip Galvanized Poles  along with foundation  & painting as per the tender specifications. This scope also includes supply, erection & fabrication of structural steel work for installation of JB & camera with industrial grade painting",
+      "core_product_name": "hot dip galvanized pole",
+      "acronymed_core_product_name": "",
+      "size": "height: 8 M, cantilever: 3 meter (above ground)",
+      "feature_or_specifications": "foundation: included, painting: as per tender specifications, includes: supply, erection & fabrication of structural steel work for installation of JB & camera, painting: industrial grade",
+      "quantity": "7.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CABLE, SWITCHES AND ERECTION  MATERIAL",
+      "full_product_description": "14.5.7 | Supply of 8 M with cantilever of 1.5 meter (Above ground) Hot Dip Galvanized Poles  along with foundation  & painting as per the tender specifications. This scope also includes supply, erection & fabrication of structural steel work for installation of JB & camera with industrial grade painting",
+      "core_product_name": "hot dip galvanized pole",
+      "acronymed_core_product_name": "",
+      "size": "height: 8 M, cantilever: 1.5 meter (above ground)",
+      "feature_or_specifications": "foundation: included, painting: as per tender specifications, includes: supply, erection & fabrication of structural steel work for installation of JB & camera, painting: industrial grade",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CABLE, SWITCHES AND ERECTION  MATERIAL",
+      "full_product_description": "14.5.8 | Supply of 8 M with 2 cantilevers (one at 8 m & second at 1.5 M) of 1.5 meter (Above ground) Hot Dip Galvanized Poles  along with foundation  & painting as per the tender specifications. This scope also includes supply, erection & fabrication of structural steel work for installation of JB & camera with industrial grade painting",
+      "core_product_name": "hot dip galvanized pole",
+      "acronymed_core_product_name": "",
+      "size": "height: 8 M, cantilevers: one at 8 m & second at 1.5 M of 1.5 meter (above ground)",
+      "feature_or_specifications": "foundation: included, painting: as per tender specifications, includes: supply, erection & fabrication of structural steel work for installation of JB & camera, painting: industrial grade",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CABLE, SWITCHES AND ERECTION  MATERIAL",
+      "full_product_description": "14.5.9 | Supply of 6 M with cantilever of 3 meter (Above ground) Hot Dip Galvanized Poles  along with foundation  & painting as per the tender specifications. This scope also includes supply, erection & fabrication of structural steel work for installation of JB & camera with industrial grade painting",
+      "core_product_name": "hot dip galvanized pole",
+      "acronymed_core_product_name": "",
+      "size": "height: 6 M, cantilever: 3 meter (above ground)",
+      "feature_or_specifications": "foundation: included, painting: as per tender specifications, includes: supply, erection & fabrication of structural steel work for installation of JB & camera, painting: industrial grade",
+      "quantity": "8.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CABLE, SWITCHES AND ERECTION  MATERIAL",
+      "full_product_description": "2010-05-14 00:00:00 | Supply of 6 M with cantilever of 1.5 meter (Above ground) Hot Dip Galvanized Poles  along with foundation  & painting as per the tender specifications. This scope also includes supply, erection & fabrication of structural steel work for installation of JB & camera with industrial grade painting",
+      "core_product_name": "hot dip galvanized pole",
+      "acronymed_core_product_name": "",
+      "size": "height: 6 M, cantilever: 1.5 meter (above ground)",
+      "feature_or_specifications": "foundation: included, painting: as per tender specifications, includes: supply, erection & fabrication of structural steel work for installation of JB & camera, painting: industrial grade",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CABLE, SWITCHES AND ERECTION  MATERIAL",
+      "full_product_description": "2011-05-14 00:00:00 | Supply of 6 M with 2 cantilevers (one at 8 m & second at 1.5 M) of 2.5 meter (Above ground) Hot Dip Galvanized Poles  along with foundation  & painting as per the tender specifications. This scope also includes supply, erection & fabrication of structural steel work for installation of JB & camera with industrial grade painting",
+      "core_product_name": "hot dip galvanized pole",
+      "acronymed_core_product_name": "",
+      "size": "height: 6 M, cantilevers: one at 8 m & second at 1.5 M of 2.5 meter (above ground)",
+      "feature_or_specifications": "foundation: included, painting: as per tender specifications, includes: supply, erection & fabrication of structural steel work for installation of JB & camera, painting: industrial grade",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CABLE, SWITCHES AND ERECTION  MATERIAL",
+      "full_product_description": "2012-05-14 00:00:00 | Supply of 10 M with cantilever of 1.5 meter (Above ground) Hot Dip Galvanized Poles  along with foundation  & painting as per the tender specifications. This scope also includes supply, erection & fabrication of structural steel work for installation of JB & camera with industrial grade painting",
+      "core_product_name": "hot dip galvanized pole",
+      "acronymed_core_product_name": "",
+      "size": "height: 10 M, cantilever: 1.5 meter (above ground)",
+      "feature_or_specifications": "foundation: included, painting: as per tender specifications, includes: supply, erection & fabrication of structural steel work for installation of JB & camera, painting: industrial grade",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CABLE, SWITCHES AND ERECTION  MATERIAL",
+      "full_product_description": "2013-05-14 00:00:00 | Supply of approx. 15 M (Above ground) Hot Dip Galvanized Poles  along with foundation  & painting as per the tender specifications. This scope also includes supply of structural steel work for installation of JB & camera with industrial grade painting",
+      "core_product_name": "hot dip galvanized pole",
+      "acronymed_core_product_name": "",
+      "size": "height: approx. 15 M (above ground)",
+      "feature_or_specifications": "foundation: included, painting: as per tender specifications, includes: supply of structural steel work for installation of JB & camera, painting: industrial grade",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CABLE, SWITCHES AND ERECTION  MATERIAL",
+      "full_product_description": "2014-05-14 00:00:00 | Supply of approx. 30 M (Above ground) Hot Dip Galvanized Poles  as per the tender specifications. This scope also includes supply of structural steel work for installation of JB & camera with industrial grade painting (foundation design shall be provided by E & I vendor, foundation construction shall be in IOCL scope)",
+      "core_product_name": "hot dip galvanized pole",
+      "acronymed_core_product_name": "",
+      "size": "height: approx. 30 M (above ground)",
+      "feature_or_specifications": "painting: as per tender specifications, includes: supply of structural steel work for installation of JB & camera, painting: industrial grade, foundation design: by E & I vendor, foundation construction: in IOCL scope",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CABLE, SWITCHES AND ERECTION  MATERIAL",
+      "full_product_description": "2015-05-14 00:00:00 | suppy of 2'' GI Pipe",
+      "core_product_name": "gi(galvanized iron) pipe",
+      "acronymed_core_product_name": "gi pipe",
+      "size": "diameter: 2 inch",
+      "feature_or_specifications": "",
+      "quantity": "1000.0",
+      "unit": "Mtrs"
+    },
+    {
+      "section_context_for_this_product_block": "UPS SYSTEM",
+      "full_product_description": "15.01 | 230V, 1-ph,2-wire- 2X25 kVA Parallel redundant, UPS  system with static bypass supply along with suitable Ahrs. rating of  Ni-Cd batteries for half hour backup, battery stands, Weatherproof double compression Ni plated brass cable glands and cable lugs for all incoming and outgoing cables etc and as per specification. The UPS  shall have two numbers of 230 V output.  One 230 V output  shall feed to the 230/110 V, 2 kVA, control transformer, the secondary of which will feed to 110 V ACDB (as per SLD).",
+      "core_product_name": "ups(uninterruptible power supply) system",
+      "acronymed_core_product_name": "ups system",
+      "size": "capacity: 2x25 kVA, output: 2 x 230 V, backup: half hour",
+      "feature_or_specifications": "phase: 1-ph, wire: 2-wire, redundancy: parallel redundant, bypass: static, battery: Ni-Cd(nickel-cadmium), battery stands: included, cable glands: weatherproof double compression Ni plated brass, cable lugs: included, transformer: 230/110 V, 2 kVA control transformer, secondary output: 110 V ACDB(as per SLD), as per specification",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": "UPS SYSTEM",
+      "full_product_description": "15.02 | 230V, 1-ph,2-wire- 250A, Cu-Busbar,UPS distribution board (ACDB) as per attached specification and single line diagram PC00128- 1221  along with Weather proof  double compression Ni plated brass cable glands and cable lugs for all incoming and outgoing cables.",
+      "core_product_name": "ups(uninterruptible power supply) distribution board",
+      "acronymed_core_product_name": "ups distribution board",
+      "size": "current: 250A",
+      "feature_or_specifications": "phase: 1-ph, wire: 2-wire, busbar: copper, specification: as per attached, single line diagram: PC00128-1221, cable glands: weatherproof double compression Ni plated brass, cable lugs: included",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": "PLANT COMMUNICATION SYSTEM",
+      "full_product_description": "16.01 | Supply of Plant Communication system along with Cable gland and lugs etc complete .The system shall comprise of following items as per latest IS/IEC. -Digital central exchange unit with power supply unit and battery back up - 1 set. -Desktop master call station- 1 No. -Weather proof field call station including amplifier with full keypad (12 keys) along with the functional keys- 05 Nos. -Explosion proof field call station including amplifier with full keypad (12 keys) along with the functional keys- 06 Nos -Explosion proof field call station including amplifier with full keypad (12 keys) along with the functional keys & Beacon- 01 Nos. -Weather proof loudspeaker 25W- 08 Nos. -Explosion proof loudspeaker 25W- 02 Nos. -Provision for interfacing with fire alarm and gas detection system. -Basic software and programming. Any other item not specifically mentioned but requireed for the completeness of the system shall be provided. Above shall be checked and read in conjuction with tender drawing.",
+      "core_product_name": "plant communication system",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "cable glands: included, lugs: included, standard: IS(indian standard)/IEC(international electrotechnical commission), digital central exchange unit: 1 set, power supply unit: included, battery backup: included, desktop master call station: 1 No., weatherproof field call station: 5 Nos, amplifier: included, keypad: 12 keys, functional keys: included, explosion proof field call station: 6 Nos, explosion proof field call station with beacon: 1 No., weatherproof loudspeaker: 25W, 8 Nos, explosion proof loudspeaker: 25W, 2 Nos, interfacing: fire alarm and gas detection system, software: basic, programming: included, completeness: any other item required, reference: tender drawing",
+      "quantity": "1.0",
+      "unit": "LOT"
+    },
+    {
+      "section_context_for_this_product_block": "EPABX & TELEPHONE",
+      "full_product_description": "17.01 | Supply of EPABX System along with operator console, Battery, Battery Charger, junction boxes etc and required accessories including supply of suitbale size cable glands, cable lugs, as per scope of supply. EPABX shall be placed in CHM Room  and telephone system cables shall be hooked between telephone system from CHM rooom  to all telephone (hardwares to fulfill the system requirement) locations.",
+      "core_product_name": "epabx(electronic private automatic branch exchange) system",
+      "acronymed_core_product_name": "epabx system",
+      "size": "",
+      "feature_or_specifications": "operator console: included, battery: included, battery charger: included, junction boxes: included, accessories: included, cable glands: suitable size, cable lugs: included, installation: CHM Room, cabling: between CHM room and all telephone locations, hardware: to fulfill system requirement",
+      "quantity": "1.0",
+      "unit": "Lot."
+    },
+    {
+      "section_context_for_this_product_block": "EPABX & TELEPHONE",
+      "full_product_description": "17.02 | Analog telephone with LCD display, incoming call memory, outgoing call memory, Redial & pause function, 5 types of ringing tone for selection of intercom & parallel call transfer, volume control,  caller ID  Instrument and other standard features.",
+      "core_product_name": "analog telephone",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "display: LCD, memory: incoming call, outgoing call, functions: redial, pause, ringing tone: 5 types, intercom: selection, call transfer: parallel, volume control: included, caller ID: included, features: standard",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": "EPABX & TELEPHONE",
+      "full_product_description": "17.03 | Analog telephone with Redial , recall & pause function, intercom parallel call transfer facility, volume control etc and other standard features.",
+      "core_product_name": "analog telephone",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "functions: redial, recall, pause, intercom: parallel call transfer, volume control: included, features: standard",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": "EPABX & TELEPHONE",
+      "full_product_description": "17.04 | Roset box with voice tag & face plate",
+      "core_product_name": "roset box",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "voice tag: included, face plate: included",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": "EPABX & TELEPHONE",
+      "full_product_description": "17.05 | Supply of armoured communication cable, junction boxes with suitable cable glands & lugs & associated PVC slotted channel with cover with structured cable laying - Lot. Quanteties shown hear are estimated only. Vendor shall provide actual quanties as per site requirement. This item is to be cosider as lumsum only.",
+      "core_product_name": "armoured communication cable with junction boxes and accessories",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "cable: armoured, junction boxes: included, cable glands: suitable, lugs: included, PVC slotted channel: with cover, cable laying: structured, quantity: estimated, actual as per site, item: lump sum",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "EPABX & TELEPHONE",
+      "full_product_description": "17.05.1 | 1) 2Px 0.5 mm dia.",
+      "core_product_name": "armoured communication cable",
+      "acronymed_core_product_name": "",
+      "size": "pairs: 2, diameter: 0.5 mm",
+      "feature_or_specifications": "",
+      "quantity": "100.0",
+      "unit": "Mtrs."
+    },
+    {
+      "section_context_for_this_product_block": "EPABX & TELEPHONE",
+      "full_product_description": "17.05.2 | 2) 4P x 0.5 mm dia.",
+      "core_product_name": "armoured communication cable",
+      "acronymed_core_product_name": "",
+      "size": "pairs: 4, diameter: 0.5 mm",
+      "feature_or_specifications": "",
+      "quantity": "300.0",
+      "unit": "Mtrs."
+    },
+    {
+      "section_context_for_this_product_block": "EPABX & TELEPHONE",
+      "full_product_description": "17.05.3 | 3) 10Px  0.5 mm dia.",
+      "core_product_name": "armoured communication cable",
+      "acronymed_core_product_name": "",
+      "size": "pairs: 10, diameter: 0.5 mm",
+      "feature_or_specifications": "",
+      "quantity": "300.0",
+      "unit": "Mtrs."
+    },
+    {
+      "section_context_for_this_product_block": "CCTV SYSTEM > CABLE, SWITCHES AND ERECTION  MATERIAL",
+      "full_product_description": "14.1.6 | PVC conduit casing pipe",
+      "core_product_name": "pvc(polyvinyl chloride) conduit casing pipe",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "300.0",
+      "unit": "Mtrs."
+    },
+    {
+      "section_context_for_this_product_block": "INTRINSCIALLY SAFE  (IP55)WALKIE-TALKIE  SUITABLE FOR HAZARDOUS  AREA DEFINED AS ZONE1, GAS GROUP IIA/IIB,TEMPERATURE  CLASS T3 OF MOTOROLA MAKE INCLUDING LISONING AND OBTAINING LICENSE  FROM DOT. (OFFICIAL FEE FOR LICENSE  IF ANY SHALL BE PAID BY IOCL)",
+      "full_product_description": "18.1 | Motorola GP 328 Intrinsically safe VHF handheld radio with 1800  mAh battery Tri Chemistry Charger with Adapter & Antenna-Genuine Motorola make",
+      "core_product_name": "vhf(very high frequency) handheld radio",
+      "acronymed_core_product_name": "",
+      "size": "battery capacity: 1800 mAh",
+      "feature_or_specifications": "model: Motorola GP 328, safety: intrinsically safe, charger: tri chemistry, adapter: included, antenna: included, make: Motorola",
+      "quantity": "6.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "INTRINSCIALLY SAFE  (IP55)WALKIE-TALKIE  SUITABLE FOR HAZARDOUS  AREA DEFINED AS ZONE1, GAS GROUP IIA/IIB,TEMPERATURE  CLASS T3 OF MOTOROLA MAKE INCLUDING LISONING AND OBTAINING LICENSE  FROM DOT. (OFFICIAL FEE FOR LICENSE  IF ANY SHALL BE PAID BY IOCL)",
+      "full_product_description": "18.2 | Motorola GM 338 Fixed Station with Fist Mic,12V/10A Power supply unit cum battery charger with all accessories (maintenance free) (Base Station)",
+      "core_product_name": "fixed radio station",
+      "acronymed_core_product_name": "",
+      "size": "power supply: 12V/10A",
+      "feature_or_specifications": "model: Motorola GM 338, microphone: fist mic, battery charger: included, accessories: all, maintenance: free, type: base station",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": "INTRINSCIALLY SAFE  (IP55)WALKIE-TALKIE  SUITABLE FOR HAZARDOUS  AREA DEFINED AS ZONE1, GAS GROUP IIA/IIB,TEMPERATURE  CLASS T3 OF MOTOROLA MAKE INCLUDING LISONING AND OBTAINING LICENSE  FROM DOT. (OFFICIAL FEE FOR LICENSE  IF ANY SHALL BE PAID BY IOCL)",
+      "full_product_description": "18.3 | Motorola GP 328 spare battery with 1800  mAh capacity of Genuine Motorola Make",
+      "core_product_name": "spare battery",
+      "acronymed_core_product_name": "",
+      "size": "capacity: 1800 mAh",
+      "feature_or_specifications": "model: Motorola GP 328, make: Motorola",
+      "quantity": "3.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE GLANDS",
+      "full_product_description": "19.1 | Supply of weather proof double compression Ni plated brass cable gland of the following sizes of XLPE,Arm. FRLS cables.",
+      "core_product_name": "weather proof double compression nickel plated brass cable gland",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: nickel plated brass, compression: double, weather proof: yes, suitable for: XLPE(cross-linked polyethylene), armoured, FRLS(fire retardant low smoke) cables",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "CABLE GLANDS",
+      "full_product_description": "19.1.1 | 01P  X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "weather proof double compression nickel plated brass cable gland",
+      "acronymed_core_product_name": "",
+      "size": "cable: 1 pair x 1.5 mm2, insulation: PVC(polyvinyl chloride), armoured, sheath: FRLS(fire retardant low smoke) PVC, shielded: overall, type: signal cable",
+      "feature_or_specifications": "",
+      "quantity": "54.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE GLANDS",
+      "full_product_description": "19.1.2 | 02C X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "weather proof double compression nickel plated brass cable gland",
+      "acronymed_core_product_name": "",
+      "size": "cable: 2 core x 1.5 mm2, insulation: PVC(polyvinyl chloride), armoured, sheath: FRLS(fire retardant low smoke) PVC, type: control cable",
+      "feature_or_specifications": "",
+      "quantity": "48.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE GLANDS",
+      "full_product_description": "19.1.3 | 02P  X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "weather proof double compression nickel plated brass cable gland",
+      "acronymed_core_product_name": "",
+      "size": "cable: 2 pair x 1.5 mm2, insulation: PVC(polyvinyl chloride), armoured, sheath: FRLS(fire retardant low smoke) PVC, shielded: overall, type: signal cable",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE GLANDS",
+      "full_product_description": "19.1.4 | 04C X 2.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "weather proof double compression nickel plated brass cable gland",
+      "acronymed_core_product_name": "",
+      "size": "cable: 4 core x 2.5 mm2, insulation: PVC(polyvinyl chloride), armoured, sheath: FRLS(fire retardant low smoke) PVC, type: control cable",
+      "feature_or_specifications": "",
+      "quantity": "31.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE GLANDS",
+      "full_product_description": "19.1.5 | 05C X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "weather proof double compression nickel plated brass cable gland",
+      "acronymed_core_product_name": "",
+      "size": "cable: 5 core x 1.5 mm2, insulation: PVC(polyvinyl chloride), armoured, sheath: FRLS(fire retardant low smoke) PVC, type: control cable",
+      "feature_or_specifications": "",
+      "quantity": "19.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE GLANDS",
+      "full_product_description": "19.1.6 | 12C X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "weather proof double compression nickel plated brass cable gland",
+      "acronymed_core_product_name": "",
+      "size": "cable: 12 core x 1.5 mm2, insulation: PVC(polyvinyl chloride), armoured, sheath: FRLS(fire retardant low smoke) PVC, type: control cable",
+      "feature_or_specifications": "",
+      "quantity": "11.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE GLANDS",
+      "full_product_description": "19.2 | Supply of Flameproof double compression nickel plated brass cable gland suitable for following XLPE , FRLS cable sizes & as per relevant IS for hazardous area Zone-1,IIA/IIB,T3.",
+      "core_product_name": "flameproof double compression nickel plated brass cable gland",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: nickel plated brass, compression: double, flameproof: yes, suitable for: XLPE(cross-linked polyethylene), FRLS(fire retardant low smoke) cables, standard: IS(indian standard), hazardous area: Zone-1, IIA/IIB, T3",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "CABLE GLANDS",
+      "full_product_description": "19.2.1 | 01P  X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "flameproof double compression nickel plated brass cable gland",
+      "acronymed_core_product_name": "",
+      "size": "cable: 1 pair x 1.5 mm2, insulation: PVC(polyvinyl chloride), armoured, sheath: FRLS(fire retardant low smoke) PVC, shielded: overall, type: signal cable",
+      "feature_or_specifications": "",
+      "quantity": "54.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE GLANDS",
+      "full_product_description": "19.2.2 | 01T X 2.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "flameproof double compression nickel plated brass cable gland",
+      "acronymed_core_product_name": "",
+      "size": "cable: 1 triad x 2.5 mm2, insulation: PVC(polyvinyl chloride), armoured, sheath: FRLS(fire retardant low smoke) PVC, shielded: overall, type: signal cable",
+      "feature_or_specifications": "",
+      "quantity": "62.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE GLANDS",
+      "full_product_description": "19.2.3 | 02C X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , CONTROL CABLE",
+      "core_product_name": "flameproof double compression nickel plated brass cable gland",
+      "acronymed_core_product_name": "",
+      "size": "cable: 2 core x 1.5 mm2, insulation: PVC(polyvinyl chloride), armoured, sheath: FRLS(fire retardant low smoke) PVC, type: control cable",
+      "feature_or_specifications": "",
+      "quantity": "48.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE GLANDS",
+      "full_product_description": "19.2.4 | 04P  X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "flameproof double compression nickel plated brass cable gland",
+      "acronymed_core_product_name": "",
+      "size": "cable: 4 pair x 1.5 mm2, insulation: PVC(polyvinyl chloride), armoured, sheath: FRLS(fire retardant low smoke) PVC, shielded: overall, type: signal cable",
+      "feature_or_specifications": "",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE GLANDS",
+      "full_product_description": "19.2.5 | 06P  X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "flameproof double compression nickel plated brass cable gland",
+      "acronymed_core_product_name": "",
+      "size": "cable: 6 pair x 1.5 mm2, insulation: PVC(polyvinyl chloride), armoured, sheath: FRLS(fire retardant low smoke) PVC, shielded: overall, type: signal cable",
+      "feature_or_specifications": "",
+      "quantity": "8.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE GLANDS",
+      "full_product_description": "19.2.6 | 06T X 2.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "flameproof double compression nickel plated brass cable gland",
+      "acronymed_core_product_name": "",
+      "size": "cable: 6 triad x 2.5 mm2, insulation: PVC(polyvinyl chloride), armoured, sheath: FRLS(fire retardant low smoke) PVC, shielded: overall, type: signal cable",
+      "feature_or_specifications": "",
+      "quantity": "8.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE GLANDS",
+      "full_product_description": "19.2.7 | 12P  X 1.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "flameproof double compression nickel plated brass cable gland",
+      "acronymed_core_product_name": "",
+      "size": "cable: 12 pair x 1.5 mm2, insulation: PVC(polyvinyl chloride), armoured, sheath: FRLS(fire retardant low smoke) PVC, shielded: overall, type: signal cable",
+      "feature_or_specifications": "",
+      "quantity": "10.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE GLANDS",
+      "full_product_description": "19.2.8 | 12T X 2.5 MM2 PVC  INSULATED ARMOURED, FRLS PVC SHEATHED , OVERALL SHIELDED , SIGNAL CABLE",
+      "core_product_name": "flameproof double compression nickel plated brass cable gland",
+      "acronymed_core_product_name": "",
+      "size": "cable: 12 triad x 2.5 mm2, insulation: PVC(polyvinyl chloride), armoured, sheath: FRLS(fire retardant low smoke) PVC, shielded: overall, type: signal cable",
+      "feature_or_specifications": "",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "SPARES",
+      "full_product_description": "20.1 | Plant Communication System, Similar as supplied.",
+      "core_product_name": "plant communication system",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "SPARES",
+      "full_product_description": "20.2 | Flameproof Field Call Station.",
+      "core_product_name": "flameproof field call station",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "flameproof: yes",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "SPARES",
+      "full_product_description": "20.3 | Weatherproof Field Call Station.",
+      "core_product_name": "weatherproof field call station",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "weatherproof: yes",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "SPARES",
+      "full_product_description": "20.4 | Flameproof Loudspeaker.",
+      "core_product_name": "flameproof loudspeaker",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "flameproof: yes",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "SPARES",
+      "full_product_description": "20.5 | Weatherproof Loudspeaker.",
+      "core_product_name": "weatherproof loudspeaker",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "weatherproof: yes",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": "SPARES",
+      "full_product_description": "20.6 | Local Control Station (LCS) Similar as Supplied.",
+      "core_product_name": "local control station",
+      "acronymed_core_product_name": "lcs",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "SPARES",
+      "full_product_description": "20.7 | Flameproof  Local control station with Start/Stop Push Button, FRP  Canopy with Ammeter.",
+      "core_product_name": "flameproof local control station",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "flameproof: yes, feature: start/stop push button, canopy: FRP(fiber reinforced plastic), ammeter: with",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "SPARES",
+      "full_product_description": "20.8 | Flameproof Local control station,Start/Stop Push Button, FRP  Canopy without ammeter.",
+      "core_product_name": "flameproof local control station",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "flameproof: yes, feature: start/stop push button, canopy: FRP(fiber reinforced plastic), ammeter: without",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "SPARES",
+      "full_product_description": "20.9 | Weatherproof Local control station with Start/Stop Push Button, FRP  Canopy with Ammeter.",
+      "core_product_name": "weatherproof local control station",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "weatherproof: yes, feature: start/stop push button, canopy: FRP(fiber reinforced plastic), ammeter: with",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "SPARES",
+      "full_product_description": "20.1 | Weatherproof  Local control station,Start/Stop Push Button, FRP  Canopy without ammeter.",
+      "core_product_name": "weatherproof local control station",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "weatherproof: yes, feature: start/stop push button, canopy: FRP(fiber reinforced plastic), ammeter: without",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "SPARES",
+      "full_product_description": "20.11 | Junction Box Similar as Supplied.",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "SPARES",
+      "full_product_description": "20.12 | Digital Meggar (make FLUKE / YAKOGAWA)",
+      "core_product_name": "digital meggar",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "make: FLUKE or YAKOGAWA",
+      "quantity": "1.0",
+      "unit": "Set."
+    },
+    {
+      "section_context_for_this_product_block": "SPARES",
+      "full_product_description": "20.13 | Tongue Tester (make FLUKE / YAKOGAWA)",
+      "core_product_name": "tongue tester",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "make: FLUKE or YAKOGAWA",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": "SPARES",
+      "full_product_description": "20.14 | Digital Multimeter (make FLUKE / YAKOGAWA)",
+      "core_product_name": "digital multimeter",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "make: FLUKE or YAKOGAWA",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "21.1 | G.I. Perforated Cable Trays , 100 mm deep, 3 mm thick G.I. perforated cable trays (Min. coating 100 microns of zinc) with bend, reducer, coupler plate and other hardware.",
+      "core_product_name": "gi perforated cable trays",
+      "acronymed_core_product_name": "",
+      "size": "depth: 100 mm, thickness: 3 mm",
+      "feature_or_specifications": "material: GI(galvanized iron), coating: zinc, coating thickness: 100 microns (minimum), accessories: bend, reducer, coupler plate, other hardware",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "b. | 600mm Wide",
+      "core_product_name": "gi perforated cable trays",
+      "acronymed_core_product_name": "",
+      "size": "width: 600 mm",
+      "feature_or_specifications": "",
+      "quantity": "140.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "c. | 300mm Wide",
+      "core_product_name": "gi perforated cable trays",
+      "acronymed_core_product_name": "",
+      "size": "width: 300 mm",
+      "feature_or_specifications": "",
+      "quantity": "60.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "d. | 150mm Wide",
+      "core_product_name": "gi perforated cable trays",
+      "acronymed_core_product_name": "",
+      "size": "width: 150 mm",
+      "feature_or_specifications": "",
+      "quantity": "200.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "e. | 50mm  Wide",
+      "core_product_name": "gi perforated cable trays",
+      "acronymed_core_product_name": "",
+      "size": "width: 50 mm",
+      "feature_or_specifications": "",
+      "quantity": "75.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "21.2 | 90 deg Horizontal Bend Perforated",
+      "core_product_name": "90 degree horizontal bend perforated",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "b. | 600mm Wide",
+      "core_product_name": "90 degree horizontal bend perforated",
+      "acronymed_core_product_name": "",
+      "size": "width: 600 mm",
+      "feature_or_specifications": "",
+      "quantity": "4.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "c. | 300mm Wide",
+      "core_product_name": "90 degree horizontal bend perforated",
+      "acronymed_core_product_name": "",
+      "size": "width: 300 mm",
+      "feature_or_specifications": "",
+      "quantity": "6.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "21.3 | 90 deg Vertical Bend (Inside) Perforated",
+      "core_product_name": "90 degree vertical bend (inside) perforated",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "a. | 600mm Wide",
+      "core_product_name": "90 degree vertical bend (inside) perforated",
+      "acronymed_core_product_name": "",
+      "size": "width: 600 mm",
+      "feature_or_specifications": "",
+      "quantity": "4.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "b. | 300mm Wide",
+      "core_product_name": "90 degree vertical bend (inside) perforated",
+      "acronymed_core_product_name": "",
+      "size": "width: 300 mm",
+      "feature_or_specifications": "",
+      "quantity": "4.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "c. | 150mm Wide",
+      "core_product_name": "90 degree vertical bend (inside) perforated",
+      "acronymed_core_product_name": "",
+      "size": "width: 150 mm",
+      "feature_or_specifications": "",
+      "quantity": "12.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "21.4 | 90 deg Vertical Bend (outside) Perforated",
+      "core_product_name": "90 degree vertical bend (outside) perforated",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "a. | 600mm Wide",
+      "core_product_name": "90 degree vertical bend (outside) perforated",
+      "acronymed_core_product_name": "",
+      "size": "width: 600 mm",
+      "feature_or_specifications": "",
+      "quantity": "4.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "b. | 300mm Wide",
+      "core_product_name": "90 degree vertical bend (outside) perforated",
+      "acronymed_core_product_name": "",
+      "size": "width: 300 mm",
+      "feature_or_specifications": "",
+      "quantity": "4.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "c. | 150mm Wide",
+      "core_product_name": "90 degree vertical bend (outside) perforated",
+      "acronymed_core_product_name": "",
+      "size": "width: 150 mm",
+      "feature_or_specifications": "",
+      "quantity": "20.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "21.5 | TEE Connection Perforated type",
+      "core_product_name": "tee connection perforated type",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "CABLE TRAYS",
+      "full_product_description": "a. | 600mm Wide",
+      "core_product_name": "tee connection perforated type",
+      "acronymed_core_product_name": "",
+      "size": "width: 600 mm",
+      "feature_or_specifications": "",
+      "quantity": "4.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "EARTHING ITEMS FOR INSTRUMENTATION",
+      "full_product_description": "22.1 | Supply of Hot dip Galvanized 10 Holes ∅13mm  ground plate 550mmx50mmx6mm earth connection bar  with fixing materials/ accessories , SS hardware etc. (min. coating 120 microns of zinc).",
+      "core_product_name": "earth connection bar",
+      "acronymed_core_product_name": "",
+      "size": "holes: 10, hole diameter: 13 mm, plate size: 550 mm x 50 mm x 6 mm",
+      "feature_or_specifications": "material: hot dip galvanized, hardware: stainless steel (ss), coating: 120 microns of zinc",
+      "quantity": "12.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "EARTHING ITEMS FOR INSTRUMENTATION",
+      "full_product_description": "22.2 | Supply of following Hot dip Galvanized earthing and lightning protection materials along with the accessories conforming to IS & drg. Attachment no.-29  (LPG.ENG.117.06.03.2001) of contract specification Specifications and .(Galvanisation is 910gms/sq. mtr) - 1C x 6 mm2 PVC (Al) cable Green colour",
+      "core_product_name": "earthing and lightning protection materials",
+      "acronymed_core_product_name": "",
+      "size": "cable: 1 core x 6 mm2",
+      "feature_or_specifications": "material: hot dip galvanized, standard: indian standard (is), drawing: attachment no.-29 (lpg.eng.117.06.03.2001), galvanisation: 910 gms/sq. mtr, cable: pvc (polyvinyl chloride) (al) (aluminium), colour: green",
+      "quantity": "2400.0",
+      "unit": "Mtr"
+    },
+    {
+      "section_context_for_this_product_block": "EARTHING ITEMS FOR INSTRUMENTATION",
+      "full_product_description": "22.3 | Supply of Earthing Lug 1C x 6 mm2 PVC (Al) cable Green colour",
+      "core_product_name": "earthing lug",
+      "acronymed_core_product_name": "",
+      "size": "cable: 1 core x 6 mm2",
+      "feature_or_specifications": "cable: pvc (polyvinyl chloride) (al) (aluminium), colour: green",
+      "quantity": "250.0",
+      "unit": "Nos."
+    }
+  ]
+}

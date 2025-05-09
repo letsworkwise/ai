@@ -1,0 +1,66 @@
+{
+  "query": "core_product_name: flexible steel conduit | size: diameter: 25 mm, thickness: 1.6mm | feature_or_specifications: material: steel, type: flexible",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: articulated steel pipe | construction_features: flexible",
+        "raw_product_name": "ROOF DRAIN SYSTEM:ARTICULATED STEEL PIPE WITH FLEXIBLE JOINT",
+        "list_of_product_ids": [
+          "7",
+          "148",
+          "747",
+          "323",
+          "011"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: flexible hose | material: SS (Stainless Steel) | construction_features: metallic",
+        "raw_product_name": "HOSE METALLIC FLEXIBLE SS",
+        "list_of_product_ids": [
+          "6001",
+          "5180",
+          "8579",
+          "8584",
+          "8589",
+          "8591",
+          "8565",
+          "8581",
+          "8586",
+          "8590",
+          "8596",
+          "18971"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: conduit pipe",
+        "raw_product_name": "CONDUIT PIPE",
+        "list_of_product_ids": [
+          "222",
+          "962",
+          "229",
+          "728",
+          "617"
+        ]
+      }
+    }
+  ]
+}

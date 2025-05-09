@@ -1,0 +1,69 @@
+{
+  "query": "core_product_name: dc distribution board | size: voltage: 110 V DC, wires: 2 wire, incomer: 63 A dp mcb, outgoing: 15 x 16 A dp mcb | feature_or_specifications: fed by: dual float cum boost charger, standard: as per attached sld (single line diagram), specifications & ds (data sheet)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+        "raw_product_name": "DCDB",
+        "list_of_product_ids": [
+          "15387",
+          "13587",
+          "14607",
+          "14780",
+          "19662",
+          "21388",
+          "36160"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: dc (direct current) distribution board | type_or_class: DC (Direct Current)",
+        "raw_product_name": "DC Distribution Board",
+        "list_of_product_ids": [
+          "18727",
+          "18725",
+          "18720",
+          "18741",
+          "18738",
+          "18737",
+          "19010",
+          "18999",
+          "19002",
+          "36555",
+          "38291",
+          "35862",
+          "38153"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "acronymed_core_product_name",
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: intelligent battery charger | acronymed_core_product_name: dcdb (direct current distribution board) | size_or_capacity: 24V DC (24 Volt Direct Current)",
+        "raw_product_name": "Intelligent Battery charger 24V DC DCDB",
+        "list_of_product_ids": [
+          "1",
+          "375",
+          "215",
+          "290"
+        ]
+      }
+    }
+  ]
+}

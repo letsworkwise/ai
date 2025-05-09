@@ -1,0 +1,178 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Dismantling of Existing tanks:",
+      "core_product_name": "dismantling of existing tanks",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "30.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "STORAGE TANKS",
+      "core_product_name": "storage tanks",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "STRUCTURAL/PIPES",
+      "core_product_name": "structural or pipes",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "STILL WELLS/ DIP PIPES :",
+      "core_product_name": "still wells or dip pipes",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "SA 106 Gr. B",
+      "core_product_name": "sa 106 gr. b",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.9",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "APPURTENANCES",
+      "core_product_name": "appurtenances",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      440,
+      449
+    ],
+    "original_rows": [
+      {
+        "0": 441,
+        "1": 0,
+        "2": "01VV.10",
+        "3": "STORAGE TANKS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 442,
+        "1": 0,
+        "2": "01VV.10.2",
+        "3": "STRUCTURAL/PIPES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 443,
+        "1": 0,
+        "2": "01VV.10.2.2",
+        "3": "STILL WELLS/ DIP PIPES :",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 444,
+        "1": 0,
+        "2": "01VV.10.2.2.1",
+        "3": "SA 106 Gr. B",
+        "4": 1.9,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 445,
+        "1": 0,
+        "2": "01VV.10.3",
+        "3": "APPURTENANCES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 446,
+        "1": 0,
+        "2": "01VV.10.3.1",
+        "3": "Supply, fabrication, installation, welding, radiography, heat treatment, inspection and testing as required for the",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 447,
+        "1": 0,
+        "2": "01VV.10.3.1.1V1",
+        "3": "Roof   Nozzle   150   Class   WNRF   Type   3 Inch  Size SA 105   Material",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 448,
+        "1": 0,
+        "2": "01VV.10.3.1.1V13",
+        "3": "Roof   Nozzle   150   Class   WNRF   Type   6 Inch  Size SA 105   Material",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 449,
+        "1": 0,
+        "2": "01VV.10.3.1.1V17",
+        "3": "Shell   Nozzle   150   Class   WNRF   Type   2 Inch  Size SA 105   Material",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 450,
+        "1": 0,
+        "2": "01VV.10.3.1.1V19",
+        "3": "Shell   Nozzle   150   Class   WNRF   Type   4 Inch  Size SA 105   Material",
+        "4": 12.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2227,
+    "completion_tokens": 1189
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "query": "core_product_name: servo gauge with display | feature_or_specifications: accuracy: ±1mm lab conditions, density measurement: included, quantity per msv: 1",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: level indicator | type_or_class: Servo Type TGM",
+        "raw_product_name": "LEVEL INDICATORS (SERVO TYPE TGM)",
+        "list_of_product_ids": [
+          "13980"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: specific gravity analyzer",
+        "raw_product_name": "SPECIFIC GRAVITY ANALYZER",
+        "list_of_product_ids": [
+          "14007",
+          "15198",
+          "15118",
+          "15243",
+          "15257",
+          "17075",
+          "20897"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: density or specific gravity analyser | type_or_class: Nucleonic",
+        "raw_product_name": "ANALYSER-DENSITY/SP. GRAVITY (NUCLEONIC)",
+        "list_of_product_ids": [
+          "6559",
+          "5729",
+          "10101",
+          "10115",
+          "19569",
+          "29881",
+          "20888",
+          "35264",
+          "35415",
+          "35424",
+          "36241",
+          "36393"
+        ]
+      }
+    }
+  ]
+}

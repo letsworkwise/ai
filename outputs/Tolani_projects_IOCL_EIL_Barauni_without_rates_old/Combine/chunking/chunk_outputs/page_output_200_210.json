@@ -1,0 +1,188 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "30M high flood light mast for Hazardous Area (Gas Group IIA/IIB, Temperature Class T3), including supply of FLP",
+      "core_product_name": "high flood light mast",
+      "acronymed_core_product_name": "flp (flame proof)",
+      "size": "height: 30m",
+      "feature_or_specifications": "area: hazardous, gas group: iia or iib, temperature class: t3, feature: including supply of flame proof",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "LIGHTING POLES",
+      "core_product_name": "lighting pole",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and  installation of platform Lighting pole as per std. 7-51-0202,  including all welding, structural works, paint and Lighting poles for hazardous areas.",
+      "core_product_name": "platform lighting pole supply and installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "standard: 7-51-0202, feature: including all welding, structural works, paint, area: hazardous",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "HAZARDOUS AREA LIGHTING FIXTURES AND ACCESSORIES",
+      "core_product_name": "hazardous area lighting fixture and accessory",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Installation, connection, testing and commissioning of following types of flame proof/Div.2 lighting fixtures and Well glass type pole mounting type for Platform.",
+      "core_product_name": "flame proof lighting fixture installation, connection, testing and commissioning",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: well glass, mounting: pole, location: platform, division: 2, feature: flame proof",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Installation, connection, testing and commissioning of following types of flame proof/Div.2 lighting fixtures and Well glass type bracket mounted.",
+      "core_product_name": "flame proof lighting fixture installation, connection, testing and commissioning",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: well glass, mounting: bracket, division: 2, feature: flame proof",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Installation, connection, testing and commissioning of following types of flame proof/Div.2 lighting fixtures and Well glass type ceiling mounted.",
+      "core_product_name": "flame proof lighting fixture installation, connection, testing and commissioning",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: well glass, mounting: ceiling, division: 2, feature: flame proof",
+      "quantity": "5.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      200,
+      209
+    ],
+    "original_rows": [
+      {
+        "0": 201,
+        "1": 0,
+        "2": "01EE.3010.20.40",
+        "3": "30M high flood light mast for Hazardous Area (Gas Group IIA/IIB, Temperature Class T3), including supply of FLP",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 202,
+        "1": 0,
+        "2": "01EE.3020",
+        "3": "LIGHTING POLES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 203,
+        "1": 0,
+        "2": "01EE.3020.30",
+        "3": "Supply and  installation of platform Lighting pole as per std. 7-51-0202,  including all welding, structural works, paint and",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 204,
+        "1": 0,
+        "2": "01EE.3020.30.20",
+        "3": "Lighting poles for hazardous areas.",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 205,
+        "1": 0,
+        "2": "01EE.3030",
+        "3": "HAZARDOUS AREA LIGHTING FIXTURES AND ACCESSORIES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 206,
+        "1": 0,
+        "2": "01EE.3030.10",
+        "3": "Installation, connection, testing and commissioning of following types of flame proof/Div.2 lighting fixtures and",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 207,
+        "1": 0,
+        "2": "01EE.3030.10.20",
+        "3": "Well glass type pole mounting type for Platform.",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 208,
+        "1": 0,
+        "2": "01EE.3030.10.30",
+        "3": "Well glass type bracket mounted.",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 209,
+        "1": 0,
+        "2": "01EE.3030.10.40",
+        "3": "Well glass type ceiling mounted.",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 210,
+        "1": 0,
+        "2": "01EE.3030.20",
+        "3": "Supply of following FLP/Div.2 lighting fixtures complete with lamps, requisite FLP cable glands, plugs and necessary",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2724,
+    "completion_tokens": 1062
+  }
+}

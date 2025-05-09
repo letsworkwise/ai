@@ -1,0 +1,148 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "WIRING",
+      "full_product_description": "Supply, installation, testing and commissioning of GI earth electrodes, complete with earth pit as per std. 7-51-0102. GI earth electrode as per std. 7-51-0102.",
+      "core_product_name": "gi earth electrode supply installation testing and commissioning",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: gi (galvanized iron), feature: complete with earth pit, standard: 7-51-0102",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "WIRING",
+      "full_product_description": "Supply, installation and connection of following GI earthing strip along the cable trenches or cable trays or fixing to walls. 50 x 6 mm",
+      "core_product_name": "gi earthing strip supply installation and connection",
+      "acronymed_core_product_name": "",
+      "size": "strip: 50 x 6 mm",
+      "feature_or_specifications": "material: gi (galvanized iron), installation location: along cable trenches or cable trays or fixing to walls",
+      "quantity": "300.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "WIRING",
+      "full_product_description": "Supply, installation and connection of following GI earthing strip along the cable trenches or cable trays or fixing to walls. 25 x 3 mm",
+      "core_product_name": "gi earthing strip supply installation and connection",
+      "acronymed_core_product_name": "",
+      "size": "strip: 25 x 3 mm",
+      "feature_or_specifications": "material: gi (galvanized iron), installation location: along cable trenches or cable trays or fixing to walls",
+      "quantity": "100.0",
+      "unit": "m"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      220,
+      229
+    ],
+    "original_rows": [
+      {
+        "0": 221,
+        "1": 0,
+        "2": "01EE.4020.10",
+        "3": "Supply, installation, testing and commissioning of GI earth electrodes, complete with earth pit as per std. 7-51-0102",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 222,
+        "1": 0,
+        "2": "01EE.4020.10.10",
+        "3": "GI earth electrode as per std. 7-51-0102.",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 223,
+        "1": 0,
+        "2": "01EE.4030",
+        "3": "EARTH STRIPS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 224,
+        "1": 0,
+        "2": "01EE.4030.10",
+        "3": "Supply, installation and connection of following GI earthing strip along the cable trenches or cable trays or fixing to walls",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 225,
+        "1": 0,
+        "2": "01EE.4030.10.20",
+        "3": "50 x 6 mm",
+        "4": 300.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 226,
+        "1": 0,
+        "2": "01EE.4030.10.40",
+        "3": "25 x 3 mm",
+        "4": 100.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 227,
+        "1": 0,
+        "2": "01EE.4030.20",
+        "3": "Supply, installation and connection of following GI earthing strip buried individually at a depth of 500 mm including",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 228,
+        "1": 0,
+        "2": "01EE.4030.20.20",
+        "3": "50 x 6 mm",
+        "4": 250.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 229,
+        "1": 0,
+        "2": "01EE.4030.20.40",
+        "3": "25 x 3 mm",
+        "4": 100.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 230,
+        "1": 0,
+        "2": "01EE.4040",
+        "3": "EARTHING CONNECTION",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2247,
+    "completion_tokens": 765
+  }
+}

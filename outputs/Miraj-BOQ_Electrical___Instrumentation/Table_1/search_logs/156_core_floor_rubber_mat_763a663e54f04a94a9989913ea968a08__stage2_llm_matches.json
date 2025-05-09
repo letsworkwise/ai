@@ -1,0 +1,58 @@
+{
+  "query": "core_product_name: floor rubber mat | size: width: 900mm | feature_or_specifications: voltage: 11 kv(kilovolt), grade: electric, standard: indian standard, certification: isi(indian standards institute) mark",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: sheet | material: Rubber",
+        "raw_product_name": "RUBBER SHEETS",
+        "list_of_product_ids": [
+          "19950",
+          "19949",
+          "19948",
+          "21187",
+          "25144"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: tile flooring | material: Rubber",
+        "raw_product_name": "RUBBER TILE FLOORING",
+        "list_of_product_ids": [
+          "167",
+          "461",
+          "674",
+          "527",
+          "996"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: lining | material: Rubber",
+        "raw_product_name": "LINING (RUBBER)",
+        "list_of_product_ids": [
+          "6167",
+          "5337",
+          "12267",
+          "12269",
+          "12265",
+          "12268",
+          "12480"
+        ]
+      }
+    }
+  ]
+}

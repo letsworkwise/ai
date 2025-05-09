@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: loto(lockout tagout) locks | acronymed_core_product_name: loto locks",
+  "retrieval_results": [
+    {
+      "id": "variant-b1cefae0-7246-5049-a8bf-2961f0ae8cdd",
+      "score": 0.88601506,
+      "metadata": {
+        "text": "core_product_name: outlet fitting | acronymed_core_product_name: o-let",
+        "raw_product_name": "O-LETS",
+        "list_of_product_ids": "6312,5483,10359,10377,11349,10679,12307,39230,21806,32506,32507,32508,32509,32510,32511,32512",
+        "core_id": 1575.0
+      }
+    },
+    {
+      "id": "variant-b0a0841f-ecb6-5123-a66c-279289d1e741",
+      "score": 0.88385946,
+      "metadata": {
+        "text": "core_product_name: log | acronymed_core_product_name: em log",
+        "raw_product_name": "EM LOG",
+        "list_of_product_ids": "23412,23409,23406,28226,28247",
+        "core_id": 736.0
+      }
+    },
+    {
+      "id": "variant-42640f35-65bd-5786-a8e0-6da0c7032c9c",
+      "score": 0.8816095,
+      "metadata": {
+        "text": "core_product_name: local area network switch | acronymed_core_product_name: LAN SWITCH",
+        "raw_product_name": "LAN SWITCH",
+        "list_of_product_ids": "19153,19154,27610,37883,37888,37890",
+        "core_id": 1317.0
+      }
+    },
+    {
+      "id": "variant-96e42f53-7dee-5b27-ad19-00ef4397fc52",
+      "score": 0.8793016,
+      "metadata": {
+        "text": "core_product_name: programmable logic controller | acronymed_core_product_name: plc subsystem",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER (PLC SUBSYSTEM)",
+        "list_of_product_ids": "13889,15107,20015,20010,36350,37195,36201",
+        "core_id": 1794.0
+      }
+    },
+    {
+      "id": "variant-f0b3c83f-340f-5359-af01-5f3abf8a29c7",
+      "score": 0.87900084,
+      "metadata": {
+        "text": "core_product_name: input/output converter | acronymed_core_product_name: i/p converter",
+        "raw_product_name": "I/P CONVERTERS",
+        "list_of_product_ids": "13678,14948,14949,15078,15105,15307,15315,17477,20895,23179,36199,36348",
+        "core_id": 1221.0
+      }
+    },
+    {
+      "id": "variant-fc8540c6-39ef-5bd8-94da-9b9420f9b06a",
+      "score": 0.8771654,
+      "metadata": {
+        "text": "core_product_name: input convertor | acronymed_core_product_name: i/p convertor",
+        "raw_product_name": "I/P CONVERTOR",
+        "list_of_product_ids": "1,542,023,681",
+        "core_id": 1222.0
+      }
+    },
+    {
+      "id": "variant-57d96592-6666-5304-a0b5-3483499c39fc",
+      "score": 0.8762261,
+      "metadata": {
+        "text": "core_product_name: system package | acronymed_core_product_name: h v system package",
+        "raw_product_name": "H V SYSTEM PACKAGE",
+        "list_of_product_ids": "6393,5564,10763,24478,24477,24476",
+        "core_id": 1089.0
+      }
+    },
+    {
+      "id": "variant-de016709-426e-5f64-87fb-0bc2a92d1c2c",
+      "score": 0.87539256,
+      "metadata": {
+        "text": "core_product_name: central processing unit | acronymed_core_product_name: cpu unit",
+        "raw_product_name": "CPU UNITS",
+        "list_of_product_ids": "192,651,410,722,373",
+        "core_id": 505.0
+      }
+    },
+    {
+      "id": "variant-72f4379c-8cca-53f1-a228-27f73550df0f",
+      "score": 0.87475044,
+      "metadata": {
+        "text": "core_product_name: closed circuit television | acronymed_core_product_name: cctv",
+        "raw_product_name": "CLOSED CIRCUIT TV",
+        "list_of_product_ids": "6592,5762,10914,10889,11962,12202,12473,16497,19259,19269,30476,31285,37696,37697,37705,37709,37713,40236,40237,40234,40235,40257",
+        "core_id": 323.0
+      }
+    },
+    {
+      "id": "variant-addf3b62-be97-593c-99ea-0c7a325abe3a",
+      "score": 0.8747362,
+      "metadata": {
+        "text": "core_product_name: cooler | acronymed_core_product_name: pw cooler",
+        "raw_product_name": "PW COOLER",
+        "list_of_product_ids": "139,151,806,120,147",
+        "core_id": 1827.0
+      }
+    },
+    {
+      "id": "variant-62d1e6bd-b338-5af3-8dbe-a6aef8e2a92e",
+      "score": 0.87407434,
+      "metadata": {
+        "text": "core_product_name: public address equipment | acronymed_core_product_name: pa equipment",
+        "raw_product_name": "PA EQUIPMENTS",
+        "list_of_product_ids": "980,898,159,862",
+        "core_id": 1617.0
+      }
+    },
+    {
+      "id": "variant-68b57dbb-5053-511e-94f6-80656736a45d",
+      "score": 0.8740406,
+      "metadata": {
+        "text": "core_product_name: test | acronymed_core_product_name: mlc test",
+        "raw_product_name": "MLC Test",
+        "list_of_product_ids": "13102",
+        "core_id": 1485.0
+      }
+    },
+    {
+      "id": "variant-676f7f9e-13f4-5f2d-95c5-6b3194f152fb",
+      "score": 0.87273157,
+      "metadata": {
+        "text": "core_product_name: infrared detector | acronymed_core_product_name: ir detector",
+        "raw_product_name": "IR DETECTOR",
+        "list_of_product_ids": "980,798,149,854",
+        "core_id": 1295.0
+      }
+    },
+    {
+      "id": "variant-0f1e1ce5-671f-518b-b863-86f86d8242c6",
+      "score": 0.8723473,
+      "metadata": {
+        "text": "core_product_name: motor control center | acronymed_core_product_name: mcc package",
+        "raw_product_name": "MCC PACKAGE",
+        "list_of_product_ids": "23571,23614,23565,23559,23554,23549,23541,23532",
+        "core_id": 1447.0
+      }
+    },
+    {
+      "id": "variant-cbe0500f-7d01-5cbf-84c0-579b2a7af5d7",
+      "score": 0.8721939,
+      "metadata": {
+        "text": "core_product_name: material | acronymed_core_product_name: ets material",
+        "raw_product_name": "ETS MATERIAL",
+        "list_of_product_ids": "139,563,828,136,667",
+        "core_id": 353.0
+      }
+    },
+    {
+      "id": "variant-f1cd44bb-1600-5b26-b939-96ee1bd21a72",
+      "score": 0.8721635,
+      "metadata": {
+        "text": "core_product_name: sorbent | acronymed_core_product_name: O SORB",
+        "raw_product_name": "O SORB",
+        "list_of_product_ids": "950,295,829,785",
+        "core_id": 1576.0
+      }
+    },
+    {
+      "id": "variant-e64b4dce-d2e2-544a-bcf3-c5af88e2d49c",
+      "score": 0.8721541,
+      "metadata": {
+        "text": "core_product_name: public address system | acronymed_core_product_name: pa system",
+        "raw_product_name": "PA SYSTEM",
+        "list_of_product_ids": "13866,24268,21000,31192,34985",
+        "core_id": 1620.0
+      }
+    },
+    {
+      "id": "variant-1a3809cb-702e-5689-ba92-d49d3b31d30a",
+      "score": 0.87207776,
+      "metadata": {
+        "text": "core_product_name: port | acronymed_core_product_name: aa port",
+        "raw_product_name": "AA PORT",
+        "list_of_product_ids": "14144,14661,19996,20125",
+        "core_id": 21.0
+      }
+    },
+    {
+      "id": "variant-3cd2022a-e6d7-5283-878e-71317fe9ce26",
+      "score": 0.8720011,
+      "metadata": {
+        "text": "core_product_name: lock",
+        "raw_product_name": "LOCKS",
+        "list_of_product_ids": "13622,17251,20004,20045,20112",
+        "core_id": 1379.0
+      }
+    },
+    {
+      "id": "variant-61a87f82-8d10-5559-a89c-b3b021162ebe",
+      "score": 0.8718182,
+      "metadata": {
+        "text": "core_product_name: lock fitting",
+        "raw_product_name": "LOCK FITTINGS",
+        "list_of_product_ids": "193,371,933,827,255",
+        "core_id": 1378.0
+      }
+    },
+    {
+      "id": "variant-1602c630-3be0-5bb6-b04e-5ecca52f1c28",
+      "score": 0.871628,
+      "metadata": {
+        "text": "core_product_name: closed circuit television | acronymed_core_product_name: CCTV",
+        "raw_product_name": "CCTV",
+        "list_of_product_ids": "5956,6784,11071,10174,11373,11847,11851,11843,12201,31186,34966,34976,34986,34997,35008,35017,40277,40256,40261,40260,40259,40258,40295",
+        "core_id": 323.0
+      }
+    },
+    {
+      "id": "variant-3c7d06a9-b03e-50f4-8458-d95b916a3373",
+      "score": 0.8706639,
+      "metadata": {
+        "text": "core_product_name: rotary liquid ring compressor | acronymed_core_product_name: vp(as)",
+        "raw_product_name": "COMPRESSURE ROTARY.LIQUID RING / VP(AS)",
+        "list_of_product_ids": "5,918,674,719,147",
+        "core_id": 408.0
+      }
+    },
+    {
+      "id": "variant-37eeede4-d2ad-5de8-8795-493b90cec7c2",
+      "score": 0.8704218,
+      "metadata": {
+        "text": "core_product_name: low pressure separator | acronymed_core_product_name: lp (low pressure) separator",
+        "raw_product_name": "LP SEPERATOR",
+        "list_of_product_ids": "1,367,120,991",
+        "core_id": 1398.0
+      }
+    },
+    {
+      "id": "variant-3e223247-4167-50b9-a8fc-276717666df6",
+      "score": 0.8695209,
+      "metadata": {
+        "text": "core_product_name: extraction column | acronymed_core_product_name: dso extraction column",
+        "raw_product_name": "DSO EXTRACTION COLUMN",
+        "list_of_product_ids": "6,021,520,012,349",
+        "core_id": 636.0
+      }
+    },
+    {
+      "id": "variant-6f0d62ac-9bd0-5eac-ba3b-e04dc52329d6",
+      "score": 0.86946094,
+      "metadata": {
+        "text": "core_product_name: life saving appliance | acronymed_core_product_name: lsa (life saving appliance)",
+        "raw_product_name": "SHIP REPAIR- LIFE SAVING APPLIANCE (LSA)",
+        "list_of_product_ids": "29500,29291,29288,29286",
+        "core_id": 2012.0
+      }
+    },
+    {
+      "id": "variant-327a47ca-7b81-5e93-90bc-e6781974a338",
+      "score": 0.86902577,
+      "metadata": {
+        "text": "core_product_name: fire safe damper valve | acronymed_core_product_name: fsd valve",
+        "raw_product_name": "FSD VALVE",
+        "list_of_product_ids": "17285,17287,25960,26144,35979,40246",
+        "core_id": 983.0
+      }
+    },
+    {
+      "id": "variant-1e46909f-5be3-54cb-af61-1774897dadd6",
+      "score": 0.86897665,
+      "metadata": {
+        "text": "core_product_name: cathodic protection system | acronymed_core_product_name: cp system",
+        "raw_product_name": "CP SYSTEM",
+        "list_of_product_ids": "15360,15379,15381,15383,18186,19518,40163,40168,40190,40238,40233",
+        "core_id": 503.0
+      }
+    },
+    {
+      "id": "variant-6ebe8767-15c5-5f7d-819b-18a6af2e7865",
+      "score": 0.868966,
+      "metadata": {
+        "text": "core_product_name: motor | acronymed_core_product_name: lt motor (low tension motor) | type_or_class: Low Tension (LT)",
+        "raw_product_name": "LT MOTOR",
+        "list_of_product_ids": "154,181,588,723,135",
+        "core_id": 556.0
+      }
+    },
+    {
+      "id": "variant-1388d05e-83a1-5b32-b98d-095012ca20a0",
+      "score": 0.8689564,
+      "metadata": {
+        "text": "core_product_name: inner casing casting | acronymed_core_product_name: ip inner casing casting",
+        "raw_product_name": "IP INNER CASING CASTING",
+        "list_of_product_ids": "13762,14954,14960,14966,14971,14977,14989,14996,14984,14992,21375,21538",
+        "core_id": 1292.0
+      }
+    },
+    {
+      "id": "variant-255f8dd3-9c2f-5f58-a866-8a5ace2d7df7",
+      "score": 0.8689552,
+      "metadata": {
+        "text": "core_product_name: portal | acronymed_core_product_name: ofa portal",
+        "raw_product_name": "OFA PORTAL",
+        "list_of_product_ids": "14021,14660,19995,20124",
+        "core_id": 1577.0
+      }
+    }
+  ]
+}

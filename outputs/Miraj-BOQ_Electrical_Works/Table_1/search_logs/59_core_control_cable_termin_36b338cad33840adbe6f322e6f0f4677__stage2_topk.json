@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: control cable termination | size: cable: 20Cx2.5 sqmm | feature_or_specifications: conductor material: copper, termination kit: included",
+  "retrieval_results": [
+    {
+      "id": "variant-5f6025f4-d869-56e7-bced-6488b91fa952",
+      "score": 0.87679046,
+      "metadata": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": "6444,5614,11000,12263,12344,15781,23866,24503",
+        "core_id": 282.0
+      }
+    },
+    {
+      "id": "variant-b2fd74a4-89f2-5719-ba63-b6451df8aa47",
+      "score": 0.86873287,
+      "metadata": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": "32910,32911,33009,33041,33195,33260,33562,33633,35922",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-852e0cf7-491f-5120-8c23-037d62b5cec0",
+      "score": 0.86286575,
+      "metadata": {
+        "text": "core_product_name: solid conductor | material: Copper",
+        "raw_product_name": "SOLID COPPER CONDUCTOR",
+        "list_of_product_ids": "180,781,807,918,591",
+        "core_id": 2063.0
+      }
+    },
+    {
+      "id": "variant-415d3f4c-4cc5-5cc9-9229-84cf4ef1c9ae",
+      "score": 0.8623085,
+      "metadata": {
+        "text": "core_product_name: electric wire | material: Copper",
+        "raw_product_name": "ELECTRIC COPPER WIRE",
+        "list_of_product_ids": "211,542,115,028,492",
+        "core_id": 688.0
+      }
+    },
+    {
+      "id": "variant-bb001d38-b128-522d-9d87-0b59ec1edf02",
+      "score": 0.8609265,
+      "metadata": {
+        "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+        "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+        "list_of_product_ids": "140,901,478,121,282",
+        "core_id": 313.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.8576972,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-035e5d74-4fc0-5854-ace0-4826f9b36c25",
+      "score": 0.8570021,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+        "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+        "list_of_product_ids": "19885,19880,24078,23930,27348",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-5199ab2c-72e1-55de-929a-5ccc5de62bfd",
+      "score": 0.8535235,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | type_or_class: Control",
+        "raw_product_name": "INSTRUMENTATION CABLES (CONTROL)",
+        "list_of_product_ids": "13723,14729,14736,14743,14766,14774,14834,15159,15185,15169,15834,19883,24060,23911,20049,38759,38600,38680,38626,38708,38654,38733,38785,38844,38876,38918,38944,38981,39008,39036,39051,39104,39134,39182,39210,39263,39284,39330,39366,39395,39425,39476,39531,39558,39596,39620,39648,39682,39722,39792,39820,39891",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-accb30cd-95a1-5192-91a8-1f932f8e1a69",
+      "score": 0.8514108,
+      "metadata": {
+        "text": "core_product_name: flexible wire | material: Copper",
+        "raw_product_name": "FLEXIBLE COPPER WIRES",
+        "list_of_product_ids": "136,081,478,520,094",
+        "core_id": 912.0
+      }
+    },
+    {
+      "id": "variant-dc9bd585-6e63-5149-b6ce-8c3a23715608",
+      "score": 0.8507414,
+      "metadata": {
+        "text": "core_product_name: control cable | type_or_class: Control",
+        "raw_product_name": "CABLES:CONTROL",
+        "list_of_product_ids": "10003,10018,10247,14646,36569,24046,23897",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-d6171005-2a99-53db-a388-670f27dc51ec",
+      "score": 0.85071415,
+      "metadata": {
+        "text": "core_product_name: control cable | type_or_class: Control",
+        "raw_product_name": "CONTROL CABLE",
+        "list_of_product_ids": "14006,15171,15812,15972,36570,20132",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-a88868c3-e02b-556c-afb5-f9319567fc58",
+      "score": 0.8506705,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLES",
+        "list_of_product_ids": "15455,13721,24275,15161,16241,19098,23820,23814,21319,19315,23819,23822,24273,23829,20141,23831,24058,23836,23909,23839,23828,24685,24726,24844,24955,31590,31591,26436,26438,31740,33330",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-7f090a1a-b828-5a18-86a5-0ef23d51283a",
+      "score": 0.8506357,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLE STOCKIST/TRADERS",
+        "list_of_product_ids": "2,467,924,680",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-e7e36f9e-c2bd-5fb1-9e61-4ed595438655",
+      "score": 0.8506103,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper and Alloys",
+        "raw_product_name": "TUBE COPPER AND ALLOYS",
+        "list_of_product_ids": "6308,5479,8815,8816,31806",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-d01e7f04-41a2-5983-a7cb-2052b99c5edb",
+      "score": 0.8503638,
+      "metadata": {
+        "text": "core_product_name: control cable | protection_features: Fire Survival",
+        "raw_product_name": "CONTROL CABLE - FIRE SURVIVAL",
+        "list_of_product_ids": "6424,5594,10194,10666,11369,11371,12120,13290,15814,17323,17783,23993,23862",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-3d0bde07-4300-58a1-948b-3e37bc58efa5",
+      "score": 0.8499086,
+      "metadata": {
+        "text": "core_product_name: seal | material: Copper",
+        "raw_product_name": "COPPER SEAL",
+        "list_of_product_ids": "214,332,143,227,055",
+        "core_id": 487.0
+      }
+    },
+    {
+      "id": "variant-371b3ece-a606-5c8d-9ec9-de52fb9e3846",
+      "score": 0.84973204,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper | construction_features: Coated | construction_features: Bare",
+        "raw_product_name": "COPPER TUBES(COATED,BARE)",
+        "list_of_product_ids": "6,487,565,818,967",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-b722d3a4-0ea7-52cf-9586-094ccbee23e0",
+      "score": 0.84895355,
+      "metadata": {
+        "text": "core_product_name: screened cable | special_attributes: Screened cable",
+        "raw_product_name": "SCREENED CABLES",
+        "list_of_product_ids": "13881,14838,15808,20059,20100,24067,23919",
+        "core_id": 1976.0
+      }
+    },
+    {
+      "id": "variant-fd13ccfd-2158-5657-967f-7707e9b442e3",
+      "score": 0.848613,
+      "metadata": {
+        "text": "core_product_name: commercial cable",
+        "raw_product_name": "COMMERCIAL CABLE",
+        "list_of_product_ids": "20779,20808,20806,21176,21175,27361",
+        "core_id": 400.0
+      }
+    },
+    {
+      "id": "variant-7e1aa705-6ce6-5c4a-a6c2-4d65697224b6",
+      "score": 0.8473788,
+      "metadata": {
+        "text": "core_product_name: cable tie",
+        "raw_product_name": "CABLE TIES",
+        "list_of_product_ids": "24081,21169,21168,23932,27351",
+        "core_id": 284.0
+      }
+    },
+    {
+      "id": "variant-f2ac1e37-b35c-5116-bd5e-47a63da76831",
+      "score": 0.8454691,
+      "metadata": {
+        "text": "core_product_name: cable | material: Rubber",
+        "raw_product_name": "RUBBER CABLES",
+        "list_of_product_ids": "38749,38955,38670,38589,38533,38534,38615,38698,38775,38723,38643,38834,38866,38908,38934,38971,38998,39026,39060,39094,39124,39172,39225,39253,39295,39345,39381,39410,39440,39456,39491,39546,39573,39611,39635,39663,39697,39737,39807,39835,39906",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-323bf0e7-9d8f-5ea5-9cad-eb58b0ac6448",
+      "score": 0.8452006,
+      "metadata": {
+        "text": "core_product_name: special cable",
+        "raw_product_name": "SPECIAL CABLES",
+        "list_of_product_ids": "13989,14840,20102,20070,24071,23923",
+        "core_id": 2074.0
+      }
+    },
+    {
+      "id": "variant-bb96db43-a603-5b08-b082-1a787ab9db3c",
+      "score": 0.8450576,
+      "metadata": {
+        "text": "core_product_name: conduit accessory",
+        "raw_product_name": "CONDUIT ACCESSORIES",
+        "list_of_product_ids": "20550,20514,20591,20632,20686,20744",
+        "core_id": 439.0
+      }
+    },
+    {
+      "id": "variant-8da86637-640e-57ed-97ed-42c7b129a944",
+      "score": 0.84420305,
+      "metadata": {
+        "text": "core_product_name: copper pipe",
+        "raw_product_name": "COPPER PIPE",
+        "list_of_product_ids": "757,172,467,754",
+        "core_id": 486.0
+      }
+    },
+    {
+      "id": "variant-272261cc-0ac7-5e62-bdc4-b8b3ba555a0a",
+      "score": 0.8440273,
+      "metadata": {
+        "text": "core_product_name: power cable",
+        "raw_product_name": "POWER CABLE",
+        "list_of_product_ids": "13440,14645,15813,29442,29447,29448,24045,23896,36583,36611,38139",
+        "core_id": 3.0
+      }
+    },
+    {
+      "id": "variant-694e9b22-1590-52c8-9da7-95e6af8ae4f3",
+      "score": 0.8435719,
+      "metadata": {
+        "text": "core_product_name: terminal strip",
+        "raw_product_name": "TERMINAL STRIPS",
+        "list_of_product_ids": "1,400,220,181",
+        "core_id": 2231.0
+      }
+    },
+    {
+      "id": "variant-15ca187e-cd07-5d26-97a3-bc3253a37314",
+      "score": 0.8430925,
+      "metadata": {
+        "text": "core_product_name: commercial wire",
+        "raw_product_name": "COMMERCIAL WIRE",
+        "list_of_product_ids": "20790,20807,21174,21177,28616,20809",
+        "core_id": 403.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.84303296,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-5c538932-61bc-544a-8e03-a60714eafe3a",
+      "score": 0.8427917,
+      "metadata": {
+        "text": "core_product_name: electrical strip",
+        "raw_product_name": "ELECTRICAL STRIPS",
+        "list_of_product_ids": "211,512,115,528,461",
+        "core_id": 714.0
+      }
+    },
+    {
+      "id": "variant-76f2380b-e820-5790-96f0-0815dbd8e1a4",
+      "score": 0.8424902,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper | construction_features: PVC (Polyvinyl Chloride) coated",
+        "raw_product_name": "COPPER TUBE (PVC COATED)",
+        "list_of_product_ids": "16380,16442,16464,16437",
+        "core_id": 88.0
+      }
+    }
+  ]
+}

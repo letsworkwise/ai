@@ -1,0 +1,158 @@
+{
+  "sheet_name": "Geotech",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "GEOTECH > GROUND IMPROVEMENT > SAND GRAVEL MIX",
+      "full_product_description": "Supplying and filling sand gravel mix (1:1) with approved aggregate below road, RCC pavement, manholes, pits, foundations, bedding of UG piping etc. in layers of 150 mm loose thickness (maximum) including watering, ramming, rolling, compacting to achieve 85% relative density as per IS 2720 Part-XIV, quarrying, royalties, transportation, handling, etc. all complete as per drawings, specifications and directions of Engineer-in-Charge. (The rate shall be inclusive of the cost of all labour, material, equipment etc. all complete)",
+      "core_product_name": "sand gravel mix",
+      "acronymed_core_product_name": "",
+      "size": "layer thickness: 150 mm (loose)",
+      "feature_or_specifications": "mix ratio: 1:1, aggregate: approved, application: below road, RCC pavement, manholes, pits, foundations, bedding of UG piping, compaction: 85% relative density, standard: indian standard 2720 Part-XIV, feature: watering, ramming, rolling, compacting, quarrying, royalties, transportation, handling, as per drawings, specifications and directions of Engineer-in-Charge, inclusive of all labour, material, equipment",
+      "quantity": "600.0",
+      "unit": "cum"
+    },
+    {
+      "section_context_for_this_product_block": "GEOTECH > GROUND IMPROVEMENT > GEOGRID",
+      "full_product_description": "Supplying and laying of Tensar Geogrid SS-40 or equivalent below roads, RCC pavements, manholes, in pipe trenches, culverts, foundations, hard stand etc. including overlap length, royalties, taxes, handling, transportation, unloading, storage, etc. all complete as per drawings, manufacturers specification and direction of Engineer-in-Charge.",
+      "core_product_name": "geogrid",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "brand: Tensar or equivalent, model: SS-40, application: below roads, RCC pavements, manholes, pipe trenches, culverts, foundations, hard stand, feature: overlap length, royalties, taxes, handling, transportation, unloading, storage, as per drawings, manufacturers specification and direction of Engineer-in-Charge",
+      "quantity": "1200.0",
+      "unit": "sqm"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      0,
+      9
+    ],
+    "original_rows": [
+      {
+        "0": 715,
+        "1": 0,
+        "2": "01GG",
+        "3": "GEOTECH",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 716,
+        "1": 0,
+        "2": "01GG.300",
+        "3": "GROUND IMPROVEMENT",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 717,
+        "1": 0,
+        "2": "01GG.300.1",
+        "3": "SAND GRAVEL MIX",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 718,
+        "1": 0,
+        "2": "01GG.300.1.1",
+        "3": "Supplying and filling sand gravel mix (1:1) with approved aggregate below road, RCC pavement, manholes, pits, foundations, bedding of UG piping etc. in layers of 150 mm loose thickness (maximum) including watering, ramming, rolling, compacting to achieve 85% relative density as per IS 2720 Part-XIV, quarrying, royalties, transportation, handling, etc. all complete as per drawings, specifications and directions of Engineer-in-Charge. (The rate shall be inclusive of the cost of all labour, material, equipment etc. all complete)",
+        "4": 600.0,
+        "5": "cum",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 719,
+        "1": 0,
+        "2": "01GG.300.2",
+        "3": "GEOGRID",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 720,
+        "1": 0,
+        "2": "01GG.300.2.1",
+        "3": "Supplying and laying of Tensar Geogrid SS-40 or equivalent below roads, RCC pavements, manholes, in pipe trenches, culverts, foundations, hard stand etc. including overlap length, royalties, taxes, handling, transportation, unloading, storage, etc. all complete as per drawings, manufacturers specification and direction of Engineer-in-Charge.",
+        "4": 1200.0,
+        "5": "sqm",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 721,
+        "1": 0,
+        "2": "01GG.302",
+        "3": "DESIGN & INSTALLATION OF STONE COLUMNS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 722,
+        "1": 0,
+        "2": "01GG.302.1",
+        "3": "STONE COLUMNS BY VIBROFLOAT METHOD",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 723,
+        "1": 0,
+        "2": "01GG.302.1.MH2",
+        "3": "Installation of 900mm diameter stone columns of required length as per design by VIBROFLOAT method in triangular pattern at 1.8 to 2.0m c/c spacing (tentative) as shown in approved drawings, with approved stone material up to finished grade level, removal of slush & undesirable material accumulated on surface if any during stone column installation, including necessary dewatering & keeping the surface dry for subsequent works, including mobilizing Plant, equipment, tools and tackles and personnel at site complete for all types of field tests, installation of stone columns, testing, etc. and demobilization at the end of the work, shifting of plant and equipment between locations, supply of all necessary materials with any adjunct ancillary works and cleaning of site after installation etc. all complete, as per specifications, drawings and directions of Engineer-in-Charge.",
+        "4": 9700.0,
+        "5": "RM",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 724,
+        "1": 0,
+        "2": "01GG.304",
+        "3": "SAND BLANKETS OVER STONE COLUMNS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2381,
+    "completion_tokens": 999
+  }
+}

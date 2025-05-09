@@ -1,0 +1,88 @@
+{
+  "sheet_name": "General Civil",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)",
+      "full_product_description": "Supplying and laying film lining with cement concrete lining of M-20 grade with 20mm and down size graded stone aggregates in reservoir, channels, etc. , including preparation of sub-grade, 75MM thick fine sand fill over sub-grade, laying Laminated High Density Polyethylene (HDPE) Woven Fabric (Geo-Membrane) 0.25 mm thick (Type-I), as per IS: 15351, jointing of film as per manufacturers recommendations including providing overlap,   providing 10mm thick 1:6 cement mortar plaster on the film, disposal of surplus earth/ unserviceable material  within a lead of 500M as directed, rolling and testing, laying concrete, leaving pockets, making drains, laying in alternate panels, shuttering the edges, curing, finishing the top surface smooth including complete cost of taking and testing concrete cubes and testing of reservoir/ pond after completion of work, including dewatering of accumulated water from any source and keeping the surface dry for subsequent works etc. complete as per drawings, specifications and directions of Engineer-in-Charge. For lining thickness of 100 mm on horizontal surface (All material including cement supplied by the contractor) (ITEM NO: 01GC.19.4.5)",
+      "core_product_name": "film lining with cement concrete lining",
+      "acronymed_core_product_name": "",
+      "size": "stone aggregate size: 20mm and down, sand fill thickness: 75mm, geo-membrane thickness: 0.25 mm, plaster thickness: 10mm, lining thickness: 100 mm",
+      "feature_or_specifications": "concrete grade: m-20, geo-membrane type: laminated high density polyethylene (hdpe) woven fabric (geo-membrane) type-i, geo-membrane standard: indian standard 15351, mortar mix: 1:6 cement mortar, material supply: all material including cement supplied by the contractor, lead for disposal: 500m, as per drawings/specifications/direction",
+      "quantity": "4580.0",
+      "unit": "m²"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      25,
+      29
+    ],
+    "original_rows": [
+      {
+        "0": 674,
+        "1": 0,
+        "2": "01GC.19.4",
+        "3": "Supplying and laying film lining with cement concrete lining of M-20 grade with 20mm and down size graded stone aggregates in reservoir, channels, etc. , including preparation of sub-grade, 75MM thick fine sand fill over sub-grade, laying Laminated High Density Polyethylene (HDPE) Woven Fabric (Geo-Membrane) 0.25 mm thick (Type-I), as per IS: 15351, jointing of film as per manufacturers recommendations including providing overlap,   providing 10mm thick 1:6 cement mortar plaster on the film, disposal of surplus earth/ unserviceable material  within a lead of 500M as directed, rolling and testing, laying concrete, leaving pockets, making drains, laying in alternate panels, shuttering the edges, curing, finishing the top surface smooth including complete cost of taking and testing concrete cubes and testing of reservoir/ pond after completion of work, including dewatering of accumulated water from any source and keeping the surface dry for subsequent works etc. complete as per drawings, specifications and directions of Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 675,
+        "1": 0,
+        "2": "01GC.19.4.5",
+        "3": "For lining thickness of 100 mm on horizontal surface (All material including cement supplied by the contractor)",
+        "4": 4580.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 676,
+        "1": 0,
+        "2": "01GC.27",
+        "3": "Modification Works",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 677,
+        "1": 0,
+        "2": "01GC.27.1",
+        "3": "MODIFICATION AND EXTRA WORKS ( IF ANY ) Cuting,bevelling,fitup,welding of different sizes of CS piping of all thicknesses in shop ,in position, on ground and at all elevations, transportation of pipes,fittings,flanges etc. from owner's storage point to work site/workshop,making necessary scaffolding,consumables,machinery,tools,tackles,labour and supervision including attending to repairs for completing the work as per instructions of Engineer -in - charge",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 678,
+        "1": 0,
+        "2": "01GC.27.1.1",
+        "3": "Flame cutting CS piping",
+        "4": 240.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 3090,
+    "completion_tokens": 800
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "query": "core_product_name: machinery hiring charges",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: machine",
+        "raw_product_name": "MACHINE",
+        "list_of_product_ids": [
+          "24311",
+          "24313",
+          "39774",
+          "26875",
+          "39517",
+          "39044",
+          "39193",
+          "39235",
+          "39274",
+          "39351",
+          "39462",
+          "39502",
+          "39707",
+          "39863",
+          "39953",
+          "40014",
+          "40061",
+          "40111",
+          "40221",
+          "40249",
+          "40288"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: machine tool",
+        "raw_product_name": "MACHINE TOOLS",
+        "list_of_product_ids": [
+          "19276",
+          "19271",
+          "19293",
+          "19272",
+          "27797",
+          "33209",
+          "33274",
+          "35936",
+          "39072",
+          "39192",
+          "39234",
+          "39273",
+          "39461",
+          "39350",
+          "39501",
+          "39518",
+          "39706",
+          "39775",
+          "39862",
+          "39952",
+          "40013",
+          "40060",
+          "40110",
+          "40220",
+          "40248",
+          "40287"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: hand drilling machine",
+        "raw_product_name": "HAND DRILLING MACHINE",
+        "list_of_product_ids": [
+          "39082",
+          "39083",
+          "39109",
+          "39196",
+          "39238",
+          "39277",
+          "39354",
+          "39465",
+          "39506",
+          "39514",
+          "39711",
+          "39771",
+          "39866",
+          "39957",
+          "40018",
+          "40065",
+          "40115",
+          "40223",
+          "40251",
+          "40290"
+        ]
+      }
+    }
+  ]
+}

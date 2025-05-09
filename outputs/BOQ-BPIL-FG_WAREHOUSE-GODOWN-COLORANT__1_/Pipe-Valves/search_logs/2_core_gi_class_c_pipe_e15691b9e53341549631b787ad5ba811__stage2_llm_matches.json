@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: gi class c pipe | size: size: 100NB | feature_or_specifications: standard: indian standard 1239 (part-i), make: tata",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "Standards & Approvals"
+      ],
+      "match_details": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards) 1239 | construction_features: Black | construction_features: GI (Galvanized Iron)",
+        "raw_product_name": "PIPE-CARBON STEEL IS - 1239 (BLACK & GI)",
+        "list_of_product_ids": [
+          "13923",
+          "21043",
+          "21299",
+          "21563",
+          "22892",
+          "37032",
+          "37034",
+          "37013",
+          "37017",
+          "37033"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Standards & Approvals"
+      ],
+      "match_details": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards): 1239",
+        "raw_product_name": "PIPE-CARBON STEEL IS: 1239",
+        "list_of_product_ids": [
+          "13999",
+          "15697",
+          "21642",
+          "22745",
+          "22894"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Standards & Approvals"
+      ],
+      "match_details": {
+        "text": "core_product_name: pipe | raw_product_name: PIPES- INDIAN STOCKIST"
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: reducing elbow | size: elbow size: 25X15 NB, side size: 15 NB | feature_or_specifications: feature: grooved, side: threaded",
+  "retrieval_results": [
+    {
+      "id": "variant-debcf96a-5534-5d1a-a9c3-19d56dae7053",
+      "score": 0.86013097,
+      "metadata": {
+        "text": "core_product_name: elbow fitting",
+        "raw_product_name": "FITTINGS –ELBOW",
+        "list_of_product_ids": "14264,14692,14667,14709,14902,14914,15995,16042,18891,18937,19402,19723,19798,19792,20060,20167,20935,21918,22659,22655,22914,36880,36883,27766,27756,27746,27736,27726,27775,37065,36443",
+        "core_id": 880.0
+      }
+    },
+    {
+      "id": "variant-2e84cef9-327a-515b-8b9e-5d2b777c59cb",
+      "score": 0.8566115,
+      "metadata": {
+        "text": "core_product_name: elbowlet",
+        "raw_product_name": "ELBOWLET",
+        "list_of_product_ids": "14395,14719,14722,14725,19815,22922",
+        "core_id": 681.0
+      }
+    },
+    {
+      "id": "variant-35bdbbe9-b7f3-5e25-bd6d-8692b3ca9a57",
+      "score": 0.8529356,
+      "metadata": {
+        "text": "core_product_name: reducing socket",
+        "raw_product_name": "REDUCING SOCKET",
+        "list_of_product_ids": "1,547,915,481",
+        "core_id": 1881.0
+      }
+    },
+    {
+      "id": "variant-7d01faaf-1c91-53b8-af60-366b4bc3cea8",
+      "score": 0.8516978,
+      "metadata": {
+        "text": "core_product_name: reduced flange",
+        "raw_product_name": "REDUCED FLANGE",
+        "list_of_product_ids": "15468,15474,15476,15477",
+        "core_id": 1879.0
+      }
+    },
+    {
+      "id": "variant-50965ce0-da9f-5ccd-8e38-934aa3d27a7e",
+      "score": 0.84603435,
+      "metadata": {
+        "text": "core_product_name: reduced bore ball valve",
+        "raw_product_name": "REDUCED BORE BALL VALVE",
+        "list_of_product_ids": "13496,14677,14685,14871,14928,15074,15126,22527,34319,35462",
+        "core_id": 1878.0
+      }
+    },
+    {
+      "id": "variant-92f9e4dd-f962-51ec-8d59-b6138a3feaff",
+      "score": 0.84398264,
+      "metadata": {
+        "text": "core_product_name: shrink sleeve",
+        "raw_product_name": "SHRINK SLEEVES",
+        "list_of_product_ids": "184,551,848,818,454",
+        "core_id": 2019.0
+      }
+    },
+    {
+      "id": "variant-7ac33587-ed2a-5558-a77f-e7e94b7bea10",
+      "score": 0.8426187,
+      "metadata": {
+        "text": "core_product_name: reducer fitting",
+        "raw_product_name": "FITTINGS –REDUCER",
+        "list_of_product_ids": "14266,14694,14669,14711,14904,14916,15997,16050,18893,19404,18961,19724,19801,19794,20061,20172,20937,21920,22662,22657,22916,23198,27768,27758,27748,27738,27728,27774,37066,36449",
+        "core_id": 879.0
+      }
+    },
+    {
+      "id": "variant-59191729-a9c1-556f-8830-f0b597cd9727",
+      "score": 0.8417202,
+      "metadata": {
+        "text": "core_product_name: pressure reducing valve",
+        "raw_product_name": "PRESSURE REDUCING VALVE",
+        "list_of_product_ids": "9998,10023,10223,13173,13389,17852,17906,17904,18046,22681,23085,23331,36634,40239",
+        "core_id": 1774.0
+      }
+    },
+    {
+      "id": "variant-bcd40519-0040-5b3c-840e-6fbad51e5e99",
+      "score": 0.8399851,
+      "metadata": {
+        "text": "core_product_name: gear reducer",
+        "raw_product_name": "Gear Reducer",
+        "list_of_product_ids": "7533,7207,9725,27767,27757,27747,27737,27727,27772",
+        "core_id": 1082.0
+      }
+    },
+    {
+      "id": "variant-1b7571e9-3f95-5cec-879a-0f96d023f242",
+      "score": 0.8377953,
+      "metadata": {
+        "text": "core_product_name: large bellow | material: Elastomer",
+        "raw_product_name": "ELASTOMER LARGE BELLOW",
+        "list_of_product_ids": "1,382,321,736",
+        "core_id": 680.0
+      }
+    },
+    {
+      "id": "variant-b5e87529-625e-552b-b6df-173a5d45618c",
+      "score": 0.8376176,
+      "metadata": {
+        "text": "core_product_name: restriction orifice",
+        "raw_product_name": "RESTRICTION ORIFICE",
+        "list_of_product_ids": "8334,14373,14625,14845,14897,17138,17297,17291,17290,17795,18034,19640,10652,21402,22350,36216,36368",
+        "core_id": 1904.0
+      }
+    },
+    {
+      "id": "variant-3efeda5d-6e70-51e8-8f2e-ad8a9436822e",
+      "score": 0.8373436,
+      "metadata": {
+        "text": "core_product_name: bend",
+        "raw_product_name": "BENDS",
+        "list_of_product_ids": "219,382,194,421,936",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-520c4d80-89df-56ac-90b7-cc15690154ea",
+      "score": 0.83580136,
+      "metadata": {
+        "text": "core_product_name: gas pressure reducing skid",
+        "raw_product_name": "GAS PRESSURE REDUCING SKIDS",
+        "list_of_product_ids": "6611,5781,10912,11300,10913,12215,16155,23646,30902,36926,38503,38473,38474,38486,38493",
+        "core_id": 1034.0
+      }
+    },
+    {
+      "id": "variant-223a653f-ce26-546e-9630-21d058f384c7",
+      "score": 0.83520603,
+      "metadata": {
+        "text": "core_product_name: grating",
+        "raw_product_name": "GRATINGS",
+        "list_of_product_ids": "218,522,185,428,606",
+        "core_id": 1068.0
+      }
+    },
+    {
+      "id": "variant-dc67092d-c747-58a3-9b64-a36fa7d1d5e6",
+      "score": 0.834785,
+      "metadata": {
+        "text": "core_product_name: bracing",
+        "raw_product_name": "BRACING",
+        "list_of_product_ids": "20880,20863,20902,21910,21951,22023,22088,22121",
+        "core_id": 239.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8347497,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-93987a99-4ac7-592e-92b4-e5207d77fe5d",
+      "score": 0.834173,
+      "metadata": {
+        "text": "core_product_name: small fabrication job",
+        "raw_product_name": "SMALL FABRICATION JOB",
+        "list_of_product_ids": "24981,24980,24979,26756",
+        "core_id": 2044.0
+      }
+    },
+    {
+      "id": "variant-98279854-84dd-59c7-9a77-4d59d712ced7",
+      "score": 0.83394873,
+      "metadata": {
+        "text": "core_product_name: bend | special_attributes: 5D (5 times diameter) radius",
+        "raw_product_name": "5D BENDS",
+        "list_of_product_ids": "14162,18289,20009,20007,19998,21405,23291,37862,37395,40120,40094",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-ca2bafe6-22b6-5230-b196-6b0dda111306",
+      "score": 0.8337947,
+      "metadata": {
+        "text": "core_product_name: compressed breathing apparatus",
+        "raw_product_name": "BREATHING APPARATUS - COMPRESSED",
+        "list_of_product_ids": "24212,24216,26883,37472",
+        "core_id": 243.0
+      }
+    },
+    {
+      "id": "variant-fb879217-9876-5ce0-86f6-605e1593cb4e",
+      "score": 0.83348864,
+      "metadata": {
+        "text": "core_product_name: diaphragm closure",
+        "raw_product_name": "DIAPHRAGM CLOSURE",
+        "list_of_product_ids": "19131,19138,19139,38481",
+        "core_id": 583.0
+      }
+    },
+    {
+      "id": "variant-a6e25b2b-dc36-5db6-9320-5e3e3734f5f4",
+      "score": 0.8331194,
+      "metadata": {
+        "text": "core_product_name: bellow sealed valve",
+        "raw_product_name": "VALVE BELLOW SEALED",
+        "list_of_product_ids": "6253,5422,10996,8384,8576,8651,8632,8687,8733",
+        "core_id": 2344.0
+      }
+    },
+    {
+      "id": "variant-086b9eed-56e2-5efe-b5a1-8607125d7cf1",
+      "score": 0.8325975,
+      "metadata": {
+        "text": "core_product_name: hinged closure",
+        "raw_product_name": "HINGED CLOSURES",
+        "list_of_product_ids": "16126,16175,17330,17551,36725,34728,34730,34754,34851",
+        "core_id": 1134.0
+      }
+    },
+    {
+      "id": "variant-39fce78b-8d44-56c5-9c95-7e9a9934ea56",
+      "score": 0.8320991,
+      "metadata": {
+        "text": "core_product_name: width gauge",
+        "raw_product_name": "Width Gauge",
+        "list_of_product_ids": "7552,7226,10509,18014",
+        "core_id": 2491.0
+      }
+    },
+    {
+      "id": "variant-7f342f16-0dd1-50df-bb92-f2e717b86126",
+      "score": 0.83202404,
+      "metadata": {
+        "text": "core_product_name: relief valve",
+        "raw_product_name": "VALVE RELIEF",
+        "list_of_product_ids": "14046,15292,22346,30833,36632",
+        "core_id": 2370.0
+      }
+    },
+    {
+      "id": "variant-2f93d8f7-a73a-5975-bf77-9375f12bceaf",
+      "score": 0.83188593,
+      "metadata": {
+        "text": "core_product_name: geared motor | size_or_capacity: below 5 kW",
+        "raw_product_name": "Geared Motor(below 5 kW)",
+        "list_of_product_ids": "7027,7355,10478,10515,10519,10531,10521,10808,10806,35411",
+        "core_id": 1084.0
+      }
+    },
+    {
+      "id": "variant-b55a4457-928b-5d4f-a0d7-6fb8f7583369",
+      "score": 0.83164537,
+      "metadata": {
+        "text": "core_product_name: insulating joint",
+        "raw_product_name": "INSULATING JOINTS",
+        "list_of_product_ids": "6206,5375,12910,31006,31054,31064",
+        "core_id": 1269.0
+      }
+    },
+    {
+      "id": "variant-c272cfc6-cf4b-5ec8-ab5f-7397cd5600cc",
+      "score": 0.83150506,
+      "metadata": {
+        "text": "core_product_name: horizontal brace",
+        "raw_product_name": "HORIZONTAL BRACE",
+        "list_of_product_ids": "199,091,991,428,350",
+        "core_id": 1141.0
+      }
+    },
+    {
+      "id": "variant-9aa36f08-e097-54b1-94fe-8359583782f8",
+      "score": 0.83105993,
+      "metadata": {
+        "text": "core_product_name: orifice fitting",
+        "raw_product_name": "ORIFICE - FITTINGS",
+        "list_of_product_ids": "36537,36541,36539,36546",
+        "core_id": 1602.0
+      }
+    },
+    {
+      "id": "variant-808cb5c1-0ad0-5acd-a87d-fc7689db9ddd",
+      "score": 0.8309384,
+      "metadata": {
+        "text": "core_product_name: tube suppression system",
+        "raw_product_name": "TUBE SUPPRESSION SYSTEM",
+        "list_of_product_ids": "3,247,232,473",
+        "core_id": 2284.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.8307789,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    }
+  ]
+}

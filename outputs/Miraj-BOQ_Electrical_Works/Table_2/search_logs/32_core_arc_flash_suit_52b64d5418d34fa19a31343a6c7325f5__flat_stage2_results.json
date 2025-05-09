@@ -1,0 +1,452 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.84084654,
+      "text": "core_product_name: cable | size_or_capacity: 11KV (11 kiloVolt) | material: XLPE (Cross Linked Polyethylene)",
+      "core_id": 1.0,
+      "raw_product_name": "11KV CABLE XLPE",
+      "list_of_product_ids": [
+        "23938",
+        "24087",
+        "21515",
+        "27081"
+      ]
+    },
+    {
+      "retrieval_score": 0.8401025,
+      "text": "core_product_name: cable | size_or_capacity: 1100 Volts",
+      "core_id": 1.0,
+      "raw_product_name": "1100 VOLTS GRADE CABLES",
+      "list_of_product_ids": [
+        "24084",
+        "21508",
+        "23935",
+        "27355"
+      ]
+    },
+    {
+      "retrieval_score": 0.8342996,
+      "text": "core_product_name: cathodic protection power supply module",
+      "core_id": 315.0,
+      "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+      "list_of_product_ids": [
+        "6413",
+        "5583",
+        "8417",
+        "12209"
+      ]
+    },
+    {
+      "retrieval_score": 0.8341393,
+      "text": "core_product_name: cathodic protection system",
+      "core_id": 503.0,
+      "raw_product_name": "Cathodic Protection System",
+      "list_of_product_ids": [
+        "18681",
+        "19166",
+        "21519",
+        "18680",
+        "36550"
+      ]
+    },
+    {
+      "retrieval_score": 0.83387756,
+      "text": "core_product_name: product quality analyser | type_or_class: Flash Point",
+      "core_id": 1793.0,
+      "raw_product_name": "PRODUCT QUALITY ANALYSERS (FLASH POINT)",
+      "list_of_product_ids": [
+        "6555",
+        "5725",
+        "11197",
+        "10146",
+        "11894",
+        "20860",
+        "22042",
+        "29877",
+        "29647",
+        "32945",
+        "35349",
+        "36236",
+        "36388"
+      ]
+    },
+    {
+      "retrieval_score": 0.83328784,
+      "text": "core_product_name: transformer | size_or_capacity: Above 33 kV (kilovolt)",
+      "core_id": 1404.0,
+      "raw_product_name": "TRANSFORMER Above 33 kV",
+      "list_of_product_ids": [
+        "13957",
+        "14856",
+        "19765",
+        "35390"
+      ]
+    },
+    {
+      "retrieval_score": 0.8331083,
+      "text": "core_product_name: cable | size_or_capacity: 33kV (33 kilovolt)",
+      "core_id": 1.0,
+      "raw_product_name": "CABLE 33kV",
+      "list_of_product_ids": [
+        "10253",
+        "10005",
+        "10017",
+        "24048",
+        "23899"
+      ]
+    },
+    {
+      "retrieval_score": 0.8314608,
+      "text": "core_product_name: flare system",
+      "core_id": 910.0,
+      "raw_product_name": "FLARE SYSTEM",
+      "list_of_product_ids": [
+        "13593",
+        "18504",
+        "38501",
+        "22848",
+        "38462",
+        "38489",
+        "38491"
+      ]
+    },
+    {
+      "retrieval_score": 0.8311583,
+      "text": "core_product_name: flash tank",
+      "core_id": 913.0,
+      "raw_product_name": "FLASH TANK",
+      "list_of_product_ids": [
+        "21074",
+        "21119",
+        "21120",
+        "21110",
+        "21145",
+        "21220",
+        "21713",
+        "35684"
+      ]
+    },
+    {
+      "retrieval_score": 0.8303296,
+      "text": "core_product_name: solar electric power system",
+      "core_id": 2060.0,
+      "raw_product_name": "SOLAR ELECTRIC POWER SYSTEM",
+      "list_of_product_ids": [
+        "6",
+        "400",
+        "557",
+        "134",
+        "981"
+      ]
+    },
+    {
+      "retrieval_score": 0.83018625,
+      "text": "core_product_name: fitting | material: CS (Carbon Steel) | construction_features: Welded",
+      "core_id": 273.0,
+      "raw_product_name": "FITTINGS – CS WELDED",
+      "list_of_product_ids": [
+        "14261",
+        "15969",
+        "19407",
+        "19803",
+        "19789",
+        "20138",
+        "22664",
+        "37083",
+        "37096"
+      ]
+    },
+    {
+      "retrieval_score": 0.8297166,
+      "text": "core_product_name: control cable | size_or_capacity: 1100 Volts | material: PVC (Polyvinyl Chloride)",
+      "core_id": 4.0,
+      "raw_product_name": "1100 VOLTS GRADE PVC CONTROL CABLES",
+      "list_of_product_ids": [
+        "23936",
+        "24085",
+        "21514",
+        "28591"
+      ]
+    },
+    {
+      "retrieval_score": 0.8288676,
+      "text": "core_product_name: electrical accessory",
+      "core_id": 701.0,
+      "raw_product_name": "ELECTRICAL ACCESSORIES",
+      "list_of_product_ids": [
+        "211",
+        "632",
+        "705",
+        "121",
+        "165"
+      ]
+    },
+    {
+      "retrieval_score": 0.82802236,
+      "text": "core_product_name: thermal fuse",
+      "core_id": 2241.0,
+      "raw_product_name": "THERMAL FUSE",
+      "list_of_product_ids": [
+        "6628",
+        "5798",
+        "19654",
+        "19647"
+      ]
+    },
+    {
+      "retrieval_score": 0.82790995,
+      "text": "core_product_name: fire proximity suit | protection_features: Fireproof",
+      "core_id": 999.0,
+      "raw_product_name": "Fire Proximity Suit",
+      "list_of_product_ids": [
+        "14352",
+        "14355",
+        "14340",
+        "37468"
+      ]
+    },
+    {
+      "retrieval_score": 0.827636,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    },
+    {
+      "retrieval_score": 0.8275596,
+      "text": "core_product_name: concentric plug valve | material: CAS (Cast Alloy Steel) | type_or_class: F.S. (Fire Safe) or N.F.S. (Non Fire Safe)",
+      "core_id": 2367.0,
+      "raw_product_name": "VALVE PLUG CONCENTRIC-CAS(F.S. & N.F.S.)",
+      "list_of_product_ids": [
+        "6",
+        "261",
+        "543",
+        "035",
+        "590"
+      ]
+    },
+    {
+      "retrieval_score": 0.8274464,
+      "text": "core_product_name: gas insulated switchgear | size_or_capacity: 33 kV",
+      "core_id": 6.0,
+      "raw_product_name": "33 kV Gas Insulated Switchgear",
+      "list_of_product_ids": [
+        "141",
+        "521",
+        "463",
+        "835",
+        "821"
+      ]
+    },
+    {
+      "retrieval_score": 0.8269631,
+      "text": "core_product_name: electrical item",
+      "core_id": 713.0,
+      "raw_product_name": "ELECTRICALS ITEMS",
+      "list_of_product_ids": [
+        "240",
+        "232",
+        "403",
+        "028",
+        "576"
+      ]
+    },
+    {
+      "retrieval_score": 0.826887,
+      "text": "core_product_name: check valve | construction_features: pre-insulation",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK PRE-INSULATION",
+      "list_of_product_ids": [
+        "1",
+        "544",
+        "118",
+        "796"
+      ]
+    },
+    {
+      "retrieval_score": 0.8264617,
+      "text": "core_product_name: electrical contact",
+      "core_id": 705.0,
+      "raw_product_name": "ELECTRICAL CONTACTS",
+      "list_of_product_ids": [
+        "211",
+        "562",
+        "115",
+        "228",
+        "503"
+      ]
+    },
+    {
+      "retrieval_score": 0.8262434,
+      "text": "core_product_name: transformer | size_or_capacity: Up to 33 kV (kilovolt)",
+      "core_id": 1404.0,
+      "raw_product_name": "TRANSFORMER Up to 33 kV",
+      "list_of_product_ids": [
+        "13958",
+        "15331",
+        "19764",
+        "35391"
+      ]
+    },
+    {
+      "retrieval_score": 0.82616585,
+      "text": "core_product_name: outdoor lightning arrestor | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 12.0,
+      "raw_product_name": "33kV outdoor Lightning Arrestor",
+      "list_of_product_ids": [
+        "1",
+        "415",
+        "921",
+        "498"
+      ]
+    },
+    {
+      "retrieval_score": 0.825916,
+      "text": "core_product_name: check valve | material: Cast",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK CAST",
+      "list_of_product_ids": [
+        "6229",
+        "5398",
+        "29399",
+        "11623",
+        "11640",
+        "11225",
+        "11237",
+        "11247",
+        "11279",
+        "11282",
+        "11259",
+        "11446",
+        "11431",
+        "6853",
+        "6858",
+        "6863",
+        "6873",
+        "6878",
+        "6883",
+        "6888",
+        "6893",
+        "6898",
+        "7697",
+        "7698",
+        "7699",
+        "7700",
+        "7701",
+        "7702",
+        "7703",
+        "7704",
+        "7705",
+        "7706",
+        "7707",
+        "7708",
+        "7866",
+        "9261",
+        "9387",
+        "9411",
+        "9407",
+        "9162",
+        "9252",
+        "9163",
+        "9175",
+        "9244",
+        "9342",
+        "12330",
+        "12429",
+        "12568",
+        "12548",
+        "12652",
+        "13364",
+        "13375",
+        "13381",
+        "6868",
+        "19359",
+        "16650",
+        "19409",
+        "18053",
+        "18383",
+        "19710",
+        "33375"
+      ]
+    },
+    {
+      "retrieval_score": 0.8258826,
+      "text": "core_product_name: cathodic protection agency",
+      "core_id": 314.0,
+      "raw_product_name": "CATHODIC PROTECTION AGENCIES",
+      "list_of_product_ids": [
+        "13890"
+      ]
+    },
+    {
+      "retrieval_score": 0.82583797,
+      "text": "core_product_name: fusible plug",
+      "core_id": 992.0,
+      "raw_product_name": "FUSIBLE PLUGS",
+      "list_of_product_ids": [
+        "136",
+        "943",
+        "554",
+        "535",
+        "978"
+      ]
+    },
+    {
+      "retrieval_score": 0.8257783,
+      "text": "core_product_name: emergency lighting system",
+      "core_id": 740.0,
+      "raw_product_name": "EMERGENCY LIGHTING SYSTEM",
+      "list_of_product_ids": [
+        "3",
+        "216",
+        "232",
+        "163"
+      ]
+    },
+    {
+      "retrieval_score": 0.82541376,
+      "text": "core_product_name: high voltage capacitor | size_or_capacity: High Voltage",
+      "core_id": 295.0,
+      "raw_product_name": "CAPACITORS-HIGH VOLTAGE",
+      "list_of_product_ids": [
+        "6427",
+        "5597",
+        "10503",
+        "10567",
+        "11340",
+        "12080"
+      ]
+    },
+    {
+      "retrieval_score": 0.8253396,
+      "text": "core_product_name: outdoor insulator and bushing | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 8.0,
+      "raw_product_name": "33kV outdoor Insulator & Bushing",
+      "list_of_product_ids": [
+        "14156",
+        "16118",
+        "17436",
+        "18328",
+        "21499"
+      ]
+    },
+    {
+      "retrieval_score": 0.82522166,
+      "text": "core_product_name: electrical converter",
+      "core_id": 706.0,
+      "raw_product_name": "ELECTRICAL CONVERTER",
+      "list_of_product_ids": [
+        "20850",
+        "20849",
+        "27075",
+        "20848"
+      ]
+    }
+  ]
+}

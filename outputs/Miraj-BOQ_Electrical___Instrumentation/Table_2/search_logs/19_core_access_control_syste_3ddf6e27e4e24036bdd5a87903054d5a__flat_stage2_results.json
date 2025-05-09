@@ -1,0 +1,524 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.9112395,
+      "text": "core_product_name: programmable logic controller | acronymed_core_product_name: programmable logic controller (esd) | type_or_class: ESD (Emergency Shutdown Device)",
+      "core_id": 1794.0,
+      "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER(ESD)",
+      "list_of_product_ids": [
+        "14140",
+        "15109",
+        "20984",
+        "23213",
+        "36203",
+        "36352"
+      ]
+    },
+    {
+      "retrieval_score": 0.88063127,
+      "text": "core_product_name: emergency shutdown valve | acronymed_core_product_name: esd (emergency shutdown) valve",
+      "core_id": 741.0,
+      "raw_product_name": "EMERGENCY SHUTDOWN VALVE(ESD)",
+      "list_of_product_ids": [
+        "13920",
+        "17286",
+        "35980",
+        "36007",
+        "40245"
+      ]
+    },
+    {
+      "retrieval_score": 0.8793961,
+      "text": "core_product_name: programmable logic controller | acronymed_core_product_name: plc subsystem",
+      "core_id": 1794.0,
+      "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER (PLC SUBSYSTEM)",
+      "list_of_product_ids": [
+        "13889",
+        "15107",
+        "20015",
+        "20010",
+        "36350",
+        "37195",
+        "36201"
+      ]
+    },
+    {
+      "retrieval_score": 0.87798905,
+      "text": "core_product_name: programmable logic controller system | acronymed_core_product_name: plc system (programmable logic controller)",
+      "core_id": 1704.0,
+      "raw_product_name": "PLC system (Programmable Logic Controller)",
+      "list_of_product_ids": [
+        "12296",
+        "12295",
+        "12297",
+        "12301",
+        "14199",
+        "14322",
+        "14405",
+        "14406",
+        "17988",
+        "17987",
+        "17986",
+        "17985",
+        "17984",
+        "17983",
+        "20020",
+        "20145",
+        "20144",
+        "37679",
+        "36223",
+        "36375"
+      ]
+    },
+    {
+      "retrieval_score": 0.8666249,
+      "text": "core_product_name: programmable logic controller-fire and gas system | acronymed_core_product_name: PLC-FGS",
+      "core_id": 1706.0,
+      "raw_product_name": "PLC-FGS",
+      "list_of_product_ids": [
+        "13801",
+        "15110",
+        "20985",
+        "23214",
+        "36204",
+        "36353"
+      ]
+    },
+    {
+      "retrieval_score": 0.85937953,
+      "text": "core_product_name: patch cable | acronymed_core_product_name: plc (programmable logic controller) patch cable | type_or_class: PLC (Programmable Logic Controller) Patch",
+      "core_id": 1705.0,
+      "raw_product_name": "PLC PATCH CABLES",
+      "list_of_product_ids": [
+        "13796",
+        "18811",
+        "20179",
+        "24065",
+        "23917"
+      ]
+    },
+    {
+      "retrieval_score": 0.85432714,
+      "text": "core_product_name: supervisory control and data acquisition system | acronymed_core_product_name: SCADA SYSTEMS",
+      "core_id": 1969.0,
+      "raw_product_name": "SCADA SYSTEMS",
+      "list_of_product_ids": [
+        "6625",
+        "5795",
+        "10073",
+        "11202",
+        "10804",
+        "10871",
+        "10873",
+        "11374",
+        "11377",
+        "30049",
+        "29687",
+        "27063",
+        "30480",
+        "38273",
+        "32770",
+        "36655",
+        "36679",
+        "36002",
+        "36005",
+        "36004",
+        "36003",
+        "36001",
+        "36245",
+        "36398",
+        "36523"
+      ]
+    },
+    {
+      "retrieval_score": 0.8540601,
+      "text": "core_product_name: substation automation system | acronymed_core_product_name: sas system",
+      "core_id": 1963.0,
+      "raw_product_name": "SAS System",
+      "list_of_product_ids": [
+        "7566",
+        "7240",
+        "11203",
+        "10872",
+        "10874",
+        "11375"
+      ]
+    },
+    {
+      "retrieval_score": 0.8526348,
+      "text": "core_product_name: protection and metering substation automation system | acronymed_core_product_name: sas system (substation automation system)",
+      "core_id": 1965.0,
+      "raw_product_name": "SAS System (PROTECTION & METERING)",
+      "list_of_product_ids": [
+        "1",
+        "387",
+        "214",
+        "853"
+      ]
+    },
+    {
+      "retrieval_score": 0.8507665,
+      "text": "core_product_name: access control system",
+      "core_id": 30.0,
+      "raw_product_name": "ACCESS CONTROL SYSTEM",
+      "list_of_product_ids": [
+        "6601",
+        "5771",
+        "10891",
+        "10915",
+        "11070",
+        "10890",
+        "10892",
+        "19260",
+        "19270",
+        "34967",
+        "34987",
+        "35018"
+      ]
+    },
+    {
+      "retrieval_score": 0.8498645,
+      "text": "core_product_name: power control centre | acronymed_core_product_name: pcc (power control centre)",
+      "core_id": 1741.0,
+      "raw_product_name": "Power Control Centre (PCC)",
+      "list_of_product_ids": [
+        "8225"
+      ]
+    },
+    {
+      "retrieval_score": 0.8498645,
+      "text": "core_product_name: power control centre | acronymed_core_product_name: pcc (power control centre)",
+      "core_id": 1741.0,
+      "raw_product_name": "POWER CONTROL CENTRE (PCC)",
+      "list_of_product_ids": [
+        "13849",
+        "14618",
+        "14643",
+        "17928",
+        "17915",
+        "17890",
+        "17946",
+        "17937",
+        "18024",
+        "18006",
+        "18047"
+      ]
+    },
+    {
+      "retrieval_score": 0.84749603,
+      "text": "core_product_name: control panel | acronymed_core_product_name: control panel flp (flameproof) | protection_features: Flameproof",
+      "core_id": 453.0,
+      "raw_product_name": "CONTROL PANEL FLP",
+      "list_of_product_ids": [
+        "14206",
+        "14604",
+        "14850",
+        "36916",
+        "22865",
+        "24832",
+        "24820",
+        "24935",
+        "24946",
+        "33487",
+        "33681",
+        "35782"
+      ]
+    },
+    {
+      "retrieval_score": 0.84717023,
+      "text": "core_product_name: terminal | acronymed_core_product_name: PLCC (Power Line Carrier Communication) terminal | accessories_or_attachments: protection coupler",
+      "core_id": 1707.0,
+      "raw_product_name": "PLCC TERMINAL WITH PROTECTION COUPLER",
+      "list_of_product_ids": [
+        "18710",
+        "18709",
+        "19015",
+        "18707",
+        "38296",
+        "38321"
+      ]
+    },
+    {
+      "retrieval_score": 0.8466182,
+      "text": "core_product_name: programmable logic controller",
+      "core_id": 1794.0,
+      "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLERS",
+      "list_of_product_ids": [
+        "6565",
+        "5735",
+        "11164",
+        "10154",
+        "11376",
+        "9379",
+        "9159",
+        "9221",
+        "11902",
+        "12182",
+        "36522",
+        "17895",
+        "18871",
+        "18916",
+        "29683",
+        "30474",
+        "38193",
+        "36169",
+        "36317"
+      ]
+    },
+    {
+      "retrieval_score": 0.84624314,
+      "text": "core_product_name: addressable auto fire detection system | acronymed_core_product_name: afds (addressable auto fire detection system)",
+      "core_id": 46.0,
+      "raw_product_name": "ADDRESSABLE AUTO FIRE DETECTION SYSTEM (AFDS)",
+      "list_of_product_ids": [
+        "24385",
+        "24384",
+        "24383",
+        "24382",
+        "26861",
+        "34990"
+      ]
+    },
+    {
+      "retrieval_score": 0.84534305,
+      "text": "core_product_name: control panel instrument | acronymed_core_product_name: paga (public address and general alarm) control panel instrument",
+      "core_id": 1622.0,
+      "raw_product_name": "PAGA CONTROL PANEL INSTRUMENT",
+      "list_of_product_ids": [
+        "19367",
+        "24919",
+        "19365",
+        "38960",
+        "39551",
+        "39915"
+      ]
+    },
+    {
+      "retrieval_score": 0.84525865,
+      "text": "core_product_name: site fabricated column | acronymed_core_product_name: las (level alarm system) column",
+      "core_id": 396.0,
+      "raw_product_name": "COLUMN-LAS SITE FABRICATED",
+      "list_of_product_ids": [
+        "6688",
+        "5859",
+        "9698",
+        "23521"
+      ]
+    },
+    {
+      "retrieval_score": 0.84458005,
+      "text": "core_product_name: extenuating circumstances panel | acronymed_core_product_name: ec panel",
+      "core_id": 775.0,
+      "raw_product_name": "EXTENUATING CIRCUMSTANCES PANEL(EC PANEL)",
+      "list_of_product_ids": [
+        "17150",
+        "17144",
+        "17164",
+        "36912",
+        "24837",
+        "24839",
+        "24825",
+        "24939",
+        "24951",
+        "33477",
+        "33675"
+      ]
+    },
+    {
+      "retrieval_score": 0.8435269,
+      "text": "core_product_name: electronic control",
+      "core_id": 721.0,
+      "raw_product_name": "ELECTRONIC CONTROL & POWER",
+      "list_of_product_ids": [
+        "24342",
+        "22285",
+        "22284",
+        "22283",
+        "22282",
+        "22265",
+        "22277",
+        "26869",
+        "27491"
+      ]
+    },
+    {
+      "retrieval_score": 0.84258765,
+      "text": "core_product_name: embedded control system",
+      "core_id": 737.0,
+      "raw_product_name": "EMBEDDED CONTROL SYSTEM",
+      "list_of_product_ids": [
+        "236",
+        "092",
+        "358",
+        "623",
+        "573"
+      ]
+    },
+    {
+      "retrieval_score": 0.8424121,
+      "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: u.p.s. system",
+      "core_id": 2314.0,
+      "raw_product_name": "U.P.S.SYSTEM",
+      "list_of_product_ids": [
+        "6399",
+        "5570",
+        "11076",
+        "11073",
+        "10496",
+        "10624",
+        "12084",
+        "12082",
+        "12245",
+        "24506",
+        "24504",
+        "36163",
+        "36311"
+      ]
+    },
+    {
+      "retrieval_score": 0.8412432,
+      "text": "core_product_name: lt (low tension) control panel | acronymed_core_product_name: vfd (variable frequency drive) control panel | type_or_class: VFD (Variable Frequency Drive)",
+      "core_id": 1401.0,
+      "raw_product_name": "LT VFD Control Panel",
+      "list_of_product_ids": [
+        "7621",
+        "7295",
+        "7890",
+        "24830",
+        "24818",
+        "24933",
+        "24944"
+      ]
+    },
+    {
+      "retrieval_score": 0.84085006,
+      "text": "core_product_name: cathodic protection system | acronymed_core_product_name: cp system",
+      "core_id": 503.0,
+      "raw_product_name": "CP SYSTEM",
+      "list_of_product_ids": [
+        "15360",
+        "15379",
+        "15381",
+        "15383",
+        "18186",
+        "19518",
+        "40163",
+        "40168",
+        "40190",
+        "40238",
+        "40233"
+      ]
+    },
+    {
+      "retrieval_score": 0.84076947,
+      "text": "core_product_name: control valve | acronymed_core_product_name: sp control valve | type_or_class: SP (Set Point) Control | construction_features: ECC. (Eccentric) Disc | special_attributes: HI PERF (High Performance)",
+      "core_id": 468.0,
+      "raw_product_name": "SP CONTROL VALVES (ECC. DISC HI PERF )",
+      "list_of_product_ids": [
+        "6497",
+        "5668",
+        "8707",
+        "12186",
+        "28189",
+        "28188",
+        "28187",
+        "28185",
+        "28184",
+        "28183",
+        "28182",
+        "28181",
+        "28180",
+        "28186",
+        "36258",
+        "36411"
+      ]
+    },
+    {
+      "retrieval_score": 0.84065896,
+      "text": "core_product_name: electronic controller | type_or_class: Control Panel Instrument",
+      "core_id": 724.0,
+      "raw_product_name": "ELECTRONIC CONTROLLER (CONTROL PANEL INSTRUMENT)",
+      "list_of_product_ids": [
+        "13897",
+        "20864",
+        "22602",
+        "22797"
+      ]
+    },
+    {
+      "retrieval_score": 0.8394342,
+      "text": "core_product_name: switchgear panel | acronymed_core_product_name: pcc (power control center) switchgear panel | size_or_capacity: 415V | type_or_class: PCC (Power Control Center)",
+      "core_id": 18.0,
+      "raw_product_name": "415V SWITCHGEAR PANEL (PCC)",
+      "list_of_product_ids": [
+        "176",
+        "911",
+        "769",
+        "018",
+        "664"
+      ]
+    },
+    {
+      "retrieval_score": 0.83912903,
+      "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: ups system",
+      "core_id": 2314.0,
+      "raw_product_name": "UPS SYSTEM",
+      "list_of_product_ids": [
+        "14194",
+        "15283",
+        "15287",
+        "15895",
+        "17799",
+        "17789",
+        "17897",
+        "18615",
+        "18614",
+        "18613",
+        "18612"
+      ]
+    },
+    {
+      "retrieval_score": 0.83903396,
+      "text": "core_product_name: log | acronymed_core_product_name: em log",
+      "core_id": 736.0,
+      "raw_product_name": "EM LOG",
+      "list_of_product_ids": [
+        "23412",
+        "23409",
+        "23406",
+        "28226",
+        "28247"
+      ]
+    },
+    {
+      "retrieval_score": 0.838363,
+      "text": "core_product_name: closed circuit television | acronymed_core_product_name: cctv",
+      "core_id": 323.0,
+      "raw_product_name": "CLOSED CIRCUIT TV",
+      "list_of_product_ids": [
+        "6592",
+        "5762",
+        "10914",
+        "10889",
+        "11962",
+        "12202",
+        "12473",
+        "16497",
+        "19259",
+        "19269",
+        "30476",
+        "31285",
+        "37696",
+        "37697",
+        "37705",
+        "37709",
+        "37713",
+        "40236",
+        "40237",
+        "40234",
+        "40235",
+        "40257"
+      ]
+    }
+  ]
+}

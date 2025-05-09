@@ -1,0 +1,66 @@
+{
+  "query": "core_product_name: vibration fork type level switch | feature_or_specifications: set points: hh/ll (high high/low low), quantity per msv: 1",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: vibrating fork type level switch",
+        "raw_product_name": "VIBRATING FORK TYPE LEVEL SWITCH",
+        "list_of_product_ids": [
+          "13494",
+          "15112",
+          "15117",
+          "21751",
+          "37425",
+          "36206",
+          "36355"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: special level instrument | type_or_class: TUNNING FORK",
+        "raw_product_name": "SPECIAL LEVEL INSTRUMENTS (TUNNING FORK)",
+        "list_of_product_ids": [
+          "6485",
+          "5656",
+          "10964",
+          "11312",
+          "11320",
+          "11322",
+          "10100",
+          "10114",
+          "12355",
+          "12861",
+          "35437"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: level switch | type_or_class: Ultrasonic",
+        "raw_product_name": "LEVEL SWITCH ULTRASONIC TYPE",
+        "list_of_product_ids": [
+          "135",
+          "842",
+          "317",
+          "531",
+          "748"
+        ]
+      }
+    }
+  ]
+}

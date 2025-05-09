@@ -1,0 +1,51 @@
+{
+  "query": "core_product_name: as-built drawings | size: sets: 4 blue prints, 1 original tracings, cds | feature_or_specifications: software: autocad",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: as fitted drawing",
+        "raw_product_name": "AS FITTED DRAWING",
+        "list_of_product_ids": [
+          "295",
+          "042",
+          "928",
+          "129",
+          "280"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: of various drawings digitization",
+        "raw_product_name": "DIGITIZATION OF VARIOUS DRAWINGS",
+        "list_of_product_ids": [
+          "1",
+          "961",
+          "319",
+          "614"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: computer software",
+        "raw_product_name": "COMPUTER SOFTWARE",
+        "list_of_product_ids": [
+          "193",
+          "121",
+          "931",
+          "327",
+          "257"
+        ]
+      }
+    }
+  ]
+}

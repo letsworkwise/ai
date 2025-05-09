@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: pmcc (power and motor control center) | acronymed_core_product_name: pmcc | size: voltage: 415 V, phases: 3 phase, wires: 4 wire, frequency: 50 Hz, current: 800 A, short circuit withstand: 50 KA for 1 second | feature_or_specifications: type: double front fully draw out, feature: acbs (air circuit breakers), feature: cts/pts (current transformers/potential transformers), feature: relays, feature: indicating lamps, standard: as per attached slds (single line diagrams), specifications & ds (data sheet)",
+  "retrieval_results": [
+    {
+      "id": "variant-f58a34d2-d54f-56cf-8c8a-d7ac1cefe2b0",
+      "score": 0.8826877,
+      "metadata": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: PMCC (Power Motor Control Center) switchgear panel | size_or_capacity: 415V | type_or_class: PMCC (Power Motor Control Center)",
+        "raw_product_name": "415V SWITCHGEAR PANEL (PMCC)",
+        "list_of_product_ids": "15388,14161,14610,17705,17688,38510",
+        "core_id": 18.0
+      }
+    },
+    {
+      "id": "variant-11fd4851-b53d-5354-8701-6060ebf8322c",
+      "score": 0.87439877,
+      "metadata": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: pcc (power control center) switchgear panel | size_or_capacity: 415V | type_or_class: PCC (Power Control Center)",
+        "raw_product_name": "415V SWITCHGEAR PANEL (PCC)",
+        "list_of_product_ids": "176,911,769,018,664",
+        "core_id": 18.0
+      }
+    },
+    {
+      "id": "variant-0f3e183c-b2f0-51af-a986-c0ac043850c7",
+      "score": 0.8712311,
+      "metadata": {
+        "text": "core_product_name: power cum motor control centre | acronymed_core_product_name: pmcc (power cum motor control centre)",
+        "raw_product_name": "POWER CUM MOTOR CONTROL CENTRE (PMCC)",
+        "list_of_product_ids": "1,380,914,620",
+        "core_id": 1740.0
+      }
+    },
+    {
+      "id": "variant-05000076-5a77-592b-8a53-3c88542be2d1",
+      "score": 0.87101245,
+      "metadata": {
+        "text": "core_product_name: drawout switchboard | acronymed_core_product_name: M.V. (Medium Voltage) MCC (Motor Control Center) or PCC (Power Control Center) or PMCC (Power Motor Control Center) switchboard | type_or_class: M.V. (Medium Voltage) | type_or_class: MCC (Motor Control Center) | type_or_class: PCC (Power Control Center) | type_or_class: PMCC (Power Motor Control Center)",
+        "raw_product_name": "SWITCHBOARD-M.V.-MCC/PCC/PMCC-DRAWOUT",
+        "list_of_product_ids": "6388,5559,11010,10537,14619,24432,24431,24430,24429,24428",
+        "core_id": 2176.0
+      }
+    },
+    {
+      "id": "variant-0767adda-a479-5b3c-8135-f32c4459439a",
+      "score": 0.86423594,
+      "metadata": {
+        "text": "core_product_name: fixed switchboard | acronymed_core_product_name: M.V. (Medium Voltage) MCC (Motor Control Center) or PCC (Power Control Center) or PMCC (Power Motor Control Center) switchboard | type_or_class: M.V. (Medium Voltage) | type_or_class: MCC (Motor Control Center) | type_or_class: PCC (Power Control Center) | type_or_class: PMCC (Power Motor Control Center)",
+        "raw_product_name": "SWITCHBOARD-M.V.-MCC/PCC/PMCC-FIXED TYPE",
+        "list_of_product_ids": "213,952,139,327,606",
+        "core_id": 2175.0
+      }
+    },
+    {
+      "id": "variant-064699ed-ad89-5313-8161-2b4d7c3fff26",
+      "score": 0.86383545,
+      "metadata": {
+        "text": "core_product_name: power control centre | acronymed_core_product_name: pcc (power control centre)",
+        "raw_product_name": "POWER CONTROL CENTRE (PCC)",
+        "list_of_product_ids": "13849,14618,14643,17928,17915,17890,17946,17937,18024,18006,18047",
+        "core_id": 1741.0
+      }
+    },
+    {
+      "id": "variant-bc446b96-7ff5-570b-a54f-9268dd16f26d",
+      "score": 0.86383545,
+      "metadata": {
+        "text": "core_product_name: power control centre | acronymed_core_product_name: pcc (power control centre)",
+        "raw_product_name": "Power Control Centre (PCC)",
+        "list_of_product_ids": "8225",
+        "core_id": 1741.0
+      }
+    },
+    {
+      "id": "variant-a354d618-468c-5788-8bf4-0ef48a363a71",
+      "score": 0.86347556,
+      "metadata": {
+        "text": "core_product_name: motor protection circuit breaker | acronymed_core_product_name: mpcb (motor protection circuit breaker)",
+        "raw_product_name": "Motor Protection Circuit Breaker (MPCB)",
+        "list_of_product_ids": "7492,7167,11205,10539,10192,19629",
+        "core_id": 1528.0
+      }
+    },
+    {
+      "id": "variant-53533849-97d9-5ba2-af95-f27dc00d0c06",
+      "score": 0.8620986,
+      "metadata": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: PMCC (Power Motor Control Center) switchgear panel | type_or_class: PMCC (Power Motor Control Center)",
+        "raw_product_name": "SWITCHGEAR PANEL (PMCC)",
+        "list_of_product_ids": "1,397,014,627",
+        "core_id": 18.0
+      }
+    },
+    {
+      "id": "variant-72ca9b83-8000-5f34-839f-39a54cda3423",
+      "score": 0.8595812,
+      "metadata": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (pdb (power distribution board))",
+        "raw_product_name": "A.C. DISTRIBUTION BOARD (PDB)",
+        "list_of_product_ids": "14164,14792,14811,19308",
+        "core_id": 20.0
+      }
+    },
+    {
+      "id": "variant-5a827aa7-391f-5f70-92bd-88bb21f7214d",
+      "score": 0.8585898,
+      "metadata": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: mcc (motor control center) switchgear panel | size_or_capacity: 415V | type_or_class: MCC (Motor Control Center)",
+        "raw_product_name": "415V SWITCHGEAR PANEL (MCC)",
+        "list_of_product_ids": "15389,14160,14609,17689,38512",
+        "core_id": 18.0
+      }
+    },
+    {
+      "id": "variant-8c60a1ce-e935-5daf-b164-6e8411da4e0c",
+      "score": 0.85713494,
+      "metadata": {
+        "text": "core_product_name: miniature circuit breaker | acronymed_core_product_name: mcb",
+        "raw_product_name": "MCB",
+        "list_of_product_ids": "6462,5633,10157,10663,9350,9447,9151,9187,9219,9361,11905,11944,17873,19028,19645,19652,20775,21203,19140,38290,36563",
+        "core_id": 1446.0
+      }
+    },
+    {
+      "id": "variant-b0341ac8-d484-5fda-9e50-728b9d637a42",
+      "score": 0.85558885,
+      "metadata": {
+        "text": "core_product_name: terminal | acronymed_core_product_name: PLCC (Power Line Carrier Communication) terminal | accessories_or_attachments: protection coupler",
+        "raw_product_name": "PLCC TERMINAL WITH PROTECTION COUPLER",
+        "list_of_product_ids": "18710,18709,19015,18707,38296,38321",
+        "core_id": 1707.0
+      }
+    },
+    {
+      "id": "variant-828d7159-9927-583d-9472-28cde15f7444",
+      "score": 0.85476017,
+      "metadata": {
+        "text": "core_product_name: microprocessor relay | acronymed_core_product_name: APFC (Automatic Power Factor Controller) relay",
+        "raw_product_name": "APFC RELAYS (MICROPROCESSOR)",
+        "list_of_product_ids": "2,152,228,593",
+        "core_id": 126.0
+      }
+    },
+    {
+      "id": "variant-745585a2-6775-5a0c-b4f3-e9f18b6d93b5",
+      "score": 0.8521993,
+      "metadata": {
+        "text": "core_product_name: power transformer | acronymed_core_product_name: ICT (Interconnecting Transformer) | size_or_capacity: 400KV | type_or_class: ICT (Interconnecting Transformer)",
+        "raw_product_name": "POWER TRANSFORMER 400KV ICT",
+        "list_of_product_ids": "35814,35813,35818,35877",
+        "core_id": 1747.0
+      }
+    },
+    {
+      "id": "variant-20b27263-3217-5577-a066-be18615871ad",
+      "score": 0.851589,
+      "metadata": {
+        "text": "core_product_name: molded case circuit breaker | acronymed_core_product_name: MCCB (Molded Case Circuit Breaker)",
+        "raw_product_name": "MCCB",
+        "list_of_product_ids": "6463,5634,10536,10191,9351,9152,9154,11938,19030,19029,20774,21202,36564,38080",
+        "core_id": 1449.0
+      }
+    },
+    {
+      "id": "variant-713fd69d-ab73-5753-944b-8d88aa60d791",
+      "score": 0.8511249,
+      "metadata": {
+        "text": "core_product_name: inside panel | acronymed_core_product_name: mcb (miniature circuit breaker) panel | type_or_class: Flush type only",
+        "raw_product_name": "MCB Inside Panels (Flush type only)",
+        "list_of_product_ids": "1,371,214,885",
+        "core_id": 1448.0
+      }
+    },
+    {
+      "id": "variant-8c6a2401-958d-50eb-b6cf-89de7e3e83dd",
+      "score": 0.8510773,
+      "metadata": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (ldb (lighting distribution board))",
+        "raw_product_name": "A.C. DISTRIBUTION BOARD (LDB)",
+        "list_of_product_ids": "14163,14793,14812,19307",
+        "core_id": 20.0
+      }
+    },
+    {
+      "id": "variant-554ef1e8-ff85-5238-8707-dfd895e98bf0",
+      "score": 0.8506788,
+      "metadata": {
+        "text": "core_product_name: pressure to current converter | acronymed_core_product_name: p/i converter",
+        "raw_product_name": "P/I Converter",
+        "list_of_product_ids": "17104,17102,17101,17100,17111,17108,27104,36213,36364",
+        "core_id": 1618.0
+      }
+    },
+    {
+      "id": "variant-0f1e1ce5-671f-518b-b863-86f86d8242c6",
+      "score": 0.85063094,
+      "metadata": {
+        "text": "core_product_name: motor control center | acronymed_core_product_name: mcc package",
+        "raw_product_name": "MCC PACKAGE",
+        "list_of_product_ids": "23571,23614,23565,23559,23554,23549,23541,23532",
+        "core_id": 1447.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.84972745,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-0aeaa826-5516-5348-9975-26ded8737497",
+      "score": 0.84940237,
+      "metadata": {
+        "text": "core_product_name: a.c. (alternating current) variable speed drive | acronymed_core_product_name: a.c. variable speed drive | type_or_class: MV (medium voltage) | size_or_capacity: upto 690 V output",
+        "raw_product_name": "A.C. VARIABLE SPEED DRIVE - MV (UPTO 690 V O/P)",
+        "list_of_product_ids": "5606,6436,10990,10495,10864,10867,10885,12247,12203,23629,21988,24406,24404,24403,24401,24633,24408,27059,38191,35375",
+        "core_id": 22.0
+      }
+    },
+    {
+      "id": "variant-1a0de3d0-ed79-5450-aa41-d8815f16ff26",
+      "score": 0.84929734,
+      "metadata": {
+        "text": "core_product_name: outdoor potential transformer | acronymed_core_product_name: pt | size_or_capacity: 33kV",
+        "raw_product_name": "33kV outdoor CT/ PT",
+        "list_of_product_ids": "7061,7388,18218,18377,19058",
+        "core_id": 17.0
+      }
+    },
+    {
+      "id": "variant-dd725dee-67a2-56b7-aa3c-f6e233946ece",
+      "score": 0.849033,
+      "metadata": {
+        "text": "core_product_name: automatic power factor correction panel | acronymed_core_product_name: apfc panel",
+        "raw_product_name": "APFC PANEL",
+        "list_of_product_ids": "14207,14608,14633,36913,24833,24821,24947,33479,33501,33677",
+        "core_id": 125.0
+      }
+    },
+    {
+      "id": "variant-0a015ab5-d5df-5517-bd30-88c4f9cc9670",
+      "score": 0.8487039,
+      "metadata": {
+        "text": "core_product_name: switch mode power supply | acronymed_core_product_name: smps (switch mode power supply)",
+        "raw_product_name": "Switch Mode Power Supply (SMPS)",
+        "list_of_product_ids": "13563,13565,13567,14197,15285,19641,35007",
+        "core_id": 2199.0
+      }
+    },
+    {
+      "id": "variant-ffb04dda-0f09-5456-8607-4f01ee0b5982",
+      "score": 0.84863245,
+      "metadata": {
+        "text": "core_product_name: power distribution board | acronymed_core_product_name: pdb (power distribution board)",
+        "raw_product_name": "POWER DISTRIBUTION BOARD (PDB)",
+        "list_of_product_ids": "13892,14644,14778,14809,17930,17917,17892,17949,17939,18026,18008,18049,20762,20761,27494",
+        "core_id": 1743.0
+      }
+    },
+    {
+      "id": "variant-96e42f53-7dee-5b27-ad19-00ef4397fc52",
+      "score": 0.8485135,
+      "metadata": {
+        "text": "core_product_name: programmable logic controller | acronymed_core_product_name: plc subsystem",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER (PLC SUBSYSTEM)",
+        "list_of_product_ids": "13889,15107,20015,20010,36350,37195,36201",
+        "core_id": 1794.0
+      }
+    },
+    {
+      "id": "variant-bdc7e6c8-8278-5302-b598-f9283af3f043",
+      "score": 0.8485114,
+      "metadata": {
+        "text": "core_product_name: regulated power supply unit | type_or_class: Direct Current (DC)",
+        "raw_product_name": "REGULATED DC POWER SUPPLY UNIT",
+        "list_of_product_ids": "1,383,315,284",
+        "core_id": 1889.0
+      }
+    },
+    {
+      "id": "variant-19bbaea1-ff5f-573b-a089-d96015081c7f",
+      "score": 0.84830445,
+      "metadata": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: dc (direct current) distribution board | type_or_class: DC (Direct Current)",
+        "raw_product_name": "DC Distribution Board",
+        "list_of_product_ids": "18727,18725,18720,18741,18738,18737,19010,18999,19002,36555,38291,35862,38153",
+        "core_id": 20.0
+      }
+    },
+    {
+      "id": "variant-344cec69-8a6c-57a1-aa62-b1c42931ad5c",
+      "score": 0.8481247,
+      "metadata": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: ac (alternating current) distribution board | type_or_class: AC (Alternating Current)",
+        "raw_product_name": "AC Distribution Board",
+        "list_of_product_ids": "18726,18724,18719,18740,18739,18736,19011,18998,19001,38292,36556,35863,38152",
+        "core_id": 20.0
+      }
+    }
+  ]
+}

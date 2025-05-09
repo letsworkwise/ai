@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: pressure transmitter with 2 valve manifold | size: range: 0 -15 kg/cm2 | feature_or_specifications: application: vapour pressure measurement, quantity per msv(mounded storage vessel): 2",
+  "retrieval_results": [
+    {
+      "id": "variant-c3cdd889-e9cf-51d8-b044-9a9c8aefbc98",
+      "score": 0.86099756,
+      "metadata": {
+        "text": "core_product_name: pressure transmitter",
+        "raw_product_name": "PRESSURE TRANSMITTER",
+        "list_of_product_ids": "10037,10038,10043,10159,10626,9515,9555,36531,15313,17103,17110,18208,24110,19474,20012,20022,20017,35953,36165,36313,36510",
+        "core_id": 1778.0
+      }
+    },
+    {
+      "id": "variant-429b8812-d388-5299-afe3-17c7e0563bc7",
+      "score": 0.8546582,
+      "metadata": {
+        "text": "core_product_name: pressure vessel",
+        "raw_product_name": "PRESSURE VESSELS",
+        "list_of_product_ids": "7036,7363,11704,11496,12043,12853,13000,15855,17342,17386,17845,22795,36649,26140,33998,33997,37074,35786,35998,36076,36282,36288",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-b3370358-e2ee-53b3-b1c1-1af950aec2e3",
+      "score": 0.8522387,
+      "metadata": {
+        "text": "core_product_name: flow transmitter | type_or_class: DP (Differential Pressure) based",
+        "raw_product_name": "FLOW TRANSMITTER(DP BASED)",
+        "list_of_product_ids": "1,363,920,932",
+        "core_id": 942.0
+      }
+    },
+    {
+      "id": "variant-eb0a9887-7bdd-5695-b1e0-5e7fadb867d2",
+      "score": 0.85179836,
+      "metadata": {
+        "text": "core_product_name: pressure vessel | material: CS (Carbon Steel) | size_or_capacity: 26-50 mm",
+        "raw_product_name": "PRESSURE VESSEL -CS (26-50MM)",
+        "list_of_product_ids": "6633,5803,10971,10967,10977,11013,11107,11101,8504,8532,8758,9673,12011,12061,12593,12989,16158,16814,16943,17253,17389,17410,17589,17805,18538,17755,21371,23760,19744,20965,21387,21386,21384,21378,21377,21372,21491,21535,21531,21524,21521,21518,21513,21504,21503,21552,21548,21608,21603,21941,23009,23248,23316,21516,21570,21492,21379,37658,37664,37665,36756,37668,37671,38060,38101,38108,37734,37750,35790",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-af9e8e55-a1c6-55b8-a426-4ea9987a0ea4",
+      "score": 0.85167336,
+      "metadata": {
+        "text": "core_product_name: pressure vessel | material: Monel",
+        "raw_product_name": "PRESSURE VESSEL- MONEL",
+        "list_of_product_ids": "6646,5816,21971,21969,36744",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-46fe9328-f322-5cf5-9c7f-ff3a8d430ae6",
+      "score": 0.85106367,
+      "metadata": {
+        "text": "core_product_name: pressure control valve",
+        "raw_product_name": "PRESSURE CONTROL VALVE",
+        "list_of_product_ids": "14378,14380,16837,17055,17085,17627,17851,17905,17903,18055,18045,18036,18233,20949,21592,21600,21661,22355,23084,23330,10654,10876,36298,36435,40310",
+        "core_id": 1770.0
+      }
+    },
+    {
+      "id": "variant-745186da-8439-5835-b0bb-45dee6aa1cbe",
+      "score": 0.8501181,
+      "metadata": {
+        "text": "core_product_name: differential pressure transmitter",
+        "raw_product_name": "DIFFERENTIAL PRESSURE TRANSMITTER",
+        "list_of_product_ids": "10006,10015,10039,15083,18209,19852,36178,36326",
+        "core_id": 589.0
+      }
+    },
+    {
+      "id": "variant-a2c41d40-1208-5a75-abc0-6070a182cf9a",
+      "score": 0.8496709,
+      "metadata": {
+        "text": "core_product_name: pressure vessel | material: CS (Carbon Steel) | size_or_capacity: 51-100MM",
+        "raw_product_name": "PRESSURE VESSEL-CS (51-100MM)",
+        "list_of_product_ids": "11014,11102,8505,8533,9010,9674,12594,12990,17254,17590,17806,17846,18537,5804,6634,17390,17411,21620,21625,21610,21399,21636,21629,16935,21669,21660,21653,21659,21727,21729,21728,23008,23317,38808,36757,38298,38061,38100,38109,35792",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-03c8c4a9-de50-575b-b834-a8093dc011d2",
+      "score": 0.84937036,
+      "metadata": {
+        "text": "core_product_name: two way valve",
+        "raw_product_name": "TWO WAY VALVES",
+        "list_of_product_ids": "7595,7270,8602,22888",
+        "core_id": 2302.0
+      }
+    },
+    {
+      "id": "variant-d83655ef-094e-5952-8b4e-9678ec3606e4",
+      "score": 0.8489315,
+      "metadata": {
+        "text": "core_product_name: pressure vessel | material: CS (Carbon Steel) | size_or_capacity: up to 25mm",
+        "raw_product_name": "PRESSURE VESSEL -CS (UP TO 25MM)",
+        "list_of_product_ids": "6631,5801,10965,10970,10966,10976,11067,11106,11100,11672,11490,11498,21223,8507,8531,8757,8879,9643,12049,12154,12580,12988,13073,13080,16157,16455,16674,16813,16850,16932,17398,17388,17361,17406,17754,17744,17804,17588,23759,19743,23793,20964,21233,21229,21228,21226,21225,21224,21222,21221,21287,21277,21254,21329,21327,21318,21310,21309,21308,21305,21304,21298,21297,21342,21353,21352,21942,23010,23247,23315,21276,23705,21251,17252,37659,37663,37666,37667,38282,38169,37670,38059,38102,38107,36755,37733,37749,39447,39497",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-41336a9b-af9c-5299-b356-7a6ed73e6fe2",
+      "score": 0.8482916,
+      "metadata": {
+        "text": "core_product_name: pressure vessel | material: SS (Stainless Steel) | size_or_capacity: 26-50MM",
+        "raw_product_name": "PRESSURE VESSEL-SS (26-50MM)",
+        "list_of_product_ids": "6637,5807,10973,11017,8508,8535,9677,12062,12597,12993,17393,17593,19746,22014,22012,22011,22009,22008,22006,22004,21999,22049,22048,22059,22068,22084,22083,22077,22076,22071,22069,23319,36759,38171,38301,38063,38098,38111,37736,37752",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-59191729-a9c1-556f-8830-f0b597cd9727",
+      "score": 0.8482469,
+      "metadata": {
+        "text": "core_product_name: pressure reducing valve",
+        "raw_product_name": "PRESSURE REDUCING VALVE",
+        "list_of_product_ids": "9998,10023,10223,13173,13389,17852,17906,17904,18046,22681,23085,23331,36634,40239",
+        "core_id": 1774.0
+      }
+    },
+    {
+      "id": "variant-e736bd2a-bba8-5ab3-861f-88a9bde6910b",
+      "score": 0.8478965,
+      "metadata": {
+        "text": "core_product_name: pressure vessel | material: SS (Stainless Steel) | size_or_capacity: up to 25mm",
+        "raw_product_name": "PRESSURE VESSEL-SS (UP TO 25MM)",
+        "list_of_product_ids": "6636,5806,10972,10968,10978,11016,12280,11108,11103,11669,21893,11504,8506,8534,8759,9640,9676,12050,12136,12596,12992,16161,16484,16937,17399,17392,17592,21842,23755,19745,20966,21812,21798,21791,21789,21776,21848,21847,21844,21841,21840,21837,21835,21914,21913,21897,21890,21931,21930,21937,21933,21967,21998,21992,21991,21977,21976,21975,21972,23706,23318,36758,38170,38300,38062,38099,38110,37735,37751,39448,39498",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-fbd913d0-e8ac-559f-a675-577cda39c322",
+      "score": 0.84738636,
+      "metadata": {
+        "text": "core_product_name: pressure vessel | material: SS (Stainless Steel) | size_or_capacity: > 50MM",
+        "raw_product_name": "PRESURE VESSEL - SS ( > 50MM)",
+        "list_of_product_ids": "6638,5808,11018,8509,8536,9011,9678,12171,12598,12994,13097,22092,22105,22093,22090,38302,38064,38097,38112",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-ab6fb6ed-859d-5a8f-96b5-b82dbe88eb88",
+      "score": 0.8471906,
+      "metadata": {
+        "text": "core_product_name: pressure vessel tank",
+        "raw_product_name": "Pressure Vessel Tanks",
+        "list_of_product_ids": "19117,13874,19110,19095,17356,22231,22504,22501,22555,23201,19202,19192",
+        "core_id": 1842.0
+      }
+    },
+    {
+      "id": "variant-17f26df2-c2fd-55e4-9871-1fe32aa88369",
+      "score": 0.84705395,
+      "metadata": {
+        "text": "core_product_name: pressure vessel | material: Monel Cladded",
+        "raw_product_name": "PRESSURE VESSEL-MONEL CLADDED",
+        "list_of_product_ids": "6645,5815,11022,12283,9018,9682,12012,12602,12998,17597,21940,21945,21966,21965,21959,21955,38306,37724,37740,37757",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-b22eeb6c-dc2c-5b96-bbd3-e4485f472e50",
+      "score": 0.8469842,
+      "metadata": {
+        "text": "core_product_name: pressure vessel | material: CS (Carbon Steel) | size_or_capacity: >100MM",
+        "raw_product_name": "PRESSURE VESSEL-CS (>100MM)",
+        "list_of_product_ids": "6635,5805,11015,9675,12170,12595,12991,13096,16936,17255,17391,17412,17591,17807,21739,21400,21734,23007,38807,38299,35791",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-52f9e840-cded-5769-872f-15fea34ec58c",
+      "score": 0.8467289,
+      "metadata": {
+        "text": "core_product_name: instrument valve | accessories_or_attachments: manifold",
+        "raw_product_name": "INSTRUMENT VALVES & MANIFOLDS",
+        "list_of_product_ids": "8451,8593,10656,10878,13417,15195,15214,15274,15282,15336,16883,17199,17298,17503,17499,18364,18481,22506,22608,23348,23343,23354,22927,23551,23546,27485,27484,27483,28117,28812,36133,36256,36409,36450",
+        "core_id": 1259.0
+      }
+    },
+    {
+      "id": "variant-6cc691d7-8031-5369-a831-96267fada815",
+      "score": 0.84515816,
+      "metadata": {
+        "text": "core_product_name: pressure relief valve",
+        "raw_product_name": "PRESSURE RELIEF VALVE",
+        "list_of_product_ids": "6492,5663,11547,10292,10320,10698,8344,8601,8932,9075,12223,12712,12713,12714,12785,12776,13174,13200,13327,16836,17528,17631,17802,18044,21313,21320,28809,36592,35687,35699,36147,36150,36166,36297,36314,36434,40007",
+        "core_id": 1776.0
+      }
+    },
+    {
+      "id": "variant-58b18428-ab84-54e0-8911-4e48d510fa61",
+      "score": 0.84496033,
+      "metadata": {
+        "text": "core_product_name: pressure regulator",
+        "raw_product_name": "PRESSURE REGULATOR",
+        "list_of_product_ids": "13868,15346,15351,15356",
+        "core_id": 1773.0
+      }
+    },
+    {
+      "id": "variant-1b301242-51fc-526a-84ff-a5c917de276a",
+      "score": 0.84474885,
+      "metadata": {
+        "text": "core_product_name: pressure indicating controller",
+        "raw_product_name": "PRESSURE INDICATING CONTROLLERS",
+        "list_of_product_ids": "17056,17059,17058,17057,28751,36365,40118",
+        "core_id": 1772.0
+      }
+    },
+    {
+      "id": "variant-a6103f7d-434d-59c3-b0c8-a5ad206ecb93",
+      "score": 0.8440396,
+      "metadata": {
+        "text": "core_product_name: gas metering system | special_attributes: dual chamber orifice",
+        "raw_product_name": "GAS METERING SYSTEM -DUAL CHAMBR ORIFICE",
+        "list_of_product_ids": "6614,5784,38506,38496",
+        "core_id": 1031.0
+      }
+    },
+    {
+      "id": "variant-aa514de4-c8e2-5996-9706-fc3a619ba94a",
+      "score": 0.8439748,
+      "metadata": {
+        "text": "core_product_name: site fabricated pressure vessel | construction_features: clad",
+        "raw_product_name": "PRESSURE VESSEL-CLAD SITE FABRICATED",
+        "list_of_product_ids": "6686,5857,9696,12166,13092,23503",
+        "core_id": 1781.0
+      }
+    },
+    {
+      "id": "variant-ab5c7d28-a5aa-552a-8340-75f3f0f1cca3",
+      "score": 0.8425345,
+      "metadata": {
+        "text": "core_product_name: flow transmitter",
+        "raw_product_name": "FLOW TRANSMITTER",
+        "list_of_product_ids": "134,391,821,036,513",
+        "core_id": 942.0
+      }
+    },
+    {
+      "id": "variant-ac005729-d87f-5139-af54-90e69da87501",
+      "score": 0.8414787,
+      "metadata": {
+        "text": "core_product_name: pressure control regulator",
+        "raw_product_name": "PRESSURE CONTROL REGULATOR",
+        "list_of_product_ids": "13867,15347,15352,15357",
+        "core_id": 1769.0
+      }
+    },
+    {
+      "id": "variant-8a7acf5a-60ab-533b-a9cb-a36e1f7de95f",
+      "score": 0.841381,
+      "metadata": {
+        "text": "core_product_name: pressure vessel | material: Titanium",
+        "raw_product_name": "PRESSURE VESSEL- TITANIUM",
+        "list_of_product_ids": "6644,5814,12282,9017,21065,21912,38422",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-90f4ea19-8827-59bb-af63-c1329445f6c4",
+      "score": 0.8412372,
+      "metadata": {
+        "text": "core_product_name: sampling valve",
+        "raw_product_name": "SAMPLING VALVE",
+        "list_of_product_ids": "7307,7332,8166,8170,8151,8185,8186",
+        "core_id": 1955.0
+      }
+    },
+    {
+      "id": "variant-05f6efc7-3b87-5c74-99c2-ccc3f3812e3c",
+      "score": 0.8410718,
+      "metadata": {
+        "text": "core_product_name: ventilation and pressurisation system",
+        "raw_product_name": "VENTILATION & PRESSURISATION SYSTEM",
+        "list_of_product_ids": "7018,7338,10205,10822,24144,24146,22515,19672",
+        "core_id": 2387.0
+      }
+    },
+    {
+      "id": "variant-c3316671-1084-5801-b30a-c27420018e41",
+      "score": 0.84045863,
+      "metadata": {
+        "text": "core_product_name: type valve control body",
+        "raw_product_name": "VALVE CONTROL BODY TYPE",
+        "list_of_product_ids": "14051,15178,17084,20252,22357,23086,23779,23783,36658",
+        "core_id": 2349.0
+      }
+    },
+    {
+      "id": "variant-2d11ea10-b743-53e1-a8ca-900dfe4f9749",
+      "score": 0.84020156,
+      "metadata": {
+        "text": "core_product_name: control valve positioner",
+        "raw_product_name": "CONTROL VALVE POSITIONER",
+        "list_of_product_ids": "6488,5659,11718,8691",
+        "core_id": 467.0
+      }
+    }
+  ]
+}

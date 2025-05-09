@@ -1,0 +1,138 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items > geotech > ground improvement > stone columns",
+      "full_product_description": "Installation of 900mm diameter stone columns of required length as per design by VIBROFLOAT method in triangular",
+      "core_product_name": "installation of stone columns",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 900mm",
+      "feature_or_specifications": "installation method: vibrofloat, layout: triangular, as per design",
+      "quantity": "9700.0",
+      "unit": "rm"
+    },
+    {
+      "section_context_for_this_product_block": "supply items > geotech > ground improvement > stone columns > sand blankets",
+      "full_product_description": "Supply and filling of approved sand as per specifications in sand blankets over stone columns including cost of sand,",
+      "core_product_name": "supply and filling of sand in sand blankets",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: approved sand, application: over stone columns, includes: cost of sand, as per specifications",
+      "quantity": "950.0",
+      "unit": "cum"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      720,
+      729
+    ],
+    "original_rows": [
+      {
+        "0": 721,
+        "1": 0,
+        "2": "01GG.302",
+        "3": "DESIGN & INSTALLATION OF STONE COLUMNS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 722,
+        "1": 0,
+        "2": "01GG.302.1",
+        "3": "STONE COLUMNS BY VIBROFLOAT METHOD",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 723,
+        "1": 0,
+        "2": "01GG.302.1.MH2",
+        "3": "Installation of 900mm diameter stone columns of required length as per design by VIBROFLOAT method in triangular",
+        "4": 9700.0,
+        "5": "RM",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 724,
+        "1": 0,
+        "2": "01GG.304",
+        "3": "SAND BLANKETS OVER STONE COLUMNS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 725,
+        "1": 0,
+        "2": "01GG.304.1",
+        "3": "Supply and filling of approved sand as per specifications in sand blankets over stone columns including cost of sand,",
+        "4": 950.0,
+        "5": "cum",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 726,
+        "1": 0,
+        "2": "01GG.308",
+        "3": "FOOTING LOAD TEST (SINGLE STONE COLUMN)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 727,
+        "1": 0,
+        "2": "01GG.308.1",
+        "3": "Conducting footing load test on a single stone column as per specs.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 728,
+        "1": 0,
+        "2": "01GG.308.1.1",
+        "3": "Initial load test at trial site on single stone column. Conducting footing load test on a single column as per",
+        "4": 1.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 729,
+        "1": 0,
+        "2": "01GG.308.1.2",
+        "3": "Routine load test on job columns on single stone column Conducting footing load test on a single column as per",
+        "4": 3.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 730,
+        "1": 0,
+        "2": "01GG.309",
+        "3": "FOOTING LOAD TEST ON  THREE STONE COLUMN GROUP",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2264,
+    "completion_tokens": 587
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: machinery hiring charges",
+  "retrieval_results": [
+    {
+      "id": "variant-b095a83c-bb8e-5835-ac24-cca90b1705bb",
+      "score": 0.8770716,
+      "metadata": {
+        "text": "core_product_name: machine tool",
+        "raw_product_name": "MACHINE TOOLS",
+        "list_of_product_ids": "19276,19271,19293,19272,27797,33209,33274,35936,39072,39192,39234,39273,39461,39350,39501,39518,39706,39775,39862,39952,40013,40060,40110,40220,40248,40287",
+        "core_id": 1419.0
+      }
+    },
+    {
+      "id": "variant-8398ac79-a3ef-5f2a-ae37-366508b0a92a",
+      "score": 0.875468,
+      "metadata": {
+        "text": "core_product_name: machine",
+        "raw_product_name": "MACHINE",
+        "list_of_product_ids": "24311,24313,39774,26875,39517,39044,39193,39235,39274,39351,39462,39502,39707,39863,39953,40014,40061,40111,40221,40249,40288",
+        "core_id": 1420.0
+      }
+    },
+    {
+      "id": "variant-477f0b0f-879d-5a1f-a1fc-744e06945ccc",
+      "score": 0.8752752,
+      "metadata": {
+        "text": "core_product_name: motor servicing",
+        "raw_product_name": "MOTOR SERVICING",
+        "list_of_product_ids": "246,582,679,724,656",
+        "core_id": 1505.0
+      }
+    },
+    {
+      "id": "variant-b26d4dc9-144c-5c09-a378-6c991246756f",
+      "score": 0.87354666,
+      "metadata": {
+        "text": "core_product_name: labour supply contractor",
+        "raw_product_name": "LABOUR SUPPLY CONTRACTORS FOR MECHANICAL WORKS",
+        "list_of_product_ids": "35824,35839,35834,35878,35830",
+        "core_id": 1316.0
+      }
+    },
+    {
+      "id": "variant-0a9290b3-8ea7-59a2-a8d9-9ba99d3dbdaa",
+      "score": 0.8672974,
+      "metadata": {
+        "text": "core_product_name: machine monitoring system",
+        "raw_product_name": "MACHINE MONITORING SYSTEMS",
+        "list_of_product_ids": "6478,5649,12455,32772,38192",
+        "core_id": 1418.0
+      }
+    },
+    {
+      "id": "variant-8fce51b2-7ac9-5842-a55a-b3f5c0f619b6",
+      "score": 0.86686736,
+      "metadata": {
+        "text": "core_product_name: hand drilling machine",
+        "raw_product_name": "HAND DRILLING MACHINE",
+        "list_of_product_ids": "39082,39083,39109,39196,39238,39277,39354,39465,39506,39514,39711,39771,39866,39957,40018,40065,40115,40223,40251,40290",
+        "core_id": 1098.0
+      }
+    },
+    {
+      "id": "variant-17002a52-9336-52a1-ac61-3e4440b88e11",
+      "score": 0.8661737,
+      "metadata": {
+        "text": "core_product_name: engine servicing",
+        "raw_product_name": "ENGINE SERVICING",
+        "list_of_product_ids": "24306,24359,24308,26865",
+        "core_id": 751.0
+      }
+    },
+    {
+      "id": "variant-d5c5b68e-e144-5d81-a3fa-f0ad63d54280",
+      "score": 0.8657246,
+      "metadata": {
+        "text": "core_product_name: turbine shaft machine",
+        "raw_product_name": "TURBINE SHAFT MACHINE",
+        "list_of_product_ids": "13995,14967,14973,14979,21539,21589",
+        "core_id": 2296.0
+      }
+    },
+    {
+      "id": "variant-215fd7c9-ee84-5244-9a2d-e9ceebef77ce",
+      "score": 0.865612,
+      "metadata": {
+        "text": "core_product_name: mechanical miscellaneous work",
+        "raw_product_name": "MECHANICAL-MISCELLANEOUS WORKS",
+        "list_of_product_ids": "36859,35838,35841,35881,36516",
+        "core_id": 1454.0
+      }
+    },
+    {
+      "id": "variant-b67de829-158f-51e0-9e29-51e26359a134",
+      "score": 0.8655554,
+      "metadata": {
+        "text": "core_product_name: hydraulic motor",
+        "raw_product_name": "Hydraulic Motor",
+        "list_of_product_ids": "7069,7396,14756,14760",
+        "core_id": 1218.0
+      }
+    },
+    {
+      "id": "variant-ea745183-c2e7-57ca-8b75-79f31fa43e59",
+      "score": 0.86544865,
+      "metadata": {
+        "text": "core_product_name: hose binding machine",
+        "raw_product_name": "HOSE BINDING MACHINE",
+        "list_of_product_ids": "1,679,127,111",
+        "core_id": 1155.0
+      }
+    },
+    {
+      "id": "variant-49b73ca9-9bcf-5025-b7eb-281b8c263141",
+      "score": 0.86534363,
+      "metadata": {
+        "text": "core_product_name: motor",
+        "raw_product_name": "Motors",
+        "list_of_product_ids": "6407,5578,11169,11344,10182,11378,11384,12243,12377,14875,15882,16439,19757,24028,21986,23476,23490,39314,36618,34590,34595,34593,34594,34625,34626,34627,34628,34632,34633,34634,34635,34636,34637,34638,34639,34640,34646,34881,34909,34908,34907,34906,34905,34919,34918,34917,34916,34915,34914,34913,34912,34911,34910,34920,34929,34928,34927,34926,34921,34924,34923,34925,34922,35146,35152,35188,35214,35270,35322,35323,35443,35448,35665,35680,35688,35875,35873,35955,35971,40181,40232",
+        "core_id": 556.0
+      }
+    },
+    {
+      "id": "variant-aee137b0-552a-50c0-995d-be1a301a917d",
+      "score": 0.8644653,
+      "metadata": {
+        "text": "core_product_name: at site material handling and transportation",
+        "raw_product_name": "MATERIAL HANDLING AND TRANSPORTATION AT SITE",
+        "list_of_product_ids": "35825,35831,35840,35879,36082,40091",
+        "core_id": 1445.0
+      }
+    },
+    {
+      "id": "variant-7f69bb45-eeec-54fe-919f-3edd08b94859",
+      "score": 0.8637775,
+      "metadata": {
+        "text": "core_product_name: shaping machine",
+        "raw_product_name": "SHAPING MACHINE",
+        "list_of_product_ids": "154,351,826,618,242",
+        "core_id": 2007.0
+      }
+    },
+    {
+      "id": "variant-0fa8cdf8-1424-53e2-b353-07d5262f388b",
+      "score": 0.8635036,
+      "metadata": {
+        "text": "core_product_name: precision machined component",
+        "raw_product_name": "PRECESION MACHINED COMPONENTS",
+        "list_of_product_ids": "239,482,394,928,689",
+        "core_id": 1760.0
+      }
+    },
+    {
+      "id": "variant-7b84b9d7-6c76-5b4d-9aaf-d57ecafe4b91",
+      "score": 0.8633706,
+      "metadata": {
+        "text": "core_product_name: electrical-instrumentation work",
+        "raw_product_name": "ELECTRICAL-INSTRUMENTATION WORKS",
+        "list_of_product_ids": "36860,36857,36888,36892",
+        "core_id": 711.0
+      }
+    },
+    {
+      "id": "variant-1ab3bbc1-7237-500d-90d8-27f6498da945",
+      "score": 0.8625011,
+      "metadata": {
+        "text": "core_product_name: equipment",
+        "raw_product_name": "CONTROL ROOM EQUIPMENT",
+        "list_of_product_ids": "14034,14815,17256,21098",
+        "core_id": 460.0
+      }
+    },
+    {
+      "id": "variant-ce5d7e5c-a44e-5578-a2c3-2b84ee7ed602",
+      "score": 0.8623971,
+      "metadata": {
+        "text": "core_product_name: motor repair",
+        "raw_product_name": "MOTOR REPAIR",
+        "list_of_product_ids": "246,552,465,726,798",
+        "core_id": 1503.0
+      }
+    },
+    {
+      "id": "variant-62e9d5fb-3cb4-5db6-9c87-632de704fb71",
+      "score": 0.8620929,
+      "metadata": {
+        "text": "core_product_name: erection and commissioning equipment",
+        "raw_product_name": "EQUIPMENT - ERECTION & COMMISSIONING",
+        "list_of_product_ids": "16194,16202,16350,16355,33812,34490,35836,35844",
+        "core_id": 757.0
+      }
+    },
+    {
+      "id": "variant-9b36928c-cfc0-5123-a3d5-7d49bce9d9de",
+      "score": 0.86073655,
+      "metadata": {
+        "text": "core_product_name: loading arm",
+        "raw_product_name": "LOADING ARM",
+        "list_of_product_ids": "13621",
+        "core_id": 1375.0
+      }
+    },
+    {
+      "id": "variant-63f28b5e-8d64-503f-938b-d41f4b31f2fd",
+      "score": 0.86051387,
+      "metadata": {
+        "text": "core_product_name: industrial receptacle",
+        "raw_product_name": "INDUSTRIAL RECEPTACLE",
+        "list_of_product_ids": "136,891,479,414,813",
+        "core_id": 1235.0
+      }
+    },
+    {
+      "id": "variant-d98bfda3-7d95-5727-b3f4-adda0f95a14f",
+      "score": 0.85993123,
+      "metadata": {
+        "text": "core_product_name: drive turbine",
+        "raw_product_name": "DRIVE TURBINE",
+        "list_of_product_ids": "13714,15264,15237,21580",
+        "core_id": 626.0
+      }
+    },
+    {
+      "id": "variant-dccb1b8c-ce03-5353-8d7f-1894add2f041",
+      "score": 0.8596483,
+      "metadata": {
+        "text": "core_product_name: equipment insulation",
+        "raw_product_name": "EQUIPMENT INSULATION WORKS",
+        "list_of_product_ids": "358,293,583,235,880",
+        "core_id": 761.0
+      }
+    },
+    {
+      "id": "variant-7ca03090-7818-58e9-b746-b20c802cbb9f",
+      "score": 0.8593393,
+      "metadata": {
+        "text": "core_product_name: light machined component",
+        "raw_product_name": "LIGHT MACHINED COMPONENTS",
+        "list_of_product_ids": "239,522,395,328,688",
+        "core_id": 1350.0
+      }
+    },
+    {
+      "id": "variant-abc974db-6c48-57e2-9ca5-1b55d8b33ef6",
+      "score": 0.8590928,
+      "metadata": {
+        "text": "core_product_name: engine",
+        "raw_product_name": "ENGINE",
+        "list_of_product_ids": "13931,18581,21040,21827,36855",
+        "core_id": 748.0
+      }
+    },
+    {
+      "id": "variant-3047fac8-6381-5411-a974-4c5580fb9c7e",
+      "score": 0.8590856,
+      "metadata": {
+        "text": "core_product_name: hot tapping machine",
+        "raw_product_name": "HOT TAPPING MACHINE",
+        "list_of_product_ids": "61,575,327",
+        "core_id": 1160.0
+      }
+    },
+    {
+      "id": "variant-60cc1389-d2d7-5796-b91e-9be0cfc16c55",
+      "score": 0.85900575,
+      "metadata": {
+        "text": "core_product_name: instrumentation fitting",
+        "raw_product_name": "INSTRUMENTATION FITTINGS",
+        "list_of_product_ids": "14372,17508,17507,17506,17505,17504,17501,17500,17496,17958,17960",
+        "core_id": 1264.0
+      }
+    },
+    {
+      "id": "variant-966e4ca5-fe30-58c0-97b6-4325ab0c701e",
+      "score": 0.8588028,
+      "metadata": {
+        "text": "core_product_name: electric hoist control equipment",
+        "raw_product_name": "ELECTRIC HOIST CONTROL EQUIPMENT",
+        "list_of_product_ids": "20829,20827,20825,20823,27097",
+        "core_id": 694.0
+      }
+    },
+    {
+      "id": "variant-8f7d43be-feac-5cc4-bfba-9de5d2dd8a48",
+      "score": 0.85845613,
+      "metadata": {
+        "text": "core_product_name: power tool",
+        "raw_product_name": "POWER TOOLS",
+        "list_of_product_ids": "40167,40169,40170,40171,40172,40173,40174,40175,40176,40177,40182,40183,40184,40186,40187,40188,40226,40263,40254,40293",
+        "core_id": 1745.0
+      }
+    },
+    {
+      "id": "variant-51b2a16b-b9bc-56a8-adfa-dfaa7f90eb00",
+      "score": 0.85830796,
+      "metadata": {
+        "text": "core_product_name: overhead or drag-chain conveyor",
+        "raw_product_name": "CONVEYOR OVERHEAD/DRAG-CHAIN",
+        "list_of_product_ids": "6111,5278,9600,9715",
+        "core_id": 479.0
+      }
+    }
+  ]
+}

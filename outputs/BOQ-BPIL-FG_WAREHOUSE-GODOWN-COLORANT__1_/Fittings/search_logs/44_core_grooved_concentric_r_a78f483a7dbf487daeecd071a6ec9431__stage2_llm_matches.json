@@ -1,0 +1,48 @@
+{
+  "query": "core_product_name: grooved concentric reducer | size: reducer size: 50 x 25 NB",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: reducer fitting",
+        "raw_product_name": "FITTINGS \u0013REDUCER",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: reducing socket",
+        "raw_product_name": "REDUCING SOCKET",
+        "list_of_product_ids": [
+          "1",
+          "547",
+          "915",
+          "481"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: reduced flange",
+        "raw_product_name": "REDUCED FLANGE",
+        "list_of_product_ids": [
+          "15468",
+          "15474",
+          "15476",
+          "15477"
+        ]
+      }
+    }
+  ]
+}

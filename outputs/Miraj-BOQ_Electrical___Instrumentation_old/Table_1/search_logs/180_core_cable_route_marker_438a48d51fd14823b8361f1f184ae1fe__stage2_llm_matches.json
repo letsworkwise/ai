@@ -1,0 +1,65 @@
+{
+  "query": "core_product_name: cable route marker",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: cable trench",
+        "raw_product_name": "CABLE TRENCHES",
+        "list_of_product_ids": [
+          "15786",
+          "15854",
+          "15876",
+          "15870",
+          "24073",
+          "23925"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: cable tray",
+        "raw_product_name": "CABLE TRAY",
+        "list_of_product_ids": [
+          "7297",
+          "7345",
+          "10639",
+          "10642",
+          "7895",
+          "7896",
+          "16219",
+          "18875",
+          "18921",
+          "19965",
+          "19975",
+          "24240",
+          "21182",
+          "21180",
+          "22148",
+          "26429"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: cable hanger | mounting_or_installation: hanger",
+        "raw_product_name": "CABLE HANGER",
+        "list_of_product_ids": [
+          "19960",
+          "19959",
+          "19974",
+          "24080",
+          "21181",
+          "21179",
+          "23931",
+          "27354"
+        ]
+      }
+    }
+  ]
+}

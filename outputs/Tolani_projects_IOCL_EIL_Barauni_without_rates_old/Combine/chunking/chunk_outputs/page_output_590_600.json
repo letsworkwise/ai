@@ -1,0 +1,148 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "\"Supplying, handling, transporting to site of work and fixing approved CHEMICAL ANCHOR FASTENERS consisting of",
+      "core_product_name": "chemical anchor fasteners",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, handling, transporting to site of work, fixing, approval: approved, feature: consisting of",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "\"Supplying, handling, transporting to site of work and fixing approved CHEMICAL ANCHOR FASTENERS consisting of",
+      "core_product_name": "chemical anchor fasteners",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, handling, transporting to site of work, fixing, approval: approved, feature: consisting of",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "\"Supplying, handling, transporting to site of work and fixing approved CHEMICAL ANCHOR FASTENERS consisting of",
+      "core_product_name": "chemical anchor fasteners",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, handling, transporting to site of work, fixing, approval: approved, feature: consisting of",
+      "quantity": "5.0",
+      "unit": "each"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      590,
+      599
+    ],
+    "original_rows": [
+      {
+        "0": 591,
+        "1": 0,
+        "2": "01CS.6.25.3",
+        "3": "\"Supplying, handling, transporting to site of work and fixing approved MECHANICAL ANCHOR FASTENERS M.S. bolts",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 592,
+        "1": 0,
+        "2": "01CS.6.26",
+        "3": "Chemical Anchor Fastner",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 593,
+        "1": 0,
+        "2": "01CS.6.26.1",
+        "3": "\"Supplying, handling, transporting to site of work and fixing approved CHEMICAL ANCHOR FASTENERS consisting of",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 594,
+        "1": 0,
+        "2": "01CS.6.26.2",
+        "3": "\"Supplying, handling, transporting to site of work and fixing approved CHEMICAL ANCHOR FASTENERS consisting of",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 595,
+        "1": 0,
+        "2": "01CS.6.26.3",
+        "3": "\"Supplying, handling, transporting to site of work and fixing approved CHEMICAL ANCHOR FASTENERS consisting of",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 596,
+        "1": 0,
+        "2": "01CS.7",
+        "3": "BRICK MASONRY (REFER SPECIFICATION NO.6-68- 0009)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 597,
+        "1": 0,
+        "2": "01CS.7.9",
+        "3": "CLASS 5.0  at all depths -Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 598,
+        "1": 0,
+        "2": "01CS.7.9.1",
+        "3": "Providing and laying BRICK MASONRY WITH BRICKS OF CLASS 5.0 in cement mortar 1:6 (1 Cement : 6 Sand) in one",
+        "4": 5.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 599,
+        "1": 0,
+        "2": "01CS.7.9.2",
+        "3": "Providing and laying BRICK MASONRY WITH BRICKS OF CLASS 5.0 in cement mortar 1:6 (1 Cement : 6 Sand) in one",
+        "4": 5.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 600,
+        "1": 0,
+        "2": "01CS.7.9.3",
+        "3": "Providing and laying BRICK MASONRY WITH BRICKS OF CLASS 5.0 in cement mortar 1:6 (1 Cement : 6 Sand) in one",
+        "4": 0.5,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2460,
+    "completion_tokens": 785
+  }
+}

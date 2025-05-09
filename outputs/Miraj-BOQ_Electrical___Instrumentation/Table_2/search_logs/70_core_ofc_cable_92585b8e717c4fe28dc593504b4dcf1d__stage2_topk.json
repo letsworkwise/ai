@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: ofc cable | acronymed_core_product_name: ofc cable | size: core: 24 core | feature_or_specifications: armoured: yes, duct: HDPE (high density polyethylene), accessories: 12/24 port LIU (line interface unit), splice tray, loaded adapter, blank plate & patch cord etc as required is included",
+  "retrieval_results": [
+    {
+      "id": "variant-7e1f89f5-a582-5ff8-a6c1-b82b36bce769",
+      "score": 0.85609806,
+      "metadata": {
+        "text": "core_product_name: optical fibre cable | accessories_or_attachments: associated item",
+        "raw_product_name": "OPTICAL FIBRE CABLE & ASSOC.ITEM",
+        "list_of_product_ids": "6480,5651,10911,11309,11731,11946,19181,17780,19112,19562,23868,24032,26902,26901,19151,34333",
+        "core_id": 1597.0
+      }
+    },
+    {
+      "id": "variant-affc3a60-b3e8-5b61-83c3-0bf211340c68",
+      "score": 0.85456306,
+      "metadata": {
+        "text": "core_product_name: armoured cable | construction_features: Armour | special_attributes: Loop",
+        "raw_product_name": "ARMOURED CABLE-(LOOP)",
+        "list_of_product_ids": "9936,9937,9938,8890,8911,8937,8941,8949,8945,8953,9082,9086,9090,9094,9098,19456,19459,19521,19532,19549,19556,23874,24037,24686,27123,27118,27127,27131,27135,27162,27167,27172,27181,27283,27337,27358,27398,27433,27520,27526,27539,27544,27553,27580,27638,27646,27682,27673,27771,27789,27810,27900,27917,27962,28028,28080,28067,28145,28115,28111,28107,28271,28283,28295,28291,28347,28385,28381,28413,28419,28458,28455,28466,28498,28514,38762,38596,38683,38622,38711,38650,38736,38847,38879,38921,38947,38984,39011,39039,39064,39107,39137,39185,39213,39266,39287,39333,39369,39398,39428,39479,39534,39561,38788,39599,39623,39651,39685,39725,39795,39823,39894",
+        "core_id": 130.0
+      }
+    },
+    {
+      "id": "variant-ee05504e-04ab-5063-9f21-014ad2b2938e",
+      "score": 0.852971,
+      "metadata": {
+        "text": "core_product_name: armoured cable | type_or_class: Speaker | construction_features: Armour",
+        "raw_product_name": "ARMOURED CABLE-(SPEAKER)",
+        "list_of_product_ids": "8892,8909,8939,8943,8951,8947,8955,9084,9088,9092,9096,9100,23876,24039,24688,24727,24956,27121,27116,27125,27129,27133,27160,27165,27170,27179,27285,27335,27356,27396,27431,27518,27524,27537,27542,27551,27578,27636,27644,27680,27671,27769,27787,27808,27898,27915,27960,28026,28078,28066,28143,28113,28109,28105,28269,28281,28289,28293,28346,28383,28379,28411,28421,28453,28456,28464,28496,28512",
+        "core_id": 130.0
+      }
+    },
+    {
+      "id": "variant-910635db-1f6d-5b76-ae03-05bdfcbe87d3",
+      "score": 0.8509269,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: ht (high tension) cable | size_or_capacity: up to 11kV | type_or_class: HT (High Tension) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "HT (up to 11kV) cable XLPE",
+        "list_of_product_ids": "13659,14787,14826,15794,16794,20058,20143,24054,23905",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-561ccbee-4cf2-55d6-9001-685613ac299b",
+      "score": 0.85039574,
+      "metadata": {
+        "text": "core_product_name: armoured cable | type_or_class: Power | construction_features: Armour",
+        "raw_product_name": "ARMOURED CABLE-(POWER)",
+        "list_of_product_ids": "8891,8910,8938,8942,8950,8946,8954,9083,9087,9091,9095,9099,23875,24038,24687,24728,24957,27122,27117,27126,27130,27134,27161,27166,27171,27180,27284,27336,27357,27397,27432,27519,27525,27538,27543,27552,27579,27637,27645,27681,27672,27770,27788,27809,27899,27916,27961,28027,28079,28068,28144,28114,28110,28106,28270,28282,28294,28290,28349,28384,28380,28412,28420,28457,28454,28465,28497,28513,39980,39981,39982,39983,40102,40105,40106,40103,40104,40107,40108,40109",
+        "core_id": 130.0
+      }
+    },
+    {
+      "id": "variant-7b009866-6d34-52c5-9fcd-06385c444699",
+      "score": 0.845489,
+      "metadata": {
+        "text": "core_product_name: duct | acronymed_core_product_name: HDPE (High Density Polyethylene) DUCT | material: HDPE (High Density Polyethylene)",
+        "raw_product_name": "HDPE DUCT",
+        "list_of_product_ids": "142,501,665,622,898",
+        "core_id": 1101.0
+      }
+    },
+    {
+      "id": "variant-0ff35c17-29e9-57ef-9128-f170e7baffc4",
+      "score": 0.84350944,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 33kV | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "33kV cable XLPE",
+        "list_of_product_ids": "14154,15792,16795,20142,24052,20057,23903",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-b0341ac8-d484-5fda-9e50-728b9d637a42",
+      "score": 0.8429606,
+      "metadata": {
+        "text": "core_product_name: terminal | acronymed_core_product_name: PLCC (Power Line Carrier Communication) terminal | accessories_or_attachments: protection coupler",
+        "raw_product_name": "PLCC TERMINAL WITH PROTECTION COUPLER",
+        "list_of_product_ids": "18710,18709,19015,18707,38296,38321",
+        "core_id": 1707.0
+      }
+    },
+    {
+      "id": "variant-b29f45f6-c600-525a-969d-04357eb2ecc6",
+      "score": 0.8429054,
+      "metadata": {
+        "text": "core_product_name: cable tray | accessories_or_attachments: accessories",
+        "raw_product_name": "CABLE TRAYS & ACCESSORIES",
+        "list_of_product_ids": "14375,19396,19397,24231,19501,26433",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-0a06fbf2-0b0e-570c-bf1f-98af8e2f23ed",
+      "score": 0.8421036,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: xlpe cable | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "XLPE CABLE",
+        "list_of_product_ids": "23937,24086,21510,27082",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-7930aac4-4837-5a2d-9160-b0e71f7b6da1",
+      "score": 0.8419195,
+      "metadata": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride) | accessories_or_attachments: accessories",
+        "raw_product_name": "PVC Conduit and accessories",
+        "list_of_product_ids": "7222,7548,10494,10502",
+        "core_id": 442.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.841668,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-bb96db43-a603-5b08-b082-1a787ab9db3c",
+      "score": 0.841575,
+      "metadata": {
+        "text": "core_product_name: conduit accessory",
+        "raw_product_name": "CONDUIT ACCESSORIES",
+        "list_of_product_ids": "20550,20514,20591,20632,20686,20744",
+        "core_id": 439.0
+      }
+    },
+    {
+      "id": "variant-eba165a3-e5a7-5ab3-8672-cefcfe8eb6fb",
+      "score": 0.8408789,
+      "metadata": {
+        "text": "core_product_name: waterways connected equipment | acronymed_core_product_name: odc (over dimensional cargo) equipment",
+        "raw_product_name": "ODC EQUIPMENTS (WATERWAYS CONNECTED)",
+        "list_of_product_ids": "7506,11038,7181,12169,12603,13095,23217,23216,23209,23208,23207,37948,37957,37996,38008,38048,38353,38364,38408",
+        "core_id": 1574.0
+      }
+    },
+    {
+      "id": "variant-c28cd6ec-18ca-5e53-b2b3-3eb06b046006",
+      "score": 0.84087366,
+      "metadata": {
+        "text": "core_product_name: high tension (H.T.) cable | acronymed_core_product_name: h.t. cable | size_or_capacity: up to 33kV",
+        "raw_product_name": "H.T. CABLE UPTO 33KV",
+        "list_of_product_ids": "13744,14790,14822,14828,24064,23916,33894",
+        "core_id": 1091.0
+      }
+    },
+    {
+      "id": "variant-035e5d74-4fc0-5854-ace0-4826f9b36c25",
+      "score": 0.84070283,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+        "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+        "list_of_product_ids": "19885,19880,24078,23930,27348",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-f9b90487-4157-56f3-bf76-37e9d21a83f4",
+      "score": 0.8399295,
+      "metadata": {
+        "text": "core_product_name: cable | material: PTFE (Polytetrafluoroethylene)",
+        "raw_product_name": "PTFE CABLE",
+        "list_of_product_ids": "24083,21245,21237,23934,27352",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-5a518091-1505-5c53-a5e9-7c4a82cceeab",
+      "score": 0.83989227,
+      "metadata": {
+        "text": "core_product_name: perforated cable tray | acronymed_core_product_name: gi (galvanized iron) cable tray | material: GI (Galvanized Iron) | accessories_or_attachments: Accessories | type_or_class: Perforated",
+        "raw_product_name": "GI CABLE TRAYS AND ACCESSORIES (PERFORATED TYPE)",
+        "list_of_product_ids": "7301,7349,7899,17491,26434",
+        "core_id": 1054.0
+      }
+    },
+    {
+      "id": "variant-aced03b4-d6e4-5165-b3cf-7a7e7de87bc6",
+      "score": 0.83970255,
+      "metadata": {
+        "text": "core_product_name: perforated cable tray",
+        "raw_product_name": "Perforrated Cable Tray",
+        "list_of_product_ids": "7,013,732,126,432",
+        "core_id": 1054.0
+      }
+    },
+    {
+      "id": "variant-323bf0e7-9d8f-5ea5-9cad-eb58b0ac6448",
+      "score": 0.83787763,
+      "metadata": {
+        "text": "core_product_name: special cable",
+        "raw_product_name": "SPECIAL CABLES",
+        "list_of_product_ids": "13989,14840,20102,20070,24071,23923",
+        "core_id": 2074.0
+      }
+    },
+    {
+      "id": "variant-c61c3687-035c-50f1-a184-70194e77bd52",
+      "score": 0.8377679,
+      "metadata": {
+        "text": "core_product_name: pvc pipe | accessories_or_attachments: fittings | type_or_class: cable conduit",
+        "raw_product_name": "PVC PIPES AND FITTINGS (CABLE CONDUITS)",
+        "list_of_product_ids": "16289,16286,16284,16283,16291,27072,34651,35164",
+        "core_id": 1823.0
+      }
+    },
+    {
+      "id": "variant-b38364ed-944e-5328-ae92-c2de4288e310",
+      "score": 0.8376923,
+      "metadata": {
+        "text": "core_product_name: cable tray | acronymed_core_product_name: frp (fiber reinforced plastic) cable tray | material: FRP (Fiber Reinforced Plastic)",
+        "raw_product_name": "CABLE TRAY FRP- Package Type",
+        "list_of_product_ids": "38434,38297,38329,38330,38331,38425",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-b722d3a4-0ea7-52cf-9586-094ccbee23e0",
+      "score": 0.8372246,
+      "metadata": {
+        "text": "core_product_name: screened cable | special_attributes: Screened cable",
+        "raw_product_name": "SCREENED CABLES",
+        "list_of_product_ids": "13881,14838,15808,20059,20100,24067,23919",
+        "core_id": 1976.0
+      }
+    },
+    {
+      "id": "variant-a88868c3-e02b-556c-afb5-f9319567fc58",
+      "score": 0.836932,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLES",
+        "list_of_product_ids": "15455,13721,24275,15161,16241,19098,23820,23814,21319,19315,23819,23822,24273,23829,20141,23831,24058,23836,23909,23839,23828,24685,24726,24844,24955,31590,31591,26436,26438,31740,33330",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-4d61d445-0ca2-5a71-a2b2-abf92cbb9dac",
+      "score": 0.8369079,
+      "metadata": {
+        "text": "core_product_name: communication cable | construction_features: jelly filled",
+        "raw_product_name": "CABLES COMMN. (JELLY FILLED)",
+        "list_of_product_ids": "6426,5596,11747,12089,12121,13297,23995,23864",
+        "core_id": 287.0
+      }
+    },
+    {
+      "id": "variant-a6c0fc04-eafb-59b9-80b3-216525c393ef",
+      "score": 0.8368737,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 11KV (11 kiloVolt) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "11KV CABLE XLPE",
+        "list_of_product_ids": "23938,24087,21515,27081",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-7f090a1a-b828-5a18-86a5-0ef23d51283a",
+      "score": 0.83680564,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLE STOCKIST/TRADERS",
+        "list_of_product_ids": "2,467,924,680",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-63fe34f4-fc4f-530c-b91a-36e72ebe079b",
+      "score": 0.8366079,
+      "metadata": {
+        "text": "core_product_name: flexible cable tray support system | acronymed_core_product_name: gi (galvanized iron) cable tray support system | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI FLEXIBLE CABLE TRAY SUPPORT SYSTEM",
+        "list_of_product_ids": "7302,7350,7900,16236,20193,16264",
+        "core_id": 1055.0
+      }
+    },
+    {
+      "id": "variant-559c3a2e-c5b7-59ae-a285-f76553e6dc59",
+      "score": 0.8361654,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | type_or_class: Paired",
+        "raw_product_name": "INSTRUMENTATION CABLES (PAIRED)",
+        "list_of_product_ids": "19886,19882,24079,23913,27347",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-9991deda-d7a8-5474-82d8-9985ce1b0af3",
+      "score": 0.8358806,
+      "metadata": {
+        "text": "core_product_name: optical fibre cable | type_or_class: Optical Fibre",
+        "raw_product_name": "OPTICAL FIBRE CABLE",
+        "list_of_product_ids": "5955,6783,7005,7006,11751,10158,12291,11945,11906,12190,18378,19487,19563,20095,23871,24035,21242,34334,39590",
+        "core_id": 1597.0
+      }
+    }
+  ]
+}

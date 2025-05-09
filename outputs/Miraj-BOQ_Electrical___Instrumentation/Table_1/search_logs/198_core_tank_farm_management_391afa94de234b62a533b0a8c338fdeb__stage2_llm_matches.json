@@ -1,0 +1,63 @@
+{
+  "query": "core_product_name: tank farm management servers | size: monitor: 22\" colour led | feature_or_specifications: grade: commodity, redundancy: primary and secondary hot standby, software: included, accessories: backlit led monitor, keyboard, mouse, supply, installation, erection, commissioning: included, operator interface console computer (oic): included, location: central monitoring hub (cmh)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: management system",
+        "raw_product_name": "TANK FARM MANAGEMENT SYSTEM",
+        "list_of_product_ids": [
+          "6585",
+          "5755",
+          "11689",
+          "11698",
+          "10102",
+          "10116",
+          "11714",
+          "13223",
+          "21062",
+          "35434"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: server",
+        "raw_product_name": "SERVERS",
+        "list_of_product_ids": [
+          "13899",
+          "15300",
+          "15302",
+          "18836"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: erection and commissioning equipment",
+        "raw_product_name": "EQUIPMENT - ERECTION & COMMISSIONING",
+        "list_of_product_ids": [
+          "16194",
+          "16202",
+          "16350",
+          "16355",
+          "33812",
+          "34490",
+          "35836",
+          "35844"
+        ]
+      }
+    }
+  ]
+}

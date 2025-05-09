@@ -1,0 +1,568 @@
+{
+  "sheet_name": "Sheet1",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "SPEAKER | Hand operated siren range 500 m",
+      "core_product_name": "speaker",
+      "acronymed_core_product_name": "",
+      "size": "range: 500 m",
+      "feature_or_specifications": "type: hand operated siren",
+      "quantity": "1.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "nan | Electrical siren range 500 m, Voltage: 230VAC",
+      "core_product_name": "speaker",
+      "acronymed_core_product_name": "",
+      "size": "range: 500 m",
+      "feature_or_specifications": "type: electrical siren, voltage: 230 volts alternating current (VAC)",
+      "quantity": "1.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "CONTROL PANEL & ACCESSORIES | 32A TPN+E CU Bus (10KA) shall be considered. d) 6A, DP MCB 2 Nos and  16A, DP MCB 6 Nos shall be considered in a separate feeder.",
+      "core_product_name": "control panel and accessories",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "busbar: 32 ampere triple pole and neutral plus earth (TPN+E) copper (CU) bus, breaking capacity: 10 kiloampere (KA), miniature circuit breaker (MCB): 6 ampere double pole (DP) 2 nos, 16 ampere double pole (DP) 6 nos, feeder: separate",
+      "quantity": "1.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "MLDB | NON FLAMEPROOF TYPE,",
+      "core_product_name": "main lighting distribution board",
+      "acronymed_core_product_name": "mldb",
+      "size": "",
+      "feature_or_specifications": "type: non flameproof",
+      "quantity": "1.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "MLDB | NON FLAMEPROOF TYPE,",
+      "core_product_name": "main lighting distribution board",
+      "acronymed_core_product_name": "mldb",
+      "size": "",
+      "feature_or_specifications": "type: non flameproof",
+      "quantity": "1.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "UPS -ACDB | NON FLAMEPROOF TYPE,",
+      "core_product_name": "uninterruptible power supply alternating current distribution board",
+      "acronymed_core_product_name": "ups-acdb",
+      "size": "",
+      "feature_or_specifications": "type: non flameproof",
+      "quantity": "1.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "SOLAR POWER SYSTEM MODULES | NON FLAMEPROOF TYPE,",
+      "core_product_name": "solar power system modules",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: non flameproof",
+      "quantity": "1.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "UPS SYSTEM | NON FLAMEPROOF TYPE,",
+      "core_product_name": "uninterruptible power supply system",
+      "acronymed_core_product_name": "ups system",
+      "size": "",
+      "feature_or_specifications": "type: non flameproof",
+      "quantity": "1.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "HT (up to 11kV) cable XLPE | 4CX16Sqmm, AL conductor XLPE Insulated, FRLS, Voltage grade 1100V | 4CX16Sqmm",
+      "core_product_name": "high tension cable cross linked polyethylene",
+      "acronymed_core_product_name": "ht cable xlpe",
+      "size": "size: 4CX16Sqmm",
+      "feature_or_specifications": "conductor: aluminium (AL), insulation: cross linked polyethylene (XLPE), feature: fire retardant low smoke (FRLS), voltage grade: 1100 volts, voltage: up to 11 kilovolts (kV)",
+      "quantity": "136.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "nan | 4CX4Sqmm, CU conductor XLPE Insulated, FRLS, Voltage grade 1100V | 4CX4Sqmm",
+      "core_product_name": "high tension cable cross linked polyethylene",
+      "acronymed_core_product_name": "ht cable xlpe",
+      "size": "size: 4CX4Sqmm",
+      "feature_or_specifications": "conductor: copper (CU), insulation: cross linked polyethylene (XLPE), feature: fire retardant low smoke (FRLS), voltage grade: 1100 volts",
+      "quantity": "136.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "Cable Gland | Flameproof cable gland for 4CX16Sqmm | 4CX16Sqmm",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "size: 4CX16Sqmm",
+      "feature_or_specifications": "feature: flameproof",
+      "quantity": "10.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "nan | Flameproof cable gland for 4CX4Sqmm | 4CX4Sqmm",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "size: 4CX4Sqmm",
+      "feature_or_specifications": "feature: flameproof",
+      "quantity": "58.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "Cable Lugs | Ring type AL Lugs 4CX16Sqmm power cable | 4CX16Sqmm",
+      "core_product_name": "cable lugs",
+      "acronymed_core_product_name": "",
+      "size": "size: 4CX16Sqmm",
+      "feature_or_specifications": "type: ring, material: aluminium (AL), application: 4CX16Sqmm power cable",
+      "quantity": "40.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "nan | Ring type CU Lugs 4CX4Sqmm power cable | 4CX4Sqmm",
+      "core_product_name": "cable lugs",
+      "acronymed_core_product_name": "",
+      "size": "size: 4CX4Sqmm",
+      "feature_or_specifications": "type: ring, material: copper (CU), application: 4CX4Sqmm power cable",
+      "quantity": "232.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "LIGHTING WIRES FIRE RETARDANT TYPE | Primary wiring 12M | 12M",
+      "core_product_name": "lighting wires fire retardant type",
+      "acronymed_core_product_name": "",
+      "size": "length: 12M",
+      "feature_or_specifications": "wiring: primary",
+      "quantity": "10.0",
+      "unit": "Point"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "nan | Secondary wiring 4M | 4M",
+      "core_product_name": "lighting wires fire retardant type",
+      "acronymed_core_product_name": "",
+      "size": "length: 4M",
+      "feature_or_specifications": "wiring: secondary",
+      "quantity": "10.0",
+      "unit": "Point"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "LIGHTING WIRES FIRE RETARDANT TYPE | Primary wiring 12M | 12M",
+      "core_product_name": "lighting wires fire retardant type",
+      "acronymed_core_product_name": "",
+      "size": "length: 12M",
+      "feature_or_specifications": "wiring: primary",
+      "quantity": "22.1",
+      "unit": "Point"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "nan | Secondary wiring 4M | 12M",
+      "core_product_name": "lighting wires fire retardant type",
+      "acronymed_core_product_name": "",
+      "size": "length: 12M",
+      "feature_or_specifications": "wiring: secondary",
+      "quantity": "22.1",
+      "unit": "Point"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "SOCKET | 6PIN 15/16 & 5/6 AMPS MODULAR SOCKET",
+      "core_product_name": "socket",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: modular, pin: 6, current rating: 15/16 ampere and 5/6 ampere",
+      "quantity": "4.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "nan | 15/16 Amp modular switch board",
+      "core_product_name": "switch board",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: modular, current rating: 15/16 ampere",
+      "quantity": "5.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "LED | Fixture 2X40W wall/ceiling mount or equivalent light fixture",
+      "core_product_name": "light emitting diode fixture",
+      "acronymed_core_product_name": "led fixture",
+      "size": "",
+      "feature_or_specifications": "mounting: wall or ceiling, lamp: 2X40 watt or equivalent",
+      "quantity": "5.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "nan | FLP Fixture 2X40W wall/ceiling mount or equivalent light fixture",
+      "core_product_name": "light emitting diode fixture",
+      "acronymed_core_product_name": "led fixture",
+      "size": "",
+      "feature_or_specifications": "mounting: wall or ceiling, lamp: 2X40 watt or equivalent, feature: flameproof",
+      "quantity": "1.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "nan | Fixture 1X20W wall/ceiling mount or equivalent light fixture",
+      "core_product_name": "light emitting diode fixture",
+      "acronymed_core_product_name": "led fixture",
+      "size": "",
+      "feature_or_specifications": "mounting: wall or ceiling, lamp: 1X20 watt or equivalent",
+      "quantity": "2.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "Ceiling Fan | Ceiling fan of 1200mm | 1200mm",
+      "core_product_name": "ceiling fan",
+      "acronymed_core_product_name": "",
+      "size": "size: 1200mm",
+      "feature_or_specifications": "",
+      "quantity": "2.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "Exhaust fan | 450mm dia FLP exhaust fan with louvers | 450mm dia",
+      "core_product_name": "exhaust fan",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 450mm",
+      "feature_or_specifications": "feature: flameproof, feature: with louvers",
+      "quantity": "2.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "nan | 300mm dia FLP exhaust fan with louvers | 300mm dia",
+      "core_product_name": "exhaust fan",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 300mm",
+      "feature_or_specifications": "feature: flameproof, feature: with louvers",
+      "quantity": "4.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "FITTINGS (CONDUIT) | 25mm dia PVC conduit | 25mm dia",
+      "core_product_name": "conduit fittings",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 25mm",
+      "feature_or_specifications": "material: polyvinyl chloride (PVC)",
+      "quantity": "100.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "DG SET | 15KVA/12KW 3 PHASE MAHINDRA CPCB II compliant Gas Genset, Prime rated, radiator cooled, 15KVA equivalent electric alternator, microprocessor based controller, silencer, anti-vibration mountings, exhaust flexible connector, batteries with cable, acoustic enclosure and pressure converter valve.",
+      "core_product_name": "diesel generator set",
+      "acronymed_core_product_name": "dg set",
+      "size": "capacity: 15KVA/12KW",
+      "feature_or_specifications": "phase: 3, manufacturer: mahindra, compliance: central pollution control board (CPCB) II, type: gas genset, rating: prime, cooling: radiator cooled, alternator: 15KVA equivalent electric, controller: microprocessor based, accessories: silencer, anti-vibration mountings, exhaust flexible connector, batteries with cable, acoustic enclosure, pressure converter valve",
+      "quantity": "1.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "OUTDOOR CTS | FLP 110W LED for mounting on 7m hexagonal light pole suitable for hazardous Zone-2 area",
+      "core_product_name": "outdoor central transformer station",
+      "acronymed_core_product_name": "cts",
+      "size": "power: 110W, pole height: 7m",
+      "feature_or_specifications": "feature: flameproof, lamp: light emitting diode (LED), application: hazardous zone-2 area, mounting: hexagonal light pole",
+      "quantity": "22.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "OUTDOOR CTS | 7 meter height hexagonal/octagonal street pole with suitable size of JB",
+      "core_product_name": "outdoor central transformer station",
+      "acronymed_core_product_name": "cts",
+      "size": "height: 7 meter",
+      "feature_or_specifications": "pole shape: hexagonal or octagonal, accessory: junction box (JB)",
+      "quantity": "22.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "OUTDOOR CTS | Wiring 3CX2.5 Sqmm XLPE Insulated Cable",
+      "core_product_name": "outdoor central transformer station",
+      "acronymed_core_product_name": "cts",
+      "size": "",
+      "feature_or_specifications": "wiring: 3CX2.5 Sqmm, insulation: cross linked polyethylene (XLPE)",
+      "quantity": "220.0",
+      "unit": "m"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      30,
+      59
+    ],
+    "original_rows": [
+      {
+        "0": "CONTROL PANEL & ACCESSORIES",
+        "1": "32A TPN+E CU Bus (10KA) shall be considered. d) 6A, DP MCB 2 Nos and  16A, DP MCB 6 Nos shall be considered in a separate feeder.",
+        "2": NaN,
+        "3": 1.0,
+        "4": "No",
+        "5": NaN
+      },
+      {
+        "0": "MLDB",
+        "1": "NON FLAMEPROOF TYPE,",
+        "2": NaN,
+        "3": 1.0,
+        "4": "NO",
+        "5": NaN
+      },
+      {
+        "0": "MLDB",
+        "1": "NON FLAMEPROOF TYPE,",
+        "2": NaN,
+        "3": 1.0,
+        "4": "NO",
+        "5": NaN
+      },
+      {
+        "0": "UPS -ACDB",
+        "1": "NON FLAMEPROOF TYPE,",
+        "2": NaN,
+        "3": 1.0,
+        "4": "NO",
+        "5": NaN
+      },
+      {
+        "0": "SOLAR POWER SYSTEM MODULES",
+        "1": "NON FLAMEPROOF TYPE,",
+        "2": NaN,
+        "3": 1.0,
+        "4": "NO",
+        "5": NaN
+      },
+      {
+        "0": "UPS SYSTEM",
+        "1": "NON FLAMEPROOF TYPE,",
+        "2": NaN,
+        "3": 1.0,
+        "4": "NO",
+        "5": NaN
+      },
+      {
+        "0": "HT (up to 11kV) cable XLPE",
+        "1": "4CX16Sqmm, AL conductor XLPE Insulated, FRLS, Voltage grade 1100V",
+        "2": "4CX16Sqmm",
+        "3": 136.0,
+        "4": "m",
+        "5": NaN
+      },
+      {
+        "0": NaN,
+        "1": "4CX4Sqmm, CU conductor XLPE Insulated, FRLS, Voltage grade 1100V",
+        "2": "4CX4Sqmm",
+        "3": 136.0,
+        "4": "m",
+        "5": NaN
+      },
+      {
+        "0": "Cable Gland",
+        "1": "Flameproof cable gland for 4CX16Sqmm",
+        "2": "4CX16Sqmm",
+        "3": 10.0,
+        "4": "Nos",
+        "5": NaN
+      },
+      {
+        "0": NaN,
+        "1": "Flameproof cable gland for 4CX4Sqmm",
+        "2": "4CX4Sqmm",
+        "3": 58.0,
+        "4": "Nos",
+        "5": NaN
+      },
+      {
+        "0": "Cable Lugs",
+        "1": "Ring type AL Lugs 4CX16Sqmm power cable",
+        "2": "4CX16Sqmm",
+        "3": 40.0,
+        "4": "Nos",
+        "5": NaN
+      },
+      {
+        "0": NaN,
+        "1": "Ring type CU Lugs 4CX4Sqmm power cable",
+        "2": "4CX4Sqmm",
+        "3": 232.0,
+        "4": "Nos",
+        "5": NaN
+      },
+      {
+        "0": "LIGHTING WIRES FIRE RETARDANT TYPE",
+        "1": "Primary wiring 12M",
+        "2": "12M",
+        "3": 10.0,
+        "4": "Point",
+        "5": NaN
+      },
+      {
+        "0": NaN,
+        "1": "Secondary wiring 4M",
+        "2": "4M",
+        "3": 10.0,
+        "4": "Point",
+        "5": NaN
+      },
+      {
+        "0": "LIGHTING WIRES FIRE RETARDANT TYPE",
+        "1": "Primary wiring 12M",
+        "2": "12M",
+        "3": 22.1,
+        "4": "Point",
+        "5": NaN
+      },
+      {
+        "0": NaN,
+        "1": "Secondary wiring 4M",
+        "2": "12M",
+        "3": 22.1,
+        "4": "Point",
+        "5": NaN
+      },
+      {
+        "0": "SOCKET",
+        "1": "6PIN 15/16 & 5/6 AMPS MODULAR SOCKET",
+        "2": NaN,
+        "3": 4.0,
+        "4": "Nos",
+        "5": NaN
+      },
+      {
+        "0": NaN,
+        "1": "15/16 Amp modular switch board",
+        "2": NaN,
+        "3": 5.0,
+        "4": "Nos",
+        "5": NaN
+      },
+      {
+        "0": "LED",
+        "1": "Fixture 2X40W wall/ceiling mount or equivalent light fixture",
+        "2": NaN,
+        "3": 5.0,
+        "4": "No",
+        "5": NaN
+      },
+      {
+        "0": NaN,
+        "1": "FLP Fixture 2X40W wall/ceiling mount or equivalent light fixture",
+        "2": NaN,
+        "3": 1.0,
+        "4": "No",
+        "5": NaN
+      },
+      {
+        "0": NaN,
+        "1": "Fixture 1X20W wall/ceiling mount or equivalent light fixture",
+        "2": NaN,
+        "3": 2.0,
+        "4": "No",
+        "5": NaN
+      },
+      {
+        "0": "Ceiling Fan",
+        "1": "Ceiling fan of 1200mm",
+        "2": "1200mm",
+        "3": 2.0,
+        "4": "No",
+        "5": NaN
+      },
+      {
+        "0": "Exhaust fan",
+        "1": "450mm dia FLP exhaust fan with louvers",
+        "2": "450mm dia",
+        "3": 2.0,
+        "4": "No",
+        "5": NaN
+      },
+      {
+        "0": NaN,
+        "1": "300mm dia FLP exhaust fan with louvers",
+        "2": "300mm dia",
+        "3": 4.0,
+        "4": "No",
+        "5": NaN
+      },
+      {
+        "0": "FITTINGS (CONDUIT)",
+        "1": "25mm dia PVC conduit",
+        "2": "25mm dia",
+        "3": 100.0,
+        "4": "m",
+        "5": NaN
+      },
+      {
+        "0": "DG SET",
+        "1": "15KVA/12KW 3 PHASE MAHINDRA CPCB II compliant Gas Genset, Prime rated, radiator cooled, 15KVA equivalent electric alternator, microprocessor based controller, silencer, anti-vibration mountings, exhaust flexible connector, batteries with cable, acoustic enclosure and pressure converter valve.",
+        "2": NaN,
+        "3": 1.0,
+        "4": "No",
+        "5": NaN
+      },
+      {
+        "0": "OUTDOOR CTS",
+        "1": "FLP 110W LED for mounting on 7m hexagonal light pole suitable for hazardous Zone-2 area",
+        "2": NaN,
+        "3": 22.0,
+        "4": "Nos",
+        "5": NaN
+      },
+      {
+        "0": "OUTDOOR CTS",
+        "1": "7 meter height hexagonal/octagonal street pole with suitable size of JB",
+        "2": NaN,
+        "3": 22.0,
+        "4": "Nos",
+        "5": NaN
+      },
+      {
+        "0": "OUTDOOR CTS",
+        "1": "Wiring 3CX2.5 Sqmm XLPE Insulated Cable",
+        "2": NaN,
+        "3": 220.0,
+        "4": "m",
+        "5": NaN
+      },
+      {
+        "0": "EARTHING MATERIALS",
+        "1": "vitreous enamel caution boards  suitable for 440 V as per IS 255 including fixing on the wall with all the required hardware  etc. complete in English / Hindi/ Local Language.",
+        "2": NaN,
+        "3": 10.0,
+        "4": "Nos",
+        "5": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 3051,
+    "completion_tokens": 4113
+  }
+}

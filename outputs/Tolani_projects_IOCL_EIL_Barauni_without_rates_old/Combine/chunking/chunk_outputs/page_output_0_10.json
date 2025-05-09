@@ -1,0 +1,138 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr); thk. <= 10mm; fabrication (butt weld)",
+      "full_product_description": "carbon steel piping (non ibr); thk. <= 10mm; fabrication (butt weld); nb 2 inch - 6 inch",
+      "core_product_name": "carbon steel piping",
+      "acronymed_core_product_name": "cs piping",
+      "size": "nominal bore: 2 inch - 6 inch, thickness: <= 10mm",
+      "feature_or_specifications": "type: non ibr(non indian boiler regulations), fabrication: butt weld, material: carbon steel",
+      "quantity": "1320.0",
+      "unit": "inch dia"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr); thk. <= 10mm; fabrication (butt weld)",
+      "full_product_description": "carbon steel piping (non ibr); thk. <= 10mm; fabrication (butt weld); nb 8 inch - 14 inch",
+      "core_product_name": "carbon steel piping",
+      "acronymed_core_product_name": "cs piping",
+      "size": "nominal bore: 8 inch - 14 inch, thickness: <= 10mm",
+      "feature_or_specifications": "type: non ibr(non indian boiler regulations), fabrication: butt weld, material: carbon steel",
+      "quantity": "65.0",
+      "unit": "inch dia"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      0,
+      9
+    ],
+    "original_rows": [
+      {
+        "0": 1,
+        "1": 0,
+        "2": "M20000000000",
+        "3": "PIPING-OFFSITES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 2,
+        "1": 0,
+        "2": "M20900000000",
+        "3": "PIPING (ABOVE GROUND) :-Transportation of all piping items from Owner's storage point to work site/work shop;",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 3,
+        "1": 0,
+        "2": "M20901000000",
+        "3": "CARBON STEEL PIPING (NON IBR); THK. <= 10MM",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 4,
+        "1": 0,
+        "2": "M20901010000",
+        "3": "FABRICATION (BUTT WELD)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 5,
+        "1": 0,
+        "2": "M20901019200",
+        "3": "NB 2 INCH - 6 INCH",
+        "4": 1320.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 6,
+        "1": 0,
+        "2": "M20901019300",
+        "3": "NB 8 INCH - 14 INCH",
+        "4": 65.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 7,
+        "1": 0,
+        "2": "M20901040000",
+        "3": "ERECTION (OTHER THAN SPOOL)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 8,
+        "1": 0,
+        "2": "M20901049200",
+        "3": "NB 2 INCH - 6 INCH",
+        "4": 1525.0,
+        "5": "Inch M",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 9,
+        "1": 0,
+        "2": "M20901049300",
+        "3": "NB 8 INCH - 14 INCH",
+        "4": 15.0,
+        "5": "Inch M",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 10,
+        "1": 0,
+        "2": "M20906000000",
+        "3": "CARBON STEEL PIPING (IBR); THK. <= TO 10MM",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2041,
+    "completion_tokens": 721
+  }
+}

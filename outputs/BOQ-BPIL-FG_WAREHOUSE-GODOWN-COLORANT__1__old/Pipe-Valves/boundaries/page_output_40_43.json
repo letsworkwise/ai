@@ -1,0 +1,91 @@
+{
+  "sheet_name": "Pipe-Valves",
+  "boq_context": "| BOQ OF SPRINKLER SYSTEM AT BONDED GODWON, COLOUR & PLANT AREA AND FG WAREHOUSE  AT BERGER PAINTS (I) LTD, RISHRA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n | BERGER PAINTS INDIA         LIMITED,RISHRA |  |  |  |  |  |  |  |  |  |  |  |  | Date: 07.12.18 |  | Rev- 02 |  |",
+  "products": [
+    {
+      "raw_product_description": "Structural for supporting Pipes (Details if Structural Items will be provided later on)",
+      "core_product_name": "structural for supporting pipes",
+      "size": "",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "3700.0",
+      "unit": "KG",
+      "is_only_product_specs_entry": "N"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      40,
+      42
+    ],
+    "original_rows": [
+      {
+        "0": "W",
+        "1": "MS STRUCTURAL",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN,
+        "10": NaN,
+        "11": NaN,
+        "12": NaN,
+        "13": NaN,
+        "14": NaN,
+        "15": NaN,
+        "16": NaN,
+        "17": NaN,
+        "18": NaN
+      },
+      {
+        "0": "1",
+        "1": "Structural for supporting Pipes (Details if Structural Items will be provided later on)",
+        "2": "KG",
+        "3": 400.0,
+        "4": 400.0,
+        "5": 400.0,
+        "6": 400.0,
+        "7": 1800.0,
+        "8": 600.0,
+        "9": 4000.0,
+        "10": 48.71,
+        "11": 20.67,
+        "12": 0.3,
+        "13": 0.3,
+        "14": 3700.0,
+        "15": "3700",
+        "16": NaN,
+        "17": NaN,
+        "18": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN,
+        "10": NaN,
+        "11": NaN,
+        "12": NaN,
+        "13": NaN,
+        "14": NaN,
+        "15": NaN,
+        "16": 0.0,
+        "17": NaN,
+        "18": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 1505,
+    "completion_tokens": 175
+  }
+}

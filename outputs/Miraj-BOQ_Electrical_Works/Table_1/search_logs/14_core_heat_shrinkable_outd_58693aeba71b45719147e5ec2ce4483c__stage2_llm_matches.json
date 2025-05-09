@@ -1,0 +1,58 @@
+{
+  "query": "core_product_name: heat shrinkable outdoor straight through termination | size: cable: 3C x 185 sqmm | feature_or_specifications: voltage: 6.6 kV (unarmoured extruded), conductor material: aluminium",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": [
+          "6444",
+          "5614",
+          "11000",
+          "12263",
+          "12344",
+          "15781",
+          "23866",
+          "24503"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: fabricated component | material: Aluminium",
+        "raw_product_name": "ALUMINIUM FABRICATED COMPONENT",
+        "list_of_product_ids": [
+          "23962",
+          "23964",
+          "23963",
+          "28691"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": [
+          "32910",
+          "32911",
+          "33009",
+          "33041",
+          "33195",
+          "33260",
+          "33562",
+          "33633",
+          "35922"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: industrial socket | feature_or_specifications: current rating: 5a, voltage: 24v (twenty four volts), type: industrial",
+  "retrieval_results": [
+    {
+      "id": "variant-63f28b5e-8d64-503f-938b-d41f4b31f2fd",
+      "score": 0.8545144,
+      "metadata": {
+        "text": "core_product_name: industrial receptacle",
+        "raw_product_name": "INDUSTRIAL RECEPTACLE",
+        "list_of_product_ids": "136,891,479,414,813",
+        "core_id": 1235.0
+      }
+    },
+    {
+      "id": "variant-0f2d4467-c754-542f-968d-543894345ba2",
+      "score": 0.8514821,
+      "metadata": {
+        "text": "core_product_name: socket",
+        "raw_product_name": "SOCKET",
+        "list_of_product_ids": "7559,7233,10501,22289,26077,26073,26072,36553,37010,37292,35869,35891,35944",
+        "core_id": 2048.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.84443253,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-1e8d51c0-00b6-5a2d-b9bf-ce4688cb5af2",
+      "score": 0.8436483,
+      "metadata": {
+        "text": "core_product_name: electrical contact",
+        "raw_product_name": "ELECTRICAL CONTACTS",
+        "list_of_product_ids": "211,562,115,228,503",
+        "core_id": 705.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.84278834,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-6f2bfa9b-ce42-5ef5-b318-d6059759baaa",
+      "score": 0.8426309,
+      "metadata": {
+        "text": "core_product_name: induction motor | type_or_class: MV (Medium Voltage) | type_or_class: Industrial Type | operating_conditions: Safe Area",
+        "raw_product_name": "MOTOR INDUCTION-MV (INDL.TYPE SAFE AREA)",
+        "list_of_product_ids": "6403,5574,9346,9368,8373,9375,9416,9169,9171,9360,15503,15502,19441,23471,24524,24522,24521",
+        "core_id": 1506.0
+      }
+    },
+    {
+      "id": "variant-41a6c6d9-ef4d-520f-b9f3-af2822f8dcef",
+      "score": 0.84177333,
+      "metadata": {
+        "text": "core_product_name: power supply",
+        "raw_product_name": "BUIL POWER SUPPLY",
+        "list_of_product_ids": "5,937,676,612,114",
+        "core_id": 250.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.84146196,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.8403754,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-5a73e69c-15f9-5a05-bb58-ca64903b361a",
+      "score": 0.8403528,
+      "metadata": {
+        "text": "core_product_name: panel mounted power supply | size_or_capacity: 24 V DC (volts direct current)",
+        "raw_product_name": "PANEL MOUNTED 24 V DC POWER SUPPLY",
+        "list_of_product_ids": "215,712,156,927,440",
+        "core_id": 1635.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.840255,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-a0c0bcb6-a4e3-59a2-a30a-467701880557",
+      "score": 0.8401573,
+      "metadata": {
+        "text": "core_product_name: flameproof socket | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF SOCKET",
+        "list_of_product_ids": "20118,20440,20416,20650,22853",
+        "core_id": 900.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.8395353,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    },
+    {
+      "id": "variant-44cae734-10c9-55b1-bd97-4576634cbce2",
+      "score": 0.83935344,
+      "metadata": {
+        "text": "core_product_name: pipe cap | construction_features: Socket Weld",
+        "raw_product_name": "FITTINGS PIPE CAP (SOCKET WELD)",
+        "list_of_product_ids": "9906,9907,9909,9910,9911,9920,9921",
+        "core_id": 875.0
+      }
+    },
+    {
+      "id": "variant-edfd3fcc-3df6-5780-b712-23bd47d59a9e",
+      "score": 0.8392045,
+      "metadata": {
+        "text": "core_product_name: commercial valve",
+        "raw_product_name": "COMMERCIAL VALVES",
+        "list_of_product_ids": "22262,22258,22260,22275,22273,27959",
+        "core_id": 402.0
+      }
+    },
+    {
+      "id": "variant-15ca187e-cd07-5d26-97a3-bc3253a37314",
+      "score": 0.838788,
+      "metadata": {
+        "text": "core_product_name: commercial wire",
+        "raw_product_name": "COMMERCIAL WIRE",
+        "list_of_product_ids": "20790,20807,21174,21177,28616,20809",
+        "core_id": 403.0
+      }
+    },
+    {
+      "id": "variant-7b84b9d7-6c76-5b4d-9aaf-d57ecafe4b91",
+      "score": 0.83872896,
+      "metadata": {
+        "text": "core_product_name: electrical-instrumentation work",
+        "raw_product_name": "ELECTRICAL-INSTRUMENTATION WORKS",
+        "list_of_product_ids": "36860,36857,36888,36892",
+        "core_id": 711.0
+      }
+    },
+    {
+      "id": "variant-cd38efd2-bbe4-53b6-8f79-c763ccc36872",
+      "score": 0.8386858,
+      "metadata": {
+        "text": "core_product_name: valve plug",
+        "raw_product_name": "VALVE PLUG",
+        "list_of_product_ids": "6258,5427,11546,11540,7825,11543,7831,11250,7867,7849,7857,7836,7838,8391,12657,15484,18068,19713,31743,36588,35579,36139,39755,40004,40146",
+        "core_id": 2365.0
+      }
+    },
+    {
+      "id": "variant-8c5e4502-0493-593e-acfd-58507fe51c8e",
+      "score": 0.83836114,
+      "metadata": {
+        "text": "core_product_name: current transformer",
+        "raw_product_name": "CURRENT TRANSFORMER",
+        "list_of_product_ids": "7305,7334,11167,10219,7932,7933,8246,8247,8248,8249,8250,8251,8252,9277,15648,15655,18281,18298,18870,18917,24209,35380",
+        "core_id": 533.0
+      }
+    },
+    {
+      "id": "variant-fd13ccfd-2158-5657-967f-7707e9b442e3",
+      "score": 0.8377121,
+      "metadata": {
+        "text": "core_product_name: commercial cable",
+        "raw_product_name": "COMMERCIAL CABLE",
+        "list_of_product_ids": "20779,20808,20806,21176,21175,27361",
+        "core_id": 400.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.83666265,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.836336,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-eac04853-0cd4-54f1-a18f-72d0534f33b6",
+      "score": 0.8362858,
+      "metadata": {
+        "text": "core_product_name: electrical converter",
+        "raw_product_name": "ELECTRICAL CONVERTER",
+        "list_of_product_ids": "20850,20849,27075,20848",
+        "core_id": 706.0
+      }
+    },
+    {
+      "id": "variant-8352d7ce-497c-5dfa-ac61-3bd167120a94",
+      "score": 0.836081,
+      "metadata": {
+        "text": "core_product_name: electrical actuator",
+        "raw_product_name": "ELECTRICAL ACTUATORS",
+        "list_of_product_ids": "13854,19083,20219,22224,22220,40240",
+        "core_id": 702.0
+      }
+    },
+    {
+      "id": "variant-35bdbbe9-b7f3-5e25-bd6d-8692b3ca9a57",
+      "score": 0.8354221,
+      "metadata": {
+        "text": "core_product_name: reducing socket",
+        "raw_product_name": "REDUCING SOCKET",
+        "list_of_product_ids": "1,547,915,481",
+        "core_id": 1881.0
+      }
+    },
+    {
+      "id": "variant-de47ff96-bd93-5d30-b6a8-28e7215a5255",
+      "score": 0.8353453,
+      "metadata": {
+        "text": "core_product_name: interface device",
+        "raw_product_name": "INTERFACE DEVICES",
+        "list_of_product_ids": "6630,5800,11596,11597,10310,11701,11702,11703,12288,8405,13108,13117,21089,21081,21077,21070",
+        "core_id": 1280.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.83532417,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-656a3a9a-c5a4-5f97-a8e6-8f208083dcbb",
+      "score": 0.8350397,
+      "metadata": {
+        "text": "core_product_name: welding receptacle",
+        "raw_product_name": "WELDING RECEPTACLES",
+        "list_of_product_ids": "19666,19656,19638,27341",
+        "core_id": 2460.0
+      }
+    },
+    {
+      "id": "variant-98d3bef5-d87d-5e4f-aa13-e1b9fc689048",
+      "score": 0.8349714,
+      "metadata": {
+        "text": "core_product_name: hex plug",
+        "raw_product_name": "HEX PLUG",
+        "list_of_product_ids": "15471",
+        "core_id": 1123.0
+      }
+    },
+    {
+      "id": "variant-0098e9cc-7a73-5876-ae5e-37d7c454407b",
+      "score": 0.8349634,
+      "metadata": {
+        "text": "core_product_name: power transformer | size_or_capacity: above 5 MVA (Mega Volt Ampere)",
+        "raw_product_name": "TRANSFORMERS-POWER-ABOVE 5MVA",
+        "list_of_product_ids": "6408,5579,11387,7909,7924,9419,24543,24545,24544,24542,24541,35401",
+        "core_id": 1747.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Tube Plug; Material:   SS-316   ; Size :   6mm OD   153 Bar",
+      "core_product_name": "tube plug",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: 6mm OD",
+      "feature_or_specifications": "material: ss 316 (stainless steel 316), pressure: 153 Bar",
+      "quantity": "80.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of Miniaturized Globe Pattern Needle Valve 1/2\" NB forged bar-stock type with inside screwed bonnet,back Body MOC   SS316",
+      "core_product_name": "needle valve",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 1/2\" NB",
+      "feature_or_specifications": "pattern: globe, type: miniaturized, construction: forged bar-stock, bonnet: inside screwed, body material: ss316 (stainless steel 316)",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of compression tube fittings  in Brass of various types and specifications Female Connector   : Material: Brass : Size:   1/2\"   NPTF X   1/4\" OD   , 80 bar",
+      "core_product_name": "compression tube fitting",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1/2\" NPTF, outer diameter: 1/4\" OD",
+      "feature_or_specifications": "material: brass, pressure: 80 bar, type: female connector",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of compression tube fittings  in Brass of various types and specifications Tube Union ; Material: Brass ; Size:   1/4\" OD x 1/4\" OD   , 80 bar",
+      "core_product_name": "compression tube fitting",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: 1/4\" OD x 1/4\" OD",
+      "feature_or_specifications": "material: brass, pressure: 80 bar, type: tube union",
+      "quantity": "1.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      340,
+      349
+    ],
+    "original_rows": [
+      {
+        "0": 341,
+        "1": 0,
+        "2": "01II.550.50.MC15",
+        "3": "Tube Plug; Material:   SS-316   ; Size :   6mm OD   153 Bar",
+        "4": 80.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 342,
+        "1": 0,
+        "2": "01II.550.54",
+        "3": "Supply of Miniaturized Globe Pattern Needle Valve 1/2\" NB forged bar-stock type with inside screwed bonnet,back",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 343,
+        "1": 0,
+        "2": "01II.550.54.1V1",
+        "3": "Body MOC   SS316",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 344,
+        "1": 0,
+        "2": "01II.550.60",
+        "3": "Supply of compression tube fittings  in Brass of various types and specifications",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 345,
+        "1": 0,
+        "2": "01II.550.60.1V2",
+        "3": "Female Connector   : Material: Brass : Size:   1/2\"   NPTF X   1/4\" OD   , 80 bar",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 346,
+        "1": 0,
+        "2": "01II.550.60.3V2",
+        "3": "Tube Union ; Material: Brass ; Size:   1/4\" OD x 1/4\" OD   , 80 bar",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 347,
+        "1": 0,
+        "2": "01II.550.70",
+        "3": "Supply of instrument tubes of different types and specifications",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 348,
+        "1": 0,
+        "2": "01II.550.70.2V2",
+        "3": "SS316L tube   1/2\" OD   153 Bar",
+        "4": 50.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 349,
+        "1": 0,
+        "2": "01II.550.70.2V3",
+        "3": "SS316L tube   1/4\" OD   153 Bar",
+        "4": 50.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 350,
+        "1": 0,
+        "2": "01II.550.70.2V5",
+        "3": "SS316L tube   12 mm OD   153 Bar",
+        "4": 20.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2297,
+    "completion_tokens": 1025
+  }
+}

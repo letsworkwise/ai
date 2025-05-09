@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: vcb panel | acronymed_core_product_name: vcb panel | size: voltage: 11 kv, current: 630 a | feature_or_specifications: type: indoor, feature: metering and protection system, feature: numerical relay, feature: auxiliary relay, feature: cts (current transformers), feature: pts (potential transformers), feature: indication lamp, feature: switches, feature: weather proof double compression ni (nickel) plated brass cable gland, feature: crimping type cable lugs for all incoming and outgoing cables, feature: as per specification",
+  "retrieval_results": [
+    {
+      "id": "variant-713fd69d-ab73-5753-944b-8d88aa60d791",
+      "score": 0.86028135,
+      "metadata": {
+        "text": "core_product_name: inside panel | acronymed_core_product_name: mcb (miniature circuit breaker) panel | type_or_class: Flush type only",
+        "raw_product_name": "MCB Inside Panels (Flush type only)",
+        "list_of_product_ids": "1,371,214,885",
+        "core_id": 1448.0
+      }
+    },
+    {
+      "id": "variant-04557174-00a9-5154-8b28-71d131bdaca2",
+      "score": 0.8599284,
+      "metadata": {
+        "text": "core_product_name: lighting and power distribution panel",
+        "raw_product_name": "Lighting & Power Distribution Panel",
+        "list_of_product_ids": "18723,18718,18735,18734,18733,19012,18997,18728,19000,38293,35861,38156",
+        "core_id": 1413.0
+      }
+    },
+    {
+      "id": "variant-962ad0ea-28f6-596d-a6c5-1bece3273e01",
+      "score": 0.85822874,
+      "metadata": {
+        "text": "core_product_name: outdoor instrument transformer | acronymed_core_product_name: ct/pt/cvt (current transformer/potential transformer/capacitive voltage transformer) | size_or_capacity: 132 kV or 220 kV",
+        "raw_product_name": "132kV/ 220 kV outdoor CT/PT/CVT",
+        "list_of_product_ids": "7060,7387,18217,18376",
+        "core_id": 7.0
+      }
+    },
+    {
+      "id": "variant-c03e0ba5-aa70-53fc-9eb3-267f46d459cb",
+      "score": 0.85574204,
+      "metadata": {
+        "text": "core_product_name: cathodic protection power supply module",
+        "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+        "list_of_product_ids": "6413,5583,8417,12209",
+        "core_id": 315.0
+      }
+    },
+    {
+      "id": "variant-8c60a1ce-e935-5daf-b164-6e8411da4e0c",
+      "score": 0.85536546,
+      "metadata": {
+        "text": "core_product_name: miniature circuit breaker | acronymed_core_product_name: mcb",
+        "raw_product_name": "MCB",
+        "list_of_product_ids": "6462,5633,10157,10663,9350,9447,9151,9187,9219,9361,11905,11944,17873,19028,19645,19652,20775,21203,19140,38290,36563",
+        "core_id": 1446.0
+      }
+    },
+    {
+      "id": "variant-1a0de3d0-ed79-5450-aa41-d8815f16ff26",
+      "score": 0.8551495,
+      "metadata": {
+        "text": "core_product_name: outdoor potential transformer | acronymed_core_product_name: pt | size_or_capacity: 33kV",
+        "raw_product_name": "33kV outdoor CT/ PT",
+        "list_of_product_ids": "7061,7388,18218,18377,19058",
+        "core_id": 17.0
+      }
+    },
+    {
+      "id": "variant-4ee544d6-0f39-5064-8d24-8c48472ff71a",
+      "score": 0.85434407,
+      "metadata": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": "5954,6782,12132,14671,14679,18191,20174,36159",
+        "core_id": 2156.0
+      }
+    },
+    {
+      "id": "variant-c80435d7-bc34-5ada-8172-074e43b102c0",
+      "score": 0.8542638,
+      "metadata": {
+        "text": "core_product_name: relay and control panel | type_or_class: bay extension | size_or_capacity: 220kV",
+        "raw_product_name": "BAY EXTENSION RELAY & CONTROL PANEL (220kV)",
+        "list_of_product_ids": "38202,38209,38186,38413",
+        "core_id": 187.0
+      }
+    },
+    {
+      "id": "variant-95725655-b9d5-5abd-b826-0ad218cf768a",
+      "score": 0.8540922,
+      "metadata": {
+        "text": "core_product_name: instrument panel",
+        "raw_product_name": "INSTRUMENT PANEL",
+        "list_of_product_ids": "13720,14806,14814,14824,21097,22773,36101",
+        "core_id": 1256.0
+      }
+    },
+    {
+      "id": "variant-52d36234-297c-5741-98b5-5eeff3e62a7b",
+      "score": 0.8535183,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 1100 Volts",
+        "raw_product_name": "1100 VOLTS GRADE CABLES",
+        "list_of_product_ids": "24084,21508,23935,27355",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-272261cc-0ac7-5e62-bdc4-b8b3ba555a0a",
+      "score": 0.8534711,
+      "metadata": {
+        "text": "core_product_name: power cable",
+        "raw_product_name": "POWER CABLE",
+        "list_of_product_ids": "13440,14645,15813,29442,29447,29448,24045,23896,36583,36611,38139",
+        "core_id": 3.0
+      }
+    },
+    {
+      "id": "variant-95f74893-d69d-504d-9c31-33cbdcb88ed4",
+      "score": 0.8531643,
+      "metadata": {
+        "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+        "raw_product_name": "DCDB",
+        "list_of_product_ids": "15387,13587,14607,14780,19662,21388,36160",
+        "core_id": 559.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.8529776,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.85271597,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-3eeb4429-0c98-5866-91ea-e859fefb8e31",
+      "score": 0.85266507,
+      "metadata": {
+        "text": "core_product_name: rectifier panel",
+        "raw_product_name": "RECTIFIER PANEL",
+        "list_of_product_ids": "171,741,717,527,078",
+        "core_id": 1877.0
+      }
+    },
+    {
+      "id": "variant-54e2a68b-7c0a-5066-ad69-e2a90b19ce9d",
+      "score": 0.8523,
+      "metadata": {
+        "text": "core_product_name: indoor switchboard | acronymed_core_product_name: switchboard-hv | type_or_class: High Voltage (HV) | accessories_or_attachments: Vacuum Circuit Breaker (VCB) | operating_conditions: Indoor",
+        "raw_product_name": "SWITCHBOARD-HV (INDOOR) WITH VCB BREAKR",
+        "list_of_product_ids": "6387,5558,9304,7950,9334,9216,9336,9367,24419,24415",
+        "core_id": 2174.0
+      }
+    },
+    {
+      "id": "variant-9f376ba2-bfd9-569d-9df5-c33008feb16d",
+      "score": 0.8521762,
+      "metadata": {
+        "text": "core_product_name: relay and control panel",
+        "raw_product_name": "RELAY & CONTROL PANEL",
+        "list_of_product_ids": "6389,5560,11172,11457,7888,19357,24445,24450,24448,24827,24815,24451,19363,24930,24941,38203,38204",
+        "core_id": 187.0
+      }
+    },
+    {
+      "id": "variant-3ed2b8d0-9200-57ee-93d7-347d83b99d24",
+      "score": 0.8520905,
+      "metadata": {
+        "text": "core_product_name: conventional relay and control panel",
+        "raw_product_name": "CONVENTIONAL RELAY & CONTROL PANEL",
+        "list_of_product_ids": "38185,38198,38206,38387",
+        "core_id": 470.0
+      }
+    },
+    {
+      "id": "variant-e7c3a8c8-2d49-5297-bb93-4f2e288fa355",
+      "score": 0.8518619,
+      "metadata": {
+        "text": "core_product_name: panel tube light",
+        "raw_product_name": "PANEL TUBE LIGHT",
+        "list_of_product_ids": "19668,19677,19680,19684,24243",
+        "core_id": 1636.0
+      }
+    },
+    {
+      "id": "variant-1e46909f-5be3-54cb-af61-1774897dadd6",
+      "score": 0.8512813,
+      "metadata": {
+        "text": "core_product_name: cathodic protection system | acronymed_core_product_name: cp system",
+        "raw_product_name": "CP SYSTEM",
+        "list_of_product_ids": "15360,15379,15381,15383,18186,19518,40163,40168,40190,40238,40233",
+        "core_id": 503.0
+      }
+    },
+    {
+      "id": "variant-11fd4851-b53d-5354-8701-6060ebf8322c",
+      "score": 0.85116667,
+      "metadata": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: pcc (power control center) switchgear panel | size_or_capacity: 415V | type_or_class: PCC (Power Control Center)",
+        "raw_product_name": "415V SWITCHGEAR PANEL (PCC)",
+        "list_of_product_ids": "176,911,769,018,664",
+        "core_id": 18.0
+      }
+    },
+    {
+      "id": "variant-a88868c3-e02b-556c-afb5-f9319567fc58",
+      "score": 0.85113204,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLES",
+        "list_of_product_ids": "15455,13721,24275,15161,16241,19098,23820,23814,21319,19315,23819,23822,24273,23829,20141,23831,24058,23836,23909,23839,23828,24685,24726,24844,24955,31590,31591,26436,26438,31740,33330",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-7f090a1a-b828-5a18-86a5-0ef23d51283a",
+      "score": 0.85077685,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLE STOCKIST/TRADERS",
+        "list_of_product_ids": "2,467,924,680",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-c0539407-0eae-5cc3-8c76-86b8fe7e4768",
+      "score": 0.850735,
+      "metadata": {
+        "text": "core_product_name: protection relay",
+        "raw_product_name": "PROTECTION RELAYS",
+        "list_of_product_ids": "6468,5639,11165,7903,8234,8240,9275,8235,9443,12123,26086,26085",
+        "core_id": 1797.0
+      }
+    },
+    {
+      "id": "variant-22762ca9-5469-5cca-8edd-34308bec8f03",
+      "score": 0.85033095,
+      "metadata": {
+        "text": "core_product_name: navigation light panel",
+        "raw_product_name": "NAVIGATION LIGHT PANEL",
+        "list_of_product_ids": "207,632,076,424,908",
+        "core_id": 1534.0
+      }
+    },
+    {
+      "id": "variant-9d54fd87-21ea-5c1a-ae13-333a826234cd",
+      "score": 0.85008585,
+      "metadata": {
+        "text": "core_product_name: system panel",
+        "raw_product_name": "SYSTEM PANELS",
+        "list_of_product_ids": "1,413,621,099",
+        "core_id": 2180.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.8500527,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-dccb1b8c-ce03-5353-8d7f-1894add2f041",
+      "score": 0.8499378,
+      "metadata": {
+        "text": "core_product_name: equipment insulation",
+        "raw_product_name": "EQUIPMENT INSULATION WORKS",
+        "list_of_product_ids": "358,293,583,235,880",
+        "core_id": 761.0
+      }
+    },
+    {
+      "id": "variant-8fe75b2b-6667-5672-92af-b5e2b55f30aa",
+      "score": 0.84989053,
+      "metadata": {
+        "text": "core_product_name: cathodic protection system",
+        "raw_product_name": "Cathodic Protection System",
+        "list_of_product_ids": "18681,19166,21519,18680,36550",
+        "core_id": 503.0
+      }
+    },
+    {
+      "id": "variant-66428c5d-a639-522d-aaa2-7f9a9c972ac1",
+      "score": 0.849693,
+      "metadata": {
+        "text": "core_product_name: system package | acronymed_core_product_name: m v (medium voltage) system package",
+        "raw_product_name": "M V SYSTEM PACKAGE",
+        "list_of_product_ids": "6392,5563,11219,24475,24474,24473,24472",
+        "core_id": 1089.0
+      }
+    }
+  ]
+}

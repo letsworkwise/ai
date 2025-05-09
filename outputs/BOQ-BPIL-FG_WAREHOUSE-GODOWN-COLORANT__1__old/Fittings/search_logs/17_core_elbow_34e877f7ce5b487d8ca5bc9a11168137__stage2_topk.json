@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: elbow | feature_or_specifications: type: grooved, angle: 90 degrees",
+  "retrieval_results": [
+    {
+      "id": "variant-2e84cef9-327a-515b-8b9e-5d2b777c59cb",
+      "score": 0.87355804,
+      "metadata": {
+        "text": "core_product_name: elbowlet",
+        "raw_product_name": "ELBOWLET",
+        "list_of_product_ids": "14395,14719,14722,14725,19815,22922",
+        "core_id": 681.0
+      }
+    },
+    {
+      "id": "variant-debcf96a-5534-5d1a-a9c3-19d56dae7053",
+      "score": 0.87299263,
+      "metadata": {
+        "text": "core_product_name: elbow fitting",
+        "raw_product_name": "FITTINGS –ELBOW",
+        "list_of_product_ids": "14264,14692,14667,14709,14902,14914,15995,16042,18891,18937,19402,19723,19798,19792,20060,20167,20935,21918,22659,22655,22914,36880,36883,27766,27756,27746,27736,27726,27775,37065,36443",
+        "core_id": 880.0
+      }
+    },
+    {
+      "id": "variant-21302b14-ae7b-560d-b67c-e795da2ec93b",
+      "score": 0.8563246,
+      "metadata": {
+        "text": "core_product_name: special control valve | type_or_class: Angle",
+        "raw_product_name": "SPECIAL CONTROL VALVES (ANGLE)",
+        "list_of_product_ids": "13991,15407,15408,20249,23768,22455,22422,22477",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-ee996d4f-d22a-5a9e-8af4-7f7c452f3c67",
+      "score": 0.8482709,
+      "metadata": {
+        "text": "core_product_name: blowdown valve | type_or_class: Straight or Angle Pattern",
+        "raw_product_name": "VALVE- BLOWDOWN (Straight/Angle Pattern)",
+        "list_of_product_ids": "6228,5397,11539,11545,11542,11473,8337,17642,18315,22717",
+        "core_id": 2376.0
+      }
+    },
+    {
+      "id": "variant-f9d0f089-635a-5d99-871b-36ab7568eaca",
+      "score": 0.84732395,
+      "metadata": {
+        "text": "core_product_name: cross fitting | special_attributes: Seamless (pipes)",
+        "raw_product_name": "FIITINGS CROSS-FROM SEAMLESS PIPES",
+        "list_of_product_ids": "6319,5490,11288,33988,33987,33986",
+        "core_id": 822.0
+      }
+    },
+    {
+      "id": "variant-223a653f-ce26-546e-9630-21d058f384c7",
+      "score": 0.84693277,
+      "metadata": {
+        "text": "core_product_name: grating",
+        "raw_product_name": "GRATINGS",
+        "list_of_product_ids": "218,522,185,428,606",
+        "core_id": 1068.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.84686077,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-40f5e806-4a91-59d6-8fea-bf521847066a",
+      "score": 0.84540844,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: Forged",
+        "raw_product_name": "VALVE CHECK FORGED",
+        "list_of_product_ids": "6231,5400,11625,11641,11223,11242,11255,9246,11448,9262,8280,8383,8555,8649,8626,9412,9451,9253,9166,9343,12098,12493,12572,12656,13266,13360,19382,19390,17623,17908,18030,19711,19860,31813,36763,32701",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-3efeda5d-6e70-51e8-8f2e-ad8a9436822e",
+      "score": 0.84519464,
+      "metadata": {
+        "text": "core_product_name: bend",
+        "raw_product_name": "BENDS",
+        "list_of_product_ids": "219,382,194,421,936",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-9b25b784-a1a1-5ce1-9130-4075d704d02b",
+      "score": 0.84513587,
+      "metadata": {
+        "text": "core_product_name: globe valve | construction_features: forged",
+        "raw_product_name": "VALVE GLOBE FORGED",
+        "list_of_product_ids": "6222,5391,11621,11639,11241,11254,11278,8279,8380,8554,8644,8621,9386,9428,9410,9452,9251,9165,9247,9341,11976,12097,12492,12571,13261,13361,19389,17622,17817,17907,18303,18031,19861,31811,19381,32700,36762,35556",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-e09a3da9-bbec-52f8-a58d-27aee41ed6e4",
+      "score": 0.84454256,
+      "metadata": {
+        "text": "core_product_name: angle",
+        "raw_product_name": "ANGLE",
+        "list_of_product_ids": "32889,13503,13510,13488,13517,13523,13529,13536,13543,13557,13550,29403,29426,29861,17721,17737,29465,31905,26245,29479,29529,29546,23325,29893,30343,31342,30354,31095,31548,31130,31693,24881,24869,24890,24887,24885,24883,24879,31571,24913,24924,24902,30788,31374,24995,25011,25017,25048,25044,25030,29601,25054,30907,25089,25080,25069,25107,25115,31143,25128,25137,25162,25167,25194,25190,25174,25212,25263,25235,25252,25270,25281,25293,25307,29567,25320,25337,25329,25348,25373,25396,25384,25416,30377,30532,31385,25490,29635,30029,30942,31171,25868,31829,25941,30404,30554,31868,31411,25982,30066,30570,26120,26161,29676,31602,26179,26280,26312,31839,26330,26355,30084,30963,26384,26400,26442,26490,26472,26546,26528,26578,26604,30599,31440,26627,26650,26708,30432,30110,30617,26731,26815,26836,29692,30990,26919,26954,31624,26982,27013,30455,30132,27151,27192,27215,31203,27239,29719,30653,27267,27296,30154,27319,31015,31458,27387,27413,27620,27451,27563,30165,27591,29748,31221,31732,30194,30668,27662,27692,27840,27887,27859,27942,27972,31046,31255,28006,29777,31642,28042,28096,28132,28159,30221,28330,28307,30485,28364,28395,30240,28439,28476,28526,31476,28561,28641,28679,28706,29805,31270,30263,28732,29826,28869,28851,28893,30704,28933,28950,28981,31289,31510,29010,29029,29063,29078,30301,30719,31520,29128,31313,31677,29139,29169,29189,29223,29243,29317,31069,29329,29357,29381,30310,31939,31949,31972,32022,31994,32050,32088,32112,32143,32171,32211,32254,32307,32333,32371,32409,32453,32431,32536,32593,32615,32642,32667,32740,32779,32822,32860,32921,32971,33050,33076,33102,33154,33136,33219,33293,33311,33356,33397,33466,33517,33578,33650,33698,33720,33746,33770,33791,33825,33875,33851,33922,33968,34044,34072,34094,34121,34153,34177,34199,34221,34259,34288,34361,34390,34451,34473,34508,34530,34553,34429,34610,34659,34712,34735,34763,34810,34782,34865,34829,34889,34933,35029,35064,35086,35108,35130,35173",
+        "core_id": 113.0
+      }
+    },
+    {
+      "id": "variant-f7705ea5-a5fc-5fa7-bf9e-6e55c17f8fe2",
+      "score": 0.8442515,
+      "metadata": {
+        "text": "core_product_name: generator shaft | special_attributes: forging",
+        "raw_product_name": "GENERATOR SHAFT FORGING",
+        "list_of_product_ids": "137,311,500,315,000",
+        "core_id": 1051.0
+      }
+    },
+    {
+      "id": "variant-5935ee01-a444-52d8-9615-fa4b0239701e",
+      "score": 0.84403086,
+      "metadata": {
+        "text": "core_product_name: geared motor",
+        "raw_product_name": "Geared Motor",
+        "list_of_product_ids": "7,543,721,735,410",
+        "core_id": 1084.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.8421277,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-ea615f6d-ddd7-5bf3-89fb-13bae00fb9b0",
+      "score": 0.84186023,
+      "metadata": {
+        "text": "core_product_name: seamless tube | special_attributes: Seamless",
+        "raw_product_name": "SEAMLESS TUBES",
+        "list_of_product_ids": "13885,14712,14878,21559,27372,36957,36666,37273",
+        "core_id": 1987.0
+      }
+    },
+    {
+      "id": "variant-04f0e0c0-81f9-571a-b333-5c79b34da30d",
+      "score": 0.84185016,
+      "metadata": {
+        "text": "core_product_name: tube | special_attributes: Seamless | material: AS (Alloyed Steel)",
+        "raw_product_name": "PIPE/TUBE- A S (SEAMLESS)",
+        "list_of_product_ids": "6286,5457,10575,10616,10216,10828,6826,6821,7673,7676,7677,7678,7679,7680,7675,7681,7682,12133,12262,12677,17587,24026,24457,30022,29113,37050,39997",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-f23555b4-6776-5418-b12f-82367d57d9b5",
+      "score": 0.8417506,
+      "metadata": {
+        "text": "core_product_name: fitting | type_or_class: ERMETO",
+        "raw_product_name": "ERMETO FITTINGS",
+        "list_of_product_ids": "254,072,567,926,699",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-6e92e15e-ed90-5419-8cf0-5d23abc7cdf7",
+      "score": 0.8410338,
+      "metadata": {
+        "text": "core_product_name: angle control valve",
+        "raw_product_name": "CONTROL VALVES ANGLE",
+        "list_of_product_ids": "14082,22600,23780,23782,36579",
+        "core_id": 469.0
+      }
+    },
+    {
+      "id": "variant-6caf8017-d55b-5441-bf5f-7eaed4cb420b",
+      "score": 0.84021384,
+      "metadata": {
+        "text": "core_product_name: grout",
+        "raw_product_name": "GROUT",
+        "list_of_product_ids": "13748,16708,16707,19125,22869,33348,38480,35419,35432",
+        "core_id": 1078.0
+      }
+    },
+    {
+      "id": "variant-7c314059-97ee-5ff0-ac8c-de6c6ff341f1",
+      "score": 0.840001,
+      "metadata": {
+        "text": "core_product_name: electro-forged grating | construction_features: electro-forged | material: galvanised",
+        "raw_product_name": "ELECTRO-FORGED GALVANISED GRATINGS",
+        "list_of_product_ids": "6383,5554,9766,12486,15791,17489,17479,17486,24230,19930,17493,24247,19899,24233,19987,20019,24239,24346,21838,35257",
+        "core_id": 719.0
+      }
+    },
+    {
+      "id": "variant-0f4440ea-bde2-5092-9bec-3a611b7ce624",
+      "score": 0.839781,
+      "metadata": {
+        "text": "core_product_name: weldolet",
+        "raw_product_name": "WELDOLETS",
+        "list_of_product_ids": "14393,14717,14720,14723,19813,22920,37261",
+        "core_id": 2465.0
+      }
+    },
+    {
+      "id": "variant-1b7571e9-3f95-5cec-879a-0f96d023f242",
+      "score": 0.8397644,
+      "metadata": {
+        "text": "core_product_name: large bellow | material: Elastomer",
+        "raw_product_name": "ELASTOMER LARGE BELLOW",
+        "list_of_product_ids": "1,382,321,736",
+        "core_id": 680.0
+      }
+    },
+    {
+      "id": "variant-280d31e8-6443-54a8-bf95-8dd090df1c4f",
+      "score": 0.8396605,
+      "metadata": {
+        "text": "core_product_name: fitting | material: Carbon Steel | special_attributes: Seamless",
+        "raw_product_name": "FITTINGS FROM SEAMLESS PIPE-CARBON STEEL",
+        "list_of_product_ids": "5485,6314,11571,11578,11589,11145,7815,9302,9321,9330,8079,8085,9333,9401,9403,9421,9425,9400,9445,9458,9460,9234,9315,9325,9326,12101,12257,12250,12264,12391,12773,12737,12750,12764,12806,13214,13351,13353,13356,13358,13369,17008,17664,19788,37029,36573,33432,34685,36853",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-98279854-84dd-59c7-9a77-4d59d712ced7",
+      "score": 0.8395773,
+      "metadata": {
+        "text": "core_product_name: bend | special_attributes: 5D (5 times diameter) radius",
+        "raw_product_name": "5D BENDS",
+        "list_of_product_ids": "14162,18289,20009,20007,19998,21405,23291,37862,37395,40120,40094",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-123f81c9-bb37-5180-9d3f-25fcda640179",
+      "score": 0.83910465,
+      "metadata": {
+        "text": "core_product_name: gear",
+        "raw_product_name": "GEARS",
+        "list_of_product_ids": "23954,23955,24993,25023",
+        "core_id": 1045.0
+      }
+    },
+    {
+      "id": "variant-c272cfc6-cf4b-5ec8-ab5f-7397cd5600cc",
+      "score": 0.8388591,
+      "metadata": {
+        "text": "core_product_name: horizontal brace",
+        "raw_product_name": "HORIZONTAL BRACE",
+        "list_of_product_ids": "199,091,991,428,350",
+        "core_id": 1141.0
+      }
+    },
+    {
+      "id": "variant-58b032b2-bfc8-58c5-b09c-f758859b2d22",
+      "score": 0.8388104,
+      "metadata": {
+        "text": "core_product_name: bolt and nut | protection_features: galvanised",
+        "raw_product_name": "BOLTS & NUTS (GALVANISED)",
+        "list_of_product_ids": "21576,21573,26271,26205,26208,26210,26219,26228,21578,27711",
+        "core_id": 231.0
+      }
+    },
+    {
+      "id": "variant-8dc24b6d-5968-5ab6-bdfd-656a88c69cda",
+      "score": 0.8387491,
+      "metadata": {
+        "text": "core_product_name: check cryogenic valve | construction_features: forged",
+        "raw_product_name": "VALVE CHECK CRYOGENIC FORGED",
+        "list_of_product_ids": "6232,5401,11626,10425,11418,8650,8627",
+        "core_id": 2346.0
+      }
+    },
+    {
+      "id": "variant-a8af20a3-6309-5504-b1b4-ba416fb90ee4",
+      "score": 0.83855766,
+      "metadata": {
+        "text": "core_product_name: circular hollow section",
+        "raw_product_name": "CIRCULAR HOLLOW SECTION",
+        "list_of_product_ids": "199,101,991,528,351",
+        "core_id": 356.0
+      }
+    },
+    {
+      "id": "variant-fc11023f-6aa9-5a2a-9ffa-b1e3abd66cf0",
+      "score": 0.8385162,
+      "metadata": {
+        "text": "core_product_name: craft",
+        "raw_product_name": "SURVIVAL CRAFT",
+        "list_of_product_ids": "188,592,806,237,502",
+        "core_id": 2164.0
+      }
+    }
+  ]
+}

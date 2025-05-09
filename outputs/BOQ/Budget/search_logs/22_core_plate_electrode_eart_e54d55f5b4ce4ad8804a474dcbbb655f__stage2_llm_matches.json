@@ -1,0 +1,66 @@
+{
+  "query": "core_product_name: plate electrode earthing station | size: inspection chamber: 400(L)x400(W)x450(D)mm, block work thickness: 150mm, copper plate: 600x600x3mm, GI(galvanized iron) line: 15mm, watering line: 50mm, copper strip: 75x6mm, connecting clamp length: 3 meter, excavation: 400(W & L) | feature_or_specifications: standard: IS3043(indian standard 3043) - 2018, standard: NBC 2016(national building code 2016), inspection chamber cover: CI(cast iron), copper plate, GI(galvanized iron) line/funnel, CI(cast iron) frame and cover, salt & charcoal mixture, M10 bolts & nuts, universal stainless steel clamps, brass bolts & nuts, feature: back filling around the plate",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: plate | material: Cast Iron",
+        "raw_product_name": "CAST IRON PLATE",
+        "list_of_product_ids": [
+          "399",
+          "713",
+          "996",
+          "039",
+          "973"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: fitting | material: Cast Iron (CI)",
+        "raw_product_name": "FITTINGS -CAST IRON (CI)",
+        "list_of_product_ids": [
+          "7618",
+          "7292",
+          "7881",
+          "15941",
+          "16290",
+          "16308",
+          "34586",
+          "35732",
+          "35733"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: casting | material: Cast Iron",
+        "raw_product_name": "CASTING -CAST IRON",
+        "list_of_product_ids": [
+          "21885",
+          "21883",
+          "24612",
+          "39753",
+          "39842",
+          "39868",
+          "39927",
+          "40032"
+        ]
+      }
+    }
+  ]
+}

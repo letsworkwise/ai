@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: tee connection perforated type | size: width: 600 mm",
+  "retrieval_results": [
+    {
+      "id": "variant-663cf76d-ffc4-5b4c-934a-31949f5c06be",
+      "score": 0.87444776,
+      "metadata": {
+        "text": "core_product_name: tee fitting",
+        "raw_product_name": "FITTINGS –TEES",
+        "list_of_product_ids": "14267,14693,14668,14710,14903,14915,15996,16049,18892,19403,18960,19725,19800,19793,20062,20171,20936,21919,22661,22656,22915,23197,27761,27751,27741,27731,27721,27780,37063,36444,36528",
+        "core_id": 881.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.8592643,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    },
+    {
+      "id": "variant-7200274a-d707-5227-ac1e-143a15e80f5e",
+      "score": 0.8576833,
+      "metadata": {
+        "text": "core_product_name: barred tee",
+        "raw_product_name": "BARRED TEE",
+        "list_of_product_ids": "14187,22417,27760,27750,27740,27730,27720,27781,36527",
+        "core_id": 175.0
+      }
+    },
+    {
+      "id": "variant-1fe7927e-8e90-5f04-8015-9cb017b97836",
+      "score": 0.8573724,
+      "metadata": {
+        "text": "core_product_name: tube | material: Titanium",
+        "raw_product_name": "TUBE-TITANIUM",
+        "list_of_product_ids": "6307,5478,13304,30877",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-0ac14aa8-88e6-5346-8d34-683abe9ee02e",
+      "score": 0.8569873,
+      "metadata": {
+        "text": "core_product_name: flow tee",
+        "raw_product_name": "FLOW TEE",
+        "list_of_product_ids": "5371,6067,11152,11151,10737,11283,10560,12908,15980,17555,27536,27759,27749,27739,27729,27719,27782,36526",
+        "core_id": 940.0
+      }
+    },
+    {
+      "id": "variant-80846140-9c60-5177-8bda-746bfe44d073",
+      "score": 0.8527163,
+      "metadata": {
+        "text": "core_product_name: flange | material: Titanium",
+        "raw_product_name": "FLANGE (TITANIUM)",
+        "list_of_product_ids": "20205,20213,20294,20270,20321,20363",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-aced03b4-d6e4-5165-b3cf-7a7e7de87bc6",
+      "score": 0.8524841,
+      "metadata": {
+        "text": "core_product_name: perforated cable tray",
+        "raw_product_name": "Perforrated Cable Tray",
+        "list_of_product_ids": "7,013,732,126,432",
+        "core_id": 1054.0
+      }
+    },
+    {
+      "id": "variant-f126676e-a62f-52a6-ba06-b09e7951e71e",
+      "score": 0.85083055,
+      "metadata": {
+        "text": "core_product_name: forged fitting",
+        "raw_product_name": "FORGED FITTINGS",
+        "list_of_product_ids": "13660,22252,24586,36933",
+        "core_id": 972.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.8504429,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    },
+    {
+      "id": "variant-9aa36f08-e097-54b1-94fe-8359583782f8",
+      "score": 0.84988636,
+      "metadata": {
+        "text": "core_product_name: orifice fitting",
+        "raw_product_name": "ORIFICE - FITTINGS",
+        "list_of_product_ids": "36537,36541,36539,36546",
+        "core_id": 1602.0
+      }
+    },
+    {
+      "id": "variant-792dc40b-4891-5ed7-a39d-58a31777372a",
+      "score": 0.8497244,
+      "metadata": {
+        "text": "core_product_name: rotameter | material: Glass Tube",
+        "raw_product_name": "ROTAMETER(GLASS TUBE)",
+        "list_of_product_ids": "13857,17077,19697,19689,19878,39959",
+        "core_id": 1923.0
+      }
+    },
+    {
+      "id": "variant-74503a1f-fa22-5c08-ac97-9f8dba31f1f4",
+      "score": 0.8496748,
+      "metadata": {
+        "text": "core_product_name: conduit fitting",
+        "raw_product_name": "FITTINGS (CONDUIT)",
+        "list_of_product_ids": "165,391,654,021,574",
+        "core_id": 870.0
+      }
+    },
+    {
+      "id": "variant-361f0a6c-be07-52cd-995f-85d382c94f3b",
+      "score": 0.8496367,
+      "metadata": {
+        "text": "core_product_name: thermocouple wire",
+        "raw_product_name": "THERMOCOUPLE WIRE",
+        "list_of_product_ids": "220,072,203,322,053",
+        "core_id": 2243.0
+      }
+    },
+    {
+      "id": "variant-383781f7-59ee-5d5b-8a29-cf16569a65fc",
+      "score": 0.84938836,
+      "metadata": {
+        "text": "core_product_name: welded fitting",
+        "raw_product_name": "FITTINGS – AS WELDED",
+        "list_of_product_ids": "14259,15973,19406,19805,19790,20139,22666,37085,37098",
+        "core_id": 878.0
+      }
+    },
+    {
+      "id": "variant-07b420cf-00c7-529f-b258-1dc84b657b06",
+      "score": 0.8493156,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | material: Titanium",
+        "raw_product_name": "TITANIUM PIPE FITTINGS",
+        "list_of_product_ids": "22329,22327,23498,28818",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-39fce78b-8d44-56c5-9c95-7e9a9934ea56",
+      "score": 0.8493148,
+      "metadata": {
+        "text": "core_product_name: width gauge",
+        "raw_product_name": "Width Gauge",
+        "list_of_product_ids": "7552,7226,10509,18014",
+        "core_id": 2491.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8489129,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-4fb30fd1-f740-5dce-ba1c-6f3397e94929",
+      "score": 0.84889805,
+      "metadata": {
+        "text": "core_product_name: product | material: Teak",
+        "raw_product_name": "TEAK",
+        "list_of_product_ids": "199,571,995,428,416",
+        "core_id": 211.0
+      }
+    },
+    {
+      "id": "variant-093417ef-0258-5fff-8d5d-571e1dd5138f",
+      "score": 0.84872824,
+      "metadata": {
+        "text": "core_product_name: tube | material: Alloy Steel",
+        "raw_product_name": "ALLOY STEEL TUBES",
+        "list_of_product_ids": "14174,14880,29977,29980,29975",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-c054d8e4-1e8c-5ea7-b013-ef07cbeba8a2",
+      "score": 0.8483163,
+      "metadata": {
+        "text": "core_product_name: split tee",
+        "raw_product_name": "SPLIT TEE",
+        "list_of_product_ids": "14008,14586,27763,27753,27743,27733,27723,27778,36529",
+        "core_id": 2084.0
+      }
+    },
+    {
+      "id": "variant-10dc0a41-9ee6-56ed-9d8e-405a29cccb61",
+      "score": 0.84817207,
+      "metadata": {
+        "text": "core_product_name: studded tube",
+        "raw_product_name": "TUBE-STUDDED",
+        "list_of_product_ids": "5,991,517,017,614",
+        "core_id": 2285.0
+      }
+    },
+    {
+      "id": "variant-30af54ab-8cc5-5bd5-b441-fb4223f3c8a8",
+      "score": 0.8480435,
+      "metadata": {
+        "text": "core_product_name: tube mill",
+        "raw_product_name": "TUBE MILLS",
+        "list_of_product_ids": "233,392,337,323,333",
+        "core_id": 2283.0
+      }
+    },
+    {
+      "id": "variant-a42bdd25-7045-52a3-ba51-f803ecb7d773",
+      "score": 0.84767705,
+      "metadata": {
+        "text": "core_product_name: forged pipe fitting",
+        "raw_product_name": "FORGED PIPE FITTINGS",
+        "list_of_product_ids": "13663,14901,15749,16041,16260,19726,19799,20064,22660,22654,22913",
+        "core_id": 971.0
+      }
+    },
+    {
+      "id": "variant-bb96db43-a603-5b08-b082-1a787ab9db3c",
+      "score": 0.8468403,
+      "metadata": {
+        "text": "core_product_name: conduit accessory",
+        "raw_product_name": "CONDUIT ACCESSORIES",
+        "list_of_product_ids": "20550,20514,20591,20632,20686,20744",
+        "core_id": 439.0
+      }
+    },
+    {
+      "id": "variant-8b17e0b9-66f6-5d0e-86c3-90233954cdce",
+      "score": 0.84667355,
+      "metadata": {
+        "text": "core_product_name: pipe fitting",
+        "raw_product_name": "PIPE FITTINGS",
+        "list_of_product_ids": "22332,22331,22330,23352,23353,24583,36871,30825,36882,37027,28815,37304,36590,33279,33280,33281,37015,37157,36862,35736,35737,35738,35739,35740,35741,35742,36885,36524",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-3f2acb41-a1eb-5138-ad21-61ecd0048e63",
+      "score": 0.8465233,
+      "metadata": {
+        "text": "core_product_name: pipeline connector",
+        "raw_product_name": "PIPELINE CONNECTORS",
+        "list_of_product_ids": "6,011,519,022,696",
+        "core_id": 1679.0
+      }
+    },
+    {
+      "id": "variant-65840ecf-7374-526b-8e01-2bb631ca3499",
+      "score": 0.8461774,
+      "metadata": {
+        "text": "core_product_name: tube | material: Mild Steel (MS)",
+        "raw_product_name": "Mild Steel Tubes",
+        "list_of_product_ids": "17961,17971,17970,17969,17966,17964,17962,18647",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-45f1fd9e-d9e0-5bbb-b926-ff4102f0b373",
+      "score": 0.84608173,
+      "metadata": {
+        "text": "core_product_name: vibration eliminator connection",
+        "raw_product_name": "VIBRATION ELIMINATOR CONNECTION",
+        "list_of_product_ids": "209,432,095,128,511",
+        "core_id": 2399.0
+      }
+    },
+    {
+      "id": "variant-6acf83ce-edd4-5a01-87c4-5f88cdffa6ae",
+      "score": 0.84542555,
+      "metadata": {
+        "text": "core_product_name: telescopic access platform",
+        "raw_product_name": "TELESCOPIC ACCESS PLATFORM",
+        "list_of_product_ids": "61,805,351",
+        "core_id": 2216.0
+      }
+    },
+    {
+      "id": "variant-8b08aed3-7c60-5bf1-8758-bc5bc5707a0a",
+      "score": 0.84521645,
+      "metadata": {
+        "text": "core_product_name: coupling",
+        "raw_product_name": "COUPLING",
+        "list_of_product_ids": "14102,19606,19603,21430,24786,24777,24787,24800,24801,24814,25096,37417,37437",
+        "core_id": 497.0
+      }
+    }
+  ]
+}

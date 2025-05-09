@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: esd push button station | feature_or_specifications: accessories: cables, glanding, termination, mounting: exd (explosion proof) junction boxes, location: filling shed, pump house, lpg bullets, tld, central monitoring hub, plant manager room, filled cylinder area",
+  "retrieval_results": [
+    {
+      "id": "variant-9143306f-1c3d-5e36-b761-385a5aeb8e3b",
+      "score": 0.851555,
+      "metadata": {
+        "text": "core_product_name: explosion proof control station | protection_features: Explosion proof",
+        "raw_product_name": "CONTROL STATIONS - EXPLOSION PROOF",
+        "list_of_product_ids": "19797,19862,19850,19865,19864,28286,35867,35889,35942",
+        "core_id": 461.0
+      }
+    },
+    {
+      "id": "variant-856bb272-a0de-5132-8ff2-cd7de33b398f",
+      "score": 0.851374,
+      "metadata": {
+        "text": "core_product_name: flameproof push button station | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF PUSH BUTTON STATION",
+        "list_of_product_ids": "13585,14846,15921,20279",
+        "core_id": 898.0
+      }
+    },
+    {
+      "id": "variant-35f1cbfd-1ac3-52a3-bc45-b47462ee0944",
+      "score": 0.8502558,
+      "metadata": {
+        "text": "core_product_name: emergency stop push button station",
+        "raw_product_name": "EMERGENCY STOP PUSH BUTTON STATION NEAR TANK",
+        "list_of_product_ids": "216,582,165,721,730",
+        "core_id": 743.0
+      }
+    },
+    {
+      "id": "variant-e516e659-612c-582a-b731-007fc95acd57",
+      "score": 0.84295756,
+      "metadata": {
+        "text": "core_product_name: level switch | protection_features: Explosion Proof",
+        "raw_product_name": "Level Switches (Explosion Proof)",
+        "list_of_product_ids": "17095,17094,17093,17092,17091,17090,17096,27177",
+        "core_id": 1337.0
+      }
+    },
+    {
+      "id": "variant-3ddc3bca-68aa-59de-bad1-3710e64d9b3e",
+      "score": 0.84163225,
+      "metadata": {
+        "text": "core_product_name: fixed switch board | mounting_or_installation: for package equipments | protection_features: flame proof",
+        "raw_product_name": "SWITCH BOARD FIXED FOR PACKAGE EQUIPMENTS FLAME PROOF",
+        "list_of_product_ids": "13973,14603,14849,19440,20280,22864,35781",
+        "core_id": 2168.0
+      }
+    },
+    {
+      "id": "variant-c078d442-499e-5fef-af59-18af5b47f64b",
+      "score": 0.8396995,
+      "metadata": {
+        "text": "core_product_name: flame proof junction box | protection_features: Flame proof",
+        "raw_product_name": "JUNCTION BOXES (FLAME PROOF)",
+        "list_of_product_ids": "6417,5587,11078,11075,10304,11324,10578,10585,10555,10601,10686,8207,8208,8402,15922,16008,16029,16025,26747,26746,33512,35769",
+        "core_id": 1315.0
+      }
+    },
+    {
+      "id": "variant-5959a661-97c9-5bab-8edc-ae2f4f5d3750",
+      "score": 0.8375709,
+      "metadata": {
+        "text": "core_product_name: explosion proof pressure switch | protection_features: Explosion proof",
+        "raw_product_name": "PRESSURE SWITCHES (EXPLOSION PROOF)",
+        "list_of_product_ids": "13870,36534,16829,16827,16822,16821,17071,23655,36616,35666,35671,39386",
+        "core_id": 1780.0
+      }
+    },
+    {
+      "id": "variant-5504c024-4b72-5368-8851-9130177d4a4c",
+      "score": 0.8357396,
+      "metadata": {
+        "text": "core_product_name: junction box",
+        "raw_product_name": "JUNCTION BOXES",
+        "list_of_product_ids": "5960,6788,10303,10552,10606,8206,8209,15928,17373,18803,24168,22859,27495,36562,36607,35775,35887,35865,35940,36519,39357",
+        "core_id": 1311.0
+      }
+    },
+    {
+      "id": "variant-62910790-3afc-5300-9796-f3874f331d36",
+      "score": 0.83365875,
+      "metadata": {
+        "text": "core_product_name: flame proof control station | protection_features: Flame proof",
+        "raw_product_name": "CONTROL STATIONS-FLAME PROOF",
+        "list_of_product_ids": "6396,5567,10309,10586,10556,10599,16896,24100,22849,24498,24497,24496,24495,35767",
+        "core_id": 463.0
+      }
+    },
+    {
+      "id": "variant-67b26ec1-b16a-558a-a6bb-0ea3206762e1",
+      "score": 0.83345443,
+      "metadata": {
+        "text": "core_product_name: push button and indicating lamp",
+        "raw_product_name": "PUSH BUTTON AND INDICATING LAMPS",
+        "list_of_product_ids": "6469,5640,9352,9148,9153,9155,11848,19079,17539,17810,19007,20969,36691,38266,38081",
+        "core_id": 1821.0
+      }
+    },
+    {
+      "id": "variant-a04485bf-b3ca-5e35-af82-40b9c4157210",
+      "score": 0.8318421,
+      "metadata": {
+        "text": "core_product_name: local control station",
+        "raw_product_name": "LOCAL CONTROL STATIONS",
+        "list_of_product_ids": "99,911,003,018,831",
+        "core_id": 1380.0
+      }
+    },
+    {
+      "id": "variant-5f6025f4-d869-56e7-bced-6488b91fa952",
+      "score": 0.8318149,
+      "metadata": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": "6444,5614,11000,12263,12344,15781,23866,24503",
+        "core_id": 282.0
+      }
+    },
+    {
+      "id": "variant-b0c2061a-aa8d-5939-97cc-7b5703645203",
+      "score": 0.83074456,
+      "metadata": {
+        "text": "core_product_name: terminal box",
+        "raw_product_name": "TERMINAL BOX",
+        "list_of_product_ids": "141,951,736,936,609",
+        "core_id": 2230.0
+      }
+    },
+    {
+      "id": "variant-22bc78da-bb6d-573f-9865-878644ae1eb4",
+      "score": 0.8279839,
+      "metadata": {
+        "text": "core_product_name: desoldering station",
+        "raw_product_name": "DESOLDERING STATION",
+        "list_of_product_ids": "154,301,875,338,513",
+        "core_id": 575.0
+      }
+    },
+    {
+      "id": "variant-c03e0ba5-aa70-53fc-9eb3-267f46d459cb",
+      "score": 0.82790333,
+      "metadata": {
+        "text": "core_product_name: cathodic protection power supply module",
+        "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+        "list_of_product_ids": "6413,5583,8417,12209",
+        "core_id": 315.0
+      }
+    },
+    {
+      "id": "variant-cb60c123-5699-54ec-a71e-3a8bc891b611",
+      "score": 0.8278263,
+      "metadata": {
+        "text": "core_product_name: soldering station",
+        "raw_product_name": "SOLDERING STATION",
+        "list_of_product_ids": "154,291,875,238,511",
+        "core_id": 2064.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.82761914,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-475d6e28-3e39-5b3c-86e9-f6970c05297a",
+      "score": 0.82663846,
+      "metadata": {
+        "text": "core_product_name: hazardous area cable gland",
+        "raw_product_name": "CABLE GLANDS ( HAZARDOUS AREA)",
+        "list_of_product_ids": "6443,5613,8218,10559,10589,10590,10604,8216,8219,8220,8224,12670,17578,23865,22857,24500,35772",
+        "core_id": 279.0
+      }
+    },
+    {
+      "id": "variant-856d998c-a78b-5820-b216-6e2b95fbd990",
+      "score": 0.82550186,
+      "metadata": {
+        "text": "core_product_name: chasis mounted fire fighting equipment",
+        "raw_product_name": "CHASIS MOUNTED FIRE FIGHTING EQUIPMENT",
+        "list_of_product_ids": "6031,5210,8315,8484,8482,15598,15599,15602,23855,19414",
+        "core_id": 339.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.8250974,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-4bd75da8-b3ea-55fd-8691-73600fd313e0",
+      "score": 0.8250005,
+      "metadata": {
+        "text": "core_product_name: programmable logic controller | acronymed_core_product_name: programmable logic controller (esd) | type_or_class: ESD (Emergency Shutdown Device)",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER(ESD)",
+        "list_of_product_ids": "14140,15109,20984,23213,36203,36352",
+        "core_id": 1794.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.8239179,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-4ee544d6-0f39-5064-8d24-8c48472ff71a",
+      "score": 0.82352424,
+      "metadata": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": "5954,6782,12132,14671,14679,18191,20174,36159",
+        "core_id": 2156.0
+      }
+    },
+    {
+      "id": "variant-e84c9295-aa68-5335-b1e7-ec1cd2a95b64",
+      "score": 0.8234111,
+      "metadata": {
+        "text": "core_product_name: extinguishing system",
+        "raw_product_name": "EXTINGUISHING SYSTEM",
+        "list_of_product_ids": "13960",
+        "core_id": 779.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.82325095,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    },
+    {
+      "id": "variant-d9da89a6-d299-59f2-9254-807eaf9aa7f5",
+      "score": 0.8231121,
+      "metadata": {
+        "text": "core_product_name: electro-pneumatic positioner",
+        "raw_product_name": "ELECTRO - PNEUMATIC POSITIONER",
+        "list_of_product_ids": "4,019,640,266",
+        "core_id": 716.0
+      }
+    },
+    {
+      "id": "variant-ab96acaa-88b3-5fbb-ae8d-09b6e468d938",
+      "score": 0.822394,
+      "metadata": {
+        "text": "core_product_name: emergency shutdown valve | acronymed_core_product_name: esd (emergency shutdown) valve",
+        "raw_product_name": "EMERGENCY SHUTDOWN VALVE(ESD)",
+        "list_of_product_ids": "13920,17286,35980,36007,40245",
+        "core_id": 741.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.8222977,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-507e1bc4-4f45-5a0d-983f-4208d188f7c9",
+      "score": 0.821634,
+      "metadata": {
+        "text": "core_product_name: button holder",
+        "raw_product_name": "BUTTON HOLDER",
+        "list_of_product_ids": "20487,20546,20586,20635,20690,20748",
+        "core_id": 262.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.82161325,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    }
+  ]
+}

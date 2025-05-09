@@ -1,0 +1,66 @@
+{
+  "query": "core_product_name: non-return valve | size: size: 100NB | feature_or_specifications: manufacturer: koley valve",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: non-return valve | material: Cast Steel",
+        "raw_product_name": "NON-RETURN VALVES (CAST STEEL)",
+        "list_of_product_ids": [
+          "13770",
+          "15004",
+          "35572",
+          "39750",
+          "39851",
+          "40144",
+          "40207"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: non-return valve | material: Forged Steel",
+        "raw_product_name": "Non-return Valves (Forged Steel)",
+        "list_of_product_ids": [
+          "7132",
+          "7459",
+          "11978",
+          "17818",
+          "35573",
+          "40145"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: non-return valve | material: Cast Iron",
+        "raw_product_name": "Non-Return Valves Cast Iron",
+        "list_of_product_ids": [
+          "7464",
+          "11519",
+          "7137",
+          "11983",
+          "17815",
+          "35571",
+          "39525",
+          "40039",
+          "40205"
+        ]
+      }
+    }
+  ]
+}

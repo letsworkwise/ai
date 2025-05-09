@@ -1,0 +1,78 @@
+{
+  "query": "core_product_name: local indicator for pressure transmitter | feature_or_specifications: location: lpg pump house, quantity per msv: 1",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: loop powered indicator",
+        "raw_product_name": "LOOP POWERED INDICATORS",
+        "list_of_product_ids": [
+          "6593",
+          "5763",
+          "11632",
+          "11633",
+          "10042",
+          "10068",
+          "8403",
+          "12844",
+          "38272"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: indicator",
+        "raw_product_name": "INDICATORS",
+        "list_of_product_ids": [
+          "13683",
+          "15210",
+          "19644",
+          "19651",
+          "20866",
+          "21235",
+          "22603"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: pressure transmitter",
+        "raw_product_name": "PRESSURE TRANSMITTER",
+        "list_of_product_ids": [
+          "10037",
+          "10038",
+          "10043",
+          "10159",
+          "10626",
+          "9515",
+          "9555",
+          "36531",
+          "15313",
+          "17103",
+          "17110",
+          "18208",
+          "24110",
+          "19474",
+          "20012",
+          "20022",
+          "20017",
+          "35953",
+          "36165",
+          "36313",
+          "36510"
+        ]
+      }
+    }
+  ]
+}

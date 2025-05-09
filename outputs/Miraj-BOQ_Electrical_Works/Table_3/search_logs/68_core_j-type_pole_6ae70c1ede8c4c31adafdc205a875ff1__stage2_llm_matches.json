@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: j-type pole | size: height: 3 meter | feature_or_specifications: material: gi (galvanized iron), includes: junction box",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: octagonal pole | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI-OCTAGONAL POLE",
+        "list_of_product_ids": [
+          "180",
+          "571",
+          "805",
+          "618",
+          "592"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: earthing wire | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI EARTHING WIRE",
+        "list_of_product_ids": [
+          "13437"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: hi-rib roofing sheet | material: GI (Galvanized Iron) | accessories_or_attachments: accessories",
+        "raw_product_name": "ROOFING SHEETS & ACCESSORIES - GI HI-RIB",
+        "list_of_product_ids": [
+          "16184",
+          "16199",
+          "16211",
+          "16205",
+          "16248",
+          "16269",
+          "16330",
+          "16323",
+          "16351",
+          "34571"
+        ]
+      }
+    }
+  ]
+}

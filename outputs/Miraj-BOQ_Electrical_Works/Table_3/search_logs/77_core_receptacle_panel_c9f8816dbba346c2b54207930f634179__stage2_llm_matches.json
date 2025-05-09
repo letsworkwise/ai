@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: receptacle panel | feature_or_specifications: voltage: 415 v ac (alternating current), phases: 3ph (three phase), bus: 4w (four wire), incomer: one 63a tpn (triple pole and neutral) 30ma rcbo (residual current circuit breaker with overcurrent protection) isolator, outgoing: 20 a 6 nos. 240v ac sp (single pole) mcb (miniature circuit breaker), enclosure: sheet steel, degree of protection: ip 55",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: industrial receptacle",
+        "raw_product_name": "INDUSTRIAL RECEPTACLE",
+        "list_of_product_ids": [
+          "136",
+          "891",
+          "479",
+          "414",
+          "813"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: welding receptacle",
+        "raw_product_name": "WELDING RECEPTACLES",
+        "list_of_product_ids": [
+          "19666",
+          "19656",
+          "19638",
+          "27341"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Size & Capacity",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: pcc (power control center) switchgear panel | size_or_capacity: 415V | type_or_class: PCC (Power Control Center)",
+        "raw_product_name": "415V SWITCHGEAR PANEL (PCC)",
+        "list_of_product_ids": [
+          "176",
+          "911",
+          "769",
+          "018",
+          "664"
+        ]
+      }
+    }
+  ]
+}

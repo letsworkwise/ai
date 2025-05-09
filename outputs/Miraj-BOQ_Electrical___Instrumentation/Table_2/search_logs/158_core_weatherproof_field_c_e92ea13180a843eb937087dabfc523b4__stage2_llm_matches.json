@@ -1,0 +1,71 @@
+{
+  "query": "core_product_name: weatherproof field call station | feature_or_specifications: weatherproof: yes",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: weatherproof control station | protection_features: Weatherproof",
+        "raw_product_name": "CONTROL STATIONS- WEATHERPROOF",
+        "list_of_product_ids": [
+          "6395",
+          "5566",
+          "10308",
+          "10609",
+          "9189",
+          "9211",
+          "9212",
+          "9294",
+          "9188",
+          "9190",
+          "9303",
+          "9376",
+          "19438",
+          "24491",
+          "24489",
+          "24494",
+          "24493",
+          "38268",
+          "35766"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: weatherproof test station | protection_features: Weatherproof",
+        "raw_product_name": "TEST STATION (WEATHERPROOF)",
+        "list_of_product_ids": [
+          "215",
+          "472",
+          "153",
+          "627",
+          "678"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: weatherproof junction box | protection_features: Weatherproof",
+        "raw_product_name": "JUNCTION BOX (WEATHERPROOF)",
+        "list_of_product_ids": [
+          "215",
+          "532",
+          "156",
+          "528",
+          "596"
+        ]
+      }
+    }
+  ]
+}

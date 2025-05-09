@@ -1,0 +1,117 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [],
+  "original_rows_info": {
+    "row_range": [
+      90,
+      99
+    ],
+    "original_rows": [
+      {
+        "0": 91,
+        "1": 0,
+        "2": "M49202000000",
+        "3": "DESIGN TEMP GROUP: 126 TO 540 (DEG C)Surface Preparation & Pre-erection/Shop Primer: SSPC-SP-10; 1",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 92,
+        "1": 0,
+        "2": "M49202010000",
+        "3": "PIPES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 93,
+        "1": 0,
+        "2": "M49202010400",
+        "3": "NB: .5        Inches",
+        "4": 895.0,
+        "5": "Metres",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 94,
+        "1": 0,
+        "2": "M49202010500",
+        "3": "NB: .75       Inches",
+        "4": 10.0,
+        "5": "Metres",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 95,
+        "1": 0,
+        "2": "M49202010800",
+        "3": "NB: 1.5       Inches",
+        "4": 105.0,
+        "5": "Metres",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 96,
+        "1": 0,
+        "2": "M49202011300",
+        "3": "NB: 4         Inches",
+        "4": 350.0,
+        "5": "Metres",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 97,
+        "1": 0,
+        "2": "M5**********",
+        "3": "*************************************************************** LEGENDS / NOTES FOR INSULATION WORKS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 98,
+        "1": 0,
+        "2": "M60000000000",
+        "3": "HOT INSULATION (OFFSITES): Providing thermal insulation including supply of all insulating and  ancillary",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 99,
+        "1": 0,
+        "2": "M60100000000",
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 100,
+        "1": 0,
+        "2": "M60102000000",
+        "3": "INSULATION TYPE : IH; SURFACE MATERIAL : CS & AS; OPERATING TEMP. RANGE : 176 (DEG C) TO 350 (DEG",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2250,
+    "completion_tokens": 674
+  }
+}

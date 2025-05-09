@@ -1,0 +1,552 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.89588726,
+      "text": "core_product_name: masking tape",
+      "core_id": 1440.0,
+      "raw_product_name": "MASKING TAPE",
+      "list_of_product_ids": [
+        "32954",
+        "32955",
+        "33016",
+        "33203",
+        "33268",
+        "33570",
+        "33641",
+        "35930"
+      ]
+    },
+    {
+      "retrieval_score": 0.8933311,
+      "text": "core_product_name: measuring tape",
+      "core_id": 1452.0,
+      "raw_product_name": "MEASURING TAPE",
+      "list_of_product_ids": [
+        "32949",
+        "32950",
+        "33014",
+        "33201",
+        "33266",
+        "33568",
+        "33639",
+        "35928"
+      ]
+    },
+    {
+      "retrieval_score": 0.89175886,
+      "text": "core_product_name: tape | material: Fiberglass",
+      "core_id": 815.0,
+      "raw_product_name": "FIBERGLASS TAPE",
+      "list_of_product_ids": [
+        "26025",
+        "26024",
+        "26691",
+        "28234"
+      ]
+    },
+    {
+      "retrieval_score": 0.8912298,
+      "text": "core_product_name: tape | material: PVC (Polyvinyl Chloride)",
+      "core_id": 815.0,
+      "raw_product_name": "PVC TAPE",
+      "list_of_product_ids": [
+        "20688",
+        "20548",
+        "20512",
+        "20595",
+        "20589",
+        "20746"
+      ]
+    },
+    {
+      "retrieval_score": 0.8899058,
+      "text": "core_product_name: insulation tape",
+      "core_id": 1275.0,
+      "raw_product_name": "INSULATION TAPE",
+      "list_of_product_ids": [
+        "211",
+        "492",
+        "114",
+        "827",
+        "368"
+      ]
+    },
+    {
+      "retrieval_score": 0.88066673,
+      "text": "core_product_name: clamp",
+      "core_id": 360.0,
+      "raw_product_name": "CLAMP",
+      "list_of_product_ids": [
+        "26021",
+        "26020",
+        "26693",
+        "37265"
+      ]
+    },
+    {
+      "retrieval_score": 0.88054085,
+      "text": "core_product_name: clamp",
+      "core_id": 360.0,
+      "raw_product_name": "JALI CLAMP",
+      "list_of_product_ids": [
+        "24747",
+        "24748",
+        "24775",
+        "24785",
+        "24788",
+        "24798",
+        "24802",
+        "24812",
+        "25095"
+      ]
+    },
+    {
+      "retrieval_score": 0.87976426,
+      "text": "core_product_name: level indicator | type_or_class: Float or Tape",
+      "core_id": 1332.0,
+      "raw_product_name": "LEVEL INDICATORS (FLOAT & TAPE)",
+      "list_of_product_ids": [
+        "13978",
+        "15132",
+        "15140",
+        "15148",
+        "18394",
+        "18393",
+        "21981",
+        "23535"
+      ]
+    },
+    {
+      "retrieval_score": 0.8796213,
+      "text": "core_product_name: terminal strip",
+      "core_id": 2231.0,
+      "raw_product_name": "TERMINAL STRIPS",
+      "list_of_product_ids": [
+        "1",
+        "400",
+        "220",
+        "181"
+      ]
+    },
+    {
+      "retrieval_score": 0.87909746,
+      "text": "core_product_name: tap",
+      "core_id": 805.0,
+      "raw_product_name": "FAUCETS & TAPS",
+      "list_of_product_ids": [
+        "1",
+        "420",
+        "422",
+        "905"
+      ]
+    },
+    {
+      "retrieval_score": 0.87835664,
+      "text": "core_product_name: cable tie",
+      "core_id": 284.0,
+      "raw_product_name": "CABLE TIES",
+      "list_of_product_ids": [
+        "24081",
+        "21169",
+        "21168",
+        "23932",
+        "27351"
+      ]
+    },
+    {
+      "retrieval_score": 0.8777302,
+      "text": "core_product_name: tube fitting",
+      "core_id": 2280.0,
+      "raw_product_name": "TUBE FITTING",
+      "list_of_product_ids": [
+        "6474",
+        "5645",
+        "8110",
+        "10396",
+        "10379",
+        "10670",
+        "10674",
+        "10675",
+        "10683",
+        "8109",
+        "8111",
+        "8113",
+        "8112",
+        "8592",
+        "12052",
+        "12678",
+        "12685",
+        "12681",
+        "12693",
+        "16884",
+        "17200",
+        "17653",
+        "36870",
+        "26298",
+        "26297",
+        "26296",
+        "26295",
+        "26903",
+        "37156",
+        "36861"
+      ]
+    },
+    {
+      "retrieval_score": 0.87721497,
+      "text": "core_product_name: conduit accessory",
+      "core_id": 439.0,
+      "raw_product_name": "CONDUIT ACCESSORIES",
+      "list_of_product_ids": [
+        "20550",
+        "20514",
+        "20591",
+        "20632",
+        "20686",
+        "20744"
+      ]
+    },
+    {
+      "retrieval_score": 0.8766248,
+      "text": "core_product_name: fabricated clamp",
+      "core_id": 788.0,
+      "raw_product_name": "FABRICATED COMPONENT - CLAMP",
+      "list_of_product_ids": [
+        "295",
+        "032",
+        "928",
+        "329",
+        "282"
+      ]
+    },
+    {
+      "retrieval_score": 0.8765986,
+      "text": "core_product_name: electrical strip",
+      "core_id": 714.0,
+      "raw_product_name": "ELECTRICAL STRIPS",
+      "list_of_product_ids": [
+        "211",
+        "512",
+        "115",
+        "528",
+        "461"
+      ]
+    },
+    {
+      "retrieval_score": 0.87590194,
+      "text": "core_product_name: coating tape | material: Coal Tar",
+      "core_id": 377.0,
+      "raw_product_name": "COAL TAR COAING TAPES",
+      "list_of_product_ids": [
+        "6164",
+        "5334",
+        "24263",
+        "24264",
+        "24262"
+      ]
+    },
+    {
+      "retrieval_score": 0.87536675,
+      "text": "core_product_name: cable tray | accessories_or_attachments: accessories",
+      "core_id": 283.0,
+      "raw_product_name": "CABLE TRAYS & ACCESSORIES",
+      "list_of_product_ids": [
+        "14375",
+        "19396",
+        "19397",
+        "24231",
+        "19501",
+        "26433"
+      ]
+    },
+    {
+      "retrieval_score": 0.87507117,
+      "text": "core_product_name: clamp connector",
+      "core_id": 361.0,
+      "raw_product_name": "CLAMP CONNECTOR",
+      "list_of_product_ids": [
+        "6278",
+        "5448",
+        "10979",
+        "10981",
+        "10983",
+        "10985",
+        "10987",
+        "10980",
+        "10982",
+        "10984",
+        "10986",
+        "15793",
+        "37865",
+        "37787"
+      ]
+    },
+    {
+      "retrieval_score": 0.87496424,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLE STOCKIST/TRADERS",
+      "list_of_product_ids": [
+        "2",
+        "467",
+        "924",
+        "680"
+      ]
+    },
+    {
+      "retrieval_score": 0.87478864,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLES",
+      "list_of_product_ids": [
+        "15455",
+        "13721",
+        "24275",
+        "15161",
+        "16241",
+        "19098",
+        "23820",
+        "23814",
+        "21319",
+        "19315",
+        "23819",
+        "23822",
+        "24273",
+        "23829",
+        "20141",
+        "23831",
+        "24058",
+        "23836",
+        "23909",
+        "23839",
+        "23828",
+        "24685",
+        "24726",
+        "24844",
+        "24955",
+        "31590",
+        "31591",
+        "26436",
+        "26438",
+        "31740",
+        "33330"
+      ]
+    },
+    {
+      "retrieval_score": 0.87368035,
+      "text": "core_product_name: wire rope",
+      "core_id": 2478.0,
+      "raw_product_name": "WIRE ROPE",
+      "list_of_product_ids": [
+        "19946",
+        "19945",
+        "24178",
+        "28353"
+      ]
+    },
+    {
+      "retrieval_score": 0.8736258,
+      "text": "core_product_name: cable | material: Rubber",
+      "core_id": 1.0,
+      "raw_product_name": "RUBBER CABLES",
+      "list_of_product_ids": [
+        "38749",
+        "38955",
+        "38670",
+        "38589",
+        "38533",
+        "38534",
+        "38615",
+        "38698",
+        "38775",
+        "38723",
+        "38643",
+        "38834",
+        "38866",
+        "38908",
+        "38934",
+        "38971",
+        "38998",
+        "39026",
+        "39060",
+        "39094",
+        "39124",
+        "39172",
+        "39225",
+        "39253",
+        "39295",
+        "39345",
+        "39381",
+        "39410",
+        "39440",
+        "39456",
+        "39491",
+        "39546",
+        "39573",
+        "39611",
+        "39635",
+        "39663",
+        "39697",
+        "39737",
+        "39807",
+        "39835",
+        "39906"
+      ]
+    },
+    {
+      "retrieval_score": 0.87339956,
+      "text": "core_product_name: compensating cable",
+      "core_id": 407.0,
+      "raw_product_name": "COMPENSATING CABLE",
+      "list_of_product_ids": [
+        "24082",
+        "21244",
+        "21234",
+        "23933",
+        "28345"
+      ]
+    },
+    {
+      "retrieval_score": 0.8733725,
+      "text": "core_product_name: cable tray",
+      "core_id": 283.0,
+      "raw_product_name": "CABLE TRAY",
+      "list_of_product_ids": [
+        "7297",
+        "7345",
+        "10639",
+        "10642",
+        "7895",
+        "7896",
+        "16219",
+        "18875",
+        "18921",
+        "19965",
+        "19975",
+        "24240",
+        "21182",
+        "21180",
+        "22148",
+        "26429"
+      ]
+    },
+    {
+      "retrieval_score": 0.87326884,
+      "text": "core_product_name: conduit pipe",
+      "core_id": 440.0,
+      "raw_product_name": "CONDUIT PIPE",
+      "list_of_product_ids": [
+        "222",
+        "962",
+        "229",
+        "728",
+        "617"
+      ]
+    },
+    {
+      "retrieval_score": 0.8731596,
+      "text": "core_product_name: conduit fitting",
+      "core_id": 870.0,
+      "raw_product_name": "FITTINGS (CONDUIT)",
+      "list_of_product_ids": [
+        "165",
+        "391",
+        "654",
+        "021",
+        "574"
+      ]
+    },
+    {
+      "retrieval_score": 0.87315565,
+      "text": "core_product_name: casting | type_or_class: Tube Sheet or Tube Support",
+      "core_id": 91.0,
+      "raw_product_name": "CASTINGS - TUBE SHEET/TUBE SUPPORT",
+      "list_of_product_ids": [
+        "5988",
+        "5167",
+        "9632",
+        "9636",
+        "9634",
+        "9637"
+      ]
+    },
+    {
+      "retrieval_score": 0.87254566,
+      "text": "core_product_name: pipe fitting",
+      "core_id": 182.0,
+      "raw_product_name": "PIPE FITTINGS",
+      "list_of_product_ids": [
+        "22332",
+        "22331",
+        "22330",
+        "23352",
+        "23353",
+        "24583",
+        "36871",
+        "30825",
+        "36882",
+        "37027",
+        "28815",
+        "37304",
+        "36590",
+        "33279",
+        "33280",
+        "33281",
+        "37015",
+        "37157",
+        "36862",
+        "35736",
+        "35737",
+        "35738",
+        "35739",
+        "35740",
+        "35741",
+        "35742",
+        "36885",
+        "36524"
+      ]
+    },
+    {
+      "retrieval_score": 0.87177753,
+      "text": "core_product_name: pipe",
+      "core_id": 241.0,
+      "raw_product_name": "PIPES- INDIAN STOCKIST",
+      "list_of_product_ids": [
+        "30891",
+        "30899",
+        "30890",
+        "30889",
+        "30882",
+        "30884",
+        "30883",
+        "30885",
+        "30888",
+        "30887",
+        "30886"
+      ]
+    },
+    {
+      "retrieval_score": 0.871714,
+      "text": "core_product_name: optical fibre cable | accessories_or_attachments: associated item",
+      "core_id": 1597.0,
+      "raw_product_name": "OPTICAL FIBRE CABLE & ASSOC.ITEM",
+      "list_of_product_ids": [
+        "6480",
+        "5651",
+        "10911",
+        "11309",
+        "11731",
+        "11946",
+        "19181",
+        "17780",
+        "19112",
+        "19562",
+        "23868",
+        "24032",
+        "26902",
+        "26901",
+        "19151",
+        "34333"
+      ]
+    }
+  ]
+}

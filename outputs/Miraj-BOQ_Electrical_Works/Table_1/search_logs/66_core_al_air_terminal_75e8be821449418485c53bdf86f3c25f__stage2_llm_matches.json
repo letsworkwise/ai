@@ -1,0 +1,59 @@
+{
+  "query": "core_product_name: al air terminal | size: length: 1.5 mtr | feature_or_specifications: installation: on rcc (reinforced cement concrete) roof, material: al (aluminum)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: section | material: Aluminum",
+        "raw_product_name": "ALUMINUM SECTION",
+        "list_of_product_ids": [
+          "20555",
+          "20518",
+          "20605",
+          "20596",
+          "20682",
+          "20740",
+          "38548",
+          "39312"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: structural | material: Aluminium",
+        "raw_product_name": "STRUCTURAL ALUMINIUM",
+        "list_of_product_ids": [
+          "234",
+          "572",
+          "603",
+          "826",
+          "686"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: fan | material: Aluminum",
+        "raw_product_name": "FANS (ALUMINUM BLADES)",
+        "list_of_product_ids": [
+          "7",
+          "474",
+          "714",
+          "910",
+          "860"
+        ]
+      }
+    }
+  ]
+}

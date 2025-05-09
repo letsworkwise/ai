@@ -1,0 +1,598 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.87935436,
+      "text": "core_product_name: galvanized steel pipe | material: Galvanized Steel",
+      "core_id": 1014.0,
+      "raw_product_name": "GALVANIZED STEEL STRUCTURES- PIPE",
+      "list_of_product_ids": [
+        "21293",
+        "21291",
+        "21284",
+        "21280",
+        "21266",
+        "21264",
+        "21296",
+        "21312",
+        "27931"
+      ]
+    },
+    {
+      "retrieval_score": 0.8746329,
+      "text": "core_product_name: galvanized structure | material: Steel",
+      "core_id": 1011.0,
+      "raw_product_name": "GALVANIZED STEEL STRUCTURES",
+      "list_of_product_ids": [
+        "13697",
+        "16818",
+        "16886",
+        "16869",
+        "17140",
+        "18104",
+        "18096",
+        "22747"
+      ]
+    },
+    {
+      "retrieval_score": 0.8707656,
+      "text": "core_product_name: lattice structure | material: Galvanized Steel",
+      "core_id": 1012.0,
+      "raw_product_name": "GALVANIZED STEEL STRUCTURES- LATTICE",
+      "list_of_product_ids": [
+        "21292",
+        "21290",
+        "21283",
+        "21279",
+        "21265",
+        "21263",
+        "21311",
+        "21295",
+        "27932"
+      ]
+    },
+    {
+      "retrieval_score": 0.8615561,
+      "text": "core_product_name: conduit fitting",
+      "core_id": 870.0,
+      "raw_product_name": "FITTINGS (CONDUIT)",
+      "list_of_product_ids": [
+        "165",
+        "391",
+        "654",
+        "021",
+        "574"
+      ]
+    },
+    {
+      "retrieval_score": 0.8612033,
+      "text": "core_product_name: flange | material: Alloy 20",
+      "core_id": 216.0,
+      "raw_product_name": "FLANGE- ALLOY 20",
+      "list_of_product_ids": [
+        "176",
+        "491",
+        "764",
+        "718",
+        "665"
+      ]
+    },
+    {
+      "retrieval_score": 0.8579099,
+      "text": "core_product_name: conduit accessory",
+      "core_id": 439.0,
+      "raw_product_name": "CONDUIT ACCESSORIES",
+      "list_of_product_ids": [
+        "20550",
+        "20514",
+        "20591",
+        "20632",
+        "20686",
+        "20744"
+      ]
+    },
+    {
+      "retrieval_score": 0.8566898,
+      "text": "core_product_name: conduit pipe",
+      "core_id": 440.0,
+      "raw_product_name": "CONDUIT PIPE",
+      "list_of_product_ids": [
+        "222",
+        "962",
+        "229",
+        "728",
+        "617"
+      ]
+    },
+    {
+      "retrieval_score": 0.8563108,
+      "text": "core_product_name: tube | material: Alloy Steel",
+      "core_id": 88.0,
+      "raw_product_name": "ALLOY STEEL TUBES",
+      "list_of_product_ids": [
+        "14174",
+        "14880",
+        "29977",
+        "29980",
+        "29975"
+      ]
+    },
+    {
+      "retrieval_score": 0.85530686,
+      "text": "core_product_name: thru conduit gate valve",
+      "core_id": 2358.0,
+      "raw_product_name": "VALVE GATE (THRU CONDUIT)",
+      "list_of_product_ids": [
+        "6",
+        "209",
+        "537",
+        "835",
+        "532"
+      ]
+    },
+    {
+      "retrieval_score": 0.8539486,
+      "text": "core_product_name: backing flange | material: Mild Steel | construction_features: Galvanised",
+      "core_id": 1476.0,
+      "raw_product_name": "MILD STEEL GALVANISED BACKING FLANGES",
+      "list_of_product_ids": [
+        "17443",
+        "24565",
+        "24653",
+        "17446"
+      ]
+    },
+    {
+      "retrieval_score": 0.8528493,
+      "text": "core_product_name: bolt and nut | protection_features: galvanised",
+      "core_id": 231.0,
+      "raw_product_name": "BOLTS & NUTS (GALVANISED)",
+      "list_of_product_ids": [
+        "21576",
+        "21573",
+        "26271",
+        "26205",
+        "26208",
+        "26210",
+        "26219",
+        "26228",
+        "21578",
+        "27711"
+      ]
+    },
+    {
+      "retrieval_score": 0.85166293,
+      "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride)",
+      "core_id": 442.0,
+      "raw_product_name": "PVC Conduit",
+      "list_of_product_ids": [
+        "16287",
+        "17401",
+        "21575",
+        "16288"
+      ]
+    },
+    {
+      "retrieval_score": 0.85118943,
+      "text": "core_product_name: casting | material: Alloy Steel",
+      "core_id": 91.0,
+      "raw_product_name": "ALLOY STEEL CASTING",
+      "list_of_product_ids": [
+        "249",
+        "632",
+        "496",
+        "026",
+        "778"
+      ]
+    },
+    {
+      "retrieval_score": 0.8511619,
+      "text": "core_product_name: casting | material: Steel",
+      "core_id": 91.0,
+      "raw_product_name": "STEEL CASTING",
+      "list_of_product_ids": [
+        "24961",
+        "24958",
+        "26780",
+        "39754",
+        "39847",
+        "39875",
+        "39930",
+        "40008",
+        "40298"
+      ]
+    },
+    {
+      "retrieval_score": 0.8511573,
+      "text": "core_product_name: galvanized iron pipe | acronymed_core_product_name: gi pipe",
+      "core_id": 1007.0,
+      "raw_product_name": "GI PIPE",
+      "list_of_product_ids": [
+        "15427",
+        "17238",
+        "17227",
+        "30897",
+        "30959",
+        "27363",
+        "28754",
+        "28918",
+        "28967",
+        "35290",
+        "35308",
+        "35313",
+        "39993"
+      ]
+    },
+    {
+      "retrieval_score": 0.8509651,
+      "text": "core_product_name: section | material: Stainless Steel",
+      "core_id": 100.0,
+      "raw_product_name": "STAINLESS STEEL SECTIONS",
+      "list_of_product_ids": [
+        "17974",
+        "17973",
+        "17975",
+        "17972",
+        "18646"
+      ]
+    },
+    {
+      "retrieval_score": 0.8506565,
+      "text": "core_product_name: flange | material: Alloy Steel",
+      "core_id": 216.0,
+      "raw_product_name": "FLANGE-ALLOY STEEL",
+      "list_of_product_ids": [
+        "6274",
+        "5443",
+        "11284",
+        "8448",
+        "8461",
+        "8470",
+        "8780",
+        "12388",
+        "12470",
+        "12868",
+        "12875",
+        "12865",
+        "12871",
+        "12888",
+        "12922",
+        "12930",
+        "12937",
+        "12945",
+        "12953",
+        "12956",
+        "12926",
+        "12941",
+        "12949",
+        "17006",
+        "17575",
+        "18402",
+        "18896",
+        "18940",
+        "19839",
+        "21655",
+        "37254"
+      ]
+    },
+    {
+      "retrieval_score": 0.8506342,
+      "text": "core_product_name: primary structure | construction_features: welded",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+      "list_of_product_ids": [
+        "19999",
+        "20036",
+        "22016",
+        "21003",
+        "21084",
+        "21900",
+        "22115",
+        "21039",
+        "19993",
+        "22825",
+        "22991"
+      ]
+    },
+    {
+      "retrieval_score": 0.8502554,
+      "text": "core_product_name: welded tube | material: Alloy Steel",
+      "core_id": 2286.0,
+      "raw_product_name": "TUBE-WELDED ALLOY STEEL",
+      "list_of_product_ids": [
+        "6",
+        "306",
+        "547",
+        "731",
+        "805"
+      ]
+    },
+    {
+      "retrieval_score": 0.85025185,
+      "text": "core_product_name: pipe-welded alloy steel",
+      "core_id": 1675.0,
+      "raw_product_name": "PIPE-WELDED ALLOY STEEL",
+      "list_of_product_ids": [
+        "6296",
+        "5467",
+        "10333",
+        "7776",
+        "7765",
+        "8068",
+        "13037",
+        "21833",
+        "30892"
+      ]
+    },
+    {
+      "retrieval_score": 0.84957546,
+      "text": "core_product_name: welded structural item",
+      "core_id": 2136.0,
+      "raw_product_name": "STRUCTURAL ITEM (WELDED)",
+      "list_of_product_ids": [
+        "173",
+        "361",
+        "733",
+        "427",
+        "923"
+      ]
+    },
+    {
+      "retrieval_score": 0.8495255,
+      "text": "core_product_name: welded carbon steel pipe",
+      "core_id": 1668.0,
+      "raw_product_name": "PIPE-CARBON STEEL(WELDED)",
+      "list_of_product_ids": [
+        "6285",
+        "5456",
+        "10297",
+        "11150",
+        "10323",
+        "10338",
+        "10393",
+        "10395",
+        "11216",
+        "10576",
+        "10598",
+        "10612",
+        "10619",
+        "10673",
+        "7773",
+        "7758",
+        "7763",
+        "7792",
+        "8069",
+        "8071",
+        "8074",
+        "8077",
+        "8067",
+        "8070",
+        "9271",
+        "9272",
+        "9286",
+        "8072",
+        "8073",
+        "12255",
+        "12565",
+        "12673",
+        "12675",
+        "12690",
+        "13007",
+        "13020",
+        "13011",
+        "13023",
+        "13227",
+        "13230",
+        "13233",
+        "13238",
+        "13242",
+        "13278",
+        "13285",
+        "13292",
+        "13328",
+        "17573",
+        "17570",
+        "17626",
+        "17761",
+        "17279",
+        "22204"
+      ]
+    },
+    {
+      "retrieval_score": 0.8486623,
+      "text": "core_product_name: electro-forged grating | construction_features: electro-forged | material: galvanised",
+      "core_id": 719.0,
+      "raw_product_name": "ELECTRO-FORGED GALVANISED GRATINGS",
+      "list_of_product_ids": [
+        "6383",
+        "5554",
+        "9766",
+        "12486",
+        "15791",
+        "17489",
+        "17479",
+        "17486",
+        "24230",
+        "19930",
+        "17493",
+        "24247",
+        "19899",
+        "24233",
+        "19987",
+        "20019",
+        "24239",
+        "24346",
+        "21838",
+        "35257"
+      ]
+    },
+    {
+      "retrieval_score": 0.8484785,
+      "text": "core_product_name: octagonal pole | material: GI (Galvanized Iron)",
+      "core_id": 1057.0,
+      "raw_product_name": "GI-OCTAGONAL POLE",
+      "list_of_product_ids": [
+        "180",
+        "571",
+        "805",
+        "618",
+        "592"
+      ]
+    },
+    {
+      "retrieval_score": 0.8484489,
+      "text": "core_product_name: cable gland",
+      "core_id": 278.0,
+      "raw_product_name": "CABLE GLANDS",
+      "list_of_product_ids": [
+        "5961",
+        "6789",
+        "8221",
+        "8217",
+        "10553",
+        "10605",
+        "8222",
+        "8223",
+        "12107",
+        "15811",
+        "15929",
+        "16012",
+        "16032",
+        "16026",
+        "17577",
+        "22860",
+        "26078",
+        "26074",
+        "26071",
+        "36606",
+        "33509",
+        "33510",
+        "35776",
+        "35866",
+        "39358"
+      ]
+    },
+    {
+      "retrieval_score": 0.84844583,
+      "text": "core_product_name: pipe-alloy steel",
+      "core_id": 1665.0,
+      "raw_product_name": "PIPE-ALLOY STEEL",
+      "list_of_product_ids": [
+        "29973",
+        "21786",
+        "21788",
+        "24437",
+        "26854",
+        "29976",
+        "29979",
+        "37089"
+      ]
+    },
+    {
+      "retrieval_score": 0.8482346,
+      "text": "core_product_name: casting | material: Stainless Steel",
+      "core_id": 91.0,
+      "raw_product_name": "STAINLESS STEEL CASTING",
+      "list_of_product_ids": [
+        "249",
+        "622",
+        "495",
+        "926",
+        "779"
+      ]
+    },
+    {
+      "retrieval_score": 0.8480372,
+      "text": "core_product_name: coil | material: Steel",
+      "core_id": 1722.0,
+      "raw_product_name": "STEEL COILS",
+      "list_of_product_ids": [
+        "13492",
+        "13561",
+        "15838",
+        "17835",
+        "18367",
+        "21289",
+        "21286",
+        "22539",
+        "38279",
+        "35273",
+        "38265"
+      ]
+    },
+    {
+      "retrieval_score": 0.8480082,
+      "text": "core_product_name: earthing wire | material: GI (Galvanized Iron)",
+      "core_id": 1053.0,
+      "raw_product_name": "GI EARTHING WIRE",
+      "list_of_product_ids": [
+        "13437"
+      ]
+    },
+    {
+      "retrieval_score": 0.8479613,
+      "text": "core_product_name: pipe-carbon steel",
+      "core_id": 1667.0,
+      "raw_product_name": "PIPE-CARBON STEEL",
+      "list_of_product_ids": [
+        "6135",
+        "5453",
+        "11148",
+        "11346",
+        "10703",
+        "9257",
+        "7749",
+        "7750",
+        "7782",
+        "7789",
+        "7787",
+        "9298",
+        "9299",
+        "9309",
+        "9311",
+        "8035",
+        "8046",
+        "8048",
+        "8050",
+        "8053",
+        "8055",
+        "8057",
+        "8059",
+        "8061",
+        "8045",
+        "8047",
+        "8049",
+        "8052",
+        "8054",
+        "8056",
+        "8058",
+        "8060",
+        "9335",
+        "9396",
+        "9398",
+        "9391",
+        "9420",
+        "9176",
+        "9297",
+        "9177",
+        "9300",
+        "9308",
+        "9312",
+        "12253",
+        "12563",
+        "12999",
+        "17640",
+        "18867",
+        "18913",
+        "21056",
+        "21641",
+        "24436",
+        "30012",
+        "30011",
+        "30013",
+        "32041",
+        "40009",
+        "40080"
+      ]
+    }
+  ]
+}

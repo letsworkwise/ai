@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: smart type grounding unit | feature_or_specifications: protection: flameproof and weather proof, indicator: one green indicating lamp, output: dual, application: safety earthing of tank trucks, feature: suitable for giving safety interlocking signal to plc(programmable logic controller)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: electrical electrical fitting | acronymed_core_product_name: flp electrical fittings | protection_features: Flameproof (FLP)",
+        "raw_product_name": "FLP ELECTRICAL FITTINGS",
+        "list_of_product_ids": [
+          "64",
+          "155",
+          "585"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof lighting and distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF LIGHTING & DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13578",
+          "14601",
+          "14847",
+          "24098"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13583",
+          "14851",
+          "20281",
+          "22858",
+          "26788",
+          "26787",
+          "26786",
+          "26789",
+          "35773"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "query": "core_product_name: ups db (uninterruptible power supply distribution board) | acronymed_core_product_name: ups db | size: voltage: 230 V, frequency: 50 Hz, incomer: 63 A, phases: 3 phase, wires: 4 wire, ways: 3 way, short circuit withstand: 10 KA for 1 sec | feature_or_specifications: type: outdoor, type: flame proof (flp), protection: ip class suitable for flp, minimum protection: ip-65, feature: rcbo (residual current circuit breaker with overcurrent protection)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13583",
+          "14851",
+          "20281",
+          "22858",
+          "26788",
+          "26787",
+          "26786",
+          "26789",
+          "35773"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: lighting and power panel | acronymed_core_product_name: FLP (Flameproof) panel | protection_features: Flameproof",
+        "raw_product_name": "LIGHTING & POWER PANELS (FLP)",
+        "list_of_product_ids": [
+          "6418",
+          "5588",
+          "7009",
+          "10306",
+          "10579",
+          "10558",
+          "10588",
+          "10602",
+          "18874",
+          "18920",
+          "22851",
+          "26777",
+          "26773",
+          "26754",
+          "26750",
+          "35770"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: flame proof local distribution board | acronymed_core_product_name: ldb (local distribution board) | protection_features: Flame proof",
+        "raw_product_name": "FLAME PROOF LDB’S",
+        "list_of_product_ids": [
+          "13570",
+          "22218",
+          "22257",
+          "22862",
+          "35778"
+        ]
+      }
+    }
+  ]
+}

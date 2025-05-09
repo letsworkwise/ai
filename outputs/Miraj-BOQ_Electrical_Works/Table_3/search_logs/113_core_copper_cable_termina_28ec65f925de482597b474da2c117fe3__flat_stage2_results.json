@@ -1,0 +1,531 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8651715,
+      "text": "core_product_name: cable | material: Copper",
+      "core_id": 1.0,
+      "raw_product_name": "CABLE -COPPER",
+      "list_of_product_ids": [
+        "32910",
+        "32911",
+        "33009",
+        "33041",
+        "33195",
+        "33260",
+        "33562",
+        "33633",
+        "35922"
+      ]
+    },
+    {
+      "retrieval_score": 0.8612439,
+      "text": "core_product_name: cable termination and jointing kit",
+      "core_id": 282.0,
+      "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+      "list_of_product_ids": [
+        "6444",
+        "5614",
+        "11000",
+        "12263",
+        "12344",
+        "15781",
+        "23866",
+        "24503"
+      ]
+    },
+    {
+      "retrieval_score": 0.8553661,
+      "text": "core_product_name: solid conductor | material: Copper",
+      "core_id": 2063.0,
+      "raw_product_name": "SOLID COPPER CONDUCTOR",
+      "list_of_product_ids": [
+        "180",
+        "781",
+        "807",
+        "918",
+        "591"
+      ]
+    },
+    {
+      "retrieval_score": 0.8540257,
+      "text": "core_product_name: cable lug",
+      "core_id": 280.0,
+      "raw_product_name": "CABLE LUG",
+      "list_of_product_ids": [
+        "2",
+        "064",
+        "720",
+        "116"
+      ]
+    },
+    {
+      "retrieval_score": 0.8522512,
+      "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+      "core_id": 313.0,
+      "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+      "list_of_product_ids": [
+        "140",
+        "901",
+        "478",
+        "121",
+        "282"
+      ]
+    },
+    {
+      "retrieval_score": 0.8518778,
+      "text": "core_product_name: tube | material: Copper and Alloys",
+      "core_id": 88.0,
+      "raw_product_name": "TUBE COPPER AND ALLOYS",
+      "list_of_product_ids": [
+        "6308",
+        "5479",
+        "8815",
+        "8816",
+        "31806"
+      ]
+    },
+    {
+      "retrieval_score": 0.8513232,
+      "text": "core_product_name: electric wire | material: Copper",
+      "core_id": 688.0,
+      "raw_product_name": "ELECTRIC COPPER WIRE",
+      "list_of_product_ids": [
+        "211",
+        "542",
+        "115",
+        "028",
+        "492"
+      ]
+    },
+    {
+      "retrieval_score": 0.8509541,
+      "text": "core_product_name: cable lug | accessories_or_attachments: Lugs",
+      "core_id": 280.0,
+      "raw_product_name": "CABLE – LUGS",
+      "list_of_product_ids": [
+        "13715",
+        "14861",
+        "18113",
+        "19564",
+        "20439",
+        "20413",
+        "20462",
+        "20503",
+        "24057",
+        "23908",
+        "32998",
+        "33032",
+        "33185",
+        "33250",
+        "33552",
+        "33624",
+        "35913"
+      ]
+    },
+    {
+      "retrieval_score": 0.8501969,
+      "text": "core_product_name: compensating cable",
+      "core_id": 407.0,
+      "raw_product_name": "COMPENSATING CABLE",
+      "list_of_product_ids": [
+        "24082",
+        "21244",
+        "21234",
+        "23933",
+        "28345"
+      ]
+    },
+    {
+      "retrieval_score": 0.8492546,
+      "text": "core_product_name: cable | material: Rubber",
+      "core_id": 1.0,
+      "raw_product_name": "RUBBER CABLES",
+      "list_of_product_ids": [
+        "38749",
+        "38955",
+        "38670",
+        "38589",
+        "38533",
+        "38534",
+        "38615",
+        "38698",
+        "38775",
+        "38723",
+        "38643",
+        "38834",
+        "38866",
+        "38908",
+        "38934",
+        "38971",
+        "38998",
+        "39026",
+        "39060",
+        "39094",
+        "39124",
+        "39172",
+        "39225",
+        "39253",
+        "39295",
+        "39345",
+        "39381",
+        "39410",
+        "39440",
+        "39456",
+        "39491",
+        "39546",
+        "39573",
+        "39611",
+        "39635",
+        "39663",
+        "39697",
+        "39737",
+        "39807",
+        "39835",
+        "39906"
+      ]
+    },
+    {
+      "retrieval_score": 0.8488509,
+      "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+      "core_id": 1262.0,
+      "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+      "list_of_product_ids": [
+        "19885",
+        "19880",
+        "24078",
+        "23930",
+        "27348"
+      ]
+    },
+    {
+      "retrieval_score": 0.8487253,
+      "text": "core_product_name: cable tie",
+      "core_id": 284.0,
+      "raw_product_name": "CABLE TIES",
+      "list_of_product_ids": [
+        "24081",
+        "21169",
+        "21168",
+        "23932",
+        "27351"
+      ]
+    },
+    {
+      "retrieval_score": 0.84781355,
+      "text": "core_product_name: seal | material: Copper",
+      "core_id": 487.0,
+      "raw_product_name": "COPPER SEAL",
+      "list_of_product_ids": [
+        "214",
+        "332",
+        "143",
+        "227",
+        "055"
+      ]
+    },
+    {
+      "retrieval_score": 0.8467602,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLES",
+      "list_of_product_ids": [
+        "15455",
+        "13721",
+        "24275",
+        "15161",
+        "16241",
+        "19098",
+        "23820",
+        "23814",
+        "21319",
+        "19315",
+        "23819",
+        "23822",
+        "24273",
+        "23829",
+        "20141",
+        "23831",
+        "24058",
+        "23836",
+        "23909",
+        "23839",
+        "23828",
+        "24685",
+        "24726",
+        "24844",
+        "24955",
+        "31590",
+        "31591",
+        "26436",
+        "26438",
+        "31740",
+        "33330"
+      ]
+    },
+    {
+      "retrieval_score": 0.8466176,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLE STOCKIST/TRADERS",
+      "list_of_product_ids": [
+        "2",
+        "467",
+        "924",
+        "680"
+      ]
+    },
+    {
+      "retrieval_score": 0.84511787,
+      "text": "core_product_name: flexible wire | material: Copper",
+      "core_id": 912.0,
+      "raw_product_name": "FLEXIBLE COPPER WIRES",
+      "list_of_product_ids": [
+        "136",
+        "081",
+        "478",
+        "520",
+        "094"
+      ]
+    },
+    {
+      "retrieval_score": 0.84497535,
+      "text": "core_product_name: cable gland",
+      "core_id": 278.0,
+      "raw_product_name": "CABLE GLANDS",
+      "list_of_product_ids": [
+        "5961",
+        "6789",
+        "8221",
+        "8217",
+        "10553",
+        "10605",
+        "8222",
+        "8223",
+        "12107",
+        "15811",
+        "15929",
+        "16012",
+        "16032",
+        "16026",
+        "17577",
+        "22860",
+        "26078",
+        "26074",
+        "26071",
+        "36606",
+        "33509",
+        "33510",
+        "35776",
+        "35866",
+        "39358"
+      ]
+    },
+    {
+      "retrieval_score": 0.84484935,
+      "text": "core_product_name: commercial cable",
+      "core_id": 400.0,
+      "raw_product_name": "COMMERCIAL CABLE",
+      "list_of_product_ids": [
+        "20779",
+        "20808",
+        "20806",
+        "21176",
+        "21175",
+        "27361"
+      ]
+    },
+    {
+      "retrieval_score": 0.8428499,
+      "text": "core_product_name: screened cable | special_attributes: Screened cable",
+      "core_id": 1976.0,
+      "raw_product_name": "SCREENED CABLES",
+      "list_of_product_ids": [
+        "13881",
+        "14838",
+        "15808",
+        "20059",
+        "20100",
+        "24067",
+        "23919"
+      ]
+    },
+    {
+      "retrieval_score": 0.84281635,
+      "text": "core_product_name: tube | material: Copper | construction_features: Coated | construction_features: Bare",
+      "core_id": 88.0,
+      "raw_product_name": "COPPER TUBES(COATED,BARE)",
+      "list_of_product_ids": [
+        "6",
+        "487",
+        "565",
+        "818",
+        "967"
+      ]
+    },
+    {
+      "retrieval_score": 0.8426034,
+      "text": "core_product_name: special cable",
+      "core_id": 2074.0,
+      "raw_product_name": "SPECIAL CABLES",
+      "list_of_product_ids": [
+        "13989",
+        "14840",
+        "20102",
+        "20070",
+        "24071",
+        "23923"
+      ]
+    },
+    {
+      "retrieval_score": 0.84224546,
+      "text": "core_product_name: conduit accessory",
+      "core_id": 439.0,
+      "raw_product_name": "CONDUIT ACCESSORIES",
+      "list_of_product_ids": [
+        "20550",
+        "20514",
+        "20591",
+        "20632",
+        "20686",
+        "20744"
+      ]
+    },
+    {
+      "retrieval_score": 0.84176815,
+      "text": "core_product_name: copper pipe",
+      "core_id": 486.0,
+      "raw_product_name": "COPPER PIPE",
+      "list_of_product_ids": [
+        "757",
+        "172",
+        "467",
+        "754"
+      ]
+    },
+    {
+      "retrieval_score": 0.84167683,
+      "text": "core_product_name: conduit fitting",
+      "core_id": 870.0,
+      "raw_product_name": "FITTINGS (CONDUIT)",
+      "list_of_product_ids": [
+        "165",
+        "391",
+        "654",
+        "021",
+        "574"
+      ]
+    },
+    {
+      "retrieval_score": 0.8393519,
+      "text": "core_product_name: instrumentation cable | type_or_class: Paired",
+      "core_id": 1262.0,
+      "raw_product_name": "INSTRUMENTATION CABLES (PAIRED)",
+      "list_of_product_ids": [
+        "19886",
+        "19882",
+        "24079",
+        "23913",
+        "27347"
+      ]
+    },
+    {
+      "retrieval_score": 0.8392597,
+      "text": "core_product_name: coupling device",
+      "core_id": 499.0,
+      "raw_product_name": "COUPLING DEVICE",
+      "list_of_product_ids": [
+        "18582",
+        "18579",
+        "18578",
+        "18637"
+      ]
+    },
+    {
+      "retrieval_score": 0.83760965,
+      "text": "core_product_name: tube | material: Copper | construction_features: PVC (Polyvinyl Chloride) coated",
+      "core_id": 88.0,
+      "raw_product_name": "COPPER TUBE (PVC COATED)",
+      "list_of_product_ids": [
+        "16380",
+        "16442",
+        "16464",
+        "16437"
+      ]
+    },
+    {
+      "retrieval_score": 0.83729196,
+      "text": "core_product_name: instrumentation cable | type_or_class: Instrumentation",
+      "core_id": 1262.0,
+      "raw_product_name": "INSTRUMENTATION CABLES",
+      "list_of_product_ids": [
+        "38831",
+        "38746",
+        "38638",
+        "38667",
+        "38525",
+        "38526",
+        "38584",
+        "38610",
+        "38695",
+        "38772",
+        "38720",
+        "38863",
+        "38905",
+        "38931",
+        "38952",
+        "38968",
+        "38995",
+        "39023",
+        "39057",
+        "39091",
+        "39121",
+        "39169",
+        "39222",
+        "39250",
+        "39292",
+        "39342",
+        "39378",
+        "39407",
+        "39437",
+        "39453",
+        "39488",
+        "39543",
+        "39570",
+        "39608",
+        "39660",
+        "39632",
+        "39694",
+        "39734",
+        "39804",
+        "39832",
+        "39903"
+      ]
+    },
+    {
+      "retrieval_score": 0.83705604,
+      "text": "core_product_name: cable trench",
+      "core_id": 285.0,
+      "raw_product_name": "CABLE TRENCHES",
+      "list_of_product_ids": [
+        "15786",
+        "15854",
+        "15876",
+        "15870",
+        "24073",
+        "23925"
+      ]
+    },
+    {
+      "retrieval_score": 0.8370174,
+      "text": "core_product_name: tubing",
+      "core_id": 2099.0,
+      "raw_product_name": "TUBINGS",
+      "list_of_product_ids": [
+        "14396",
+        "14566",
+        "22505",
+        "35747"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "query": "core_product_name: exhaust pipe | size: diameter: 16 inch, insulation thickness: not specified, insulation density: 64 Kg/m3 | feature_or_specifications: insulation material: glass wool, cladding: aluminium, location: after residential silencer",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: insulation product | material: Glass Wool",
+        "raw_product_name": "GLASS WOOL INSULATION PRODUCTS",
+        "list_of_product_ids": [
+          "6",
+          "146",
+          "531",
+          "624",
+          "323"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: wool | material: Glass",
+        "raw_product_name": "Glass Wool",
+        "list_of_product_ids": [
+          "68",
+          "167",
+          "319"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: large-diameter pipe",
+        "raw_product_name": "Large-diameter pipe",
+        "list_of_product_ids": [
+          "758",
+          "772",
+          "628",
+          "028"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "query": "core_product_name: vhf(very high frequency) handheld radio | size: battery capacity: 1800 mAh | feature_or_specifications: model: Motorola GP 328, safety: intrinsically safe, charger: tri chemistry, adapter: included, antenna: included, make: Motorola",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: wireless communication equipment",
+        "raw_product_name": "Wireless Communication Equipment",
+        "list_of_product_ids": [
+          "7073",
+          "7400",
+          "18829",
+          "18864"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: radio system",
+        "raw_product_name": "RADIO SYSTEM",
+        "list_of_product_ids": [
+          "19387",
+          "28262",
+          "39972",
+          "39999",
+          "40023",
+          "40020",
+          "40029",
+          "40052",
+          "40085",
+          "40095",
+          "40267",
+          "40268"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: hand held multifunctional calibrator",
+        "raw_product_name": "Hand Held Multifunctional Calibrator",
+        "list_of_product_ids": [
+          "18090",
+          "28750",
+          "37512",
+          "37499"
+        ]
+      }
+    }
+  ]
+}

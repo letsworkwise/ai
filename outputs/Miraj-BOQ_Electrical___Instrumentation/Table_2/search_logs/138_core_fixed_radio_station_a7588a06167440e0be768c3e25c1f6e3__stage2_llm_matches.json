@@ -1,0 +1,92 @@
+{
+  "query": "core_product_name: fixed radio station | size: power supply: 12V/10A | feature_or_specifications: model: Motorola GM 338, microphone: fist mic, battery charger: included, accessories: all, maintenance: free, type: base station",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Size & Capacity"
+      ],
+      "match_details": {
+        "text": "core_product_name: power supply",
+        "raw_product_name": "BUIL POWER SUPPLY",
+        "list_of_product_ids": [
+          "5",
+          "937",
+          "676",
+          "612",
+          "114"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: radio system",
+        "raw_product_name": "RADIO SYSTEM",
+        "list_of_product_ids": [
+          "19387",
+          "28262",
+          "39972",
+          "39999",
+          "40023",
+          "40020",
+          "40029",
+          "40052",
+          "40085",
+          "40095",
+          "40267",
+          "40268"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: battery charger",
+        "raw_product_name": "BATTERY CHARGERS",
+        "list_of_product_ids": [
+          "6397",
+          "5568",
+          "10499",
+          "10517",
+          "10625",
+          "10846",
+          "11842",
+          "12051",
+          "12085",
+          "12083",
+          "12152",
+          "12302",
+          "12351",
+          "12542",
+          "12733",
+          "15519",
+          "15898",
+          "15517",
+          "16152",
+          "16179",
+          "16239",
+          "19100",
+          "17025",
+          "17768",
+          "19208",
+          "20444",
+          "20419",
+          "20466",
+          "20507",
+          "20769",
+          "35678",
+          "36164",
+          "36312"
+        ]
+      }
+    }
+  ]
+}

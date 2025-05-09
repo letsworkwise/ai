@@ -1,0 +1,60 @@
+{
+  "query": "core_product_name: hand gloves | feature_or_specifications: voltage: 11000 v and 6600 v, test: box test in accordance with iec(international electrotechnical commission) 61482-1-2, atpv(arc thermal performance value) test in accordance with iec(international electrotechnical commission) 61482-1-1, din(deutsches institut für normung) en 388, din(deutsches institut für normung) en 407, direct incident energy (class 2): 423 kj / m2, extended direct incident energy (eio) (class 2): 1050 ... 1390 kj / m2, atpv(arc thermal performance value): 32.8 cal / cm2",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: hand glove | material: Rubber",
+        "raw_product_name": "Rubber Hand Gloves",
+        "list_of_product_ids": [
+          "14348",
+          "14349",
+          "14344",
+          "37470"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: handglove | material: Cotton",
+        "raw_product_name": "COTTON HANGLOVES",
+        "list_of_product_ids": [
+          "32885",
+          "32894",
+          "33008",
+          "33040",
+          "33194",
+          "33259",
+          "33561",
+          "33632",
+          "35921"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: low temperature glove | material: Rubber",
+        "raw_product_name": "Low Temperature Rubber Gloves",
+        "list_of_product_ids": [
+          "1",
+          "546",
+          "414",
+          "338"
+        ]
+      }
+    }
+  ]
+}

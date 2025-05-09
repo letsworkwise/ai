@@ -1,0 +1,460 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.86533844,
+      "text": "core_product_name: induction motor | type_or_class: MV (Medium Voltage) | type_or_class: Industrial Type | operating_conditions: Safe Area",
+      "core_id": 1506.0,
+      "raw_product_name": "MOTOR INDUCTION-MV (INDL.TYPE SAFE AREA)",
+      "list_of_product_ids": [
+        "6403",
+        "5574",
+        "9346",
+        "9368",
+        "8373",
+        "9375",
+        "9416",
+        "9169",
+        "9171",
+        "9360",
+        "15503",
+        "15502",
+        "19441",
+        "23471",
+        "24524",
+        "24522",
+        "24521"
+      ]
+    },
+    {
+      "retrieval_score": 0.86450386,
+      "text": "core_product_name: lighting fixture",
+      "core_id": 1006.0,
+      "raw_product_name": "LIGHTING FIXTURES",
+      "list_of_product_ids": [
+        "13606",
+        "16555",
+        "16546",
+        "16591",
+        "16576",
+        "17657",
+        "17650",
+        "17702",
+        "17682",
+        "18058",
+        "20306",
+        "20834",
+        "21315",
+        "22108",
+        "23384",
+        "35044"
+      ]
+    },
+    {
+      "retrieval_score": 0.8605618,
+      "text": "core_product_name: incandescent lighting fixture",
+      "core_id": 1228.0,
+      "raw_product_name": "INCANDESCENT LIGHTING FIXTURE",
+      "list_of_product_ids": [
+        "19026",
+        "19024",
+        "19022",
+        "19020",
+        "19163"
+      ]
+    },
+    {
+      "retrieval_score": 0.85489714,
+      "text": "core_product_name: lighting fixture | acronymed_core_product_name: LTG (Lighting) Fixtures | type_or_class: Fluorescent or Incandescent | type_or_class: Class-B",
+      "core_id": 1006.0,
+      "raw_product_name": "Fluorescent / Incandescent Class-“B” LTG Fixtures",
+      "list_of_product_ids": [
+        "18685",
+        "18686",
+        "18683",
+        "32299",
+        "18684",
+        "19018",
+        "35809",
+        "35860",
+        "35884",
+        "35937"
+      ]
+    },
+    {
+      "retrieval_score": 0.85486394,
+      "text": "core_product_name: tube light fixture",
+      "core_id": 2282.0,
+      "raw_product_name": "TUBE LIGHT FIXTURES",
+      "list_of_product_ids": [
+        "139",
+        "811",
+        "494",
+        "021",
+        "021"
+      ]
+    },
+    {
+      "retrieval_score": 0.85457706,
+      "text": "core_product_name: aviation marker lighting fixture | type_or_class: Div.2 (Division 2)",
+      "core_id": 659.0,
+      "raw_product_name": "Div.2 Aviation Marker Lighting Fixtures",
+      "list_of_product_ids": [
+        "18715",
+        "18711",
+        "19014",
+        "37433"
+      ]
+    },
+    {
+      "retrieval_score": 0.8534022,
+      "text": "core_product_name: light fabricated component",
+      "core_id": 1347.0,
+      "raw_product_name": "LIGHT FABRICATED COMPONENT",
+      "list_of_product_ids": [
+        "26019",
+        "26018",
+        "26017",
+        "26690"
+      ]
+    },
+    {
+      "retrieval_score": 0.853269,
+      "text": "core_product_name: induction motor | type_or_class: Medium Voltage (M.V) | operating_conditions: Zone 2 | type_or_class: Type e and n",
+      "core_id": 1506.0,
+      "raw_product_name": "MOTOR-INDUCTION-M.V(ZONE 2-TYPE e & n)",
+      "list_of_product_ids": [
+        "6404",
+        "5575",
+        "11174",
+        "10798",
+        "11380",
+        "11385",
+        "9417",
+        "24529",
+        "24527",
+        "24526"
+      ]
+    },
+    {
+      "retrieval_score": 0.85295475,
+      "text": "core_product_name: industrial receptacle",
+      "core_id": 1235.0,
+      "raw_product_name": "INDUSTRIAL RECEPTACLE",
+      "list_of_product_ids": [
+        "136",
+        "891",
+        "479",
+        "414",
+        "813"
+      ]
+    },
+    {
+      "retrieval_score": 0.85250455,
+      "text": "core_product_name: fluorescent lighting fixture",
+      "core_id": 951.0,
+      "raw_product_name": "FLUORESCENT LIGHTING FIXTURE",
+      "list_of_product_ids": [
+        "19025",
+        "19023",
+        "19021",
+        "19019",
+        "19164"
+      ]
+    },
+    {
+      "retrieval_score": 0.85148865,
+      "text": "core_product_name: induction motor | type_or_class: M.V (Medium Voltage) | protection_features: Flame Proof",
+      "core_id": 1506.0,
+      "raw_product_name": "MOTOR-INDUCTION-M.V (FLAME PROOF)",
+      "list_of_product_ids": [
+        "6405",
+        "5576",
+        "11381",
+        "11386",
+        "9418",
+        "24531",
+        "24530"
+      ]
+    },
+    {
+      "retrieval_score": 0.8499716,
+      "text": "core_product_name: check valve | construction_features: pre-insulation",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK PRE-INSULATION",
+      "list_of_product_ids": [
+        "1",
+        "544",
+        "118",
+        "796"
+      ]
+    },
+    {
+      "retrieval_score": 0.8499603,
+      "text": "core_product_name: plumbing fitting and fixture",
+      "core_id": 1961.0,
+      "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+      "list_of_product_ids": [
+        "6364",
+        "5535",
+        "7874",
+        "12489",
+        "12648",
+        "12649",
+        "34680",
+        "34681"
+      ]
+    },
+    {
+      "retrieval_score": 0.8494854,
+      "text": "core_product_name: primary structure | construction_features: welded",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+      "list_of_product_ids": [
+        "19999",
+        "20036",
+        "22016",
+        "21003",
+        "21084",
+        "21900",
+        "22115",
+        "21039",
+        "19993",
+        "22825",
+        "22991"
+      ]
+    },
+    {
+      "retrieval_score": 0.8487303,
+      "text": "core_product_name: indicating lamp fitting",
+      "core_id": 1232.0,
+      "raw_product_name": "INDICATING LAMP FITTING",
+      "list_of_product_ids": [
+        "20128",
+        "20443",
+        "20418",
+        "20465",
+        "20506",
+        "20645"
+      ]
+    },
+    {
+      "retrieval_score": 0.8487206,
+      "text": "core_product_name: indicating pilot | type_or_class: HI-LO (High-Low) | construction_features: dial type",
+      "core_id": 1125.0,
+      "raw_product_name": "HI-LO PILOTS (INDICATING DIAL TYPE)",
+      "list_of_product_ids": [
+        "13816",
+        "38324",
+        "35544",
+        "36103"
+      ]
+    },
+    {
+      "retrieval_score": 0.84860384,
+      "text": "core_product_name: accessory lighting fixture | protection_features: Non Hazardous",
+      "core_id": 1352.0,
+      "raw_product_name": "LIGHTING FIXTURE & ACCESORY-NON HZARDOUS",
+      "list_of_product_ids": [
+        "5630",
+        "6459",
+        "10568",
+        "10188",
+        "10179",
+        "19512",
+        "19508",
+        "19540",
+        "26082"
+      ]
+    },
+    {
+      "retrieval_score": 0.84820247,
+      "text": "core_product_name: interior",
+      "core_id": 458.0,
+      "raw_product_name": "CONTROL ROOM INTERIOR",
+      "list_of_product_ids": [
+        "19384",
+        "19379",
+        "28261",
+        "38713"
+      ]
+    },
+    {
+      "retrieval_score": 0.84785247,
+      "text": "core_product_name: light machined component",
+      "core_id": 1350.0,
+      "raw_product_name": "LIGHT MACHINED COMPONENTS",
+      "list_of_product_ids": [
+        "239",
+        "522",
+        "395",
+        "328",
+        "688"
+      ]
+    },
+    {
+      "retrieval_score": 0.8477506,
+      "text": "core_product_name: fitting and fixture | type_or_class: sanitary | type_or_class: plumbing | accessories_or_attachments: mirror or glass",
+      "core_id": 1964.0,
+      "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - MIRROR / GLASS",
+      "list_of_product_ids": [
+        "6365",
+        "5536",
+        "12516",
+        "17444",
+        "19499",
+        "34682"
+      ]
+    },
+    {
+      "retrieval_score": 0.8476556,
+      "text": "core_product_name: light and medium forging",
+      "core_id": 974.0,
+      "raw_product_name": "FORGING- LIGHT & MEDIUM",
+      "list_of_product_ids": [
+        "23388",
+        "23387",
+        "23386",
+        "24969",
+        "26775"
+      ]
+    },
+    {
+      "retrieval_score": 0.84760636,
+      "text": "core_product_name: primary structure | construction_features: bolted",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+      "list_of_product_ids": [
+        "20000",
+        "19997",
+        "20035",
+        "21038",
+        "21002",
+        "21083",
+        "21901",
+        "22017",
+        "22116",
+        "22826",
+        "22992"
+      ]
+    },
+    {
+      "retrieval_score": 0.84615326,
+      "text": "core_product_name: mill bay structure",
+      "core_id": 1475.0,
+      "raw_product_name": "MILL BAY STRUCTURE",
+      "list_of_product_ids": [
+        "20928",
+        "20925",
+        "21911",
+        "21950",
+        "22024",
+        "20929",
+        "22122"
+      ]
+    },
+    {
+      "retrieval_score": 0.84603065,
+      "text": "core_product_name: ball valve | construction_features: metal seated",
+      "core_id": 172.0,
+      "raw_product_name": "VALVE BALL (METEL SEATED)",
+      "list_of_product_ids": [
+        "7299",
+        "7347",
+        "8139",
+        "8144",
+        "22518",
+        "22650",
+        "37224",
+        "37225",
+        "37226",
+        "37228",
+        "37227",
+        "37232",
+        "35477"
+      ]
+    },
+    {
+      "retrieval_score": 0.8459677,
+      "text": "core_product_name: inline inductor",
+      "core_id": 1250.0,
+      "raw_product_name": "INLINE INDUCTORS",
+      "list_of_product_ids": [
+        "6029",
+        "5208",
+        "8476",
+        "8737",
+        "16410",
+        "23830"
+      ]
+    },
+    {
+      "retrieval_score": 0.8459425,
+      "text": "core_product_name: ball valve | construction_features: metal seated",
+      "core_id": 172.0,
+      "raw_product_name": "BALL VALVES (METAL SEATED)",
+      "list_of_product_ids": [
+        "8689"
+      ]
+    },
+    {
+      "retrieval_score": 0.8455463,
+      "text": "core_product_name: ball valve | construction_features: soft seated",
+      "core_id": 172.0,
+      "raw_product_name": "VALVE BALL (SOFT SEATED)",
+      "list_of_product_ids": [
+        "7298",
+        "7346",
+        "8138",
+        "22343",
+        "37219",
+        "37220",
+        "37221",
+        "37222",
+        "37215",
+        "37216",
+        "37217",
+        "37218",
+        "35476"
+      ]
+    },
+    {
+      "retrieval_score": 0.84486735,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    },
+    {
+      "retrieval_score": 0.84456205,
+      "text": "core_product_name: proximity switch | type_or_class: Inductive",
+      "core_id": 1799.0,
+      "raw_product_name": "PROXIMITY SWITCHES (INDUCTIVE)",
+      "list_of_product_ids": [
+        "19091",
+        "19106",
+        "19087",
+        "36749",
+        "38450",
+        "36719"
+      ]
+    },
+    {
+      "retrieval_score": 0.84423095,
+      "text": "core_product_name: digital indicator",
+      "core_id": 590.0,
+      "raw_product_name": "DIGITAL INDICATOR",
+      "list_of_product_ids": [
+        "1",
+        "365",
+        "123",
+        "180"
+      ]
+    }
+  ]
+}

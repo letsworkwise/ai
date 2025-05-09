@@ -1,0 +1,158 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Laying and joining of externally 3L PE pre-coated Carbon Steel pipes and specials underground including Carbon Steel  Piping (Non IBR), Thickness <=10 mm Fabrication, For the following nominal sizes NB 2 inch - 6 inch",
+      "core_product_name": "carbon steel piping",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 2 inch - 6 inch, thickness: <=10 mm",
+      "feature_or_specifications": "coating: externally 3l pe pre-coated, type: non ibr, feature: laying and joining, feature: fabrication, installation: underground",
+      "quantity": "820.0",
+      "unit": "inch dia"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Laying and joining of externally 3L PE pre-coated Carbon Steel pipes and specials underground including Carbon Steel  Piping (Non IBR), Thickness <=10 mm Fabrication, For the following nominal sizes NB 8 inch - 14 inch",
+      "core_product_name": "carbon steel piping",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 8 inch - 14 inch, thickness: <=10 mm",
+      "feature_or_specifications": "coating: externally 3l pe pre-coated, type: non ibr, feature: laying and joining, feature: fabrication, installation: underground",
+      "quantity": "580.0",
+      "unit": "inch dia"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Erection including corrosion protection coating of field joints, for Waste Water Collection System (Gravity Flow), for NB 2 inch - 6 inch",
+      "core_product_name": "erection of field joints for waste water collection system",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 2 inch - 6 inch",
+      "feature_or_specifications": "feature: corrosion protection coating, system: gravity flow",
+      "quantity": "1560.0",
+      "unit": "inch mtr"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Erection including corrosion protection coating of field joints, for Waste Water Collection System (Gravity Flow), for NB 8 inch - 14 inch",
+      "core_product_name": "erection of field joints for waste water collection system",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 8 inch - 14 inch",
+      "feature_or_specifications": "feature: corrosion protection coating, system: gravity flow",
+      "quantity": "3200.0",
+      "unit": "inch mtr"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      700,
+      709
+    ],
+    "original_rows": [
+      {
+        "0": 701,
+        "1": 0,
+        "2": "01GC.40.20",
+        "3": "Laying and joining of externally 3L PE pre-coated Carbon Steel pipes and specials underground including",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 702,
+        "1": 0,
+        "2": "01GC.40.20.1",
+        "3": "Carbon Steel  Piping (Non IBR), Thickness <=10 mm",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 703,
+        "1": 0,
+        "2": "01GC.40.20.1.1",
+        "3": "Fabrication, For the following nominal sizes",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 704,
+        "1": 0,
+        "2": "01GC.40.20.1.1.2",
+        "3": "NB 2 inch - 6 inch",
+        "4": 820.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 705,
+        "1": 0,
+        "2": "01GC.40.20.1.1.3",
+        "3": "NB 8 inch - 14 inch",
+        "4": 580.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 706,
+        "1": 0,
+        "2": "01GC.40.20.1.3",
+        "3": "Erection including corrosion protection coating of field joints, for Waste Water Collection System (Gravity Flow), for",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 707,
+        "1": 0,
+        "2": "01GC.40.20.1.3.2",
+        "3": "NB 2 inch - 6 inch",
+        "4": 1560.0,
+        "5": "Inch Mtr",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 708,
+        "1": 0,
+        "2": "01GC.40.20.1.3.3",
+        "3": "NB 8 inch - 14 inch",
+        "4": 3200.0,
+        "5": "Inch Mtr",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 709,
+        "1": 0,
+        "2": "01GC.52",
+        "3": "3LPE coating",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 710,
+        "1": 0,
+        "2": "01GC.52.1",
+        "3": "Repairing of the 3LPE coating of the pipe by Coating of pipe and fittings with Liquid epoxy coating (EP) as per DIN EN",
+        "4": 1.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2271,
+    "completion_tokens": 811
+  }
+}

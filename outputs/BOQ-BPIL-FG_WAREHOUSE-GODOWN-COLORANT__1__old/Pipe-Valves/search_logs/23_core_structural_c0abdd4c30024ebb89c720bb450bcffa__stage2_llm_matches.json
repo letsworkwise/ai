@@ -1,0 +1,78 @@
+{
+  "query": "core_product_name: structural | feature_or_specifications: material: ms",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: structural | material: Aluminium",
+        "raw_product_name": "STRUCTURAL ALUMINIUM",
+        "list_of_product_ids": [
+          "234",
+          "572",
+          "603",
+          "826",
+          "686"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "special_attributes"
+      ],
+      "match_details": {
+        "text": "core_product_name: structural | special_attributes: Stockist or Traders",
+        "raw_product_name": "STRUCTURAL (STOCKIST/TRADERS)",
+        "list_of_product_ids": [
+          "24600",
+          "24601",
+          "24735",
+          "24762",
+          "24754",
+          "24850",
+          "24861"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: structural steel",
+        "raw_product_name": "STRUCTURAL STEEL",
+        "list_of_product_ids": [
+          "9524",
+          "9544",
+          "13038",
+          "14422",
+          "15849",
+          "17276",
+          "17978",
+          "17977",
+          "17976",
+          "17979",
+          "31114",
+          "31137",
+          "31138",
+          "25221",
+          "31005",
+          "31007",
+          "31030",
+          "31053",
+          "31055",
+          "31056",
+          "31057",
+          "31061",
+          "31065"
+        ]
+      }
+    }
+  ]
+}

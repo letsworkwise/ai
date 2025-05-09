@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: ups(uninterruptible power supply) system | acronymed_core_product_name: ups system | size: capacity: 2x25 kVA, output: 2 x 230 V, backup: half hour | feature_or_specifications: phase: 1-ph, wire: 2-wire, redundancy: parallel redundant, bypass: static, battery: Ni-Cd(nickel-cadmium), battery stands: included, cable glands: weatherproof double compression Ni plated brass, cable lugs: included, transformer: 230/110 V, 2 kVA control transformer, secondary output: 110 V ACDB(as per SLD), as per specification",
+  "retrieval_results": [
+    {
+      "id": "variant-4ed83870-c8d2-5f69-ba76-674bbe8ff2b1",
+      "score": 0.89629525,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: ups system",
+        "raw_product_name": "UPS SYSTEM",
+        "list_of_product_ids": "14194,15283,15287,15895,17799,17789,17897,18615,18614,18613,18612",
+        "core_id": 2314.0
+      }
+    },
+    {
+      "id": "variant-60759c1d-1484-5fdf-a6d4-d96e4e97573f",
+      "score": 0.892168,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: u.p.s. system",
+        "raw_product_name": "U.P.S.SYSTEM",
+        "list_of_product_ids": "6399,5570,11076,11073,10496,10624,12084,12082,12245,24506,24504,36163,36311",
+        "core_id": 2314.0
+      }
+    },
+    {
+      "id": "variant-aefb8f92-80fa-5763-b0f1-30caae087481",
+      "score": 0.8905785,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups (uninterruptible power supply)",
+        "raw_product_name": "UN-INTERRUPTIBLE POWER SUPPLY (UPS)",
+        "list_of_product_ids": "141,931,781,320,002",
+        "core_id": 2316.0
+      }
+    },
+    {
+      "id": "variant-615436f0-585e-5bc3-84d1-0d858c65a484",
+      "score": 0.8846916,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups | accessories_or_attachments: acdb (alternating current distribution board)",
+        "raw_product_name": "UPS With ACDB",
+        "list_of_product_ids": "1,419,636,134",
+        "core_id": 2316.0
+      }
+    },
+    {
+      "id": "variant-c03e0ba5-aa70-53fc-9eb3-267f46d459cb",
+      "score": 0.86114186,
+      "metadata": {
+        "text": "core_product_name: cathodic protection power supply module",
+        "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+        "list_of_product_ids": "6413,5583,8417,12209",
+        "core_id": 315.0
+      }
+    },
+    {
+      "id": "variant-fffe43b9-b089-5b6d-9125-4a5cf297e594",
+      "score": 0.8611272,
+      "metadata": {
+        "text": "core_product_name: power supply unit | acronymed_core_product_name: psu (power supply unit)",
+        "raw_product_name": "POWER SUPPLY UNIT (PSU)",
+        "list_of_product_ids": "191,622,743,919,161",
+        "core_id": 1746.0
+      }
+    },
+    {
+      "id": "variant-1e46909f-5be3-54cb-af61-1774897dadd6",
+      "score": 0.85892016,
+      "metadata": {
+        "text": "core_product_name: cathodic protection system | acronymed_core_product_name: cp system",
+        "raw_product_name": "CP SYSTEM",
+        "list_of_product_ids": "15360,15379,15381,15383,18186,19518,40163,40168,40190,40238,40233",
+        "core_id": 503.0
+      }
+    },
+    {
+      "id": "variant-41a6c6d9-ef4d-520f-b9f3-af2822f8dcef",
+      "score": 0.8573699,
+      "metadata": {
+        "text": "core_product_name: power supply",
+        "raw_product_name": "BUIL POWER SUPPLY",
+        "list_of_product_ids": "5,937,676,612,114",
+        "core_id": 250.0
+      }
+    },
+    {
+      "id": "variant-30ba7b7c-4349-5ae1-b9ed-81ec0b2af986",
+      "score": 0.85702336,
+      "metadata": {
+        "text": "core_product_name: high voltage capacitor | size_or_capacity: High Voltage",
+        "raw_product_name": "CAPACITORS-HIGH VOLTAGE",
+        "list_of_product_ids": "6427,5597,10503,10567,11340,12080",
+        "core_id": 295.0
+      }
+    },
+    {
+      "id": "variant-c3c5f2e6-43d8-54dc-a454-4b05fd86ee82",
+      "score": 0.8564015,
+      "metadata": {
+        "text": "core_product_name: auxiliary column | acronymed_core_product_name: aux. column",
+        "raw_product_name": "AUX. COLUMN",
+        "list_of_product_ids": "20899,20876,21908,21952,22021,22119,20853",
+        "core_id": 147.0
+      }
+    },
+    {
+      "id": "variant-4ee544d6-0f39-5064-8d24-8c48472ff71a",
+      "score": 0.855784,
+      "metadata": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": "5954,6782,12132,14671,14679,18191,20174,36159",
+        "core_id": 2156.0
+      }
+    },
+    {
+      "id": "variant-74d303aa-2799-5e8d-8b8a-412a8da4a4f2",
+      "score": 0.85466,
+      "metadata": {
+        "text": "core_product_name: electrical spare",
+        "raw_product_name": "ELECTRICAL SPARES",
+        "list_of_product_ids": "207,782,077,728,462",
+        "core_id": 710.0
+      }
+    },
+    {
+      "id": "variant-8fe75b2b-6667-5672-92af-b5e2b55f30aa",
+      "score": 0.8538916,
+      "metadata": {
+        "text": "core_product_name: cathodic protection system",
+        "raw_product_name": "Cathodic Protection System",
+        "list_of_product_ids": "18681,19166,21519,18680,36550",
+        "core_id": 503.0
+      }
+    },
+    {
+      "id": "variant-bbfa8c6b-a309-5003-853d-bf8bbe5d3058",
+      "score": 0.85313094,
+      "metadata": {
+        "text": "core_product_name: site fabricated column | acronymed_core_product_name: las (level alarm system) column",
+        "raw_product_name": "COLUMN-LAS SITE FABRICATED",
+        "list_of_product_ids": "6688,5859,9698,23521",
+        "core_id": 396.0
+      }
+    },
+    {
+      "id": "variant-c2ce30a2-5af4-5288-a342-7c5519d90a13",
+      "score": 0.85307264,
+      "metadata": {
+        "text": "core_product_name: bulk power supply",
+        "raw_product_name": "BULK POWER SUPPLY",
+        "list_of_product_ids": "7,561,723,518,220",
+        "core_id": 254.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.8526862,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-382db73b-224d-52d5-b573-ac219d56b64e",
+      "score": 0.8526715,
+      "metadata": {
+        "text": "core_product_name: permanent cathodic protection system",
+        "raw_product_name": "PERMANENT CATHODIC PROTECTION SYSTEM",
+        "list_of_product_ids": "8413,19238,19231,21566,22411,22607,19230",
+        "core_id": 1641.0
+      }
+    },
+    {
+      "id": "variant-1a0de3d0-ed79-5450-aa41-d8815f16ff26",
+      "score": 0.8520264,
+      "metadata": {
+        "text": "core_product_name: outdoor potential transformer | acronymed_core_product_name: pt | size_or_capacity: 33kV",
+        "raw_product_name": "33kV outdoor CT/ PT",
+        "list_of_product_ids": "7061,7388,18218,18377,19058",
+        "core_id": 17.0
+      }
+    },
+    {
+      "id": "variant-ca680a19-4300-52ac-9ef0-6f3e8a4236c8",
+      "score": 0.851984,
+      "metadata": {
+        "text": "core_product_name: substation automation system | acronymed_core_product_name: sas system",
+        "raw_product_name": "SAS System",
+        "list_of_product_ids": "7566,7240,11203,10872,10874,11375",
+        "core_id": 1963.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.8517666,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-7e796f6f-0d17-514d-aca4-a14dcdb48ba7",
+      "score": 0.8517364,
+      "metadata": {
+        "text": "core_product_name: fluid power equipment",
+        "raw_product_name": "FLUID POWER EQUIPMENT",
+        "list_of_product_ids": "1,364,936,946",
+        "core_id": 949.0
+      }
+    },
+    {
+      "id": "variant-a28a5702-2741-52e7-bbee-c9ec9500bcb3",
+      "score": 0.85150665,
+      "metadata": {
+        "text": "core_product_name: transformer-rectifier unit",
+        "raw_product_name": "TRANSFORMER-RECTIFIER UNIT",
+        "list_of_product_ids": "21792,21799,27105,35396",
+        "core_id": 2273.0
+      }
+    },
+    {
+      "id": "variant-3891317a-aff8-5713-acbe-b3188d03a526",
+      "score": 0.85127413,
+      "metadata": {
+        "text": "core_product_name: power or distribution transformer",
+        "raw_product_name": "POWER & DISTRIBUTION TRANSFORMERS",
+        "list_of_product_ids": "7020,7340,10181,10195,10207,10180,10218,11723,14858,21601,35405,35845",
+        "core_id": 1739.0
+      }
+    },
+    {
+      "id": "variant-66428c5d-a639-522d-aaa2-7f9a9c972ac1",
+      "score": 0.8509709,
+      "metadata": {
+        "text": "core_product_name: system package | acronymed_core_product_name: m v (medium voltage) system package",
+        "raw_product_name": "M V SYSTEM PACKAGE",
+        "list_of_product_ids": "6392,5563,11219,24475,24474,24473,24472",
+        "core_id": 1089.0
+      }
+    },
+    {
+      "id": "variant-142516e3-9062-533e-84ba-524455833702",
+      "score": 0.8504895,
+      "metadata": {
+        "text": "core_product_name: electric capacitor",
+        "raw_product_name": "ELECTRIC CAPACITOR",
+        "list_of_product_ids": "20800,20799,22292,28494",
+        "core_id": 683.0
+      }
+    },
+    {
+      "id": "variant-0a015ab5-d5df-5517-bd30-88c4f9cc9670",
+      "score": 0.8501281,
+      "metadata": {
+        "text": "core_product_name: switch mode power supply | acronymed_core_product_name: smps (switch mode power supply)",
+        "raw_product_name": "Switch Mode Power Supply (SMPS)",
+        "list_of_product_ids": "13563,13565,13567,14197,15285,19641,35007",
+        "core_id": 2199.0
+      }
+    },
+    {
+      "id": "variant-808cb5c1-0ad0-5acd-a87d-fc7689db9ddd",
+      "score": 0.8500926,
+      "metadata": {
+        "text": "core_product_name: tube suppression system",
+        "raw_product_name": "TUBE SUPPRESSION SYSTEM",
+        "list_of_product_ids": "3,247,232,473",
+        "core_id": 2284.0
+      }
+    },
+    {
+      "id": "variant-422cbdb7-baa2-5d7a-a646-890becaf5d56",
+      "score": 0.84992796,
+      "metadata": {
+        "text": "core_product_name: hydraulic power pack",
+        "raw_product_name": "HYDRAULIC POWER PACK",
+        "list_of_product_ids": "14401,14575,19255,19584,21861,23530",
+        "core_id": 1198.0
+      }
+    },
+    {
+      "id": "variant-f0b3c83f-340f-5359-af01-5f3abf8a29c7",
+      "score": 0.8498029,
+      "metadata": {
+        "text": "core_product_name: input/output converter | acronymed_core_product_name: i/p converter",
+        "raw_product_name": "I/P CONVERTERS",
+        "list_of_product_ids": "13678,14948,14949,15078,15105,15307,15315,17477,20895,23179,36199,36348",
+        "core_id": 1221.0
+      }
+    },
+    {
+      "id": "variant-f54c914d-9cf4-5252-893a-012bf8e07ce1",
+      "score": 0.8497086,
+      "metadata": {
+        "text": "core_product_name: electric tube",
+        "raw_product_name": "ELECTRIC TUBES",
+        "list_of_product_ids": "20835,20804,20802,28500",
+        "core_id": 699.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: j-type pole | size: height: 2 meter | feature_or_specifications: material: gi (galvanized iron), includes: junction box",
+  "retrieval_results": [
+    {
+      "id": "variant-14443caa-2439-5721-819e-c6aed59e6538",
+      "score": 0.8869705,
+      "metadata": {
+        "text": "core_product_name: octagonal pole | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI-OCTAGONAL POLE",
+        "list_of_product_ids": "180,571,805,618,592",
+        "core_id": 1057.0
+      }
+    },
+    {
+      "id": "variant-2c6d2fb0-4d65-53a0-9797-0709ec5bdacd",
+      "score": 0.86112976,
+      "metadata": {
+        "text": "core_product_name: earthing wire | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI EARTHING WIRE",
+        "list_of_product_ids": "13437",
+        "core_id": 1053.0
+      }
+    },
+    {
+      "id": "variant-bd51a105-2c90-5d87-a36c-f9c6b31272fb",
+      "score": 0.8588792,
+      "metadata": {
+        "text": "core_product_name: hi-rib roofing sheet | material: GI (Galvanized Iron) | accessories_or_attachments: accessories",
+        "raw_product_name": "ROOFING SHEETS & ACCESSORIES - GI HI-RIB",
+        "list_of_product_ids": "16184,16199,16211,16205,16248,16269,16330,16323,16351,34571",
+        "core_id": 1922.0
+      }
+    },
+    {
+      "id": "variant-5504c024-4b72-5368-8851-9130177d4a4c",
+      "score": 0.8585347,
+      "metadata": {
+        "text": "core_product_name: junction box",
+        "raw_product_name": "JUNCTION BOXES",
+        "list_of_product_ids": "5960,6788,10303,10552,10606,8206,8209,15928,17373,18803,24168,22859,27495,36562,36607,35775,35887,35865,35940,36519,39357",
+        "core_id": 1311.0
+      }
+    },
+    {
+      "id": "variant-443a1c24-5cbb-5ed0-ad37-c75d89e77a32",
+      "score": 0.85456914,
+      "metadata": {
+        "text": "core_product_name: hi-rib roofing sheet | material: GI (Galvanized Iron) | construction_features: colour coated",
+        "raw_product_name": "ROOFING SHEETS & ACCESSORIES - GI HI-RIB COLOUR COATED",
+        "list_of_product_ids": "16185,16198,16213,16206,16249,16270,16324,16352,16331,34572",
+        "core_id": 1922.0
+      }
+    },
+    {
+      "id": "variant-a9245aec-5b16-564d-ac03-7a12f88974c3",
+      "score": 0.8540662,
+      "metadata": {
+        "text": "core_product_name: cable tray | acronymed_core_product_name: gi cable tray | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI CABLE TRAYS",
+        "list_of_product_ids": "9939,9940,9943,9945,9944,9946,13481,15701,15731,15765,15788,15745,15824,18876,18922,15817,15848,15777,26430,32139",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-a625472d-0256-59f3-9ecf-b952f316c7e4",
+      "score": 0.8533264,
+      "metadata": {
+        "text": "core_product_name: roofing sheet | material: Precoated | construction_features: Profiled | material: G.I. (Galvanized Iron) | material: Galvalume | material: Zincalume | accessories_or_attachments: Accessories",
+        "raw_product_name": "ROOFING SHEETS & ACCESSORIES - PRECOATED PROFILED G.I./ GALVALUME/ ZINCALUME SHEETS",
+        "list_of_product_ids": "5529,6358,12558,12562,12559,12574,12604,12605,12638,12643,12635,12641,12644,17306,17295,34679,38550,38551,38552,38553",
+        "core_id": 1921.0
+      }
+    },
+    {
+      "id": "variant-5a518091-1505-5c53-a5e9-7c4a82cceeab",
+      "score": 0.84766984,
+      "metadata": {
+        "text": "core_product_name: perforated cable tray | acronymed_core_product_name: gi (galvanized iron) cable tray | material: GI (Galvanized Iron) | accessories_or_attachments: Accessories | type_or_class: Perforated",
+        "raw_product_name": "GI CABLE TRAYS AND ACCESSORIES (PERFORATED TYPE)",
+        "list_of_product_ids": "7301,7349,7899,17491,26434",
+        "core_id": 1054.0
+      }
+    },
+    {
+      "id": "variant-e8711b02-f227-56cf-89e4-fe3169669830",
+      "score": 0.84728813,
+      "metadata": {
+        "text": "core_product_name: lattice structure | material: Galvanized Steel",
+        "raw_product_name": "GALVANIZED STEEL STRUCTURES- LATTICE",
+        "list_of_product_ids": "21292,21290,21283,21279,21265,21263,21311,21295,27932",
+        "core_id": 1012.0
+      }
+    },
+    {
+      "id": "variant-63fe34f4-fc4f-530c-b91a-36e72ebe079b",
+      "score": 0.8472323,
+      "metadata": {
+        "text": "core_product_name: flexible cable tray support system | acronymed_core_product_name: gi (galvanized iron) cable tray support system | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI FLEXIBLE CABLE TRAY SUPPORT SYSTEM",
+        "list_of_product_ids": "7302,7350,7900,16236,20193,16264",
+        "core_id": 1055.0
+      }
+    },
+    {
+      "id": "variant-c8b561b8-4147-5de5-8da2-00b0cd2ef9a0",
+      "score": 0.846941,
+      "metadata": {
+        "text": "core_product_name: ladder cable tray | acronymed_core_product_name: gi (galvanized iron) cable trays | material: GI (Galvanized Iron) | accessories_or_attachments: Accessories | type_or_class: Ladder",
+        "raw_product_name": "GI CABLE TRAYS AND ACCESSORIES (LADDER TYPE)",
+        "list_of_product_ids": "7300,7348,7898,16218,16242,16233,16262,16774,16809,16865,17490,20192,16861",
+        "core_id": 1052.0
+      }
+    },
+    {
+      "id": "variant-248f2090-57dd-54ea-9a64-b78c3b79c297",
+      "score": 0.84565103,
+      "metadata": {
+        "text": "core_product_name: galvanized structure | material: Steel",
+        "raw_product_name": "GALVANIZED STEEL STRUCTURES",
+        "list_of_product_ids": "13697,16818,16886,16869,17140,18104,18096,22747",
+        "core_id": 1011.0
+      }
+    },
+    {
+      "id": "variant-58e28365-c6c2-529a-82ba-2565d75277c0",
+      "score": 0.84533113,
+      "metadata": {
+        "text": "core_product_name: expansion joint | material: Metallic",
+        "raw_product_name": "EXPANSION JOINT-METALLIC",
+        "list_of_product_ids": "6695,5866,11090,11089,11839,11997,11995,17224,18354,21780,22205,22568,22569,22570,22571,22573,22559,37429,36602,37295,37299",
+        "core_id": 773.0
+      }
+    },
+    {
+      "id": "variant-035bb6e4-a7d4-5f12-9d32-b43f858be59a",
+      "score": 0.8445103,
+      "metadata": {
+        "text": "core_product_name: weatherproof junction box | protection_features: Weatherproof",
+        "raw_product_name": "JUNCTION BOX (WEATHERPROOF)",
+        "list_of_product_ids": "215,532,156,528,596",
+        "core_id": 1310.0
+      }
+    },
+    {
+      "id": "variant-b3814c6e-4ced-59a6-a3f6-bcef41a0b77d",
+      "score": 0.8440345,
+      "metadata": {
+        "text": "core_product_name: metallic expansion joint | material: Metallic",
+        "raw_product_name": "Metallic Expansion Joint",
+        "list_of_product_ids": "7366,12812,12789,10815,10813,8796,7039",
+        "core_id": 1471.0
+      }
+    },
+    {
+      "id": "variant-255592ac-75b1-5a79-b5d9-4fc71fec7d16",
+      "score": 0.8436614,
+      "metadata": {
+        "text": "core_product_name: metallic expansion joint | material: Metallic",
+        "raw_product_name": "METALLIC EXPANSION JOINT FOR DUCTS",
+        "list_of_product_ids": "13750,22751,22824,22841,22904,23240",
+        "core_id": 1471.0
+      }
+    },
+    {
+      "id": "variant-b55a4457-928b-5d4f-a0d7-6fb8f7583369",
+      "score": 0.84250164,
+      "metadata": {
+        "text": "core_product_name: insulating joint",
+        "raw_product_name": "INSULATING JOINTS",
+        "list_of_product_ids": "6206,5375,12910,31006,31054,31064",
+        "core_id": 1269.0
+      }
+    },
+    {
+      "id": "variant-adc66f08-b79f-5365-9b67-57a399a98991",
+      "score": 0.84167254,
+      "metadata": {
+        "text": "core_product_name: polygonal pole",
+        "raw_product_name": "POLYGONAL POLE",
+        "list_of_product_ids": "17349,17339,20226,20351",
+        "core_id": 1728.0
+      }
+    },
+    {
+      "id": "variant-4d61d445-0ca2-5a71-a2b2-abf92cbb9dac",
+      "score": 0.8411919,
+      "metadata": {
+        "text": "core_product_name: communication cable | construction_features: jelly filled",
+        "raw_product_name": "CABLES COMMN. (JELLY FILLED)",
+        "list_of_product_ids": "6426,5596,11747,12089,12121,13297,23995,23864",
+        "core_id": 287.0
+      }
+    },
+    {
+      "id": "variant-c078d442-499e-5fef-af59-18af5b47f64b",
+      "score": 0.84066206,
+      "metadata": {
+        "text": "core_product_name: flame proof junction box | protection_features: Flame proof",
+        "raw_product_name": "JUNCTION BOXES (FLAME PROOF)",
+        "list_of_product_ids": "6417,5587,11078,11075,10304,11324,10578,10585,10555,10601,10686,8207,8208,8402,15922,16008,16029,16025,26747,26746,33512,35769",
+        "core_id": 1315.0
+      }
+    },
+    {
+      "id": "variant-801581c6-a47e-5285-97d2-488db8ecfbcc",
+      "score": 0.84055483,
+      "metadata": {
+        "text": "core_product_name: pipe-ms (mild steel) | material: MS (Mild Steel) | construction_features: GI (Galvanized Iron) coating",
+        "raw_product_name": "PIPES-MS-(GI)",
+        "list_of_product_ids": "13947,14615,14654,14664,19769,21055,21413,22593,29948,29951,29953,35289,35310,35314",
+        "core_id": 1690.0
+      }
+    },
+    {
+      "id": "variant-b579f3df-602f-56fe-9304-f7776a9e3283",
+      "score": 0.839198,
+      "metadata": {
+        "text": "core_product_name: cooling tower gear box",
+        "raw_product_name": "COOLING TOWER GEAR BOX",
+        "list_of_product_ids": "31769,31771,31770,31772,31773,31882",
+        "core_id": 485.0
+      }
+    },
+    {
+      "id": "variant-5f6025f4-d869-56e7-bced-6488b91fa952",
+      "score": 0.83746964,
+      "metadata": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": "6444,5614,11000,12263,12344,15781,23866,24503",
+        "core_id": 282.0
+      }
+    },
+    {
+      "id": "variant-075206d1-bd60-5b2f-a91d-063ca6d091d3",
+      "score": 0.8372786,
+      "metadata": {
+        "text": "core_product_name: metal | material: Ferrous",
+        "raw_product_name": "FERROUS METALS",
+        "list_of_product_ids": "1,413,322,873",
+        "core_id": 809.0
+      }
+    },
+    {
+      "id": "variant-25256c42-dac6-5ebd-b99a-5aa3d8f05e6f",
+      "score": 0.83703375,
+      "metadata": {
+        "text": "core_product_name: gear box",
+        "raw_product_name": "Gear Box",
+        "list_of_product_ids": "7534,7208,9726,19610,19616,23496,34585,34587,34588,34597,34598,34602,34599,34629,34630,34642,34644,34645,34648,34649,34641,34643,34953,35150,35145,35147,35151,35189,35208,35207,35201,35215,35271,35269,35414,35423,35430,35440,35441,35444,35449,35417,35607,35663,35664,35660,35659,35658,35657,35661,35662,35681,35679,35689,35697,35876,35874,35872,35870,35871,35883,35859,35858,35946,35898,35897,35896,35952,35951,35948,35949,35954,35958,35967,35970,35975,35977,35984,35985,35986",
+        "core_id": 1081.0
+      }
+    },
+    {
+      "id": "variant-b9b8d302-eb32-505d-ab46-ec618ebbffaa",
+      "score": 0.8358784,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | acronymed_core_product_name: gi (galvanized iron) pipe fittings | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI PIPE FITTINGS",
+        "list_of_product_ids": "137,342,283,228,756",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-67df8260-d86a-5d00-bc9a-a99f7703c14f",
+      "score": 0.83563554,
+      "metadata": {
+        "text": "core_product_name: galvanized iron pipe | acronymed_core_product_name: gi pipe",
+        "raw_product_name": "GI PIPE",
+        "list_of_product_ids": "15427,17238,17227,30897,30959,27363,28754,28918,28967,35290,35308,35313,39993",
+        "core_id": 1007.0
+      }
+    },
+    {
+      "id": "variant-d8d2ec4b-e90c-5b1c-91aa-aece6242d68e",
+      "score": 0.83506185,
+      "metadata": {
+        "text": "core_product_name: expansion joint | material: Fabric",
+        "raw_product_name": "EXPANSION JOINT-(FABRIC)",
+        "list_of_product_ids": "5993,5172,8564,8857,17223,36601",
+        "core_id": 773.0
+      }
+    },
+    {
+      "id": "variant-5a0293ff-dbed-5801-88f0-a1eb7f4d1cad",
+      "score": 0.8344349,
+      "metadata": {
+        "text": "core_product_name: monolithic insulation joint",
+        "raw_product_name": "MONOLOTHICAL INSULATION JOINT",
+        "list_of_product_ids": "1,377,822,418",
+        "core_id": 1500.0
+      }
+    },
+    {
+      "id": "variant-f1aaaa16-e4d1-54f0-902f-ed534e654ad6",
+      "score": 0.8341074,
+      "metadata": {
+        "text": "core_product_name: expansion bellow | material: Metallic",
+        "raw_product_name": "Mettalic Expansion Bellows",
+        "list_of_product_ids": "13753,22100,23437,23436,32732",
+        "core_id": 1526.0
+      }
+    }
+  ]
+}

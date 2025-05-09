@@ -1,0 +1,98 @@
+{
+  "sheet_name": "General Civil",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)",
+      "full_product_description": "Fabrication, For the following nominal sizes NB 2 inch - 6 inch",
+      "core_product_name": "fabrication",
+      "acronymed_core_product_name": "",
+      "size": "nominal sizes: 2 inch - 6 inch",
+      "feature_or_specifications": "",
+      "quantity": "820.0",
+      "unit": "Inch Dia"
+    },
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)",
+      "full_product_description": "Fabrication, For the following nominal sizes NB 8 inch - 14 inch",
+      "core_product_name": "fabrication",
+      "acronymed_core_product_name": "",
+      "size": "nominal sizes: 8 inch - 14 inch",
+      "feature_or_specifications": "",
+      "quantity": "580.0",
+      "unit": "Inch Dia"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      55,
+      59
+    ],
+    "original_rows": [
+      {
+        "0": 704,
+        "1": 0,
+        "2": "01GC.40.20.1.1.2",
+        "3": "NB 2 inch - 6 inch",
+        "4": 820.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 705,
+        "1": 0,
+        "2": "01GC.40.20.1.1.3",
+        "3": "NB 8 inch - 14 inch",
+        "4": 580.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 706,
+        "1": 0,
+        "2": "01GC.40.20.1.3",
+        "3": "Erection including corrosion protection coating of field joints, for Waste Water Collection System (Gravity Flow), for following Nominal Sizes",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 707,
+        "1": 0,
+        "2": "01GC.40.20.1.3.2",
+        "3": "NB 2 inch - 6 inch",
+        "4": 1560.0,
+        "5": "Inch Mtr",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 708,
+        "1": 0,
+        "2": "01GC.40.20.1.3.3",
+        "3": "NB 8 inch - 14 inch",
+        "4": 3200.0,
+        "5": "Inch Mtr",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2300,
+    "completion_tokens": 561
+  }
+}

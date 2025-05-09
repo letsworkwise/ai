@@ -1,0 +1,86 @@
+{
+  "query": "core_product_name: ms(mild steel) pipe | acronymed_core_product_name: ms pipe | size: thickness: 5 mm, class: B, diameter: 16 inch | feature_or_specifications: insulation material: glass wool, insulation density: 64 Kg/m3, cladding: 26 SWG aluminium, application: exhaust pipe after residential silencer",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: pipe-ms (mild steel) | material: MS (Mild Steel) | construction_features: GI (Galvanized Iron) coating",
+        "raw_product_name": "PIPES-MS-(GI)",
+        "list_of_product_ids": [
+          "13947",
+          "14615",
+          "14654",
+          "14664",
+          "19769",
+          "21055",
+          "21413",
+          "22593",
+          "29948",
+          "29951",
+          "29953",
+          "35289",
+          "35310",
+          "35314"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: critical mild steel pipe | acronymed_core_product_name: PCP (Process Critical Piping) | material: MS (Mild Steel)",
+        "raw_product_name": "CRITICAL PIPING /PCP( MS)",
+        "list_of_product_ids": [
+          "141",
+          "191",
+          "469",
+          "520",
+          "073"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: ms (mild steel) pipe | special_attributes: ERW (Electric Resistance Welded)",
+        "raw_product_name": "MS PIPE (ERW)",
+        "list_of_product_ids": [
+          "23798",
+          "23802",
+          "24467",
+          "24468",
+          "24471",
+          "29649",
+          "32761",
+          "32760",
+          "32759",
+          "32758",
+          "32765",
+          "32774",
+          "32775",
+          "32800",
+          "32805",
+          "32841",
+          "32818",
+          "32815",
+          "32844",
+          "32851",
+          "32849",
+          "32848",
+          "32847",
+          "39992"
+        ]
+      }
+    }
+  ]
+}

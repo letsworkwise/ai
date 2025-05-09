@@ -1,0 +1,71 @@
+{
+  "query": "core_product_name: ups(uninterruptible power supply) system | acronymed_core_product_name: ups system | size: capacity: 2x25 kVA, output: 2 x 230 V, backup: half hour | feature_or_specifications: phase: 1-ph, wire: 2-wire, redundancy: parallel redundant, bypass: static, battery: Ni-Cd(nickel-cadmium), battery stands: included, cable glands: weatherproof double compression Ni plated brass, cable lugs: included, transformer: 230/110 V, 2 kVA control transformer, secondary output: 110 V ACDB(as per SLD), as per specification",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: ups system",
+        "raw_product_name": "UPS SYSTEM",
+        "list_of_product_ids": [
+          "14194",
+          "15283",
+          "15287",
+          "15895",
+          "17799",
+          "17789",
+          "17897",
+          "18615",
+          "18614",
+          "18613",
+          "18612"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: u.p.s. system",
+        "raw_product_name": "U.P.S.SYSTEM",
+        "list_of_product_ids": [
+          "6399",
+          "5570",
+          "11076",
+          "11073",
+          "10496",
+          "10624",
+          "12084",
+          "12082",
+          "12245",
+          "24506",
+          "24504",
+          "36163",
+          "36311"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups (uninterruptible power supply)",
+        "raw_product_name": "UN-INTERRUPTIBLE POWER SUPPLY (UPS)",
+        "list_of_product_ids": [
+          "141",
+          "931",
+          "781",
+          "320",
+          "002"
+        ]
+      }
+    }
+  ]
+}

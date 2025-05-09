@@ -1,0 +1,72 @@
+{
+  "query": "core_product_name: control cable | size: voltage grade: 1.1kv(e), cores: 7c, conductor size: 2.5 sqmm | feature_or_specifications: type: armoured, insulation: xlpe (cross-linked polyethylene), sheathing: frls (flame retardant low smoke), conductor material: copper",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: control cable | type_or_class: Unpaired | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES-CONTROL (UNPAIRED)-XLPE",
+        "list_of_product_ids": [
+          "13730",
+          "14825",
+          "24063",
+          "23915"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: control cable | material: PVC (Polyvinyl Chloride) | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES:CONTROL-PVC/XLPE",
+        "list_of_product_ids": [
+          "6422",
+          "5592",
+          "10193",
+          "11360",
+          "10665",
+          "11368",
+          "11745",
+          "12088",
+          "12118",
+          "13289",
+          "13295",
+          "16038",
+          "16281",
+          "17782",
+          "23991",
+          "23860",
+          "40317"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: control cable | type_or_class: Control",
+        "raw_product_name": "CABLES:CONTROL",
+        "list_of_product_ids": [
+          "10003",
+          "10018",
+          "10247",
+          "14646",
+          "36569",
+          "24046",
+          "23897"
+        ]
+      }
+    }
+  ]
+}

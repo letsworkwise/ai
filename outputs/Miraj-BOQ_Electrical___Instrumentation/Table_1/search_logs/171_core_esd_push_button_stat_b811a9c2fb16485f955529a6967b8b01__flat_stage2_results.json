@@ -1,0 +1,445 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8976636,
+      "text": "core_product_name: emergency stop push button station",
+      "core_id": 743.0,
+      "raw_product_name": "EMERGENCY STOP PUSH BUTTON STATION NEAR TANK",
+      "list_of_product_ids": [
+        "216",
+        "582",
+        "165",
+        "721",
+        "730"
+      ]
+    },
+    {
+      "retrieval_score": 0.8807,
+      "text": "core_product_name: flameproof push button station | protection_features: Flameproof",
+      "core_id": 898.0,
+      "raw_product_name": "FLAMEPROOF PUSH BUTTON STATION",
+      "list_of_product_ids": [
+        "13585",
+        "14846",
+        "15921",
+        "20279"
+      ]
+    },
+    {
+      "retrieval_score": 0.8721449,
+      "text": "core_product_name: push button and indicating lamp",
+      "core_id": 1821.0,
+      "raw_product_name": "PUSH BUTTON AND INDICATING LAMPS",
+      "list_of_product_ids": [
+        "6469",
+        "5640",
+        "9352",
+        "9148",
+        "9153",
+        "9155",
+        "11848",
+        "19079",
+        "17539",
+        "17810",
+        "19007",
+        "20969",
+        "36691",
+        "38266",
+        "38081"
+      ]
+    },
+    {
+      "retrieval_score": 0.8718842,
+      "text": "core_product_name: programmable logic controller | acronymed_core_product_name: programmable logic controller (esd) | type_or_class: ESD (Emergency Shutdown Device)",
+      "core_id": 1794.0,
+      "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER(ESD)",
+      "list_of_product_ids": [
+        "14140",
+        "15109",
+        "20984",
+        "23213",
+        "36203",
+        "36352"
+      ]
+    },
+    {
+      "retrieval_score": 0.86319405,
+      "text": "core_product_name: emergency shutdown valve | acronymed_core_product_name: esd (emergency shutdown) valve",
+      "core_id": 741.0,
+      "raw_product_name": "EMERGENCY SHUTDOWN VALVE(ESD)",
+      "list_of_product_ids": [
+        "13920",
+        "17286",
+        "35980",
+        "36007",
+        "40245"
+      ]
+    },
+    {
+      "retrieval_score": 0.86099386,
+      "text": "core_product_name: electrical terminal",
+      "core_id": 712.0,
+      "raw_product_name": "ELECTRICAL TERMINALS",
+      "list_of_product_ids": [
+        "21153",
+        "21157",
+        "28575",
+        "36610"
+      ]
+    },
+    {
+      "retrieval_score": 0.8608995,
+      "text": "core_product_name: soldering station",
+      "core_id": 2064.0,
+      "raw_product_name": "SOLDERING STATION",
+      "list_of_product_ids": [
+        "154",
+        "291",
+        "875",
+        "238",
+        "511"
+      ]
+    },
+    {
+      "retrieval_score": 0.8608379,
+      "text": "core_product_name: electro-pneumatic positioner",
+      "core_id": 716.0,
+      "raw_product_name": "ELECTRO - PNEUMATIC POSITIONER",
+      "list_of_product_ids": [
+        "4",
+        "019",
+        "640",
+        "266"
+      ]
+    },
+    {
+      "retrieval_score": 0.8605324,
+      "text": "core_product_name: electronic control",
+      "core_id": 721.0,
+      "raw_product_name": "ELECTRONIC CONTROL & POWER",
+      "list_of_product_ids": [
+        "24342",
+        "22285",
+        "22284",
+        "22283",
+        "22282",
+        "22265",
+        "22277",
+        "26869",
+        "27491"
+      ]
+    },
+    {
+      "retrieval_score": 0.85910285,
+      "text": "core_product_name: desoldering station",
+      "core_id": 575.0,
+      "raw_product_name": "DESOLDERING STATION",
+      "list_of_product_ids": [
+        "154",
+        "301",
+        "875",
+        "338",
+        "513"
+      ]
+    },
+    {
+      "retrieval_score": 0.85892963,
+      "text": "core_product_name: local control station",
+      "core_id": 1380.0,
+      "raw_product_name": "LOCAL CONTROL STATIONS",
+      "list_of_product_ids": [
+        "99",
+        "911",
+        "003",
+        "018",
+        "831"
+      ]
+    },
+    {
+      "retrieval_score": 0.85645914,
+      "text": "core_product_name: main switchboard",
+      "core_id": 1431.0,
+      "raw_product_name": "MAIN SWITCHBOARD",
+      "list_of_product_ids": [
+        "24309",
+        "19968",
+        "19973",
+        "19967",
+        "19966"
+      ]
+    },
+    {
+      "retrieval_score": 0.85639703,
+      "text": "core_product_name: electric block",
+      "core_id": 682.0,
+      "raw_product_name": "ELECTRIC BLOCK",
+      "list_of_product_ids": [
+        "196",
+        "271",
+        "962",
+        "627",
+        "101"
+      ]
+    },
+    {
+      "retrieval_score": 0.8562704,
+      "text": "core_product_name: busbar terminal block",
+      "core_id": 260.0,
+      "raw_product_name": "BUSBAR TERMINAL BLOCK",
+      "list_of_product_ids": [
+        "59",
+        "416",
+        "770"
+      ]
+    },
+    {
+      "retrieval_score": 0.8559706,
+      "text": "core_product_name: pressure switch",
+      "core_id": 1777.0,
+      "raw_product_name": "PRESSURE SWITCHES",
+      "list_of_product_ids": [
+        "6591",
+        "5761",
+        "10082",
+        "10084",
+        "10628",
+        "7944",
+        "7946",
+        "7948",
+        "9043",
+        "12721",
+        "12730",
+        "12724",
+        "12726",
+        "12900",
+        "12905",
+        "16623",
+        "16824",
+        "19378",
+        "18142",
+        "18406",
+        "18882",
+        "18928",
+        "30690",
+        "31309",
+        "37434",
+        "37435",
+        "36690",
+        "35676",
+        "39387"
+      ]
+    },
+    {
+      "retrieval_score": 0.85543746,
+      "text": "core_product_name: button holder",
+      "core_id": 262.0,
+      "raw_product_name": "BUTTON HOLDER",
+      "list_of_product_ids": [
+        "20487",
+        "20546",
+        "20586",
+        "20635",
+        "20690",
+        "20748"
+      ]
+    },
+    {
+      "retrieval_score": 0.85495627,
+      "text": "core_product_name: station transformer",
+      "core_id": 2108.0,
+      "raw_product_name": "STATION TRANSFORMER",
+      "list_of_product_ids": [
+        "17328",
+        "17327",
+        "17326",
+        "17324",
+        "17322",
+        "17321",
+        "27093",
+        "35999"
+      ]
+    },
+    {
+      "retrieval_score": 0.85445327,
+      "text": "core_product_name: electronic marker",
+      "core_id": 727.0,
+      "raw_product_name": "ELECTRONIC MARKER",
+      "list_of_product_ids": [
+        "13904"
+      ]
+    },
+    {
+      "retrieval_score": 0.8533543,
+      "text": "core_product_name: electrical accessory",
+      "core_id": 701.0,
+      "raw_product_name": "ELECTRICAL ACCESSORIES",
+      "list_of_product_ids": [
+        "211",
+        "632",
+        "705",
+        "121",
+        "165"
+      ]
+    },
+    {
+      "retrieval_score": 0.85314417,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    },
+    {
+      "retrieval_score": 0.8528117,
+      "text": "core_product_name: magnetic proximity switch",
+      "core_id": 1800.0,
+      "raw_product_name": "PROXIMITY SWITCHES (MAGNETIC)",
+      "list_of_product_ids": [
+        "19092",
+        "19105",
+        "19088",
+        "36748",
+        "38451",
+        "36718"
+      ]
+    },
+    {
+      "retrieval_score": 0.8527732,
+      "text": "core_product_name: electronic controller | type_or_class: Control Panel Instrument",
+      "core_id": 724.0,
+      "raw_product_name": "ELECTRONIC CONTROLLER (CONTROL PANEL INSTRUMENT)",
+      "list_of_product_ids": [
+        "13897",
+        "20864",
+        "22602",
+        "22797"
+      ]
+    },
+    {
+      "retrieval_score": 0.852631,
+      "text": "core_product_name: differential pressure switch",
+      "core_id": 586.0,
+      "raw_product_name": "DIFFERENTIAL PRESSURE SWITCHES",
+      "list_of_product_ids": [
+        "10086",
+        "10087",
+        "10092",
+        "10093",
+        "10236",
+        "12720",
+        "12722",
+        "12731",
+        "12901",
+        "12906",
+        "15173",
+        "16825",
+        "18164",
+        "23111",
+        "37046",
+        "35677"
+      ]
+    },
+    {
+      "retrieval_score": 0.8525473,
+      "text": "core_product_name: control switch",
+      "core_id": 462.0,
+      "raw_product_name": "CONTROL SWITCH",
+      "list_of_product_ids": [
+        "140",
+        "491",
+        "529",
+        "838",
+        "269"
+      ]
+    },
+    {
+      "retrieval_score": 0.85232043,
+      "text": "core_product_name: pressure indicating controller",
+      "core_id": 1772.0,
+      "raw_product_name": "PRESSURE INDICATING CONTROLLERS",
+      "list_of_product_ids": [
+        "17056",
+        "17059",
+        "17058",
+        "17057",
+        "28751",
+        "36365",
+        "40118"
+      ]
+    },
+    {
+      "retrieval_score": 0.85216314,
+      "text": "core_product_name: switch plate",
+      "core_id": 2169.0,
+      "raw_product_name": "SWITCH PLATE",
+      "list_of_product_ids": [
+        "20511",
+        "20547",
+        "20587",
+        "20634",
+        "20689",
+        "20747"
+      ]
+    },
+    {
+      "retrieval_score": 0.85201675,
+      "text": "core_product_name: electrical actuator",
+      "core_id": 702.0,
+      "raw_product_name": "ELECTRICAL ACTUATORS",
+      "list_of_product_ids": [
+        "13854",
+        "19083",
+        "20219",
+        "22224",
+        "22220",
+        "40240"
+      ]
+    },
+    {
+      "retrieval_score": 0.8519067,
+      "text": "core_product_name: switchgear",
+      "core_id": 1178.0,
+      "raw_product_name": "SWITCHGEAR",
+      "list_of_product_ids": [
+        "20771",
+        "20773",
+        "21200",
+        "27083",
+        "36613",
+        "36676",
+        "35358"
+      ]
+    },
+    {
+      "retrieval_score": 0.85161114,
+      "text": "core_product_name: electrical spare",
+      "core_id": 710.0,
+      "raw_product_name": "ELECTRICAL SPARES",
+      "list_of_product_ids": [
+        "207",
+        "782",
+        "077",
+        "728",
+        "462"
+      ]
+    },
+    {
+      "retrieval_score": 0.85149044,
+      "text": "core_product_name: electric crane control equipment",
+      "core_id": 689.0,
+      "raw_product_name": "ELECTRIC CRANE CONTROL EQUIPMENT",
+      "list_of_product_ids": [
+        "20822",
+        "20824",
+        "20826",
+        "20828",
+        "27785"
+      ]
+    }
+  ]
+}

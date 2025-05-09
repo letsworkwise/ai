@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: grooved equal tee | size: tee size: 200 NB",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: tee fitting",
+        "raw_product_name": "FITTINGS \u001fTEES",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: unequal tee",
+        "raw_product_name": "UNEQUAL TEE",
+        "list_of_product_ids": [
+          "15470",
+          "27764",
+          "27754",
+          "27744",
+          "27734",
+          "27724",
+          "27777"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: barred tee",
+        "raw_product_name": "BARRED TEE",
+        "list_of_product_ids": [
+          "14187",
+          "22417",
+          "27760",
+          "27750",
+          "27740",
+          "27730",
+          "27720",
+          "27781",
+          "36527"
+        ]
+      }
+    }
+  ]
+}

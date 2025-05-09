@@ -1,0 +1,94 @@
+{
+  "query": "core_product_name: pressure gauge | size: range: 0~6 kg/cm2 | feature_or_specifications: type: bourdon, protection: IP-66, bourdon material: ss316 (stainless steel 316), feature: zero adjustment facility, pointer: micrometer screw type, accuracy: ±1%, accessories: all accessories",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: pressure gauge",
+        "raw_product_name": "PRESSURE GAUGES",
+        "list_of_product_ids": [
+          "6566",
+          "5736",
+          "9044",
+          "9045",
+          "9453",
+          "9239",
+          "9160",
+          "12718",
+          "12728",
+          "12829",
+          "12831",
+          "13206",
+          "14225",
+          "16560",
+          "16615",
+          "16593",
+          "16586",
+          "18215",
+          "18883",
+          "18929",
+          "18983",
+          "19504",
+          "21561",
+          "31684",
+          "31592",
+          "31593",
+          "37411",
+          "37410",
+          "36585",
+          "37680",
+          "33015",
+          "36619",
+          "33202",
+          "33267",
+          "38194",
+          "33569",
+          "33640",
+          "38210",
+          "38211",
+          "37654",
+          "35194",
+          "35929",
+          "35966",
+          "35973",
+          "37653"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: gauge",
+        "raw_product_name": "ROCHESTER GAUGE",
+        "list_of_product_ids": [
+          "13848",
+          "13850",
+          "15244",
+          "15258",
+          "21980",
+          "37412"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: compound gauge",
+        "raw_product_name": "COMPOUND GAUGE",
+        "list_of_product_ids": [
+          "16562",
+          "16548",
+          "16617",
+          "16592",
+          "16588",
+          "27801"
+        ]
+      }
+    }
+  ]
+}

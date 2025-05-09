@@ -1,0 +1,93 @@
+{
+  "query": "core_product_name: elbow | feature_or_specifications: type: grooved, angle: 90 degrees",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: elbow fitting",
+        "raw_product_name": "FITTINGS \u0013ELBOW",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: elbowlet",
+        "raw_product_name": "ELBOWLET",
+        "list_of_product_ids": [
+          "14395",
+          "14719",
+          "14722",
+          "14725",
+          "19815",
+          "22922"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: fitting | material: Carbon Steel | special_attributes: Seamless",
+        "raw_product_name": "FITTINGS FROM SEAMLESS PIPE-CARBON STEEL",
+        "list_of_product_ids": [
+          "5485",
+          "6314",
+          "11571",
+          "11578",
+          "11589",
+          "11145",
+          "7815",
+          "9302",
+          "9321",
+          "9330",
+          "8079",
+          "8085",
+          "9333",
+          "9401",
+          "9403",
+          "9421",
+          "9425",
+          "9400",
+          "9445",
+          "9458",
+          "9460",
+          "9234",
+          "9315",
+          "9325",
+          "9326",
+          "12101",
+          "12257",
+          "12250",
+          "12264",
+          "12391",
+          "12773",
+          "12737",
+          "12750",
+          "12764",
+          "12806",
+          "13214",
+          "13351",
+          "13353",
+          "13356",
+          "13358",
+          "13369",
+          "17008",
+          "17664",
+          "19788",
+          "37029",
+          "36573",
+          "33432",
+          "34685",
+          "36853"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "query": "core_product_name: flexible pipes | size: diameter: 150 mm",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "construction_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flexible hose | material: SS (Stainless Steel) | construction_features: metallic",
+        "raw_product_name": "HOSE METALLIC FLEXIBLE SS",
+        "list_of_product_ids": [
+          "6001",
+          "5180",
+          "8579",
+          "8584",
+          "8589",
+          "8591",
+          "8565",
+          "8581",
+          "8586",
+          "8590",
+          "8596",
+          "18971"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "construction_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: articulated steel pipe | construction_features: flexible",
+        "raw_product_name": "ROOF DRAIN SYSTEM:ARTICULATED STEEL PIPE WITH FLEXIBLE JOINT",
+        "list_of_product_ids": [
+          "7",
+          "148",
+          "747",
+          "323",
+          "011"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: flexible hose",
+        "raw_product_name": "FLEXIBLE HOSE",
+        "list_of_product_ids": [
+          "13610",
+          "21534",
+          "22871",
+          "39446",
+          "39496",
+          "39703"
+        ]
+      }
+    }
+  ]
+}

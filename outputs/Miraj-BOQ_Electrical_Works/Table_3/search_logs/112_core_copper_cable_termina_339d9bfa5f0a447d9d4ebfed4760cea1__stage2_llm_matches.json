@@ -1,0 +1,90 @@
+{
+  "query": "core_product_name: copper cable termination set | size: core: 2, size: 4 | feature_or_specifications: conductor: copper, includes: double compression brass gland, lugs, cable tags, cable ferrules, cable ties, material: brass, lugs material: copper, as per cable schedule",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": [
+          "32910",
+          "32911",
+          "33009",
+          "33041",
+          "33195",
+          "33260",
+          "33562",
+          "33633",
+          "35922"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": [
+          "6444",
+          "5614",
+          "11000",
+          "12263",
+          "12344",
+          "15781",
+          "23866",
+          "24503"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLES",
+        "list_of_product_ids": [
+          "15455",
+          "13721",
+          "24275",
+          "15161",
+          "16241",
+          "19098",
+          "23820",
+          "23814",
+          "21319",
+          "19315",
+          "23819",
+          "23822",
+          "24273",
+          "23829",
+          "20141",
+          "23831",
+          "24058",
+          "23836",
+          "23909",
+          "23839",
+          "23828",
+          "24685",
+          "24726",
+          "24844",
+          "24955",
+          "31590",
+          "31591",
+          "26436",
+          "26438",
+          "31740",
+          "33330"
+        ]
+      }
+    }
+  ]
+}

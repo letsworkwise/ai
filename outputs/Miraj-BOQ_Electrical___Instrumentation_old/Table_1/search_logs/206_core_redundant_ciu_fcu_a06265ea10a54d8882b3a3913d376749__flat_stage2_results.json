@@ -1,0 +1,429 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8410366,
+      "text": "core_product_name: programmable logic controller | acronymed_core_product_name: plc subsystem",
+      "core_id": 1794.0,
+      "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER (PLC SUBSYSTEM)",
+      "list_of_product_ids": [
+        "13889",
+        "15107",
+        "20015",
+        "20010",
+        "36350",
+        "37195",
+        "36201"
+      ]
+    },
+    {
+      "retrieval_score": 0.84020525,
+      "text": "core_product_name: programmable logic controller",
+      "core_id": 1794.0,
+      "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLERS",
+      "list_of_product_ids": [
+        "6565",
+        "5735",
+        "11164",
+        "10154",
+        "11376",
+        "9379",
+        "9159",
+        "9221",
+        "11902",
+        "12182",
+        "36522",
+        "17895",
+        "18871",
+        "18916",
+        "29683",
+        "30474",
+        "38193",
+        "36169",
+        "36317"
+      ]
+    },
+    {
+      "retrieval_score": 0.8396626,
+      "text": "core_product_name: multitasking control system",
+      "core_id": 1517.0,
+      "raw_product_name": "MULTITASKING CONTROL SYSTEM",
+      "list_of_product_ids": [
+        "236",
+        "102",
+        "358",
+        "523",
+        "572"
+      ]
+    },
+    {
+      "retrieval_score": 0.83604616,
+      "text": "core_product_name: fieldbus configurator",
+      "core_id": 818.0,
+      "raw_product_name": "FIELDBUS CONFIGURATOT",
+      "list_of_product_ids": [
+        "5950",
+        "6779",
+        "10925",
+        "10927",
+        "10924",
+        "10926"
+      ]
+    },
+    {
+      "retrieval_score": 0.8354891,
+      "text": "core_product_name: terminal automation system",
+      "core_id": 2229.0,
+      "raw_product_name": "TERMINAL AUTOMATION SYSTEM",
+      "list_of_product_ids": [
+        "6572",
+        "5742",
+        "10065",
+        "10150",
+        "11898",
+        "19578",
+        "30475"
+      ]
+    },
+    {
+      "retrieval_score": 0.834856,
+      "text": "core_product_name: fume treatment plant",
+      "core_id": 988.0,
+      "raw_product_name": "FUME TREATMENT PLANT",
+      "list_of_product_ids": [
+        "60",
+        "885",
+        "255"
+      ]
+    },
+    {
+      "retrieval_score": 0.83452815,
+      "text": "core_product_name: fieldbus monitor",
+      "core_id": 821.0,
+      "raw_product_name": "FIELDBUS MONITOR",
+      "list_of_product_ids": [
+        "5",
+        "948",
+        "677",
+        "710",
+        "076"
+      ]
+    },
+    {
+      "retrieval_score": 0.83272314,
+      "text": "core_product_name: field bus (fieldbus) transmitter",
+      "core_id": 817.0,
+      "raw_product_name": "FIELD BUS TRANSMITTER",
+      "list_of_product_ids": [
+        "1",
+        "403",
+        "220",
+        "945"
+      ]
+    },
+    {
+      "retrieval_score": 0.8317268,
+      "text": "core_product_name: programmable logic controller system | acronymed_core_product_name: plc system (programmable logic controller)",
+      "core_id": 1704.0,
+      "raw_product_name": "PLC system (Programmable Logic Controller)",
+      "list_of_product_ids": [
+        "12296",
+        "12295",
+        "12297",
+        "12301",
+        "14199",
+        "14322",
+        "14405",
+        "14406",
+        "17988",
+        "17987",
+        "17986",
+        "17985",
+        "17984",
+        "17983",
+        "20020",
+        "20145",
+        "20144",
+        "37679",
+        "36223",
+        "36375"
+      ]
+    },
+    {
+      "retrieval_score": 0.8317188,
+      "text": "core_product_name: programmable logic controller-fire and gas system | acronymed_core_product_name: PLC-FGS",
+      "core_id": 1706.0,
+      "raw_product_name": "PLC-FGS",
+      "list_of_product_ids": [
+        "13801",
+        "15110",
+        "20985",
+        "23214",
+        "36204",
+        "36353"
+      ]
+    },
+    {
+      "retrieval_score": 0.8315596,
+      "text": "core_product_name: plant communication system",
+      "core_id": 1696.0,
+      "raw_product_name": "PLANT COMMUNICATION SYSTEM",
+      "list_of_product_ids": [
+        "9",
+        "484",
+        "958",
+        "414",
+        "803"
+      ]
+    },
+    {
+      "retrieval_score": 0.8311408,
+      "text": "core_product_name: power management system",
+      "core_id": 1744.0,
+      "raw_product_name": "POWER MANAGEMENT SYSTEM",
+      "list_of_product_ids": [
+        "138",
+        "561",
+        "462",
+        "423",
+        "212"
+      ]
+    },
+    {
+      "retrieval_score": 0.830682,
+      "text": "core_product_name: fusible plug",
+      "core_id": 992.0,
+      "raw_product_name": "FUSIBLE PLUGS",
+      "list_of_product_ids": [
+        "136",
+        "943",
+        "554",
+        "535",
+        "978"
+      ]
+    },
+    {
+      "retrieval_score": 0.8304338,
+      "text": "core_product_name: technological control system",
+      "core_id": 2209.0,
+      "raw_product_name": "TECHNOLOGICAL CONTROL SYSTEM",
+      "list_of_product_ids": [
+        "236",
+        "112",
+        "356",
+        "823",
+        "584"
+      ]
+    },
+    {
+      "retrieval_score": 0.8303387,
+      "text": "core_product_name: telecommunication system",
+      "core_id": 2212.0,
+      "raw_product_name": "TELECOMMUNICATION SYSTEM",
+      "list_of_product_ids": [
+        "14203",
+        "18336",
+        "22435",
+        "36100"
+      ]
+    },
+    {
+      "retrieval_score": 0.8302331,
+      "text": "core_product_name: fluid power equipment",
+      "core_id": 949.0,
+      "raw_product_name": "FLUID POWER EQUIPMENT",
+      "list_of_product_ids": [
+        "1",
+        "364",
+        "936",
+        "946"
+      ]
+    },
+    {
+      "retrieval_score": 0.8293422,
+      "text": "core_product_name: control panel integrator",
+      "core_id": 456.0,
+      "raw_product_name": "CONTROL PANEL INTEGRATORS",
+      "list_of_product_ids": [
+        "15419",
+        "15451",
+        "15452",
+        "15453",
+        "18527",
+        "18545",
+        "24835",
+        "24823",
+        "24937",
+        "24949"
+      ]
+    },
+    {
+      "retrieval_score": 0.8293345,
+      "text": "core_product_name: oil purification unit",
+      "core_id": 1612.0,
+      "raw_product_name": "Oil Purification Unit",
+      "list_of_product_ids": [
+        "13817",
+        "15181",
+        "15188",
+        "15179",
+        "15187",
+        "20148"
+      ]
+    },
+    {
+      "retrieval_score": 0.8291092,
+      "text": "core_product_name: multi-combination meter",
+      "core_id": 1514.0,
+      "raw_product_name": "MULTI-COMBINATION METER",
+      "list_of_product_ids": [
+        "137",
+        "821",
+        "494",
+        "616",
+        "620"
+      ]
+    },
+    {
+      "retrieval_score": 0.82862735,
+      "text": "core_product_name: electrical terminal",
+      "core_id": 712.0,
+      "raw_product_name": "ELECTRICAL TERMINALS",
+      "list_of_product_ids": [
+        "21153",
+        "21157",
+        "28575",
+        "36610"
+      ]
+    },
+    {
+      "retrieval_score": 0.82837254,
+      "text": "core_product_name: two way valve",
+      "core_id": 2302.0,
+      "raw_product_name": "TWO WAY VALVES",
+      "list_of_product_ids": [
+        "7595",
+        "7270",
+        "8602",
+        "22888"
+      ]
+    },
+    {
+      "retrieval_score": 0.8283639,
+      "text": "core_product_name: membrane unit",
+      "core_id": 1459.0,
+      "raw_product_name": "MEMBRANE UNIT",
+      "list_of_product_ids": [
+        "2",
+        "450",
+        "226",
+        "824"
+      ]
+    },
+    {
+      "retrieval_score": 0.82771766,
+      "text": "core_product_name: embedded control system",
+      "core_id": 737.0,
+      "raw_product_name": "EMBEDDED CONTROL SYSTEM",
+      "list_of_product_ids": [
+        "236",
+        "092",
+        "358",
+        "623",
+        "573"
+      ]
+    },
+    {
+      "retrieval_score": 0.82764095,
+      "text": "core_product_name: transformer-rectifier unit",
+      "core_id": 2273.0,
+      "raw_product_name": "TRANSFORMER-RECTIFIER UNIT",
+      "list_of_product_ids": [
+        "21792",
+        "21799",
+        "27105",
+        "35396"
+      ]
+    },
+    {
+      "retrieval_score": 0.8275485,
+      "text": "core_product_name: integrated platform management system",
+      "core_id": 1279.0,
+      "raw_product_name": "INTEGRATED PLATFORM MANAGEMENT SYSTEM",
+      "list_of_product_ids": [
+        "211",
+        "672",
+        "116",
+        "628",
+        "573"
+      ]
+    },
+    {
+      "retrieval_score": 0.82723475,
+      "text": "core_product_name: modularisation package",
+      "core_id": 1496.0,
+      "raw_product_name": "MODULARISATION PACKAGE",
+      "list_of_product_ids": [
+        "5978",
+        "5150",
+        "22801",
+        "17387"
+      ]
+    },
+    {
+      "retrieval_score": 0.82690907,
+      "text": "core_product_name: fieldbus tester",
+      "core_id": 823.0,
+      "raw_product_name": "FIELDBUS TESTER",
+      "list_of_product_ids": [
+        "5",
+        "949",
+        "677",
+        "810",
+        "923"
+      ]
+    },
+    {
+      "retrieval_score": 0.8268332,
+      "text": "core_product_name: cathodic protection power supply module",
+      "core_id": 315.0,
+      "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+      "list_of_product_ids": [
+        "6413",
+        "5583",
+        "8417",
+        "12209"
+      ]
+    },
+    {
+      "retrieval_score": 0.8265011,
+      "text": "core_product_name: terminal box",
+      "core_id": 2230.0,
+      "raw_product_name": "TERMINAL BOX",
+      "list_of_product_ids": [
+        "141",
+        "951",
+        "736",
+        "936",
+        "609"
+      ]
+    },
+    {
+      "retrieval_score": 0.82650083,
+      "text": "core_product_name: fast bus transfer panel",
+      "core_id": 801.0,
+      "raw_product_name": "FAST BUS TRANSFER PANEL",
+      "list_of_product_ids": [
+        "14205",
+        "36918",
+        "22097",
+        "24831",
+        "24819",
+        "24934",
+        "24945",
+        "33490",
+        "33680",
+        "36146"
+      ]
+    }
+  ]
+}

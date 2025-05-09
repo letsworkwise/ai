@@ -1,0 +1,62 @@
+{
+  "query": "core_product_name: smart type tank side indicator for servo gauge | feature_or_specifications: location: lpg pump house, interfacing: servo gauge, process plc (programmable logic controller), safety plc, quantity per msv: 1",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: tank level instrument | type_or_class: Servo Type",
+        "raw_product_name": "TANK LEVEL INSTRUMENT (SERVO TYPE)",
+        "list_of_product_ids": [
+          "6586",
+          "5756",
+          "11687",
+          "11696",
+          "11712",
+          "13222",
+          "15090",
+          "15248",
+          "15262",
+          "21060",
+          "36107",
+          "36185",
+          "36333"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: level indicator | type_or_class: Servo Type TGM",
+        "raw_product_name": "LEVEL INDICATORS (SERVO TYPE TGM)",
+        "list_of_product_ids": [
+          "13980"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: magnetic liquid level indicator",
+        "raw_product_name": "MAGNETIC LIQUID LEVEL INDICATOR",
+        "list_of_product_ids": [
+          "218",
+          "652",
+          "186",
+          "428",
+          "600"
+        ]
+      }
+    }
+  ]
+}

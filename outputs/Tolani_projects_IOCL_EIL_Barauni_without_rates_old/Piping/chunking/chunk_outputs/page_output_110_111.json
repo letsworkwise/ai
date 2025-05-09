@@ -1,0 +1,50 @@
+{
+  "sheet_name": "Piping",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; fabrication including cutting, edge preparation, (inclusive of grinding the edges of pipe, pipe spools, fittings, flanges etc. to match with the mating edges of uneven/different thickness wherever required); fitup, bending, preheating wherever required, welding, threading, and laying of pipes and pipe spools (spools along with supports) of all types and thickness over sleepers, overhead on racks and at all elevations, hook-ups with existing piping, connecting with equipment nozzles, strainers, steam traps, static mixers, sight flow indicators, thermal sleeve, orifice assemblies, spray nozzles, rotameters, tappings for pressure gauges, thermowells, sample connections, sample coolers, closed sample system cabinets etc. and fixing of gaskets, bolts, nuts including application of torque wherever required & all other inline instruments and fittings, like elbows, reducers, tees, flanges, spectacle blinds and spacer&blinds, piping specials such as mitres and fabricated fittings, vents, drains (but excluding reinforcing  pads), SW valves upto 1.5 NB, Steam Supply/ Condensate Recovery stations(Cast/Fabricated), Supply & welding of Strip as per EIL Std 7-51-0112 to all pipes before hydro-testing at exit points of Units for earthing purpose; alignment, cleaning & flushing by water/compressed air, hydrostatic, pneumatic, vacuum, spark testing and any other type of testing as specified draining, drying by compressed air, performing Positive Material Identification(PMI) using alloy analysers, completing all such works in all respects (including preparation of isometrics as mentioned in the Scope of Work for the job) as per the specifications, drawings and instructions of Engineer-in-Charge. PMI shall be performed by third party as defined in PMI spec.Rates for tubing (if any) shall include rates for valves, fittings, all in line instruments and testing etc. Carbon steel piping includes LTCS piping also. Erection  of all inline instruments like flow instruments & specialty items like static mixers, sample coolers, thermal sleeve, air mixers, exhaust head, rupture disk, flow meters, venturi tube, flame arrestor, thermal flow switch etc. except valve shall be considered as part of piping and separate payment shall not be made on this account.",
+      "full_product_description": "FLANGE ASSEMBLIES NB 08.00     INCHES; THICKNESS  55 MM",
+      "core_product_name": "flange assemblies",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 8.00 inches, thickness: 55 mm",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; fabrication including cutting, edge preparation, (inclusive of grinding the edges of pipe, pipe spools, fittings, flanges etc. to match with the mating edges of uneven/different thickness wherever required); fitup, bending, preheating wherever required, welding, threading, and laying of pipes and pipe spools (spools along with supports) of all types and thickness over sleepers, overhead on racks and at all elevations, hook-ups with existing piping, connecting with equipment nozzles, strainers, steam traps, static mixers, sight flow indicators, thermal sleeve, orifice assemblies, spray nozzles, rotameters, tappings for pressure gauges, thermowells, sample connections, sample coolers, closed sample system cabinets etc. and fixing of gaskets, bolts, nuts including application of torque wherever required & all other inline instruments and fittings, like elbows, reducers, tees, flanges, spectacle blinds and spacer&blinds, piping specials such as mitres and fabricated fittings, vents, drains (but excluding reinforcing  pads), SW valves upto 1.5 NB, Steam Supply/ Condensate Recovery stations(Cast/Fabricated), Supply & welding of Strip as per EIL Std 7-51-0112 to all pipes before hydro-testing at exit points of Units for earthing purpose; alignment, cleaning & flushing by water/compressed air, hydrostatic, pneumatic, vacuum, spark testing and any other type of testing as specified draining, drying by compressed air, performing Positive Material Identification(PMI) using alloy analysers, completing all such works in all respects (including preparation of isometrics as mentioned in the Scope of Work for the job) as per the specifications, drawings and instructions of Engineer-in-Charge. PMI shall be performed by third party as defined in PMI spec.Rates for tubing (if any) shall include rates for valves, fittings, all in line instruments and testing etc. Carbon steel piping includes LTCS piping also. Erection  of all inline instruments like flow instruments & specialty items like static mixers, sample coolers, thermal sleeve, air mixers, exhaust head, rupture disk, flow meters, venturi tube, flame arrestor, thermal flow switch etc. except valve shall be considered as part of piping and separate payment shall not be made on this account.",
+      "full_product_description": "FLANGE ASSEMBLIES NB 04.00     INCHES; THICKNESS  50 MM",
+      "core_product_name": "flange assemblies",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 4.00 inches, thickness: 50 mm",
+      "feature_or_specifications": "",
+      "quantity": "23.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      110,
+      110
+    ],
+    "original_rows": [
+      {
+        "0": 111,
+        "1": 0,
+        "2": "M60118041310",
+        "3": "NB 04.00     INCHES; THICKNESS  50 MM",
+        "4": 23.0,
+        "5": "NOs",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2867,
+    "completion_tokens": 738
+  }
+}

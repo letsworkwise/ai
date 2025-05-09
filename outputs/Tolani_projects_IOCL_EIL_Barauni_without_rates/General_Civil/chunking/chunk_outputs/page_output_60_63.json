@@ -1,0 +1,106 @@
+{
+  "sheet_name": "General Civil",
+  "boq_context": "Sl. No. | PART NO | ITEM NO | DESCRIPTION | QTY | UOM | RATE | AMOUNT | TPPL Rate | Amount\n649 | 0 | 01GC | GENERAL CIVIL |  |  |  |  |  | \n650 | 0 | 01GC.5 | SITE GRADING & ROCK CUTTING FOR SITE GRADING |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 707 | ITEM NO 01GC.40.20.1.3.2 | NB 2 inch - 6 inch",
+      "core_product_name": "erection of cs(carbon steel) piping (non ibr) for waste water collection system (gravity flow)",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 2 inch - 6 inch, thickness: <=10 mm",
+      "feature_or_specifications": "system: waste water collection (gravity flow), feature: corrosion protection coating of field joints",
+      "quantity": "1560.0",
+      "unit": "Inch Mtr"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 708 | ITEM NO 01GC.40.20.1.3.3 | NB 8 inch - 14 inch",
+      "core_product_name": "erection of cs(carbon steel) piping (non ibr) for waste water collection system (gravity flow)",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 8 inch - 14 inch, thickness: <=10 mm",
+      "feature_or_specifications": "system: waste water collection (gravity flow), feature: corrosion protection coating of field joints",
+      "quantity": "3200.0",
+      "unit": "Inch Mtr"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 710 | ITEM NO 01GC.52.1 | Repairing of the 3LPE coating of the pipe by Coating of pipe and fittings with Liquid epoxy coating (EP) as per DIN EN 10289, Class C, Type 3 including supply of coating material, inspection and testing for the coating as per specification and directions of Engineer-in-Charge.",
+      "core_product_name": "repairing of 3lpe coating of pipe and fittings with liquid epoxy coating",
+      "acronymed_core_product_name": "ep coating",
+      "size": "",
+      "feature_or_specifications": "standard: din en 10289 class c type 3, feature: supply of coating material, feature: inspection and testing for the coating as per specification and directions of engineer-in-charge",
+      "quantity": "1.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 711 | ITEM NO 01GC.52.2 | Coating of pipe and fittings with Liquid epoxy coating (EP) as per DIN EN 10289, Class C, Type 3 at site including supply of coating material, inspection and testing for the coating as per specification and directions of Engineer-in-Charge",
+      "core_product_name": "coating of pipe and fittings with liquid epoxy coating",
+      "acronymed_core_product_name": "ep coating",
+      "size": "",
+      "feature_or_specifications": "standard: din en 10289 class c type 3, feature: at site, feature: supply of coating material, feature: inspection and testing for the coating as per specification and directions of engineer-in-charge",
+      "quantity": "25.0",
+      "unit": "m²"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      60,
+      62
+    ],
+    "original_rows": [
+      {
+        "0": 709,
+        "1": 0,
+        "2": "01GC.52",
+        "3": "3LPE coating",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 710,
+        "1": 0,
+        "2": "01GC.52.1",
+        "3": "Repairing of the 3LPE coating of the pipe by Coating of pipe and fittings with Liquid epoxy coating (EP) as per DIN EN 10289, Class C, Type 3 including supply of coating material, inspection and testing for the coating as per specification and directions of Engineer-in-Charge.",
+        "4": 1.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 711,
+        "1": 0,
+        "2": "01GC.52.2",
+        "3": "Coating of pipe and fittings with Liquid epoxy coating (EP) as per DIN EN 10289, Class C, Type 3 at site including supply of coating material, inspection and testing for the coating as per specification and directions of Engineer-in-Charge",
+        "4": 25.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2334,
+    "completion_tokens": 789
+  }
+}

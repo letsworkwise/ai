@@ -1,0 +1,82 @@
+{
+  "query": "core_product_name: plate electrode earthing station | size: inspection chamber: 400(L)x400(W)x450(D)mm, thickness: 150mm, copper plate: 600x600x3mm, GI line: 15mm, watering line: 50mm, connecting clamps: 3 meter length | feature_or_specifications: standard: IS3043(indian standard 3043) - 2018, standard: NBC 2016(national building code 2016), cover: CI(cast iron), frame: CI(cast iron), mixture: salt & charcoal, bolts & nuts: M10, clamps: universal stainless steel, strips: 75x6 Cu, bolts & nuts: brass, compliance: full compliance with IS:3043 - 2018 Earthing Standards/ NBC 2016 (latest), excavation: 400(W & L), back filling: around the Plate",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: plate | material: Cast Iron",
+        "raw_product_name": "CAST IRON PLATE",
+        "list_of_product_ids": [
+          "399",
+          "713",
+          "996",
+          "039",
+          "973"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: plate | material: Steel",
+        "raw_product_name": "STEEL PLATE",
+        "list_of_product_ids": [
+          "15457",
+          "15466",
+          "14057",
+          "15473",
+          "15475",
+          "15478",
+          "15836",
+          "19346",
+          "18374",
+          "18349",
+          "19348",
+          "21285",
+          "22300",
+          "22845",
+          "21288",
+          "22303",
+          "26241",
+          "29274",
+          "29273",
+          "29270",
+          "38270",
+          "38278",
+          "36661",
+          "36651",
+          "37396"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: plate | material: Stainless Steel",
+        "raw_product_name": "STAINLESS STEEL PLATE",
+        "list_of_product_ids": [
+          "29507",
+          "29508",
+          "29506",
+          "29509",
+          "29511",
+          "29510",
+          "29535",
+          "32724"
+        ]
+      }
+    }
+  ]
+}

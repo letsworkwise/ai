@@ -1,0 +1,55 @@
+{
+  "query": "core_product_name: aluminum cable termination set | size: core: 3.5, size: 35 | feature_or_specifications: conductor: aluminum, includes: double compression brass gland, lugs, cable tags, cable ferrules, cable ties, material: brass, lugs material: aluminum, as per cable schedule",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: fabricated component | material: Aluminium",
+        "raw_product_name": "ALUMINIUM FABRICATED COMPONENT",
+        "list_of_product_ids": [
+          "23962",
+          "23964",
+          "23963",
+          "28691"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: structural | material: Aluminium",
+        "raw_product_name": "STRUCTURAL ALUMINIUM",
+        "list_of_product_ids": [
+          "234",
+          "572",
+          "603",
+          "826",
+          "686"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cast product | material: Aluminium",
+        "raw_product_name": "CAST ALUMINIUM",
+        "list_of_product_ids": [
+          "249",
+          "682",
+          "496",
+          "726",
+          "776"
+        ]
+      }
+    }
+  ]
+}

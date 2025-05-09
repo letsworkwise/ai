@@ -1,0 +1,111 @@
+{
+  "query": "core_product_name: pressure gauge and transmitter test bench set | feature_or_specifications: accessories: oil + 2 liter oil as spare",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: instrument test bench",
+        "raw_product_name": "INSTRUMENT TEST BENCH",
+        "list_of_product_ids": [
+          "5964",
+          "6792",
+          "10935",
+          "10928"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: pressure gauge",
+        "raw_product_name": "PRESSURE GAUGES",
+        "list_of_product_ids": [
+          "6566",
+          "5736",
+          "9044",
+          "9045",
+          "9453",
+          "9239",
+          "9160",
+          "12718",
+          "12728",
+          "12829",
+          "12831",
+          "13206",
+          "14225",
+          "16560",
+          "16615",
+          "16593",
+          "16586",
+          "18215",
+          "18883",
+          "18929",
+          "18983",
+          "19504",
+          "21561",
+          "31684",
+          "31592",
+          "31593",
+          "37411",
+          "37410",
+          "36585",
+          "37680",
+          "33015",
+          "36619",
+          "33202",
+          "33267",
+          "38194",
+          "33569",
+          "33640",
+          "38210",
+          "38211",
+          "37654",
+          "35194",
+          "35929",
+          "35966",
+          "35973",
+          "37653"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: pressure transmitter",
+        "raw_product_name": "PRESSURE TRANSMITTER",
+        "list_of_product_ids": [
+          "10037",
+          "10038",
+          "10043",
+          "10159",
+          "10626",
+          "9515",
+          "9555",
+          "36531",
+          "15313",
+          "17103",
+          "17110",
+          "18208",
+          "24110",
+          "19474",
+          "20012",
+          "20022",
+          "20017",
+          "35953",
+          "36165",
+          "36313",
+          "36510"
+        ]
+      }
+    }
+  ]
+}

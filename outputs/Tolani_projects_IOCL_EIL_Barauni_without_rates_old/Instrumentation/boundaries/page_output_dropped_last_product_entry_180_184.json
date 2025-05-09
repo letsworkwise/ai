@@ -1,0 +1,106 @@
+{
+  "sheet_name": "Instrumentation",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "INSTRUMENTATION > MISCELLANEOUS ITEMS AND DEVICES > JUNCTION BOX INSTALLATION > GENERAL SITE WORK",
+      "full_product_description": "Identification of instrument items wherever required including supply of approved  colour of paint/ paints (Fluorescent), painting of tag number (approx 25-50 mm high)on instrument item like transmitter, switches, level gauges, control valves etc. as specified by Engineer-in-Charge.",
+      "core_product_name": "identification of instrument items",
+      "size": "tag number height: approx 25-50 mm",
+      "feature_or_specifications": "paint type: fluorescent, feature: supply of approved colour of paint/paints, feature: painting of tag number on instrument item like transmitter, switches, level gauges, control valves etc., specification: as specified by Engineer-in-Charge",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENTATION > MISCELLANEOUS ITEMS AND DEVICES > JUNCTION BOX INSTALLATION > GENERAL SITE WORK",
+      "full_product_description": "Identification of instrument items",
+      "core_product_name": "identification of instrument items",
+      "size": "",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "100.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENTATION > MISCELLANEOUS ITEMS AND DEVICES > JUNCTION BOX INSTALLATION > GENERAL SITE WORK",
+      "full_product_description": "CHIEF CONTROLLER OF EXPLOSIVE( CCE) CERTIFICATES FOR FIELD ELECTRICAL/ ELECTRONIC INSTRUMENTS & ACCESSORIES AND EQUIPMENTS",
+      "core_product_name": "chief controller of explosive certificates for field electrical or electronic instruments and accessories and equipments",
+      "size": "",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "cce certificates for field electrical or electronic instruments and accessories and equipments",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENTATION > MISCELLANEOUS ITEMS AND DEVICES > JUNCTION BOX INSTALLATION > GENERAL SITE WORK",
+      "full_product_description": "Obtaining  certificate of approval from Chief Controller Of Explosives( CCE) for field electrical/electronic  instruments & accessories  and equipments  based on type test certificate made available from the instrument vendors including submission of  application to statutory authorities , necessary fees, all test certificates, equipment drawings in required volumes, interaction with the authorities, follow-up for  approval, obtaining necessary approval certificate before energization of field electrical/electronic  instruments & accessories  and equipments.",
+      "core_product_name": "certificate of approval from chief controller of explosives for field electrical or electronic instruments and accessories and equipments",
+      "size": "",
+      "feature_or_specifications": "based on: type test certificate made available from the instrument vendors, includes: submission of application to statutory authorities, necessary fees, all test certificates, equipment drawings in required volumes, interaction with the authorities, follow-up for approval, obtaining necessary approval certificate before energization",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      180,
+      183
+    ],
+    "original_rows": [
+      {
+        "0": 422,
+        "1": 0,
+        "2": "01II.900.40",
+        "3": "Identification of instrument items wherever required including supply of approved  colour of paint/ paints (Fluorescent), painting of tag number (approx 25-50 mm high)on instrument item like transmitter, switches, level gauges, control valves etc. as specified by Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 423,
+        "1": 0,
+        "2": "01II.900.40.1",
+        "3": "Identification of instrument items",
+        "4": 100.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 424,
+        "1": 0,
+        "2": "01II.900.60",
+        "3": "CHIEF CONTROLLER OF EXPLOSIVE( CCE) CERTIFICATES FOR FIELD ELECTRICAL/ ELECTRONIC INSTRUMENTS & ACCESSORIES AND EQUIPMENTS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 425,
+        "1": 0,
+        "2": "01II.900.60.1",
+        "3": "Obtaining  certificate of approval from Chief Controller Of Explosives( CCE) for field electrical/electronic  instruments & accessories  and equipments  based on type test certificate made available from the instrument vendors including submission of  application to statutory authorities , necessary fees, all test certificates, equipment drawings in required volumes, interaction with the authorities, follow-up for  approval, obtaining necessary approval certificate before energization of field electrical/electronic  instruments & accessories  and equipments.",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2361,
+    "completion_tokens": 715
+  }
+}

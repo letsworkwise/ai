@@ -1,0 +1,76 @@
+{
+  "query": "core_product_name: u-bolted mechanical tee | size: tee size: 50 x 15 NB | feature_or_specifications: feature: threaded for fixing sprinkler nozzles, feature: u-bolted",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: tee fitting",
+        "raw_product_name": "FITTINGS \u0013TEES",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: flow tee",
+        "raw_product_name": "FLOW TEE",
+        "list_of_product_ids": [
+          "5371",
+          "6067",
+          "11152",
+          "11151",
+          "10737",
+          "11283",
+          "10560",
+          "12908",
+          "15980",
+          "17555",
+          "27536",
+          "27759",
+          "27749",
+          "27739",
+          "27729",
+          "27719",
+          "27782",
+          "36526"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: scrapper tee",
+        "raw_product_name": "SCRAPPER TEES",
+        "list_of_product_ids": [
+          "13878",
+          "14911",
+          "15978",
+          "16124",
+          "17264",
+          "17263",
+          "17262",
+          "17550",
+          "18295",
+          "27762",
+          "27752",
+          "27742",
+          "27732",
+          "27722",
+          "27779",
+          "34727",
+          "34729",
+          "34855"
+        ]
+      }
+    }
+  ]
+}

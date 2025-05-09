@@ -1,0 +1,78 @@
+{
+  "query": "core_product_name: weatherproof local control station | feature_or_specifications: weatherproof: yes, feature: start/stop push button, canopy: FRP(fiber reinforced plastic), ammeter: with",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: weatherproof control station | protection_features: Weatherproof",
+        "raw_product_name": "CONTROL STATIONS- WEATHERPROOF",
+        "list_of_product_ids": [
+          "6395",
+          "5566",
+          "10308",
+          "10609",
+          "9189",
+          "9211",
+          "9212",
+          "9294",
+          "9188",
+          "9190",
+          "9303",
+          "9376",
+          "19438",
+          "24491",
+          "24489",
+          "24494",
+          "24493",
+          "38268",
+          "35766"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: local control station",
+        "raw_product_name": "LOCAL CONTROL STATIONS",
+        "list_of_product_ids": [
+          "99",
+          "911",
+          "003",
+          "018",
+          "831"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: fitting | material: FRP (Fibre Reinforced Plastic)",
+        "raw_product_name": "FITTINGS - FRP",
+        "list_of_product_ids": [
+          "6320",
+          "5491",
+          "10645",
+          "8114",
+          "13162",
+          "13177",
+          "13192",
+          "13197",
+          "13166",
+          "13186",
+          "17882",
+          "24589",
+          "33989"
+        ]
+      }
+    }
+  ]
+}

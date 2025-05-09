@@ -1,0 +1,469 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8720808,
+      "text": "core_product_name: shock mounting",
+      "core_id": 2016.0,
+      "raw_product_name": "SHOCK MOUNTINGS",
+      "list_of_product_ids": [
+        "22949",
+        "22950",
+        "22953",
+        "28654"
+      ]
+    },
+    {
+      "retrieval_score": 0.86231744,
+      "text": "core_product_name: surge relief valve",
+      "core_id": 2159.0,
+      "raw_product_name": "SURGE RELIEF VALVE",
+      "list_of_product_ids": [
+        "6505",
+        "5676",
+        "12130",
+        "22347",
+        "28768"
+      ]
+    },
+    {
+      "retrieval_score": 0.86099225,
+      "text": "core_product_name: surge protection device",
+      "core_id": 2156.0,
+      "raw_product_name": "SURG PROTECTION DEVICES",
+      "list_of_product_ids": [
+        "5954",
+        "6782",
+        "12132",
+        "14671",
+        "14679",
+        "18191",
+        "20174",
+        "36159"
+      ]
+    },
+    {
+      "retrieval_score": 0.8609492,
+      "text": "core_product_name: effluent treatment package",
+      "core_id": 674.0,
+      "raw_product_name": "EFFLUENT TREATMENT PACKAGE",
+      "list_of_product_ids": [
+        "16664",
+        "16663",
+        "27091",
+        "36681",
+        "39075",
+        "39143",
+        "39151",
+        "39158",
+        "39198",
+        "39239"
+      ]
+    },
+    {
+      "retrieval_score": 0.85982776,
+      "text": "core_product_name: extenuating circumstances panel | acronymed_core_product_name: ec panel",
+      "core_id": 775.0,
+      "raw_product_name": "EXTENUATING CIRCUMSTANCES PANEL(EC PANEL)",
+      "list_of_product_ids": [
+        "17150",
+        "17144",
+        "17164",
+        "36912",
+        "24837",
+        "24839",
+        "24825",
+        "24939",
+        "24951",
+        "33477",
+        "33675"
+      ]
+    },
+    {
+      "retrieval_score": 0.85847497,
+      "text": "core_product_name: tube suppression system",
+      "core_id": 2284.0,
+      "raw_product_name": "TUBE SUPPRESSION SYSTEM",
+      "list_of_product_ids": [
+        "3",
+        "247",
+        "232",
+        "473"
+      ]
+    },
+    {
+      "retrieval_score": 0.8576861,
+      "text": "core_product_name: extraction column | acronymed_core_product_name: dso extraction column",
+      "core_id": 636.0,
+      "raw_product_name": "DSO EXTRACTION COLUMN",
+      "list_of_product_ids": [
+        "6",
+        "021",
+        "520",
+        "012",
+        "349"
+      ]
+    },
+    {
+      "retrieval_score": 0.85763806,
+      "text": "core_product_name: chemical dosing package",
+      "core_id": 342.0,
+      "raw_product_name": "CHEMICAL DOSING PACKAGE",
+      "list_of_product_ids": [
+        "13826",
+        "17270",
+        "18588",
+        "18704",
+        "21025",
+        "21019",
+        "21014",
+        "20999",
+        "39189",
+        "39203"
+      ]
+    },
+    {
+      "retrieval_score": 0.8559111,
+      "text": "core_product_name: surge suppressor",
+      "core_id": 2162.0,
+      "raw_product_name": "SURGE SUPPRESSORS",
+      "list_of_product_ids": [
+        "20136",
+        "20158",
+        "20422",
+        "20469",
+        "20510",
+        "20447"
+      ]
+    },
+    {
+      "retrieval_score": 0.855266,
+      "text": "core_product_name: relief valve",
+      "core_id": 2370.0,
+      "raw_product_name": "VALVE RELIEF",
+      "list_of_product_ids": [
+        "14046",
+        "15292",
+        "22346",
+        "30833",
+        "36632"
+      ]
+    },
+    {
+      "retrieval_score": 0.8551974,
+      "text": "core_product_name: site fabricated column | acronymed_core_product_name: las (level alarm system) column",
+      "core_id": 396.0,
+      "raw_product_name": "COLUMN-LAS SITE FABRICATED",
+      "list_of_product_ids": [
+        "6688",
+        "5859",
+        "9698",
+        "23521"
+      ]
+    },
+    {
+      "retrieval_score": 0.85479647,
+      "text": "core_product_name: cathodic protection system | acronymed_core_product_name: cp system",
+      "core_id": 503.0,
+      "raw_product_name": "CP SYSTEM",
+      "list_of_product_ids": [
+        "15360",
+        "15379",
+        "15381",
+        "15383",
+        "18186",
+        "19518",
+        "40163",
+        "40168",
+        "40190",
+        "40238",
+        "40233"
+      ]
+    },
+    {
+      "retrieval_score": 0.8546546,
+      "text": "core_product_name: emergency vent",
+      "core_id": 742.0,
+      "raw_product_name": "EMERGENCY VENT",
+      "list_of_product_ids": [
+        "1",
+        "392",
+        "415",
+        "189"
+      ]
+    },
+    {
+      "retrieval_score": 0.85388935,
+      "text": "core_product_name: surge arrester",
+      "core_id": 2163.0,
+      "raw_product_name": "SURGE ARRESTERS",
+      "list_of_product_ids": [
+        "1",
+        "393",
+        "221",
+        "617"
+      ]
+    },
+    {
+      "retrieval_score": 0.85386133,
+      "text": "core_product_name: surge protective device | acronymed_core_product_name: SPD (Surge Protective Device)",
+      "core_id": 2194.0,
+      "raw_product_name": "Surge Protective Devices(SPD)",
+      "list_of_product_ids": [
+        "1",
+        "421",
+        "322",
+        "381"
+      ]
+    },
+    {
+      "retrieval_score": 0.8535878,
+      "text": "core_product_name: surge isolator",
+      "core_id": 2157.0,
+      "raw_product_name": "SURGE ISOLATORS",
+      "list_of_product_ids": [
+        "83",
+        "981",
+        "393",
+        "722",
+        "383"
+      ]
+    },
+    {
+      "retrieval_score": 0.85349363,
+      "text": "core_product_name: stretcher",
+      "core_id": 2126.0,
+      "raw_product_name": "STRETCHER",
+      "list_of_product_ids": [
+        "18818",
+        "28058",
+        "18800",
+        "39316"
+      ]
+    },
+    {
+      "retrieval_score": 0.85346335,
+      "text": "core_product_name: surge barrier",
+      "core_id": 2158.0,
+      "raw_product_name": "SURGE BARRIER",
+      "list_of_product_ids": [
+        "83",
+        "971",
+        "395",
+        "122",
+        "382"
+      ]
+    },
+    {
+      "retrieval_score": 0.8530806,
+      "text": "core_product_name: chemical storage and dosing system",
+      "core_id": 344.0,
+      "raw_product_name": "CHEMICAL STORAGE & DOSING SYSTEM",
+      "list_of_product_ids": [
+        "7053",
+        "7380",
+        "17865",
+        "18358",
+        "21023",
+        "21294",
+        "21252",
+        "21316",
+        "37071",
+        "37082",
+        "39187",
+        "39201"
+      ]
+    },
+    {
+      "retrieval_score": 0.8529684,
+      "text": "core_product_name: safety relief valve",
+      "core_id": 2181.0,
+      "raw_product_name": "Safety Relief Valve",
+      "list_of_product_ids": [
+        "7520",
+        "7194",
+        "10321",
+        "9958",
+        "12013",
+        "12014",
+        "12015",
+        "12091",
+        "12784",
+        "12758",
+        "12775",
+        "17529",
+        "18043",
+        "22348",
+        "36631",
+        "34693",
+        "34695",
+        "34697",
+        "34699",
+        "35702",
+        "36144",
+        "36151",
+        "39885"
+      ]
+    },
+    {
+      "retrieval_score": 0.8529671,
+      "text": "core_product_name: alarm card",
+      "core_id": 83.0,
+      "raw_product_name": "ALARM CARDS",
+      "list_of_product_ids": [
+        "14173",
+        "15213",
+        "20875",
+        "22617"
+      ]
+    },
+    {
+      "retrieval_score": 0.85294586,
+      "text": "core_product_name: rupture disc",
+      "core_id": 1944.0,
+      "raw_product_name": "RUPTURE DISCS",
+      "list_of_product_ids": [
+        "6",
+        "609",
+        "577",
+        "912",
+        "359"
+      ]
+    },
+    {
+      "retrieval_score": 0.85284126,
+      "text": "core_product_name: crushing system",
+      "core_id": 524.0,
+      "raw_product_name": "CRUSHING SYSTEM",
+      "list_of_product_ids": [
+        "6",
+        "102",
+        "526",
+        "924",
+        "674"
+      ]
+    },
+    {
+      "retrieval_score": 0.85238546,
+      "text": "core_product_name: supervisory control and data acquisition system | acronymed_core_product_name: SCADA SYSTEMS",
+      "core_id": 1969.0,
+      "raw_product_name": "SCADA SYSTEMS",
+      "list_of_product_ids": [
+        "6625",
+        "5795",
+        "10073",
+        "11202",
+        "10804",
+        "10871",
+        "10873",
+        "11374",
+        "11377",
+        "30049",
+        "29687",
+        "27063",
+        "30480",
+        "38273",
+        "32770",
+        "36655",
+        "36679",
+        "36002",
+        "36005",
+        "36004",
+        "36003",
+        "36001",
+        "36245",
+        "36398",
+        "36523"
+      ]
+    },
+    {
+      "retrieval_score": 0.85236484,
+      "text": "core_product_name: technological control system",
+      "core_id": 2209.0,
+      "raw_product_name": "TECHNOLOGICAL CONTROL SYSTEM",
+      "list_of_product_ids": [
+        "236",
+        "112",
+        "356",
+        "823",
+        "584"
+      ]
+    },
+    {
+      "retrieval_score": 0.85218495,
+      "text": "core_product_name: choke valve",
+      "core_id": 351.0,
+      "raw_product_name": "CHOKE VALVES",
+      "list_of_product_ids": [
+        "13841",
+        "14896",
+        "20055",
+        "20053",
+        "20081",
+        "22207",
+        "22181",
+        "22180",
+        "22421",
+        "25965",
+        "38003"
+      ]
+    },
+    {
+      "retrieval_score": 0.85185975,
+      "text": "core_product_name: chemical dosing",
+      "core_id": 544.0,
+      "raw_product_name": "Chemical Dosing",
+      "list_of_product_ids": [
+        "7113",
+        "7440",
+        "17470",
+        "18436",
+        "18435",
+        "18484",
+        "39188",
+        "39202"
+      ]
+    },
+    {
+      "retrieval_score": 0.8516777,
+      "text": "core_product_name: special control valve",
+      "core_id": 2075.0,
+      "raw_product_name": "SPECIAL CONTROL VALVES",
+      "list_of_product_ids": [
+        "13990",
+        "18539",
+        "23763",
+        "22458",
+        "22425",
+        "22487",
+        "22480",
+        "38452",
+        "40026"
+      ]
+    },
+    {
+      "retrieval_score": 0.85167545,
+      "text": "core_product_name: cathodic protection system",
+      "core_id": 503.0,
+      "raw_product_name": "Cathodic Protection System",
+      "list_of_product_ids": [
+        "18681",
+        "19166",
+        "21519",
+        "18680",
+        "36550"
+      ]
+    },
+    {
+      "retrieval_score": 0.8514795,
+      "text": "core_product_name: control",
+      "core_id": 1412.0,
+      "raw_product_name": "Level Controls",
+      "list_of_product_ids": [
+        "17068",
+        "17088",
+        "17067",
+        "28601"
+      ]
+    }
+  ]
+}

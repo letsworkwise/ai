@@ -1,0 +1,75 @@
+{
+  "query": "core_product_name: flameproof cum weatherproof repeater panel | feature_or_specifications: protection: flameproof/ex-proof(explosion proof), weatherproof, included: flameproof/ex-proof hooter, indication of fault & lel(lower explosive limit) alarm, connection: gms(gas monitoring system) at cr(control room), included: all cabling & hardware, locations: lpg pump house room for tld, lpg p/h & msv's area gas detectors, filling shed & filled cylinder shed, standard: as per tender specifications",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "protection",
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: hazardous area lighting panel | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF - HAZARDOUS AREA LIGHTING PANEL",
+        "list_of_product_ids": [
+          "19706",
+          "19705",
+          "19702",
+          "19700",
+          "19695",
+          "19670",
+          "27175",
+          "35892",
+          "35945",
+          "40178",
+          "40228"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "protection",
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof lighting and distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF LIGHTING & DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13578",
+          "14601",
+          "14847",
+          "24098"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "protection",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting and power panel | acronymed_core_product_name: FLP (Flameproof) panel | protection_features: Flameproof",
+        "raw_product_name": "LIGHTING & POWER PANELS (FLP)",
+        "list_of_product_ids": [
+          "6418",
+          "5588",
+          "7009",
+          "10306",
+          "10579",
+          "10558",
+          "10588",
+          "10602",
+          "18874",
+          "18920",
+          "22851",
+          "26777",
+          "26773",
+          "26754",
+          "26750",
+          "35770"
+        ]
+      }
+    }
+  ]
+}

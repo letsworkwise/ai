@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: fluorescent luminaire | size: lamp wattage: 1x18 W | feature_or_specifications: type: industrial box base, reflector: vitreous enamelled side, supply: 220V DC, lamp: CFL (compact fluorescent lamp)",
+  "retrieval_results": [
+    {
+      "id": "variant-e86062e6-2903-51eb-9c92-a29d8a2c92b5",
+      "score": 0.8613906,
+      "metadata": {
+        "text": "core_product_name: fluorescent lighting fixture",
+        "raw_product_name": "FLUORESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19025,19023,19021,19019,19164",
+        "core_id": 951.0
+      }
+    },
+    {
+      "id": "variant-eb58eb3c-f1fc-59ff-ba71-ccf7d770f771",
+      "score": 0.8461129,
+      "metadata": {
+        "text": "core_product_name: incandescent lighting fixture",
+        "raw_product_name": "INCANDESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19026,19024,19022,19020,19163",
+        "core_id": 1228.0
+      }
+    },
+    {
+      "id": "variant-cf977c7c-e368-56f7-9ce9-23eb8659bb38",
+      "score": 0.84405375,
+      "metadata": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": "13606,16555,16546,16591,16576,17657,17650,17702,17682,18058,20306,20834,21315,22108,23384,35044",
+        "core_id": 1006.0
+      }
+    },
+    {
+      "id": "variant-0cb3d965-6b71-56dc-a522-f463c04698ee",
+      "score": 0.8421274,
+      "metadata": {
+        "text": "core_product_name: light fabricated component",
+        "raw_product_name": "LIGHT FABRICATED COMPONENT",
+        "list_of_product_ids": "26019,26018,26017,26690",
+        "core_id": 1347.0
+      }
+    },
+    {
+      "id": "variant-370c43d3-b815-5435-9810-24d97f958927",
+      "score": 0.8411036,
+      "metadata": {
+        "text": "core_product_name: indicating lamp fitting",
+        "raw_product_name": "INDICATING LAMP FITTING",
+        "list_of_product_ids": "20128,20443,20418,20465,20506,20645",
+        "core_id": 1232.0
+      }
+    },
+    {
+      "id": "variant-3bb64163-5110-5389-8fd5-ba5999183039",
+      "score": 0.8387916,
+      "metadata": {
+        "text": "core_product_name: electric lamp",
+        "raw_product_name": "ELECTRIC LAMPS",
+        "list_of_product_ids": "20801,20836,20803,28495",
+        "core_id": 695.0
+      }
+    },
+    {
+      "id": "variant-1a654752-870e-5c3a-958f-e8464036d7ab",
+      "score": 0.8367598,
+      "metadata": {
+        "text": "core_product_name: lighting transformer",
+        "raw_product_name": "LIGHTING TRANSFORMERS",
+        "list_of_product_ids": "17731,17727,18659,19486,35388",
+        "core_id": 635.0
+      }
+    },
+    {
+      "id": "variant-5ce39e66-51d3-5c8d-8399-07e58423611b",
+      "score": 0.8359817,
+      "metadata": {
+        "text": "core_product_name: tube light fixture",
+        "raw_product_name": "TUBE LIGHT FIXTURES",
+        "list_of_product_ids": "139,811,494,021,021",
+        "core_id": 2282.0
+      }
+    },
+    {
+      "id": "variant-7ca03090-7818-58e9-b746-b20c802cbb9f",
+      "score": 0.8342753,
+      "metadata": {
+        "text": "core_product_name: light machined component",
+        "raw_product_name": "LIGHT MACHINED COMPONENTS",
+        "list_of_product_ids": "239,522,395,328,688",
+        "core_id": 1350.0
+      }
+    },
+    {
+      "id": "variant-c67f99b2-1581-533a-bfd9-79e30811dae4",
+      "score": 0.83124506,
+      "metadata": {
+        "text": "core_product_name: navigational light",
+        "raw_product_name": "NAVIGATIONAL LIGHTS",
+        "list_of_product_ids": "28223,28249,28222,28221,28220",
+        "core_id": 1537.0
+      }
+    },
+    {
+      "id": "variant-04557174-00a9-5154-8b28-71d131bdaca2",
+      "score": 0.83092046,
+      "metadata": {
+        "text": "core_product_name: lighting and power distribution panel",
+        "raw_product_name": "Lighting & Power Distribution Panel",
+        "list_of_product_ids": "18723,18718,18735,18734,18733,19012,18997,18728,19000,38293,35861,38156",
+        "core_id": 1413.0
+      }
+    },
+    {
+      "id": "variant-e6962075-ca09-5c6f-853c-2665f1ed752b",
+      "score": 0.83004117,
+      "metadata": {
+        "text": "core_product_name: compact flange",
+        "raw_product_name": "COMPACT FLANGE",
+        "list_of_product_ids": "62,775,447",
+        "core_id": 406.0
+      }
+    },
+    {
+      "id": "variant-e7c3a8c8-2d49-5297-bb93-4f2e288fa355",
+      "score": 0.82802236,
+      "metadata": {
+        "text": "core_product_name: panel tube light",
+        "raw_product_name": "PANEL TUBE LIGHT",
+        "list_of_product_ids": "19668,19677,19680,19684,24243",
+        "core_id": 1636.0
+      }
+    },
+    {
+      "id": "variant-0a2c8e44-9013-5d8c-80c7-198b456cf8f7",
+      "score": 0.8270744,
+      "metadata": {
+        "text": "core_product_name: miniature type hardwire console item",
+        "raw_product_name": "MINIATURE TYPE HARDWIRE CONSOLE ITEMS",
+        "list_of_product_ids": "5935,6764,10918,10920,10919",
+        "core_id": 1480.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.82607794,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-eac04853-0cd4-54f1-a18f-72d0534f33b6",
+      "score": 0.82598823,
+      "metadata": {
+        "text": "core_product_name: electrical converter",
+        "raw_product_name": "ELECTRICAL CONVERTER",
+        "list_of_product_ids": "20850,20849,27075,20848",
+        "core_id": 706.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.8257561,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-28ec42bf-d339-5320-a74e-954d0df9085c",
+      "score": 0.8247004,
+      "metadata": {
+        "text": "core_product_name: emergency lighting system",
+        "raw_product_name": "EMERGENCY LIGHTING SYSTEM",
+        "list_of_product_ids": "3,216,232,163",
+        "core_id": 740.0
+      }
+    },
+    {
+      "id": "variant-31b30786-61c0-5953-b71d-7193d31de4fb",
+      "score": 0.82444316,
+      "metadata": {
+        "text": "core_product_name: foundry chemical",
+        "raw_product_name": "FOUNDRY CHEMICALS",
+        "list_of_product_ids": "1,960,819,609",
+        "core_id": 978.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.8243243,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-63f28b5e-8d64-503f-938b-d41f4b31f2fd",
+      "score": 0.8242844,
+      "metadata": {
+        "text": "core_product_name: industrial receptacle",
+        "raw_product_name": "INDUSTRIAL RECEPTACLE",
+        "list_of_product_ids": "136,891,479,414,813",
+        "core_id": 1235.0
+      }
+    },
+    {
+      "id": "variant-5722049a-a798-5b88-81b3-11aec368d8cc",
+      "score": 0.8240819,
+      "metadata": {
+        "text": "core_product_name: lighting mast",
+        "raw_product_name": "Lighting Masts",
+        "list_of_product_ids": "15628,24242,15727,15629",
+        "core_id": 1363.0
+      }
+    },
+    {
+      "id": "variant-67b26ec1-b16a-558a-a6bb-0ea3206762e1",
+      "score": 0.82397157,
+      "metadata": {
+        "text": "core_product_name: push button and indicating lamp",
+        "raw_product_name": "PUSH BUTTON AND INDICATING LAMPS",
+        "list_of_product_ids": "6469,5640,9352,9148,9153,9155,11848,19079,17539,17810,19007,20969,36691,38266,38081",
+        "core_id": 1821.0
+      }
+    },
+    {
+      "id": "variant-0bf51e3d-fa9b-53e0-8154-35e104f448de",
+      "score": 0.8239546,
+      "metadata": {
+        "text": "core_product_name: lighting mast",
+        "raw_product_name": "LIGHTING MAST",
+        "list_of_product_ids": "17348,17346,17338,17520,17538,18673,17707,32167,32166,32193,35983,35989",
+        "core_id": 1363.0
+      }
+    },
+    {
+      "id": "variant-c1c7c951-de0a-5601-aa1a-b2d2fb7e1622",
+      "score": 0.8232324,
+      "metadata": {
+        "text": "core_product_name: security search light system",
+        "raw_product_name": "SECURITY SEARCH LIGHT SYSTEM",
+        "list_of_product_ids": "7,065,739,211,726",
+        "core_id": 1989.0
+      }
+    },
+    {
+      "id": "variant-51099c41-aa43-5333-9366-8cb60cfc4c26",
+      "score": 0.82298315,
+      "metadata": {
+        "text": "core_product_name: flange | material: Incoloy",
+        "raw_product_name": "FLANGES (INCOLOY)",
+        "list_of_product_ids": "20905,24572,24650,37037",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-a947ab69-11c3-5478-b1b6-fa5978c60e03",
+      "score": 0.82269484,
+      "metadata": {
+        "text": "core_product_name: flushing apparatus",
+        "raw_product_name": "FLUSHING APPARATUS",
+        "list_of_product_ids": "143,601,444,714,482",
+        "core_id": 958.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.82265806,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    },
+    {
+      "id": "variant-4fb06b11-26b4-5061-9d90-55082e9f8959",
+      "score": 0.8223819,
+      "metadata": {
+        "text": "core_product_name: street light pole",
+        "raw_product_name": "STREET LIGHT POLES",
+        "list_of_product_ids": "241,872,418,827,640",
+        "core_id": 2127.0
+      }
+    },
+    {
+      "id": "variant-fa2085c0-f311-5c94-81a1-6ae8ca42ef72",
+      "score": 0.82236665,
+      "metadata": {
+        "text": "core_product_name: flush box",
+        "raw_product_name": "FLUSH BOXES",
+        "list_of_product_ids": "1,365,814,810",
+        "core_id": 952.0
+      }
+    }
+  ]
+}

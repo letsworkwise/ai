@@ -1,0 +1,14 @@
+{
+  "file_path": "/home/student2/Documents/GitHub/1st_AI_Project_Kothari/boq_extraction_2/pipeline_copy_2/inputs/R4_ELECTRICAL OFFER  CITCO (2).xlsx",
+  "sheet_name": "MONOMER, STYRENE & SOLVENT PUMP",
+  "output_folder": "outputs/R4_ELECTRICAL_OFFER__CITCO__2_/MONOMER__STYRENE___SOLVENT_PUMP",
+  "schedule_path": "outputs/R4_ELECTRICAL_OFFER__CITCO__2_/MONOMER__STYRENE___SOLVENT_PUMP/schedule_only.xlsx",
+  "context_md": "Annexure I |  |  |  |  |  |  | \nP.O. No. 317047               Dt. 24.11.23 |  |  |  |  |  |  | \n |  |  |  |  |  |  | \nScope of Supply & Erection : |  |  |  |  |  |  | \n |  |  |  |  |  |  | ",
+  "header_md": "Sr No | Description | Unit | Qty | Supply |  | Erection | \n |  |  |  | Rate | Amount | Rate | Amount",
+  "schedule_start_idx": 7,
+  "max_col_idx": 8,
+  "tokens_used_ctx": [
+    712,
+    150
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "file_path": "inputs/Miraj-BOQ Electrical Works.xlsx",
+  "sheet_name": "Table 2",
+  "output_folder": "outputs/Miraj-BOQ_Electrical_Works/Table_2",
+  "schedule_path": "outputs/Miraj-BOQ_Electrical_Works/Table_2/schedule_only.xlsx",
+  "context_md": "",
+  "header_md": "",
+  "schedule_start_idx": 0,
+  "max_col_idx": 5,
+  "tokens_used_ctx": [
+    778,
+    15
+  ]
+}

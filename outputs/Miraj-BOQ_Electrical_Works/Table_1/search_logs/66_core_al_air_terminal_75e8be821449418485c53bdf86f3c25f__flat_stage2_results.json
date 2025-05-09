@@ -1,0 +1,482 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8780254,
+      "text": "core_product_name: cooling tower | material: RCC (Reinforced Cement Concrete)",
+      "core_id": 481.0,
+      "raw_product_name": "COOLING TOWER - RCC",
+      "list_of_product_ids": [
+        "38180",
+        "38181",
+        "38182",
+        "38328",
+        "38056",
+        "38333",
+        "38079",
+        "38264"
+      ]
+    },
+    {
+      "retrieval_score": 0.8696961,
+      "text": "core_product_name: pipe fitting | material: RCC (Reinforced Cement Concrete)",
+      "core_id": 182.0,
+      "raw_product_name": "RCC Pipe Fittings",
+      "list_of_product_ids": [
+        "13805",
+        "19896",
+        "22897",
+        "23252"
+      ]
+    },
+    {
+      "retrieval_score": 0.8496778,
+      "text": "core_product_name: reinforced cement concrete pipe | acronymed_core_product_name: RCC Pipe",
+      "core_id": 1862.0,
+      "raw_product_name": "RCC Pipes",
+      "list_of_product_ids": [
+        "14390",
+        "14558",
+        "14560",
+        "15872",
+        "19895",
+        "23251"
+      ]
+    },
+    {
+      "retrieval_score": 0.84929127,
+      "text": "core_product_name: turbo vent | mounting_or_installation: roof",
+      "core_id": 1919.0,
+      "raw_product_name": "ROOF TURBO VENTS",
+      "list_of_product_ids": [
+        "15936",
+        "15939",
+        "16285",
+        "16325",
+        "16393",
+        "15935"
+      ]
+    },
+    {
+      "retrieval_score": 0.84489036,
+      "text": "core_product_name: section | material: Aluminum",
+      "core_id": 100.0,
+      "raw_product_name": "ALUMINUM SECTION",
+      "list_of_product_ids": [
+        "20555",
+        "20518",
+        "20605",
+        "20596",
+        "20682",
+        "20740",
+        "38548",
+        "39312"
+      ]
+    },
+    {
+      "retrieval_score": 0.844549,
+      "text": "core_product_name: structural | material: Aluminium",
+      "core_id": 2134.0,
+      "raw_product_name": "STRUCTURAL ALUMINIUM",
+      "list_of_product_ids": [
+        "234",
+        "572",
+        "603",
+        "826",
+        "686"
+      ]
+    },
+    {
+      "retrieval_score": 0.8436976,
+      "text": "core_product_name: cooling tower | material: Concrete",
+      "core_id": 481.0,
+      "raw_product_name": "COOLING TOWER - CONCRETE",
+      "list_of_product_ids": [
+        "8493",
+        "14331",
+        "14335",
+        "36739",
+        "36709"
+      ]
+    },
+    {
+      "retrieval_score": 0.84275395,
+      "text": "core_product_name: coating | material: Concrete",
+      "core_id": 428.0,
+      "raw_product_name": "CONCRETE COATING",
+      "list_of_product_ids": [
+        "13941",
+        "19476",
+        "19470",
+        "23076",
+        "40166"
+      ]
+    },
+    {
+      "retrieval_score": 0.84179205,
+      "text": "core_product_name: tower | material: CS (Carbon Steel) | size_or_capacity: 51-100 mm thickness",
+      "core_id": 399.0,
+      "raw_product_name": "COLUMN/TOWER-CS(51-100MM THK)",
+      "list_of_product_ids": [
+        "6659",
+        "5830",
+        "11032",
+        "8546",
+        "9026",
+        "9692",
+        "12160",
+        "12586",
+        "13086",
+        "16950",
+        "17609",
+        "37850",
+        "38078",
+        "38083",
+        "38126"
+      ]
+    },
+    {
+      "retrieval_score": 0.8405077,
+      "text": "core_product_name: for cementitious surface water proofing",
+      "core_id": 2445.0,
+      "raw_product_name": "WATER PROOFING FOR CEMENTITIONS SURFACE",
+      "list_of_product_ids": [
+        "14088",
+        "22464",
+        "24156",
+        "23887",
+        "22879",
+        "35650"
+      ]
+    },
+    {
+      "retrieval_score": 0.8404787,
+      "text": "core_product_name: fan | material: Aluminum",
+      "core_id": 798.0,
+      "raw_product_name": "FANS (ALUMINUM BLADES)",
+      "list_of_product_ids": [
+        "7",
+        "474",
+        "714",
+        "910",
+        "860"
+      ]
+    },
+    {
+      "retrieval_score": 0.8404405,
+      "text": "core_product_name: column | material: CS (Carbon Steel) | construction_features: site fabricated",
+      "core_id": 392.0,
+      "raw_product_name": "COLUMN-CS SITE FABRICATED",
+      "list_of_product_ids": [
+        "6687",
+        "5858",
+        "9697",
+        "12010",
+        "12167",
+        "12592",
+        "13093",
+        "23509",
+        "37860",
+        "37727",
+        "37743"
+      ]
+    },
+    {
+      "retrieval_score": 0.8398068,
+      "text": "core_product_name: electrical terminal",
+      "core_id": 712.0,
+      "raw_product_name": "ELECTRICAL TERMINALS",
+      "list_of_product_ids": [
+        "21153",
+        "21157",
+        "28575",
+        "36610"
+      ]
+    },
+    {
+      "retrieval_score": 0.83977205,
+      "text": "core_product_name: floating roof | material: Aluminium",
+      "core_id": 95.0,
+      "raw_product_name": "ALUMINIUM FLOATING ROOF",
+      "list_of_product_ids": [
+        "19452",
+        "19457",
+        "19458",
+        "19511",
+        "19472",
+        "19468",
+        "39918"
+      ]
+    },
+    {
+      "retrieval_score": 0.8390344,
+      "text": "core_product_name: cement",
+      "core_id": 322.0,
+      "raw_product_name": "CEMENT",
+      "list_of_product_ids": [
+        "15524",
+        "15525",
+        "16282",
+        "27349",
+        "34029",
+        "34040",
+        "38128",
+        "34702",
+        "34703",
+        "34704"
+      ]
+    },
+    {
+      "retrieval_score": 0.8390084,
+      "text": "core_product_name: primary structure | construction_features: welded",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+      "list_of_product_ids": [
+        "19999",
+        "20036",
+        "22016",
+        "21003",
+        "21084",
+        "21900",
+        "22115",
+        "21039",
+        "19993",
+        "22825",
+        "22991"
+      ]
+    },
+    {
+      "retrieval_score": 0.8385449,
+      "text": "core_product_name: terminal strip",
+      "core_id": 2231.0,
+      "raw_product_name": "TERMINAL STRIPS",
+      "list_of_product_ids": [
+        "1",
+        "400",
+        "220",
+        "181"
+      ]
+    },
+    {
+      "retrieval_score": 0.83841276,
+      "text": "core_product_name: resilient mounting",
+      "core_id": 1900.0,
+      "raw_product_name": "RESILIENT MOUNTINGS",
+      "list_of_product_ids": [
+        "22948",
+        "22951",
+        "22952",
+        "28652"
+      ]
+    },
+    {
+      "retrieval_score": 0.83839065,
+      "text": "core_product_name: insulation material",
+      "core_id": 1274.0,
+      "raw_product_name": "INSULATION MATERIAL",
+      "list_of_product_ids": [
+        "10251",
+        "10256",
+        "10261",
+        "10266",
+        "10273",
+        "10278",
+        "10281",
+        "7088",
+        "7415",
+        "10172",
+        "10221",
+        "10226",
+        "10230",
+        "10234",
+        "10240",
+        "10245",
+        "11862",
+        "13008",
+        "38431",
+        "33383"
+      ]
+    },
+    {
+      "retrieval_score": 0.8377157,
+      "text": "core_product_name: central air conditioning system",
+      "core_id": 58.0,
+      "raw_product_name": "AIR CONDITIONING SYSTEM - CENTRAL",
+      "list_of_product_ids": [
+        "6043",
+        "5222",
+        "10728",
+        "10729",
+        "10203",
+        "6949",
+        "10820",
+        "10882",
+        "8499",
+        "19674",
+        "19821",
+        "23220"
+      ]
+    },
+    {
+      "retrieval_score": 0.83768004,
+      "text": "core_product_name: primary structure | construction_features: bolted",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+      "list_of_product_ids": [
+        "20000",
+        "19997",
+        "20035",
+        "21038",
+        "21002",
+        "21083",
+        "21901",
+        "22017",
+        "22116",
+        "22826",
+        "22992"
+      ]
+    },
+    {
+      "retrieval_score": 0.83741283,
+      "text": "core_product_name: integral water proofing compound | mounting_or_installation: in plaster",
+      "core_id": 1282.0,
+      "raw_product_name": "INTEGRAL WATER PROOFING COMPOUND (IN PLASTER)",
+      "list_of_product_ids": [
+        "6372",
+        "5543",
+        "12484",
+        "12488",
+        "12461",
+        "12478",
+        "12523",
+        "23882",
+        "24155"
+      ]
+    },
+    {
+      "retrieval_score": 0.8374039,
+      "text": "core_product_name: air cooled condenser",
+      "core_id": 431.0,
+      "raw_product_name": "CONDENSER (AIR COOLED)",
+      "list_of_product_ids": [
+        "15382",
+        "13948",
+        "17372",
+        "18456",
+        "18442",
+        "18794",
+        "18798",
+        "18445",
+        "37477"
+      ]
+    },
+    {
+      "retrieval_score": 0.83692706,
+      "text": "core_product_name: air conditioning",
+      "core_id": 67.0,
+      "raw_product_name": "AIR CONDITIONING",
+      "list_of_product_ids": [
+        "21444",
+        "21434",
+        "21452",
+        "21450",
+        "21447",
+        "22930",
+        "22932",
+        "24988",
+        "26753"
+      ]
+    },
+    {
+      "retrieval_score": 0.8364608,
+      "text": "core_product_name: welded structural item",
+      "core_id": 2136.0,
+      "raw_product_name": "STRUCTURAL ITEM (WELDED)",
+      "list_of_product_ids": [
+        "173",
+        "361",
+        "733",
+        "427",
+        "923"
+      ]
+    },
+    {
+      "retrieval_score": 0.836412,
+      "text": "core_product_name: anode backfill material",
+      "core_id": 119.0,
+      "raw_product_name": "ANODE BACKFILL MATERIAL",
+      "list_of_product_ids": [
+        "19226",
+        "19222",
+        "21072",
+        "21104",
+        "28253"
+      ]
+    },
+    {
+      "retrieval_score": 0.8363193,
+      "text": "core_product_name: roof extractor",
+      "core_id": 1917.0,
+      "raw_product_name": "Roof Extractors",
+      "list_of_product_ids": [
+        "7121",
+        "7448",
+        "10505",
+        "11935",
+        "11951",
+        "12094",
+        "18123",
+        "18122",
+        "18141",
+        "19694",
+        "19722",
+        "22778",
+        "19491"
+      ]
+    },
+    {
+      "retrieval_score": 0.836086,
+      "text": "core_product_name: roof extractor",
+      "core_id": 1917.0,
+      "raw_product_name": "ROOF EXTRACTOR PACKAGE",
+      "list_of_product_ids": [
+        "196",
+        "911",
+        "969",
+        "028",
+        "280"
+      ]
+    },
+    {
+      "retrieval_score": 0.83602536,
+      "text": "core_product_name: heli deck | material: Aluminium",
+      "core_id": 94.0,
+      "raw_product_name": "ALUMINIUM HELI DECK",
+      "list_of_product_ids": [
+        "19185",
+        "28075",
+        "39385",
+        "39419",
+        "39445",
+        "39467",
+        "39469"
+      ]
+    },
+    {
+      "retrieval_score": 0.8359059,
+      "text": "core_product_name: ventilator | material: Aluminium",
+      "core_id": 614.0,
+      "raw_product_name": "DOORS/ WINDOWS/ VENTILATORS - ALUMINIUM",
+      "list_of_product_ids": [
+        "6344",
+        "5515",
+        "12509",
+        "15638",
+        "15632",
+        "15658",
+        "15660",
+        "15776",
+        "17292"
+      ]
+    }
+  ]
+}

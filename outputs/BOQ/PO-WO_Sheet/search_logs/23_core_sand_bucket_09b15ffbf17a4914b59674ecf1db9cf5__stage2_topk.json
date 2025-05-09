@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: sand bucket | feature_or_specifications: feature: with stand",
+  "retrieval_results": [
+    {
+      "id": "variant-52079ec4-e4e5-5cd0-8592-7727fedf789c",
+      "score": 0.8521206,
+      "metadata": {
+        "text": "core_product_name: bucket",
+        "raw_product_name": "ELEVATOR -BUCKET",
+        "list_of_product_ids": "6124,5291,9598,9720,9741,9736",
+        "core_id": 734.0
+      }
+    },
+    {
+      "id": "variant-8383cdc4-4669-51eb-9ff6-98d97836179f",
+      "score": 0.8425683,
+      "metadata": {
+        "text": "core_product_name: ball valve | construction_features: metal seated",
+        "raw_product_name": "VALVE BALL (METEL SEATED)",
+        "list_of_product_ids": "7299,7347,8139,8144,22518,22650,37224,37225,37226,37228,37227,37232,35477",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-e250c010-85e4-5944-91ae-fde2f1037108",
+      "score": 0.84235525,
+      "metadata": {
+        "text": "core_product_name: ball valve | construction_features: metal seated",
+        "raw_product_name": "BALL VALVES (METAL SEATED)",
+        "list_of_product_ids": "8689",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.84022766,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-4d5e6e53-120c-5d65-8cd9-e3aa1fd0aae7",
+      "score": 0.8399162,
+      "metadata": {
+        "text": "core_product_name: ball valve | construction_features: soft seated",
+        "raw_product_name": "VALVE BALL (SOFT SEATED)",
+        "list_of_product_ids": "7298,7346,8138,22343,37219,37220,37221,37222,37215,37216,37217,37218,35476",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-f9ae5812-9ff7-5142-982c-ea38c2537ed1",
+      "score": 0.83972317,
+      "metadata": {
+        "text": "core_product_name: bucket wheel excavator",
+        "raw_product_name": "EXCAVATOR (BUCKET WHEEL)",
+        "list_of_product_ids": "6,175,534,623,283",
+        "core_id": 768.0
+      }
+    },
+    {
+      "id": "variant-eb147e60-4a00-529d-9ea8-c88af24b319c",
+      "score": 0.8391289,
+      "metadata": {
+        "text": "core_product_name: sand blasting work",
+        "raw_product_name": "SAND BLASTING WORK",
+        "list_of_product_ids": "1,688,927,906",
+        "core_id": 1956.0
+      }
+    },
+    {
+      "id": "variant-7864b016-9b36-5d61-8051-84be2cb1ae9d",
+      "score": 0.8388737,
+      "metadata": {
+        "text": "core_product_name: fire bucket",
+        "raw_product_name": "FIRE BUCKET",
+        "list_of_product_ids": "19466,19467,19465,19463,19523,19530,19551,19558",
+        "core_id": 841.0
+      }
+    },
+    {
+      "id": "variant-c23ef45a-ceb3-5385-9578-20f6040440eb",
+      "score": 0.83735985,
+      "metadata": {
+        "text": "core_product_name: hanger | mounting_or_installation: Supports",
+        "raw_product_name": "Hangers & Supports",
+        "list_of_product_ids": "7538,11523,10958,7212,9703,11838,14955",
+        "core_id": 1215.0
+      }
+    },
+    {
+      "id": "variant-920c342c-8b65-50ac-b51d-0c016519cf92",
+      "score": 0.8373351,
+      "metadata": {
+        "text": "core_product_name: buckstay",
+        "raw_product_name": "BUCKSTAY",
+        "list_of_product_ids": "18985,18989,18976,19916,20879,20901,21909,22022,22120",
+        "core_id": 248.0
+      }
+    },
+    {
+      "id": "variant-f23555b4-6776-5418-b12f-82367d57d9b5",
+      "score": 0.8348365,
+      "metadata": {
+        "text": "core_product_name: fitting | type_or_class: ERMETO",
+        "raw_product_name": "ERMETO FITTINGS",
+        "list_of_product_ids": "254,072,567,926,699",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-5536fe36-fcaa-5d54-ac7d-4d302a3db077",
+      "score": 0.8345493,
+      "metadata": {
+        "text": "core_product_name: stack system",
+        "raw_product_name": "ANALYSE STACK SYSTEM",
+        "list_of_product_ids": "14177,15200,15201,18807,37857",
+        "core_id": 105.0
+      }
+    },
+    {
+      "id": "variant-5439d58c-47d4-5f03-97cd-3b550c7beeaa",
+      "score": 0.8345446,
+      "metadata": {
+        "text": "core_product_name: spring support",
+        "raw_product_name": "SPRING SUPPORTS",
+        "list_of_product_ids": "6004,5183,9701,9700,9702,9705,17354,18783,36942",
+        "core_id": 2091.0
+      }
+    },
+    {
+      "id": "variant-7d467917-439b-526b-86e2-6d7684487571",
+      "score": 0.83426124,
+      "metadata": {
+        "text": "core_product_name: flare stack",
+        "raw_product_name": "FLARE STACK",
+        "list_of_product_ids": "7099,7426,11802,8321,8429",
+        "core_id": 906.0
+      }
+    },
+    {
+      "id": "variant-8dd858bd-d4e3-5c0d-9c0d-676e67b7e742",
+      "score": 0.8338577,
+      "metadata": {
+        "text": "core_product_name: condenser bushing",
+        "raw_product_name": "CONDENSER BUSHING",
+        "list_of_product_ids": "1,396,114,860",
+        "core_id": 433.0
+      }
+    },
+    {
+      "id": "variant-d0009678-bb38-57d8-a0d5-67e1029f225a",
+      "score": 0.8330933,
+      "metadata": {
+        "text": "core_product_name: stone ware pipe | construction_features: salt-glazed",
+        "raw_product_name": "STONE WARE (SALT-GLAZED) PIPES",
+        "list_of_product_ids": "1,406,714,564",
+        "core_id": 2118.0
+      }
+    },
+    {
+      "id": "variant-3224a55c-d2b5-5fb3-b7e4-aece261ee173",
+      "score": 0.8329227,
+      "metadata": {
+        "text": "core_product_name: water cooling unit | accessories_or_attachments: stator",
+        "raw_product_name": "Stator Water Cooling Unit",
+        "list_of_product_ids": "1,537,614,048",
+        "core_id": 2190.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.83277726,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.8327038,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-f1044fa1-3705-52da-8d61-ae1d65c5863d",
+      "score": 0.8325106,
+      "metadata": {
+        "text": "core_product_name: stabiliser",
+        "raw_product_name": "SHIP STABILISER",
+        "list_of_product_ids": "26062,26056,26055,26678",
+        "core_id": 2013.0
+      }
+    },
+    {
+      "id": "variant-40f5e806-4a91-59d6-8fea-bf521847066a",
+      "score": 0.8321083,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: Forged",
+        "raw_product_name": "VALVE CHECK FORGED",
+        "list_of_product_ids": "6231,5400,11625,11641,11223,11242,11255,9246,11448,9262,8280,8383,8555,8649,8626,9412,9451,9253,9166,9343,12098,12493,12572,12656,13266,13360,19382,19390,17623,17908,18030,19711,19860,31813,36763,32701",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-e0b553d8-c833-5b12-9b70-b500d48d7c93",
+      "score": 0.8318204,
+      "metadata": {
+        "text": "core_product_name: strainer | material: Cast",
+        "raw_product_name": "STRAINERS CAST",
+        "list_of_product_ids": "6007,5186,11603,11610,10415,8762,8437,8742,12836,16097,18292,22691,23064,31808,35599",
+        "core_id": 2121.0
+      }
+    },
+    {
+      "id": "variant-4062373c-a7af-5184-b5af-32d3b472f76f",
+      "score": 0.83176005,
+      "metadata": {
+        "text": "core_product_name: ball valve | construction_features: forged",
+        "raw_product_name": "VALVE BALL FORGED",
+        "list_of_product_ids": "140,222,209,935,458",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-1d57b6c3-5362-589d-ab48-c4247b385ce6",
+      "score": 0.8317564,
+      "metadata": {
+        "text": "core_product_name: spring hanger",
+        "raw_product_name": "Spring Hangers",
+        "list_of_product_ids": "7,540,721,421,956",
+        "core_id": 2188.0
+      }
+    },
+    {
+      "id": "variant-8146d930-f36a-56af-8783-944a47cedfc7",
+      "score": 0.8313264,
+      "metadata": {
+        "text": "core_product_name: rod | material: TUNGUSTEN",
+        "raw_product_name": "TUNGUSTEN ROD",
+        "list_of_product_ids": "32956,32957,33017,33204,33269,33571,33642,35931",
+        "core_id": 2297.0
+      }
+    },
+    {
+      "id": "variant-2d0fdb27-6ea8-52ea-8785-689f617826c4",
+      "score": 0.8310348,
+      "metadata": {
+        "text": "core_product_name: fountain",
+        "raw_product_name": "FOUNTAIN",
+        "list_of_product_ids": "14369,19868,19869,19870",
+        "core_id": 980.0
+      }
+    },
+    {
+      "id": "variant-f22df410-5864-5695-b4f2-59a2af6615db",
+      "score": 0.8308523,
+      "metadata": {
+        "text": "core_product_name: centrifugal pump | construction_features: horizontal split casing",
+        "raw_product_name": "CENTRIFUGAL PUMPS-HORIZONTAL SPLIT CASING",
+        "list_of_product_ids": "153,611,539,121,692",
+        "core_id": 328.0
+      }
+    },
+    {
+      "id": "variant-6f3e5550-6204-5d8d-a084-377d90bfd815",
+      "score": 0.8306196,
+      "metadata": {
+        "text": "core_product_name: steam trap | type_or_class: bucket or thermodynamic (TH.DYN) or thermostatic (TH.STAT) or float",
+        "raw_product_name": "STEAM TRAPS-BUCKET/TH.DYN/TH.STAT/FLOAT",
+        "list_of_product_ids": "6009,5188,10417,11477,11475,8385,8439,8573,8859,12840,22045,22694,23713,23685",
+        "core_id": 2110.0
+      }
+    },
+    {
+      "id": "variant-3ddc3bca-68aa-59de-bad1-3710e64d9b3e",
+      "score": 0.8306185,
+      "metadata": {
+        "text": "core_product_name: fixed switch board | mounting_or_installation: for package equipments | protection_features: flame proof",
+        "raw_product_name": "SWITCH BOARD FIXED FOR PACKAGE EQUIPMENTS FLAME PROOF",
+        "list_of_product_ids": "13973,14603,14849,19440,20280,22864,35781",
+        "core_id": 2168.0
+      }
+    },
+    {
+      "id": "variant-7756d5b5-4728-5852-8183-90d052d9a4d1",
+      "score": 0.8305644,
+      "metadata": {
+        "text": "core_product_name: structural | special_attributes: Stockist or Traders",
+        "raw_product_name": "STRUCTURAL (STOCKIST/TRADERS)",
+        "list_of_product_ids": "24600,24601,24735,24762,24754,24850,24861",
+        "core_id": 2134.0
+      }
+    }
+  ]
+}

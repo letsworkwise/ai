@@ -1,0 +1,168 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "C.S STRUCTURAL STEEL (CONTRACTOR SUPPLIED)",
+      "core_product_name": "structural steel",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: cs(carbon steel), supply: contractor supplied",
+      "quantity": "1.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FLAME   CUTTING C.S PIPING  IBR/NON IBR",
+      "core_product_name": "cutting piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "cutting-type: flame, material: cs(carbon steel), standard: ibr(indian boiler regulations) or non ibr",
+      "quantity": "25.0",
+      "unit": "inch dia"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "HACKSAW CUTTING C.S PIPING  IBR/NON IBR",
+      "core_product_name": "cutting piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "cutting-type: hacksaw, material: cs(carbon steel), standard: ibr(indian boiler regulations) or non ibr",
+      "quantity": "10.0",
+      "unit": "inch dia"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "BEVELLING C.S PIPING  IBR/NON IBR",
+      "core_product_name": "bevelling piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: cs(carbon steel), standard: ibr(indian boiler regulations) or non ibr",
+      "quantity": "30.0",
+      "unit": "inch dia"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FITUP & WELDING  C.S PIPING  IBR/NON IBR",
+      "core_product_name": "fitup and welding piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: cs(carbon steel), standard: ibr(indian boiler regulations) or non ibr",
+      "quantity": "30.0",
+      "unit": "inch dia"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      30,
+      39
+    ],
+    "original_rows": [
+      {
+        "0": 31,
+        "1": 0,
+        "2": "M22501000000",
+        "3": "C.S STRUCTURAL STEEL (CONTRACTOR SUPPLIED)",
+        "4": 1.0,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 32,
+        "1": 0,
+        "2": "M23700000000",
+        "3": "MODIFICATION/EXTRA WORKS (IF ANY) :- Cutting, bevelling, fitup, welding of different sizes of",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 33,
+        "1": 0,
+        "2": "M23701000000",
+        "3": "FLAME   CUTTING C.S PIPING  IBR/NON IBR",
+        "4": 25.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 34,
+        "1": 0,
+        "2": "M23702000000",
+        "3": "HACKSAW CUTTING C.S PIPING  IBR/NON IBR",
+        "4": 10.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 35,
+        "1": 0,
+        "2": "M23703000000",
+        "3": "BEVELLING C.S PIPING  IBR/NON IBR",
+        "4": 30.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 36,
+        "1": 0,
+        "2": "M23704000000",
+        "3": "FITUP & WELDING  C.S PIPING  IBR/NON IBR",
+        "4": 30.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 37,
+        "1": 0,
+        "2": "M23800000000",
+        "3": "REMOVAL ERECTED PIPING(ABOVE GROUND) :- Removal of piping existing/ erected including SW valves for",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 38,
+        "1": 0,
+        "2": "M23801000000",
+        "3": "C.S/A.S PIPING",
+        "4": 35.0,
+        "5": "Inch M",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 39,
+        "1": 0,
+        "2": "M23900000000",
+        "3": "REMOVAL OF ERECTED VALVES (ABOVE GROUND) :- Removal of all types and ratings of valves by unbolting,",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 40,
+        "1": 0,
+        "2": "M23901000000",
+        "3": "VALVES OTHER THAN CONTROL VALVES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2316,
+    "completion_tokens": 1010
+  }
+}

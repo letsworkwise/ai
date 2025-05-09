@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: flange adaptor | size: pipe size: 200 NB | feature_or_specifications: feature: grooved",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flange | material: Carbon steel | construction_features: Raised Face (RF)",
+        "raw_product_name": "Carbon steel Flange (RF)",
+        "list_of_product_ids": [
+          "68",
+          "157",
+          "318"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flange | material: Mild Steel (MS) | connection_details: Screwed",
+        "raw_product_name": "FLANGE MILD STEEL SCREWED",
+        "list_of_product_ids": [
+          "174",
+          "451",
+          "744",
+          "727",
+          "926"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flange | material: Duplex Steel",
+        "raw_product_name": "FLANGES -DUPLEX STEEL",
+        "list_of_product_ids": [
+          "17453",
+          "17452",
+          "24558",
+          "24654"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: alarm valve | size: size: 200NB | feature_or_specifications: manufacturer: newage",
+  "retrieval_results": [
+    {
+      "id": "variant-0f043a62-8273-594c-9fe8-06f995a7ff35",
+      "score": 0.8704065,
+      "metadata": {
+        "text": "core_product_name: alarm valve",
+        "raw_product_name": "ALARM VALVE",
+        "list_of_product_ids": "11096,9804,9811,9843,9844,9877,9878,9879,30419",
+        "core_id": 84.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.85726535,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-1a5a5bf1-d5cc-5063-b966-95d4799adb0f",
+      "score": 0.8555455,
+      "metadata": {
+        "text": "core_product_name: safety valve",
+        "raw_product_name": "SAFETY VALVES",
+        "list_of_product_ids": "14389,14381,14554,15199,15333",
+        "core_id": 1950.0
+      }
+    },
+    {
+      "id": "variant-40f5e806-4a91-59d6-8fea-bf521847066a",
+      "score": 0.8553771,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: Forged",
+        "raw_product_name": "VALVE CHECK FORGED",
+        "list_of_product_ids": "6231,5400,11625,11641,11223,11242,11255,9246,11448,9262,8280,8383,8555,8649,8626,9412,9451,9253,9166,9343,12098,12493,12572,12656,13266,13360,19382,19390,17623,17908,18030,19711,19860,31813,36763,32701",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-15e8bf38-22d5-59ed-a69d-b7ca6ced05f9",
+      "score": 0.8550958,
+      "metadata": {
+        "text": "core_product_name: charging valve | special_attributes: Nitrogen Charging",
+        "raw_product_name": "Nitrogen Charging Valve",
+        "list_of_product_ids": "1,420,814,222",
+        "core_id": 1568.0
+      }
+    },
+    {
+      "id": "variant-bbad95d9-b94a-500e-b33a-e10ab8250567",
+      "score": 0.8540978,
+      "metadata": {
+        "text": "core_product_name: safety relief valve",
+        "raw_product_name": "Safety Relief Valve",
+        "list_of_product_ids": "7520,7194,10321,9958,12013,12014,12015,12091,12784,12758,12775,17529,18043,22348,36631,34693,34695,34697,34699,35702,36144,36151,39885",
+        "core_id": 2181.0
+      }
+    },
+    {
+      "id": "variant-27d39f8f-5c88-5af7-a7c1-b8ebd1346284",
+      "score": 0.8537879,
+      "metadata": {
+        "text": "core_product_name: gate valve | construction_features: Forged",
+        "raw_product_name": "VALVE GATE FORGED",
+        "list_of_product_ids": "6215,5384,10997,11616,11636,11221,11239,11252,11276,11397,11437,9259,8278,8376,8550,8641,8617,9409,9434,9450,9249,9168,9245,9339,11977,12023,12041,12032,12096,12491,12570,12654,13254,19380,19388,17620,17816,17909,18302,18032,19708,19859,31810,31714,32699,35523",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-441a1200-d5f5-5121-8c4b-fe5e1c49cc3f",
+      "score": 0.85363513,
+      "metadata": {
+        "text": "core_product_name: appliance valve",
+        "raw_product_name": "APPLIANCE VALVE",
+        "list_of_product_ids": "1,415,737,398",
+        "core_id": 128.0
+      }
+    },
+    {
+      "id": "variant-e710300d-3583-5d7e-8fed-45342f49a4f0",
+      "score": 0.85248107,
+      "metadata": {
+        "text": "core_product_name: special control valve",
+        "raw_product_name": "SPECIAL CONTROL VALVES",
+        "list_of_product_ids": "13990,18539,23763,22458,22425,22487,22480,38452,40026",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-47c89fc0-e1e3-562c-a03f-09ce7a7b8a5c",
+      "score": 0.8523508,
+      "metadata": {
+        "text": "core_product_name: special valve | type_or_class: Category",
+        "raw_product_name": "VALVE SPECIAL CATEGORY",
+        "list_of_product_ids": "6271,5440,11271,7833,7842,8652,8705,12327,12573,12658,13276,15007,15035,15039,15015,15030,15045,18316,18314",
+        "core_id": 2374.0
+      }
+    },
+    {
+      "id": "variant-3af49486-93ab-5254-a588-fea4e3345951",
+      "score": 0.8522673,
+      "metadata": {
+        "text": "core_product_name: needle valve",
+        "raw_product_name": "VALVE NEEDLE",
+        "list_of_product_ids": "5434,6265,8184,8167,8171,8152,8182,8183,8181,8599,18083,18084,18086,18307,30828,37284,36451",
+        "core_id": 1543.0
+      }
+    },
+    {
+      "id": "variant-4ac8de47-d4ec-5a19-abfc-7860f49138c9",
+      "score": 0.8518753,
+      "metadata": {
+        "text": "core_product_name: deluge valve",
+        "raw_product_name": "DELUGE VALVE",
+        "list_of_product_ids": "6385,5556,6997,7010,9956,9957,8289,8298,8735,8882,8922,8926,8930,8957,9063,9068,9073,9103,9146,12394,18887,18933,23761,24221,22765,22793",
+        "core_id": 565.0
+      }
+    },
+    {
+      "id": "variant-21302b14-ae7b-560d-b67c-e795da2ec93b",
+      "score": 0.851562,
+      "metadata": {
+        "text": "core_product_name: special control valve | type_or_class: Angle",
+        "raw_product_name": "SPECIAL CONTROL VALVES (ANGLE)",
+        "list_of_product_ids": "13991,15407,15408,20249,23768,22455,22422,22477",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-3b6fd501-a4aa-5f0e-a5f4-14d273ad963d",
+      "score": 0.8514639,
+      "metadata": {
+        "text": "core_product_name: surge relief valve",
+        "raw_product_name": "SURGE RELIEF VALVE",
+        "list_of_product_ids": "6505,5676,12130,22347,28768",
+        "core_id": 2159.0
+      }
+    },
+    {
+      "id": "variant-4062373c-a7af-5184-b5af-32d3b472f76f",
+      "score": 0.8513535,
+      "metadata": {
+        "text": "core_product_name: ball valve | construction_features: forged",
+        "raw_product_name": "VALVE BALL FORGED",
+        "list_of_product_ids": "140,222,209,935,458",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-7f342f16-0dd1-50df-bb92-f2e717b86126",
+      "score": 0.8512809,
+      "metadata": {
+        "text": "core_product_name: relief valve",
+        "raw_product_name": "VALVE RELIEF",
+        "list_of_product_ids": "14046,15292,22346,30833,36632",
+        "core_id": 2370.0
+      }
+    },
+    {
+      "id": "variant-c3c43150-376a-55b8-97b1-87ac754b97cf",
+      "score": 0.85052073,
+      "metadata": {
+        "text": "core_product_name: air release valve",
+        "raw_product_name": "Air Release Valve",
+        "list_of_product_ids": "7489,7164,11511,23526,31193,31194,31195,39759,40031",
+        "core_id": 156.0
+      }
+    },
+    {
+      "id": "variant-9b25b784-a1a1-5ce1-9130-4075d704d02b",
+      "score": 0.850509,
+      "metadata": {
+        "text": "core_product_name: globe valve | construction_features: forged",
+        "raw_product_name": "VALVE GLOBE FORGED",
+        "list_of_product_ids": "6222,5391,11621,11639,11241,11254,11278,8279,8380,8554,8644,8621,9386,9428,9410,9452,9251,9165,9247,9341,11976,12097,12492,12571,13261,13361,19389,17622,17817,17907,18303,18031,19861,31811,19381,32700,36762,35556",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-eeb660c0-1de4-5207-b587-e52eaa01d4df",
+      "score": 0.8502955,
+      "metadata": {
+        "text": "core_product_name: conventional valve | type_or_class: Check",
+        "raw_product_name": "CONVENTIONAL VALVES (CHECK)",
+        "list_of_product_ids": "7289,7615,11053,11056,11139,7856,30846,30856,30860,30863,30866,30868",
+        "core_id": 471.0
+      }
+    },
+    {
+      "id": "variant-624ba7e4-dae5-5801-ac32-fc98eac6de2b",
+      "score": 0.8502618,
+      "metadata": {
+        "text": "core_product_name: safety valve | type_or_class: Spring Type",
+        "raw_product_name": "SAFETY VALVES(SPRING TYPE)",
+        "list_of_product_ids": "7610,7285,11131,11825,7847",
+        "core_id": 1950.0
+      }
+    },
+    {
+      "id": "variant-ef714854-2383-5bcc-a51a-bd52b4d9ddd7",
+      "score": 0.85001296,
+      "metadata": {
+        "text": "core_product_name: conventional valve | type_or_class: Gate",
+        "raw_product_name": "CONVENTIONAL VALVES (GATE)",
+        "list_of_product_ids": "7613,11051,11054,7287,11137,7854,30844,30855,30858,30861,30864,30867,35534",
+        "core_id": 471.0
+      }
+    },
+    {
+      "id": "variant-715d392a-bfde-5be1-9ca2-c1b457ee6dee",
+      "score": 0.84973955,
+      "metadata": {
+        "text": "core_product_name: control valve",
+        "raw_product_name": "CONTROL VALVES",
+        "list_of_product_ids": "6491,5662,10695,11716,8189,8692,11953,12128,12150,12173,12184,12609,12825,12826,12816,12830,13172,17317,17316,17315,17314,17478,17860,19701,19748,21532,21767,22686,27479,27478,27477,27476,27475,27474,27473,27480,35700,36122,36229,36381,39944,40005,40066,40127,40278,40269,40296",
+        "core_id": 468.0
+      }
+    },
+    {
+      "id": "variant-c3316671-1084-5801-b30a-c27420018e41",
+      "score": 0.8496964,
+      "metadata": {
+        "text": "core_product_name: type valve control body",
+        "raw_product_name": "VALVE CONTROL BODY TYPE",
+        "list_of_product_ids": "14051,15178,17084,20252,22357,23086,23779,23783,36658",
+        "core_id": 2349.0
+      }
+    },
+    {
+      "id": "variant-03c8c4a9-de50-575b-b834-a8093dc011d2",
+      "score": 0.84951824,
+      "metadata": {
+        "text": "core_product_name: two way valve",
+        "raw_product_name": "TWO WAY VALVES",
+        "list_of_product_ids": "7595,7270,8602,22888",
+        "core_id": 2302.0
+      }
+    },
+    {
+      "id": "variant-8d00b73b-5dbc-5a15-9977-16b46a2060ab",
+      "score": 0.84933275,
+      "metadata": {
+        "text": "core_product_name: valve fitting",
+        "raw_product_name": "VALVES FITTING",
+        "list_of_product_ids": "8612",
+        "core_id": 2379.0
+      }
+    },
+    {
+      "id": "variant-8788ef44-6564-50af-bfce-061ba690a1fd",
+      "score": 0.8491882,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | type_or_class: Alarm",
+        "raw_product_name": "INSTRUMENTATION CABLES (ALARM)",
+        "list_of_product_ids": "13722,14713,14727,14734,14741,14751,14772,14832,15157,15183,15167,15833,20043,24059,23910,38757,38842,38598,38624,38706,38731,38652,38783,38874,38916,38942,38678,38979,39006,39034,39049,39102,39132,39180,39208,39261,39282,39328,39364,39393,39423,39474,39529,39556,39594,39618,39646,39680,39720,39790,39818,39889",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-2ec54a57-e222-5a47-bfa6-739ba5d7f3ea",
+      "score": 0.84918416,
+      "metadata": {
+        "text": "core_product_name: deluge valve | type_or_class: Diaphragm",
+        "raw_product_name": "DELUGE VALVE (DIAPHRAGM)",
+        "list_of_product_ids": "28285,28287,28297,28410,35575",
+        "core_id": 565.0
+      }
+    },
+    {
+      "id": "variant-1a987059-79e6-5a60-912d-cf88112b927f",
+      "score": 0.84899825,
+      "metadata": {
+        "text": "core_product_name: valve",
+        "raw_product_name": "VALVE",
+        "list_of_product_ids": "6489,5660,11527,7625,7628,10171,11508,12680,12682,12687,21302,31185,25958,37048,37263,35947,35995,36121",
+        "core_id": 307.0
+      }
+    },
+    {
+      "id": "variant-1fb108ad-2a85-5385-a3ab-0c77de7e6de9",
+      "score": 0.84882116,
+      "metadata": {
+        "text": "core_product_name: flood alarm system",
+        "raw_product_name": "FLOOD ALARM SYSTEM",
+        "list_of_product_ids": "243,872,438,626,860",
+        "core_id": 918.0
+      }
+    },
+    {
+      "id": "variant-2d11ea10-b743-53e1-a8ca-900dfe4f9749",
+      "score": 0.8486851,
+      "metadata": {
+        "text": "core_product_name: control valve positioner",
+        "raw_product_name": "CONTROL VALVE POSITIONER",
+        "list_of_product_ids": "6488,5659,11718,8691",
+        "core_id": 467.0
+      }
+    }
+  ]
+}

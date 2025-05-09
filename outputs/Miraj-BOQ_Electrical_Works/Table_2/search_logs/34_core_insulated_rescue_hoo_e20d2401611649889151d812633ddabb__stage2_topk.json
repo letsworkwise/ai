@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: insulated rescue hook",
+  "retrieval_results": [
+    {
+      "id": "variant-fa9f8ed7-2f4d-56d8-8db2-ddfc1250d2ed",
+      "score": 0.8849155,
+      "metadata": {
+        "text": "core_product_name: insulation",
+        "raw_product_name": "INSULATION WORK",
+        "list_of_product_ids": "7089,7416,11863,19372,39269,39319,39323,39417",
+        "core_id": 404.0
+      }
+    },
+    {
+      "id": "variant-c5db7b1e-e157-5769-bf42-abcaf65a88ce",
+      "score": 0.8847373,
+      "metadata": {
+        "text": "core_product_name: insulation",
+        "raw_product_name": "COMPARTMENTS INSULATION",
+        "list_of_product_ids": "23464,23467,23465,28660",
+        "core_id": 404.0
+      }
+    },
+    {
+      "id": "variant-ba3d7620-8f6f-5c5a-bdc1-21d5c6b75b6f",
+      "score": 0.88440263,
+      "metadata": {
+        "text": "core_product_name: insulation material",
+        "raw_product_name": "INSULATION MATERIAL",
+        "list_of_product_ids": "10251,10256,10261,10266,10273,10278,10281,7088,7415,10172,10221,10226,10230,10234,10240,10245,11862,13008,38431,33383",
+        "core_id": 1274.0
+      }
+    },
+    {
+      "id": "variant-dccb1b8c-ce03-5353-8d7f-1894add2f041",
+      "score": 0.88274443,
+      "metadata": {
+        "text": "core_product_name: equipment insulation",
+        "raw_product_name": "EQUIPMENT INSULATION WORKS",
+        "list_of_product_ids": "358,293,583,235,880",
+        "core_id": 761.0
+      }
+    },
+    {
+      "id": "variant-0e024b9d-e701-59e9-a67f-ea6ac140bacb",
+      "score": 0.8823309,
+      "metadata": {
+        "text": "core_product_name: hook",
+        "raw_product_name": "HOOKS",
+        "list_of_product_ids": "282,382,824,328,236",
+        "core_id": 1139.0
+      }
+    },
+    {
+      "id": "variant-b55a4457-928b-5d4f-a0d7-6fb8f7583369",
+      "score": 0.8819702,
+      "metadata": {
+        "text": "core_product_name: insulating joint",
+        "raw_product_name": "INSULATING JOINTS",
+        "list_of_product_ids": "6206,5375,12910,31006,31054,31064",
+        "core_id": 1269.0
+      }
+    },
+    {
+      "id": "variant-f4cb35a0-45af-5dac-bc43-67d73604e2eb",
+      "score": 0.88054836,
+      "metadata": {
+        "text": "core_product_name: insulating brick",
+        "raw_product_name": "INSULATING BRICKS",
+        "list_of_product_ids": "6137,5304,8830,8851,8855,8862,8863,8864,9618,9623,9625,9659,9800,13152,24285",
+        "core_id": 1267.0
+      }
+    },
+    {
+      "id": "variant-c9bbeab8-ae58-5844-80ca-fe62673bff99",
+      "score": 0.8803275,
+      "metadata": {
+        "text": "core_product_name: insulating oil",
+        "raw_product_name": "INSULATING OIL",
+        "list_of_product_ids": "18524,18500,18499,28032",
+        "core_id": 1270.0
+      }
+    },
+    {
+      "id": "variant-bbad95d9-b94a-500e-b33a-e10ab8250567",
+      "score": 0.87959045,
+      "metadata": {
+        "text": "core_product_name: safety relief valve",
+        "raw_product_name": "Safety Relief Valve",
+        "list_of_product_ids": "7520,7194,10321,9958,12013,12014,12015,12091,12784,12758,12775,17529,18043,22348,36631,34693,34695,34697,34699,35702,36144,36151,39885",
+        "core_id": 2181.0
+      }
+    },
+    {
+      "id": "variant-1ba33b0e-5eaa-56d1-ae14-925bc633fcfa",
+      "score": 0.87934655,
+      "metadata": {
+        "text": "core_product_name: duct insulation",
+        "raw_product_name": "DUCT INSULATION",
+        "list_of_product_ids": "13749,16142,22567,22558,37316",
+        "core_id": 639.0
+      }
+    },
+    {
+      "id": "variant-05c9db43-5c4d-52ba-ab45-526ce58a2d3e",
+      "score": 0.87918824,
+      "metadata": {
+        "text": "core_product_name: thermal insulation",
+        "raw_product_name": "Thermal Insulation",
+        "list_of_product_ids": "7572,7247,11774,11775,7759,7755,7757,9770,12863,13002,13009,16997,17020,17014,34601",
+        "core_id": 2305.0
+      }
+    },
+    {
+      "id": "variant-1177c3ca-47df-5dfa-b0d6-ac06a148cbf9",
+      "score": 0.8791022,
+      "metadata": {
+        "text": "core_product_name: underdeck insulation",
+        "raw_product_name": "INSULATION - UNDERDECK INSULATION",
+        "list_of_product_ids": "6370,5541,9768,15692,15693,33283,35247,35248",
+        "core_id": 1273.0
+      }
+    },
+    {
+      "id": "variant-d3de3aef-f3cf-5f4c-8a4a-5abceace4d98",
+      "score": 0.87827694,
+      "metadata": {
+        "text": "core_product_name: overdeck insulation",
+        "raw_product_name": "INSULATION - OVERDECK INSULATION",
+        "list_of_product_ids": "6371,5542,9769,15691,15689,23825,33346",
+        "core_id": 1272.0
+      }
+    },
+    {
+      "id": "variant-a73f4582-3a87-5e63-8f2d-9694dee8d13c",
+      "score": 0.8773819,
+      "metadata": {
+        "text": "core_product_name: surge isolator",
+        "raw_product_name": "SURGE ISOLATORS",
+        "list_of_product_ids": "83,981,393,722,383",
+        "core_id": 2157.0
+      }
+    },
+    {
+      "id": "variant-4a0320ce-349d-56b6-83d6-e53be458a6de",
+      "score": 0.8767418,
+      "metadata": {
+        "text": "core_product_name: tank insulation",
+        "raw_product_name": "TANK INSULATION",
+        "list_of_product_ids": "1,663,716,640",
+        "core_id": 2201.0
+      }
+    },
+    {
+      "id": "variant-f307cfdb-245b-5bdc-a39d-cc4157fd1f49",
+      "score": 0.8762365,
+      "metadata": {
+        "text": "core_product_name: insulator",
+        "raw_product_name": "INSULATORS",
+        "list_of_product_ids": "13735,16095,16113,16245,16250,16327,16424,16423,16418,16417,16438,16460,16529,23142,16504",
+        "core_id": 1276.0
+      }
+    },
+    {
+      "id": "variant-067779a2-122f-53f1-9469-d03371626e54",
+      "score": 0.87621063,
+      "metadata": {
+        "text": "core_product_name: pipe insulation",
+        "raw_product_name": "PIPE INSULATION",
+        "list_of_product_ids": "13921,16092,16635,16633,18103,23466,23458,34600",
+        "core_id": 1662.0
+      }
+    },
+    {
+      "id": "variant-7f342f16-0dd1-50df-bb92-f2e717b86126",
+      "score": 0.87596816,
+      "metadata": {
+        "text": "core_product_name: relief valve",
+        "raw_product_name": "VALVE RELIEF",
+        "list_of_product_ids": "14046,15292,22346,30833,36632",
+        "core_id": 2370.0
+      }
+    },
+    {
+      "id": "variant-7ef67333-7e57-5682-8b6d-87154ce920cd",
+      "score": 0.87569404,
+      "metadata": {
+        "text": "core_product_name: helicopter rescue kit",
+        "raw_product_name": "HELICOPTER RESCUE KIT",
+        "list_of_product_ids": "188,522,806,337,431",
+        "core_id": 1121.0
+      }
+    },
+    {
+      "id": "variant-c8a96ede-cfbb-5218-9975-4bec14e4ae48",
+      "score": 0.8752636,
+      "metadata": {
+        "text": "core_product_name: insulation tape",
+        "raw_product_name": "INSULATION TAPE",
+        "list_of_product_ids": "211,492,114,827,368",
+        "core_id": 1275.0
+      }
+    },
+    {
+      "id": "variant-81340cbc-b282-5f41-b0bc-23b4e381edee",
+      "score": 0.87480813,
+      "metadata": {
+        "text": "core_product_name: emergency vent",
+        "raw_product_name": "EMERGENCY VENT",
+        "list_of_product_ids": "1,392,415,189",
+        "core_id": 742.0
+      }
+    },
+    {
+      "id": "variant-818e7d99-2e76-50e3-ae9d-2d7e5a8b0eb1",
+      "score": 0.8740121,
+      "metadata": {
+        "text": "core_product_name: insulating refractory castable",
+        "raw_product_name": "INSULATING REFRACTORY CASTABLE",
+        "list_of_product_ids": "6140,5310,10463,8833,8836,8850,8866,9621,9629,9662,9667,9658,9802,13156,24310",
+        "core_id": 1271.0
+      }
+    },
+    {
+      "id": "variant-d6bd5af0-e587-5d61-ba1a-b007d6c39165",
+      "score": 0.8735732,
+      "metadata": {
+        "text": "core_product_name: acoustic insulation",
+        "raw_product_name": "ACOUSTIC INSULATION",
+        "list_of_product_ids": "15674,15675,15676,15673,27988",
+        "core_id": 37.0
+      }
+    },
+    {
+      "id": "variant-3b6fd501-a4aa-5f0e-a5f4-14d273ad963d",
+      "score": 0.8727659,
+      "metadata": {
+        "text": "core_product_name: surge relief valve",
+        "raw_product_name": "SURGE RELIEF VALVE",
+        "list_of_product_ids": "6505,5676,12130,22347,28768",
+        "core_id": 2159.0
+      }
+    },
+    {
+      "id": "variant-086b9eed-56e2-5efe-b5a1-8607125d7cf1",
+      "score": 0.87259907,
+      "metadata": {
+        "text": "core_product_name: hinged closure",
+        "raw_product_name": "HINGED CLOSURES",
+        "list_of_product_ids": "16126,16175,17330,17551,36725,34728,34730,34754,34851",
+        "core_id": 1134.0
+      }
+    },
+    {
+      "id": "variant-80133fe8-4f32-5e0c-b4b1-a586a279651c",
+      "score": 0.8723563,
+      "metadata": {
+        "text": "core_product_name: insulation product | material: Rock Wool",
+        "raw_product_name": "ROCK WOOL INSULATION PRODUCTS",
+        "list_of_product_ids": "6145,5315,8806,8808,8805,8807,8809,18881,18927,24317,24318,24319,33284",
+        "core_id": 1070.0
+      }
+    },
+    {
+      "id": "variant-96e318ae-dbe1-584a-86e1-a8528edf2ddb",
+      "score": 0.87218535,
+      "metadata": {
+        "text": "core_product_name: isolator",
+        "raw_product_name": "BARRIERS / ISOLATOR",
+        "list_of_product_ids": "5938,6767,11928,11927,11929,12113,12362,12371,12695,12705,12708,12703,18140,19646,19653,35361",
+        "core_id": 178.0
+      }
+    },
+    {
+      "id": "variant-c0539407-0eae-5cc3-8c76-86b8fe7e4768",
+      "score": 0.872123,
+      "metadata": {
+        "text": "core_product_name: protection relay",
+        "raw_product_name": "PROTECTION RELAYS",
+        "list_of_product_ids": "6468,5639,11165,7903,8234,8240,9275,8235,9443,12123,26086,26085",
+        "core_id": 1797.0
+      }
+    },
+    {
+      "id": "variant-d57d54de-f40c-539e-8057-478b97a834b0",
+      "score": 0.87169474,
+      "metadata": {
+        "text": "core_product_name: thermal relief valve",
+        "raw_product_name": "THERMAL RELIEF VALVE",
+        "list_of_product_ids": "14016,15348,15353,15358,22349,36633,37438,37439,34694,34696,34698,34700",
+        "core_id": 2242.0
+      }
+    },
+    {
+      "id": "variant-a8b438ed-3029-5f57-89ba-e704827efb4f",
+      "score": 0.87161404,
+      "metadata": {
+        "text": "core_product_name: disc insulator",
+        "raw_product_name": "DISC INSULATOR",
+        "list_of_product_ids": "13672,18325,34245,34880,34904",
+        "core_id": 596.0
+      }
+    }
+  ]
+}

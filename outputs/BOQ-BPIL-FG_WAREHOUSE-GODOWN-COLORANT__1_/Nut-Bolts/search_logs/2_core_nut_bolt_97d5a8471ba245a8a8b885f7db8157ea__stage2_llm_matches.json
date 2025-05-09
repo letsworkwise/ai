@@ -1,0 +1,65 @@
+{
+  "query": "core_product_name: nut bolt | size: size: M16-75LG",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: bolt and nut | material: MS (Mild Steel) | construction_features: Black",
+        "raw_product_name": "BOLTS & NUTS (M.S.BLACK)",
+        "list_of_product_ids": [
+          "19335",
+          "19336",
+          "21478",
+          "26270",
+          "26151",
+          "26152",
+          "26204",
+          "26217",
+          "26227",
+          "26236",
+          "27712"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: bolt and nut | material: Chromium Plated",
+        "raw_product_name": "BOLTS & NUTS (CHROMIUM PLATED)",
+        "list_of_product_ids": [
+          "216",
+          "132",
+          "162",
+          "321",
+          "606"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: bolt and nut | material: Nickel Plated",
+        "raw_product_name": "BOLTS & NUTS (NICKEL PLATED)",
+        "list_of_product_ids": [
+          "216",
+          "142",
+          "161",
+          "921",
+          "607"
+        ]
+      }
+    }
+  ]
+}

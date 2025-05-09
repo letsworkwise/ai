@@ -1,0 +1,618 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.859986,
+      "text": "core_product_name: street light pole",
+      "core_id": 2127.0,
+      "raw_product_name": "STREET LIGHT POLES",
+      "list_of_product_ids": [
+        "241",
+        "872",
+        "418",
+        "827",
+        "640"
+      ]
+    },
+    {
+      "retrieval_score": 0.8548449,
+      "text": "core_product_name: junction box",
+      "core_id": 1311.0,
+      "raw_product_name": "JUNCTION BOXES",
+      "list_of_product_ids": [
+        "5960",
+        "6788",
+        "10303",
+        "10552",
+        "10606",
+        "8206",
+        "8209",
+        "15928",
+        "17373",
+        "18803",
+        "24168",
+        "22859",
+        "27495",
+        "36562",
+        "36607",
+        "35775",
+        "35887",
+        "35865",
+        "35940",
+        "36519",
+        "39357"
+      ]
+    },
+    {
+      "retrieval_score": 0.8398943,
+      "text": "core_product_name: weatherproof junction box | protection_features: Weatherproof",
+      "core_id": 1310.0,
+      "raw_product_name": "JUNCTION BOX (WEATHERPROOF)",
+      "list_of_product_ids": [
+        "215",
+        "532",
+        "156",
+        "528",
+        "596"
+      ]
+    },
+    {
+      "retrieval_score": 0.8380881,
+      "text": "core_product_name: solar street lighting",
+      "core_id": 2059.0,
+      "raw_product_name": "SOLAR STREET LIGHTING",
+      "list_of_product_ids": [
+        "13982",
+        "17713",
+        "17709",
+        "17767",
+        "18696",
+        "37006",
+        "34978",
+        "35048"
+      ]
+    },
+    {
+      "retrieval_score": 0.83295095,
+      "text": "core_product_name: flame proof junction box | protection_features: Flame proof",
+      "core_id": 1315.0,
+      "raw_product_name": "JUNCTION BOXES (FLAME PROOF)",
+      "list_of_product_ids": [
+        "6417",
+        "5587",
+        "11078",
+        "11075",
+        "10304",
+        "11324",
+        "10578",
+        "10585",
+        "10555",
+        "10601",
+        "10686",
+        "8207",
+        "8208",
+        "8402",
+        "15922",
+        "16008",
+        "16029",
+        "16025",
+        "26747",
+        "26746",
+        "33512",
+        "35769"
+      ]
+    },
+    {
+      "retrieval_score": 0.83288246,
+      "text": "core_product_name: outdoor insulator and bushing | size_or_capacity: 132 kV or 220 kV | operating_conditions: outdoor",
+      "core_id": 8.0,
+      "raw_product_name": "132kV/ 220 kV outdoor Insulator & Bushing",
+      "list_of_product_ids": [
+        "14148",
+        "14691",
+        "16117",
+        "17435",
+        "18327",
+        "21497"
+      ]
+    },
+    {
+      "retrieval_score": 0.8316497,
+      "text": "core_product_name: communication cable | construction_features: jelly filled",
+      "core_id": 287.0,
+      "raw_product_name": "CABLES COMMN. (JELLY FILLED)",
+      "list_of_product_ids": [
+        "6426",
+        "5596",
+        "11747",
+        "12089",
+        "12121",
+        "13297",
+        "23995",
+        "23864"
+      ]
+    },
+    {
+      "retrieval_score": 0.83158165,
+      "text": "core_product_name: commercial cable",
+      "core_id": 400.0,
+      "raw_product_name": "COMMERCIAL CABLE",
+      "list_of_product_ids": [
+        "20779",
+        "20808",
+        "20806",
+        "21176",
+        "21175",
+        "27361"
+      ]
+    },
+    {
+      "retrieval_score": 0.83070993,
+      "text": "core_product_name: octagonal pole | material: GI (Galvanized Iron)",
+      "core_id": 1057.0,
+      "raw_product_name": "GI-OCTAGONAL POLE",
+      "list_of_product_ids": [
+        "180",
+        "571",
+        "805",
+        "618",
+        "592"
+      ]
+    },
+    {
+      "retrieval_score": 0.83022046,
+      "text": "core_product_name: compensating cable",
+      "core_id": 407.0,
+      "raw_product_name": "COMPENSATING CABLE",
+      "list_of_product_ids": [
+        "24082",
+        "21244",
+        "21234",
+        "23933",
+        "28345"
+      ]
+    },
+    {
+      "retrieval_score": 0.830081,
+      "text": "core_product_name: cable termination and jointing kit",
+      "core_id": 282.0,
+      "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+      "list_of_product_ids": [
+        "6444",
+        "5614",
+        "11000",
+        "12263",
+        "12344",
+        "15781",
+        "23866",
+        "24503"
+      ]
+    },
+    {
+      "retrieval_score": 0.83003026,
+      "text": "core_product_name: polygonal pole",
+      "core_id": 1728.0,
+      "raw_product_name": "POLYGONAL POLE",
+      "list_of_product_ids": [
+        "17349",
+        "17339",
+        "20226",
+        "20351"
+      ]
+    },
+    {
+      "retrieval_score": 0.8297029,
+      "text": "core_product_name: power cable",
+      "core_id": 3.0,
+      "raw_product_name": "POWER CABLE",
+      "list_of_product_ids": [
+        "13440",
+        "14645",
+        "15813",
+        "29442",
+        "29447",
+        "29448",
+        "24045",
+        "23896",
+        "36583",
+        "36611",
+        "38139"
+      ]
+    },
+    {
+      "retrieval_score": 0.82920426,
+      "text": "core_product_name: gear box",
+      "core_id": 1081.0,
+      "raw_product_name": "Gear Box",
+      "list_of_product_ids": [
+        "7534",
+        "7208",
+        "9726",
+        "19610",
+        "19616",
+        "23496",
+        "34585",
+        "34587",
+        "34588",
+        "34597",
+        "34598",
+        "34602",
+        "34599",
+        "34629",
+        "34630",
+        "34642",
+        "34644",
+        "34645",
+        "34648",
+        "34649",
+        "34641",
+        "34643",
+        "34953",
+        "35150",
+        "35145",
+        "35147",
+        "35151",
+        "35189",
+        "35208",
+        "35207",
+        "35201",
+        "35215",
+        "35271",
+        "35269",
+        "35414",
+        "35423",
+        "35430",
+        "35440",
+        "35441",
+        "35444",
+        "35449",
+        "35417",
+        "35607",
+        "35663",
+        "35664",
+        "35660",
+        "35659",
+        "35658",
+        "35657",
+        "35661",
+        "35662",
+        "35681",
+        "35679",
+        "35689",
+        "35697",
+        "35876",
+        "35874",
+        "35872",
+        "35870",
+        "35871",
+        "35883",
+        "35859",
+        "35858",
+        "35946",
+        "35898",
+        "35897",
+        "35896",
+        "35952",
+        "35951",
+        "35948",
+        "35949",
+        "35954",
+        "35958",
+        "35967",
+        "35970",
+        "35975",
+        "35977",
+        "35984",
+        "35985",
+        "35986"
+      ]
+    },
+    {
+      "retrieval_score": 0.82913077,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLE STOCKIST/TRADERS",
+      "list_of_product_ids": [
+        "2",
+        "467",
+        "924",
+        "680"
+      ]
+    },
+    {
+      "retrieval_score": 0.8290438,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLES",
+      "list_of_product_ids": [
+        "15455",
+        "13721",
+        "24275",
+        "15161",
+        "16241",
+        "19098",
+        "23820",
+        "23814",
+        "21319",
+        "19315",
+        "23819",
+        "23822",
+        "24273",
+        "23829",
+        "20141",
+        "23831",
+        "24058",
+        "23836",
+        "23909",
+        "23839",
+        "23828",
+        "24685",
+        "24726",
+        "24844",
+        "24955",
+        "31590",
+        "31591",
+        "26436",
+        "26438",
+        "31740",
+        "33330"
+      ]
+    },
+    {
+      "retrieval_score": 0.8284362,
+      "text": "core_product_name: electrical contact",
+      "core_id": 705.0,
+      "raw_product_name": "ELECTRICAL CONTACTS",
+      "list_of_product_ids": [
+        "211",
+        "562",
+        "115",
+        "228",
+        "503"
+      ]
+    },
+    {
+      "retrieval_score": 0.8280411,
+      "text": "core_product_name: commercial wire",
+      "core_id": 403.0,
+      "raw_product_name": "COMMERCIAL WIRE",
+      "list_of_product_ids": [
+        "20790",
+        "20807",
+        "21174",
+        "21177",
+        "28616",
+        "20809"
+      ]
+    },
+    {
+      "retrieval_score": 0.8272872,
+      "text": "core_product_name: cable lug",
+      "core_id": 280.0,
+      "raw_product_name": "CABLE LUG",
+      "list_of_product_ids": [
+        "2",
+        "064",
+        "720",
+        "116"
+      ]
+    },
+    {
+      "retrieval_score": 0.8268729,
+      "text": "core_product_name: electrical accessory",
+      "core_id": 701.0,
+      "raw_product_name": "ELECTRICAL ACCESSORIES",
+      "list_of_product_ids": [
+        "211",
+        "632",
+        "705",
+        "121",
+        "165"
+      ]
+    },
+    {
+      "retrieval_score": 0.8265782,
+      "text": "core_product_name: cable gland",
+      "core_id": 278.0,
+      "raw_product_name": "CABLE GLANDS",
+      "list_of_product_ids": [
+        "5961",
+        "6789",
+        "8221",
+        "8217",
+        "10553",
+        "10605",
+        "8222",
+        "8223",
+        "12107",
+        "15811",
+        "15929",
+        "16012",
+        "16032",
+        "16026",
+        "17577",
+        "22860",
+        "26078",
+        "26074",
+        "26071",
+        "36606",
+        "33509",
+        "33510",
+        "35776",
+        "35866",
+        "39358"
+      ]
+    },
+    {
+      "retrieval_score": 0.82651913,
+      "text": "core_product_name: lighting fixture",
+      "core_id": 1006.0,
+      "raw_product_name": "LIGHTING FIXTURES",
+      "list_of_product_ids": [
+        "13606",
+        "16555",
+        "16546",
+        "16591",
+        "16576",
+        "17657",
+        "17650",
+        "17702",
+        "17682",
+        "18058",
+        "20306",
+        "20834",
+        "21315",
+        "22108",
+        "23384",
+        "35044"
+      ]
+    },
+    {
+      "retrieval_score": 0.8265011,
+      "text": "core_product_name: insulating joint",
+      "core_id": 1269.0,
+      "raw_product_name": "INSULATING JOINTS",
+      "list_of_product_ids": [
+        "6206",
+        "5375",
+        "12910",
+        "31006",
+        "31054",
+        "31064"
+      ]
+    },
+    {
+      "retrieval_score": 0.8264611,
+      "text": "core_product_name: special cable",
+      "core_id": 2074.0,
+      "raw_product_name": "SPECIAL CABLES",
+      "list_of_product_ids": [
+        "13989",
+        "14840",
+        "20102",
+        "20070",
+        "24071",
+        "23923"
+      ]
+    },
+    {
+      "retrieval_score": 0.8253737,
+      "text": "core_product_name: cable | size_or_capacity: 220 kV (kilovolt) | material: XLPE (cross-linked polyethylene)",
+      "core_id": 1.0,
+      "raw_product_name": "220 kV CABLE XLPE",
+      "list_of_product_ids": [
+        "14151",
+        "15785",
+        "20056",
+        "24051",
+        "23902"
+      ]
+    },
+    {
+      "retrieval_score": 0.825249,
+      "text": "core_product_name: lighting and power distribution panel",
+      "core_id": 1413.0,
+      "raw_product_name": "Lighting & Power Distribution Panel",
+      "list_of_product_ids": [
+        "18723",
+        "18718",
+        "18735",
+        "18734",
+        "18733",
+        "19012",
+        "18997",
+        "18728",
+        "19000",
+        "38293",
+        "35861",
+        "38156"
+      ]
+    },
+    {
+      "retrieval_score": 0.82514817,
+      "text": "core_product_name: outdoor insulator and bushing | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 8.0,
+      "raw_product_name": "33kV outdoor Insulator & Bushing",
+      "list_of_product_ids": [
+        "14156",
+        "16118",
+        "17436",
+        "18328",
+        "21499"
+      ]
+    },
+    {
+      "retrieval_score": 0.8249219,
+      "text": "core_product_name: lighting transformer",
+      "core_id": 635.0,
+      "raw_product_name": "LIGHTING TRANSFORMERS",
+      "list_of_product_ids": [
+        "17731",
+        "17727",
+        "18659",
+        "19486",
+        "35388"
+      ]
+    },
+    {
+      "retrieval_score": 0.82488245,
+      "text": "core_product_name: solar cable",
+      "core_id": 2055.0,
+      "raw_product_name": "SOLAR CABLE",
+      "list_of_product_ids": [
+        "39605",
+        "39450",
+        "38928",
+        "38829",
+        "38743",
+        "38581",
+        "38518",
+        "38664",
+        "38519",
+        "38769",
+        "38949",
+        "38607",
+        "38692",
+        "38635",
+        "38717",
+        "38860",
+        "38902",
+        "38965",
+        "38992",
+        "39020",
+        "39054",
+        "39088",
+        "39118",
+        "39165",
+        "39219",
+        "39247",
+        "39289",
+        "39339",
+        "39375",
+        "39404",
+        "39434",
+        "39485",
+        "39540",
+        "39567",
+        "39629",
+        "39657",
+        "39691",
+        "39731",
+        "39801",
+        "39829",
+        "39900"
+      ]
+    },
+    {
+      "retrieval_score": 0.8247857,
+      "text": "core_product_name: electrical measuring instrument",
+      "core_id": 709.0,
+      "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+      "list_of_product_ids": [
+        "24296",
+        "20768",
+        "20767",
+        "24283"
+      ]
+    }
+  ]
+}

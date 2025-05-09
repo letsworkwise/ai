@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: servo gauge with display | feature_or_specifications: accuracy: ±1mm lab conditions, density measurement, quantity per msv(mounded storage vessel): 1",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: level indicator | type_or_class: Servo Type TGM",
+        "raw_product_name": "LEVEL INDICATORS (SERVO TYPE TGM)",
+        "list_of_product_ids": [
+          "13980"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: level gauge",
+        "raw_product_name": "LEVEL GAUGES",
+        "list_of_product_ids": [
+          "14374",
+          "17072",
+          "18035",
+          "23121",
+          "23520",
+          "36626",
+          "36111"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: gauge",
+        "raw_product_name": "ROCHESTER GAUGE",
+        "list_of_product_ids": [
+          "13848",
+          "13850",
+          "15244",
+          "15258",
+          "21980",
+          "37412"
+        ]
+      }
+    }
+  ]
+}

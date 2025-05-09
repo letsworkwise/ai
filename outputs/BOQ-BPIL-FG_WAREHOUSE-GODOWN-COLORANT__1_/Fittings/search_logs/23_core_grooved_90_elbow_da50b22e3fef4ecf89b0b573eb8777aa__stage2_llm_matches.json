@@ -1,0 +1,60 @@
+{
+  "query": "core_product_name: grooved 90° elbow | size: elbow size: 150 NB",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: elbow fitting",
+        "raw_product_name": "FITTINGS \u0013ELBOW",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: elbowlet",
+        "raw_product_name": "ELBOWLET",
+        "list_of_product_ids": [
+          "14395",
+          "14719",
+          "14722",
+          "14725",
+          "19815",
+          "22922"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: long radius bend",
+        "raw_product_name": "LONG RADIUS BENDS",
+        "list_of_product_ids": [
+          "6202",
+          "5370",
+          "11212",
+          "19493",
+          "30761",
+          "30763",
+          "30764",
+          "30590",
+          "37861",
+          "37394",
+          "39923",
+          "40028",
+          "40092",
+          "40121"
+        ]
+      }
+    }
+  ]
+}

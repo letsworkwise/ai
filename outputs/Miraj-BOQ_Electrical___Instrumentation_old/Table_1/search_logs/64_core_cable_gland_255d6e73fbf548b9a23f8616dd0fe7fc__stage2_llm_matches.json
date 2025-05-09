@@ -1,0 +1,90 @@
+{
+  "query": "core_product_name: cable gland | size: cores: 3c, conductor size: 2.5 sqmm | feature_or_specifications: feature: flameproof, type: double compression, material: stainless steel, suitability: xlpe (cross-linked polyethylene) and frls (flame retardant low smoke) cable sizes, standard: relevant indian standard, application: hazardous area",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable gland",
+        "raw_product_name": "CABLE GLANDS",
+        "list_of_product_ids": [
+          "5961",
+          "6789",
+          "8221",
+          "8217",
+          "10553",
+          "10605",
+          "8222",
+          "8223",
+          "12107",
+          "15811",
+          "15929",
+          "16012",
+          "16032",
+          "16026",
+          "17577",
+          "22860",
+          "26078",
+          "26074",
+          "26071",
+          "36606",
+          "33509",
+          "33510",
+          "35776",
+          "35866",
+          "39358"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: hazardous area cable gland",
+        "raw_product_name": "CABLE GLANDS ( HAZARDOUS AREA)",
+        "list_of_product_ids": [
+          "6443",
+          "5613",
+          "8218",
+          "10559",
+          "10589",
+          "10590",
+          "10604",
+          "8216",
+          "8219",
+          "8220",
+          "8224",
+          "12670",
+          "17578",
+          "23865",
+          "22857",
+          "24500",
+          "35772"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13583",
+          "14851",
+          "20281",
+          "22858",
+          "26788",
+          "26787",
+          "26786",
+          "26789",
+          "35773"
+        ]
+      }
+    }
+  ]
+}

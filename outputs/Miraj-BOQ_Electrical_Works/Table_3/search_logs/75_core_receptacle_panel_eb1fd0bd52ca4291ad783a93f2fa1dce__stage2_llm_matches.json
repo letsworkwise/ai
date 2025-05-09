@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: receptacle panel | feature_or_specifications: voltage: 415 v ac (alternating current), phases: 3ph (three phase), bus: 4w (four wire), incomer: 63 a rcbo (residual current circuit breaker with overcurrent protection) 100 ma, outgoing: 20a 12 nos. dp (double pole) mcb (miniature circuit breaker), enclosure: sheet steel, degree of protection: ip 55",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: industrial receptacle",
+        "raw_product_name": "INDUSTRIAL RECEPTACLE",
+        "list_of_product_ids": [
+          "136",
+          "891",
+          "479",
+          "414",
+          "813"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (pdb (power distribution board))",
+        "raw_product_name": "A.C. DISTRIBUTION BOARD (PDB)",
+        "list_of_product_ids": [
+          "14164",
+          "14792",
+          "14811",
+          "19308"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Size & Capacity"
+      ],
+      "match_details": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: mcc (motor control center) switchgear panel | size_or_capacity: 415V | type_or_class: MCC (Motor Control Center)",
+        "raw_product_name": "415V SWITCHGEAR PANEL (MCC)",
+        "list_of_product_ids": [
+          "15389",
+          "14160",
+          "14609",
+          "17689",
+          "38512"
+        ]
+      }
+    }
+  ]
+}

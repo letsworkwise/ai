@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: qb sprinkler pendent type | acronymed_core_product_name: qb sprinkler pendent type | size: temperature: 68° C, k-factor: 80 | feature_or_specifications: manufacturer: newage",
+  "retrieval_results": [
+    {
+      "id": "variant-7fa3b25f-1368-5176-aad5-701306d3255c",
+      "score": 0.860898,
+      "metadata": {
+        "text": "core_product_name: sprinkler",
+        "raw_product_name": "SPRINKLER",
+        "list_of_product_ids": "13482,13498,13499,31059,37496,35014,37488,37491,37492,37495",
+        "core_id": 2090.0
+      }
+    },
+    {
+      "id": "variant-db5bf6a9-26d9-5efa-913d-ef1f02ca3c2b",
+      "score": 0.8590617,
+      "metadata": {
+        "text": "core_product_name: water sprinkler",
+        "raw_product_name": "WATER SPRINKLER",
+        "list_of_product_ids": "6032,5211,8921,8925,8928,8956,8959,9061,9066,9070,9101,9105,22756,31060,34994",
+        "core_id": 2455.0
+      }
+    },
+    {
+      "id": "variant-7ff74fb8-0733-5a78-b024-455c93c2edc4",
+      "score": 0.8520796,
+      "metadata": {
+        "text": "core_product_name: foam sprinkler",
+        "raw_product_name": "FOAM SPRINKLER",
+        "list_of_product_ids": "8996,8995,9062,9067,9071,9102,24711",
+        "core_id": 970.0
+      }
+    },
+    {
+      "id": "variant-7c83b144-2261-5ef3-ada0-0823013e3c85",
+      "score": 0.8491943,
+      "metadata": {
+        "text": "core_product_name: fire water sprinkler system",
+        "raw_product_name": "FIRE WATER SPRINKLER SYSTEM",
+        "list_of_product_ids": "23980,23982,23983,27056",
+        "core_id": 864.0
+      }
+    },
+    {
+      "id": "variant-7606644a-4edd-5fea-81c9-7414b8a77e6e",
+      "score": 0.8433512,
+      "metadata": {
+        "text": "core_product_name: spray nozzle",
+        "raw_product_name": "SPRAY NOZZLES",
+        "list_of_product_ids": "8288",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-f137bdce-af71-511f-9954-636b434a08d5",
+      "score": 0.84219795,
+      "metadata": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPARETURE GAUGE",
+        "list_of_product_ids": "13992,36535,17284,17283,17282,23171,35667,35957,35960,35972,37406",
+        "core_id": 2222.0
+      }
+    },
+    {
+      "id": "variant-69a162c2-fe75-51be-a600-71c641b536d4",
+      "score": 0.84197694,
+      "metadata": {
+        "text": "core_product_name: precision air conditioning",
+        "raw_product_name": "Precision Air Conditioning",
+        "list_of_product_ids": "7,518,719,218,507",
+        "core_id": 1843.0
+      }
+    },
+    {
+      "id": "variant-f36f9a26-b202-54c5-b8bf-b0bf8137e3a4",
+      "score": 0.8417707,
+      "metadata": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPERATURE GAUGES",
+        "list_of_product_ids": "19536,19516,27065,37528,35959,35961,37407",
+        "core_id": 2222.0
+      }
+    },
+    {
+      "id": "variant-71e605a8-ca37-5389-a1d7-7bf6072d3784",
+      "score": 0.8403156,
+      "metadata": {
+        "text": "core_product_name: differential pressure gauge",
+        "raw_product_name": "DIFFERENTIAL PRESSURE GAUGES",
+        "list_of_product_ids": "6568,5738,11830,11715,12727,16561,16616,16594,16587,17202,18170,17703,18988,18982,18990,22722,37656,37661,37762,37672,32611,37782",
+        "core_id": 585.0
+      }
+    },
+    {
+      "id": "variant-5d85dfa7-d18f-5df7-8d35-c16992e8f01e",
+      "score": 0.8399547,
+      "metadata": {
+        "text": "core_product_name: air cooled condenser",
+        "raw_product_name": "CONDENSER (AIR COOLED)",
+        "list_of_product_ids": "15382,13948,17372,18456,18442,18794,18798,18445,37477",
+        "core_id": 431.0
+      }
+    },
+    {
+      "id": "variant-362532a2-e112-5faa-8c15-f4f72229a291",
+      "score": 0.8391334,
+      "metadata": {
+        "text": "core_product_name: air conditioner",
+        "raw_product_name": "AIR CONDITIONERS",
+        "list_of_product_ids": "143,302,076,623,224",
+        "core_id": 55.0
+      }
+    },
+    {
+      "id": "variant-751ad058-fdfd-583d-9869-ca9671210d00",
+      "score": 0.839097,
+      "metadata": {
+        "text": "core_product_name: air conditioning",
+        "raw_product_name": "AIR CONDITIONING",
+        "list_of_product_ids": "21444,21434,21452,21450,21447,22930,22932,24988,26753",
+        "core_id": 67.0
+      }
+    },
+    {
+      "id": "variant-adaeb938-3641-5d1f-932c-7bddc3a95727",
+      "score": 0.8385443,
+      "metadata": {
+        "text": "core_product_name: pressure gauge",
+        "raw_product_name": "PRESSURE GAUGES",
+        "list_of_product_ids": "6566,5736,9044,9045,9453,9239,9160,12718,12728,12829,12831,13206,14225,16560,16615,16593,16586,18215,18883,18929,18983,19504,21561,31684,31592,31593,37411,37410,36585,37680,33015,36619,33202,33267,38194,33569,33640,38210,38211,37654,35194,35929,35966,35973,37653",
+        "core_id": 1771.0
+      }
+    },
+    {
+      "id": "variant-7e796f6f-0d17-514d-aca4-a14dcdb48ba7",
+      "score": 0.83834225,
+      "metadata": {
+        "text": "core_product_name: fluid power equipment",
+        "raw_product_name": "FLUID POWER EQUIPMENT",
+        "list_of_product_ids": "1,364,936,946",
+        "core_id": 949.0
+      }
+    },
+    {
+      "id": "variant-f33d0a7e-0b00-525a-89f2-33ee968fb551",
+      "score": 0.83828986,
+      "metadata": {
+        "text": "core_product_name: winding temperature indicator",
+        "raw_product_name": "WINDING TEMPERATURE INDICATOR",
+        "list_of_product_ids": "6473,5644,15948,16112",
+        "core_id": 2474.0
+      }
+    },
+    {
+      "id": "variant-59caacf0-2771-53a3-844e-b2c03e89997d",
+      "score": 0.83797914,
+      "metadata": {
+        "text": "core_product_name: special temperature element",
+        "raw_product_name": "SPECIAL TEMPERATURE ELEMENTS",
+        "list_of_product_ids": "6548,5719,10143,11458,11891,12796,31357,31333,35160,35199,35204,35212",
+        "core_id": 2078.0
+      }
+    },
+    {
+      "id": "variant-78bf7588-3bdf-5def-b574-e5f78d7dad2b",
+      "score": 0.83788127,
+      "metadata": {
+        "text": "core_product_name: water cooled condenser",
+        "raw_product_name": "CONDENSER (WATER COOLED)",
+        "list_of_product_ids": "13955,15205,15202,16847,21545,21585",
+        "core_id": 432.0
+      }
+    },
+    {
+      "id": "variant-d3918fb3-1dcf-5330-9bbe-6452020c252d",
+      "score": 0.8377633,
+      "metadata": {
+        "text": "core_product_name: plumbing fitting and fixture",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+        "list_of_product_ids": "6364,5535,7874,12489,12648,12649,34680,34681",
+        "core_id": 1961.0
+      }
+    },
+    {
+      "id": "variant-2d11ea10-b743-53e1-a8ca-900dfe4f9749",
+      "score": 0.8372912,
+      "metadata": {
+        "text": "core_product_name: control valve positioner",
+        "raw_product_name": "CONTROL VALVE POSITIONER",
+        "list_of_product_ids": "6488,5659,11718,8691",
+        "core_id": 467.0
+      }
+    },
+    {
+      "id": "variant-aac0580e-dc58-50b6-aa9f-ef718f4e38a5",
+      "score": 0.8371906,
+      "metadata": {
+        "text": "core_product_name: water cooler",
+        "raw_product_name": "Water Cooler",
+        "list_of_product_ids": "7021,7341,10208,23222",
+        "core_id": 2486.0
+      }
+    },
+    {
+      "id": "variant-35c0b277-6a3b-5856-9c86-096972d7c0d3",
+      "score": 0.8370613,
+      "metadata": {
+        "text": "core_product_name: temperature transmitter",
+        "raw_product_name": "TEMPERATURE TRANSMITTER",
+        "list_of_product_ids": "13422,36532,15082,15245,15259,15305,15312,17117,17116,17115,17114,18212,36177,36325,36511",
+        "core_id": 2226.0
+      }
+    },
+    {
+      "id": "variant-c3e31784-7a55-5e03-ad35-80ecbe477acc",
+      "score": 0.8367594,
+      "metadata": {
+        "text": "core_product_name: central air conditioning system",
+        "raw_product_name": "AIR CONDITIONING SYSTEM - CENTRAL",
+        "list_of_product_ids": "6043,5222,10728,10729,10203,6949,10820,10882,8499,19674,19821,23220",
+        "core_id": 58.0
+      }
+    },
+    {
+      "id": "variant-041dabce-2d0d-518c-81f0-24cb87358759",
+      "score": 0.83656704,
+      "metadata": {
+        "text": "core_product_name: dew point monitor",
+        "raw_product_name": "DEW POINT MONITOR",
+        "list_of_product_ids": "20257,20345,20481,20474,20662,20720,39322",
+        "core_id": 578.0
+      }
+    },
+    {
+      "id": "variant-cbae75ef-1f57-51fb-a18d-88a528fb3ab5",
+      "score": 0.83649516,
+      "metadata": {
+        "text": "core_product_name: measuring special gauge",
+        "raw_product_name": "SPECIAL MEASURING GAUGES",
+        "list_of_product_ids": "216,522,165,021,743",
+        "core_id": 2077.0
+      }
+    },
+    {
+      "id": "variant-5b1e3e9d-8ae5-5f6a-8ddd-8f228cb065b7",
+      "score": 0.8364481,
+      "metadata": {
+        "text": "core_product_name: wet pit pump | mounting_or_installation: vertical",
+        "raw_product_name": "WET PIT PUMPS - VERTICAL",
+        "list_of_product_ids": "37846,37847,37848,37849,37804,37810,37843,37844,37845",
+        "core_id": 2471.0
+      }
+    },
+    {
+      "id": "variant-a595b92c-c451-5f5b-a7d2-c3960b5cbbce",
+      "score": 0.8362504,
+      "metadata": {
+        "text": "core_product_name: temperature recorder",
+        "raw_product_name": "TEMPERATURE RECORDERS",
+        "list_of_product_ids": "6620,5790,10045,10155,11903,12893,12892",
+        "core_id": 2223.0
+      }
+    },
+    {
+      "id": "variant-d9da89a6-d299-59f2-9254-807eaf9aa7f5",
+      "score": 0.8362126,
+      "metadata": {
+        "text": "core_product_name: electro-pneumatic positioner",
+        "raw_product_name": "ELECTRO - PNEUMATIC POSITIONER",
+        "list_of_product_ids": "4,019,640,266",
+        "core_id": 716.0
+      }
+    },
+    {
+      "id": "variant-9988271a-59ee-57cb-9616-702a2cea2636",
+      "score": 0.83603805,
+      "metadata": {
+        "text": "core_product_name: spray nozzle | type_or_class: Fire Fighting",
+        "raw_product_name": "SPRAY NOZZLE- FIRE FIGHTING",
+        "list_of_product_ids": "6036,5215,8013,8012,8262,8263,8294,8738,8923,8927,8929,8958,9064,9069,9072,9104,9145,19631,24003,21213,19986,36157",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-134949fa-564f-5ab9-8cf3-176eb107e9ac",
+      "score": 0.8356811,
+      "metadata": {
+        "text": "core_product_name: coalescent regulator",
+        "raw_product_name": "COALESCENT REGULATOR",
+        "list_of_product_ids": "23235,23260,23232,36781",
+        "core_id": 379.0
+      }
+    },
+    {
+      "id": "variant-d57d54de-f40c-539e-8057-478b97a834b0",
+      "score": 0.83553064,
+      "metadata": {
+        "text": "core_product_name: thermal relief valve",
+        "raw_product_name": "THERMAL RELIEF VALVE",
+        "list_of_product_ids": "14016,15348,15353,15358,22349,36633,37438,37439,34694,34696,34698,34700",
+        "core_id": 2242.0
+      }
+    }
+  ]
+}

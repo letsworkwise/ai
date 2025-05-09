@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: electromagnetic flow meter | size: range: 0~50 m3/hr, water line: 100mm",
+  "retrieval_results": [
+    {
+      "id": "variant-89a2347f-1a82-5551-9f1b-80bf9155df99",
+      "score": 0.88458693,
+      "metadata": {
+        "text": "core_product_name: magnetic flow meter",
+        "raw_product_name": "MAGNETIC FLOW METERS",
+        "list_of_product_ids": "5741,6571,11580,11586,11691,10064,11682,11808,10094,10124,10108,10571,11707,11872,12210,13112,13385,13396,18228,18264,18885,18931,32952,36224,36376",
+        "core_id": 1421.0
+      }
+    },
+    {
+      "id": "variant-a0035dd1-f740-526c-9e6b-edd8cceff95c",
+      "score": 0.8821478,
+      "metadata": {
+        "text": "core_product_name: flow meter",
+        "raw_product_name": "FLOW METER",
+        "list_of_product_ids": "9516,9556,20013,20023,20018,36586",
+        "core_id": 938.0
+      }
+    },
+    {
+      "id": "variant-3e48178f-5c06-56a3-8668-4e1ad2ec2508",
+      "score": 0.8766844,
+      "metadata": {
+        "text": "core_product_name: ultrasonic flow meter",
+        "raw_product_name": "ULTRASONIC FLOW METER",
+        "list_of_product_ids": "6574,5744,11654,11727,11729,11728,11749,11922,13398,17968,18231,19176,38508,36840,35992,38498",
+        "core_id": 2315.0
+      }
+    },
+    {
+      "id": "variant-73cc7443-3984-55be-b48f-83f6af6ca35d",
+      "score": 0.8766493,
+      "metadata": {
+        "text": "core_product_name: turbine flow meter",
+        "raw_product_name": "TURBINE FLOW METERS",
+        "list_of_product_ids": "6577,5747,37191,11755,11820,10151,11750,11753,11899,12147,12149,12212,19329,16990,17113,19495,24208,37229,38482,38478,35606,36214,36366,40119",
+        "core_id": 2291.0
+      }
+    },
+    {
+      "id": "variant-9134b0e6-fc1e-5a54-8140-fa262c90885c",
+      "score": 0.8756987,
+      "metadata": {
+        "text": "core_product_name: variable area flow meter",
+        "raw_product_name": "VARIABLE AREA FLOW METERS(I,T)",
+        "list_of_product_ids": "6570,5740,11581,11587,11595,11652,10063,11685,11694,11813,11827,10570,11710,18398,30543",
+        "core_id": 2382.0
+      }
+    },
+    {
+      "id": "variant-89a5c131-f178-5da7-9060-dd340393808b",
+      "score": 0.87263376,
+      "metadata": {
+        "text": "core_product_name: target flowmeter",
+        "raw_product_name": "TARGET FLOWMETERS",
+        "list_of_product_ids": "65,755,745",
+        "core_id": 2207.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.8723788,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    },
+    {
+      "id": "variant-a4f50f03-dcc3-503a-b810-c1859fab99b9",
+      "score": 0.8723303,
+      "metadata": {
+        "text": "core_product_name: coriolis flowmeter",
+        "raw_product_name": "CORIOLIS FLOWMETER",
+        "list_of_product_ids": "14096,15026,15040,15012,15052,15084,15115,15130,15138,15146,15218,15224,15226,15229,15231,15275,15241,15255,15267,15271,23174,36104,36179,36327",
+        "core_id": 488.0
+      }
+    },
+    {
+      "id": "variant-80adb2a5-8cff-5ebc-ba18-6544a89162f2",
+      "score": 0.87087333,
+      "metadata": {
+        "text": "core_product_name: vortex flow meter",
+        "raw_product_name": "VORTEX FLOW METER",
+        "list_of_product_ids": "6576,5746,11662,10066,11817,11809,10572,11736,11739,13068,13397,18229,35993",
+        "core_id": 2413.0
+      }
+    },
+    {
+      "id": "variant-fb51a368-1262-5ba7-9dbd-6da15decabc3",
+      "score": 0.86998737,
+      "metadata": {
+        "text": "core_product_name: mass flow meter",
+        "raw_product_name": "MASS FLOW METERS",
+        "list_of_product_ids": "6578,5748,11524,11528,11548,11574,11585,11660,11690,10067,11681,11804,11803,11806,11807,11828,11833,11834,10097,10111,11832,11706,11835,11836,12068,12148,18230,18884,18930,19177",
+        "core_id": 1443.0
+      }
+    },
+    {
+      "id": "variant-6cd09d55-0b7c-585f-820b-4a2cf13a2437",
+      "score": 0.86847305,
+      "metadata": {
+        "text": "core_product_name: thermal mass flow meter",
+        "raw_product_name": "THERMAL MASS FLOW METER",
+        "list_of_product_ids": "14013,18172,24191,36113",
+        "core_id": 2253.0
+      }
+    },
+    {
+      "id": "variant-e015dccb-5f49-5d0f-aa32-a40814dff6c3",
+      "score": 0.8683583,
+      "metadata": {
+        "text": "core_product_name: millivolt meter",
+        "raw_product_name": "MILLIVOLT METER",
+        "list_of_product_ids": "219,972,203,128,609",
+        "core_id": 1477.0
+      }
+    },
+    {
+      "id": "variant-31fa0c70-e9d8-5906-9a3a-8e593cd3c562",
+      "score": 0.86831576,
+      "metadata": {
+        "text": "core_product_name: water cut meter",
+        "raw_product_name": "WATER CUT METER",
+        "list_of_product_ids": "14093,15100,17080,19190,19478,36294,36343,36460,39580,40088,40323,40328,40330",
+        "core_id": 2436.0
+      }
+    },
+    {
+      "id": "variant-c8c4458f-8852-5dea-81c4-d57bf70e8c1b",
+      "score": 0.86771446,
+      "metadata": {
+        "text": "core_product_name: water meter",
+        "raw_product_name": "WATER METER",
+        "list_of_product_ids": "15380,14091,17869,17886",
+        "core_id": 2441.0
+      }
+    },
+    {
+      "id": "variant-afab6dc3-050d-5261-8459-27f733291778",
+      "score": 0.86610264,
+      "metadata": {
+        "text": "core_product_name: conductivity meter",
+        "raw_product_name": "CONDUCTIVITY METER",
+        "list_of_product_ids": "1,383,823,184",
+        "core_id": 438.0
+      }
+    },
+    {
+      "id": "variant-d2eab6c2-d22b-57e1-8719-4f726583379e",
+      "score": 0.86566126,
+      "metadata": {
+        "text": "core_product_name: magnetic level instrument",
+        "raw_product_name": "MAGNETIC LEVEL INSTRUMENTS",
+        "list_of_product_ids": "6583,5753,11811,11274,10573,10581,10196,10669,8393,11949,11948,12069,12219,12239,12778,12834,12833,12842,18396,22199",
+        "core_id": 1422.0
+      }
+    },
+    {
+      "id": "variant-bf503acb-0fc0-55b7-bf9d-e5ea2bbe1383",
+      "score": 0.8649352,
+      "metadata": {
+        "text": "core_product_name: flow instrument | type_or_class: Flow (F)",
+        "raw_product_name": "Flow (F) Instruments",
+        "list_of_product_ids": "597,167,996,804",
+        "core_id": 1004.0
+      }
+    },
+    {
+      "id": "variant-7ac24176-af24-5df0-9ee9-43870fd88f04",
+      "score": 0.86478627,
+      "metadata": {
+        "text": "core_product_name: ultrasonic flowmeter | type_or_class: Liquid",
+        "raw_product_name": "ULTRASONIC FLOWMETER (LIQUID)",
+        "list_of_product_ids": "9489,9589,13067,14804,15114,15128,15136,15144,15277,15279,15238,15252,36208,36357",
+        "core_id": 2317.0
+      }
+    },
+    {
+      "id": "variant-e894263e-6a6c-5f62-a8bf-287215ca71a1",
+      "score": 0.8646864,
+      "metadata": {
+        "text": "core_product_name: liquid metering system | type_or_class: Mass Flow Meter",
+        "raw_product_name": "LIQUID METERING SYSTEM (MASS FLOW METER)",
+        "list_of_product_ids": "6618,5788,11582,11588,35674",
+        "core_id": 1372.0
+      }
+    },
+    {
+      "id": "variant-1ac5d110-6c9d-59d6-bd4c-32269eda6ffd",
+      "score": 0.86458415,
+      "metadata": {
+        "text": "core_product_name: meter",
+        "raw_product_name": "WOBBE METERS",
+        "list_of_product_ids": "6564,5734,18968,37761,35704",
+        "core_id": 1470.0
+      }
+    },
+    {
+      "id": "variant-a3ea87f7-7dcb-5836-840f-58464d7fabbb",
+      "score": 0.86449784,
+      "metadata": {
+        "text": "core_product_name: meter",
+        "raw_product_name": "METERS",
+        "list_of_product_ids": "6464,5635,9440,9449,9457,9465,9224,9223,20438,20412,20968",
+        "core_id": 1470.0
+      }
+    },
+    {
+      "id": "variant-ab5c7d28-a5aa-552a-8340-75f3f0f1cca3",
+      "score": 0.8639899,
+      "metadata": {
+        "text": "core_product_name: flow transmitter",
+        "raw_product_name": "FLOW TRANSMITTER",
+        "list_of_product_ids": "134,391,821,036,513",
+        "core_id": 942.0
+      }
+    },
+    {
+      "id": "variant-24112eb4-1d8d-50a1-8a59-bf454fbb4acd",
+      "score": 0.8636009,
+      "metadata": {
+        "text": "core_product_name: variable area flowmeter | type_or_class: Rotameter",
+        "raw_product_name": "VARIABLE AREA FLOWMETER (ROTAMETER)",
+        "list_of_product_ids": "14099,15049,15054,15058,15059,15060,15113,15080,15129,15137,15145,15278,15280,15306,15314,23173,36207,36356",
+        "core_id": 2384.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.8633936,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-d337814d-4caf-55de-a5cc-ad63eedc8308",
+      "score": 0.8628162,
+      "metadata": {
+        "text": "core_product_name: instrument and meter",
+        "raw_product_name": "INSTRUMENT & METER",
+        "list_of_product_ids": "20461,20502,20648,20115",
+        "core_id": 1248.0
+      }
+    },
+    {
+      "id": "variant-22d616a9-27b2-5045-8c46-dc2ca062c176",
+      "score": 0.8622273,
+      "metadata": {
+        "text": "core_product_name: viscosity meter",
+        "raw_product_name": "VISCOSITY METER",
+        "list_of_product_ids": "6,607,577,711,317",
+        "core_id": 2409.0
+      }
+    },
+    {
+      "id": "variant-5e181905-894f-5b44-865f-1088b4105c17",
+      "score": 0.86153525,
+      "metadata": {
+        "text": "core_product_name: water quality analyser | type_or_class: Conductivity",
+        "raw_product_name": "WATER QUALITY ANALYSERS (CONDUCTIVITY)",
+        "list_of_product_ids": "5701,6530,10055,11189,11766,11786,10137,11885,29765,22702,29590,30451,30662,30282,32940,33096,33423,35990,36175,36323",
+        "core_id": 2447.0
+      }
+    },
+    {
+      "id": "variant-bc08e481-a9ae-551e-9e13-ace49d85e974",
+      "score": 0.86111325,
+      "metadata": {
+        "text": "core_product_name: measurement",
+        "raw_product_name": "VIBRATION MEASUREMENT",
+        "list_of_product_ids": "242,652,426,624,269",
+        "core_id": 2401.0
+      }
+    },
+    {
+      "id": "variant-a32d8296-ea3c-51d4-95de-73a3824167db",
+      "score": 0.86060584,
+      "metadata": {
+        "text": "core_product_name: measurement system",
+        "raw_product_name": "MEASUREMENT SYSTEM",
+        "list_of_product_ids": "188,511,884,918,973",
+        "core_id": 1451.0
+      }
+    },
+    {
+      "id": "variant-94ea3340-bef6-5933-8416-982a342511aa",
+      "score": 0.8603449,
+      "metadata": {
+        "text": "core_product_name: turbine meter | operating_conditions: liquid services",
+        "raw_product_name": "TURBINE METER – LIQUID SERVICES",
+        "list_of_product_ids": "14192",
+        "core_id": 2295.0
+      }
+    }
+  ]
+}

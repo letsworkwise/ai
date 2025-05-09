@@ -1,0 +1,69 @@
+{
+  "query": "core_product_name: galvanized steel conduit | size: diameter: 20mm, thickness: 1.6mm | feature_or_specifications: material: galvanized steel",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: galvanized steel pipe | material: Galvanized Steel",
+        "raw_product_name": "GALVANIZED STEEL STRUCTURES- PIPE",
+        "list_of_product_ids": [
+          "21293",
+          "21291",
+          "21284",
+          "21280",
+          "21266",
+          "21264",
+          "21296",
+          "21312",
+          "27931"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: conduit pipe",
+        "raw_product_name": "CONDUIT PIPE",
+        "list_of_product_ids": [
+          "222",
+          "962",
+          "229",
+          "728",
+          "617"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: galvanized iron pipe | acronymed_core_product_name: gi pipe",
+        "raw_product_name": "GI PIPE",
+        "list_of_product_ids": [
+          "15427",
+          "17238",
+          "17227",
+          "30897",
+          "30959",
+          "27363",
+          "28754",
+          "28918",
+          "28967",
+          "35290",
+          "35308",
+          "35313",
+          "39993"
+        ]
+      }
+    }
+  ]
+}

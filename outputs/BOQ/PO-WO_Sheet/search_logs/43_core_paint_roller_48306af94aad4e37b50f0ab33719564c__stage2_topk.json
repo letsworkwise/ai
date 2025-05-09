@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: paint roller | size: width: 2 inch",
+  "retrieval_results": [
+    {
+      "id": "variant-2f91b92f-f416-591a-9b7b-faade5d1ddca",
+      "score": 0.87307996,
+      "metadata": {
+        "text": "core_product_name: road roller",
+        "raw_product_name": "ROAD ROLLER",
+        "list_of_product_ids": "617,653,479,760",
+        "core_id": 1907.0
+      }
+    },
+    {
+      "id": "variant-009717dd-5aba-5762-9336-b0d1297f5fef",
+      "score": 0.8700433,
+      "metadata": {
+        "text": "core_product_name: roller screen",
+        "raw_product_name": "ROLLER SCREEN",
+        "list_of_product_ids": "400,974,013,540,158",
+        "core_id": 1913.0
+      }
+    },
+    {
+      "id": "variant-57fecfed-c79f-5acd-b247-15bf21cbd5a3",
+      "score": 0.8657662,
+      "metadata": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "Paints",
+        "list_of_product_ids": "7573,7248,10288,11486,7766,12146,12193,12340,12341,14307,16998,17021,17015,18878,18924,24661,24663,24684,24681,24678,24676,24675,24672,24697,24690,24694,24700,24725,24723,24722,24729,30771,24738,15680,15678,15677,30810,25163,25264,25278,25308,25299,25345,25552,25781,26145,26116,26220,25680,31891,30742,34244,38228,38229,38230,38231,38232,38233,35616,35617,35618,35619,35622,35703,35698,35707,35785,35816,35817,36023",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-ae413c56-b2e1-58fc-b7c0-83629b95ba1c",
+      "score": 0.8656482,
+      "metadata": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "paints",
+        "list_of_product_ids": "8191",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-014c7bb6-6ec5-54af-848e-7964ab04ac83",
+      "score": 0.865553,
+      "metadata": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "PAINTS (STOCKIST/TRADERS)",
+        "list_of_product_ids": "2,457,824,577",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-0e0c90c9-780c-50d5-a034-058ce6617e37",
+      "score": 0.86162436,
+      "metadata": {
+        "text": "core_product_name: painting",
+        "raw_product_name": "PAINTING",
+        "list_of_product_ids": "239,702,397,227,813",
+        "core_id": 1625.0
+      }
+    },
+    {
+      "id": "variant-b0d9c4df-3690-59a3-8c9a-dfab3097ac82",
+      "score": 0.8615419,
+      "metadata": {
+        "text": "core_product_name: based paint | material: Polymer",
+        "raw_product_name": "POLYMER BASED PAINT",
+        "list_of_product_ids": "138,272,388,622,463",
+        "core_id": 327.0
+      }
+    },
+    {
+      "id": "variant-053579c3-3498-5b60-8344-1f2872278138",
+      "score": 0.8579978,
+      "metadata": {
+        "text": "core_product_name: painting tank",
+        "raw_product_name": "TANK - PAINTING WORK",
+        "list_of_product_ids": "168,882,781,434,496",
+        "core_id": 2198.0
+      }
+    },
+    {
+      "id": "variant-189aa803-8996-5358-b426-82c954e6293d",
+      "score": 0.85753435,
+      "metadata": {
+        "text": "core_product_name: crusher roller",
+        "raw_product_name": "CRUSHER ROLLER",
+        "list_of_product_ids": "7082,7409,10785,10789,10788,10790,10830,10831,9803,23279,24371,40133",
+        "core_id": 521.0
+      }
+    },
+    {
+      "id": "variant-5b635437-be3f-57c0-8db2-eec92dabad9a",
+      "score": 0.8565682,
+      "metadata": {
+        "text": "core_product_name: powered roller | type_or_class: conveyor",
+        "raw_product_name": "CONVEYOR -ROLLER POWERED",
+        "list_of_product_ids": "611,452,819,719",
+        "core_id": 482.0
+      }
+    },
+    {
+      "id": "variant-413b9dbd-fb2f-5a44-be46-778392a8540c",
+      "score": 0.8562961,
+      "metadata": {
+        "text": "core_product_name: gravity roller",
+        "raw_product_name": "CONVEYOR -ROLLER GRAVITY",
+        "list_of_product_ids": "611,352,809,718",
+        "core_id": 476.0
+      }
+    },
+    {
+      "id": "variant-61ed1a5a-d988-5f1a-b288-7fc04abf584a",
+      "score": 0.8557746,
+      "metadata": {
+        "text": "core_product_name: paint | material: Acrylic Emulsion",
+        "raw_product_name": "ACRYLIC EMULSION Paint",
+        "list_of_product_ids": "7041,7368,11500,12195,15679,14311,18879,18925,22556,30744,30769,30808,31893,34033,34242",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-d179beb7-8ae9-5a78-a4c4-2d411dc27fee",
+      "score": 0.8554182,
+      "metadata": {
+        "text": "core_product_name: emulsion paint | material: Plastic",
+        "raw_product_name": "Plastic Emulsion Paint",
+        "list_of_product_ids": "13444,14315,14462,30751,30777,30816,31898,35640,35639,35641,35642,35643",
+        "core_id": 1833.0
+      }
+    },
+    {
+      "id": "variant-9174a8b6-a42c-525f-ab0b-c7b6ec10012f",
+      "score": 0.8542029,
+      "metadata": {
+        "text": "core_product_name: wheel | material: Paper",
+        "raw_product_name": "PAPER WHEEL",
+        "list_of_product_ids": "32768,32769,32990,33024,33177,33242,33544,33616,35904",
+        "core_id": 1638.0
+      }
+    },
+    {
+      "id": "variant-ecb3294f-d3d1-571e-a39d-4c8df6a63d75",
+      "score": 0.8539549,
+      "metadata": {
+        "text": "core_product_name: polishing painting work",
+        "raw_product_name": "PAINTING WORKS - POLISHING",
+        "list_of_product_ids": "6356,5527,34337,34678",
+        "core_id": 1628.0
+      }
+    },
+    {
+      "id": "variant-1ab41630-8bae-5046-a614-3fa1aa8f914d",
+      "score": 0.85259736,
+      "metadata": {
+        "text": "core_product_name: spray painting equipment",
+        "raw_product_name": "SPRAY PAINTING EQUIPMENTS",
+        "list_of_product_ids": "223,092,230,827,039",
+        "core_id": 2089.0
+      }
+    },
+    {
+      "id": "variant-33525379-9060-5b76-8e53-8f90b0e2a756",
+      "score": 0.8521316,
+      "metadata": {
+        "text": "core_product_name: surface texture paint | operating_conditions: Interior",
+        "raw_product_name": "SURFACE TEXTURE PAINT(INTERIOR)",
+        "list_of_product_ids": "200,842,008,020,714",
+        "core_id": 2154.0
+      }
+    },
+    {
+      "id": "variant-2372785c-0a8a-571d-add4-db24f21a105b",
+      "score": 0.85161585,
+      "metadata": {
+        "text": "core_product_name: paint thinner",
+        "raw_product_name": "PAINT THINNER",
+        "list_of_product_ids": "22307,22306,22305,27438,29106,29105,29104",
+        "core_id": 1623.0
+      }
+    },
+    {
+      "id": "variant-134a5803-1220-5c71-a390-0836d01ebe02",
+      "score": 0.850972,
+      "metadata": {
+        "text": "core_product_name: pipe painting",
+        "raw_product_name": "PIPE PAINTING",
+        "list_of_product_ids": "16382,16510,16511,16556,16538,34493",
+        "core_id": 1663.0
+      }
+    },
+    {
+      "id": "variant-13870786-9fb4-541f-a9f9-b4f674c85f68",
+      "score": 0.85068995,
+      "metadata": {
+        "text": "core_product_name: rod",
+        "raw_product_name": "WELDING ROD",
+        "list_of_product_ids": "10254,10259,9976,10287,29408,9960,9961,9962,9963,10243,9968,12300,10248,26249,13474,13475,13476,13508,13515,13501,13527,13534,13541,13555,13548,14407,14408,16059,16101,16221,29428,17719,17735,29463,29483,29673,29526,23323,29544,29572,24764,24756,24737,24874,24863,24852,24893,24915,24929,24907,29607,24999,25009,25019,25052,25042,25035,25087,25078,25067,25056,25112,25131,25121,25140,25160,25172,25198,25188,25181,25214,25210,25238,25261,25250,25274,25283,25296,25305,25318,25332,25327,25355,25394,25382,25371,25414,25492,29632,25866,25938,25980,26125,26182,26159,26278,26310,26334,26359,26382,26445,26494,26470,26530,26544,26576,26602,26625,26648,26729,26706,26817,26834,29695,26917,26980,27011,27153,27213,27190,27237,27265,27294,27317,29724,27389,27415,27449,27561,27589,27618,27664,27690,27842,27889,27857,27940,27970,29775,28004,28040,28098,28134,28156,28328,28305,30689,28362,28393,28441,28474,28524,28572,28557,28541,28586,28592,28602,28604,28612,28643,28626,28653,28884,28681,28690,28704,29803,28747,28730,28761,28769,28867,28860,28853,28891,28914,28916,28935,28948,28965,28969,29019,29012,29020,29027,29060,29046,29076,29093,29109,29110,29112,29129,29143,29167,29193,29225,29319,29332,29355,29379,29746,35899",
+        "core_id": 2297.0
+      }
+    },
+    {
+      "id": "variant-e073d2ae-f2d1-5e74-9d31-5194d6319446",
+      "score": 0.8505409,
+      "metadata": {
+        "text": "core_product_name: structural painting work",
+        "raw_product_name": "PAINTING WORK-STRUCTURAL",
+        "list_of_product_ids": "1,658,927,816",
+        "core_id": 1624.0
+      }
+    },
+    {
+      "id": "variant-b6cc49f4-1485-53a1-a1a7-68d77a587995",
+      "score": 0.8505027,
+      "metadata": {
+        "text": "core_product_name: gallery",
+        "raw_product_name": "CONVEYER GALLERIES",
+        "list_of_product_ids": "210,412,104,227,102",
+        "core_id": 473.0
+      }
+    },
+    {
+      "id": "variant-51099c41-aa43-5333-9366-8cb60cfc4c26",
+      "score": 0.8490642,
+      "metadata": {
+        "text": "core_product_name: flange | material: Incoloy",
+        "raw_product_name": "FLANGES (INCOLOY)",
+        "list_of_product_ids": "20905,24572,24650,37037",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-83351410-76f3-5cb0-86b0-0ae6f6887ba6",
+      "score": 0.8489576,
+      "metadata": {
+        "text": "core_product_name: surface texture paint | operating_conditions: exterior",
+        "raw_product_name": "SURFACE TEXTURE PAINT(EXTERIOR)",
+        "list_of_product_ids": "200,832,007,920,715",
+        "core_id": 2154.0
+      }
+    },
+    {
+      "id": "variant-8ff28017-0264-5e36-a0cf-4da8ef899bf9",
+      "score": 0.84863687,
+      "metadata": {
+        "text": "core_product_name: liner",
+        "raw_product_name": "LINER",
+        "list_of_product_ids": "23255,23259,23254,33433,33436,39416",
+        "core_id": 1104.0
+      }
+    },
+    {
+      "id": "variant-39fce78b-8d44-56c5-9c95-7e9a9934ea56",
+      "score": 0.84716624,
+      "metadata": {
+        "text": "core_product_name: width gauge",
+        "raw_product_name": "Width Gauge",
+        "list_of_product_ids": "7552,7226,10509,18014",
+        "core_id": 2491.0
+      }
+    },
+    {
+      "id": "variant-ba1ff822-fd64-52ee-9509-a2c693f28894",
+      "score": 0.84630346,
+      "metadata": {
+        "text": "core_product_name: grinding wheel",
+        "raw_product_name": "GRINDING WHEEL",
+        "list_of_product_ids": "32756,32757,32988,33021,33175,33238,33542,33614,35902,39045,39194,39275,39352,39236,39463,39503,39516,39708,39773,39864,39954,40015,40062,40112,40222,40250,40289",
+        "core_id": 1076.0
+      }
+    },
+    {
+      "id": "variant-74368c71-5d09-5c4d-bec4-3c1495b9eb51",
+      "score": 0.84578574,
+      "metadata": {
+        "text": "core_product_name: plastilator",
+        "raw_product_name": "PLASTILATOR",
+        "list_of_product_ids": "6155,5325,33901,33907",
+        "core_id": 1700.0
+      }
+    },
+    {
+      "id": "variant-8146d930-f36a-56af-8783-944a47cedfc7",
+      "score": 0.8456058,
+      "metadata": {
+        "text": "core_product_name: rod | material: TUNGUSTEN",
+        "raw_product_name": "TUNGUSTEN ROD",
+        "list_of_product_ids": "32956,32957,33017,33204,33269,33571,33642,35931",
+        "core_id": 2297.0
+      }
+    },
+    {
+      "id": "variant-7fd4cfef-d998-5282-9241-7387b128f297",
+      "score": 0.84542817,
+      "metadata": {
+        "text": "core_product_name: round | material: MS (Mild Steel)",
+        "raw_product_name": "MS ROUND",
+        "list_of_product_ids": "30196,32891,13504,13511,13489,13518,13524,13530,13537,13544,13558,13551,26246,29406,16067,16106,29429,31907,17722,17738,29467,29481,29534,23326,29888,30348,29540,29570,29855,30356,31544,31688,24732,31134,24751,24759,24870,24858,24847,24894,31379,24916,24925,24903,31573,25001,30790,25020,25005,25049,25038,25031,29605,30910,25083,25074,25065,25060,25108,25117,30379,30538,25129,25138,25156,25168,25195,25184,25177,25206,25218,25236,25257,25246,25271,25287,25297,25301,25314,25339,25323,25351,25367,25390,25379,25410,30948,31144,25495,29629,30031,30399,31166,31386,31832,25862,31862,25934,30547,31337,31842,31406,31597,25976,30061,26121,26155,29682,30572,31090,26180,26274,26306,30964,31446,26332,26357,30088,30594,26378,26443,26492,26466,26534,26540,26572,26598,30434,26621,26644,26702,29697,30105,26725,26821,26830,30619,30985,26913,26949,26976,27007,27157,30457,27186,30128,31198,27233,30168,30149,30657,27261,27290,29722,27313,27393,31454,27419,27445,27557,29742,31223,27585,27614,27668,27686,27846,27893,27853,27936,27966,29771,30671,31052,28000,30487,31737,28036,28102,28152,28138,30216,31644,28324,28301,31261,28358,30243,28389,28445,28470,28520,29799,31265,31477,31619,28552,28647,28685,28700,30700,28726,28863,28857,28887,29828,28939,30265,31291,28944,28976,31683,29016,29023,30721,31514,31010,29068,29072,30305,31315,31522,31070,29160,29136,29163,29192,29229,30313,29348,29325,29351,29375,31943,31951,31974,32024,31996,32052,32090,32114,32145,32173,32207,32257,32373,32309,32335,32411,32433,32455,32538,32588,32617,32637,32665,32735,32781,32824,32855,32916,32966,33052,33072,33104,33156,33131,33221,33288,33316,33358,33399,33468,33519,33580,33654,33693,33722,33741,33765,33793,33827,33877,33853,33924,33963,34046,34067,34096,34123,34148,34179,34201,34223,34261,34290,34356,34385,34424,34446,34468,34503,34525,34548,34605,34654,34707,34737,34758,34805,34784,34860,34831,34884,34935,35024,35059,35081,35103,35125,35168",
+        "core_id": 1511.0
+      }
+    }
+  ]
+}

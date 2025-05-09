@@ -1,0 +1,443 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8714149,
+      "text": "core_product_name: ceiling fan",
+      "core_id": 320.0,
+      "raw_product_name": "CEILING FANS",
+      "list_of_product_ids": [
+        "14323",
+        "14786",
+        "16553",
+        "17416"
+      ]
+    },
+    {
+      "retrieval_score": 0.8592788,
+      "text": "core_product_name: fan",
+      "core_id": 798.0,
+      "raw_product_name": "FAN",
+      "list_of_product_ids": [
+        "14325",
+        "19642",
+        "19649",
+        "19692",
+        "20765",
+        "27716",
+        "37513",
+        "37517",
+        "37520",
+        "37525",
+        "37527",
+        "34405",
+        "37500",
+        "37516",
+        "37505"
+      ]
+    },
+    {
+      "retrieval_score": 0.8571982,
+      "text": "core_product_name: ventilation fan",
+      "core_id": 2390.0,
+      "raw_product_name": "VENTILATION FAN",
+      "list_of_product_ids": [
+        "7",
+        "127",
+        "745",
+        "418",
+        "478"
+      ]
+    },
+    {
+      "retrieval_score": 0.8564681,
+      "text": "core_product_name: air handling and fan coil unit",
+      "core_id": 70.0,
+      "raw_product_name": "AIR HANDLING & FAN COIL UNIT",
+      "list_of_product_ids": [
+        "6046",
+        "5225",
+        "10823",
+        "10839",
+        "8496",
+        "11907",
+        "15518",
+        "15957",
+        "18085",
+        "36937",
+        "37038"
+      ]
+    },
+    {
+      "retrieval_score": 0.85540634,
+      "text": "core_product_name: fan | material: Aluminum",
+      "core_id": 798.0,
+      "raw_product_name": "FANS (ALUMINUM BLADES)",
+      "list_of_product_ids": [
+        "7",
+        "474",
+        "714",
+        "910",
+        "860"
+      ]
+    },
+    {
+      "retrieval_score": 0.85371864,
+      "text": "core_product_name: axial flow fan",
+      "core_id": 800.0,
+      "raw_product_name": "FAN-AXIAL FLOW",
+      "list_of_product_ids": [
+        "5928",
+        "6757",
+        "11004",
+        "10468",
+        "17517",
+        "38157"
+      ]
+    },
+    {
+      "retrieval_score": 0.85324496,
+      "text": "core_product_name: centrifugal fan",
+      "core_id": 325.0,
+      "raw_product_name": "CENTRIFUGAL FAN",
+      "list_of_product_ids": [
+        "13800",
+        "15228",
+        "23592",
+        "23591",
+        "40077"
+      ]
+    },
+    {
+      "retrieval_score": 0.85297465,
+      "text": "core_product_name: centrifugal fan motor | size_or_capacity: ≥5KW",
+      "core_id": 326.0,
+      "raw_product_name": "CENTRIFUGAL FAN (≥5KW) MOTOR",
+      "list_of_product_ids": [
+        "17187",
+        "17192",
+        "17516",
+        "19355",
+        "18675",
+        "19892",
+        "32480",
+        "32481",
+        "32482",
+        "32483",
+        "32484"
+      ]
+    },
+    {
+      "retrieval_score": 0.85250145,
+      "text": "core_product_name: scanner air fan",
+      "core_id": 1972.0,
+      "raw_product_name": "SCANNER AIR FAN",
+      "list_of_product_ids": [
+        "20255",
+        "20235",
+        "20233",
+        "20232",
+        "20258",
+        "20344"
+      ]
+    },
+    {
+      "retrieval_score": 0.851579,
+      "text": "core_product_name: seal air fan",
+      "core_id": 1982.0,
+      "raw_product_name": "SEAL AIR FAN",
+      "list_of_product_ids": [
+        "17189",
+        "17185",
+        "20253",
+        "20234",
+        "20303",
+        "20259",
+        "20335",
+        "20256",
+        "20954"
+      ]
+    },
+    {
+      "retrieval_score": 0.85154206,
+      "text": "core_product_name: exhaust fan",
+      "core_id": 771.0,
+      "raw_product_name": "EXHAUST FAN",
+      "list_of_product_ids": [
+        "23604",
+        "14324",
+        "14788",
+        "16554",
+        "20796",
+        "23589"
+      ]
+    },
+    {
+      "retrieval_score": 0.8496558,
+      "text": "core_product_name: axial fan | size_or_capacity: >= 5KW",
+      "core_id": 802.0,
+      "raw_product_name": "FAN- AXIAL > = 5KW",
+      "list_of_product_ids": [
+        "17190",
+        "17186",
+        "19354",
+        "29945",
+        "29942",
+        "29941",
+        "29946",
+        "27098",
+        "29944",
+        "29943"
+      ]
+    },
+    {
+      "retrieval_score": 0.8485289,
+      "text": "core_product_name: propeller fan",
+      "core_id": 1850.0,
+      "raw_product_name": "Propeller Fan",
+      "list_of_product_ids": [
+        "7111",
+        "7438",
+        "18219",
+        "18429",
+        "18440",
+        "23395",
+        "23394"
+      ]
+    },
+    {
+      "retrieval_score": 0.8482729,
+      "text": "core_product_name: tube axial fan",
+      "core_id": 2312.0,
+      "raw_product_name": "Tube Axial Fan",
+      "list_of_product_ids": [
+        "7110",
+        "7437",
+        "18430",
+        "18472",
+        "18521",
+        "19490"
+      ]
+    },
+    {
+      "retrieval_score": 0.84500027,
+      "text": "core_product_name: suction manifold",
+      "core_id": 2148.0,
+      "raw_product_name": "SUCTION MANIFOLDS",
+      "list_of_product_ids": [
+        "210",
+        "862",
+        "138",
+        "127",
+        "792"
+      ]
+    },
+    {
+      "retrieval_score": 0.8440583,
+      "text": "core_product_name: ceiling rose",
+      "core_id": 547.0,
+      "raw_product_name": "Ceiling rose",
+      "list_of_product_ids": [
+        "7",
+        "557",
+        "723",
+        "110",
+        "500"
+      ]
+    },
+    {
+      "retrieval_score": 0.8437758,
+      "text": "core_product_name: ventilation",
+      "core_id": 2385.0,
+      "raw_product_name": "VENTILATION",
+      "list_of_product_ids": [
+        "21445",
+        "21453",
+        "21451",
+        "21448",
+        "22931",
+        "22933",
+        "24989",
+        "26752",
+        "21435",
+        "35895"
+      ]
+    },
+    {
+      "retrieval_score": 0.8436526,
+      "text": "core_product_name: blower",
+      "core_id": 212.0,
+      "raw_product_name": "SOOT BLOWER",
+      "list_of_product_ids": [
+        "5992",
+        "5171",
+        "10945",
+        "9638",
+        "10930",
+        "17630",
+        "33983"
+      ]
+    },
+    {
+      "retrieval_score": 0.8436526,
+      "text": "core_product_name: blower",
+      "core_id": 212.0,
+      "raw_product_name": "BLOWER",
+      "list_of_product_ids": [
+        "14246",
+        "15050",
+        "16276",
+        "19693",
+        "22799",
+        "27717",
+        "37514",
+        "37515",
+        "37518",
+        "37521",
+        "37301",
+        "36128",
+        "37501",
+        "37504"
+      ]
+    },
+    {
+      "retrieval_score": 0.842861,
+      "text": "core_product_name: ceiling girder",
+      "core_id": 321.0,
+      "raw_product_name": "CEILING GIRDER",
+      "list_of_product_ids": [
+        "21903",
+        "21889",
+        "21954",
+        "22000",
+        "22112",
+        "22979"
+      ]
+    },
+    {
+      "retrieval_score": 0.8425616,
+      "text": "core_product_name: air manifold",
+      "core_id": 75.0,
+      "raw_product_name": "AIR MANIFOLD",
+      "list_of_product_ids": [
+        "8613"
+      ]
+    },
+    {
+      "retrieval_score": 0.8425436,
+      "text": "core_product_name: air handling unit",
+      "core_id": 69.0,
+      "raw_product_name": "AIR HANDLING UNITS",
+      "list_of_product_ids": [
+        "143",
+        "292",
+        "248",
+        "436",
+        "683"
+      ]
+    },
+    {
+      "retrieval_score": 0.8415335,
+      "text": "core_product_name: surface aerator",
+      "core_id": 2153.0,
+      "raw_product_name": "SURFACE AERATOR",
+      "list_of_product_ids": [
+        "7017",
+        "7337",
+        "10202",
+        "17743",
+        "23356"
+      ]
+    },
+    {
+      "retrieval_score": 0.84065723,
+      "text": "core_product_name: antifungal false ceiling | material: Metal",
+      "core_id": 1466.0,
+      "raw_product_name": "METAL FALSE CEILING(ANTIFUNGAL)",
+      "list_of_product_ids": [
+        "20162",
+        "20160",
+        "20705",
+        "39947",
+        "39950"
+      ]
+    },
+    {
+      "retrieval_score": 0.8404867,
+      "text": "core_product_name: instrument air manifold",
+      "core_id": 1251.0,
+      "raw_product_name": "INSTRUMENT AIR MANIFOLDS",
+      "list_of_product_ids": [
+        "100",
+        "041",
+        "001",
+        "422",
+        "637"
+      ]
+    },
+    {
+      "retrieval_score": 0.8404822,
+      "text": "core_product_name: antibacterial false ceiling | material: Metal",
+      "core_id": 1464.0,
+      "raw_product_name": "METAL FALSE CEILING(ANTIBACTERIAL)",
+      "list_of_product_ids": [
+        "20159",
+        "20163",
+        "20704",
+        "39948",
+        "39949"
+      ]
+    },
+    {
+      "retrieval_score": 0.840305,
+      "text": "core_product_name: ventilation system",
+      "core_id": 2389.0,
+      "raw_product_name": "VENTILATION SYSTEM",
+      "list_of_product_ids": [
+        "7062",
+        "7389",
+        "8497",
+        "8501",
+        "18414"
+      ]
+    },
+    {
+      "retrieval_score": 0.84004694,
+      "text": "core_product_name: motor servicing",
+      "core_id": 1505.0,
+      "raw_product_name": "MOTOR SERVICING",
+      "list_of_product_ids": [
+        "246",
+        "582",
+        "679",
+        "724",
+        "656"
+      ]
+    },
+    {
+      "retrieval_score": 0.83981234,
+      "text": "core_product_name: foam equipment",
+      "core_id": 963.0,
+      "raw_product_name": "FOAM EQUIPMENT",
+      "list_of_product_ids": [
+        "21882",
+        "21881",
+        "24717",
+        "24710"
+      ]
+    },
+    {
+      "retrieval_score": 0.8397982,
+      "text": "core_product_name: centrifugal blower",
+      "core_id": 545.0,
+      "raw_product_name": "Centrifugal Blowers & Fans",
+      "list_of_product_ids": [
+        "7120",
+        "7447",
+        "11931",
+        "11952",
+        "22798",
+        "37300"
+      ]
+    }
+  ]
+}

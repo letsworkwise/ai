@@ -1,0 +1,77 @@
+{
+  "query": "core_product_name: studs and nuts | size: diameter: 1/2\", length: 75 mm | feature_or_specifications: pressure rating: 300#, material: SS316 (stainless steel 316), filler: graphite, type: spiral wound",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: stud bolt and nut",
+        "raw_product_name": "STUD BOLTS & NUTS",
+        "list_of_product_ids": [
+          "14079",
+          "14737",
+          "14738",
+          "18558",
+          "18553",
+          "26269",
+          "20908",
+          "17201",
+          "26150",
+          "26202",
+          "26216",
+          "26226",
+          "26235",
+          "27709",
+          "33125",
+          "38529",
+          "35982",
+          "35987",
+          "36448"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: stud bolt",
+        "raw_product_name": "STUD BOLD",
+        "list_of_product_ids": [
+          "9930",
+          "9931",
+          "9932",
+          "9933",
+          "9934",
+          "9935",
+          "36597"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: bolt and nut | protection_features: galvanised",
+        "raw_product_name": "BOLTS & NUTS (GALVANISED)",
+        "list_of_product_ids": [
+          "21576",
+          "21573",
+          "26271",
+          "26205",
+          "26208",
+          "26210",
+          "26219",
+          "26228",
+          "21578",
+          "27711"
+        ]
+      }
+    }
+  ]
+}

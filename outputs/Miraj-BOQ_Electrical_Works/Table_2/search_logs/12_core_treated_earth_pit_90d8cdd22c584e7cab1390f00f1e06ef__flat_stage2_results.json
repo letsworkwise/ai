@@ -1,0 +1,457 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8647592,
+      "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards) 1239 | construction_features: Black | construction_features: GI (Galvanized Iron)",
+      "core_id": 529.0,
+      "raw_product_name": "PIPE-CARBON STEEL IS - 1239 (BLACK & GI)",
+      "list_of_product_ids": [
+        "13923",
+        "21043",
+        "21299",
+        "21563",
+        "22892",
+        "37032",
+        "37034",
+        "37013",
+        "37017",
+        "37033"
+      ]
+    },
+    {
+      "retrieval_score": 0.8476915,
+      "text": "core_product_name: earthing wire | material: GI (Galvanized Iron)",
+      "core_id": 1053.0,
+      "raw_product_name": "GI EARTHING WIRE",
+      "list_of_product_ids": [
+        "13437"
+      ]
+    },
+    {
+      "retrieval_score": 0.8459577,
+      "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards): 1239",
+      "core_id": 529.0,
+      "raw_product_name": "PIPE-CARBON STEEL IS: 1239",
+      "list_of_product_ids": [
+        "13999",
+        "15697",
+        "21642",
+        "22745",
+        "22894"
+      ]
+    },
+    {
+      "retrieval_score": 0.8447559,
+      "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards) 3589",
+      "core_id": 529.0,
+      "raw_product_name": "PIPE-CARBON STEEL IS: 3589",
+      "list_of_product_ids": [
+        "15698",
+        "14000",
+        "21300",
+        "22746",
+        "22893",
+        "37056",
+        "37052",
+        "37057",
+        "37058",
+        "37059",
+        "37060",
+        "37061",
+        "37062"
+      ]
+    },
+    {
+      "retrieval_score": 0.84236044,
+      "text": "core_product_name: fitting | standards_and_approvals: IS (Indian Standards)-1239",
+      "core_id": 273.0,
+      "raw_product_name": "FITTINGS TO IS-1239",
+      "list_of_product_ids": [
+        "14270",
+        "14771",
+        "33994",
+        "33993",
+        "33992",
+        "33991",
+        "33990"
+      ]
+    },
+    {
+      "retrieval_score": 0.8417117,
+      "text": "core_product_name: soil pipe",
+      "core_id": 2054.0,
+      "raw_product_name": "SOIL PIPES",
+      "list_of_product_ids": [
+        "20572",
+        "20534",
+        "20613",
+        "20618",
+        "20667",
+        "20725"
+      ]
+    },
+    {
+      "retrieval_score": 0.84078676,
+      "text": "core_product_name: galvanized steel pipe | material: Galvanized Steel",
+      "core_id": 1014.0,
+      "raw_product_name": "GALVANIZED STEEL STRUCTURES- PIPE",
+      "list_of_product_ids": [
+        "21293",
+        "21291",
+        "21284",
+        "21280",
+        "21266",
+        "21264",
+        "21296",
+        "21312",
+        "27931"
+      ]
+    },
+    {
+      "retrieval_score": 0.83968806,
+      "text": "core_product_name: earthing material",
+      "core_id": 672.0,
+      "raw_product_name": "EARTHING MATERIALS",
+      "list_of_product_ids": [
+        "378",
+        "733",
+        "788",
+        "037",
+        "898"
+      ]
+    },
+    {
+      "retrieval_score": 0.8387722,
+      "text": "core_product_name: pipe fitting | acronymed_core_product_name: gi (galvanized iron) pipe fittings | material: GI (Galvanized Iron)",
+      "core_id": 182.0,
+      "raw_product_name": "GI PIPE FITTINGS",
+      "list_of_product_ids": [
+        "137",
+        "342",
+        "283",
+        "228",
+        "756"
+      ]
+    },
+    {
+      "retrieval_score": 0.83819115,
+      "text": "core_product_name: instrumentation earthing",
+      "core_id": 1263.0,
+      "raw_product_name": "INSTRUMENTATION EARTHING",
+      "list_of_product_ids": [
+        "13420"
+      ]
+    },
+    {
+      "retrieval_score": 0.8367861,
+      "text": "core_product_name: octagonal pole | material: GI (Galvanized Iron)",
+      "core_id": 1057.0,
+      "raw_product_name": "GI-OCTAGONAL POLE",
+      "list_of_product_ids": [
+        "180",
+        "571",
+        "805",
+        "618",
+        "592"
+      ]
+    },
+    {
+      "retrieval_score": 0.83674896,
+      "text": "core_product_name: galvanized iron pipe | acronymed_core_product_name: gi pipe",
+      "core_id": 1007.0,
+      "raw_product_name": "GI PIPE",
+      "list_of_product_ids": [
+        "15427",
+        "17238",
+        "17227",
+        "30897",
+        "30959",
+        "27363",
+        "28754",
+        "28918",
+        "28967",
+        "35290",
+        "35308",
+        "35313",
+        "39993"
+      ]
+    },
+    {
+      "retrieval_score": 0.8365021,
+      "text": "core_product_name: pipe-ms (mild steel) | material: MS (Mild Steel) | construction_features: GI (Galvanized Iron) coating",
+      "core_id": 1690.0,
+      "raw_product_name": "PIPES-MS-(GI)",
+      "list_of_product_ids": [
+        "13947",
+        "14615",
+        "14654",
+        "14664",
+        "19769",
+        "21055",
+        "21413",
+        "22593",
+        "29948",
+        "29951",
+        "29953",
+        "35289",
+        "35310",
+        "35314"
+      ]
+    },
+    {
+      "retrieval_score": 0.83373016,
+      "text": "core_product_name: galvanized iron pipe | acronymed_core_product_name: gi pipe (galvanized iron pipe)",
+      "core_id": 1007.0,
+      "raw_product_name": "GALVANIZED IRON PIPES(GI)",
+      "list_of_product_ids": [
+        "7600",
+        "11065",
+        "7275",
+        "8051"
+      ]
+    },
+    {
+      "retrieval_score": 0.8334426,
+      "text": "core_product_name: stone ware pipe | construction_features: salt-glazed",
+      "core_id": 2118.0,
+      "raw_product_name": "STONE WARE (SALT-GLAZED) PIPES",
+      "list_of_product_ids": [
+        "1",
+        "406",
+        "714",
+        "564"
+      ]
+    },
+    {
+      "retrieval_score": 0.83244264,
+      "text": "core_product_name: scaffolding pipe",
+      "core_id": 1968.0,
+      "raw_product_name": "SCAFFOLDING PIPE",
+      "list_of_product_ids": [
+        "24790",
+        "24780",
+        "24744",
+        "24743",
+        "24804",
+        "24773",
+        "24808",
+        "24794",
+        "25090",
+        "25097"
+      ]
+    },
+    {
+      "retrieval_score": 0.8314936,
+      "text": "core_product_name: anode backfill material",
+      "core_id": 119.0,
+      "raw_product_name": "ANODE BACKFILL MATERIAL",
+      "list_of_product_ids": [
+        "19226",
+        "19222",
+        "21072",
+        "21104",
+        "28253"
+      ]
+    },
+    {
+      "retrieval_score": 0.8311401,
+      "text": "core_product_name: cast iron pipe",
+      "core_id": 1658.0,
+      "raw_product_name": "PIPE CAST IRON",
+      "list_of_product_ids": [
+        "7576",
+        "7251",
+        "11128",
+        "11130",
+        "7830",
+        "14420",
+        "14532",
+        "15940",
+        "16307",
+        "23714",
+        "39752",
+        "39929"
+      ]
+    },
+    {
+      "retrieval_score": 0.83003324,
+      "text": "core_product_name: drill pipe",
+      "core_id": 658.0,
+      "raw_product_name": "Drill pipe",
+      "list_of_product_ids": [
+        "7582",
+        "7257",
+        "8024",
+        "36866",
+        "36875"
+      ]
+    },
+    {
+      "retrieval_score": 0.8299469,
+      "text": "core_product_name: check valve | construction_features: pre-insulation",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK PRE-INSULATION",
+      "list_of_product_ids": [
+        "1",
+        "544",
+        "118",
+        "796"
+      ]
+    },
+    {
+      "retrieval_score": 0.82972693,
+      "text": "core_product_name: backing flange | material: Mild Steel | construction_features: Galvanised",
+      "core_id": 1476.0,
+      "raw_product_name": "MILD STEEL GALVANISED BACKING FLANGES",
+      "list_of_product_ids": [
+        "17443",
+        "24565",
+        "24653",
+        "17446"
+      ]
+    },
+    {
+      "retrieval_score": 0.82948154,
+      "text": "core_product_name: galvanized structure | material: Steel",
+      "core_id": 1011.0,
+      "raw_product_name": "GALVANIZED STEEL STRUCTURES",
+      "list_of_product_ids": [
+        "13697",
+        "16818",
+        "16886",
+        "16869",
+        "17140",
+        "18104",
+        "18096",
+        "22747"
+      ]
+    },
+    {
+      "retrieval_score": 0.82926524,
+      "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+      "core_id": 1262.0,
+      "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+      "list_of_product_ids": [
+        "19885",
+        "19880",
+        "24078",
+        "23930",
+        "27348"
+      ]
+    },
+    {
+      "retrieval_score": 0.8286704,
+      "text": "core_product_name: pipe fitting",
+      "core_id": 182.0,
+      "raw_product_name": "PIPE FITTINGS",
+      "list_of_product_ids": [
+        "22332",
+        "22331",
+        "22330",
+        "23352",
+        "23353",
+        "24583",
+        "36871",
+        "30825",
+        "36882",
+        "37027",
+        "28815",
+        "37304",
+        "36590",
+        "33279",
+        "33280",
+        "33281",
+        "37015",
+        "37157",
+        "36862",
+        "35736",
+        "35737",
+        "35738",
+        "35739",
+        "35740",
+        "35741",
+        "35742",
+        "36885",
+        "36524"
+      ]
+    },
+    {
+      "retrieval_score": 0.82852554,
+      "text": "core_product_name: alloy cast iron pipe",
+      "core_id": 86.0,
+      "raw_product_name": "ALLOY CAST IRON PIPE",
+      "list_of_product_ids": [
+        "9561",
+        "9521",
+        "14413",
+        "14415",
+        "14417",
+        "14424"
+      ]
+    },
+    {
+      "retrieval_score": 0.8283431,
+      "text": "core_product_name: large-diameter pipe",
+      "core_id": 1410.0,
+      "raw_product_name": "Large-diameter pipe",
+      "list_of_product_ids": [
+        "758",
+        "772",
+        "628",
+        "028"
+      ]
+    },
+    {
+      "retrieval_score": 0.8282808,
+      "text": "core_product_name: cast iron centrifugal pipe",
+      "core_id": 304.0,
+      "raw_product_name": "CAST IRON CENTRIFUGAL PIPE",
+      "list_of_product_ids": [
+        "144",
+        "001",
+        "457",
+        "435",
+        "656"
+      ]
+    },
+    {
+      "retrieval_score": 0.82819355,
+      "text": "core_product_name: piping speciality",
+      "core_id": 1689.0,
+      "raw_product_name": "PIPING SPECIALITY",
+      "list_of_product_ids": [
+        "194",
+        "961",
+        "949",
+        "428",
+        "268"
+      ]
+    },
+    {
+      "retrieval_score": 0.8281774,
+      "text": "core_product_name: ground monitoring system",
+      "core_id": 1079.0,
+      "raw_product_name": "GROUND MONITORING SYSTEMS",
+      "list_of_product_ids": [
+        "6629",
+        "5799",
+        "10305",
+        "24235",
+        "19579"
+      ]
+    },
+    {
+      "retrieval_score": 0.82814145,
+      "text": "core_product_name: conduit fitting",
+      "core_id": 870.0,
+      "raw_product_name": "FITTINGS (CONDUIT)",
+      "list_of_product_ids": [
+        "165",
+        "391",
+        "654",
+        "021",
+        "574"
+      ]
+    }
+  ]
+}

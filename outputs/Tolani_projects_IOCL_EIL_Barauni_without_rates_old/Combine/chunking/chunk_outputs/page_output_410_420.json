@@ -1,0 +1,188 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Tray of 50x 50 x 6mm angle",
+      "core_product_name": "tray",
+      "acronymed_core_product_name": "",
+      "size": "angle: 50x 50 x 6mm",
+      "feature_or_specifications": "",
+      "quantity": "500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply and erection of prefabricated Anodised Aluminium perforated trays and its supports including tees, bends and Tray of 60mm (W) X 20mm (H) with cover",
+      "core_product_name": "anodised aluminium perforated trays and supports",
+      "acronymed_core_product_name": "",
+      "size": "tray width: 60mm, tray height: 20mm",
+      "feature_or_specifications": "material: anodised aluminium, type: perforated, process: supply and erection, feature: prefabricated, feature: with cover, includes: tees, bends",
+      "quantity": "1500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply and erection of prefabricated Anodised Aluminium perforated trays and its supports including tees, bends and Tray of 150mm (W) X 30mm (H) with cover",
+      "core_product_name": "anodised aluminium perforated trays and supports",
+      "acronymed_core_product_name": "",
+      "size": "tray width: 150mm, tray height: 30mm",
+      "feature_or_specifications": "material: anodised aluminium, type: perforated, process: supply and erection, feature: prefabricated, feature: with cover, includes: tees, bends",
+      "quantity": "300.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply and erection of prefabricated Anodised Aluminium perforated trays and its supports including tees, bends and Tray of 300mm (W) X 30mm (H) with cover",
+      "core_product_name": "anodised aluminium perforated trays and supports",
+      "acronymed_core_product_name": "",
+      "size": "tray width: 300mm, tray height: 30mm",
+      "feature_or_specifications": "material: anodised aluminium, type: perforated, process: supply and erection, feature: prefabricated, feature: with cover, includes: tees, bends",
+      "quantity": "200.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "CANOPY FOR INSTRUMENTS AND JUNCTION BOXES",
+      "core_product_name": "canopy for instruments and junction boxes",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of Prefabricated FRP canopies along with mounting accessories for local instruments, Transmitters, Junction FRP Canopy (All sides closed) - Field Instruments",
+      "core_product_name": "frp canopies",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: frp(fibre reinforced plastic), feature: prefabricated, includes: mounting accessories, application: local instruments, transmitters, junction, feature: all sides closed, application: field instruments",
+      "quantity": "40.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "GENERAL SITE WORK",
+      "core_product_name": "general site work",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      410,
+      419
+    ],
+    "original_rows": [
+      {
+        "0": 411,
+        "1": 0,
+        "2": "01II.800.52.1V2",
+        "3": "Tray of   50x 50 x 6mm   angle",
+        "4": 500.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 412,
+        "1": 0,
+        "2": "01II.800.75",
+        "3": "Supply and erection of prefabricated Anodised Aluminium perforated trays and its supports including tees, bends and",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 413,
+        "1": 0,
+        "2": "01II.800.75.1V1",
+        "3": "Tray of   60mm (W) X 20mm (H)   with cover",
+        "4": 1500.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 414,
+        "1": 0,
+        "2": "01II.800.75.1V2",
+        "3": "Tray of   150mm (W) X 30mm (H)   with cover",
+        "4": 300.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 415,
+        "1": 0,
+        "2": "01II.800.75.1V3",
+        "3": "Tray of   300mm (W) X 30mm (H)   with cover",
+        "4": 200.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 416,
+        "1": 0,
+        "2": "01II.802",
+        "3": "CANOPY FOR INSTRUMENTS AND JUNCTION BOXES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 417,
+        "1": 0,
+        "2": "01II.802.20",
+        "3": "Supply of Prefabricated FRP canopies along with mounting accessories for local instruments, Transmitters, Junction",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 418,
+        "1": 0,
+        "2": "01II.802.20.1",
+        "3": "FRP Canopy (All sides closed) - Field Instruments",
+        "4": 40.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 419,
+        "1": 0,
+        "2": "01II.900",
+        "3": "GENERAL SITE WORK",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 420,
+        "1": 0,
+        "2": "01II.900.10",
+        "3": "Supply of Yoke supports for transmitters/ preamplifiers (wherever applicable) including supply, fabrication and",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2417,
+    "completion_tokens": 1162
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "query": "core_product_name: electric siren | feature_or_specifications: location: pump house, pmcc(power & motor control center), security room, included: siren controller, necessary equipment/component/accessories, support for siren & panel, as per tender document",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: electric horn",
+        "raw_product_name": "ELECTRIC HORN",
+        "list_of_product_ids": [
+          "268",
+          "932",
+          "689",
+          "126",
+          "998"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": [
+          "211",
+          "632",
+          "705",
+          "121",
+          "165"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": [
+          "211",
+          "642",
+          "116",
+          "227",
+          "423"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "query": "core_product_name: layer 3 managed switch | size: ports: 24 SFP, 2 SFP+ | feature_or_specifications: layer: 3, managed: yes, power supply: dual internal",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: network switch",
+        "raw_product_name": "NETWORK SWITCHES",
+        "list_of_product_ids": [
+          "5945",
+          "6774",
+          "7942",
+          "7941",
+          "11855"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: modular switch",
+        "raw_product_name": "MODULAR SWITCH",
+        "list_of_product_ids": [
+          "756",
+          "072",
+          "347",
+          "934"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: switch",
+        "raw_product_name": "SWITCHES",
+        "list_of_product_ids": [
+          "13967",
+          "14807",
+          "15296",
+          "36552",
+          "17540",
+          "24101",
+          "22217",
+          "22288",
+          "23682"
+        ]
+      }
+    }
+  ]
+}

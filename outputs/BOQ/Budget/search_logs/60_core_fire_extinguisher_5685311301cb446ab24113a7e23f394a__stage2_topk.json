@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: fire extinguisher | size: capacity: 4.5kg | feature_or_specifications: type: co2(carbon dioxide)",
+  "retrieval_results": [
+    {
+      "id": "variant-b4826ee7-1568-5ebb-abb9-751c2c223db9",
+      "score": 0.88447464,
+      "metadata": {
+        "text": "core_product_name: fire extinguisher chemical | type_or_class: Compound",
+        "raw_product_name": "FIRE EXTINGUISHER CHEMICALS & COMPOUNDS",
+        "list_of_product_ids": "21879,24388,26859,21880",
+        "core_id": 843.0
+      }
+    },
+    {
+      "id": "variant-76bf5b08-5efd-500b-96ff-41bc9f28d50f",
+      "score": 0.87448484,
+      "metadata": {
+        "text": "core_product_name: fire extinguisher",
+        "raw_product_name": "FIRE EXTINGUISHERS",
+        "list_of_product_ids": "6022,5201,8260,8312,8475,8924,9065,14404,15759,16244,16252,16390,19167,18179,19188,19455,19461,19522,19531,19550,19557,21036,21063,21214,21458,23513,21470,20756,19568,19165,28059,36560,36561,36559,36558,37456,33787,34087,34954,34965,34984,35003,35021",
+        "core_id": 854.0
+      }
+    },
+    {
+      "id": "variant-6c44a355-32b7-537d-902f-7c52b25ea550",
+      "score": 0.87025046,
+      "metadata": {
+        "text": "core_product_name: portable fire extinguisher",
+        "raw_product_name": "Portable Fire Extinguishers",
+        "list_of_product_ids": "7103,7430,8261,15762,16407,18427,23511,38383,37506",
+        "core_id": 1837.0
+      }
+    },
+    {
+      "id": "variant-501f4268-336a-5e01-af3e-8edf7d0a9e1c",
+      "score": 0.8653426,
+      "metadata": {
+        "text": "core_product_name: fire proofing material | protection_features: Fireproof",
+        "raw_product_name": "FIRE PROOFING MATERIAL",
+        "list_of_product_ids": "38658,38561,38562,38566",
+        "core_id": 856.0
+      }
+    },
+    {
+      "id": "variant-e57d0b3f-e2af-5c1c-9b0f-2a743d052398",
+      "score": 0.86532205,
+      "metadata": {
+        "text": "core_product_name: foam extinguisher",
+        "raw_product_name": "FOAM EXTINGUISHER",
+        "list_of_product_ids": "16220,16222,16251,16243,24712,34999",
+        "core_id": 964.0
+      }
+    },
+    {
+      "id": "variant-456432a9-ab05-55ad-9b92-0bf762831942",
+      "score": 0.86528677,
+      "metadata": {
+        "text": "core_product_name: fire fighting accessory",
+        "raw_product_name": "FIRE FIGHTING ACCESSORIES",
+        "list_of_product_ids": "16168,16173,16277,16274,16273,16272,16271,16266,21064,21057,34088",
+        "core_id": 845.0
+      }
+    },
+    {
+      "id": "variant-7c3e9537-bad4-5736-9cce-b57a0949b499",
+      "score": 0.86348695,
+      "metadata": {
+        "text": "core_product_name: external fire proofing | protection_features: Fireproof | type_or_class: A Rated",
+        "raw_product_name": "EXTERNAL FIRE PROOFING A RATED",
+        "list_of_product_ids": "39642,39670,39676,39673,39744",
+        "core_id": 776.0
+      }
+    },
+    {
+      "id": "variant-95648999-c319-51e0-b255-72a38aa25e7e",
+      "score": 0.86329657,
+      "metadata": {
+        "text": "core_product_name: fire fighting equipment",
+        "raw_product_name": "FIRE FIGHTING EQUIPMENT",
+        "list_of_product_ids": "19962,21484,21482,21480,24379,26862,19964,37442,37440,37441,37443,37444,34995",
+        "core_id": 846.0
+      }
+    },
+    {
+      "id": "variant-6f51bba4-79b9-5d92-928d-652b82cce02e",
+      "score": 0.8613035,
+      "metadata": {
+        "text": "core_product_name: flameproof equipment | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF EQUIPMENT",
+        "list_of_product_ids": "13446,13447,13448,13449,13450,13473,13477",
+        "core_id": 894.0
+      }
+    },
+    {
+      "id": "variant-b775aa2e-7972-5b0d-8aab-d1d0a869d229",
+      "score": 0.8611929,
+      "metadata": {
+        "text": "core_product_name: inert gas extinguishing system",
+        "raw_product_name": "INERT GAS EXTINGUISHING SYSTEM",
+        "list_of_product_ids": "32476,32477,32606,33785",
+        "core_id": 1238.0
+      }
+    },
+    {
+      "id": "variant-a17fd78e-0a80-5e83-8bfc-b675b3dda993",
+      "score": 0.8602567,
+      "metadata": {
+        "text": "core_product_name: refilling service fire extinguisher",
+        "raw_product_name": "FIRE EXTINGUISHER REFILLING SERVICE",
+        "list_of_product_ids": "22319,22315,22312,27052",
+        "core_id": 853.0
+      }
+    },
+    {
+      "id": "variant-9a080055-e276-5571-82e8-315abf8f1400",
+      "score": 0.85983056,
+      "metadata": {
+        "text": "core_product_name: fire-retardant coating | protection_features: Fire-retardant",
+        "raw_product_name": "Fire-Retardant Coatings",
+        "list_of_product_ids": "15699,17472,27183,15891",
+        "core_id": 1001.0
+      }
+    },
+    {
+      "id": "variant-e84c9295-aa68-5335-b1e7-ec1cd2a95b64",
+      "score": 0.85967934,
+      "metadata": {
+        "text": "core_product_name: extinguishing system",
+        "raw_product_name": "EXTINGUISHING SYSTEM",
+        "list_of_product_ids": "13960",
+        "core_id": 779.0
+      }
+    },
+    {
+      "id": "variant-9988271a-59ee-57cb-9616-702a2cea2636",
+      "score": 0.8595421,
+      "metadata": {
+        "text": "core_product_name: spray nozzle | type_or_class: Fire Fighting",
+        "raw_product_name": "SPRAY NOZZLE- FIRE FIGHTING",
+        "list_of_product_ids": "6036,5215,8013,8012,8262,8263,8294,8738,8923,8927,8929,8958,9064,9069,9072,9104,9145,19631,24003,21213,19986,36157",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-538ee8b0-3bc5-51df-a346-f852b580ca15",
+      "score": 0.8590466,
+      "metadata": {
+        "text": "core_product_name: electric hoist | size_or_capacity: >5 MT",
+        "raw_product_name": "ELECTRIC HOIST >5 MT",
+        "list_of_product_ids": "13846,23074,29913,29914,29917,29916,29918,29921,29924,29926,29925,29929,29923,29922,29930",
+        "core_id": 692.0
+      }
+    },
+    {
+      "id": "variant-fc1f7925-7372-55a1-9253-aba90e14a95e",
+      "score": 0.8588334,
+      "metadata": {
+        "text": "core_product_name: external fire proofing | protection_features: Fireproof | type_or_class: H Rated",
+        "raw_product_name": "EXTERNAL FIRE PROOFING H RATED",
+        "list_of_product_ids": "19201,28251,39639,39672",
+        "core_id": 776.0
+      }
+    },
+    {
+      "id": "variant-d01e7f04-41a2-5983-a7cb-2052b99c5edb",
+      "score": 0.85796386,
+      "metadata": {
+        "text": "core_product_name: control cable | protection_features: Fire Survival",
+        "raw_product_name": "CONTROL CABLE - FIRE SURVIVAL",
+        "list_of_product_ids": "6424,5594,10194,10666,11369,11371,12120,13290,15814,17323,17783,23993,23862",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.8569634,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    },
+    {
+      "id": "variant-6f388475-f466-5ff3-ba8a-3d0e206bd2c6",
+      "score": 0.85695994,
+      "metadata": {
+        "text": "core_product_name: flameproof plug | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF PLUG",
+        "list_of_product_ids": "201,172,041,520,651",
+        "core_id": 897.0
+      }
+    },
+    {
+      "id": "variant-4bd5c818-eb01-5f45-b30a-61e3329761c5",
+      "score": 0.8558354,
+      "metadata": {
+        "text": "core_product_name: fire sealing system | type_or_class: Type A",
+        "raw_product_name": "Fire sealing system Type A",
+        "list_of_product_ids": "11092,11091,7314,7315,7981",
+        "core_id": 1002.0
+      }
+    },
+    {
+      "id": "variant-44ef153c-f8c1-591b-bcfa-ee12e6ec437f",
+      "score": 0.8556895,
+      "metadata": {
+        "text": "core_product_name: fire and gas detection system",
+        "raw_product_name": "FIRE & GAS DETECTION SYSTEMS",
+        "list_of_product_ids": "6550,5721,10943,10040,11234,11244,11420,11423,11421,11425,12425,12818,17482,17481,19831,29874,37765,37770,37775,37791,35578,36117,36233,36385,36457",
+        "core_id": 836.0
+      }
+    },
+    {
+      "id": "variant-30453020-7b88-55b3-8cef-647ee7ab265c",
+      "score": 0.85555255,
+      "metadata": {
+        "text": "core_product_name: breathing equipment",
+        "raw_product_name": "BREATHING EQUIPMENT",
+        "list_of_product_ids": "188,191,880,228,060",
+        "core_id": 247.0
+      }
+    },
+    {
+      "id": "variant-ca2bafe6-22b6-5230-b196-6b0dda111306",
+      "score": 0.85513455,
+      "metadata": {
+        "text": "core_product_name: compressed breathing apparatus",
+        "raw_product_name": "BREATHING APPARATUS - COMPRESSED",
+        "list_of_product_ids": "24212,24216,26883,37472",
+        "core_id": 243.0
+      }
+    },
+    {
+      "id": "variant-57c11dbb-1af5-52c0-a892-77681f988eb6",
+      "score": 0.8544461,
+      "metadata": {
+        "text": "core_product_name: fixed carbon dioxide system | acronymed_core_product_name: co2 system",
+        "raw_product_name": "FIXED CO2 SYSTEM",
+        "list_of_product_ids": "6035,5214,11045,11047,11050,8489,8487,18366,23999,22758",
+        "core_id": 884.0
+      }
+    },
+    {
+      "id": "variant-38556993-23d0-512b-884c-fd1ea12aff26",
+      "score": 0.8543428,
+      "metadata": {
+        "text": "core_product_name: fire detection system",
+        "raw_product_name": "FIRE DETECTION SYSTEM",
+        "list_of_product_ids": "14244,17861,18174,20243,20302,22254,24381,24380,24695,31751,31753,26666,26669,26674,31756,31760,34972,34989,35006,35012,35016,35220,36456",
+        "core_id": 844.0
+      }
+    },
+    {
+      "id": "variant-9958feea-789c-5aae-a14d-84cf4d8178d7",
+      "score": 0.85411584,
+      "metadata": {
+        "text": "core_product_name: fire detector",
+        "raw_product_name": "FIRE DETECTORS",
+        "list_of_product_ids": "20032,20033,20031,20040,21851,20044,24696,31749,31750,31752,31754,31755,26667,26668,26673,31757,31758,31759,37800,37805,35219,39917",
+        "core_id": 842.0
+      }
+    },
+    {
+      "id": "variant-4b4df1ea-85d6-5265-bf06-d0f980c5cd30",
+      "score": 0.8538692,
+      "metadata": {
+        "text": "core_product_name: fire rated ventilator | protection_features: Fire rated",
+        "raw_product_name": "DOORS/ WINDOWS/ VENTILATORS - FIRE RATED",
+        "list_of_product_ids": "6345,5516,9772,12505,12510,12512,12511,20154,38882,38987,39041,39110,39140,39641,39675,39746,39786,40001",
+        "core_id": 617.0
+      }
+    },
+    {
+      "id": "variant-5b97d8f2-9975-5bd1-ab15-a1837c274e41",
+      "score": 0.8536,
+      "metadata": {
+        "text": "core_product_name: trolley mounted fire extinguisher | acronymed_core_product_name: CAF (Compressed Air Foam) fire extinguisher | type_or_class: Water Mist | type_or_class: CAF (Compressed Air Foam)",
+        "raw_product_name": "WATER MIST & CAF FIRE EXTINGUISHER TROLLEY MOUNTED",
+        "list_of_product_ids": "189,542,806,418,910",
+        "core_id": 2442.0
+      }
+    },
+    {
+      "id": "variant-7573f9c5-a789-5e5b-b54b-661f7abe2895",
+      "score": 0.8535515,
+      "metadata": {
+        "text": "core_product_name: axial fan | size_or_capacity: >= 5KW",
+        "raw_product_name": "FAN- AXIAL > = 5KW",
+        "list_of_product_ids": "17190,17186,19354,29945,29942,29941,29946,27098,29944,29943",
+        "core_id": 802.0
+      }
+    },
+    {
+      "id": "variant-31d5c5db-e277-5e70-82d7-ed344bc34ee6",
+      "score": 0.85339135,
+      "metadata": {
+        "text": "core_product_name: executing agency | type_or_class: Fire sealing system",
+        "raw_product_name": "Executing Agency for Fire sealing system",
+        "list_of_product_ids": "7,313,732,679,827,980",
+        "core_id": 785.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "query": "core_product_name: cable lugs | size: cores: 3c, conductor size: 2.5 sqmm | feature_or_specifications: type: crimping, feature: heavy duty, barrel: long, finish: tinned, material: copper or aluminium, suitability: all aluminium and copper cables, suitability: indoor use",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable lug",
+        "raw_product_name": "CABLE LUG",
+        "list_of_product_ids": [
+          "2",
+          "064",
+          "720",
+          "116"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable lug | accessories_or_attachments: Lugs",
+        "raw_product_name": "CABLE \u00131 LUGS",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": [
+          "32910",
+          "32911",
+          "33009",
+          "33041",
+          "33195",
+          "33260",
+          "33562",
+          "33633",
+          "35922"
+        ]
+      }
+    }
+  ]
+}

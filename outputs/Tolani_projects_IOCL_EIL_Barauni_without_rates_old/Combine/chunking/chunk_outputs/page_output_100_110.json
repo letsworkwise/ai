@@ -1,0 +1,158 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "PIPES NB 00.50     INCHES; THICKNESS  60 MM",
+      "core_product_name": "pipes",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 0.50 inches, thickness: 60 mm",
+      "feature_or_specifications": "",
+      "quantity": "310.0",
+      "unit": "metres"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "PIPES NB 00.75     INCHES; THICKNESS  65 MM",
+      "core_product_name": "pipes",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 0.75 inches, thickness: 65 mm",
+      "feature_or_specifications": "",
+      "quantity": "15.0",
+      "unit": "metres"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "PIPES NB 01.50     INCHES; THICKNESS  70 MM",
+      "core_product_name": "pipes",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 1.50 inches, thickness: 70 mm",
+      "feature_or_specifications": "",
+      "quantity": "105.0",
+      "unit": "metres"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "PIPES NB 04.00     INCHES; THICKNESS  50 MM",
+      "core_product_name": "pipes",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 4.00 inches, thickness: 50 mm",
+      "feature_or_specifications": "",
+      "quantity": "385.0",
+      "unit": "metres"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      100,
+      109
+    ],
+    "original_rows": [
+      {
+        "0": 101,
+        "1": 0,
+        "2": "M60102010000",
+        "3": "PIPES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 102,
+        "1": 0,
+        "2": "M60102010412",
+        "3": "NB 00.50     INCHES; THICKNESS  60 MM",
+        "4": 310.0,
+        "5": "Metres",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 103,
+        "1": 0,
+        "2": "M60102010513",
+        "3": "NB 00.75     INCHES; THICKNESS  65 MM",
+        "4": 15.0,
+        "5": "Metres",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 104,
+        "1": 0,
+        "2": "M60102010814",
+        "3": "NB 01.50     INCHES; THICKNESS  70 MM",
+        "4": 105.0,
+        "5": "Metres",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 105,
+        "1": 0,
+        "2": "M60118000000",
+        "3": "INSULATION TYPE : IT; SURFACE MATERIAL : CS & AS; OPERATING TEMP. RANGE : 176 (DEG C) TO 350 (DEG",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 106,
+        "1": 0,
+        "2": "M60118010000",
+        "3": "PIPES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 107,
+        "1": 0,
+        "2": "M60118011310",
+        "3": "NB 04.00     INCHES; THICKNESS  50 MM",
+        "4": 385.0,
+        "5": "Metres",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 108,
+        "1": 0,
+        "2": "M60118020000",
+        "3": "FLANGE ASSEMBLIES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 109,
+        "1": 0,
+        "2": "M60118021611",
+        "3": "NB 08.00     INCHES; THICKNESS  55 MM",
+        "4": 3.0,
+        "5": "NOs",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 110,
+        "1": 0,
+        "2": "M60118040000",
+        "3": "VALVE ASSEMBLIES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2715,
+    "completion_tokens": 706
+  }
+}

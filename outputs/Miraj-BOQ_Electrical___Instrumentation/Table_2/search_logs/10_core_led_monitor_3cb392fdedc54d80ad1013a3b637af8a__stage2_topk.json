@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: led monitor | size: screen size: 55 inch | feature_or_specifications: feature: reputed make, location: administrative building lobby area, feature: for plant & safety monitoring, feature: interfacing with oic (operator interface console), paga (public address and general alarm), tas (terminal automation software) server, feature: cable supply, laying and termination",
+  "retrieval_results": [
+    {
+      "id": "variant-d7f96c90-705f-59b6-b3d6-cbeedad3ff57",
+      "score": 0.8396034,
+      "metadata": {
+        "text": "core_product_name: control panel instrument | acronymed_core_product_name: paga (public address and general alarm) control panel instrument",
+        "raw_product_name": "PAGA CONTROL PANEL INSTRUMENT",
+        "list_of_product_ids": "19367,24919,19365,38960,39551,39915",
+        "core_id": 1622.0
+      }
+    },
+    {
+      "id": "variant-0ea9e5f6-ccd4-5364-bbd1-e4bf6dcb09de",
+      "score": 0.83838165,
+      "metadata": {
+        "text": "core_product_name: terminal automation system",
+        "raw_product_name": "TERMINAL AUTOMATION SYSTEM",
+        "list_of_product_ids": "6572,5742,10065,10150,11898,19578,30475",
+        "core_id": 2229.0
+      }
+    },
+    {
+      "id": "variant-413ae249-19f3-5238-9e1e-81c9b8824457",
+      "score": 0.83730817,
+      "metadata": {
+        "text": "core_product_name: addressable fire alarm panel",
+        "raw_product_name": "ADDRESSABLE FIRE ALARM PANEL",
+        "list_of_product_ids": "37759,37764,37769,37774,37780,37790",
+        "core_id": 48.0
+      }
+    },
+    {
+      "id": "variant-571eec7a-6e40-518d-bc9e-aca92a0117a9",
+      "score": 0.8362857,
+      "metadata": {
+        "text": "core_product_name: remote controlled monitor",
+        "raw_product_name": "REMOTE CONTROLLED MONITORS",
+        "list_of_product_ids": "6042,5221,8319,24103,22791",
+        "core_id": 1896.0
+      }
+    },
+    {
+      "id": "variant-f0337ba8-6950-573f-8620-dd7b8c06adeb",
+      "score": 0.8360549,
+      "metadata": {
+        "text": "core_product_name: monitor",
+        "raw_product_name": "WATER MONITOR",
+        "list_of_product_ids": "6039,5218,9825,9830,9835,9840,8259,8296,8316,8739,9230,16411,24091,23518,37476",
+        "core_id": 2443.0
+      }
+    },
+    {
+      "id": "variant-bbfa8c6b-a309-5003-853d-bf8bbe5d3058",
+      "score": 0.8342038,
+      "metadata": {
+        "text": "core_product_name: site fabricated column | acronymed_core_product_name: las (level alarm system) column",
+        "raw_product_name": "COLUMN-LAS SITE FABRICATED",
+        "list_of_product_ids": "6688,5859,9698,23521",
+        "core_id": 396.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.8337255,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-b92b24ea-bbb8-5d58-8045-cc88814eca42",
+      "score": 0.83371073,
+      "metadata": {
+        "text": "core_product_name: long range monitor",
+        "raw_product_name": "LONG RANGE MONITOR",
+        "list_of_product_ids": "6041,5220,9827,9832,9837,9842,8295,8318",
+        "core_id": 1382.0
+      }
+    },
+    {
+      "id": "variant-04557174-00a9-5154-8b28-71d131bdaca2",
+      "score": 0.8334748,
+      "metadata": {
+        "text": "core_product_name: lighting and power distribution panel",
+        "raw_product_name": "Lighting & Power Distribution Panel",
+        "list_of_product_ids": "18723,18718,18735,18734,18733,19012,18997,18728,19000,38293,35861,38156",
+        "core_id": 1413.0
+      }
+    },
+    {
+      "id": "variant-7dce4d21-d1e9-5d82-98f9-329565ede5d1",
+      "score": 0.83307785,
+      "metadata": {
+        "text": "core_product_name: fieldbus monitor",
+        "raw_product_name": "FIELDBUS MONITOR",
+        "list_of_product_ids": "5,948,677,710,076",
+        "core_id": 821.0
+      }
+    },
+    {
+      "id": "variant-a6f3a592-88ba-56f4-9258-7043fb0c99c6",
+      "score": 0.83301723,
+      "metadata": {
+        "text": "core_product_name: large screen display",
+        "raw_product_name": "Large Screen Display",
+        "list_of_product_ids": "7076,7403,11853,11845",
+        "core_id": 1408.0
+      }
+    },
+    {
+      "id": "variant-9f376ba2-bfd9-569d-9df5-c33008feb16d",
+      "score": 0.8329462,
+      "metadata": {
+        "text": "core_product_name: relay and control panel",
+        "raw_product_name": "RELAY & CONTROL PANEL",
+        "list_of_product_ids": "6389,5560,11172,11457,7888,19357,24445,24450,24448,24827,24815,24451,19363,24930,24941,38203,38204",
+        "core_id": 187.0
+      }
+    },
+    {
+      "id": "variant-74473618-f368-5f8e-9f75-5bb7b011cde3",
+      "score": 0.8329137,
+      "metadata": {
+        "text": "core_product_name: ground monitoring system",
+        "raw_product_name": "GROUND MONITORING SYSTEMS",
+        "list_of_product_ids": "6629,5799,10305,24235,19579",
+        "core_id": 1079.0
+      }
+    },
+    {
+      "id": "variant-a4ebd8e5-7045-562f-b9cd-963999de4c2c",
+      "score": 0.8318413,
+      "metadata": {
+        "text": "core_product_name: fire alarm panel",
+        "raw_product_name": "FIRE ALARM PANEL",
+        "list_of_product_ids": "8896,8906,9845,9853,9863,8933,9076,9137,14320,14321,10735,16601,16125,34974,35217,36088,36458",
+        "core_id": 837.0
+      }
+    },
+    {
+      "id": "variant-035e5d74-4fc0-5854-ace0-4826f9b36c25",
+      "score": 0.8305182,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+        "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+        "list_of_product_ids": "19885,19880,24078,23930,27348",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-3ed2b8d0-9200-57ee-93d7-347d83b99d24",
+      "score": 0.8299305,
+      "metadata": {
+        "text": "core_product_name: conventional relay and control panel",
+        "raw_product_name": "CONVENTIONAL RELAY & CONTROL PANEL",
+        "list_of_product_ids": "38185,38198,38206,38387",
+        "core_id": 470.0
+      }
+    },
+    {
+      "id": "variant-0a9290b3-8ea7-59a2-a8d9-9ba99d3dbdaa",
+      "score": 0.82975155,
+      "metadata": {
+        "text": "core_product_name: machine monitoring system",
+        "raw_product_name": "MACHINE MONITORING SYSTEMS",
+        "list_of_product_ids": "6478,5649,12455,32772,38192",
+        "core_id": 1418.0
+      }
+    },
+    {
+      "id": "variant-95f9a5df-0976-54ef-be1f-2d157fbf662c",
+      "score": 0.8282434,
+      "metadata": {
+        "text": "core_product_name: plant communication system | acronymed_core_product_name: PAGA (Public Address and General Alarm) communication system",
+        "raw_product_name": "PLANT COMMUNICATION SYSTEM (PAGA)",
+        "list_of_product_ids": "202,422,034,739,508",
+        "core_id": 1696.0
+      }
+    },
+    {
+      "id": "variant-b0c2061a-aa8d-5939-97cc-7b5703645203",
+      "score": 0.8282011,
+      "metadata": {
+        "text": "core_product_name: terminal box",
+        "raw_product_name": "TERMINAL BOX",
+        "list_of_product_ids": "141,951,736,936,609",
+        "core_id": 2230.0
+      }
+    },
+    {
+      "id": "variant-9d54fd87-21ea-5c1a-ae13-333a826234cd",
+      "score": 0.82810944,
+      "metadata": {
+        "text": "core_product_name: system panel",
+        "raw_product_name": "SYSTEM PANELS",
+        "list_of_product_ids": "1,413,621,099",
+        "core_id": 2180.0
+      }
+    },
+    {
+      "id": "variant-48f2033c-304e-52d2-acd9-1d9a493e771a",
+      "score": 0.8279944,
+      "metadata": {
+        "text": "core_product_name: telemetry interface cabinet",
+        "raw_product_name": "TELEMETRY INTERFACE CABINET",
+        "list_of_product_ids": "13988,18052,18994,19044,21698",
+        "core_id": 2214.0
+      }
+    },
+    {
+      "id": "variant-370c43d3-b815-5435-9810-24d97f958927",
+      "score": 0.82791436,
+      "metadata": {
+        "text": "core_product_name: indicating lamp fitting",
+        "raw_product_name": "INDICATING LAMP FITTING",
+        "list_of_product_ids": "20128,20443,20418,20465,20506,20645",
+        "core_id": 1232.0
+      }
+    },
+    {
+      "id": "variant-21c63e29-ac02-5a6b-9277-0dfa76771131",
+      "score": 0.8277857,
+      "metadata": {
+        "text": "core_product_name: loop powered indicator",
+        "raw_product_name": "LOOP POWERED INDICATORS",
+        "list_of_product_ids": "6593,5763,11632,11633,10042,10068,8403,12844,38272",
+        "core_id": 1383.0
+      }
+    },
+    {
+      "id": "variant-a04485bf-b3ca-5e35-af82-40b9c4157210",
+      "score": 0.8276386,
+      "metadata": {
+        "text": "core_product_name: local control station",
+        "raw_product_name": "LOCAL CONTROL STATIONS",
+        "list_of_product_ids": "99,911,003,018,831",
+        "core_id": 1380.0
+      }
+    },
+    {
+      "id": "variant-6acf83ce-edd4-5a01-87c4-5f88cdffa6ae",
+      "score": 0.8275821,
+      "metadata": {
+        "text": "core_product_name: telescopic access platform",
+        "raw_product_name": "TELESCOPIC ACCESS PLATFORM",
+        "list_of_product_ids": "61,805,351",
+        "core_id": 2216.0
+      }
+    },
+    {
+      "id": "variant-694e9b22-1590-52c8-9da7-95e6af8ae4f3",
+      "score": 0.8275472,
+      "metadata": {
+        "text": "core_product_name: terminal strip",
+        "raw_product_name": "TERMINAL STRIPS",
+        "list_of_product_ids": "1,400,220,181",
+        "core_id": 2231.0
+      }
+    },
+    {
+      "id": "variant-64dd023c-4e0c-53f1-ae6a-c0cadf9b4ca1",
+      "score": 0.8274512,
+      "metadata": {
+        "text": "core_product_name: terminal bushing",
+        "raw_product_name": "TERMINAL BUSHING",
+        "list_of_product_ids": "1,399,814,467",
+        "core_id": 2232.0
+      }
+    },
+    {
+      "id": "variant-72eec985-31f4-579d-8d75-17ce3f807158",
+      "score": 0.8271561,
+      "metadata": {
+        "text": "core_product_name: terminal block",
+        "raw_product_name": "TERMINAL BLOCKS",
+        "list_of_product_ids": "5940,6769,12287,11388,8256,9278,17855,18812",
+        "core_id": 2228.0
+      }
+    },
+    {
+      "id": "variant-7e79e2f4-50f1-5eb2-ad00-d8225fbf09a8",
+      "score": 0.8268798,
+      "metadata": {
+        "text": "core_product_name: power management system",
+        "raw_product_name": "POWER MANAGEMENT SYSTEM",
+        "list_of_product_ids": "138,561,462,423,212",
+        "core_id": 1744.0
+      }
+    },
+    {
+      "id": "variant-9aa71497-c36b-5d95-8704-0b97aab3763f",
+      "score": 0.82679373,
+      "metadata": {
+        "text": "core_product_name: annunciation panel",
+        "raw_product_name": "ANNUNCIATION PANELS",
+        "list_of_product_ids": "14179,18854,18912,23154",
+        "core_id": 118.0
+      }
+    }
+  ]
+}

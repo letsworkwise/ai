@@ -1,0 +1,624 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8882066,
+      "text": "core_product_name: articulated steel pipe | construction_features: flexible",
+      "core_id": 1916.0,
+      "raw_product_name": "ROOF DRAIN SYSTEM:ARTICULATED STEEL PIPE WITH FLEXIBLE JOINT",
+      "list_of_product_ids": [
+        "7",
+        "148",
+        "747",
+        "323",
+        "011"
+      ]
+    },
+    {
+      "retrieval_score": 0.86411566,
+      "text": "core_product_name: flexible wire | material: Copper",
+      "core_id": 912.0,
+      "raw_product_name": "FLEXIBLE COPPER WIRES",
+      "list_of_product_ids": [
+        "136",
+        "081",
+        "478",
+        "520",
+        "094"
+      ]
+    },
+    {
+      "retrieval_score": 0.8631858,
+      "text": "core_product_name: flexible hose | material: SS (Stainless Steel) | construction_features: metallic",
+      "core_id": 914.0,
+      "raw_product_name": "HOSE METALLIC FLEXIBLE SS",
+      "list_of_product_ids": [
+        "6001",
+        "5180",
+        "8579",
+        "8584",
+        "8589",
+        "8591",
+        "8565",
+        "8581",
+        "8586",
+        "8590",
+        "8596",
+        "18971"
+      ]
+    },
+    {
+      "retrieval_score": 0.86189884,
+      "text": "core_product_name: conduit fitting",
+      "core_id": 870.0,
+      "raw_product_name": "FITTINGS (CONDUIT)",
+      "list_of_product_ids": [
+        "165",
+        "391",
+        "654",
+        "021",
+        "574"
+      ]
+    },
+    {
+      "retrieval_score": 0.856706,
+      "text": "core_product_name: flexible clamp",
+      "core_id": 915.0,
+      "raw_product_name": "FLEXIBLE CLAMP",
+      "list_of_product_ids": [
+        "24745",
+        "24746",
+        "24774",
+        "24784",
+        "24789",
+        "24799",
+        "24803",
+        "24813",
+        "25094"
+      ]
+    },
+    {
+      "retrieval_score": 0.8562886,
+      "text": "core_product_name: flexible hose",
+      "core_id": 914.0,
+      "raw_product_name": "FLEXIBLE HOSE",
+      "list_of_product_ids": [
+        "13610",
+        "21534",
+        "22871",
+        "39446",
+        "39496",
+        "39703"
+      ]
+    },
+    {
+      "retrieval_score": 0.8533123,
+      "text": "core_product_name: structural tube | material: Steel",
+      "core_id": 2141.0,
+      "raw_product_name": "STRUCTURAL STEEL TUBE",
+      "list_of_product_ids": [
+        "18839",
+        "19006",
+        "18827",
+        "35224",
+        "35225",
+        "35223"
+      ]
+    },
+    {
+      "retrieval_score": 0.8530298,
+      "text": "core_product_name: flange | material: Alloy 20",
+      "core_id": 216.0,
+      "raw_product_name": "FLANGE- ALLOY 20",
+      "list_of_product_ids": [
+        "176",
+        "491",
+        "764",
+        "718",
+        "665"
+      ]
+    },
+    {
+      "retrieval_score": 0.85251987,
+      "text": "core_product_name: conduit accessory",
+      "core_id": 439.0,
+      "raw_product_name": "CONDUIT ACCESSORIES",
+      "list_of_product_ids": [
+        "20550",
+        "20514",
+        "20591",
+        "20632",
+        "20686",
+        "20744"
+      ]
+    },
+    {
+      "retrieval_score": 0.8499355,
+      "text": "core_product_name: conduit pipe",
+      "core_id": 440.0,
+      "raw_product_name": "CONDUIT PIPE",
+      "list_of_product_ids": [
+        "222",
+        "962",
+        "229",
+        "728",
+        "617"
+      ]
+    },
+    {
+      "retrieval_score": 0.848799,
+      "text": "core_product_name: custom-bent steel pipe",
+      "core_id": 552.0,
+      "raw_product_name": "Custom-bent steel pipe",
+      "list_of_product_ids": [
+        "758",
+        "172",
+        "568",
+        "022"
+      ]
+    },
+    {
+      "retrieval_score": 0.84866256,
+      "text": "core_product_name: flexible cable | type_or_class: single or multicore",
+      "core_id": 2036.0,
+      "raw_product_name": "SINGLE/MULTICORE FLEXIBLE CABLE",
+      "list_of_product_ids": [
+        "38520",
+        "38521",
+        "38582",
+        "38608",
+        "38636",
+        "38828",
+        "38665",
+        "38861",
+        "38903",
+        "38929",
+        "38950",
+        "38693",
+        "38718",
+        "38744",
+        "38966",
+        "38993",
+        "39021",
+        "39055",
+        "39089",
+        "39119",
+        "39167",
+        "39220",
+        "39248",
+        "39290",
+        "39340",
+        "39376",
+        "39405",
+        "39435",
+        "39451",
+        "39486",
+        "39541",
+        "39568",
+        "38770",
+        "39606",
+        "39630",
+        "39658",
+        "39692",
+        "39732",
+        "39802",
+        "39830",
+        "39901"
+      ]
+    },
+    {
+      "retrieval_score": 0.8484122,
+      "text": "core_product_name: forged fitting | material: Steel",
+      "core_id": 972.0,
+      "raw_product_name": "FORGED STEEL FITTINGS",
+      "list_of_product_ids": [
+        "202",
+        "272",
+        "070",
+        "320",
+        "974"
+      ]
+    },
+    {
+      "retrieval_score": 0.84813946,
+      "text": "core_product_name: tube | material: Alloy Steel",
+      "core_id": 88.0,
+      "raw_product_name": "ALLOY STEEL TUBES",
+      "list_of_product_ids": [
+        "14174",
+        "14880",
+        "29977",
+        "29980",
+        "29975"
+      ]
+    },
+    {
+      "retrieval_score": 0.8465914,
+      "text": "core_product_name: flange | material: Alloy Steel",
+      "core_id": 216.0,
+      "raw_product_name": "FLANGE-ALLOY STEEL",
+      "list_of_product_ids": [
+        "6274",
+        "5443",
+        "11284",
+        "8448",
+        "8461",
+        "8470",
+        "8780",
+        "12388",
+        "12470",
+        "12868",
+        "12875",
+        "12865",
+        "12871",
+        "12888",
+        "12922",
+        "12930",
+        "12937",
+        "12945",
+        "12953",
+        "12956",
+        "12926",
+        "12941",
+        "12949",
+        "17006",
+        "17575",
+        "18402",
+        "18896",
+        "18940",
+        "19839",
+        "21655",
+        "37254"
+      ]
+    },
+    {
+      "retrieval_score": 0.84618485,
+      "text": "core_product_name: casting | material: Steel",
+      "core_id": 91.0,
+      "raw_product_name": "STEEL CASTING",
+      "list_of_product_ids": [
+        "24961",
+        "24958",
+        "26780",
+        "39754",
+        "39847",
+        "39875",
+        "39930",
+        "40008",
+        "40298"
+      ]
+    },
+    {
+      "retrieval_score": 0.84609956,
+      "text": "core_product_name: structural steel",
+      "core_id": 2137.0,
+      "raw_product_name": "STRUCTURAL STEEL",
+      "list_of_product_ids": [
+        "9524",
+        "9544",
+        "13038",
+        "14422",
+        "15849",
+        "17276",
+        "17978",
+        "17977",
+        "17976",
+        "17979",
+        "31114",
+        "31137",
+        "31138",
+        "25221",
+        "31005",
+        "31007",
+        "31030",
+        "31053",
+        "31055",
+        "31056",
+        "31057",
+        "31061",
+        "31065"
+      ]
+    },
+    {
+      "retrieval_score": 0.84592724,
+      "text": "core_product_name: coil | material: Steel",
+      "core_id": 1722.0,
+      "raw_product_name": "STEEL COILS",
+      "list_of_product_ids": [
+        "13492",
+        "13561",
+        "15838",
+        "17835",
+        "18367",
+        "21289",
+        "21286",
+        "22539",
+        "38279",
+        "35273",
+        "38265"
+      ]
+    },
+    {
+      "retrieval_score": 0.8452402,
+      "text": "core_product_name: tube | material: Mild Steel (MS)",
+      "core_id": 88.0,
+      "raw_product_name": "Mild Steel Tubes",
+      "list_of_product_ids": [
+        "17961",
+        "17971",
+        "17970",
+        "17969",
+        "17966",
+        "17964",
+        "17962",
+        "18647"
+      ]
+    },
+    {
+      "retrieval_score": 0.8449998,
+      "text": "core_product_name: sheet | material: Steel",
+      "core_id": 132.0,
+      "raw_product_name": "STEEL SHEET",
+      "list_of_product_ids": [
+        "22304",
+        "22299",
+        "22298",
+        "25143",
+        "25147",
+        "29275",
+        "29272",
+        "29271"
+      ]
+    },
+    {
+      "retrieval_score": 0.84497714,
+      "text": "core_product_name: section | material: Stainless Steel",
+      "core_id": 100.0,
+      "raw_product_name": "STAINLESS STEEL SECTIONS",
+      "list_of_product_ids": [
+        "17974",
+        "17973",
+        "17975",
+        "17972",
+        "18646"
+      ]
+    },
+    {
+      "retrieval_score": 0.84477836,
+      "text": "core_product_name: fitting | material: Alloy Steel | special_attributes: Seamless (from seamless pipe)",
+      "core_id": 273.0,
+      "raw_product_name": "FITTINGS FROM SEAMLESS PIPE- ALLOY STEEL",
+      "list_of_product_ids": [
+        "5486",
+        "6315",
+        "11572",
+        "11590",
+        "11146",
+        "10360",
+        "10378",
+        "10383",
+        "11286",
+        "11326",
+        "11335",
+        "11351",
+        "11353",
+        "11357",
+        "8080",
+        "12392",
+        "12756",
+        "13057",
+        "13128",
+        "13315",
+        "13408",
+        "15982",
+        "17009",
+        "19733",
+        "19787",
+        "37253",
+        "33439",
+        "33440",
+        "33441",
+        "33443",
+        "33449",
+        "34687",
+        "36854"
+      ]
+    },
+    {
+      "retrieval_score": 0.8442705,
+      "text": "core_product_name: pipe conveyor | material: Steel Cord",
+      "core_id": 2114.0,
+      "raw_product_name": "STEEL CORD PIPE CONVEYOR",
+      "list_of_product_ids": [
+        "1",
+        "406",
+        "314",
+        "557"
+      ]
+    },
+    {
+      "retrieval_score": 0.8442164,
+      "text": "core_product_name: carbon steel line pipe",
+      "core_id": 1361.0,
+      "raw_product_name": "LINE PIPES (CARBON STEEL)",
+      "list_of_product_ids": [
+        "400",
+        "834",
+        "015",
+        "640",
+        "093"
+      ]
+    },
+    {
+      "retrieval_score": 0.8440706,
+      "text": "core_product_name: pipe-carbon steel",
+      "core_id": 1667.0,
+      "raw_product_name": "PIPE-CARBON STEEL",
+      "list_of_product_ids": [
+        "6135",
+        "5453",
+        "11148",
+        "11346",
+        "10703",
+        "9257",
+        "7749",
+        "7750",
+        "7782",
+        "7789",
+        "7787",
+        "9298",
+        "9299",
+        "9309",
+        "9311",
+        "8035",
+        "8046",
+        "8048",
+        "8050",
+        "8053",
+        "8055",
+        "8057",
+        "8059",
+        "8061",
+        "8045",
+        "8047",
+        "8049",
+        "8052",
+        "8054",
+        "8056",
+        "8058",
+        "8060",
+        "9335",
+        "9396",
+        "9398",
+        "9391",
+        "9420",
+        "9176",
+        "9297",
+        "9177",
+        "9300",
+        "9308",
+        "9312",
+        "12253",
+        "12563",
+        "12999",
+        "17640",
+        "18867",
+        "18913",
+        "21056",
+        "21641",
+        "24436",
+        "30012",
+        "30011",
+        "30013",
+        "32041",
+        "40009",
+        "40080"
+      ]
+    },
+    {
+      "retrieval_score": 0.8439547,
+      "text": "core_product_name: stainless steel pipe",
+      "core_id": 1674.0,
+      "raw_product_name": "PIPE-STAINLESS STEEL",
+      "list_of_product_ids": [
+        "7575",
+        "7250",
+        "7806",
+        "8797",
+        "16076",
+        "16079",
+        "16087",
+        "16085",
+        "16081",
+        "16074",
+        "16810",
+        "16835",
+        "16834",
+        "16833",
+        "17696",
+        "18543",
+        "19848",
+        "24490",
+        "24499",
+        "29955",
+        "26146",
+        "26221",
+        "26230",
+        "29982",
+        "27714",
+        "29936",
+        "29956",
+        "32727",
+        "32728",
+        "36958",
+        "37086",
+        "37274",
+        "36869",
+        "36878",
+        "39858",
+        "39935",
+        "39998",
+        "40010",
+        "40081"
+      ]
+    },
+    {
+      "retrieval_score": 0.8435791,
+      "text": "core_product_name: pipe-alloy steel",
+      "core_id": 1665.0,
+      "raw_product_name": "PIPE-ALLOY STEEL",
+      "list_of_product_ids": [
+        "29973",
+        "21786",
+        "21788",
+        "24437",
+        "26854",
+        "29976",
+        "29979",
+        "37089"
+      ]
+    },
+    {
+      "retrieval_score": 0.8429909,
+      "text": "core_product_name: pipe-welded alloy steel",
+      "core_id": 1675.0,
+      "raw_product_name": "PIPE-WELDED ALLOY STEEL",
+      "list_of_product_ids": [
+        "6296",
+        "5467",
+        "10333",
+        "7776",
+        "7765",
+        "8068",
+        "13037",
+        "21833",
+        "30892"
+      ]
+    },
+    {
+      "retrieval_score": 0.8428776,
+      "text": "core_product_name: hollow section | material: Steel | type_or_class: Structural",
+      "core_id": 2138.0,
+      "raw_product_name": "STRUCTURAL STEEL ( HOLLOW SECTIONS)",
+      "list_of_product_ids": [
+        "9",
+        "526",
+        "954",
+        "613",
+        "014"
+      ]
+    },
+    {
+      "retrieval_score": 0.84269214,
+      "text": "core_product_name: flexible board | accessories_or_attachments: for expansion joint",
+      "core_id": 911.0,
+      "raw_product_name": "FLEXIBLE BOARD FOR EXPANSION JOINT",
+      "list_of_product_ids": [
+        "156",
+        "691",
+        "360",
+        "015",
+        "668"
+      ]
+    }
+  ]
+}

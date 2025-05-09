@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: recording server | size: ram: 32 GB, disk configuration: 2 x 300 GB minimum, live database disk: 10 x 15K RPM 600GB | feature_or_specifications: processor: intel xeon quad core, network: 2 gigabit NICs, operating system: windows server 2012 R2 x64 standard/data center, disk configuration: RAID 5 (with server redundancy), live database disk configuration: RAID 1 or RAID10, connectivity: internal or direct attached",
+  "retrieval_results": [
+    {
+      "id": "variant-c80bab98-20e5-5a36-8bee-75d83743dcf7",
+      "score": 0.86248976,
+      "metadata": {
+        "text": "core_product_name: recorder",
+        "raw_product_name": "RECORDERS",
+        "list_of_product_ids": "13825,15211,20871,36627",
+        "core_id": 1875.0
+      }
+    },
+    {
+      "id": "variant-259b2acd-8757-5df1-9884-558d4ab4d4c4",
+      "score": 0.8618821,
+      "metadata": {
+        "text": "core_product_name: data storage system",
+        "raw_product_name": "Data storage system",
+        "list_of_product_ids": "7084,7411,18425,18424",
+        "core_id": 649.0
+      }
+    },
+    {
+      "id": "variant-7d04081b-d5d3-5b6a-b6cd-1f114a2ef9de",
+      "score": 0.8534354,
+      "metadata": {
+        "text": "core_product_name: server",
+        "raw_product_name": "SERVERS",
+        "list_of_product_ids": "13899,15300,15302,18836",
+        "core_id": 1999.0
+      }
+    },
+    {
+      "id": "variant-c399c3a6-7cb3-5843-914c-5c2a50239ee6",
+      "score": 0.8533287,
+      "metadata": {
+        "text": "core_product_name: large case field recorder",
+        "raw_product_name": "Large Case Field Recorders",
+        "list_of_product_ids": "17062,17061,17060,27436",
+        "core_id": 1407.0
+      }
+    },
+    {
+      "id": "variant-0cd6a304-ead2-5deb-91e8-b4c74619be10",
+      "score": 0.85332614,
+      "metadata": {
+        "text": "core_product_name: drive arrangement",
+        "raw_product_name": "DRIVE ARRANGEMENT FOR CLINKER GRINDER",
+        "list_of_product_ids": "1,344,114,445",
+        "core_id": 624.0
+      }
+    },
+    {
+      "id": "variant-ef8ec643-5d1b-5f0e-bc3e-ca18124239c2",
+      "score": 0.85010266,
+      "metadata": {
+        "text": "core_product_name: disc",
+        "raw_product_name": "DISC",
+        "list_of_product_ids": "20135,20446,20421,20468,20509,20643",
+        "core_id": 594.0
+      }
+    },
+    {
+      "id": "variant-a595b92c-c451-5f5b-a7d2-c3960b5cbbce",
+      "score": 0.84922373,
+      "metadata": {
+        "text": "core_product_name: temperature recorder",
+        "raw_product_name": "TEMPERATURE RECORDERS",
+        "list_of_product_ids": "6620,5790,10045,10155,11903,12893,12892",
+        "core_id": 2223.0
+      }
+    },
+    {
+      "id": "variant-0a9290b3-8ea7-59a2-a8d9-9ba99d3dbdaa",
+      "score": 0.8485993,
+      "metadata": {
+        "text": "core_product_name: machine monitoring system",
+        "raw_product_name": "MACHINE MONITORING SYSTEMS",
+        "list_of_product_ids": "6478,5649,12455,32772,38192",
+        "core_id": 1418.0
+      }
+    },
+    {
+      "id": "variant-dc0101c4-7f44-5946-9850-171a4e480de6",
+      "score": 0.8459824,
+      "metadata": {
+        "text": "core_product_name: process refrigeration system",
+        "raw_product_name": "REFRIGERATION SYSTEM - PROCESS",
+        "list_of_product_ids": "7026,7354,10212,10836,9437",
+        "core_id": 1886.0
+      }
+    },
+    {
+      "id": "variant-6aa0a898-71c9-566e-b82e-854055a79538",
+      "score": 0.84591526,
+      "metadata": {
+        "text": "core_product_name: embedded control system",
+        "raw_product_name": "EMBEDDED CONTROL SYSTEM",
+        "list_of_product_ids": "236,092,358,623,573",
+        "core_id": 737.0
+      }
+    },
+    {
+      "id": "variant-7b1c16c7-5da7-5e6a-86ce-7eae6ac6bf0a",
+      "score": 0.845737,
+      "metadata": {
+        "text": "core_product_name: network component",
+        "raw_product_name": "NETWORK COMPONENTS",
+        "list_of_product_ids": "137,882,017,621,241",
+        "core_id": 1544.0
+      }
+    },
+    {
+      "id": "variant-8398ac79-a3ef-5f2a-ae37-366508b0a92a",
+      "score": 0.84548557,
+      "metadata": {
+        "text": "core_product_name: machine",
+        "raw_product_name": "MACHINE",
+        "list_of_product_ids": "24311,24313,39774,26875,39517,39044,39193,39235,39274,39351,39462,39502,39707,39863,39953,40014,40061,40111,40221,40249,40288",
+        "core_id": 1420.0
+      }
+    },
+    {
+      "id": "variant-d3184bd5-867c-5333-aa27-0d8d3f250563",
+      "score": 0.8452896,
+      "metadata": {
+        "text": "core_product_name: computer software",
+        "raw_product_name": "COMPUTER SOFTWARE",
+        "list_of_product_ids": "193,121,931,327,257",
+        "core_id": 423.0
+      }
+    },
+    {
+      "id": "variant-c9536e29-6040-5b31-b6a1-431e7654733e",
+      "score": 0.84509486,
+      "metadata": {
+        "text": "core_product_name: computer maintenance",
+        "raw_product_name": "COMPUTER MAINTENANCE",
+        "list_of_product_ids": "193,231,932,428,719",
+        "core_id": 422.0
+      }
+    },
+    {
+      "id": "variant-0e79bdd6-b79e-559f-9b10-2259217696a2",
+      "score": 0.8449821,
+      "metadata": {
+        "text": "core_product_name: resilient coupling",
+        "raw_product_name": "Resilient Coupling",
+        "list_of_product_ids": "7045,7372,10525,10811,9734",
+        "core_id": 1945.0
+      }
+    },
+    {
+      "id": "variant-b58dc7e3-7dcc-524a-bab2-4bda4909b4ef",
+      "score": 0.8448319,
+      "metadata": {
+        "text": "core_product_name: vibration monitoring system",
+        "raw_product_name": "VIBRATION MONITORING SYSTEMS",
+        "list_of_product_ids": "19391,19393,19561,20393,20654,37685",
+        "core_id": 2404.0
+      }
+    },
+    {
+      "id": "variant-74473618-f368-5f8e-9f75-5bb7b011cde3",
+      "score": 0.8447819,
+      "metadata": {
+        "text": "core_product_name: ground monitoring system",
+        "raw_product_name": "GROUND MONITORING SYSTEMS",
+        "list_of_product_ids": "6629,5799,10305,24235,19579",
+        "core_id": 1079.0
+      }
+    },
+    {
+      "id": "variant-0b710dea-0307-51f6-a77b-222f52cab575",
+      "score": 0.84470826,
+      "metadata": {
+        "text": "core_product_name: laptop",
+        "raw_product_name": "LAPTOPS",
+        "list_of_product_ids": "142,481,529,918,835",
+        "core_id": 1320.0
+      }
+    },
+    {
+      "id": "variant-f234407a-0223-56e5-932b-43ac340fc304",
+      "score": 0.84465796,
+      "metadata": {
+        "text": "core_product_name: radiography",
+        "raw_product_name": "RADIOGRAPHY",
+        "list_of_product_ids": "218,552,185,721,856",
+        "core_id": 1856.0
+      }
+    },
+    {
+      "id": "variant-90d5603f-b888-5d4e-bf0e-963c590d4195",
+      "score": 0.84448606,
+      "metadata": {
+        "text": "core_product_name: radio system",
+        "raw_product_name": "RADIO SYSTEM",
+        "list_of_product_ids": "19387,28262,39972,39999,40023,40020,40029,40052,40085,40095,40267,40268",
+        "core_id": 1855.0
+      }
+    },
+    {
+      "id": "variant-cd52aca8-dd3e-59e7-b179-e704fd4294e9",
+      "score": 0.8440359,
+      "metadata": {
+        "text": "core_product_name: management system",
+        "raw_product_name": "TANK FARM MANAGEMENT SYSTEM",
+        "list_of_product_ids": "6585,5755,11689,11698,10102,10116,11714,13223,21062,35434",
+        "core_id": 2200.0
+      }
+    },
+    {
+      "id": "variant-de47ff96-bd93-5d30-b6a8-28e7215a5255",
+      "score": 0.8440334,
+      "metadata": {
+        "text": "core_product_name: interface device",
+        "raw_product_name": "INTERFACE DEVICES",
+        "list_of_product_ids": "6630,5800,11596,11597,10310,11701,11702,11703,12288,8405,13108,13117,21089,21081,21077,21070",
+        "core_id": 1280.0
+      }
+    },
+    {
+      "id": "variant-4eadce78-5ec1-5cb0-8032-3ed669ded9c9",
+      "score": 0.84348714,
+      "metadata": {
+        "text": "core_product_name: refrigeration plant",
+        "raw_product_name": "REFRIGERATION PLANT",
+        "list_of_product_ids": "21436,21446,21449,24990,26751",
+        "core_id": 1884.0
+      }
+    },
+    {
+      "id": "variant-3d2c5e9d-79ab-553c-a008-b82b69a9551b",
+      "score": 0.84320533,
+      "metadata": {
+        "text": "core_product_name: capacitor bank",
+        "raw_product_name": "CAPACITOR BANK",
+        "list_of_product_ids": "7118,7445,11170,10847,12360",
+        "core_id": 293.0
+      }
+    },
+    {
+      "id": "variant-1ab3bbc1-7237-500d-90d8-27f6498da945",
+      "score": 0.8430972,
+      "metadata": {
+        "text": "core_product_name: equipment",
+        "raw_product_name": "CONTROL ROOM EQUIPMENT",
+        "list_of_product_ids": "14034,14815,17256,21098",
+        "core_id": 460.0
+      }
+    },
+    {
+      "id": "variant-20b3895d-9b45-5d06-b9e3-a64122dd885d",
+      "score": 0.842987,
+      "metadata": {
+        "text": "core_product_name: digital storage oscilloscope",
+        "raw_product_name": "DIGITAL STORAGE OSCILLOSCOPE",
+        "list_of_product_ids": "1,543,418,782",
+        "core_id": 591.0
+      }
+    },
+    {
+      "id": "variant-3affc43e-160d-5e53-8518-1d6f1c0e4bdd",
+      "score": 0.8429425,
+      "metadata": {
+        "text": "core_product_name: rupture disc",
+        "raw_product_name": "RUPTURE DISCS",
+        "list_of_product_ids": "6,609,577,912,359",
+        "core_id": 1944.0
+      }
+    },
+    {
+      "id": "variant-75491e27-6159-59e2-8f64-6202dfa3d716",
+      "score": 0.8428839,
+      "metadata": {
+        "text": "core_product_name: refrigerator",
+        "raw_product_name": "REFRIGERATOR",
+        "list_of_product_ids": "208,332,083,127,430",
+        "core_id": 1890.0
+      }
+    },
+    {
+      "id": "variant-2db910c5-abe4-5192-a8f5-249c0cfd5fae",
+      "score": 0.8427603,
+      "metadata": {
+        "text": "core_product_name: column",
+        "raw_product_name": "MAIN COLUMN",
+        "list_of_product_ids": "20854,20877,21906,21953,22019,22117",
+        "core_id": 392.0
+      }
+    },
+    {
+      "id": "variant-a32d8296-ea3c-51d4-95de-73a3824167db",
+      "score": 0.84273195,
+      "metadata": {
+        "text": "core_product_name: measurement system",
+        "raw_product_name": "MEASUREMENT SYSTEM",
+        "list_of_product_ids": "188,511,884,918,973",
+        "core_id": 1451.0
+      }
+    }
+  ]
+}

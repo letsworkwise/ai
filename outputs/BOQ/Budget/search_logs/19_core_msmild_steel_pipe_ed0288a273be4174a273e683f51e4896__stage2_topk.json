@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: ms(mild steel) pipe | size: thickness: 5 mm, class: B, diameter: 10 inch, insulation thickness: 50 mm, insulation density: 64 Kg/m3, cladding thickness: 26 SWG | feature_or_specifications: material: mild steel, insulation: rock wool, cladding: aluminium, application: exhaust pipe before residential silencer",
+  "retrieval_results": [
+    {
+      "id": "variant-da9c94d9-ca6a-5f06-9f4c-6ab7978cc2ae",
+      "score": 0.8737087,
+      "metadata": {
+        "text": "core_product_name: ms (mild steel) pipe",
+        "raw_product_name": "MS PIPE",
+        "list_of_product_ids": "13780,14665,19247,17239,17228,18434,39305,22590,22621,22726,22761,22750,22744,22790,23133,30896,30927,30958,39306,27364,29739,28917,28966,35311,35312,40051",
+        "core_id": 1510.0
+      }
+    },
+    {
+      "id": "variant-65840ecf-7374-526b-8e01-2bb631ca3499",
+      "score": 0.87210125,
+      "metadata": {
+        "text": "core_product_name: tube | material: Mild Steel (MS)",
+        "raw_product_name": "Mild Steel Tubes",
+        "list_of_product_ids": "17961,17971,17970,17969,17966,17964,17962,18647",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-e2f2fd26-d7af-57d5-b362-4c77226da917",
+      "score": 0.87135166,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | material: MS (Mild Steel)",
+        "raw_product_name": "MS PIPE FITTINGS",
+        "list_of_product_ids": "137,812,283,128,755",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-7fd4cfef-d998-5282-9241-7387b128f297",
+      "score": 0.8654298,
+      "metadata": {
+        "text": "core_product_name: round | material: MS (Mild Steel)",
+        "raw_product_name": "MS ROUND",
+        "list_of_product_ids": "30196,32891,13504,13511,13489,13518,13524,13530,13537,13544,13558,13551,26246,29406,16067,16106,29429,31907,17722,17738,29467,29481,29534,23326,29888,30348,29540,29570,29855,30356,31544,31688,24732,31134,24751,24759,24870,24858,24847,24894,31379,24916,24925,24903,31573,25001,30790,25020,25005,25049,25038,25031,29605,30910,25083,25074,25065,25060,25108,25117,30379,30538,25129,25138,25156,25168,25195,25184,25177,25206,25218,25236,25257,25246,25271,25287,25297,25301,25314,25339,25323,25351,25367,25390,25379,25410,30948,31144,25495,29629,30031,30399,31166,31386,31832,25862,31862,25934,30547,31337,31842,31406,31597,25976,30061,26121,26155,29682,30572,31090,26180,26274,26306,30964,31446,26332,26357,30088,30594,26378,26443,26492,26466,26534,26540,26572,26598,30434,26621,26644,26702,29697,30105,26725,26821,26830,30619,30985,26913,26949,26976,27007,27157,30457,27186,30128,31198,27233,30168,30149,30657,27261,27290,29722,27313,27393,31454,27419,27445,27557,29742,31223,27585,27614,27668,27686,27846,27893,27853,27936,27966,29771,30671,31052,28000,30487,31737,28036,28102,28152,28138,30216,31644,28324,28301,31261,28358,30243,28389,28445,28470,28520,29799,31265,31477,31619,28552,28647,28685,28700,30700,28726,28863,28857,28887,29828,28939,30265,31291,28944,28976,31683,29016,29023,30721,31514,31010,29068,29072,30305,31315,31522,31070,29160,29136,29163,29192,29229,30313,29348,29325,29351,29375,31943,31951,31974,32024,31996,32052,32090,32114,32145,32173,32207,32257,32373,32309,32335,32411,32433,32455,32538,32588,32617,32637,32665,32735,32781,32824,32855,32916,32966,33052,33072,33104,33156,33131,33221,33288,33316,33358,33399,33468,33519,33580,33654,33693,33722,33741,33765,33793,33827,33877,33853,33924,33963,34046,34067,34096,34123,34148,34179,34201,34223,34261,34290,34356,34385,34424,34446,34468,34503,34525,34548,34605,34654,34707,34737,34758,34805,34784,34860,34831,34884,34935,35024,35059,35081,35103,35125,35168",
+        "core_id": 1511.0
+      }
+    },
+    {
+      "id": "variant-801581c6-a47e-5285-97d2-488db8ecfbcc",
+      "score": 0.8624101,
+      "metadata": {
+        "text": "core_product_name: pipe-ms (mild steel) | material: MS (Mild Steel) | construction_features: GI (Galvanized Iron) coating",
+        "raw_product_name": "PIPES-MS-(GI)",
+        "list_of_product_ids": "13947,14615,14654,14664,19769,21055,21413,22593,29948,29951,29953,35289,35310,35314",
+        "core_id": 1690.0
+      }
+    },
+    {
+      "id": "variant-a39dd6fd-8fdf-5f9c-9f2b-665c6cfa3c66",
+      "score": 0.8605271,
+      "metadata": {
+        "text": "core_product_name: black ms (mild steel) pipe",
+        "raw_product_name": "PIPES-MS-(BLACK)",
+        "list_of_product_ids": "13946,14614,14653,14663,19768,21054,29949,29952,29954,28753,29950,29947",
+        "core_id": 1687.0
+      }
+    },
+    {
+      "id": "variant-161fa21f-33fa-588b-b919-b504d3d47901",
+      "score": 0.85900134,
+      "metadata": {
+        "text": "core_product_name: flange | material: MS (Mild Steel)",
+        "raw_product_name": "FLANGE (MS) /Mild Steel Flange",
+        "list_of_product_ids": "10255,10260,10265,10270,10277,9941,9942,9947,9948,10225,9964,10238,10239,10244,10249,13101,17431,24567,25825",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-8686717b-373e-55c7-9041-9945bb30655c",
+      "score": 0.85134506,
+      "metadata": {
+        "text": "core_product_name: ladder | material: Mild Steel (MS)",
+        "raw_product_name": "MILD STEEL LADDERS",
+        "list_of_product_ids": "274,932,750,927,490",
+        "core_id": 96.0
+      }
+    },
+    {
+      "id": "variant-1aeeb9f0-2267-5818-8a0c-b69d22b012f4",
+      "score": 0.8513235,
+      "metadata": {
+        "text": "core_product_name: ms (mild steel) pipe | special_attributes: ERW (Electric Resistance Welded)",
+        "raw_product_name": "MS PIPE (ERW)",
+        "list_of_product_ids": "23798,23802,24467,24468,24471,29649,32761,32760,32759,32758,32765,32774,32775,32800,32805,32841,32818,32815,32844,32851,32849,32848,32847,39992",
+        "core_id": 1510.0
+      }
+    },
+    {
+      "id": "variant-34b71fab-80fa-5d51-9106-d0f846a7d333",
+      "score": 0.8492506,
+      "metadata": {
+        "text": "core_product_name: conduit | acronymed_core_product_name: m.s. (mild steel) conduit | material: M.S. (Mild Steel) | standards_and_approvals: ISI (Indian Standards Institute)",
+        "raw_product_name": "M.S. CONDUIT ISI",
+        "list_of_product_ids": "20486,20544,20553,20584,20692,20750",
+        "core_id": 442.0
+      }
+    },
+    {
+      "id": "variant-5a869d21-d3d4-58a2-ba29-246aab6b27a4",
+      "score": 0.8457296,
+      "metadata": {
+        "text": "core_product_name: plate flange | material: Mild Steel (MS)",
+        "raw_product_name": "MILD STEEL PLATE FLANGES",
+        "list_of_product_ids": "174,302,456,624,652",
+        "core_id": 1474.0
+      }
+    },
+    {
+      "id": "variant-3f159fee-0ee0-59d2-942e-6e8b0f3d3724",
+      "score": 0.84251237,
+      "metadata": {
+        "text": "core_product_name: pipe cap | material: A S (Alloy Steel)",
+        "raw_product_name": "FITTINGS PIPE CAP (A S)",
+        "list_of_product_ids": "6328,5499,10386,11292,8083,13134,15993,19735,24596,34143,34144,34145,34168,34169,34173,34172,34171,34170,36851,40054",
+        "core_id": 875.0
+      }
+    },
+    {
+      "id": "variant-067779a2-122f-53f1-9469-d03371626e54",
+      "score": 0.84228826,
+      "metadata": {
+        "text": "core_product_name: pipe insulation",
+        "raw_product_name": "PIPE INSULATION",
+        "list_of_product_ids": "13921,16092,16635,16633,18103,23466,23458,34600",
+        "core_id": 1662.0
+      }
+    },
+    {
+      "id": "variant-fbd913d0-e8ac-559f-a675-577cda39c322",
+      "score": 0.8412103,
+      "metadata": {
+        "text": "core_product_name: pressure vessel | material: SS (Stainless Steel) | size_or_capacity: > 50MM",
+        "raw_product_name": "PRESURE VESSEL - SS ( > 50MM)",
+        "list_of_product_ids": "6638,5808,11018,8509,8536,9011,9678,12171,12598,12994,13097,22092,22105,22093,22090,38302,38064,38097,38112",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-ceb42176-0014-5d31-ac0e-5f3425afa6fa",
+      "score": 0.8396047,
+      "metadata": {
+        "text": "core_product_name: cladding | material: Metal",
+        "raw_product_name": "METAL CLADDING",
+        "list_of_product_ids": "15590,15511,15586,15914,15587,33507",
+        "core_id": 1465.0
+      }
+    },
+    {
+      "id": "variant-80133fe8-4f32-5e0c-b4b1-a586a279651c",
+      "score": 0.8395262,
+      "metadata": {
+        "text": "core_product_name: insulation product | material: Rock Wool",
+        "raw_product_name": "ROCK WOOL INSULATION PRODUCTS",
+        "list_of_product_ids": "6145,5315,8806,8808,8805,8807,8809,18881,18927,24317,24318,24319,33284",
+        "core_id": 1070.0
+      }
+    },
+    {
+      "id": "variant-86b82487-32b2-5582-a826-fc2ee4baba4e",
+      "score": 0.8393029,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | material: SS (Stainless Steel)",
+        "raw_product_name": "SS PIPE FITTING",
+        "list_of_product_ids": "9995,10026,10449,10634,10632,11517,14748,14898,14906,15977,16040,16208,16255,16885,22912,21915,30949,28816,37250",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-83a4d87a-db78-53c4-8e60-10068fd3eccd",
+      "score": 0.83918005,
+      "metadata": {
+        "text": "core_product_name: cladding | material: Stainless Steel",
+        "raw_product_name": "STAINLESS STEEL CLADDING",
+        "list_of_product_ids": "188,401,883,319,005",
+        "core_id": 1465.0
+      }
+    },
+    {
+      "id": "variant-ee98ad6b-79c8-5d80-8b94-93abaa4ba33d",
+      "score": 0.8381875,
+      "metadata": {
+        "text": "core_product_name: cladded pipe",
+        "raw_product_name": "CLADDED PIPE",
+        "list_of_product_ids": "6295,5466,11562,7764,7783,7799,13030,13031",
+        "core_id": 359.0
+      }
+    },
+    {
+      "id": "variant-7e13f1f2-d3c0-5e8f-a3d7-0a1b3d487c08",
+      "score": 0.8381514,
+      "metadata": {
+        "text": "core_product_name: pipe cap | material: SS (Stainless Steel)",
+        "raw_product_name": "FITTINGS PIPE CAP (S S)",
+        "list_of_product_ids": "6329,5500,10372,10387,11293,11333,10638,11405,8084,9431,12105,12769,12742,12752,12760,12783,13135,13209,13314,13406,15994,16066,17659,17921,19737,21808,24597,36577,34252,34253,34254,34255,34689,36849,36446,40055",
+        "core_id": 875.0
+      }
+    },
+    {
+      "id": "variant-ba3d7620-8f6f-5c5a-bdc1-21d5c6b75b6f",
+      "score": 0.8380427,
+      "metadata": {
+        "text": "core_product_name: insulation material",
+        "raw_product_name": "INSULATION MATERIAL",
+        "list_of_product_ids": "10251,10256,10261,10266,10273,10278,10281,7088,7415,10172,10221,10226,10230,10234,10240,10245,11862,13008,38431,33383",
+        "core_id": 1274.0
+      }
+    },
+    {
+      "id": "variant-59e94b31-1f84-515b-8f08-a2e3057b2f77",
+      "score": 0.8380392,
+      "metadata": {
+        "text": "core_product_name: pipe | material: Super Duplex Stainless Steel (SS) | special_attributes: Welded",
+        "raw_product_name": "DUPLEX/SUPER DUPLEX SS WELDED PIPES",
+        "list_of_product_ids": "6294,5465,10332,7801,7803,7797,10908,37095",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-b64a4c90-2696-5405-b806-b18e296f80cf",
+      "score": 0.83797014,
+      "metadata": {
+        "text": "core_product_name: stainless steel pipe (ss pipe)",
+        "raw_product_name": "SS PIPES",
+        "list_of_product_ids": "14028,19345,19593,19875,22591,22810,22829,23350,30895,30926,26240,27367",
+        "core_id": 2095.0
+      }
+    },
+    {
+      "id": "variant-f3df50e0-cb98-5142-809e-f0e963f3df77",
+      "score": 0.8374644,
+      "metadata": {
+        "text": "core_product_name: impulse tube | material: SS (Stainless Steel)",
+        "raw_product_name": "SS Impulse Tubes",
+        "list_of_product_ids": "14027,19894,22594,22727,22875",
+        "core_id": 1227.0
+      }
+    },
+    {
+      "id": "variant-ee635f3e-99e3-5895-8cd6-6c85d6993e1b",
+      "score": 0.83732027,
+      "metadata": {
+        "text": "core_product_name: tubing | material: SS (Stainless Steel)",
+        "raw_product_name": "SS TUBING",
+        "list_of_product_ids": "1,402,919,594",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-093417ef-0258-5fff-8d5d-571e1dd5138f",
+      "score": 0.837305,
+      "metadata": {
+        "text": "core_product_name: tube | material: Alloy Steel",
+        "raw_product_name": "ALLOY STEEL TUBES",
+        "list_of_product_ids": "14174,14880,29977,29980,29975",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-ecd98bd3-397a-541e-b1e4-af95c2475dc4",
+      "score": 0.8370853,
+      "metadata": {
+        "text": "core_product_name: tower | material: CS (Carbon Steel) | size_or_capacity: 51-100 mm thickness",
+        "raw_product_name": "COLUMN/TOWER-CS(51-100MM THK)",
+        "list_of_product_ids": "6659,5830,11032,8546,9026,9692,12160,12586,13086,16950,17609,37850,38078,38083,38126",
+        "core_id": 399.0
+      }
+    },
+    {
+      "id": "variant-05c9db43-5c4d-52ba-ab45-526ce58a2d3e",
+      "score": 0.83689505,
+      "metadata": {
+        "text": "core_product_name: thermal insulation",
+        "raw_product_name": "Thermal Insulation",
+        "list_of_product_ids": "7572,7247,11774,11775,7759,7755,7757,9770,12863,13002,13009,16997,17020,17014,34601",
+        "core_id": 2305.0
+      }
+    },
+    {
+      "id": "variant-d6bd5af0-e587-5d61-ba1a-b007d6c39165",
+      "score": 0.8368728,
+      "metadata": {
+        "text": "core_product_name: acoustic insulation",
+        "raw_product_name": "ACOUSTIC INSULATION",
+        "list_of_product_ids": "15674,15675,15676,15673,27988",
+        "core_id": 37.0
+      }
+    },
+    {
+      "id": "variant-f55e46c2-d229-5ced-9ab6-575ae8c7fa4c",
+      "score": 0.8368266,
+      "metadata": {
+        "text": "core_product_name: condenser tube | material: SS (Stainless Steel) | special_attributes: Welded",
+        "raw_product_name": "CONDENSER TUBES (SS Welded)",
+        "list_of_product_ids": "13963,14551,14762,21982,23106,21410,23689",
+        "core_id": 437.0
+      }
+    }
+  ]
+}

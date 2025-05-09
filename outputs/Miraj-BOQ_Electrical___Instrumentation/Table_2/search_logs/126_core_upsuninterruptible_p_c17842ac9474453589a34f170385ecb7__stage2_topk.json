@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: ups(uninterruptible power supply) distribution board | acronymed_core_product_name: ups distribution board | size: current: 250A | feature_or_specifications: phase: 1-ph, wire: 2-wire, busbar: copper, specification: as per attached, single line diagram: PC00128-1221, cable glands: weatherproof double compression Ni plated brass, cable lugs: included",
+  "retrieval_results": [
+    {
+      "id": "variant-615436f0-585e-5bc3-84d1-0d858c65a484",
+      "score": 0.88553905,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups | accessories_or_attachments: acdb (alternating current distribution board)",
+        "raw_product_name": "UPS With ACDB",
+        "list_of_product_ids": "1,419,636,134",
+        "core_id": 2316.0
+      }
+    },
+    {
+      "id": "variant-aefb8f92-80fa-5763-b0f1-30caae087481",
+      "score": 0.86588573,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups (uninterruptible power supply)",
+        "raw_product_name": "UN-INTERRUPTIBLE POWER SUPPLY (UPS)",
+        "list_of_product_ids": "141,931,781,320,002",
+        "core_id": 2316.0
+      }
+    },
+    {
+      "id": "variant-4ed83870-c8d2-5f69-ba76-674bbe8ff2b1",
+      "score": 0.8644551,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: ups system",
+        "raw_product_name": "UPS SYSTEM",
+        "list_of_product_ids": "14194,15283,15287,15895,17799,17789,17897,18615,18614,18613,18612",
+        "core_id": 2314.0
+      }
+    },
+    {
+      "id": "variant-60759c1d-1484-5fdf-a6d4-d96e4e97573f",
+      "score": 0.8599939,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: u.p.s. system",
+        "raw_product_name": "U.P.S.SYSTEM",
+        "list_of_product_ids": "6399,5570,11076,11073,10496,10624,12084,12082,12245,24506,24504,36163,36311",
+        "core_id": 2314.0
+      }
+    },
+    {
+      "id": "variant-72ca9b83-8000-5f34-839f-39a54cda3423",
+      "score": 0.8553268,
+      "metadata": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (pdb (power distribution board))",
+        "raw_product_name": "A.C. DISTRIBUTION BOARD (PDB)",
+        "list_of_product_ids": "14164,14792,14811,19308",
+        "core_id": 20.0
+      }
+    },
+    {
+      "id": "variant-8c6a2401-958d-50eb-b6cf-89de7e3e83dd",
+      "score": 0.8479646,
+      "metadata": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (ldb (lighting distribution board))",
+        "raw_product_name": "A.C. DISTRIBUTION BOARD (LDB)",
+        "list_of_product_ids": "14163,14793,14812,19307",
+        "core_id": 20.0
+      }
+    },
+    {
+      "id": "variant-344cec69-8a6c-57a1-aa62-b1c42931ad5c",
+      "score": 0.84696823,
+      "metadata": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: ac (alternating current) distribution board | type_or_class: AC (Alternating Current)",
+        "raw_product_name": "AC Distribution Board",
+        "list_of_product_ids": "18726,18724,18719,18740,18739,18736,19011,18998,19001,38292,36556,35863,38152",
+        "core_id": 20.0
+      }
+    },
+    {
+      "id": "variant-ffb04dda-0f09-5456-8607-4f01ee0b5982",
+      "score": 0.84628266,
+      "metadata": {
+        "text": "core_product_name: power distribution board | acronymed_core_product_name: pdb (power distribution board)",
+        "raw_product_name": "POWER DISTRIBUTION BOARD (PDB)",
+        "list_of_product_ids": "13892,14644,14778,14809,17930,17917,17892,17949,17939,18026,18008,18049,20762,20761,27494",
+        "core_id": 1743.0
+      }
+    },
+    {
+      "id": "variant-19bbaea1-ff5f-573b-a089-d96015081c7f",
+      "score": 0.844048,
+      "metadata": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: dc (direct current) distribution board | type_or_class: DC (Direct Current)",
+        "raw_product_name": "DC Distribution Board",
+        "list_of_product_ids": "18727,18725,18720,18741,18738,18737,19010,18999,19002,36555,38291,35862,38153",
+        "core_id": 20.0
+      }
+    },
+    {
+      "id": "variant-95f74893-d69d-504d-9c31-33cbdcb88ed4",
+      "score": 0.84278166,
+      "metadata": {
+        "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+        "raw_product_name": "DCDB",
+        "list_of_product_ids": "15387,13587,14607,14780,19662,21388,36160",
+        "core_id": 559.0
+      }
+    },
+    {
+      "id": "variant-6da117f2-6ca6-5943-8dfa-eb600e5fe2eb",
+      "score": 0.841115,
+      "metadata": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: db | accessories_or_attachments: HRC (High Rupturing Capacity) fuse",
+        "raw_product_name": "DB WITH HRC",
+        "list_of_product_ids": "13580,14783,15328,18070",
+        "core_id": 20.0
+      }
+    },
+    {
+      "id": "variant-b844f98d-e8c6-5b5a-a885-ecb40a3bdd47",
+      "score": 0.84053594,
+      "metadata": {
+        "text": "core_product_name: isolated phase bus duct | acronymed_core_product_name: ipbd (isolated phase bus duct)",
+        "raw_product_name": "ISOLATED PHASE BUS DUCT (IPBD)",
+        "list_of_product_ids": "171,201,711,827,902",
+        "core_id": 1297.0
+      }
+    },
+    {
+      "id": "variant-2e21f2c9-7d64-55fd-aee2-28e0f9186645",
+      "score": 0.8396417,
+      "metadata": {
+        "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+        "list_of_product_ids": "13583,14851,20281,22858,26788,26787,26786,26789,35773",
+        "core_id": 899.0
+      }
+    },
+    {
+      "id": "variant-9996ed89-613c-525d-a389-7b03a807bfc5",
+      "score": 0.8394102,
+      "metadata": {
+        "text": "core_product_name: intelligent battery charger | acronymed_core_product_name: dcdb (direct current distribution board) | size_or_capacity: 24V DC (24 Volt Direct Current)",
+        "raw_product_name": "Intelligent Battery charger 24V DC DCDB",
+        "list_of_product_ids": "1,375,215,290",
+        "core_id": 1304.0
+      }
+    },
+    {
+      "id": "variant-b0d8ec87-6446-5f2c-ad46-c65d34dddbc7",
+      "score": 0.83837634,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: UTP (Unshielded Twisted Pair) cable | type_or_class: UTP (Unshielded Twisted Pair)",
+        "raw_product_name": "UTP CABLE",
+        "list_of_product_ids": "14014,14795,20051,24072,23924",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-04557174-00a9-5154-8b28-71d131bdaca2",
+      "score": 0.8379059,
+      "metadata": {
+        "text": "core_product_name: lighting and power distribution panel",
+        "raw_product_name": "Lighting & Power Distribution Panel",
+        "list_of_product_ids": "18723,18718,18735,18734,18733,19012,18997,18728,19000,38293,35861,38156",
+        "core_id": 1413.0
+      }
+    },
+    {
+      "id": "variant-8897de6f-d516-599d-afbd-01973bb2c53f",
+      "score": 0.83655244,
+      "metadata": {
+        "text": "core_product_name: universal branch pipe",
+        "raw_product_name": "UNIVERSAL BRANCH PIPE",
+        "list_of_product_ids": "23807,23812,23813,23815,23817,23818,23821,23797,23801,23806,23808,28663,23811,23810,23805",
+        "core_id": 2321.0
+      }
+    },
+    {
+      "id": "variant-fffe43b9-b089-5b6d-9125-4a5cf297e594",
+      "score": 0.83604777,
+      "metadata": {
+        "text": "core_product_name: power supply unit | acronymed_core_product_name: psu (power supply unit)",
+        "raw_product_name": "POWER SUPPLY UNIT (PSU)",
+        "list_of_product_ids": "191,622,743,919,161",
+        "core_id": 1746.0
+      }
+    },
+    {
+      "id": "variant-4ee544d6-0f39-5064-8d24-8c48472ff71a",
+      "score": 0.8358369,
+      "metadata": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": "5954,6782,12132,14671,14679,18191,20174,36159",
+        "core_id": 2156.0
+      }
+    },
+    {
+      "id": "variant-c2ce30a2-5af4-5288-a342-7c5519d90a13",
+      "score": 0.83559936,
+      "metadata": {
+        "text": "core_product_name: bulk power supply",
+        "raw_product_name": "BULK POWER SUPPLY",
+        "list_of_product_ids": "7,561,723,518,220",
+        "core_id": 254.0
+      }
+    },
+    {
+      "id": "variant-40a31dc2-322b-5d27-a166-908d8d5a73ca",
+      "score": 0.8354227,
+      "metadata": {
+        "text": "core_product_name: sub lighting distribution board",
+        "raw_product_name": "SUB LIGHTING DISTRIBUTION BOARD",
+        "list_of_product_ids": "19061,19062,19056,36641",
+        "core_id": 2143.0
+      }
+    },
+    {
+      "id": "variant-c03e0ba5-aa70-53fc-9eb3-267f46d459cb",
+      "score": 0.83531356,
+      "metadata": {
+        "text": "core_product_name: cathodic protection power supply module",
+        "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+        "list_of_product_ids": "6413,5583,8417,12209",
+        "core_id": 315.0
+      }
+    },
+    {
+      "id": "variant-d0ec7d8f-f6f9-56f9-90e3-efb511cdd716",
+      "score": 0.8350098,
+      "metadata": {
+        "text": "core_product_name: converter | acronymed_core_product_name: USB (Universal Serial Bus) to RS232 (Recommended Standard 232) Converter | type_or_class: USB (Universal Serial Bus) to RS232 (Recommended Standard 232)",
+        "raw_product_name": "USB to RS232 Converter",
+        "list_of_product_ids": "14216",
+        "core_id": 472.0
+      }
+    },
+    {
+      "id": "variant-41a6c6d9-ef4d-520f-b9f3-af2822f8dcef",
+      "score": 0.8348076,
+      "metadata": {
+        "text": "core_product_name: power supply",
+        "raw_product_name": "BUIL POWER SUPPLY",
+        "list_of_product_ids": "5,937,676,612,114",
+        "core_id": 250.0
+      }
+    },
+    {
+      "id": "variant-272261cc-0ac7-5e62-bdc4-b8b3ba555a0a",
+      "score": 0.834354,
+      "metadata": {
+        "text": "core_product_name: power cable",
+        "raw_product_name": "POWER CABLE",
+        "list_of_product_ids": "13440,14645,15813,29442,29447,29448,24045,23896,36583,36611,38139",
+        "core_id": 3.0
+      }
+    },
+    {
+      "id": "variant-276518b7-a007-51b1-be39-a66bb3415283",
+      "score": 0.83389646,
+      "metadata": {
+        "text": "core_product_name: segregated phase bus duct | acronymed_core_product_name: spbd (segregated phase bus duct)",
+        "raw_product_name": "SEGREGATED PHASE BUS DUCT (SPBD)",
+        "list_of_product_ids": "16996,16993,17039,17121,17259",
+        "core_id": 1990.0
+      }
+    },
+    {
+      "id": "variant-2df18420-d5bb-51ae-8444-dee24cf0cf07",
+      "score": 0.8334102,
+      "metadata": {
+        "text": "core_product_name: lightning distribution board | acronymed_core_product_name: ldb (lightning distribution board)",
+        "raw_product_name": "LIGHTNING DISTRIBUTION BOARD/LDB",
+        "list_of_product_ids": "10002,10019,10242,15385,14605,14777,14808,17874,17933,17919,17894,17951,17941,17944,18029,18010,18051,19660,19141",
+        "core_id": 1357.0
+      }
+    },
+    {
+      "id": "variant-b282183e-bc8e-5a78-bf84-96bc3fea7930",
+      "score": 0.8330309,
+      "metadata": {
+        "text": "core_product_name: cable gland",
+        "raw_product_name": "CABLE GLANDS",
+        "list_of_product_ids": "5961,6789,8221,8217,10553,10605,8222,8223,12107,15811,15929,16012,16032,16026,17577,22860,26078,26074,26071,36606,33509,33510,35776,35866,39358",
+        "core_id": 278.0
+      }
+    },
+    {
+      "id": "variant-11fd4851-b53d-5354-8701-6060ebf8322c",
+      "score": 0.8330239,
+      "metadata": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: pcc (power control center) switchgear panel | size_or_capacity: 415V | type_or_class: PCC (Power Control Center)",
+        "raw_product_name": "415V SWITCHGEAR PANEL (PCC)",
+        "list_of_product_ids": "176,911,769,018,664",
+        "core_id": 18.0
+      }
+    },
+    {
+      "id": "variant-371b3ece-a606-5c8d-9ec9-de52fb9e3846",
+      "score": 0.83294135,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper | construction_features: Coated | construction_features: Bare",
+        "raw_product_name": "COPPER TUBES(COATED,BARE)",
+        "list_of_product_ids": "6,487,565,818,967",
+        "core_id": 88.0
+      }
+    }
+  ]
+}

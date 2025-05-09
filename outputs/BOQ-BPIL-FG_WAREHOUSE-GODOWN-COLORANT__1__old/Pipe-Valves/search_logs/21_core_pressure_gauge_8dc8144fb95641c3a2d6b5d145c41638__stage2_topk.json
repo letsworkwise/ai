@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: pressure gauge | feature_or_specifications: manufacturer: h.guru",
+  "retrieval_results": [
+    {
+      "id": "variant-adaeb938-3641-5d1f-932c-7bddc3a95727",
+      "score": 0.8969156,
+      "metadata": {
+        "text": "core_product_name: pressure gauge",
+        "raw_product_name": "PRESSURE GAUGES",
+        "list_of_product_ids": "6566,5736,9044,9045,9453,9239,9160,12718,12728,12829,12831,13206,14225,16560,16615,16593,16586,18215,18883,18929,18983,19504,21561,31684,31592,31593,37411,37410,36585,37680,33015,36619,33202,33267,38194,33569,33640,38210,38211,37654,35194,35929,35966,35973,37653",
+        "core_id": 1771.0
+      }
+    },
+    {
+      "id": "variant-4f374d94-1b89-566c-a340-967f5423bfe0",
+      "score": 0.88608694,
+      "metadata": {
+        "text": "core_product_name: gauge",
+        "raw_product_name": "ROCHESTER GAUGE",
+        "list_of_product_ids": "13848,13850,15244,15258,21980,37412",
+        "core_id": 1043.0
+      }
+    },
+    {
+      "id": "variant-ee0df5dd-21a8-58a7-a293-d049b3e1042a",
+      "score": 0.8825445,
+      "metadata": {
+        "text": "core_product_name: gauge | material: Glass",
+        "raw_product_name": "GAUGE GIASS",
+        "list_of_product_ids": "164,191,652,834,576",
+        "core_id": 1043.0
+      }
+    },
+    {
+      "id": "variant-71e605a8-ca37-5389-a1d7-7bf6072d3784",
+      "score": 0.8814705,
+      "metadata": {
+        "text": "core_product_name: differential pressure gauge",
+        "raw_product_name": "DIFFERENTIAL PRESSURE GAUGES",
+        "list_of_product_ids": "6568,5738,11830,11715,12727,16561,16616,16594,16587,17202,18170,17703,18988,18982,18990,22722,37656,37661,37762,37672,32611,37782",
+        "core_id": 585.0
+      }
+    },
+    {
+      "id": "variant-7f02345e-610e-5112-b4c7-2ce6f9d24dbf",
+      "score": 0.8779243,
+      "metadata": {
+        "text": "core_product_name: level gauge",
+        "raw_product_name": "LEVEL GAUGES",
+        "list_of_product_ids": "14374,17072,18035,23121,23520,36626,36111",
+        "core_id": 1330.0
+      }
+    },
+    {
+      "id": "variant-cbae75ef-1f57-51fb-a18d-88a528fb3ab5",
+      "score": 0.87778115,
+      "metadata": {
+        "text": "core_product_name: measuring special gauge",
+        "raw_product_name": "SPECIAL MEASURING GAUGES",
+        "list_of_product_ids": "216,522,165,021,743",
+        "core_id": 2077.0
+      }
+    },
+    {
+      "id": "variant-f137bdce-af71-511f-9954-636b434a08d5",
+      "score": 0.875791,
+      "metadata": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPARETURE GAUGE",
+        "list_of_product_ids": "13992,36535,17284,17283,17282,23171,35667,35957,35960,35972,37406",
+        "core_id": 2222.0
+      }
+    },
+    {
+      "id": "variant-58b18428-ab84-54e0-8911-4e48d510fa61",
+      "score": 0.8755116,
+      "metadata": {
+        "text": "core_product_name: pressure regulator",
+        "raw_product_name": "PRESSURE REGULATOR",
+        "list_of_product_ids": "13868,15346,15351,15356",
+        "core_id": 1773.0
+      }
+    },
+    {
+      "id": "variant-f36f9a26-b202-54c5-b8bf-b0bf8137e3a4",
+      "score": 0.87537134,
+      "metadata": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPERATURE GAUGES",
+        "list_of_product_ids": "19536,19516,27065,37528,35959,35961,37407",
+        "core_id": 2222.0
+      }
+    },
+    {
+      "id": "variant-37a20e30-39e6-5cce-9382-7bf349c28f51",
+      "score": 0.8749605,
+      "metadata": {
+        "text": "core_product_name: receiver gauge",
+        "raw_product_name": "RECEIVER GAUGES",
+        "list_of_product_ids": "10283,10000,10021,22687,37662,37655,35965",
+        "core_id": 1869.0
+      }
+    },
+    {
+      "id": "variant-39fce78b-8d44-56c5-9c95-7e9a9934ea56",
+      "score": 0.8724735,
+      "metadata": {
+        "text": "core_product_name: width gauge",
+        "raw_product_name": "Width Gauge",
+        "list_of_product_ids": "7552,7226,10509,18014",
+        "core_id": 2491.0
+      }
+    },
+    {
+      "id": "variant-3dd425cf-1bbc-512c-93e2-ce9bb8683978",
+      "score": 0.87239623,
+      "metadata": {
+        "text": "core_product_name: compound gauge",
+        "raw_product_name": "COMPOUND GAUGE",
+        "list_of_product_ids": "16562,16548,16617,16592,16588,27801",
+        "core_id": 412.0
+      }
+    },
+    {
+      "id": "variant-b6be6587-f30d-5e04-856c-202eed73a5a4",
+      "score": 0.8709428,
+      "metadata": {
+        "text": "core_product_name: reflex level gauge",
+        "raw_product_name": "LEVEL GAUGES (REFLEX)",
+        "list_of_product_ids": "13571,17073,21346,21755,23033,23533",
+        "core_id": 1334.0
+      }
+    },
+    {
+      "id": "variant-1b301242-51fc-526a-84ff-a5c917de276a",
+      "score": 0.8700947,
+      "metadata": {
+        "text": "core_product_name: pressure indicating controller",
+        "raw_product_name": "PRESSURE INDICATING CONTROLLERS",
+        "list_of_product_ids": "17056,17059,17058,17057,28751,36365,40118",
+        "core_id": 1772.0
+      }
+    },
+    {
+      "id": "variant-ac005729-d87f-5139-af54-90e69da87501",
+      "score": 0.86893755,
+      "metadata": {
+        "text": "core_product_name: pressure control regulator",
+        "raw_product_name": "PRESSURE CONTROL REGULATOR",
+        "list_of_product_ids": "13867,15347,15352,15357",
+        "core_id": 1769.0
+      }
+    },
+    {
+      "id": "variant-17a59abc-9dbe-59f7-b774-e8e20a7b2998",
+      "score": 0.8687046,
+      "metadata": {
+        "text": "core_product_name: transparent level gauge",
+        "raw_product_name": "LEVEL GAUGES (TRANSPARENT)",
+        "list_of_product_ids": "13573,17074,21347,21754,23034",
+        "core_id": 1331.0
+      }
+    },
+    {
+      "id": "variant-c3cdd889-e9cf-51d8-b044-9a9c8aefbc98",
+      "score": 0.86808145,
+      "metadata": {
+        "text": "core_product_name: pressure transmitter",
+        "raw_product_name": "PRESSURE TRANSMITTER",
+        "list_of_product_ids": "10037,10038,10043,10159,10626,9515,9555,36531,15313,17103,17110,18208,24110,19474,20012,20022,20017,35953,36165,36313,36510",
+        "core_id": 1778.0
+      }
+    },
+    {
+      "id": "variant-696cdadc-cf66-521a-a4b6-ffd67b236f46",
+      "score": 0.8664585,
+      "metadata": {
+        "text": "core_product_name: drum level instrument | type_or_class: Bi-Colour Gauge",
+        "raw_product_name": "DRUM LEVEL INSTRUMENTS (BI-COLOUR GAUGE)",
+        "list_of_product_ids": "6581,5751,10948,10951,12233,12235,12238,12241,35428",
+        "core_id": 629.0
+      }
+    },
+    {
+      "id": "variant-affeca54-15e9-52bb-a421-acd7f7a8fbe5",
+      "score": 0.86602575,
+      "metadata": {
+        "text": "core_product_name: draft gauge",
+        "raw_product_name": "DRAFT GAUGES",
+        "list_of_product_ids": "6567,5737,12719,12723,12729,21227,37657,37660",
+        "core_id": 620.0
+      }
+    },
+    {
+      "id": "variant-4b7f4b7a-30de-55ef-a556-8eac38c8298c",
+      "score": 0.8657655,
+      "metadata": {
+        "text": "core_product_name: pressurisation system",
+        "raw_product_name": "PRESSURISATION SYSTEM",
+        "list_of_product_ids": "7063,7390,8498,8502,18415",
+        "core_id": 1782.0
+      }
+    },
+    {
+      "id": "variant-b281fb48-a8db-5508-9142-753be03be143",
+      "score": 0.8649869,
+      "metadata": {
+        "text": "core_product_name: manometer | material: Mercury",
+        "raw_product_name": "MANOMETER (MERCURY)",
+        "list_of_product_ids": "219,942,203,028,608",
+        "core_id": 1435.0
+      }
+    },
+    {
+      "id": "variant-46fe9328-f322-5cf5-9c7f-ff3a8d430ae6",
+      "score": 0.86489564,
+      "metadata": {
+        "text": "core_product_name: pressure control valve",
+        "raw_product_name": "PRESSURE CONTROL VALVE",
+        "list_of_product_ids": "14378,14380,16837,17055,17085,17627,17851,17905,17903,18055,18045,18036,18233,20949,21592,21600,21661,22355,23084,23330,10654,10876,36298,36435,40310",
+        "core_id": 1770.0
+      }
+    },
+    {
+      "id": "variant-429b8812-d388-5299-afe3-17c7e0563bc7",
+      "score": 0.86472666,
+      "metadata": {
+        "text": "core_product_name: pressure vessel",
+        "raw_product_name": "PRESSURE VESSELS",
+        "list_of_product_ids": "7036,7363,11704,11496,12043,12853,13000,15855,17342,17386,17845,22795,36649,26140,33998,33997,37074,35786,35998,36076,36282,36288",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.8637822,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-b5da6669-f0e6-5a0c-b137-e76e6b507a71",
+      "score": 0.8635324,
+      "metadata": {
+        "text": "core_product_name: pressure filter",
+        "raw_product_name": "PRESSURE FILTER",
+        "list_of_product_ids": "7109,7436,12864,16167,17741,18180,18200,18187,22056,22066,22986,39014",
+        "core_id": 829.0
+      }
+    },
+    {
+      "id": "variant-10e6dde7-10e5-5e91-acb9-a64969137ce3",
+      "score": 0.8635324,
+      "metadata": {
+        "text": "core_product_name: pressure filter",
+        "raw_product_name": "FILTER - PRESSURE",
+        "list_of_product_ids": "6083,5249,10771,10777,10774,9750,9754,23602,38435,38436,39013",
+        "core_id": 829.0
+      }
+    },
+    {
+      "id": "variant-361d16ec-1c9b-51c2-bb2b-c034ee826f48",
+      "score": 0.86352575,
+      "metadata": {
+        "text": "core_product_name: pressure switch",
+        "raw_product_name": "PRESSURE SWITCHES",
+        "list_of_product_ids": "6591,5761,10082,10084,10628,7944,7946,7948,9043,12721,12730,12724,12726,12900,12905,16623,16824,19378,18142,18406,18882,18928,30690,31309,37434,37435,36690,35676,39387",
+        "core_id": 1777.0
+      }
+    },
+    {
+      "id": "variant-f4b47829-8402-575d-9f30-7b10a24d3ed0",
+      "score": 0.8634362,
+      "metadata": {
+        "text": "core_product_name: magnetic oil level gauge",
+        "raw_product_name": "MAGNETIC OIL LEVEL GAUGE",
+        "list_of_product_ids": "6465,5636,10160,12891,26083",
+        "core_id": 1424.0
+      }
+    },
+    {
+      "id": "variant-40f5e806-4a91-59d6-8fea-bf521847066a",
+      "score": 0.86327165,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: Forged",
+        "raw_product_name": "VALVE CHECK FORGED",
+        "list_of_product_ids": "6231,5400,11625,11641,11223,11242,11255,9246,11448,9262,8280,8383,8555,8649,8626,9412,9451,9253,9166,9343,12098,12493,12572,12656,13266,13360,19382,19390,17623,17908,18030,19711,19860,31813,36763,32701",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-9bba2e17-cf1d-526f-a83c-61ada94bf1b8",
+      "score": 0.86310077,
+      "metadata": {
+        "text": "core_product_name: pneumatic switch | type_or_class: Pressure (PR.)",
+        "raw_product_name": "PNEUMATIC PR. SWITCH",
+        "list_of_product_ids": "13815,38325,35543,36102,40132",
+        "core_id": 1718.0
+      }
+    }
+  ]
+}

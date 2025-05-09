@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: cable lugs | size: cores: 3c, conductor size: 2.5 sqmm | feature_or_specifications: type: crimping, feature: heavy duty, barrel: long, finish: tinned, feature: flameproof, material: copper or aluminium, suitability: all aluminium and copper cables, suitability: xlpe (cross-linked polyethylene) cables",
+  "retrieval_results": [
+    {
+      "id": "variant-0ff35c17-29e9-57ef-9128-f170e7baffc4",
+      "score": 0.88032734,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 33kV | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "33kV cable XLPE",
+        "list_of_product_ids": "14154,15792,16795,20142,24052,20057,23903",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-11b5ebb2-c136-58d8-ae90-c22c25a8234c",
+      "score": 0.8726567,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 220 kV (kilovolt) | material: XLPE (cross-linked polyethylene)",
+        "raw_product_name": "220 kV CABLE XLPE",
+        "list_of_product_ids": "14151,15785,20056,24051,23902",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-81a14c31-0118-5e0b-b544-f02bc84e131a",
+      "score": 0.8726232,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 132kV (132 kilovolt) | material: XLPE (cross-linked polyethylene)",
+        "raw_product_name": "132kV CABLE XLPE",
+        "list_of_product_ids": "14146,15782,20052,24050,23901",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-d653c619-066e-5b89-be58-292fd0a2d594",
+      "score": 0.86991024,
+      "metadata": {
+        "text": "core_product_name: high voltage cable | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES-HIGH VOLTAGE-XLPE",
+        "list_of_product_ids": "6420,5590,10186,10816,11366,10660,10881,12079,12087,16280,23989,23858,26941,26939,26938,26937,26936,26935,36582",
+        "core_id": 289.0
+      }
+    },
+    {
+      "id": "variant-a6c0fc04-eafb-59b9-80b3-216525c393ef",
+      "score": 0.86413354,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 11KV (11 kiloVolt) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "11KV CABLE XLPE",
+        "list_of_product_ids": "23938,24087,21515,27081",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-0a06fbf2-0b0e-570c-bf1f-98af8e2f23ed",
+      "score": 0.86376834,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: xlpe cable | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "XLPE CABLE",
+        "list_of_product_ids": "23937,24086,21510,27082",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-f82843f0-a52d-5369-bcf3-ffa6d37113cf",
+      "score": 0.86196244,
+      "metadata": {
+        "text": "core_product_name: control cable | type_or_class: Unpaired | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES-CONTROL (UNPAIRED)-XLPE",
+        "list_of_product_ids": "13730,14825,24063,23915",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-1b38c2cd-48ae-5642-814d-205a8917dd9f",
+      "score": 0.860448,
+      "metadata": {
+        "text": "core_product_name: cable lug",
+        "raw_product_name": "CABLE LUG",
+        "list_of_product_ids": "2,064,720,116",
+        "core_id": 280.0
+      }
+    },
+    {
+      "id": "variant-910635db-1f6d-5b76-ae03-05bdfcbe87d3",
+      "score": 0.8555718,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: ht (high tension) cable | size_or_capacity: up to 11kV | type_or_class: HT (High Tension) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "HT (up to 11kV) cable XLPE",
+        "list_of_product_ids": "13659,14787,14826,15794,16794,20058,20143,24054,23905",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-b2fd74a4-89f2-5719-ba63-b6451df8aa47",
+      "score": 0.85492146,
+      "metadata": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": "32910,32911,33009,33041,33195,33260,33562,33633,35922",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-c1595de7-9673-5e8f-846d-3386450520fc",
+      "score": 0.8536552,
+      "metadata": {
+        "text": "core_product_name: power cable | size_or_capacity: medium voltage | material: PVC (Polyvinyl Chloride) or XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES-MEDIUM VOLTAGE-POWER-PVC/XLPE",
+        "list_of_product_ids": "8987,9004,10662,9469,9472,9476,9356,9366,9382,9393,9454,9191,9197,9193,9199,9203,9206,9209,9295,9359,9369,9373,15970,19317,19309,19311,17781,19314,16908,24041,23892,26973,27004,27003,19310,38593,38753,38647,36581,38619,38702,38779,38727,38870,38838,38912,38938,38674,38975,39002,39030,39066,39098,39128,39176,39215,39257,39299,39335,39371,39400,39430,39481,39536,39563,39601,39625,39653,39687,39727,39797,39825,39896",
+        "core_id": 3.0
+      }
+    },
+    {
+      "id": "variant-5babc915-714f-5eb2-8a79-0409ac5c2465",
+      "score": 0.853635,
+      "metadata": {
+        "text": "core_product_name: cable lug | accessories_or_attachments: Lugs",
+        "raw_product_name": "CABLE – LUGS",
+        "list_of_product_ids": "13715,14861,18113,19564,20439,20413,20462,20503,24057,23908,32998,33032,33185,33250,33552,33624,35913",
+        "core_id": 280.0
+      }
+    },
+    {
+      "id": "variant-affc3a60-b3e8-5b61-83c3-0bf211340c68",
+      "score": 0.85161763,
+      "metadata": {
+        "text": "core_product_name: armoured cable | construction_features: Armour | special_attributes: Loop",
+        "raw_product_name": "ARMOURED CABLE-(LOOP)",
+        "list_of_product_ids": "9936,9937,9938,8890,8911,8937,8941,8949,8945,8953,9082,9086,9090,9094,9098,19456,19459,19521,19532,19549,19556,23874,24037,24686,27123,27118,27127,27131,27135,27162,27167,27172,27181,27283,27337,27358,27398,27433,27520,27526,27539,27544,27553,27580,27638,27646,27682,27673,27771,27789,27810,27900,27917,27962,28028,28080,28067,28145,28115,28111,28107,28271,28283,28295,28291,28347,28385,28381,28413,28419,28458,28455,28466,28498,28514,38762,38596,38683,38622,38711,38650,38736,38847,38879,38921,38947,38984,39011,39039,39064,39107,39137,39185,39213,39266,39287,39333,39369,39398,39428,39479,39534,39561,38788,39599,39623,39651,39685,39725,39795,39823,39894",
+        "core_id": 130.0
+      }
+    },
+    {
+      "id": "variant-b2934f72-046a-511c-b279-1e68e75f481c",
+      "score": 0.85043126,
+      "metadata": {
+        "text": "core_product_name: control cable | material: PVC (Polyvinyl Chloride) | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES:CONTROL-PVC/XLPE",
+        "list_of_product_ids": "6422,5592,10193,11360,10665,11368,11745,12088,12118,13289,13295,16038,16281,17782,23991,23860,40317",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-f2ac1e37-b35c-5116-bd5e-47a63da76831",
+      "score": 0.85012937,
+      "metadata": {
+        "text": "core_product_name: cable | material: Rubber",
+        "raw_product_name": "RUBBER CABLES",
+        "list_of_product_ids": "38749,38955,38670,38589,38533,38534,38615,38698,38775,38723,38643,38834,38866,38908,38934,38971,38998,39026,39060,39094,39124,39172,39225,39253,39295,39345,39381,39410,39440,39456,39491,39546,39573,39611,39635,39663,39697,39737,39807,39835,39906",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-bb001d38-b128-522d-9d87-0b59ec1edf02",
+      "score": 0.84871703,
+      "metadata": {
+        "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+        "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+        "list_of_product_ids": "140,901,478,121,282",
+        "core_id": 313.0
+      }
+    },
+    {
+      "id": "variant-b6ead048-663b-5a2b-91c5-5138c715e072",
+      "score": 0.8481761,
+      "metadata": {
+        "text": "core_product_name: power and control cable | type_or_class: LT (Low Tension) Power and Control | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLE – LT POWER & CONTROL(XPLE)",
+        "list_of_product_ids": "14190,19114,15162,16034,19097,19096,20131,24055,23906",
+        "core_id": 286.0
+      }
+    },
+    {
+      "id": "variant-e7e36f9e-c2bd-5fb1-9e61-4ed595438655",
+      "score": 0.84518504,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper and Alloys",
+        "raw_product_name": "TUBE COPPER AND ALLOYS",
+        "list_of_product_ids": "6308,5479,8815,8816,31806",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-b6f3af29-639b-56b2-8d8c-1891bd3bd4bf",
+      "score": 0.84464127,
+      "metadata": {
+        "text": "core_product_name: control cable | type_or_class: Unpaired | material: PVC (Polyvinyl Chloride) or XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES:CONTROL (UNPAIRED)-PVC/XLPE",
+        "list_of_product_ids": "8994,8997,9355,9364,9372,9383,9381,9390,9395,9456,9192,9198,9195,9196,9201,9202,9205,9208,9296,9357,9370,9374,14648,24043,23894,27028,27032,27033,27031,38755,38840,38595,38621,38704,38781,38649,38729,38872,38914,38940,38676,38977,39004,39032,39068,39100,39130,39178,39217,39259,39301,39337,39373,39402,39432,39483,39538,39565,39603,39627,39655,39689,39729,39799,39827,39898",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-852e0cf7-491f-5120-8c23-037d62b5cec0",
+      "score": 0.84360236,
+      "metadata": {
+        "text": "core_product_name: solid conductor | material: Copper",
+        "raw_product_name": "SOLID COPPER CONDUCTOR",
+        "list_of_product_ids": "180,781,807,918,591",
+        "core_id": 2063.0
+      }
+    },
+    {
+      "id": "variant-415d3f4c-4cc5-5cc9-9229-84cf4ef1c9ae",
+      "score": 0.84287256,
+      "metadata": {
+        "text": "core_product_name: electric wire | material: Copper",
+        "raw_product_name": "ELECTRIC COPPER WIRE",
+        "list_of_product_ids": "211,542,115,028,492",
+        "core_id": 688.0
+      }
+    },
+    {
+      "id": "variant-d01e7f04-41a2-5983-a7cb-2052b99c5edb",
+      "score": 0.8425151,
+      "metadata": {
+        "text": "core_product_name: control cable | protection_features: Fire Survival",
+        "raw_product_name": "CONTROL CABLE - FIRE SURVIVAL",
+        "list_of_product_ids": "6424,5594,10194,10666,11369,11371,12120,13290,15814,17323,17783,23993,23862",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-76f2380b-e820-5790-96f0-0815dbd8e1a4",
+      "score": 0.84219426,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper | construction_features: PVC (Polyvinyl Chloride) coated",
+        "raw_product_name": "COPPER TUBE (PVC COATED)",
+        "list_of_product_ids": "16380,16442,16464,16437",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-1c2b8fdb-3ab1-5869-b71b-d009d023377b",
+      "score": 0.8419833,
+      "metadata": {
+        "text": "core_product_name: signal cable | protection_features: Fire Resistant",
+        "raw_product_name": "SIGNAL CABLE - FIRE RESISTANT",
+        "list_of_product_ids": "6482,5653,10413,10664,12117,13288,13294,17776,17788,23870,24034,38767,38585,38611,38690,38715,38639,38826,38662,38858,38900,38926,38741,38963,38990,39018,39047,39086,39116,39162,39206,39245,39280,39326,39362,39391,39421,39472,39554,39527,39616,39592,39644,39678,39718,39788,39816,39887",
+        "core_id": 826.0
+      }
+    },
+    {
+      "id": "variant-323bf0e7-9d8f-5ea5-9cad-eb58b0ac6448",
+      "score": 0.84125215,
+      "metadata": {
+        "text": "core_product_name: special cable",
+        "raw_product_name": "SPECIAL CABLES",
+        "list_of_product_ids": "13989,14840,20102,20070,24071,23923",
+        "core_id": 2074.0
+      }
+    },
+    {
+      "id": "variant-a88868c3-e02b-556c-afb5-f9319567fc58",
+      "score": 0.8407356,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLES",
+        "list_of_product_ids": "15455,13721,24275,15161,16241,19098,23820,23814,21319,19315,23819,23822,24273,23829,20141,23831,24058,23836,23909,23839,23828,24685,24726,24844,24955,31590,31591,26436,26438,31740,33330",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.8405935,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-7f090a1a-b828-5a18-86a5-0ef23d51283a",
+      "score": 0.84054047,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLE STOCKIST/TRADERS",
+        "list_of_product_ids": "2,467,924,680",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-035e5d74-4fc0-5854-ace0-4826f9b36c25",
+      "score": 0.8398262,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+        "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+        "list_of_product_ids": "19885,19880,24078,23930,27348",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-4d61d445-0ca2-5a71-a2b2-abf92cbb9dac",
+      "score": 0.8395821,
+      "metadata": {
+        "text": "core_product_name: communication cable | construction_features: jelly filled",
+        "raw_product_name": "CABLES COMMN. (JELLY FILLED)",
+        "list_of_product_ids": "6426,5596,11747,12089,12121,13297,23995,23864",
+        "core_id": 287.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: blind flange | size: flange size: 200 NB",
+  "retrieval_results": [
+    {
+      "id": "variant-151ce4f6-5469-579f-8545-47358a95c4ad",
+      "score": 0.8734331,
+      "metadata": {
+        "text": "core_product_name: flange | material: Alloy 20",
+        "raw_product_name": "FLANGE- ALLOY 20",
+        "list_of_product_ids": "176,491,764,718,665",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-79e34a67-ef11-56c8-9cb0-0ea71ddda0de",
+      "score": 0.870611,
+      "metadata": {
+        "text": "core_product_name: flange",
+        "raw_product_name": "FLANGES",
+        "list_of_product_ids": "5445,6068,6902,9990,9987,11093,11095,40331,40332,10738,11699,10739,11251,10740,10742,10165,36909,11403,6908,6900,6925,6929,6933,6927,6931,7714,7715,9313,8791,8792,8794,8790,8823,8793,8880,12380,13051,13319,15743,16378,16613,16580,24554,18182,18206,29472,36906,18894,18938,20065,19843,7713,36873,30636,30688,37305,36934,32262,36591,37264,36864,35744,35743,36525",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-068777f8-3792-5f96-b5cc-c1c786b162bc",
+      "score": 0.86863333,
+      "metadata": {
+        "text": "core_product_name: hammer blind valve",
+        "raw_product_name": "HAMMER BLIND VALVE",
+        "list_of_product_ids": "6279,5449,7845,7844,12958",
+        "core_id": 1093.0
+      }
+    },
+    {
+      "id": "variant-51099c41-aa43-5333-9366-8cb60cfc4c26",
+      "score": 0.86742806,
+      "metadata": {
+        "text": "core_product_name: flange | material: Incoloy",
+        "raw_product_name": "FLANGES (INCOLOY)",
+        "list_of_product_ids": "20905,24572,24650,37037",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-a47fe2d5-edbc-5cd2-abb3-fb602932eb9f",
+      "score": 0.86652887,
+      "metadata": {
+        "text": "core_product_name: flange | material: Duplex Steel",
+        "raw_product_name": "FLANGES -DUPLEX STEEL",
+        "list_of_product_ids": "17453,17452,24558,24654",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-753a9003-b4bd-57d4-be90-1fb2b870025a",
+      "score": 0.86480606,
+      "metadata": {
+        "text": "core_product_name: flange | material: Stainless Steel",
+        "raw_product_name": "FLANGE-STAINLESS STEEL",
+        "list_of_product_ids": "6275,5444,11593,11256,11285,11401,8449,8462,8471,8781,12343,12389,12471,12876,12885,12866,12872,12889,12895,12923,12929,12933,12938,12946,12954,12898,12903,12927,12942,12950,13299,17007,17914,18403,18897,18941,19844,21656,21700,21749,26265,26147,26199,26212,26222,26231,27707,37251",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-e12a6638-edc6-5025-93a9-36f51f030a66",
+      "score": 0.8630002,
+      "metadata": {
+        "text": "core_product_name: spectacle blind",
+        "raw_product_name": "SPECTACLE BLINDS",
+        "list_of_product_ids": "999,210,029",
+        "core_id": 2085.0
+      }
+    },
+    {
+      "id": "variant-e6962075-ca09-5c6f-853c-2665f1ed752b",
+      "score": 0.86236244,
+      "metadata": {
+        "text": "core_product_name: compact flange",
+        "raw_product_name": "COMPACT FLANGE",
+        "list_of_product_ids": "62,775,447",
+        "core_id": 406.0
+      }
+    },
+    {
+      "id": "variant-4b24398d-f291-5ca0-ab03-16b0395e1b46",
+      "score": 0.8621891,
+      "metadata": {
+        "text": "core_product_name: mono flange",
+        "raw_product_name": "MONOFLANGES",
+        "list_of_product_ids": "395,883,879,038,792",
+        "core_id": 1502.0
+      }
+    },
+    {
+      "id": "variant-80846140-9c60-5177-8bda-746bfe44d073",
+      "score": 0.861952,
+      "metadata": {
+        "text": "core_product_name: flange | material: Titanium",
+        "raw_product_name": "FLANGE (TITANIUM)",
+        "list_of_product_ids": "20205,20213,20294,20270,20321,20363",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-27f3d003-0b9b-5483-a8ba-373538a6d09b",
+      "score": 0.8618853,
+      "metadata": {
+        "text": "core_product_name: flange | material: Carbon Steel",
+        "raw_product_name": "FLANGE- CARBON STEEL",
+        "list_of_product_ids": "6273,5442,11592,11400,7751,9314,9323,8440,8447,8472,8450,8463,9392,8779,9231,9232,9235,9310,9317,9344,12306,12342,12387,12469,12766,12759,12779,12874,12884,12870,12887,12894,12921,12928,12932,12936,12944,12952,12897,12904,12911,12931,12940,12948,13370,13377,15999,17005,17518,17911,18401,18895,18939,19832,21671,21654,21699,21732",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-b08f8763-87d3-5136-a6d0-f8e112b85154",
+      "score": 0.8608806,
+      "metadata": {
+        "text": "core_product_name: flange | material: Exotic",
+        "raw_product_name": "FLANGES-EXOTIC",
+        "list_of_product_ids": "6276,5446,10701,8782,12877,12873,12890,12896,12924,12939,12947,12955,12899,12943,12951,21701,24555",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-8f6f91bf-b977-5254-b6f7-c761bf9f45a8",
+      "score": 0.86004376,
+      "metadata": {
+        "text": "core_product_name: orifice flange",
+        "raw_product_name": "ORIFICE - FLANGES",
+        "list_of_product_ids": "340,383,406,334,035",
+        "core_id": 1601.0
+      }
+    },
+    {
+      "id": "variant-7d01faaf-1c91-53b8-af60-366b4bc3cea8",
+      "score": 0.8594332,
+      "metadata": {
+        "text": "core_product_name: reduced flange",
+        "raw_product_name": "REDUCED FLANGE",
+        "list_of_product_ids": "15468,15474,15476,15477",
+        "core_id": 1879.0
+      }
+    },
+    {
+      "id": "variant-66e16cf8-9c35-5e7e-a651-b02a40b1eabe",
+      "score": 0.85940415,
+      "metadata": {
+        "text": "core_product_name: flange | material: Alloy Steel",
+        "raw_product_name": "FLANGE-ALLOY STEEL",
+        "list_of_product_ids": "6274,5443,11284,8448,8461,8470,8780,12388,12470,12868,12875,12865,12871,12888,12922,12930,12937,12945,12953,12956,12926,12941,12949,17006,17575,18402,18896,18940,19839,21655,37254",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-480b5587-5fb6-572c-95ab-e13c28298ad6",
+      "score": 0.8591326,
+      "metadata": {
+        "text": "core_product_name: forged flange",
+        "raw_product_name": "FLANGE- FORGED",
+        "list_of_product_ids": "7601,7276,8118,12390,13298,19714,22675,17413,37072,37073,37079,37080",
+        "core_id": 901.0
+      }
+    },
+    {
+      "id": "variant-1e1cbeb6-aa70-597e-8331-32946c4b64b1",
+      "score": 0.85907006,
+      "metadata": {
+        "text": "core_product_name: forged flange",
+        "raw_product_name": "FORGED FLANGES",
+        "list_of_product_ids": "8771",
+        "core_id": 901.0
+      }
+    },
+    {
+      "id": "variant-7abf6a23-caeb-58fb-9988-2238d2b1f272",
+      "score": 0.85880965,
+      "metadata": {
+        "text": "core_product_name: flange | material: Ferrous",
+        "raw_product_name": "FERROUS FLANGES",
+        "list_of_product_ids": "23432,23431,23430,23429,24574,24648,26898,26900,26897,26896,37030",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-956d6fcf-d2bc-5761-b5f1-21126dcd1c9a",
+      "score": 0.8556871,
+      "metadata": {
+        "text": "core_product_name: non ferrous flange | material: Non Ferrous",
+        "raw_product_name": "NON FERROUS FLANGES",
+        "list_of_product_ids": "23423,23428,23427,23426,23425,23424,24573,24649,36879,37031",
+        "core_id": 1551.0
+      }
+    },
+    {
+      "id": "variant-161fa21f-33fa-588b-b919-b504d3d47901",
+      "score": 0.8551693,
+      "metadata": {
+        "text": "core_product_name: flange | material: MS (Mild Steel)",
+        "raw_product_name": "FLANGE (MS) /Mild Steel Flange",
+        "list_of_product_ids": "10255,10260,10265,10270,10277,9941,9942,9947,9948,10225,9964,10238,10239,10244,10249,13101,17431,24567,25825",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-31a63a03-e3b0-5171-8ec3-c5e3e1658862",
+      "score": 0.85445756,
+      "metadata": {
+        "text": "core_product_name: flange | material: Carbon steel | construction_features: Raised Face (RF)",
+        "raw_product_name": "Carbon steel Flange (RF)",
+        "list_of_product_ids": "68,157,318",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-c2575402-74ce-51a4-ab7c-c62438f04a20",
+      "score": 0.8536779,
+      "metadata": {
+        "text": "core_product_name: forged pipe flange | construction_features: forged",
+        "raw_product_name": "FORGED PIPE FLANGES",
+        "list_of_product_ids": "8772",
+        "core_id": 977.0
+      }
+    },
+    {
+      "id": "variant-889a8c0f-3450-5394-8474-47c4c0cc6513",
+      "score": 0.85308903,
+      "metadata": {
+        "text": "core_product_name: flange | type_or_class: SD (Slip-On)",
+        "raw_product_name": "FLANGE (SD)",
+        "list_of_product_ids": "20200,20209,20292,20277,20320,20362,25827",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-06564800-2b69-5de3-9d0f-ad64576d6ddf",
+      "score": 0.852939,
+      "metadata": {
+        "text": "core_product_name: flange | material: Duplex SS (Stainless Steel)",
+        "raw_product_name": "FLANGES - (DUPLEX SS)",
+        "list_of_product_ids": "7592,7267,13066,13217,16007,17667,17652,19840,24557",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-8151f32d-6561-5089-b73b-442abf9ac1f0",
+      "score": 0.85273606,
+      "metadata": {
+        "text": "core_product_name: backing flange | material: Mild Steel | construction_features: Galvanised",
+        "raw_product_name": "MILD STEEL GALVANISED BACKING FLANGES",
+        "list_of_product_ids": "17443,24565,24653,17446",
+        "core_id": 1476.0
+      }
+    },
+    {
+      "id": "variant-7acdf0da-7477-5fa4-be80-59c2a3503b41",
+      "score": 0.8526525,
+      "metadata": {
+        "text": "core_product_name: flange | material: CS (Carbon Steel)",
+        "raw_product_name": "FLANGE (CS)",
+        "list_of_product_ids": "20206,20212,20295,20269,20322,20364,24569,25826,37252",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-39fce78b-8d44-56c5-9c95-7e9a9934ea56",
+      "score": 0.8520186,
+      "metadata": {
+        "text": "core_product_name: width gauge",
+        "raw_product_name": "Width Gauge",
+        "list_of_product_ids": "7552,7226,10509,18014",
+        "core_id": 2491.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8516884,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-25f9ab06-5a4e-5d74-8131-53caf3e9c221",
+      "score": 0.85153234,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | material: Non Ferrous",
+        "raw_product_name": "NON FERROUS PIPE FITTINGS",
+        "list_of_product_ids": "22328,22326,23499,28817",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-d3d3a70e-8dac-56bd-b03a-9e51c7a304b8",
+      "score": 0.85117376,
+      "metadata": {
+        "text": "core_product_name: glandless valve piston",
+        "raw_product_name": "VALVE PISTON (GLANDLESS)",
+        "list_of_product_ids": "6262,5431,8577,8858,7812,22698,35594",
+        "core_id": 2363.0
+      }
+    }
+  ]
+}

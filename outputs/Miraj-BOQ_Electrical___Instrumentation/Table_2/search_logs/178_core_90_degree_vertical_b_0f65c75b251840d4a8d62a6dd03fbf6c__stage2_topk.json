@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: 90 degree vertical bend (inside) perforated",
+  "retrieval_results": [
+    {
+      "id": "variant-3efeda5d-6e70-51e8-8f2e-ad8a9436822e",
+      "score": 0.86650765,
+      "metadata": {
+        "text": "core_product_name: bend",
+        "raw_product_name": "BENDS",
+        "list_of_product_ids": "219,382,194,421,936",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-91f11189-0c2a-5fbb-b670-57922dde3583",
+      "score": 0.86007273,
+      "metadata": {
+        "text": "core_product_name: inner wrap | material: Fibre Glass",
+        "raw_product_name": "FIBRE GLASS INNER WRAP",
+        "list_of_product_ids": "1,403,122,566",
+        "core_id": 816.0
+      }
+    },
+    {
+      "id": "variant-c1546840-79b1-5405-bbea-166aecd28e2f",
+      "score": 0.8590915,
+      "metadata": {
+        "text": "core_product_name: hot induction bend",
+        "raw_product_name": "HOT INDUCTION BEND",
+        "list_of_product_ids": "6304,5475,10335,11399,12134,31798,31799,31797,34691",
+        "core_id": 1156.0
+      }
+    },
+    {
+      "id": "variant-aced03b4-d6e4-5165-b3cf-7a7e7de87bc6",
+      "score": 0.8573427,
+      "metadata": {
+        "text": "core_product_name: perforated cable tray",
+        "raw_product_name": "Perforrated Cable Tray",
+        "list_of_product_ids": "7,013,732,126,432",
+        "core_id": 1054.0
+      }
+    },
+    {
+      "id": "variant-46fedfa5-66ff-58f3-9272-063647459d47",
+      "score": 0.8563192,
+      "metadata": {
+        "text": "core_product_name: internal",
+        "raw_product_name": "COLUMN &VESSEL INTERNALS",
+        "list_of_product_ids": "1,437,718,147",
+        "core_id": 390.0
+      }
+    },
+    {
+      "id": "variant-887682e1-b5c0-5cf1-8309-45fa808bdbac",
+      "score": 0.85610944,
+      "metadata": {
+        "text": "core_product_name: intrinsic safety barrier",
+        "raw_product_name": "INTRINSIC SAFETY BARRIERS",
+        "list_of_product_ids": "137,582,030,823,683",
+        "core_id": 1289.0
+      }
+    },
+    {
+      "id": "variant-0c101c2a-8469-5c2c-8cd4-98d9c3efc6fa",
+      "score": 0.8560909,
+      "metadata": {
+        "text": "core_product_name: internal",
+        "raw_product_name": "REACTOR INTERNAL",
+        "list_of_product_ids": "6192,5360,10856,16953,24402",
+        "core_id": 390.0
+      }
+    },
+    {
+      "id": "variant-c272cfc6-cf4b-5ec8-ab5f-7397cd5600cc",
+      "score": 0.8559331,
+      "metadata": {
+        "text": "core_product_name: horizontal brace",
+        "raw_product_name": "HORIZONTAL BRACE",
+        "list_of_product_ids": "199,091,991,428,350",
+        "core_id": 1141.0
+      }
+    },
+    {
+      "id": "variant-e0179bd1-9b31-571e-8239-a3c6655e6a2c",
+      "score": 0.8544106,
+      "metadata": {
+        "text": "core_product_name: tower internal",
+        "raw_product_name": "TOWER INTERNALS",
+        "list_of_product_ids": "6701,5872,9129,10854,8983,12414,18148,24340,19936,37937,37968,37985,38019,38037,38342,38375,38398",
+        "core_id": 2258.0
+      }
+    },
+    {
+      "id": "variant-383781f7-59ee-5d5b-8a29-cf16569a65fc",
+      "score": 0.854005,
+      "metadata": {
+        "text": "core_product_name: welded fitting",
+        "raw_product_name": "FITTINGS – AS WELDED",
+        "list_of_product_ids": "14259,15973,19406,19805,19790,20139,22666,37085,37098",
+        "core_id": 878.0
+      }
+    },
+    {
+      "id": "variant-98279854-84dd-59c7-9a77-4d59d712ced7",
+      "score": 0.8539104,
+      "metadata": {
+        "text": "core_product_name: bend | special_attributes: 5D (5 times diameter) radius",
+        "raw_product_name": "5D BENDS",
+        "list_of_product_ids": "14162,18289,20009,20007,19998,21405,23291,37862,37395,40120,40094",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-510d9426-29cd-560d-9a23-66266118ef65",
+      "score": 0.8536778,
+      "metadata": {
+        "text": "core_product_name: long radius bend",
+        "raw_product_name": "LONG RADIUS BENDS",
+        "list_of_product_ids": "6202,5370,11212,19493,30761,30763,30764,30590,37861,37394,39923,40028,40092,40121",
+        "core_id": 1381.0
+      }
+    },
+    {
+      "id": "variant-f126676e-a62f-52a6-ba06-b09e7951e71e",
+      "score": 0.8525261,
+      "metadata": {
+        "text": "core_product_name: forged fitting",
+        "raw_product_name": "FORGED FITTINGS",
+        "list_of_product_ids": "13660,22252,24586,36933",
+        "core_id": 972.0
+      }
+    },
+    {
+      "id": "variant-8b814fd7-106f-5fd3-a273-6c9340ea527b",
+      "score": 0.852488,
+      "metadata": {
+        "text": "core_product_name: interior",
+        "raw_product_name": "CONTROL ROOM INTERIOR",
+        "list_of_product_ids": "19384,19379,28261,38713",
+        "core_id": 458.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.85198313,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    },
+    {
+      "id": "variant-a8af20a3-6309-5504-b1b4-ba416fb90ee4",
+      "score": 0.8516154,
+      "metadata": {
+        "text": "core_product_name: circular hollow section",
+        "raw_product_name": "CIRCULAR HOLLOW SECTION",
+        "list_of_product_ids": "199,101,991,528,351",
+        "core_id": 356.0
+      }
+    },
+    {
+      "id": "variant-b5a05d5e-62fd-55fb-b044-58c74d88e24b",
+      "score": 0.8509911,
+      "metadata": {
+        "text": "core_product_name: internal navigation",
+        "raw_product_name": "INTERNAL NAVIGATION",
+        "list_of_product_ids": "23404,23401,23400,28024,28231,28229",
+        "core_id": 1285.0
+      }
+    },
+    {
+      "id": "variant-9aa36f08-e097-54b1-94fe-8359583782f8",
+      "score": 0.850902,
+      "metadata": {
+        "text": "core_product_name: orifice fitting",
+        "raw_product_name": "ORIFICE - FITTINGS",
+        "list_of_product_ids": "36537,36541,36539,36546",
+        "core_id": 1602.0
+      }
+    },
+    {
+      "id": "variant-524372ff-f9e3-5635-873c-15ac67da493b",
+      "score": 0.85075265,
+      "metadata": {
+        "text": "core_product_name: induction-bent pipe",
+        "raw_product_name": "Induction-bent pipe",
+        "list_of_product_ids": "7586,7261,8027,36530",
+        "core_id": 1301.0
+      }
+    },
+    {
+      "id": "variant-2750c753-642a-560b-982a-ebaf6599dc73",
+      "score": 0.8504866,
+      "metadata": {
+        "text": "core_product_name: turbine pump | mounting_or_installation: vertical",
+        "raw_product_name": "TURBINE PUMPS-VERTICAL",
+        "list_of_product_ids": "37783,37784,37785,37794,37795,37796,37797,37809",
+        "core_id": 2294.0
+      }
+    },
+    {
+      "id": "variant-91bfe88a-84f8-5c84-8707-d5ebe82cced9",
+      "score": 0.85013705,
+      "metadata": {
+        "text": "core_product_name: separator internal",
+        "raw_product_name": "SEPARATOR INTERNALS",
+        "list_of_product_ids": "6191,5359,10801,8981,9127,12409,19943,24396",
+        "core_id": 1996.0
+      }
+    },
+    {
+      "id": "variant-e87ec355-3466-5d94-ab67-f0f6c7fde455",
+      "score": 0.84951687,
+      "metadata": {
+        "text": "core_product_name: inverter",
+        "raw_product_name": "INVERTER",
+        "list_of_product_ids": "16881,17800,17790,17898,18650,21385,21368,21357,21351,36614",
+        "core_id": 1290.0
+      }
+    },
+    {
+      "id": "variant-4039828e-c343-575f-b878-499996460af0",
+      "score": 0.8493775,
+      "metadata": {
+        "text": "core_product_name: vibrating screen",
+        "raw_product_name": "VIBRATING SCREEN",
+        "list_of_product_ids": "6121,5288,10809,9724",
+        "core_id": 2397.0
+      }
+    },
+    {
+      "id": "variant-a6e25b2b-dc36-5db6-9320-5e3e3734f5f4",
+      "score": 0.8490485,
+      "metadata": {
+        "text": "core_product_name: bellow sealed valve",
+        "raw_product_name": "VALVE BELLOW SEALED",
+        "list_of_product_ids": "6253,5422,10996,8384,8576,8651,8632,8687,8733",
+        "core_id": 2344.0
+      }
+    },
+    {
+      "id": "variant-fe0debbc-b931-5107-a1d5-4734da888fa7",
+      "score": 0.84896106,
+      "metadata": {
+        "text": "core_product_name: air intake valve",
+        "raw_product_name": "AIR INTAKE VALVE",
+        "list_of_product_ids": "14517,14522,14527,14753",
+        "core_id": 71.0
+      }
+    },
+    {
+      "id": "variant-086b9eed-56e2-5efe-b5a1-8607125d7cf1",
+      "score": 0.8488936,
+      "metadata": {
+        "text": "core_product_name: hinged closure",
+        "raw_product_name": "HINGED CLOSURES",
+        "list_of_product_ids": "16126,16175,17330,17551,36725,34728,34730,34754,34851",
+        "core_id": 1134.0
+      }
+    },
+    {
+      "id": "variant-b2974204-7262-5bc1-bf4b-f79743b34043",
+      "score": 0.8487913,
+      "metadata": {
+        "text": "core_product_name: inline foam inductor",
+        "raw_product_name": "INLINE FOAM INDUCTOR",
+        "list_of_product_ids": "28424,28448,28449,28505",
+        "core_id": 1246.0
+      }
+    },
+    {
+      "id": "variant-dc67092d-c747-58a3-9b64-a36fa7d1d5e6",
+      "score": 0.8487109,
+      "metadata": {
+        "text": "core_product_name: bracing",
+        "raw_product_name": "BRACING",
+        "list_of_product_ids": "20880,20863,20902,21910,21951,22023,22088,22121",
+        "core_id": 239.0
+      }
+    },
+    {
+      "id": "variant-51099c41-aa43-5333-9366-8cb60cfc4c26",
+      "score": 0.8485564,
+      "metadata": {
+        "text": "core_product_name: flange | material: Incoloy",
+        "raw_product_name": "FLANGES (INCOLOY)",
+        "list_of_product_ids": "20905,24572,24650,37037",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.848375,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    }
+  ]
+}

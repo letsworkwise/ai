@@ -1,0 +1,342 @@
+{
+  "sheet_name": "Table 1",
+  "boq_context": "MIRAJ ENGINEERING SERVICES PVT. LTD. |  |  | \nBOQ - ELECTRICAL AND INSTRUMENTATION WORKS FOR IOCL MEGHALAYA |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "CONTROL  & INSTRUMENTATION WORKS",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "1.2 | ESD PUSH  BUTTON STATION",
+      "core_product_name": "esd push button station",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "1.2.1 | Supply  of ESD Push button  station with  all accessories  like cables , glanding & termination etc. mounted on Exd JBs located at different areas - a)Filling Shed, b)Pump house, c)LPG Bullets, d)TLD , e)Central Monitoring Hub f) plant manager room g) Filled Cylinder Area",
+      "core_product_name": "esd push button station",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "accessories: cables, glanding, termination, mounting: exd (explosion proof) junction boxes, location: filling shed, pump house, lpg bullets, tld, central monitoring hub, plant manager room, filled cylinder area",
+      "quantity": "7.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "1.3.1 | Supply of electric siren at pump  house/PMCC/Security room.   Scope also includes: a) supply of necessory equipments/component/ accessories including siren controller required to complete system as per tender document. b) supply of any support required for siren & it's panel",
+      "core_product_name": "electric siren",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "location: pump house, pmcc (power and motor control center), security room, accessories: siren controller, necessary equipment, components, support for siren and panel, as per tender document",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "1.3.2 | Supply of Hand operated siren for the location of LPG pump  house, security room, TLD bay & Empty cum filling shed.",
+      "core_product_name": "hand operated siren",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "location: lpg pump house, security room, tld bay, empty cum filling shed",
+      "quantity": "4.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "1.4.1 | Supply of Fire Alarm System panel along with electronic card and other electrical accessories. All hardware and software to integrate all devices for successful functioning of the system included in the scope. All Fire Alarm Panel Panels shall be integrated through MODBUS / PROFIBUS / OEM RECOMMENDED  SERIAL LINK COMMUNICATION. Common Fault Alarm shall be generated in Fire Alarm Panel to hook up through hardware cable to PLC / ESD located at CR. Associated electrical or electronics circuit connecting with the field devices of detection system requires high availability and reliability in confirmation to tender drawings and specification. Fire alarm system shall be UL listed. Fire Detection System Panel shall include below mentioned items: 1. Intelligent Analogue Addressable type non-ex-proof type Manual Call point (06 Nos), to be hooked up with Fire Alarm Panel at CMH, 2. Intelligent Analogue Addressable type Flame proof type Manual Call point (07 Nos), to be hooked up with Fire Alarm Panel at CMH, 3. Isolator Modules (03 Nos), to be hooked up with Fire Alarm Panel at CMH. 4. Control Modules (05 Nos), to be hooked up with Fire Alarm Panel at CMH. 5. Intelligent Analogue Addressable type Multi Criteria Detector (05 Nos) to be hooked up in Fire Alarm Panel of CMH). 6. Response Indicators (05 Nos), 7 Audio Visual Fire Alarm Siren (05 Nos). Above items shall be read in conjuction with Fire Detection drawing & ILSD drawing.",
+      "core_product_name": "fire alarm system panel",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "accessories: electronic card, electrical accessories, hardware, software, integration: modbus, profibus, oem recommended serial link communication, common fault alarm, connection: plc (programmable logic controller), esd (emergency shutdown device) at cr (control room), standard: ul (underwriters laboratories) listed, includes: manual call points (non-ex-proof and flame proof), isolator modules, control modules, multi criteria detector, response indicators, audio visual fire alarm siren, reference: fire detection drawing, ilsd (integrated leak detection system) drawing",
+      "quantity": "1.0",
+      "unit": "Lot"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "1.4.2 | SUPPLY  of DV Operation Panel integrating with  PLC and with PB (with operation indicating lamp for \"DV on Fire\" and \"DV Operated\") for opening of  Deluge Valve (09 nos+ 1 spare) . All hardware as required and software included. (1 No. DV panel shall be installed at fire water pump  house, 1 No. at main gate security room.)",
+      "core_product_name": "dv operation panel",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "integration: plc (programmable logic controller), pb (push button), indicating lamp: dv on fire, dv operated, for: deluge valve (9 nos + 1 spare), installation: fire water pump house, main gate security room, hardware and software included",
+      "quantity": "2.0",
+      "unit": "Lot"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "2.1.1 | Supply of flameproof/EX -proof , IP-66  IR  gas detector suitable to hazardous area Zone-1, IIA/B T3 . Canopy & any otther acessories required is included in scope",
+      "core_product_name": "ir gas detector",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: flameproof, ex-proof (explosion proof), ingress protection: ip-66, area suitability: hazardous area zone-1, iia/b t3, accessories: canopy, other accessories included",
+      "quantity": "28.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "2.2.1 | Gas monitoring system: Supply of Dual redundant (Parallel/ Hot Standby) wall mounted Programmable Logic Controller (Process PLC) along with PLC Panels, Input Output  modules, Power supply units, Relays with base, barriers, TBs, Dual Ethernet ports per processors, Serial Interface Modules, wirings, glands, plugs, other modules/ hardwares required for interfacing all the required field and Central Monitoring Hub (CMH) equipments including spare requirements, licenses, tags, softwares etc complete as per specification and tender document. AI -28 Nos DI -12 Nos DO -04 Nos Serial Interface Ports: 04 Additional 20% spare (min 1) qty to be supplied over the above mentioned I/O quantity.Size of the PLC panel shall be optimized mode to accomodate all the signals in wall mounted panel only. Gas monitoring system at Central Monitoring Hub (CMH) as per tender documents. the scope also includes supply of all componennt, accessories required for complete the system and customization of reports as detailed in specifications and tender documents.",
+      "core_product_name": "gas monitoring system",
+      "acronymed_core_product_name": "",
+      "size": "ai: 28 nos, di: 12 nos, do: 4 nos, serial interface ports: 4",
+      "feature_or_specifications": "redundancy: dual redundant (parallel/hot standby), mounting: wall mounted, controller: programmable logic controller (plc), accessories: plc panels, input output modules, power supply units, relays with base, barriers, tbs (terminal blocks), dual ethernet ports per processor, serial interface modules, wirings, glands, plugs, other modules/hardwares, spare requirements, licenses, tags, software, optimized plc panel size, customization of reports, as per specification and tender document",
+      "quantity": "1.0",
+      "unit": "Lot"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "2.2.2 | Supply of weather proof Repeater panel  at security room alongwith hooter & indication of Fault & LEL Alarm as per tender secifications. Panel to be hooked up with GMS at CMH.",
+      "core_product_name": "weather proof repeater panel",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "location: security room, accessories: hooter, indication of fault & lel (lower explosive limit) alarm, connection: gms (gas monitoring system) at cmh (central monitoring hub), as per tender specifications",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "2.2.3 | Supply of Flameproof/Ex-Proof cum weatherproof Repeater Panel alongwith Flameproof/Ex-proof   Hooter & indication of Fault & LEL Alarm as per tender secifications. same to be hooked up with GMS at CR , All cabling & hardware included (Common repeater panel 1 no. in LPG Pump  House room for TLD, LPG P/H & MSV's area gas detectors; 1 no for Filling shed & filled cylinder shed. )",
+      "core_product_name": "flameproof cum weatherproof repeater panel",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "accessories: flameproof/ex-proof hooter, indication of fault & lel (lower explosive limit) alarm, connection: gms (gas monitoring system) at cr (control room), cabling & hardware included, installation: lpg pump house room for tld, lpg p/h & msv's area gas detectors, filling shed & filled cylinder shed, as per tender specifications",
+      "quantity": "2.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "2.2.4 | Supply of sample gas cylinder for gas detectors sufficient to calibrate min. 21 nos. Gas detectors at a time. All asscessories needed for calibration are included in scope",
+      "core_product_name": "sample gas cylinder for gas detectors",
+      "acronymed_core_product_name": "",
+      "size": "calibration capacity: minimum 21 gas detectors at a time",
+      "feature_or_specifications": "accessories: all needed for calibration included",
+      "quantity": "4.0",
+      "unit": "Lot"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      240,
+      269
+    ],
+    "original_rows": [
+      {
+        "0": "1.2.1",
+        "1": "Supply  of ESD Push button  station with  all accessories  like cables , glanding & termination etc. mounted on Exd JBs located at different areas - a)Filling Shed, b)Pump house, c)LPG Bullets, d)TLD , e)Central Monitoring Hub f) plant manager room g) Filled Cylinder Area",
+        "2": "Nos.",
+        "3": 7.0
+      },
+      {
+        "0": "1.3",
+        "1": "SIREN",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "1.3.1",
+        "1": "Supply of electric siren at pump  house/PMCC/Security room.   Scope also includes: a) supply of necessory equipments/component/ accessories including siren controller required to complete system as per tender document. b) supply of any support required for siren & it's panel",
+        "2": "Nos.",
+        "3": 1.0
+      },
+      {
+        "0": "1.3.2",
+        "1": "Supply of Hand operated siren for the location of LPG pump  house, security room, TLD bay & Empty cum filling shed.",
+        "2": "Nos.",
+        "3": 4.0
+      },
+      {
+        "0": "1.4",
+        "1": "Fire detection system & integrated local panels",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "1.4.1",
+        "1": "Supply of Fire Alarm System panel along with electronic card and other electrical accessories. All hardware and software to integrate all devices for successful functioning of the system included in the scope. All Fire Alarm Panel Panels shall be integrated through MODBUS / PROFIBUS / OEM RECOMMENDED  SERIAL LINK COMMUNICATION. Common Fault Alarm shall be generated in Fire Alarm Panel to hook up through hardware cable to PLC / ESD located at CR. Associated electrical or electronics circuit connecting with the field devices of detection system requires high availability and reliability in confirmation to tender drawings and specification. Fire alarm system shall be UL listed. Fire Detection System Panel shall include below mentioned items: 1. Intelligent Analogue Addressable type non-ex-proof type Manual Call point (06 Nos), to be hooked up with Fire Alarm Panel at CMH, 2. Intelligent Analogue Addressable type Flame proof type Manual Call point (07 Nos), to be hooked up with Fire Alarm Panel at CMH, 3. Isolator Modules (03 Nos), to be hooked up with Fire Alarm Panel at CMH. 4. Control Modules (05 Nos), to be hooked up with Fire Alarm Panel at CMH. 5. Intelligent Analogue Addressable type Multi Criteria Detector (05 Nos) to be hooked up in Fire Alarm Panel of CMH). 6. Response Indicators (05 Nos), 7 Audio Visual Fire Alarm Siren (05 Nos). Above items shall be read in conjuction with Fire Detection drawing & ILSD drawing.",
+        "2": "Lot",
+        "3": 1.0
+      },
+      {
+        "0": "1.4.2",
+        "1": "SUPPLY  of DV Operation Panel integrating with  PLC and with PB (with operation indicating lamp for \"DV on Fire\" and \"DV Operated\") for opening of  Deluge Valve (09 nos+ 1 spare) . All hardware as required and software included. (1 No. DV panel shall be installed at fire water pump  house, 1 No. at main gate security room.)",
+        "2": "Lot",
+        "3": 2.0
+      },
+      {
+        "0": "2",
+        "1": "GAS MONITORING SYSTEM",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "2.1",
+        "1": "Gas detectors",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "2.1.1",
+        "1": "Supply of flameproof/EX -proof , IP-66  IR  gas detector suitable to hazardous area Zone-1, IIA/B T3 . Canopy & any otther acessories required is included in scope",
+        "2": "Nos.",
+        "3": 28.0
+      },
+      {
+        "0": "2.2",
+        "1": "Gas monitoring system",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "2.2.1",
+        "1": "Gas monitoring system: Supply of Dual redundant (Parallel/ Hot Standby) wall mounted Programmable Logic Controller (Process PLC) along with PLC Panels, Input Output  modules, Power supply units, Relays with base, barriers, TBs, Dual Ethernet ports per processors, Serial Interface Modules, wirings, glands, plugs, other modules/ hardwares required for interfacing all the required field and Central Monitoring Hub (CMH) equipments including spare requirements, licenses, tags, softwares etc complete as per specification and tender document. AI -28 Nos DI -12 Nos DO -04 Nos Serial Interface Ports: 04 Additional 20% spare (min 1) qty to be supplied over the above mentioned I/O quantity.Size of the PLC panel shall be optimized mode to accomodate all the signals in wall mounted panel only. Gas monitoring system at Central Monitoring Hub (CMH) as per tender documents. the scope also includes supply of all componennt, accessories required for complete the system and customization of reports as detailed in specifications and tender documents.",
+        "2": "Lot",
+        "3": 1.0
+      },
+      {
+        "0": "2.2.2",
+        "1": "Supply of weather proof Repeater panel  at security room alongwith hooter & indication of Fault & LEL Alarm as per tender secifications. Panel to be hooked up with GMS at CMH.",
+        "2": "Nos.",
+        "3": 1.0
+      },
+      {
+        "0": "2.2.3",
+        "1": "Supply of Flameproof/Ex-Proof cum weatherproof Repeater Panel alongwith Flameproof/Ex-proof   Hooter & indication of Fault & LEL Alarm as per tender secifications. same to be hooked up with GMS at CR , All cabling & hardware included (Common repeater panel 1 no. in LPG Pump  House room for TLD, LPG P/H & MSV's area gas detectors; 1 no for Filling shed & filled cylinder shed. )",
+        "2": "Nos.",
+        "3": 2.0
+      },
+      {
+        "0": "2.2.4",
+        "1": "Supply of sample gas cylinder for gas detectors sufficient to calibrate min. 21 nos. Gas detectors at a time. All asscessories needed for calibration are included in scope",
+        "2": "Lot",
+        "3": 4.0
+      },
+      {
+        "0": "3",
+        "1": "TANK FARM MANAGEMENT SYSTEM",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "3.1",
+        "1": "Supply of  Tank farm management (TFM) - accessories , all required components as per ITB Specifications and Documents/ Drg ,Technical discussions , correspondences , including Documentation , Testing,  Inspection, packing , transportation to site, guarantee etc. - Radar gauges, Servo gauges, Pressure Transmitter, temperature transmitter, multi point TE RTD type on all  MSV  tank, backend system along with computer terminal, TFM (CIU), TFM panels, Redundant Server along with software, facility for printing in common network printer, communication system Ethernet base (TFM side) with communication cable to interface with   PLC as per the quantities mentioned in tender documents/ drawings, Electrical accessories if required and any other modification, painting etc. All other hardware and software as per Specifications and drawings in tender documents.",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "3.1.1",
+        "1": "The followings shall be considered for above - i)    Servo Gauge with Display , Accuracy +-1mm LAB conditions,Density Measurement - 1 no. for each MSV",
+        "2": "Nos",
+        "3": 3.0
+      },
+      {
+        "0": "3.1.2",
+        "1": "ii)   Pressure Tx with 2 valve manifold for vapour pressure measurement Range 0 -15 Kg/CM2 - 2 nos. for each MSV",
+        "2": "Nos",
+        "3": 3.0
+      },
+      {
+        "0": "3.1.3",
+        "1": "iii)  Radar Gauge with Display and - +/-1mm LAB condition with Display (Smart typeTank Side Indicator),Temperature sensor interface, Suitable for 6\" Sch  10 Stilling pipe,1 Nos. SIL3 Relay Output  & Analog Output  - 1 no. for each MSV",
+        "2": "Nos",
+        "3": 3.0
+      },
+      {
+        "0": "3.1.4",
+        "1": "iv)  Vibration Fork type level switch  with HH/LL set points - 1no. For each MSV",
+        "2": "Nos",
+        "3": 3.0
+      },
+      {
+        "0": "3.1.5",
+        "1": "v) Smart type tank side indicator for Radar gauge  at LPG pump  house & interfacing with  Radar gauge & Process PLC /safety PLC - 1  no. for each MSV",
+        "2": "Nos",
+        "3": 3.0
+      },
+      {
+        "0": "3.1.6",
+        "1": "vi)  Smart type tank side indicator for servo Gauge  at LPG pump  house & interfacing with  servo gauge & Process PLC /safety PLC 1  no. for each MSV",
+        "2": "Nos",
+        "3": 3.0
+      },
+      {
+        "0": "3.1.7",
+        "1": "vii) local indicator for pressure transmitter  at LPG pump  house - 1 no. for each MSV",
+        "2": "Nos",
+        "3": 6.0
+      },
+      {
+        "0": "3.1.8",
+        "1": "viii)  Interface (Radar & Servo)",
+        "2": "Nos",
+        "3": 6.0
+      },
+      {
+        "0": "3.1.9",
+        "1": "ix)  9 Point temperature probe ( to be interface with Radar & Servo)",
+        "2": "Nos",
+        "3": 3.0
+      },
+      {
+        "0": "2010-01-03 00:00:00",
+        "1": "x)  Redundant CIU/FCU  with all interfacing , 2 nos of Modbus ports for Process PLC and 2 nos of Modbus ports for TFMS connectivity as required - 1 set",
+        "2": "Set",
+        "3": 1.0
+      },
+      {
+        "0": "2011-01-03 00:00:00",
+        "1": "xii) Verification pin set",
+        "2": "Nos",
+        "3": 20.0
+      },
+      {
+        "0": "2012-01-03 00:00:00",
+        "1": "xiii)TFMS Software supplied by bidder shall be same make as radar manufacturer and compatible with servo gauges. Licence shall be 12 nos min.",
+        "2": "Lot",
+        "3": 1.0
+      },
+      {
+        "0": "2013-01-03 00:00:00",
+        "1": "xiv) Junction Boxes -",
+        "2": "Nos",
+        "3": 4.0
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 4030,
+    "completion_tokens": 4321
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "sheet_name": "Table 1",
+  "boq_context": "MIRAJ ENGINEERING SERVICES PVT. LTD. |  |  | \nBOQ - ELECTRICAL AND INSTRUMENTATION WORKS FOR IOCL MEGHALAYA |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "3.1.1 | The followings shall be considered for above - i)    Servo Gauge with Display , Accuracy +-1mm LAB conditions,Density Measurement - 1 no. for each MSV",
+      "core_product_name": "servo gauge with display",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "accuracy: ±1mm lab conditions, density measurement, quantity per msv(mounded storage vessel): 1",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "3.1.2 | ii)   Pressure Tx with 2 valve manifold for vapour pressure measurement Range 0 -15 Kg/CM2 - 2 nos. for each MSV",
+      "core_product_name": "pressure transmitter with 2 valve manifold",
+      "acronymed_core_product_name": "",
+      "size": "range: 0 -15 kg/cm2",
+      "feature_or_specifications": "application: vapour pressure measurement, quantity per msv(mounded storage vessel): 2",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "3.1.3 | iii)  Radar Gauge with Display and - +/-1mm LAB condition with Display (Smart typeTank Side Indicator),Temperature sensor interface, Suitable for 6\" Sch  10 Stilling pipe,1 Nos. SIL3 Relay Output  & Analog Output  - 1 no. for each MSV",
+      "core_product_name": "radar gauge with display",
+      "acronymed_core_product_name": "",
+      "size": "suitable for: 6\" sch(schedule) 10 stilling pipe",
+      "feature_or_specifications": "accuracy: ±1mm lab condition, display: smart type tank side indicator, temperature sensor interface, outputs: sil3 relay output & analog output, quantity per msv(mounded storage vessel): 1",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "3.1.4 | iv)  Vibration Fork type level switch  with HH/LL set points - 1no. For each MSV",
+      "core_product_name": "vibration fork type level switch",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "set points: hh(high high)/ll(low low), quantity per msv(mounded storage vessel): 1",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "3.1.5 | v) Smart type tank side indicator for Radar gauge  at LPG pump  house & interfacing with  Radar gauge & Process PLC /safety PLC - 1  no. for each MSV",
+      "core_product_name": "smart type tank side indicator for radar gauge",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "location: lpg pump house, interfacing: radar gauge & process plc(programmable logic controller)/safety plc, quantity per msv(mounded storage vessel): 1",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "3.1.6 | vi)  Smart type tank side indicator for servo Gauge  at LPG pump  house & interfacing with  servo gauge & Process PLC /safety PLC 1  no. for each MSV",
+      "core_product_name": "smart type tank side indicator for servo gauge",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "location: lpg pump house, interfacing: servo gauge & process plc(programmable logic controller)/safety plc, quantity per msv(mounded storage vessel): 1",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "3.1.7 | vii) local indicator for pressure transmitter  at LPG pump  house - 1 no. for each MSV",
+      "core_product_name": "local indicator for pressure transmitter",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "location: lpg pump house, quantity per msv(mounded storage vessel): 1",
+      "quantity": "6.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "3.1.8 | viii)  Interface (Radar & Servo)",
+      "core_product_name": "interface for radar and servo",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "6.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "3.1.9 | ix)  9 Point temperature probe ( to be interface with Radar & Servo)",
+      "core_product_name": "9 point temperature probe",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "interface: radar & servo",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "2010-01-03 00:00:00 | x)  Redundant CIU/FCU  with all interfacing , 2 nos of Modbus ports for Process PLC and 2 nos of Modbus ports for TFMS connectivity as required - 1 set",
+      "core_product_name": "redundant ciu/fcu",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "interfacing: all, modbus ports: 2 for process plc(programmable logic controller), 2 for tfms(tank farm management system) connectivity, quantity: 1 set",
+      "quantity": "1.0",
+      "unit": "set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "2011-01-03 00:00:00 | xii) Verification pin set",
+      "core_product_name": "verification pin set",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "20.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "2012-01-03 00:00:00 | xiii)TFMS Software supplied by bidder shall be same make as radar manufacturer and compatible with servo gauges. Licence shall be 12 nos min.",
+      "core_product_name": "tfms software",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "compatibility: same make as radar manufacturer, compatible with servo gauges, licence: minimum 12 nos",
+      "quantity": "1.0",
+      "unit": "lot"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "2013-01-03 00:00:00 | xiv) Junction Boxes -",
+      "core_product_name": "junction boxes",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "2014-01-03 00:00:00 | xv) PDB Panel for TFMS.",
+      "core_product_name": "pdb panel for tfms(tank farm management system)",
+      "acronymed_core_product_name": "pdb panel for tfms",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "2015-01-03 00:00:00 | xvi) Communication cable, RTD cable, Power cable for TFMS",
+      "core_product_name": "communication cable, rtd(resistance temperature detector) cable, power cable for tfms(tank farm management system)",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "lot"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "2016-01-03 00:00:00 | xvIi) Audio-Visual Annunciation Panel for annunciation at LPG Pump  House, integrated with all Level Switches of MSVs (Single common Panel for all level switches)",
+      "core_product_name": "audio-visual annunciation panel",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "location: lpg pump house, integration: all level switches of msvs(mounded storage vessels), feature: single common panel for all level switches",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "3.2 | Tank Farm Management Servers  - Commodity Grade, working on redundant (Primary and Secondary) hot standby mode with software, including backlit LED Monitor, key board and mouse. Supply , Installation, erection and commissioning of Operator Interface Console Computer (OIC) with 22\" colour LED monitor, standard keyboard etc. complete as per specifications at Central Monitoring Hub (CMH).",
+      "core_product_name": "tank farm management servers",
+      "acronymed_core_product_name": "",
+      "size": "monitor size: 22\"",
+      "feature_or_specifications": "grade: commodity, redundancy: primary and secondary hot standby mode, includes: software, backlit led monitor, keyboard, mouse, supply, installation, erection, commissioning of operator interface console computer(oic), location: central monitoring hub(cmh)",
+      "quantity": "1.0",
+      "unit": "lot"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)"
+      ],
+      "full_product_description": "3.3 | Other items for above - FLP Double compression type SS cable glands - As required , Adaptor Plate for Radar Gauge 4\"/6\",300# (SS316) for Radar tags - 1 no , Adaptor Plate for Temperature Probes 2\",300#  (SS316) - 4 nos , Fabricated Adaptor Chamber for Servo Gauge 2\"X 4\" X 6\"300#  (MOC CS) with pressure gauge, needle valve & pressure relief valve for Servo Tags , Studs as per SA 320 Gr. L7 & Bolts Nuts as per SA 194 Gr. 7 , Gaskets ( 6\",4\", 2\") Spiral wound  Metallic AISI 304, asbestos filled as per API 601 , fabricated cable for CIU & PC - As required ,fabrication of manifold for ionstllation of local indicator (radar /servo)- as required, Cables for communication of Servo , Radar / Servo / field Instruments to CIU (FRLS Cable for data communicatin) - As required , All software and Hardware shall be included as required , Bidder shall consider Process PLC & Tank Gauging system interface on redundant Modbus Communication , Any other item to achieve complete system to successful functioning and integration with other system as required are included.",
+      "core_product_name": "other items for above",
+      "acronymed_core_product_name": "",
+      "size": "adaptor plate for radar gauge: 4\"/6\", adaptor plate for temperature probes: 2\", fabricated adaptor chamber for servo gauge: 2\"x 4\" x 6\"",
+      "feature_or_specifications": "flp(flamproof) double compression type ss(stainless steel) cable glands, adaptor plate for radar gauge: 300# (ss316), adaptor plate for temperature probes: 300# (ss316), fabricated adaptor chamber for servo gauge: 300# (moc cs(carbon steel)), includes: pressure gauge, needle valve, pressure relief valve for servo tags, studs: sa 320 gr. l7, bolts nuts: sa 194 gr. 7, gaskets: spiral wound metallic aisi 304, asbestos filled as per api 601, fabricated cable for ciu(communication interface unit) & pc(personal computer), fabrication of manifold for installation of local indicator (radar or servo), cables for communication of servo, radar or servo or field instruments to ciu (frls(fire retardant low smoke) cable for data communication), all software and hardware included, process plc(programmable logic controller) & tank gauging system interface on redundant modbus communication, any other item for complete system functioning and integration",
+      "quantity": "1.0",
+      "unit": "lot"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)",
+        "AUTOMATION SYSTEM",
+        "TLF/TLD GANTRY"
+      ],
+      "full_product_description": "4.1.1 | Supply of Flameproof cum weather proof  smart type Grounding unit with one green indicating lamp and dual output   for safety earthing of tank trucks, suitable for giving safety interlocking signal to PLC all complete as per specifications",
+      "core_product_name": "smart type grounding unit",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "protection: flameproof and weather proof, indicator: one green indicating lamp, output: dual, application: safety earthing of tank trucks, feature: suitable for giving safety interlocking signal to plc(programmable logic controller)",
+      "quantity": "2.0",
+      "unit": "nos."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INST",
+        "PART A - SUPPLY OF CONTROL  & INSTRUMENTATION (C & I) WORKS  (INSTRUMENTATION, AUTOMATION, CCTV, ILSD, GMS, TFMS, ACS WORKS  ETC)",
+        "AUTOMATION SYSTEM",
+        "Central Monitoring Hub  (CMH) INSTRUMENTATION"
+      ],
+      "full_product_description": "4.2.1 | Supply  of  Dual redundant (Parallel/ Hot Standby) Programmable Logic Controller (Process PLC) along with PLC Panels, Marshalling Panels, Input Output  modules, Power supply units, Relays with base, barriers, TBs, Dual Ethernet ports per processors, Serial Interface Modules, HMI console, wirings, glands, plugs, other modules/ hardwares required for interfacing all the required field and Central Monitoring Hub (CMH) equipments including spare requirements, licenses, tags, GUI, softwares etc complete as per specification and tender document. AI -25 Nos DI -96 Nos DO -80 Nos Serial Interface Ports: 28 Minimum 20% spare IO to be supplied as per tender specification. Count  of PLC panel shall be optimized to accomodate all the signals in one panel only.",
+      "core_product_name": "programmable logic controller",
+      "acronymed_core_product_name": "process plc",
+      "size": "ai(analog input): 25 nos, di(digital input): 96 nos, do(digital output): 80 nos, serial interface ports: 28",
+      "feature_or_specifications": "redundancy: dual redundant (parallel or hot standby), includes: plc panels, marshalling panels, input output modules, power supply units, relays with base, barriers, tbs(terminal blocks), dual ethernet ports per processor, serial interface modules, hmi(human machine interface) console, wirings, glands, plugs, other modules or hardware for interfacing all required field and cmh(central monitoring hub) equipment, spare requirements, licenses, tags, gui(graphical user interface), software, minimum 20% spare io(input/output), panel count optimized for all signals in one panel, as per specification and tender document",
+      "quantity": "1.0",
+      "unit": "lot"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      270,
+      280
+    ],
+    "original_rows": [
+      {
+        "0": "2013-01-03 00:00:00",
+        "1": "xiv) Junction Boxes -",
+        "2": "Nos",
+        "3": 4.0
+      },
+      {
+        "0": "2014-01-03 00:00:00",
+        "1": "xv) PDB Panel for TFMS.",
+        "2": "Nos",
+        "3": 2.0
+      },
+      {
+        "0": "2015-01-03 00:00:00",
+        "1": "xvi) Communication cable, RTD cable, Power cable for TFMS",
+        "2": "Lot",
+        "3": 1.0
+      },
+      {
+        "0": "2016-01-03 00:00:00",
+        "1": "xvIi) Audio-Visual Annunciation Panel for annunciation at LPG Pump  House, integrated with all Level Switches of MSVs (Single common Panel for all level switches)",
+        "2": "Nos",
+        "3": 1.0
+      },
+      {
+        "0": "3.2",
+        "1": "Tank Farm Management Servers  - Commodity Grade, working on redundant (Primary and Secondary) hot standby mode with software, including backlit LED Monitor, key board and mouse. Supply , Installation, erection and commissioning of Operator Interface Console Computer (OIC) with 22\" colour LED monitor, standard keyboard etc. complete as per specifications at Central Monitoring Hub (CMH).",
+        "2": "Lot",
+        "3": 1.0
+      },
+      {
+        "0": "3.3",
+        "1": "Other items for above - FLP Double compression type SS cable glands - As required , Adaptor Plate for Radar Gauge 4\"/6\",300# (SS316) for Radar tags - 1 no , Adaptor Plate for Temperature Probes 2\",300#  (SS316) - 4 nos , Fabricated Adaptor Chamber for Servo Gauge 2\"X 4\" X 6\"300#  (MOC CS) with pressure gauge, needle valve & pressure relief valve for Servo Tags , Studs as per SA 320 Gr. L7 & Bolts Nuts as per SA 194 Gr. 7 , Gaskets ( 6\",4\", 2\") Spiral wound  Metallic AISI 304, asbestos filled as per API 601 , fabricated cable for CIU & PC - As required ,fabrication of manifold for ionstllation of local indicator (radar /servo)- as required, Cables for communication of Servo , Radar / Servo / field Instruments to CIU (FRLS Cable for data communicatin) - As required , All software and Hardware shall be included as required , Bidder shall consider Process PLC & Tank Gauging system interface on redundant Modbus Communication , Any other item to achieve complete system to successful functioning and integration with other system as required are included.",
+        "2": "Lot",
+        "3": 1.0
+      },
+      {
+        "0": "4",
+        "1": "AUTOMATION SYSTEM",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "4.1",
+        "1": "TLF/TLD GANTRY",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "4.1.1",
+        "1": "Supply of Flameproof cum weather proof  smart type Grounding unit with one green indicating lamp and dual output   for safety earthing of tank trucks, suitable for giving safety interlocking signal to PLC all complete as per specifications",
+        "2": "Nos.",
+        "3": 2.0
+      },
+      {
+        "0": "4.2",
+        "1": "Central Monitoring Hub  (CMH) INSTRUMENTATION",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "4.2.1",
+        "1": "Supply  of  Dual redundant (Parallel/ Hot Standby) Programmable Logic Controller (Process PLC) along with PLC Panels, Marshalling Panels, Input Output  modules, Power supply units, Relays with base, barriers, TBs, Dual Ethernet ports per processors, Serial Interface Modules, HMI console, wirings, glands, plugs, other modules/ hardwares required for interfacing all the required field and Central Monitoring Hub (CMH) equipments including spare requirements, licenses, tags, GUI, softwares etc complete as per specification and tender document. AI -25 Nos DI -96 Nos DO -80 Nos Serial Interface Ports: 28 Minimum 20% spare IO to be supplied as per tender specification. Count  of PLC panel shall be optimized to accomodate all the signals in one panel only.",
+        "2": "Lot",
+        "3": 1.0
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 4137,
+    "completion_tokens": 3986
+  }
+}

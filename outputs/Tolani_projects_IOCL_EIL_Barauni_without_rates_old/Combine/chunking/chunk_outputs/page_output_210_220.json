@@ -1,0 +1,158 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of following FLP/Div.2 lighting fixtures complete with lamps, requisite FLP cable glands, plugs and necessary Type FLP-LED-1 Fixtures.",
+      "core_product_name": "flp lighting fixture supply",
+      "acronymed_core_product_name": "flp (flame proof)",
+      "size": "",
+      "feature_or_specifications": "division: 2, feature: complete with lamps, requisite flame proof cable glands, plugs and necessary, type: flp-led-1",
+      "quantity": "20.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and installation of Type-`A' clamps(for bracket mounted lighting fixtures) including bolt (MOC SS304) for",
+      "core_product_name": "clamp supply and installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: a, mounting: bracket, bolt material: ss304 (stainless steel 304)",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and installation of Type-`B' clamps(for ceiling mounted lighting fixtures) including bolt (MOC SS304) for",
+      "core_product_name": "clamp supply and installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: b, mounting: ceiling, bolt material: ss304 (stainless steel 304)",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "LIGHTING / POWER PANELS AND DISTRIBUTION BOARDS",
+      "full_product_description": "Supply, installation, connection, testing and commissioning of  flame proof weather proof lighting/power panels  (for gas 40 A, 4 pole incomer MCB isolator and ELCB and 12 Nos. outgoing  double pole  MCBs (upto 20 A).",
+      "core_product_name": "lighting/power panel supply and installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: flame proof, feature: weather proof, incomer: 40 a 4 pole mcb isolator and elcb, outgoing: 12 nos. double pole mcbs (upto 20 a)",
+      "quantity": "2.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      210,
+      219
+    ],
+    "original_rows": [
+      {
+        "0": 211,
+        "1": 0,
+        "2": "01EE.3030.20.520",
+        "3": "Type FLP-LED-1 Fixtures.",
+        "4": 20.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 212,
+        "1": 0,
+        "2": "01EE.3030.30",
+        "3": "Supply and installation of Type-`A' clamps(for bracket mounted lighting fixtures) including bolt (MOC SS304) for",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 213,
+        "1": 0,
+        "2": "01EE.3030.40",
+        "3": "Supply and installation of Type-`B' clamps(for ceiling mounted lighting fixtures) including bolt (MOC SS304) for",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 214,
+        "1": 0,
+        "2": "01EE.3090",
+        "3": "LIGHTING / POWER PANELS AND DISTRIBUTION BOARDS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 215,
+        "1": 0,
+        "2": "01EE.3090.10",
+        "3": "Supply, installation, connection, testing and commissioning of  flame proof weather proof lighting/power panels  (for gas",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 216,
+        "1": 0,
+        "2": "01EE.3090.10.50",
+        "3": "40 A, 4 pole incomer MCB isolator and ELCB and 12 Nos. outgoing  double pole  MCBs (upto 20 A).",
+        "4": 2.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 217,
+        "1": 0,
+        "2": "01EE.3100",
+        "3": "WIRING",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 218,
+        "1": 0,
+        "2": "01EE.3100.120",
+        "3": "Circuit wiring in hazardous areas using (sizes given below) copper conductor, XLPE insulated, FRLS outer sleeve",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 219,
+        "1": 0,
+        "2": "01EE.3100.120.10",
+        "3": "3 C x 2.5 sq. mm",
+        "4": 500.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 220,
+        "1": 0,
+        "2": "01EE.4020",
+        "3": "EARTH ELECTRODES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2243,
+    "completion_tokens": 857
+  }
+}

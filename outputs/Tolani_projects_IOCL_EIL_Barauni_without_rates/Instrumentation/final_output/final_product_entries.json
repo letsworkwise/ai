@@ -1,0 +1,2220 @@
+{
+  "sheet_name": "Instrumentation",
+  "boq_context": "",
+  "header_rows": "Sl. No. | PART NO | ITEM NO | DESCRIPTION | QTY | UOM | RATE | AMOUNT | TPPL Rate | TPPL Amount",
+  "products_entries": [
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "PRESSURE INSTRUMENTS (Excl. supply Impulse pipe/Tubing materials)",
+        "Installation of Pressure Transmitters/ Pressure Switches (with or without Pulsation Dampener, Over-range Protector)/ Diaphragm seal type Pressure Transmitters/ Diaphragm seal type Pressure Switches including mounting on Yoke/  Surface,  supply of supports for capillary,  supply and erection of supports for impulse lines wherever required, fabrication and installation of manifolds/  impulse lines with supports as per Standard indicated below, laying of capillary on supports, hydraulic testing and painting of supports but exclusive of Supply of Instrument, Piping/tubing materials, all Electrical/ Pneumatic connections, Yoke and Calibration."
+      ],
+      "full_product_description": "01II.30.10.1V31 | In   Carbon Steel   as per Standard   7-52-1221 | 3.0 | nos",
+      "core_product_name": "pressure transmitter or pressure switch installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: carbon steel, standard: 7-52-1221",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "RADAR LEVEL INSTRUMENTS",
+        "Installation of radar sensor and antenna, flanged type connection on equipment nozzle/ rail mounting with/without still well, but exclusive of supply of instruments. Installation of electronics units (total system for indication, transmission, marshalling etc. for one tank), including mounting on Yoke, supply of angle tray with supports, fabrication and erection of supports and laying of cable up to instrument/probe with clamps, termination of cables at both ends, but exclusive of supply of Instruments, supply of yokes and Calibration."
+      ],
+      "full_product_description": "01II.260.10.2 | Installation of Top Mounted Radar | 9.0 | nos",
+      "core_product_name": "radar sensor installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "mounting: top mounted",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "RADAR LEVEL INSTRUMENTS",
+        "Installation of radar sensor and antenna, flanged type connection on equipment nozzle/ rail mounting with/without still well, but exclusive of supply of instruments. Installation of electronics units (total system for indication, transmission, marshalling etc. for one tank), including mounting on Yoke, supply of angle tray with supports, fabrication and erection of supports and laying of cable up to instrument/probe with clamps, termination of cables at both ends, but exclusive of supply of Instruments, supply of yokes and Calibration."
+      ],
+      "full_product_description": "01II.260.10.4 | Installation of Still well (8\") of Carbon/Stainless steel | 9.0 | nos",
+      "core_product_name": "still well installation",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 8 inch",
+      "feature_or_specifications": "material: carbon steel or stainless steel",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "DISMANTLING OF EXISTING INSTRUMENTS",
+        "Disconnection, Dismantling, removal of existing instruments with associated accessories presently installed on the equipment, associated piping, connecting stairs, structures/ stairways/ operating platforms, etc., which are getting dismantled/ modified and transportation of the same to stores as per tender specifications, approved drawings, and instruction of Engineer-in-charge. This also includes removal of impulse lines/ lead lines/ purge gas lines/ purge oil lines with pipe fittings, tubes, tube fittings, accessories, supports, trays, cables, cable glands, etc."
+      ],
+      "full_product_description": "01II.297.10.1 | Instruments | 50.0 | nos",
+      "core_product_name": "instrument dismantling",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "50.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "TEMPERATURE INSTRUMENTS",
+        "Installation of Temperature Indicators/ Gauges (Filled system/ Bimetallic) RTD/ Thermocouple/ Temperature Switches/ Temperature transmitters with flanged and installation of Instruments, Electrical/ Pneumatic connection but exclusive of Supply of Instruments/ Elements/ Thermowell, and Calibration."
+      ],
+      "full_product_description": "01II.330.10.2 | Temperature Indicator/ Gauges (Bimetallic Type) with thermowell on flanged wells | 3.0 | nos",
+      "core_product_name": "temperature indicator or gauge installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: bimetallic, accessory: thermowell, mounting: flanged well",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "TEMPERATURE INSTRUMENTS",
+        "Installation of Temperature Indicators/ Gauges (Filled system/ Bimetallic) RTD/ Thermocouple/ Temperature Switches/ Temperature transmitters with flanged and installation of Instruments, Electrical/ Pneumatic connection but exclusive of Supply of Instruments/ Elements/ Thermowell, and Calibration."
+      ],
+      "full_product_description": "01II.330.10.5 | RTD with Thermowell on flanged wells | 3.0 | nos",
+      "core_product_name": "rtd installation",
+      "acronymed_core_product_name": "rtd installation",
+      "size": "",
+      "feature_or_specifications": "accessory: thermowell, mounting: flanged well",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "TEMPERATURE INSTRUMENTS",
+        "Installation of Temperature Indicators/ Gauges (Filled system/ Bimetallic) RTD/ Thermocouple/ Temperature Switches/ Temperature transmitters with flanged and installation of Instruments, Electrical/ Pneumatic connection but exclusive of Supply of Instruments/ Elements/ Thermowell, and Calibration."
+      ],
+      "full_product_description": "01II.330.10.6 | Test Thermowell (flanged) | 2.0 | nos",
+      "core_product_name": "thermowell installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: test, mounting: flanged",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "TEMPERATURE TRANSMITTERS (REMOTE MOUNTED)",
+        "Thermocouple/ RTD element with thermowell, along with Temperature Transmitter remote mounted. Installation of transmitter including mounting on yoke, fabrication and erection of supports with clamps and laying of extension/RTD cable upto thermocouple, termination of cables at both ends, painting of supports but exclusive of Supply of Instruments, Cable, Yoke and Calibration."
+      ],
+      "full_product_description": "01II.340.10.1 | Temperature Transmitter and Thermocouple with flanged well | 3.0 | nos",
+      "core_product_name": "temperature transmitter and thermocouple installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "accessory: thermowell, mounting: flanged well, transmitter: remote mounted",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "DETECTOR SYSTEMS",
+        "Installation of LEL and H2S detectors/monitors, beacon lights and hooters including supply of supports but exclusive of Supply of Detectors, Yoke and Calibration."
+      ],
+      "full_product_description": "01II.440.10.10 | LEL Detectors. | 6.0 | nos",
+      "core_product_name": "lel detector installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "6.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "DETECTOR SYSTEMS",
+        "Installation of LEL and H2S detectors/monitors, beacon lights and hooters including supply of supports but exclusive of Supply of Detectors, Yoke and Calibration."
+      ],
+      "full_product_description": "01II.440.10.50 | Beacon Lights | 1.0 | nos",
+      "core_product_name": "beacon light installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "DETECTOR SYSTEMS",
+        "Installation of LEL and H2S detectors/monitors, beacon lights and hooters including supply of supports but exclusive of Supply of Detectors, Yoke and Calibration."
+      ],
+      "full_product_description": "01II.440.10.60 | Hooters | 1.0 | nos",
+      "core_product_name": "hooter installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "Mounting of Miscellaneous instrument items as listed below on Yoke; fabrication and erection of Supports and including installation of instrument items,  painting  of  supports  but  exclusive  of  Supply  of  Instrument  items, Piping/ Tubing material / Calibration and supply and erection of Yoke support."
+      ],
+      "full_product_description": "01II.450.10.5 | Flame-proof Push Button Station/ Selector Switches /Lamps. | 3.0 | nos",
+      "core_product_name": "push button station or selector switch or lamp installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: flame-proof",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "Mounting of Miscellaneous instrument items as listed below on Yoke; fabrication and erection of Supports and including installation of instrument items,  painting  of  supports  but  exclusive  of  Supply  of  Instrument  items, Piping/ Tubing material / Calibration and supply and erection of Yoke support."
+      ],
+      "full_product_description": "01II.450.10.17 | 3 way/ 4 way Junction Boxes. | 3.0 | nos",
+      "core_product_name": "junction box installation",
+      "acronymed_core_product_name": "",
+      "size": "type: 3 way or 4 way",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "Mounting of Miscellaneous instrument items as listed below on Yoke; fabrication and erection of Supports and including installation of instrument items,  painting  of  supports  but  exclusive  of  Supply  of  Instrument  items, Piping/ Tubing material / Calibration and supply and erection of Yoke support."
+      ],
+      "full_product_description": "01II.450.10.19 | Electronic Local Indicator. | 9.0 | nos",
+      "core_product_name": "electronic local indicator installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES"
+      ],
+      "full_product_description": "01II.500.60 | Cleaning, calibration of the instruments  listed below including removal of instrument from  reinstalled  locations  like  panels,  enclosures,  racks,  field etc.,  and  fixing them  back  in  respective  places,  providing  equipments, necessary  test  jig, Instrument  Air,  Nitrogen  Cylinders,  test  reports,  all consumable, except  for special  imported  test  equipments for electronic instruments to be supplied by owner if available. | 01II.500.60.13 | Diaphragm Seal Pressure Transmitters | 3.0 | nos",
+      "core_product_name": "diaphragm seal pressure transmitter cleaning and calibration",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES"
+      ],
+      "full_product_description": "01II.500.60 | Cleaning, calibration of the instruments  listed below including removal of instrument from  reinstalled  locations  like  panels,  enclosures,  racks,  field etc.,  and  fixing them  back  in  respective  places,  providing  equipments, necessary  test  jig, Instrument  Air,  Nitrogen  Cylinders,  test  reports,  all consumable, except  for special  imported  test  equipments for electronic instruments to be supplied by owner if available. | 01II.500.60.33 | Temperature gauges | 3.0 | nos",
+      "core_product_name": "temperature gauge cleaning and calibration",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES"
+      ],
+      "full_product_description": "01II.500.60 | Cleaning, calibration of the instruments  listed below including removal of instrument from  reinstalled  locations  like  panels,  enclosures,  racks,  field etc.,  and  fixing them  back  in  respective  places,  providing  equipments, necessary  test  jig, Instrument  Air,  Nitrogen  Cylinders,  test  reports,  all consumable, except  for special  imported  test  equipments for electronic instruments to be supplied by owner if available. | 01II.500.60.39 | Temperature Transmitters | 3.0 | nos",
+      "core_product_name": "temperature transmitter cleaning and calibration",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES"
+      ],
+      "full_product_description": "01II.500.60 | Cleaning, calibration of the instruments  listed below including removal of instrument from  reinstalled  locations  like  panels,  enclosures,  racks,  field etc.,  and  fixing them  back  in  respective  places,  providing  equipments, necessary  test  jig, Instrument  Air,  Nitrogen  Cylinders,  test  reports,  all consumable, except  for special  imported  test  equipments for electronic instruments to be supplied by owner if available. | 01II.500.60.44 | Tank Level Instrument (Radar type) | 9.0 | nos",
+      "core_product_name": "tank level instrument cleaning and calibration",
+      "acronymed_core_product_name": "",
+      "size": "type: radar",
+      "feature_or_specifications": "",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES"
+      ],
+      "full_product_description": "01II.500.60 | Cleaning, calibration of the instruments  listed below including removal of instrument from  reinstalled  locations  like  panels,  enclosures,  racks,  field etc.,  and  fixing them  back  in  respective  places,  providing  equipments, necessary  test  jig, Instrument  Air,  Nitrogen  Cylinders,  test  reports,  all consumable, except  for special  imported  test  equipments for electronic instruments to be supplied by owner if available. | 01II.500.60.61 | Electronic Local Indicator | 9.0 | nos",
+      "core_product_name": "electronic local indicator cleaning and calibration",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES"
+      ],
+      "full_product_description": "01II.500.60 | Cleaning, calibration of the instruments  listed below including removal of instrument from  reinstalled  locations  like  panels,  enclosures,  racks,  field etc.,  and  fixing them  back  in  respective  places,  providing  equipments, necessary  test  jig, Instrument  Air,  Nitrogen  Cylinders,  test  reports,  all consumable, except  for special  imported  test  equipments for electronic instruments to be supplied by owner if available. | 01II.500.60.81 | LEL Detectors | 6.0 | nos",
+      "core_product_name": "lel detector cleaning and calibration",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "6.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES"
+      ],
+      "full_product_description": "01II.510.10 | Loop checking (excluding calibration/ testing) of the instruments listed below including verifying the functional performance of all elements comprising the loop, thereby ensuring proper interconnections and operation, with all other specifications inline with clause 4.13 of Standard specification for Erection tender 6-52-0060. | 01II.510.10.3 | Diaphragm Seal Pressure transmitters | 3.0 | nos",
+      "core_product_name": "diaphragm seal pressure transmitter loop checking",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES"
+      ],
+      "full_product_description": "01II.510.10 | Loop checking (excluding calibration/ testing) of the instruments listed below including verifying the functional performance of all elements comprising the loop, thereby ensuring proper interconnections and operation, with all other specifications inline with clause 4.13 of Standard specification for Erection tender 6-52-0060. | 01II.510.10.10 | Temperature Transmitters | 3.0 | nos",
+      "core_product_name": "temperature transmitter loop checking",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES"
+      ],
+      "full_product_description": "01II.510.10 | Loop checking (excluding calibration/ testing) of the instruments listed below including verifying the functional performance of all elements comprising the loop, thereby ensuring proper interconnections and operation, with all other specifications inline with clause 4.13 of Standard specification for Erection tender 6-52-0060. | 01II.510.10.13 | Tank Level Instruments (Radar type) | 9.0 | nos",
+      "core_product_name": "tank level instrument loop checking",
+      "acronymed_core_product_name": "",
+      "size": "type: radar",
+      "feature_or_specifications": "",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES"
+      ],
+      "full_product_description": "01II.510.10 | Loop checking (excluding calibration/ testing) of the instruments listed below including verifying the functional performance of all elements comprising the loop, thereby ensuring proper interconnections and operation, with all other specifications inline with clause 4.13 of Standard specification for Erection tender 6-52-0060. | 01II.510.10.15 | Electronic Local Indicator | 9.0 | nos",
+      "core_product_name": "electronic local indicator loop checking",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES"
+      ],
+      "full_product_description": "01II.510.10 | Loop checking (excluding calibration/ testing) of the instruments listed below including verifying the functional performance of all elements comprising the loop, thereby ensuring proper interconnections and operation, with all other specifications inline with clause 4.13 of Standard specification for Erection tender 6-52-0060. | 01II.510.10.17 | Gas Detectors | 6.0 | nos",
+      "core_product_name": "gas detector loop checking",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "6.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES"
+      ],
+      "full_product_description": "01II.510.10 | Loop checking (excluding calibration/ testing) of the instruments listed below including verifying the functional performance of all elements comprising the loop, thereby ensuring proper interconnections and operation, with all other specifications inline with clause 4.13 of Standard specification for Erection tender 6-52-0060. | 01II.510.10.35 | Push Button/Selector Switches/Lamps | 3.0 | nos",
+      "core_product_name": "push button or selector switch or lamp loop checking",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES"
+      ],
+      "full_product_description": "01II.510.10 | Loop checking (excluding calibration/ testing) of the instruments listed below including verifying the functional performance of all elements comprising the loop, thereby ensuring proper interconnections and operation, with all other specifications inline with clause 4.13 of Standard specification for Erection tender 6-52-0060. | 01II.510.10.40 | Hooter / Beacon | 2.0 | nos",
+      "core_product_name": "hooter or beacon loop checking",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.10.22 | 1/2 \" GI Conduit | 20.0 | m",
+      "core_product_name": "gi conduit",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/2 \"",
+      "feature_or_specifications": "material: gi(galvanized iron)",
+      "quantity": "20.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.10.23 | 3/4 \" GI Conduit | 20.0 | m",
+      "core_product_name": "gi conduit",
+      "acronymed_core_product_name": "",
+      "size": "size: 3/4 \"",
+      "feature_or_specifications": "material: gi(galvanized iron)",
+      "quantity": "20.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.10.24 | 1 \" GI Conduit | 20.0 | m",
+      "core_product_name": "gi conduit",
+      "acronymed_core_product_name": "",
+      "size": "size: 1 \"",
+      "feature_or_specifications": "material: gi(galvanized iron)",
+      "quantity": "20.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.10.32V1 | Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   ISO M20 x 1/2\" NPT(F) | 5.0 | nos",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread: ISO M20 x 1/2\" NPT(F)",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.10.32V2 | Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   ISO M16 x 1/2\" NPT(F) | 5.0 | nos",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread: ISO M16 x 1/2\" NPT(F)",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.10.32V3 | Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   ISO M20 x 3/4\" NPT(F) | 5.0 | nos",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread: ISO M20 x 3/4\" NPT(F)",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.10.32V4 | Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   3/4\"NPT(M) x 1/2\" NPT(F) | 5.0 | nos",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread: 3/4\" NPT(M) x 1/2\" NPT(F)",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.10.32V5 | Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   1/2\"NPT(M) x 3/4\" NPT(F) | 5.0 | nos",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread: 1/2\" NPT(M) x 3/4\" NPT(F)",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.10.32V6 | Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   1\"NPT(M) x 1/2\" NPT(F) | 5.0 | nos",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread: 1\" NPT(M) x 1/2\" NPT(F)",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.10.32V7 | Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   1.5\" NPT(M) x 1\" NPT(F) | 5.0 | nos",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread: 1.5\" NPT(M) x 1\" NPT(F)",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.20.2V2 | Junction Box, Weatherproof  + Flameproof   (Gas Groups - IIC)   type   3 Way | 3.0 | nos",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "type: 3 way",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.20.2V3 | Junction Box, Weatherproof  + Flameproof   (Gas Groups - IIC)   type   for 12 Pair Cable | 3.0 | nos",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "for: 12 pair cable",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.20.2V4 | Junction Box, Weatherproof  + Flameproof   (Gas Groups - IIC)   type   for 8 Triad Cable | 3.0 | nos",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "for: 8 triad cable",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.20.2V7 | Junction Box, Weatherproof  + Flameproof   (Gas Groups - IIC)   type   for 6 Pair Cable | 2.0 | nos",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "for: 6 pair cable",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.20.3V2 | Junction Box Weatherproof + Flameproof   (Gas Groups - IIC)   for   2 Core X 10/16/35 mm2   Power Cable including | 2.0 | nos",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "for: 2 core x 10/16/35 mm2 power cable",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.20.3V3 | Junction Box Weatherproof + Flameproof   (Gas Groups - IIC)   for   2 Core X 50/70 mm2   Power Cable including | 1.0 | nos",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "for: 2 core x 50/70 mm2 power cable",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.30.6V5 | Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with  PVC shroud  1/2\" NPTM | 80.0 | nos",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1/2\" NPTM",
+      "feature_or_specifications": "type: double compression, feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ss 304(stainless steel 304), shroud: pvc",
+      "quantity": "80.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.30.6V6 | Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with  PVC shroud    1\" NPTM | 10.0 | nos",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1\" NPTM",
+      "feature_or_specifications": "type: double compression, feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ss 304(stainless steel 304), shroud: pvc",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.30.6V7 | Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with  PVC shroud  1 1/2\" NPTM | 5.0 | nos",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1 1/2\" NPTM",
+      "feature_or_specifications": "type: double compression, feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ss 304(stainless steel 304), shroud: pvc",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.30.6V8 | Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with  PVC shroud   3/4\" NPTM | 15.0 | nos",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 3/4\" NPTM",
+      "feature_or_specifications": "type: double compression, feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ss 304(stainless steel 304), shroud: pvc",
+      "quantity": "15.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.30.6V10 | Double compression type Cab le gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with  PVC shroud   1 1/4\" NPTM | 5.0 | nos",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1 1/4\" NPTM",
+      "feature_or_specifications": "type: double compression, feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ss 304(stainless steel 304), shroud: pvc",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.30.8V1 | Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with  PVC shroud 3/4\" ET   with check nut | 4.0 | nos",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 3/4\" ET",
+      "feature_or_specifications": "type: double compression, feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ss 304(stainless steel 304), shroud: pvc, feature: with check nut",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.30.8V6 | Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with  PVC shroud   1\" ET   with check nut | 4.0 | nos",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1\" ET",
+      "feature_or_specifications": "type: double compression, feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ss 304(stainless steel 304), shroud: pvc, feature: with check nut",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.30.8V7 | Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with  PVC shroud  1 1/4\" ET   with check nut | 4.0 | nos",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1 1/4\" ET",
+      "feature_or_specifications": "type: double compression, feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ss 304(stainless steel 304), shroud: pvc, feature: with check nut",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.30.8V8 | Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with  PVC shroud   1 1/2\" ET   with check nut | 5.0 | nos",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1 1/2\" ET",
+      "feature_or_specifications": "type: double compression, feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ss 304(stainless steel 304), shroud: pvc, feature: with check nut",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.30.9V1 | M20   Double compression type Cable gland, weatherproof + Flameproof  ( Gas Group IIC),Ni plated Brass material | 2.0 | nos",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread size: M20",
+      "feature_or_specifications": "type: double compression, feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ni plated brass",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.30.9V2 | M25   Double compression type Cable gland, weatherproof  + Flameproof  ( Gas Group IIC),Ni plated Brass material | 2.0 | nos",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread size: M25",
+      "feature_or_specifications": "type: double compression, feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ni plated brass",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.30.9V3 | M32   Double compression type Cable gland, weatherproof + Flameproof  ( Gas Group IIC),Ni plated Brass material | 2.0 | nos",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread size: M32",
+      "feature_or_specifications": "type: double compression, feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ni plated brass",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.40.4V4 | Plug,  weatherproof + flameproof   (Gas Group IIC)   type, SS 304 material,   1/2\" NPTM | 30.0 | nos",
+      "core_product_name": "plug",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1/2\" NPTM",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ss 304(stainless steel 304)",
+      "quantity": "30.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.40.4V5 | Plug,  weatherproof + flameproof   (Gas Group IIC)   type, SS 304 material,   1\" NPTM | 4.0 | nos",
+      "core_product_name": "plug",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1\" NPTM",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ss 304(stainless steel 304)",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.40.4V6 | Plug,  weatherproof + flameproof   (Gas Group IIC)   type, SS 304 material,   1 1/2\" NPTM | 4.0 | nos",
+      "core_product_name": "plug",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1 1/2\" NPTM",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ss 304(stainless steel 304)",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.40.4V8 | Plug,  weatherproof + flameproof   (Gas Group IIC)   type, SS 304 material,   3/4\" NPTM | 10.0 | nos",
+      "core_product_name": "plug",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 3/4\" NPTM",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ss 304(stainless steel 304)",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.40.4V9 | Plug,  weatherproof + flameproof   (Gas Group IIC)   type, SS 304 material,   1 1/4\" NPTM | 4.0 | nos",
+      "core_product_name": "plug",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1 1/4\" NPTM",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC, material: ss 304(stainless steel 304)",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.50.1V2 | Male Connector:   Material:   SS-316   : Size:   1/2\" NPTM X 1/2\" OD   153 Bar | 30.0 | nos",
+      "core_product_name": "male connector",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/2\" NPTM x 1/2\" OD",
+      "feature_or_specifications": "material: ss-316(stainless steel 316), pressure: 153 bar",
+      "quantity": "30.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.50.1V19 | Male Connector:   Material:   SS-316   : Size:   1/2\" NPTM X 12 mm  OD   153 Bar | 10.0 | nos",
+      "core_product_name": "male connector",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/2\" NPTM x 12 mm OD",
+      "feature_or_specifications": "material: ss-316(stainless steel 316), pressure: 153 bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.50.1V20 | Male Connector:   Material:   SS-316   : Size:   1/2\" NPTM X 6 mm  OD   153 Bar | 20.0 | nos",
+      "core_product_name": "male connector",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/2\" NPTM x 6 mm OD",
+      "feature_or_specifications": "material: ss-316(stainless steel 316), pressure: 153 bar",
+      "quantity": "20.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.50.1V21 | Male Connector:   Material:   SS-316   : Size:   1/4\" NPTM X 6 mm OD   153 Bar | 20.0 | nos",
+      "core_product_name": "male connector",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/4\" NPTM x 6 mm OD",
+      "feature_or_specifications": "material: ss-316(stainless steel 316), pressure: 153 bar",
+      "quantity": "20.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.50.1V22 | Male Connector:   Material:   SS-316   : Size:   1/4\" NPTM X 12 mm OD   153 Bar | 10.0 | nos",
+      "core_product_name": "male connector",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/4\" NPTM x 12 mm OD",
+      "feature_or_specifications": "material: ss-316(stainless steel 316), pressure: 153 bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.50.1V50 | Female Connector:   Material:   SS-316   : Size:   1/2\" NPTF X 1/2\" OD   153 Bar | 20.0 | nos",
+      "core_product_name": "female connector",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/2\" NPTF x 1/2\" OD",
+      "feature_or_specifications": "material: ss-316(stainless steel 316), pressure: 153 bar",
+      "quantity": "20.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.50.3V1 | Tube Union: Material:   SS-316   ; Size:   1/2\" OD x 1/2\" OD 153 Bar | 10.0 | nos",
+      "core_product_name": "tube union",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/2\" OD x 1/2\" OD",
+      "feature_or_specifications": "material: ss-316(stainless steel 316), pressure: 153 bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.50.3V2 | Tube Union: Material:   SS-316   ; Size:   1/4\" OD x 1/4\" OD 153 Bar | 10.0 | nos",
+      "core_product_name": "tube union",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/4\" OD x 1/4\" OD",
+      "feature_or_specifications": "material: ss-316(stainless steel 316), pressure: 153 bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.50.3V4 | Tube Union: Material:   SS-316   ; Size:   12 mm OD x 12 mm OD   153 Bar | 10.0 | nos",
+      "core_product_name": "tube union",
+      "acronymed_core_product_name": "",
+      "size": "size: 12 mm OD x 12 mm OD",
+      "feature_or_specifications": "material: ss-316(stainless steel 316), pressure: 153 bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.50.3V5 | Tube Union: Material:   SS-316   ; Size:   6 mm OD x 6 mm OD   153 Bar | 10.0 | nos",
+      "core_product_name": "tube union",
+      "acronymed_core_product_name": "",
+      "size": "size: 6 mm OD x 6 mm OD",
+      "feature_or_specifications": "material: ss-316(stainless steel 316), pressure: 153 bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.50.3V10 | Tube Union: Material:   SS-316   ; Size:   3/4\" OD x 3/4\" OD 153 Bar | 1.0 | nos",
+      "core_product_name": "tube union",
+      "acronymed_core_product_name": "",
+      "size": "size: 3/4\" OD x 3/4\" OD",
+      "feature_or_specifications": "material: ss-316(stainless steel 316), pressure: 153 bar",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.50.4V1 | Tube Cap; Material:   SS-316   ; Size :   1/2\" OD   153 Bar | 20.0 | nos",
+      "core_product_name": "tube cap",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/2\" OD",
+      "feature_or_specifications": "material: ss-316(stainless steel 316), pressure: 153 bar",
+      "quantity": "20.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.50.4V3 | Tube Cap; Material:   SS-316   ; Size :   1/4\" OD   153 Bar | 10.0 | nos",
+      "core_product_name": "tube cap",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/4\" OD",
+      "feature_or_specifications": "material: ss-316(stainless steel 316), pressure: 153 bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.50.5 | SS 316 Ball Valve 1/2\" NB OD 41 Bar | 20.0 | nos",
+      "core_product_name": "ball valve",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/2\" NB OD",
+      "feature_or_specifications": "material: ss 316(stainless steel 316), pressure: 41 bar",
+      "quantity": "20.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.50.MC15 | Tube Plug; Material:   SS-316   ; Size :   6mm OD   153 Bar | 80.0 | nos",
+      "core_product_name": "tube plug",
+      "acronymed_core_product_name": "",
+      "size": "size: 6mm OD",
+      "feature_or_specifications": "material: ss-316(stainless steel 316), pressure: 153 bar",
+      "quantity": "80.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.54 | Supply of Miniaturized Globe Pattern Needle Valve 1/2\" NB forged bar-stock type with inside screwed bonnet,back seated blow-out proof system , 1/2\"NPTF threaded connection, approximate dimension 76mm end to end length , 135 mm height, Line pressure class upto 600#,with minimum cold working pressure of 102 Kg/cm2g, seat leak test pressure 112Kg/cm2g , shell leakage test pressure of 153kg/cm2g | nan | nan",
+      "core_product_name": "needle valve",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/2\" NB, end to end length: 76mm, height: 135 mm",
+      "feature_or_specifications": "pattern: globe, type: miniaturized, construction: forged bar-stock, bonnet: inside screwed, feature: back seated blow-out proof system, connection: 1/2\"NPTF threaded, pressure class: 600#, minimum cold working pressure: 102 Kg/cm2g, seat leak test pressure: 112Kg/cm2g, shell leakage test pressure: 153kg/cm2g",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.54.1V1 | Body MOC   SS316 | 5.0 | nos",
+      "core_product_name": "needle valve",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "body material: ss316(stainless steel 316)",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.60 | Supply of compression tube fittings  in Brass of various types and specifications | nan | nan",
+      "core_product_name": "compression tube fittings",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: brass",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.60.1V2 | Female Connector   : Material: Brass : Size:   1/2\"   NPTF X   1/4\" OD   , 80 bar | 1.0 | nos",
+      "core_product_name": "female connector",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/2\" NPTF x 1/4\" OD",
+      "feature_or_specifications": "material: brass, pressure: 80 bar",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.60.3V2 | Tube Union ; Material: Brass ; Size:   1/4\" OD x 1/4\" OD   , 80 bar | 1.0 | nos",
+      "core_product_name": "tube union",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/4\" OD x 1/4\" OD",
+      "feature_or_specifications": "material: brass, pressure: 80 bar",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.70 | Supply of instrument tubes of different types and specifications | nan | nan",
+      "core_product_name": "instrument tubes",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.70.2V2 | SS316L tube   1/2\" OD   153 Bar | 50.0 | m",
+      "core_product_name": "ss316l tube",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/2\" OD",
+      "feature_or_specifications": "material: ss316l(stainless steel 316l), pressure: 153 bar",
+      "quantity": "50.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.70.2V3 | SS316L tube   1/4\" OD   153 Bar | 50.0 | m",
+      "core_product_name": "ss316l tube",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/4\" OD",
+      "feature_or_specifications": "material: ss316l(stainless steel 316l), pressure: 153 bar",
+      "quantity": "50.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.70.2V5 | SS316L tube   12 mm OD   153 Bar | 20.0 | m",
+      "core_product_name": "ss316l tube",
+      "acronymed_core_product_name": "",
+      "size": "size: 12 mm OD",
+      "feature_or_specifications": "material: ss316l(stainless steel 316l), pressure: 153 bar",
+      "quantity": "20.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.550.70.MC15 | Bare Copper Tube, 1/4\"\" OD, 1.0mm THK, 80 bar | 5.0 | m",
+      "core_product_name": "bare copper tube",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/4\" OD, thickness: 1.0mm",
+      "feature_or_specifications": "material: copper, pressure: 80 bar",
+      "quantity": "5.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.600 | JUNCTION BOX INSTALLATION | nan | nan",
+      "core_product_name": "junction box installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.600.20 | Installation of weatherproof and flameproof junction boxes including supply, fabrication and installation of supports, installation of junction boxes, supply of 14 SWG GI wire (max. length 10 m per Junction Box), laying and connection, screwing plugs for unused entries and painting but exclusive of supply of junction boxes and glands/ fittings. | nan | nan",
+      "core_product_name": "installation of weatherproof and flameproof junction boxes",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supply, fabrication and installation of supports, supply of 14 SWG GI wire (max. length 10 m per Junction Box), laying and connection, screwing plugs for unused entries, painting, exclusive of supply of junction boxes and glands/ fittings",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.600.20.1 | For cable size 6P x 0.5/1.0/1.5/2.5 mm²/16 AWG Signal/FF/Alarm/ Control | 2.0 | nos",
+      "core_product_name": "installation of weatherproof and flameproof junction boxes",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 6P x 0.5 or 1.0 or 1.5 or 2.5 mm² or 16 AWG",
+      "feature_or_specifications": "application: signal or FF or alarm or control",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.600.20.5 | For cable size 12P x 0.5/1.0/1.5/2.5 mm²/16 AWG Signal/FF/Alarm/ Control | 3.0 | nos",
+      "core_product_name": "installation of weatherproof and flameproof junction boxes",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 12P x 0.5 or 1.0 or 1.5 or 2.5 mm² or 16 AWG",
+      "feature_or_specifications": "application: signal or FF or alarm or control",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.600.20.43 | For cable size 8T x 1.5/ 2.5 mm²  RTD/ Gas Detector | 3.0 | nos",
+      "core_product_name": "installation of weatherproof and flameproof junction boxes",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 8T x 1.5 or 2.5 mm²",
+      "feature_or_specifications": "application: RTD or gas detector",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.600.40 | Installation of weatherproof and flameproof three way junction boxes for Power including supply, fabrication and installation of supports, installation of junction boxes, supply of 14 SWG GI wire (max. length 10 m per Junction Box), laying and connection, screwing plugs for unused entries and painting but exclusive of supply of junction boxes and glands/ fittings. | nan | nan",
+      "core_product_name": "installation of weatherproof and flameproof three way junction boxes for power",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supply, fabrication and installation of supports, supply of 14 SWG GI wire (max. length 10 m per Junction Box), laying and connection, screwing plugs for unused entries, painting, exclusive of supply of junction boxes and glands/ fittings",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.600.40.1V5 | For cable size   2C x 10 mm² | 2.0 | nos",
+      "core_product_name": "installation of weatherproof and flameproof three way junction boxes for power",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 10 mm²",
+      "feature_or_specifications": "",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.600.40.1V9 | For cable size   2C x 4 mm² | 1.0 | nos",
+      "core_product_name": "installation of weatherproof and flameproof three way junction boxes for power",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 4 mm²",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.600.40.1V11 | For cable size   2C x 6 mm² | 1.0 | nos",
+      "core_product_name": "installation of weatherproof and flameproof three way junction boxes for power",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 6 mm²",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.600.50 | Installation of Multi Cable transit frames complete with all insert blocks, stay plates, unused blocks with cables piece inserted, end packing etc. on wall for Cable entry including necessary civil works, welding, supply and installation of additional steel plate for unused portion of cutouts, fixing of frames, pulling cables to blocks and installation of blocks on frames as per manufacturer's recommendation. | nan | nan",
+      "core_product_name": "installation of multi cable transit frames",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: complete with all insert blocks, stay plates, unused blocks with cables piece inserted, end packing, necessary civil works, welding, supply and installation of additional steel plate for unused portion of cutouts, fixing of frames, pulling cables to blocks, installation of blocks on frames as per manufacturer's recommendation",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.600.50.1 | 8 + 8 x 10",
+      "core_product_name": "multi cable transit frames",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.600.50.4 | 8 + 8 x 4",
+      "core_product_name": "multi cable transit frames",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.610 | LAYING OF CABLES",
+      "core_product_name": "laying of cables",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.610.10 | Laying of instrumentation cables for signal, alarm, shutdown, control and signal cable on ducts, main trays, perforated trays, angle trays, trenches (including opening of cable duct covers if required  through IRCs {Instrument Road Crossings}) including clamping, glanding the cables, termination at both ends including shield/ drain/ communication wire, providing and fixing identifying tags and megger testing but exclusive of supply of cables and erection of ducts, main tray, perforated tray/ angle trays and preparation of cable trench.",
+      "core_product_name": "laying of instrumentation cables",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: for signal, alarm, shutdown, control and signal cable on ducts, main trays, perforated trays, angle trays, trenches (including opening of cable duct covers if required through IRCs {Instrument Road Crossings}), including clamping, glanding the cables, termination at both ends including shield/ drain/ communication wire, providing and fixing identifying tags and megger testing but exclusive of supply of cables and erection of ducts, main tray, perforated tray/ angle trays and preparation of cable trench",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.610.10.1 | Signal / Alarm / Control Cables of cable sizes 1P x 1.5 / 2.5 mm²",
+      "core_product_name": "signal or alarm or control cables",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1P x 1.5 / 2.5 mm²",
+      "feature_or_specifications": "",
+      "quantity": "2500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.610.10.4 | Signal/ Alarm/ Control Cables of cable sizes 12C / 6P x 1.5 / 2.5 mm²",
+      "core_product_name": "signal or alarm or control cables",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 12C / 6P x 1.5 / 2.5 mm²",
+      "feature_or_specifications": "",
+      "quantity": "500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.610.10.9 | Signal/ Alarm/ Control Cables of cable sizes 24C /12P x 1.5/ 2.5  mm²",
+      "core_product_name": "signal or alarm or control cables",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 24C /12P x 1.5/ 2.5 mm²",
+      "feature_or_specifications": "",
+      "quantity": "500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.610.10.12 | Special armoured serial link MODBUS TCP/IP/RS485 Serial/ cable",
+      "core_product_name": "special armoured serial link modbus tcp/ip/rs485 serial cable",
+      "acronymed_core_product_name": "modbus tcp/ip/rs485 serial cable",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1000.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.610.30 | Laying of thermocouple/ RTD/ LEL Detector/ H2S Detector cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs {Instrument Road Crossings}) including opening of cable duct covers if required clamping, glanding the cables, termination at both ends including shield/ drain/communication wire providing and fixing of identifying tags and megger testing but exclusive of supply of multi cables and erection of ducts, main tray, perforated tray/angle tray and preparation of cable trench.",
+      "core_product_name": "laying of thermocouple or rtd or lel detector or h2s detector cables",
+      "acronymed_core_product_name": "rtd, lel detector, h2s detector cables",
+      "size": "",
+      "feature_or_specifications": "feature: on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs {Instrument Road Crossings}), including opening of cable duct covers if required, clamping, glanding the cables, termination at both ends including shield/ drain/communication wire, providing and fixing of identifying tags and megger testing but exclusive of supply of multi cables and erection of ducts, main tray, perforated tray/angle tray and preparation of cable trench",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.610.30.21 | 1 Pair / 2 Pair x 16/20 AWG Thermocouple Cable",
+      "core_product_name": "thermocouple cable",
+      "acronymed_core_product_name": "",
+      "size": "pair: 1 pair / 2 pair, awg: 16/20",
+      "feature_or_specifications": "",
+      "quantity": "200.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.610.30.41 | 1 Triad/ Quad x 1.5 mm² RTD/ LEL Cable",
+      "core_product_name": "rtd or lel cable",
+      "acronymed_core_product_name": "rtd, lel cable",
+      "size": "triad or quad: 1 triad/ quad, size: 1.5 mm²",
+      "feature_or_specifications": "",
+      "quantity": "400.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.610.30.54 | 8 Triad/ Quad x 2.5 mm² RTD/ LEL Cable",
+      "core_product_name": "rtd or lel cable",
+      "acronymed_core_product_name": "rtd, lel cable",
+      "size": "triad or quad: 8 triad/ quad, size: 2.5 mm²",
+      "feature_or_specifications": "",
+      "quantity": "1500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.610.80 | Laying of power cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs) including opening of cable duct covers if required clamping, glanding the cables, termination at both ends including shield/ drain/ communication wire providing and fixing of identifying tags and megger testing but exclusive of supply of multi cables and erection of ducts, main tray, perforated tray/ angle tray and preparation of cable trench",
+      "core_product_name": "laying of power cables",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs), including opening of cable duct covers if required, clamping, glanding the cables, termination at both ends including shield/ drain/ communication wire, providing and fixing of identifying tags and megger testing but exclusive of supply of multi cables and erection of ducts, main tray, perforated tray/ angle tray and preparation of cable trench",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.610.80.1V2 | For cable size   2C x 6 mm²",
+      "core_product_name": "power cable",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 6 mm²",
+      "feature_or_specifications": "",
+      "quantity": "800.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.610.80.1V3 | For cable size   2C x 10 mm²",
+      "core_product_name": "power cable",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 10 mm²",
+      "feature_or_specifications": "",
+      "quantity": "800.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.610.80.1V7 | For cable size   2C x 2.5 mm²",
+      "core_product_name": "power cable",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 2.5 mm²",
+      "feature_or_specifications": "",
+      "quantity": "400.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.610.80.1V10 | For cable size   2C x 4 mm²",
+      "core_product_name": "power cable",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 4 mm²",
+      "feature_or_specifications": "",
+      "quantity": "800.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.630 | SAND FILLING IN TRENCHES",
+      "core_product_name": "sand filling in trenches",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.630.10 | Supply of sand and filling of concrete cable trenches with sand after cable laying is completed including levelling of sand and fixing back of precast concrete slabs on the trench.",
+      "core_product_name": "supply of sand and filling of concrete cable trenches",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: after cable laying is completed including levelling of sand and fixing back of precast concrete slabs on the trench",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.630.10.4V4 | Trench Size   2000 mm (W) x 1500 mm   (D, total for trench, not depth of sand)",
+      "core_product_name": "sand filling in trenches",
+      "acronymed_core_product_name": "",
+      "size": "trench size: 2000 mm (W) x 1500 mm (D, total for trench, not depth of sand)",
+      "feature_or_specifications": "",
+      "quantity": "50.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.650 | EARTHING",
+      "core_product_name": "earthing",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.650.10 | Supply, laying and termination of both ends of earthing cables from earth grid pit to the DCS/ Local panels/ Barrier earth bus bars in trays/ conduits/ trenches as required.",
+      "core_product_name": "supply, laying and termination of earthing cables",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: from earth grid pit to the dcs/ local panels/ barrier earth bus bars in trays/ conduits/ trenches as required",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.650.10.1 | At both ends of earth grid/ Instruments of GI wire (12 AWG) in trays and conduits as required excluding earth-pit preparation and electrode installation.",
+      "core_product_name": "gi wire",
+      "acronymed_core_product_name": "",
+      "size": "awg: 12",
+      "feature_or_specifications": "feature: at both ends of earth grid/ instruments, in trays and conduits as required, excluding earth-pit preparation and electrode installation",
+      "quantity": "500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.650.10.3 | For earthing cable 25 mm² size with PVC insulation.",
+      "core_product_name": "earthing cable",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 25 mm²",
+      "feature_or_specifications": "insulation: pvc",
+      "quantity": "30.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.700 | PIPING / TUBING / FABRICATION WORK",
+      "core_product_name": "piping or tubing or fabrication work",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.700.5 | Laying of copper tube for steam tracing of Instruments, primary impulse lines with steam traps/valve accessories including clamping, supply of clamps termination at both ends, providing and fixing metallic tags and hydraulic testing as per Standard given below but exclusive of supply of tube/ fitting and insulation as per standards",
+      "core_product_name": "laying of copper tube for steam tracing",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: for instruments, primary impulse lines with steam traps/valve accessories including clamping, supply of clamps, termination at both ends, providing and fixing metallic tags and hydraulic testing as per standard given below but exclusive of supply of tube/ fitting and insulation as per standards",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.700.5.MC10 | For sizes 1/4\"/ 6 mm",
+      "core_product_name": "copper tube",
+      "acronymed_core_product_name": "",
+      "size": "size: 1/4\"/ 6 mm",
+      "feature_or_specifications": "",
+      "quantity": "100.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.750 | DRILLING AND THREADING OF BLIND FLANGES",
+      "core_product_name": "drilling and threading of blind flanges",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.750.10 | Making of 1/2\" screwed connections on 1-1/2\" blind flanges of specified materials/ ratings, by drilling holes and tapping",
+      "core_product_name": "making of screwed connections on blind flanges",
+      "acronymed_core_product_name": "",
+      "size": "connection size: 1/2\", flange size: 1-1/2\"",
+      "feature_or_specifications": "feature: of specified materials/ ratings, by drilling holes and tapping",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.750.10.1V1 | In   Carbon Steel   ,   150#   flange",
+      "core_product_name": "blind flange",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: carbon steel, rating: 150#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.750.10.1V2 | In   Carbon Steel   ,   300#   flange",
+      "core_product_name": "blind flange",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: carbon steel, rating: 300#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.750.20 | Making of 1/2\" screwed connections on 2\" blind flanges of specified materials/ ratings, by drilling holes and tapping",
+      "core_product_name": "making of screwed connections on blind flanges",
+      "acronymed_core_product_name": "",
+      "size": "connection size: 1/2\", flange size: 2\"",
+      "feature_or_specifications": "feature: of specified materials/ ratings, by drilling holes and tapping",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.750.20.1V1 | In   Carbon Steel   ,   150#   flange",
+      "core_product_name": "blind flange",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: carbon steel, rating: 150#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.750.20.1V2 | In   Carbon Steel   ,   300#   flange",
+      "core_product_name": "blind flange",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: carbon steel, rating: 300#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.750.50 | Making of 1/2\" screwed connections on 3\" blind flanges of specified materials/ ratings, by drilling holes and tapping",
+      "core_product_name": "making of screwed connections on blind flanges",
+      "acronymed_core_product_name": "",
+      "size": "connection size: 1/2\", flange size: 3\"",
+      "feature_or_specifications": "feature: of specified materials/ ratings, by drilling holes and tapping",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.750.50.1V1 | In   Carbon Steel   ,   150#   flange",
+      "core_product_name": "blind flange",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: carbon steel, rating: 150#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.780 | PWHT/ STRESS RELIEF - CARBON STEEL",
+      "core_product_name": "pwht or stress relief",
+      "acronymed_core_product_name": "pwht",
+      "size": "",
+      "feature_or_specifications": "material: carbon steel",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.780.10 | Post-weld Heat Treatment (PWHT)/ Stress Relieving of all weld joints in impulse piping of Pressure Gauges installations.",
+      "core_product_name": "post-weld heat treatment or stress relieving",
+      "acronymed_core_product_name": "pwht",
+      "size": "",
+      "feature_or_specifications": "application: all weld joints in impulse piping of pressure gauges installations",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.780.10.2 | Installation standard 7-52-0434/ 0435/1121/1122",
+      "core_product_name": "installation standard",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "standard: 7-52-0434 or 0435 or 1121 or 1122",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.780.30 | Post-weld Heat Treatment (PWHT)/ Stress Relieving of all weld joints in impulse piping of Pressure Instruments installations.",
+      "core_product_name": "post-weld heat treatment or stress relieving",
+      "acronymed_core_product_name": "pwht",
+      "size": "",
+      "feature_or_specifications": "application: all weld joints in impulse piping of pressure instruments installations",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.780.30.2 | Installation standard 7-52-0439/ 0441/1133/1134",
+      "core_product_name": "installation standard",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "standard: 7-52-0439 or 0441 or 1133 or 1134",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.785 | RADIOGRAPHY - CARBON STEEL WELD JOINTS",
+      "core_product_name": "radiography",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: carbon steel weld joints",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.785.30 | Radiography conforming to the requirements of the Piping Class for all weld joints in impulse piping of Pressure Instruments installations",
+      "core_product_name": "radiography",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "conformance: requirements of the piping class, application: all weld joints in impulse piping of pressure instruments installations",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.785.30.2 | Installation standard 7-52-0439/ 0441/1133/1134",
+      "core_product_name": "installation standard",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "standard: 7-52-0439 or 0441 or 1133 or 1134",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.800 | STRUCTURAL",
+      "core_product_name": "structural",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.800.20 | Supply, Fabrication and erection of Galvanised Iron duct and its supports as per standard. Duct configurations include Duct Equal Tee, Duct Expander Tee, Duct Reducer Tee, Duct Offset Bend, Duct with Reducer, Vertical Plane Tee, Vertical Plane Elbow, Duct Bridge (jumpover), Sleeves.",
+      "core_product_name": "galvanised iron duct and supports",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: galvanised iron, feature: duct configurations include duct equal tee, duct expander tee, duct reducer tee, duct offset bend, duct with reducer, vertical plane tee, vertical plane elbow, duct bridge (jumpover), sleeves",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.800.20.1V4 | Run of Duct   600mm (W) X 300mm (H)",
+      "core_product_name": "duct",
+      "acronymed_core_product_name": "",
+      "size": "width: 600mm, height: 300mm",
+      "feature_or_specifications": "",
+      "quantity": "50.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.800.20.1V5 | Run of Duct   800mm (W) X 300mm (H)",
+      "core_product_name": "duct",
+      "acronymed_core_product_name": "",
+      "size": "width: 800mm, height: 300mm",
+      "feature_or_specifications": "",
+      "quantity": "1000.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.800.52 | Supply, fabrication and erection of angle / channel  trays fabricated out of GI angle as per drawing including supply, fabrication and erection of its supports and painting as  per painting standard attached including supply of paint.",
+      "core_product_name": "angle or channel trays",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: gi(galvanised iron) angle, feature: fabricated as per drawing, feature: includes supply, fabrication and erection of supports and painting as per painting standard attached including supply of paint",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.800.52.1V2 | Tray of   50x 50 x 6mm   angle",
+      "core_product_name": "tray",
+      "acronymed_core_product_name": "",
+      "size": "angle size: 50x50x6mm",
+      "feature_or_specifications": "",
+      "quantity": "500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.800.75 | Supply and erection of prefabricated Anodised Aluminium perforated trays and its supports including tees, bends and elbows , painting of supports including supply of supports,paint as per  painting specifications",
+      "core_product_name": "anodised aluminium perforated trays and supports",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: anodised aluminium, feature: prefabricated, feature: includes tees, bends and elbows, feature: painting of supports including supply of supports, paint as per painting specifications",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.800.75.1V1 | Tray of   60mm (W) X 20mm (H)   with cover",
+      "core_product_name": "tray",
+      "acronymed_core_product_name": "",
+      "size": "width: 60mm, height: 20mm",
+      "feature_or_specifications": "feature: with cover",
+      "quantity": "1500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.800.75.1V2 | Tray of   150mm (W) X 30mm (H)   with cover",
+      "core_product_name": "tray",
+      "acronymed_core_product_name": "",
+      "size": "width: 150mm, height: 30mm",
+      "feature_or_specifications": "feature: with cover",
+      "quantity": "300.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.800.75.1V3 | Tray of   300mm (W) X 30mm (H)   with cover",
+      "core_product_name": "tray",
+      "acronymed_core_product_name": "",
+      "size": "width: 300mm, height: 30mm",
+      "feature_or_specifications": "feature: with cover",
+      "quantity": "200.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.802 | CANOPY FOR INSTRUMENTS AND JUNCTION BOXES",
+      "core_product_name": "canopy for instruments and junction boxes",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.802.20 | Supply of Prefabricated FRP canopies along with mounting accessories for local instruments, Transmitters, Junction Box etc. for mounting on the stanchion and alignment as per standard 7-52-0105",
+      "core_product_name": "frp canopies with mounting accessories",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: frp(fibre reinforced plastic), feature: prefabricated, feature: for local instruments, transmitters, junction box etc., feature: for mounting on the stanchion and alignment as per standard 7-52-0105",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.802.20.1 | FRP Canopy (All sides closed) - Field Instruments",
+      "core_product_name": "frp canopy",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: all sides closed, application: field instruments",
+      "quantity": "40.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.900 | GENERAL SITE WORK",
+      "core_product_name": "general site work",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.900.10 | Supply of Yoke supports for transmitters/ preamplifiers (wherever applicable) including supply, fabrication and erection of instrument yoke of all types and painting of yoke supports but exclusive of mounting of Instrument on supports.",
+      "core_product_name": "yoke supports for transmitters or preamplifiers",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: including supply, fabrication and erection of instrument yoke of all types and painting of yoke supports but exclusive of mounting of instrument on supports",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.900.10.1 | 2\" Yoke supports as per standard 7-52-0101",
+      "core_product_name": "yoke supports",
+      "acronymed_core_product_name": "",
+      "size": "size: 2\"",
+      "feature_or_specifications": "standard: 7-52-0101",
+      "quantity": "50.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.900.40 | Identification of instrument items wherever required including supply of approved  colour of paint/ paints (Fluorescent), painting of tag number (approx 25-50 mm high)on instrument item like transmitter, switches, level gauges, control valves etc. as specified by Engineer-in-Charge.",
+      "core_product_name": "identification of instrument items",
+      "acronymed_core_product_name": "",
+      "size": "tag number height: approx 25-50 mm",
+      "feature_or_specifications": "feature: including supply of approved colour of paint or paints (fluorescent), painting of tag number on instrument item like transmitter, switches, level gauges, control valves etc. as specified by engineer-in-charge",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.900.40.1 | Identification of instrument items",
+      "core_product_name": "identification of instrument items",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "100.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.900.60 | CHIEF CONTROLLER OF EXPLOSIVE( CCE) CERTIFICATES FOR FIELD ELECTRICAL/ ELECTRONIC INSTRUMENTS & ACCESSORIES AND EQUIPMENTS",
+      "core_product_name": "chief controller of explosive certificates for field electrical or electronic instruments and accessories and equipments",
+      "acronymed_core_product_name": "cce certificates for field electrical or electronic instruments and accessories and equipments",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": [
+        "INSTRUMENTATION",
+        "MISCELLANEOUS ITEMS AND DEVICES",
+        "SUPPLY ITEMS"
+      ],
+      "full_product_description": "01II.900.60.1 | Obtaining  certificate of approval from Chief Controller Of Explosives( CCE) for field electrical/electronic  instruments & accessories  and equipments  based on type test certificate made available from the instrument vendors including submission of  application to statutory authorities , necessary fees, all test certificates, equipment drawings in required volumes, interaction with the authorities, follow-up for  approval, obtaining necessary approval certificate before energization of field electrical/electronic  instruments & accessories  and equipments.",
+      "core_product_name": "obtaining certificate of approval from chief controller of explosives for field electrical or electronic instruments and accessories and equipments",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: based on type test certificate made available from the instrument vendors including submission of application to statutory authorities, necessary fees, all test certificates, equipment drawings in required volumes, interaction with the authorities, follow-up for approval, obtaining necessary approval certificate before energization of field electrical or electronic instruments and accessories and equipments",
+      "quantity": "1.0",
+      "unit": "nos"
+    }
+  ]
+}

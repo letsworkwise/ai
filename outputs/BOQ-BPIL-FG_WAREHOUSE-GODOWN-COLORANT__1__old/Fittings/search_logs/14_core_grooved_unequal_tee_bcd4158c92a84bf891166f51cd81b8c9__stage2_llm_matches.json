@@ -1,0 +1,55 @@
+{
+  "query": "core_product_name: grooved unequal tee | size: nominal bore: 80X65X80",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: unequal tee",
+        "raw_product_name": "UNEQUAL TEE",
+        "list_of_product_ids": [
+          "15470",
+          "27764",
+          "27754",
+          "27744",
+          "27734",
+          "27724",
+          "27777"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: tee fitting",
+        "raw_product_name": "FITTINGS \u0013TEES",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: fitting | material: GRE (Glass Reinforced Epoxy)",
+        "raw_product_name": "FITTING-GRE",
+        "list_of_product_ids": [
+          "6321",
+          "5492",
+          "12716",
+          "13163",
+          "13176",
+          "13193",
+          "13198",
+          "13167",
+          "13187",
+          "17883"
+        ]
+      }
+    }
+  ]
+}

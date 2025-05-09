@@ -1,0 +1,200 @@
+{
+  "sheet_name": "General Civil",
+  "boq_context": "Sl. No. | PART NO | ITEM NO | DESCRIPTION | QTY | UOM | RATE | AMOUNT | TPPL Rate | Amount",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > RCC PIPE CULVERTS & ELECTRICAL ROAD CROSSINGS ETC.",
+      "full_product_description": "Providing 20mm wide x 20mm deep contraction/construction joint in lining for reservoir, channel, etc. including cleaning the joints of all loose materials and filling with approved mastic filler conforming to IS:13143, clearing the joints, applying primer as per IS:5356 clearing the adjoining surface after sealing etc. including construction of PCC sleepers under joints in M20 grade and treatment on top of the sleeper complete as per drawings, specifications and the directions of Engineer- in- Charge. (All material including cement shall be supplied by contractor) for lining depth of 100mm",
+      "is_service_and_not_product": true,
+      "core_service_name": "joint construction",
+      "functional_descriptors_for_service": "contraction, construction, cleaning, filling, priming, sleeper construction, treatment",
+      "acronymed_core_service_name": "",
+      "quantity": "2250.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > RCC PIPE CULVERTS & ELECTRICAL ROAD CROSSINGS ETC.",
+      "full_product_description": "Providing 20mm wide expansion joints in lining for reservoir, channel, etc. including cleaning the joint of all loose materials and filling with bitumen mix filler to full depth except for 25mm depth at top, filling top portion of 25mm depth with approved hot sealing compound conforming to IS:13143, clearing the joints, applying primer as per IS:5356 clearing of the adjoining surface after sealing etc., including construction of PCC sleepers under joints in M20 grade and treatment on top of the sleeper,  complete as per drawings, specifications and the directions of Engineer-in-Charge. (All material including cement shall be supplied by contractor) for lining depth of 100mm",
+      "is_service_and_not_product": true,
+      "core_service_name": "joint construction",
+      "functional_descriptors_for_service": "expansion, cleaning, filling, priming, sleeper construction, treatment",
+      "acronymed_core_service_name": "",
+      "quantity": "570.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > RCC PIPE CULVERTS & ELECTRICAL ROAD CROSSINGS ETC.",
+      "full_product_description": "Supplying and laying film lining with cement concrete lining of M-20 grade with 20mm and down size graded stone aggregates in reservoir, channels, etc. , including preparation of sub-grade, 75MM thick fine sand fill over sub-grade, laying Laminated High Density Polyethylene (HDPE) Woven Fabric (Geo-Membrane) 0.25 mm thick (Type-I), as per IS: 15351, jointing of film as per manufacturers recommendations including providing overlap,   providing 10mm thick 1:6 cement mortar plaster on the film, disposal of surplus earth/ unserviceable material  within a lead of 500M as directed, rolling and testing, laying concrete, leaving pockets, making drains, laying in alternate panels, shuttering the edges, curing, finishing the top surface smooth including complete cost of taking and testing concrete cubes and testing of reservoir/ pond after completion of work, including dewatering of accumulated water from any source and keeping the surface dry for subsequent works etc. complete as per drawings, specifications and directions of Engineer-in-Charge. For lining thickness of 100 mm on horizontal surface (All material including cement supplied by the contractor)",
+      "is_service_and_not_product": true,
+      "core_service_name": "film lining installation",
+      "functional_descriptors_for_service": "supplying, laying, jointing, plastering, disposal, rolling, testing, curing, finishing, dewatering",
+      "acronymed_core_service_name": "",
+      "quantity": "4580.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > RCC PIPE CULVERTS & ELECTRICAL ROAD CROSSINGS ETC.",
+      "full_product_description": "Supplying and laying film lining with cement concrete lining of M-20 grade with 20mm and down size graded stone aggregates in reservoir, channels, etc. , including preparation of sub-grade, 75MM thick fine sand fill over sub-grade, laying Laminated High Density Polyethylene (HDPE) Woven Fabric (Geo-Membrane) 0.25 mm thick (Type-I), as per IS: 15351, jointing of film as per manufacturers recommendations including providing overlap,   providing 10mm thick 1:6 cement mortar plaster on the film, disposal of surplus earth/ unserviceable material  within a lead of 500M as directed, rolling and testing, laying concrete, leaving pockets, making drains, laying in alternate panels, shuttering the edges, curing, finishing the top surface smooth including complete cost of taking and testing concrete cubes and testing of reservoir/ pond after completion of work, including dewatering of accumulated water from any source and keeping the surface dry for subsequent works etc. complete as per drawings, specifications and directions of Engineer-in-Charge. For lining thickness of 100 mm on horizontal surface (All material including cement supplied by the contractor)",
+      "is_service_and_not_product": false,
+      "core_product_name": "geo-membrane",
+      "functional_descriptors_for_product": "laminated, high density polyethylene, woven fabric",
+      "acronymed_core_product_name": "hdpe",
+      "list_of_specific_attributes": [
+        {
+          "part": "product",
+          "attribute": "material",
+          "value": "high density polyethylene"
+        },
+        {
+          "part": "product",
+          "attribute": "size_or_capacity",
+          "value": "0.25 mm thick"
+        },
+        {
+          "part": "product",
+          "attribute": "type_or_class",
+          "value": "Type-I"
+        },
+        {
+          "part": "product",
+          "attribute": "standards_and_approvals",
+          "value": "IS: 15351"
+        }
+      ],
+      "quantity": "4580.0",
+      "unit": "m²"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      20,
+      29
+    ],
+    "original_rows": [
+      {
+        "0": 669,
+        "1": 0,
+        "2": "01GC.19",
+        "3": "FILM LINING WITH CONCRETE LINING FOR EARTHEN RESERVOIR",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 670,
+        "1": 0,
+        "2": "01GC.19.2",
+        "3": "Providing 20mm wide x 20mm deep contraction/construction joint in lining for reservoir, channel, etc. including cleaning the joints of all loose materials and filling with approved mastic filler conforming to IS:13143, clearing the joints, applying primer as per IS:5356 clearing the adjoining surface after sealing etc. including construction of PCC sleepers under joints in M20 grade and treatment on top of the sleeper complete as per drawings, specifications and the directions of Engineer- in- Charge. (All material including cement shall be supplied by contractor)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 671,
+        "1": 0,
+        "2": "01GC.19.2.1",
+        "3": "for lining depth of 100mm",
+        "4": 2250.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 672,
+        "1": 0,
+        "2": "01GC.19.3",
+        "3": "Providing 20mm wide expansion joints in lining for reservoir, channel, etc. including cleaning the joint of all loose materials and filling with bitumen mix filler to full depth except for 25mm depth at top, filling top portion of 25mm depth with approved hot sealing compound conforming to IS:13143, clearing the joints, applying primer as per IS:5356 clearing of the adjoining surface after sealing etc., including construction of PCC sleepers under joints in M20 grade and treatment on top of the sleeper,  complete as per drawings, specifications and the directions of Engineer-in-Charge. (All material including cement shall be supplied by contractor)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 673,
+        "1": 0,
+        "2": "01GC.19.3.1",
+        "3": "for lining depth of 100mm",
+        "4": 570.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 674,
+        "1": 0,
+        "2": "01GC.19.4",
+        "3": "Supplying and laying film lining with cement concrete lining of M-20 grade with 20mm and down size graded stone aggregates in reservoir, channels, etc. , including preparation of sub-grade, 75MM thick fine sand fill over sub-grade, laying Laminated High Density Polyethylene (HDPE) Woven Fabric (Geo-Membrane) 0.25 mm thick (Type-I), as per IS: 15351, jointing of film as per manufacturers recommendations including providing overlap,   providing 10mm thick 1:6 cement mortar plaster on the film, disposal of surplus earth/ unserviceable material  within a lead of 500M as directed, rolling and testing, laying concrete, leaving pockets, making drains, laying in alternate panels, shuttering the edges, curing, finishing the top surface smooth including complete cost of taking and testing concrete cubes and testing of reservoir/ pond after completion of work, including dewatering of accumulated water from any source and keeping the surface dry for subsequent works etc. complete as per drawings, specifications and directions of Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 675,
+        "1": 0,
+        "2": "01GC.19.4.5",
+        "3": "For lining thickness of 100 mm on horizontal surface (All material including cement supplied by the contractor)",
+        "4": 4580.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 676,
+        "1": 0,
+        "2": "01GC.27",
+        "3": "Modification Works",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 677,
+        "1": 0,
+        "2": "01GC.27.1",
+        "3": "MODIFICATION AND EXTRA WORKS ( IF ANY ) Cuting,bevelling,fitup,welding of different sizes of CS piping of all thicknesses in shop ,in position, on ground and at all elevations, transportation of pipes,fittings,flanges etc. from owner's storage point to work site/workshop,making necessary scaffolding,consumables,machinery,tools,tackles,labour and supervision including attending to repairs for completing the work as per instructions of Engineer -in - charge",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 678,
+        "1": 0,
+        "2": "01GC.27.1.1",
+        "3": "Flame cutting CS piping",
+        "4": 240.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 3660,
+    "completion_tokens": 1625
+  }
+}

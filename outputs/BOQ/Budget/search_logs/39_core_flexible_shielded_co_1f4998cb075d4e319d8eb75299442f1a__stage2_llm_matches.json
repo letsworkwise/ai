@@ -1,0 +1,99 @@
+{
+  "query": "core_product_name: flexible shielded copper cable | size: cores: 4C (4 cores), cross section: 2.5 sq.mm | feature_or_specifications: application: PCC - PCC",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": [
+          "32910",
+          "32911",
+          "33009",
+          "33041",
+          "33195",
+          "33260",
+          "33562",
+          "33633",
+          "35922"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flexible wire | material: Copper",
+        "raw_product_name": "FLEXIBLE COPPER WIRES",
+        "list_of_product_ids": [
+          "136",
+          "081",
+          "478",
+          "520",
+          "094"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: flexible cable | type_or_class: single or multicore",
+        "raw_product_name": "SINGLE/MULTICORE FLEXIBLE CABLE",
+        "list_of_product_ids": [
+          "38520",
+          "38521",
+          "38582",
+          "38608",
+          "38636",
+          "38828",
+          "38665",
+          "38861",
+          "38903",
+          "38929",
+          "38950",
+          "38693",
+          "38718",
+          "38744",
+          "38966",
+          "38993",
+          "39021",
+          "39055",
+          "39089",
+          "39119",
+          "39167",
+          "39220",
+          "39248",
+          "39290",
+          "39340",
+          "39376",
+          "39405",
+          "39435",
+          "39451",
+          "39486",
+          "39541",
+          "39568",
+          "38770",
+          "39606",
+          "39630",
+          "39658",
+          "39692",
+          "39732",
+          "39802",
+          "39830",
+          "39901"
+        ]
+      }
+    }
+  ]
+}

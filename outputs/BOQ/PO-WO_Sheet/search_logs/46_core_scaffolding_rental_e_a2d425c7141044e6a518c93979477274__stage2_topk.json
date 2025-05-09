@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: scaffolding rental expense | feature_or_specifications: type: iron cuplock, period: first month and second month, code: dg1",
+  "retrieval_results": [
+    {
+      "id": "variant-ede4b721-b175-5330-9b07-16e6c947d1d5",
+      "score": 0.87690926,
+      "metadata": {
+        "text": "core_product_name: cuplock scaffolding | type_or_class: Cuplock",
+        "raw_product_name": "CUPLOCK SCAFFOLDING",
+        "list_of_product_ids": "24782,24779,24769,24770,24792,24810,24796,24806,25092",
+        "core_id": 532.0
+      }
+    },
+    {
+      "id": "variant-5cab0b16-4402-5956-badd-9d7271a6904a",
+      "score": 0.84511167,
+      "metadata": {
+        "text": "core_product_name: quick erect scaffolding | type_or_class: Furnace",
+        "raw_product_name": "QUICK ERECT SCAFFOLDING - FURNACE",
+        "list_of_product_ids": "22517,22543,22548,22557,35422",
+        "core_id": 1848.0
+      }
+    },
+    {
+      "id": "variant-ad45ff9e-65c5-5cf2-b28b-f771026773d1",
+      "score": 0.8416872,
+      "metadata": {
+        "text": "core_product_name: scaffolding platform",
+        "raw_product_name": "SCAFFOLDING PLATFORM",
+        "list_of_product_ids": "24768,24767,24783,24793,24797,24811,24807,24778,25093",
+        "core_id": 1970.0
+      }
+    },
+    {
+      "id": "variant-6329b83b-c0cd-5098-a48f-fce6cc7d9b74",
+      "score": 0.84116846,
+      "metadata": {
+        "text": "core_product_name: interlocking block | material: Concrete",
+        "raw_product_name": "INTERLOCKING CONCRETE BLOCKS",
+        "list_of_product_ids": "15533,15534,15536,27036,15535,15532",
+        "core_id": 1284.0
+      }
+    },
+    {
+      "id": "variant-eaabf279-e050-55cb-949b-5c687dd626a4",
+      "score": 0.84056425,
+      "metadata": {
+        "text": "core_product_name: scaffolding pipe",
+        "raw_product_name": "SCAFFOLDING PIPE",
+        "list_of_product_ids": "24790,24780,24744,24743,24804,24773,24808,24794,25090,25097",
+        "core_id": 1968.0
+      }
+    },
+    {
+      "id": "variant-521b0cc8-e04b-5f97-9b43-a79d6fd82c49",
+      "score": 0.83863807,
+      "metadata": {
+        "text": "core_product_name: scaffolding plank",
+        "raw_product_name": "SCAFFOLDING PLANKS",
+        "list_of_product_ids": "24766,24791,24781,24765,24776,24809,24795,24805,25091",
+        "core_id": 1971.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.8369096,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-a47fe2d5-edbc-5cd2-abb3-fb602932eb9f",
+      "score": 0.8349934,
+      "metadata": {
+        "text": "core_product_name: flange | material: Duplex Steel",
+        "raw_product_name": "FLANGES -DUPLEX STEEL",
+        "list_of_product_ids": "17453,17452,24558,24654",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-8d673dbf-1de8-5b40-88b9-ca80760e9e80",
+      "score": 0.8326192,
+      "metadata": {
+        "text": "core_product_name: interlocking tile",
+        "raw_product_name": "INTERLOCKING TILES",
+        "list_of_product_ids": "9533,9553,14435,14504,14509,20239,23697,35254,35253",
+        "core_id": 1283.0
+      }
+    },
+    {
+      "id": "variant-f506cba3-f0ea-5c7a-a56b-eeb6ee71ef92",
+      "score": 0.8320446,
+      "metadata": {
+        "text": "core_product_name: damper | operating_conditions: Air and Gas services",
+        "raw_product_name": "Dampers (Air and Gas services)",
+        "list_of_product_ids": "7,471,714,411,975",
+        "core_id": 553.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.8308511,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-4a40dd6f-7d8c-58dc-b47f-6a3a3bf50a6e",
+      "score": 0.8300036,
+      "metadata": {
+        "text": "core_product_name: site fabrication and erection",
+        "raw_product_name": "FABRICATION & ERECTION (SITE)",
+        "list_of_product_ids": "260,232,602,226,692",
+        "core_id": 789.0
+      }
+    },
+    {
+      "id": "variant-71375a23-b4b8-5f79-9289-52ed93bee593",
+      "score": 0.82953185,
+      "metadata": {
+        "text": "core_product_name: fitting | material: Cast Iron (CI)",
+        "raw_product_name": "FITTINGS -CAST IRON (CI)",
+        "list_of_product_ids": "7618,7292,7881,15941,16290,16308,34586,35732,35733",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-7e2d6aa3-d1a8-5e98-bd8c-ce8cbb63daf6",
+      "score": 0.82913035,
+      "metadata": {
+        "text": "core_product_name: casting | material: Cast Iron",
+        "raw_product_name": "CASTING -CAST IRON",
+        "list_of_product_ids": "21885,21883,24612,39753,39842,39868,39927,40032",
+        "core_id": 91.0
+      }
+    },
+    {
+      "id": "variant-fa3435b9-0759-5334-b68d-5171248fbf55",
+      "score": 0.82865113,
+      "metadata": {
+        "text": "core_product_name: dense castable | material: Refractory",
+        "raw_product_name": "DENSE REFRACTORY CASTABLE",
+        "list_of_product_ids": "6139,5309,10462,8832,8835,8847,8849,8865,9604,9620,9628,9661,9666,9657,9801,13155,24304,24300,24301,24302",
+        "core_id": 569.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.8284732,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-1c970bab-ac0f-5ea7-b0b2-e3743073ef71",
+      "score": 0.8283542,
+      "metadata": {
+        "text": "core_product_name: plug valve | material: CI (Cast Iron)",
+        "raw_product_name": "VALVE PLUG CI",
+        "list_of_product_ids": "14077,23666,23304,23289,23650,35583",
+        "core_id": 2366.0
+      }
+    },
+    {
+      "id": "variant-ad831c60-442f-576b-a484-152182beebb9",
+      "score": 0.82785636,
+      "metadata": {
+        "text": "core_product_name: hollow section | material: Steel | type_or_class: Structural",
+        "raw_product_name": "STRUCTURAL STEEL ( HOLLOW SECTIONS)",
+        "list_of_product_ids": "9,526,954,613,014",
+        "core_id": 2138.0
+      }
+    },
+    {
+      "id": "variant-51099c41-aa43-5333-9366-8cb60cfc4c26",
+      "score": 0.82762367,
+      "metadata": {
+        "text": "core_product_name: flange | material: Incoloy",
+        "raw_product_name": "FLANGES (INCOLOY)",
+        "list_of_product_ids": "20905,24572,24650,37037",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-27d47a5b-cdb8-5216-8bbe-6b319d964776",
+      "score": 0.82757246,
+      "metadata": {
+        "text": "core_product_name: accommodation ladder",
+        "raw_product_name": "ACCOMMODATION LADDER",
+        "list_of_product_ids": "260,502,604,926,682",
+        "core_id": 31.0
+      }
+    },
+    {
+      "id": "variant-ceb42176-0014-5d31-ac0e-5f3425afa6fa",
+      "score": 0.82718545,
+      "metadata": {
+        "text": "core_product_name: cladding | material: Metal",
+        "raw_product_name": "METAL CLADDING",
+        "list_of_product_ids": "15590,15511,15586,15914,15587,33507",
+        "core_id": 1465.0
+      }
+    },
+    {
+      "id": "variant-06564800-2b69-5de3-9d0f-ad64576d6ddf",
+      "score": 0.82700264,
+      "metadata": {
+        "text": "core_product_name: flange | material: Duplex SS (Stainless Steel)",
+        "raw_product_name": "FLANGES - (DUPLEX SS)",
+        "list_of_product_ids": "7592,7267,13066,13217,16007,17667,17652,19840,24557",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-6bcc96d8-032f-56aa-854b-e9d5990731a4",
+      "score": 0.8269276,
+      "metadata": {
+        "text": "core_product_name: rolled section | material: Steel | type_or_class: Structural",
+        "raw_product_name": "STRUCTURAL STEEL ( ROLLED SECTIONS)",
+        "list_of_product_ids": "9,525,954,513,013",
+        "core_id": 2139.0
+      }
+    },
+    {
+      "id": "variant-675b1b69-a253-53ce-8d7f-a235969cc0f4",
+      "score": 0.8267453,
+      "metadata": {
+        "text": "core_product_name: displacer level instrument",
+        "raw_product_name": "DISPLACER LEVEL INSTRUMENTS",
+        "list_of_product_ids": "6621,5791,11688,11697,11713,15120,15152,15319,15321,15323,15325,17082,21752,23534,32959,36210,36359,40024",
+        "core_id": 599.0
+      }
+    },
+    {
+      "id": "variant-7abf6a23-caeb-58fb-9988-2238d2b1f272",
+      "score": 0.8264194,
+      "metadata": {
+        "text": "core_product_name: flange | material: Ferrous",
+        "raw_product_name": "FERROUS FLANGES",
+        "list_of_product_ids": "23432,23431,23430,23429,24574,24648,26898,26900,26897,26896,37030",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-cd9b6be5-fa41-56db-a70b-16686d51173b",
+      "score": 0.8262329,
+      "metadata": {
+        "text": "core_product_name: duplex strainer | type_or_class: Duplex",
+        "raw_product_name": "STRAINER-(DUPLEX TYPE)",
+        "list_of_product_ids": "388,903,889,138,924",
+        "core_id": 2132.0
+      }
+    },
+    {
+      "id": "variant-ea91e298-a5e8-5fb5-9567-6e22f6a8d8d7",
+      "score": 0.8260891,
+      "metadata": {
+        "text": "core_product_name: quick opening closure | type_or_class: pipelines",
+        "raw_product_name": "QUICK OPENING CLOSURE(PIPELINES)",
+        "list_of_product_ids": "5373,6204,11485,16151,23564,30766,30901,36603",
+        "core_id": 1849.0
+      }
+    },
+    {
+      "id": "variant-075206d1-bd60-5b2f-a91d-063ca6d091d3",
+      "score": 0.8260705,
+      "metadata": {
+        "text": "core_product_name: metal | material: Ferrous",
+        "raw_product_name": "FERROUS METALS",
+        "list_of_product_ids": "1,413,322,873",
+        "core_id": 809.0
+      }
+    },
+    {
+      "id": "variant-d69adfa3-0450-5ca4-941b-112665d0bb41",
+      "score": 0.8260437,
+      "metadata": {
+        "text": "core_product_name: gate valve | material: Cast Iron",
+        "raw_product_name": "VALVE GATE CAST IRON",
+        "list_of_product_ids": "7133,7460,11512,11979,17819,35528,39520,39843,39869,39928,40203",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-fb879217-9876-5ce0-86f6-605e1593cb4e",
+      "score": 0.8258981,
+      "metadata": {
+        "text": "core_product_name: diaphragm closure",
+        "raw_product_name": "DIAPHRAGM CLOSURE",
+        "list_of_product_ids": "19131,19138,19139,38481",
+        "core_id": 583.0
+      }
+    }
+  ]
+}

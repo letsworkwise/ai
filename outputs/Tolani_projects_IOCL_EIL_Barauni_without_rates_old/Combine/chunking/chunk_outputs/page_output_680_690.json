@@ -1,0 +1,148 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Fit-up and welding CS piping",
+      "core_product_name": "cs piping welding",
+      "acronymed_core_product_name": "cs piping",
+      "size": "",
+      "feature_or_specifications": "feature: fit-up and welding",
+      "quantity": "480.0",
+      "unit": "Inch Dia"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "NDT Testing DYE PENETRATION / MAGNETIC PARTICLE TEST Performing of magnetic particle test or dye penetration test DP TEST LENGTH(BW&SW)",
+      "core_product_name": "ndt testing",
+      "acronymed_core_product_name": "ndt testing",
+      "size": "",
+      "feature_or_specifications": "test type: dye penetration, test type: magnetic particle, feature: performing of magnetic particle test or dye penetration test, test length type: bw&sw",
+      "quantity": "150.0",
+      "unit": "Inch"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "NDT Testing DYE PENETRATION / MAGNETIC PARTICLE TEST Performing of magnetic particle test or dye penetration test MAGNETIC PARTICLE TEST",
+      "core_product_name": "ndt testing",
+      "acronymed_core_product_name": "ndt testing",
+      "size": "",
+      "feature_or_specifications": "test type: magnetic particle, feature: performing of magnetic particle test or dye penetration test",
+      "quantity": "150.0",
+      "unit": "Inch"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      680,
+      689
+    ],
+    "original_rows": [
+      {
+        "0": 681,
+        "1": 0,
+        "2": "01GC.27.1.4",
+        "3": "Fit-up and welding CS piping",
+        "4": 480.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 682,
+        "1": 0,
+        "2": "01GC.28",
+        "3": "NDT Testing",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 683,
+        "1": 0,
+        "2": "01GC.28.1",
+        "3": "DYE PENETRATION / MAGNETIC PARTICLE TEST Performing of magnetic particle test or dye penetration test",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 684,
+        "1": 0,
+        "2": "01GC.28.1.1",
+        "3": "DP TEST LENGTH(BW&SW)",
+        "4": 150.0,
+        "5": "Inch",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 685,
+        "1": 0,
+        "2": "01GC.28.1.2",
+        "3": "MAGNETIC PARTICLE TEST",
+        "4": 150.0,
+        "5": "Inch",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 686,
+        "1": 0,
+        "2": "01GC.30",
+        "3": "Installation of Valve",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 687,
+        "1": 0,
+        "2": "01GC.30.1",
+        "3": "Transportation of all kind of valves( including special and motor operated valves) from owner's storage point to",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 688,
+        "1": 0,
+        "2": "01GC.30.1.1",
+        "3": "Flanged/ Wafer Valves",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 689,
+        "1": 0,
+        "2": "01GC.30.1.1.1V2",
+        "3": "Nominal Dia.   8 Inch",
+        "4": 9.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 690,
+        "1": 0,
+        "2": "01GC.32",
+        "3": "Dismantling works",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2352,
+    "completion_tokens": 588
+  }
+}

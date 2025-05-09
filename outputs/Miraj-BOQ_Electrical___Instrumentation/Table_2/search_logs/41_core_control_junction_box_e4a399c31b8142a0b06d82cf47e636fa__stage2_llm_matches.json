@@ -1,0 +1,87 @@
+{
+  "query": "core_product_name: control junction box | size: inlet: 12, outlet: 2 | feature_or_specifications: color: grey, flame proof: yes, ex-proof: yes, body material: die cast AL LM6 (aluminium LM6), area suitability: hazardous area of zone 1, group IIA/IIB, temperature class: T3 or better, approval: PESO/CMIFR, accessories: certified flameproof/exproof SS316 (stainless steel 316) double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners, specification: as per specifications/documents",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: flame proof junction box | protection_features: Flame proof",
+        "raw_product_name": "JUNCTION BOXES (FLAME PROOF)",
+        "list_of_product_ids": [
+          "6417",
+          "5587",
+          "11078",
+          "11075",
+          "10304",
+          "11324",
+          "10578",
+          "10585",
+          "10555",
+          "10601",
+          "10686",
+          "8207",
+          "8208",
+          "8402",
+          "15922",
+          "16008",
+          "16029",
+          "16025",
+          "26747",
+          "26746",
+          "33512",
+          "35769"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: junction box",
+        "raw_product_name": "JUNCTION BOXES",
+        "list_of_product_ids": [
+          "5960",
+          "6788",
+          "10303",
+          "10552",
+          "10606",
+          "8206",
+          "8209",
+          "15928",
+          "17373",
+          "18803",
+          "24168",
+          "22859",
+          "27495",
+          "36562",
+          "36607",
+          "35775",
+          "35887",
+          "35865",
+          "35940",
+          "36519",
+          "39357"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: cast product | material: Aluminium",
+        "raw_product_name": "CAST ALUMINIUM",
+        "list_of_product_ids": [
+          "249",
+          "682",
+          "496",
+          "726",
+          "776"
+        ]
+      }
+    }
+  ]
+}

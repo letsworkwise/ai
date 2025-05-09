@@ -1,0 +1,439 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8601592,
+      "text": "core_product_name: fixed switch board | mounting_or_installation: for package equipments | protection_features: flame proof",
+      "core_id": 2168.0,
+      "raw_product_name": "SWITCH BOARD FIXED FOR PACKAGE EQUIPMENTS FLAME PROOF",
+      "list_of_product_ids": [
+        "13973",
+        "14603",
+        "14849",
+        "19440",
+        "20280",
+        "22864",
+        "35781"
+      ]
+    },
+    {
+      "retrieval_score": 0.8601526,
+      "text": "core_product_name: control switch | type_or_class: Breaker",
+      "core_id": 462.0,
+      "raw_product_name": "CONTROL SWITCHES (BREAKER)",
+      "list_of_product_ids": [
+        "6446",
+        "5616",
+        "9385",
+        "9441",
+        "9442"
+      ]
+    },
+    {
+      "retrieval_score": 0.85773844,
+      "text": "core_product_name: main switchboard",
+      "core_id": 1431.0,
+      "raw_product_name": "MAIN SWITCHBOARD",
+      "list_of_product_ids": [
+        "24309",
+        "19968",
+        "19973",
+        "19967",
+        "19966"
+      ]
+    },
+    {
+      "retrieval_score": 0.85722256,
+      "text": "core_product_name: flow switch | type_or_class: Electrical",
+      "core_id": 939.0,
+      "raw_product_name": "FLOW SWITCHES (ELECTRICAL)",
+      "list_of_product_ids": [
+        "10080",
+        "9559",
+        "9519",
+        "12077",
+        "15127",
+        "15135",
+        "15143",
+        "17313"
+      ]
+    },
+    {
+      "retrieval_score": 0.85503,
+      "text": "core_product_name: switch",
+      "core_id": 603.0,
+      "raw_product_name": "SWITCHES",
+      "list_of_product_ids": [
+        "13967",
+        "14807",
+        "15296",
+        "36552",
+        "17540",
+        "24101",
+        "22217",
+        "22288",
+        "23682"
+      ]
+    },
+    {
+      "retrieval_score": 0.85486627,
+      "text": "core_product_name: switch",
+      "core_id": 603.0,
+      "raw_product_name": "RECEIVER SWITCHES",
+      "list_of_product_ids": [
+        "137",
+        "612",
+        "033",
+        "723",
+        "684"
+      ]
+    },
+    {
+      "retrieval_score": 0.85486627,
+      "text": "core_product_name: switch",
+      "core_id": 603.0,
+      "raw_product_name": "DISTANCE SWITCHES",
+      "list_of_product_ids": [
+        "19150",
+        "27607",
+        "19152",
+        "38467"
+      ]
+    },
+    {
+      "retrieval_score": 0.8547445,
+      "text": "core_product_name: switch",
+      "core_id": 603.0,
+      "raw_product_name": "LEVEL SWITCHES",
+      "list_of_product_ids": [
+        "13588",
+        "14220",
+        "17089",
+        "17076",
+        "17070",
+        "17066",
+        "23998",
+        "21753",
+        "31744",
+        "36106"
+      ]
+    },
+    {
+      "retrieval_score": 0.8538182,
+      "text": "core_product_name: level switch | type_or_class: Capacitance Type",
+      "core_id": 1337.0,
+      "raw_product_name": "LEVEL SWITCHES (CAPACITANCE TYPE)",
+      "list_of_product_ids": [
+        "13589",
+        "15247",
+        "15261",
+        "19429"
+      ]
+    },
+    {
+      "retrieval_score": 0.8529129,
+      "text": "core_product_name: switchgear",
+      "core_id": 1178.0,
+      "raw_product_name": "SWITCHGEAR",
+      "list_of_product_ids": [
+        "20771",
+        "20773",
+        "21200",
+        "27083",
+        "36613",
+        "36676",
+        "35358"
+      ]
+    },
+    {
+      "retrieval_score": 0.85290325,
+      "text": "core_product_name: switch | material: Mercury",
+      "core_id": 603.0,
+      "raw_product_name": "MERCURY SWITCHES",
+      "list_of_product_ids": [
+        "1",
+        "642",
+        "516",
+        "474"
+      ]
+    },
+    {
+      "retrieval_score": 0.8526344,
+      "text": "core_product_name: proximity switch | type_or_class: Inductive",
+      "core_id": 1799.0,
+      "raw_product_name": "PROXIMITY SWITCHES (INDUCTIVE)",
+      "list_of_product_ids": [
+        "19091",
+        "19106",
+        "19087",
+        "36749",
+        "38450",
+        "36719"
+      ]
+    },
+    {
+      "retrieval_score": 0.8513349,
+      "text": "core_product_name: miniature type hardwire console item",
+      "core_id": 1480.0,
+      "raw_product_name": "MINIATURE TYPE HARDWIRE CONSOLE ITEMS",
+      "list_of_product_ids": [
+        "5935",
+        "6764",
+        "10918",
+        "10920",
+        "10919"
+      ]
+    },
+    {
+      "retrieval_score": 0.8512893,
+      "text": "core_product_name: electromechanical level switch | type_or_class: Electromechanical",
+      "core_id": 1338.0,
+      "raw_product_name": "LEVEL SWITCH ELECTROMECH TYPE",
+      "list_of_product_ids": [
+        "135",
+        "792",
+        "317",
+        "831",
+        "747"
+      ]
+    },
+    {
+      "retrieval_score": 0.8512398,
+      "text": "core_product_name: level switch | type_or_class: Ultrasonic",
+      "core_id": 1337.0,
+      "raw_product_name": "LEVEL SWITCH ULTRASONIC TYPE",
+      "list_of_product_ids": [
+        "135",
+        "842",
+        "317",
+        "531",
+        "748"
+      ]
+    },
+    {
+      "retrieval_score": 0.84989715,
+      "text": "core_product_name: digital switch | operating_conditions: Temperature | mounting_or_installation: Panel mounted",
+      "core_id": 592.0,
+      "raw_product_name": "DIGITAL TEMP SWITCH PANEL MOUNTED TYPE",
+      "list_of_product_ids": [
+        "164",
+        "041",
+        "650",
+        "716",
+        "513"
+      ]
+    },
+    {
+      "retrieval_score": 0.8496215,
+      "text": "core_product_name: modular switch",
+      "core_id": 1493.0,
+      "raw_product_name": "MODULAR SWITCH",
+      "list_of_product_ids": [
+        "756",
+        "072",
+        "347",
+        "934"
+      ]
+    },
+    {
+      "retrieval_score": 0.8495812,
+      "text": "core_product_name: flow switch | type_or_class: Pneumatic",
+      "core_id": 939.0,
+      "raw_product_name": "FLOW SWITCHES (PNEUMATIC)",
+      "list_of_product_ids": [
+        "10079",
+        "9558",
+        "9518",
+        "12076",
+        "12886",
+        "15134",
+        "15142",
+        "17312"
+      ]
+    },
+    {
+      "retrieval_score": 0.8491191,
+      "text": "core_product_name: capacitive proximity switch | type_or_class: Capacitive",
+      "core_id": 1798.0,
+      "raw_product_name": "PROXIMITY SWITCHES (CAPACITIVE)",
+      "list_of_product_ids": [
+        "19086",
+        "19090",
+        "19107",
+        "38448",
+        "36720",
+        "36750"
+      ]
+    },
+    {
+      "retrieval_score": 0.848726,
+      "text": "core_product_name: switch plate",
+      "core_id": 2169.0,
+      "raw_product_name": "SWITCH PLATE",
+      "list_of_product_ids": [
+        "20511",
+        "20547",
+        "20587",
+        "20634",
+        "20689",
+        "20747"
+      ]
+    },
+    {
+      "retrieval_score": 0.8484402,
+      "text": "core_product_name: network switch",
+      "core_id": 1541.0,
+      "raw_product_name": "NETWORK SWITCHES",
+      "list_of_product_ids": [
+        "5945",
+        "6774",
+        "7942",
+        "7941",
+        "11855"
+      ]
+    },
+    {
+      "retrieval_score": 0.848224,
+      "text": "core_product_name: fixed switchboard",
+      "core_id": 2175.0,
+      "raw_product_name": "SWITCHBOARD FIXED FOR PACKAGE EQUIPTS",
+      "list_of_product_ids": [
+        "5562",
+        "6391",
+        "10610",
+        "11364",
+        "8428",
+        "12734",
+        "15926",
+        "17932",
+        "22774",
+        "22840",
+        "24466",
+        "24465",
+        "24460",
+        "24454",
+        "19305"
+      ]
+    },
+    {
+      "retrieval_score": 0.84803665,
+      "text": "core_product_name: heavy duty switch",
+      "core_id": 1118.0,
+      "raw_product_name": "HEAVY DUTY SWITCHES",
+      "list_of_product_ids": [
+        "6451",
+        "5621",
+        "24539",
+        "24538"
+      ]
+    },
+    {
+      "retrieval_score": 0.8479523,
+      "text": "core_product_name: fixed switch board",
+      "core_id": 2168.0,
+      "raw_product_name": "SWITCH BOARD FIXED",
+      "list_of_product_ids": [
+        "1",
+        "396",
+        "614",
+        "611"
+      ]
+    },
+    {
+      "retrieval_score": 0.84795177,
+      "text": "core_product_name: junction box",
+      "core_id": 1311.0,
+      "raw_product_name": "JUNCTION BOXES",
+      "list_of_product_ids": [
+        "5960",
+        "6788",
+        "10303",
+        "10552",
+        "10606",
+        "8206",
+        "8209",
+        "15928",
+        "17373",
+        "18803",
+        "24168",
+        "22859",
+        "27495",
+        "36562",
+        "36607",
+        "35775",
+        "35887",
+        "35865",
+        "35940",
+        "36519",
+        "39357"
+      ]
+    },
+    {
+      "retrieval_score": 0.84776175,
+      "text": "core_product_name: control switch",
+      "core_id": 462.0,
+      "raw_product_name": "CONTROL SWITCH",
+      "list_of_product_ids": [
+        "140",
+        "491",
+        "529",
+        "838",
+        "269"
+      ]
+    },
+    {
+      "retrieval_score": 0.8470268,
+      "text": "core_product_name: level switch | type_or_class: Radar Type",
+      "core_id": 1337.0,
+      "raw_product_name": "LEVEL SWITCH RADAR TYPE",
+      "list_of_product_ids": [
+        "1",
+        "358",
+        "231",
+        "746"
+      ]
+    },
+    {
+      "retrieval_score": 0.84679794,
+      "text": "core_product_name: main column | type_or_class: Plus and Box",
+      "core_id": 1426.0,
+      "raw_product_name": "MAIN COLUMNS (PLUS AND BOX)",
+      "list_of_product_ids": [
+        "20898",
+        "20976",
+        "21907",
+        "22020",
+        "22087",
+        "22118"
+      ]
+    },
+    {
+      "retrieval_score": 0.8458589,
+      "text": "core_product_name: fuse switch combination",
+      "core_id": 991.0,
+      "raw_product_name": "FUSE SWITCH COMBINATION",
+      "list_of_product_ids": [
+        "6470",
+        "5641",
+        "10189",
+        "19034",
+        "19033",
+        "19032",
+        "26087",
+        "38285"
+      ]
+    },
+    {
+      "retrieval_score": 0.84578305,
+      "text": "core_product_name: micro switch",
+      "core_id": 1472.0,
+      "raw_product_name": "MICRO SWITCHES",
+      "list_of_product_ids": [
+        "164",
+        "261",
+        "647",
+        "516",
+        "624"
+      ]
+    }
+  ]
+}

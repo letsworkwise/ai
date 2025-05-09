@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: computer chair | feature_or_specifications: manufacturer: godrej or equivalent, quantity for cmh: 3 nos., quantity for security room: 2 nos.",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: furniture",
+        "raw_product_name": "FURNITURE",
+        "list_of_product_ids": [
+          "5947",
+          "6776",
+          "12883",
+          "19413",
+          "19418",
+          "39318"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: equipment",
+        "raw_product_name": "CONTROL ROOM EQUIPMENT",
+        "list_of_product_ids": [
+          "14034",
+          "14815",
+          "17256",
+          "21098"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cabinet",
+        "raw_product_name": "CABINETS",
+        "list_of_product_ids": [
+          "5",
+          "936",
+          "676",
+          "512",
+          "192"
+        ]
+      }
+    }
+  ]
+}

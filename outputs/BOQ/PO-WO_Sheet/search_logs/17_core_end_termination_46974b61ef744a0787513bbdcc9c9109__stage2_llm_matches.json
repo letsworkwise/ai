@@ -1,0 +1,61 @@
+{
+  "query": "core_product_name: end termination | size: cores: 2, size: 2.5 sqmm",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": [
+          "6444",
+          "5614",
+          "11000",
+          "12263",
+          "12344",
+          "15781",
+          "23866",
+          "24503"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": [
+          "21153",
+          "21157",
+          "28575",
+          "36610"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: terminal block",
+        "raw_product_name": "TERMINAL BLOCKS",
+        "list_of_product_ids": [
+          "5940",
+          "6769",
+          "12287",
+          "11388",
+          "8256",
+          "9278",
+          "17855",
+          "18812"
+        ]
+      }
+    }
+  ]
+}

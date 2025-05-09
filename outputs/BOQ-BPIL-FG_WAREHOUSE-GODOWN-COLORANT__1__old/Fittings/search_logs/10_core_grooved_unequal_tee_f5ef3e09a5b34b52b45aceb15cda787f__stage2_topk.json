@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: grooved unequal tee | size: nominal bore: 150X50X150",
+  "retrieval_results": [
+    {
+      "id": "variant-b8c4f5e0-8923-57e8-b479-e98457d37dd1",
+      "score": 0.87328297,
+      "metadata": {
+        "text": "core_product_name: unequal tee",
+        "raw_product_name": "UNEQUAL TEE",
+        "list_of_product_ids": "15470,27764,27754,27744,27734,27724,27777",
+        "core_id": 2320.0
+      }
+    },
+    {
+      "id": "variant-7200274a-d707-5227-ac1e-143a15e80f5e",
+      "score": 0.859941,
+      "metadata": {
+        "text": "core_product_name: barred tee",
+        "raw_product_name": "BARRED TEE",
+        "list_of_product_ids": "14187,22417,27760,27750,27740,27730,27720,27781,36527",
+        "core_id": 175.0
+      }
+    },
+    {
+      "id": "variant-663cf76d-ffc4-5b4c-934a-31949f5c06be",
+      "score": 0.8588238,
+      "metadata": {
+        "text": "core_product_name: tee fitting",
+        "raw_product_name": "FITTINGS –TEES",
+        "list_of_product_ids": "14267,14693,14668,14710,14903,14915,15996,16049,18892,19403,18960,19725,19800,19793,20062,20171,20936,21919,22661,22656,22915,23197,27761,27751,27741,27731,27721,27780,37063,36444,36528",
+        "core_id": 881.0
+      }
+    },
+    {
+      "id": "variant-c054d8e4-1e8c-5ea7-b013-ef07cbeba8a2",
+      "score": 0.8420108,
+      "metadata": {
+        "text": "core_product_name: split tee",
+        "raw_product_name": "SPLIT TEE",
+        "list_of_product_ids": "14008,14586,27763,27753,27743,27733,27723,27778,36529",
+        "core_id": 2084.0
+      }
+    },
+    {
+      "id": "variant-0ac14aa8-88e6-5346-8d34-683abe9ee02e",
+      "score": 0.84187895,
+      "metadata": {
+        "text": "core_product_name: flow tee",
+        "raw_product_name": "FLOW TEE",
+        "list_of_product_ids": "5371,6067,11152,11151,10737,11283,10560,12908,15980,17555,27536,27759,27749,27739,27729,27719,27782,36526",
+        "core_id": 940.0
+      }
+    },
+    {
+      "id": "variant-c4dd5da8-ce81-5c61-9d83-f5bcb7ada524",
+      "score": 0.84156716,
+      "metadata": {
+        "text": "core_product_name: scrapper tee",
+        "raw_product_name": "SCRAPPER TEES",
+        "list_of_product_ids": "13878,14911,15978,16124,17264,17263,17262,17550,18295,27762,27752,27742,27732,27722,27779,34727,34729,34855",
+        "core_id": 1975.0
+      }
+    },
+    {
+      "id": "variant-223a653f-ce26-546e-9630-21d058f384c7",
+      "score": 0.8404194,
+      "metadata": {
+        "text": "core_product_name: grating",
+        "raw_product_name": "GRATINGS",
+        "list_of_product_ids": "218,522,185,428,606",
+        "core_id": 1068.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.8387696,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    },
+    {
+      "id": "variant-9aa36f08-e097-54b1-94fe-8359583782f8",
+      "score": 0.83832586,
+      "metadata": {
+        "text": "core_product_name: orifice fitting",
+        "raw_product_name": "ORIFICE - FITTINGS",
+        "list_of_product_ids": "36537,36541,36539,36546",
+        "core_id": 1602.0
+      }
+    },
+    {
+      "id": "variant-ea615f6d-ddd7-5bf3-89fb-13bae00fb9b0",
+      "score": 0.83809906,
+      "metadata": {
+        "text": "core_product_name: seamless tube | special_attributes: Seamless",
+        "raw_product_name": "SEAMLESS TUBES",
+        "list_of_product_ids": "13885,14712,14878,21559,27372,36957,36666,37273",
+        "core_id": 1987.0
+      }
+    },
+    {
+      "id": "variant-5935ee01-a444-52d8-9615-fa4b0239701e",
+      "score": 0.83730894,
+      "metadata": {
+        "text": "core_product_name: geared motor",
+        "raw_product_name": "Geared Motor",
+        "list_of_product_ids": "7,543,721,735,410",
+        "core_id": 1084.0
+      }
+    },
+    {
+      "id": "variant-c0875fc8-a188-5b80-a701-f51d97ce66b3",
+      "score": 0.8371665,
+      "metadata": {
+        "text": "core_product_name: tube | special_attributes: Seamless | material: Nickel Alloys",
+        "raw_product_name": "PIPE/TUBE-NICKEL ALLOYS (S.LESS & WELDED)",
+        "list_of_product_ids": "6289,5460,10330,7774,7795,7807,7781,13138,17018,17429,19628,21096,21317,21307,30870,30875,37088",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-1b7571e9-3f95-5cec-879a-0f96d023f242",
+      "score": 0.8371446,
+      "metadata": {
+        "text": "core_product_name: large bellow | material: Elastomer",
+        "raw_product_name": "ELASTOMER LARGE BELLOW",
+        "list_of_product_ids": "1,382,321,736",
+        "core_id": 680.0
+      }
+    },
+    {
+      "id": "variant-1fe7927e-8e90-5f04-8015-9cb017b97836",
+      "score": 0.83679557,
+      "metadata": {
+        "text": "core_product_name: tube | material: Titanium",
+        "raw_product_name": "TUBE-TITANIUM",
+        "list_of_product_ids": "6307,5478,13304,30877",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-f126676e-a62f-52a6-ba06-b09e7951e71e",
+      "score": 0.8366054,
+      "metadata": {
+        "text": "core_product_name: forged fitting",
+        "raw_product_name": "FORGED FITTINGS",
+        "list_of_product_ids": "13660,22252,24586,36933",
+        "core_id": 972.0
+      }
+    },
+    {
+      "id": "variant-f9d0f089-635a-5d99-871b-36ab7568eaca",
+      "score": 0.8362755,
+      "metadata": {
+        "text": "core_product_name: cross fitting | special_attributes: Seamless (pipes)",
+        "raw_product_name": "FIITINGS CROSS-FROM SEAMLESS PIPES",
+        "list_of_product_ids": "6319,5490,11288,33988,33987,33986",
+        "core_id": 822.0
+      }
+    },
+    {
+      "id": "variant-92e1ce16-ba84-593a-9661-24d5c90189eb",
+      "score": 0.83615774,
+      "metadata": {
+        "text": "core_product_name: horn gap fuse",
+        "raw_product_name": "HORN GAP FUSE",
+        "list_of_product_ids": "32300,32303,32329,32730,33536",
+        "core_id": 1143.0
+      }
+    },
+    {
+      "id": "variant-544dc9ab-ae62-5a39-abe1-76f2b25d3013",
+      "score": 0.83610904,
+      "metadata": {
+        "text": "core_product_name: averaging pitot tube",
+        "raw_product_name": "AVERAGING PITOT TUBES",
+        "list_of_product_ids": "6605,5775,11735,11732,8454,17137,17303,17681,32958,35161",
+        "core_id": 150.0
+      }
+    },
+    {
+      "id": "variant-10dc0a41-9ee6-56ed-9d8e-405a29cccb61",
+      "score": 0.8351192,
+      "metadata": {
+        "text": "core_product_name: studded tube",
+        "raw_product_name": "TUBE-STUDDED",
+        "list_of_product_ids": "5,991,517,017,614",
+        "core_id": 2285.0
+      }
+    },
+    {
+      "id": "variant-6caf8017-d55b-5441-bf5f-7eaed4cb420b",
+      "score": 0.8350295,
+      "metadata": {
+        "text": "core_product_name: grout",
+        "raw_product_name": "GROUT",
+        "list_of_product_ids": "13748,16708,16707,19125,22869,33348,38480,35419,35432",
+        "core_id": 1078.0
+      }
+    },
+    {
+      "id": "variant-ed951238-4b7d-57d2-a143-ad5933966b07",
+      "score": 0.835009,
+      "metadata": {
+        "text": "core_product_name: sheet | material: Fibre Glass",
+        "raw_product_name": "FIBRE GLASS SHEETS",
+        "list_of_product_ids": "171,122,514,536,124",
+        "core_id": 132.0
+      }
+    },
+    {
+      "id": "variant-72b130b8-f65d-5293-b166-916a12f6b2f4",
+      "score": 0.8347775,
+      "metadata": {
+        "text": "core_product_name: impulse tube",
+        "raw_product_name": "IMPULSE PIPES/TUBES",
+        "list_of_product_ids": "1,368,121,414",
+        "core_id": 1227.0
+      }
+    },
+    {
+      "id": "variant-bef91277-0c1c-513b-a55c-9934dfd07641",
+      "score": 0.8347296,
+      "metadata": {
+        "text": "core_product_name: single chamber orifice fitting",
+        "raw_product_name": "SINGLE CHAMBER ORIFICE FITTINGS",
+        "list_of_product_ids": "20395,20396,20477,20471,20716,20658",
+        "core_id": 2035.0
+      }
+    },
+    {
+      "id": "variant-2453414f-2a7c-5818-8718-a658ff2c6da2",
+      "score": 0.83447134,
+      "metadata": {
+        "text": "core_product_name: tube axial fan",
+        "raw_product_name": "Tube Axial Fan",
+        "list_of_product_ids": "7110,7437,18430,18472,18521,19490",
+        "core_id": 2312.0
+      }
+    },
+    {
+      "id": "variant-c184836f-fc8c-5421-96c9-57703770e0df",
+      "score": 0.8343642,
+      "metadata": {
+        "text": "core_product_name: thermocouple",
+        "raw_product_name": "THERMOCOUPLES",
+        "list_of_product_ids": "6546,5717,16564,17217,24281,36622",
+        "core_id": 2246.0
+      }
+    },
+    {
+      "id": "variant-50965ce0-da9f-5ccd-8e38-934aa3d27a7e",
+      "score": 0.8343466,
+      "metadata": {
+        "text": "core_product_name: reduced bore ball valve",
+        "raw_product_name": "REDUCED BORE BALL VALVE",
+        "list_of_product_ids": "13496,14677,14685,14871,14928,15074,15126,22527,34319,35462",
+        "core_id": 1878.0
+      }
+    },
+    {
+      "id": "variant-b5e87529-625e-552b-b6df-173a5d45618c",
+      "score": 0.83422303,
+      "metadata": {
+        "text": "core_product_name: restriction orifice",
+        "raw_product_name": "RESTRICTION ORIFICE",
+        "list_of_product_ids": "8334,14373,14625,14845,14897,17138,17297,17291,17290,17795,18034,19640,10652,21402,22350,36216,36368",
+        "core_id": 1904.0
+      }
+    },
+    {
+      "id": "variant-39e179f3-e0ea-5033-9ffe-c2ce983fd6a3",
+      "score": 0.83420986,
+      "metadata": {
+        "text": "core_product_name: chequered coil",
+        "raw_product_name": "CHEQUERED COIL",
+        "list_of_product_ids": "26251,31074,29409,29859,29432,29462,29485,29525,29547,29894,30342,29573,31344,31866,31096,31546,30359,31128,31373,31576,30793,29608,30912,30530,25254,25276,25280,25417,30382,31148,25459,25445,25431,29631,25510,25496,25538,25537,30034,30940,25553,25567,25581,25637,25623,25609,25595,25651,25665,25684,25697,25725,25711,25765,25750,25736,25796,25783,25832,25846,31169,31390,31827,25899,25884,25869,25913,30405,30552,25983,26088,26126,25943,26115,29672,30067,30575,31412,26185,26162,26281,26313,30968,31438,31603,26336,26361,30089,30600,26385,26401,26427,26448,26496,26473,26547,26527,26579,26605,26628,26651,25810,26709,30437,30111,30622,25473,26732,26757,26814,26837,29698,26920,26955,26983,30460,31625,27014,30136,27150,27193,27216,27240,31204,27268,27297,29725,30155,30651,27320,30176,31016,31731,27386,27412,27452,27564,27621,27592,29749,31226,30673,31044,27661,27693,27839,27886,27943,27973,29774,30199,28007,31459,28043,28095,28131,31253,31647,28161,28308,28331,30222,28365,30490,31481,28396,28438,28477,28527,30245,31844,28556,28640,28678,28707,29806,31271,31694,28733,28870,28850,28932,28894,29831,30268,30702,31294,28951,28982,29009,29030,30724,31508,29059,29079,30297,31525,29127,30991,31318,29146,29170,29195,29222,29316,31675,29334,29358,29382,30315,31910,31937,31954,31977,32027,31999,32055,32069,32093,32117,32148,32176,32209,32237,32266,32252,32297,32312,32338,32355,32393,32376,32414,32436,32458,32541,32520,32556,32572,32590,32643,32620,32668,32685,32895,32721,32741,32784,32827,32861,32922,32972,33055,33078,33107,33159,33137,33224,33294,33324,33361,33402,33471,33522,33583,33655,33699,33725,33748,33771,33796,33830,33880,33856,33927,33969,34049,34099,34073,34126,34154,34182,34226,34293,34204,34264,34362,34391,34430,34452,34474,34509,34554,34611,34660,34713,34740,34764,34811,34787,34866,34834,34890,34938,35030,35065,35087,35109,35131,35174",
+        "core_id": 343.0
+      }
+    },
+    {
+      "id": "variant-30800f6e-df01-550b-8e26-5c88a2657e32",
+      "score": 0.83420664,
+      "metadata": {
+        "text": "core_product_name: welded fin tube",
+        "raw_product_name": "TUBE-WELDED FIN",
+        "list_of_product_ids": "5,990,516,917,613",
+        "core_id": 2287.0
+      }
+    },
+    {
+      "id": "variant-04f0e0c0-81f9-571a-b333-5c79b34da30d",
+      "score": 0.83415914,
+      "metadata": {
+        "text": "core_product_name: tube | special_attributes: Seamless | material: AS (Alloyed Steel)",
+        "raw_product_name": "PIPE/TUBE- A S (SEAMLESS)",
+        "list_of_product_ids": "6286,5457,10575,10616,10216,10828,6826,6821,7673,7676,7677,7678,7679,7680,7675,7681,7682,12133,12262,12677,17587,24026,24457,30022,29113,37050,39997",
+        "core_id": 88.0
+      }
+    }
+  ]
+}

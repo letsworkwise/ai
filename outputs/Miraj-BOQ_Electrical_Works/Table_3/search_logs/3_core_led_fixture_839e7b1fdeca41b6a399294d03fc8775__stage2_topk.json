@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: led fixture | feature_or_specifications: type: decorative, mounting: surface, driver: integral",
+  "retrieval_results": [
+    {
+      "id": "variant-cf977c7c-e368-56f7-9ce9-23eb8659bb38",
+      "score": 0.87492234,
+      "metadata": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": "13606,16555,16546,16591,16576,17657,17650,17702,17682,18058,20306,20834,21315,22108,23384,35044",
+        "core_id": 1006.0
+      }
+    },
+    {
+      "id": "variant-eb58eb3c-f1fc-59ff-ba71-ccf7d770f771",
+      "score": 0.87147367,
+      "metadata": {
+        "text": "core_product_name: incandescent lighting fixture",
+        "raw_product_name": "INCANDESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19026,19024,19022,19020,19163",
+        "core_id": 1228.0
+      }
+    },
+    {
+      "id": "variant-2e53d84e-e3e8-5b7a-9692-1dff85b1b95f",
+      "score": 0.86584413,
+      "metadata": {
+        "text": "core_product_name: aviation marker lighting fixture | type_or_class: Div.2 (Division 2)",
+        "raw_product_name": "Div.2 Aviation Marker Lighting Fixtures",
+        "list_of_product_ids": "18715,18711,19014,37433",
+        "core_id": 659.0
+      }
+    },
+    {
+      "id": "variant-e4b3d538-ba38-5529-966b-8ba26cabef70",
+      "score": 0.865656,
+      "metadata": {
+        "text": "core_product_name: fitting and fixture | type_or_class: sanitary | type_or_class: plumbing | accessories_or_attachments: mirror or glass",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - MIRROR / GLASS",
+        "list_of_product_ids": "6365,5536,12516,17444,19499,34682",
+        "core_id": 1964.0
+      }
+    },
+    {
+      "id": "variant-e86062e6-2903-51eb-9c92-a29d8a2c92b5",
+      "score": 0.8636756,
+      "metadata": {
+        "text": "core_product_name: fluorescent lighting fixture",
+        "raw_product_name": "FLUORESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19025,19023,19021,19019,19164",
+        "core_id": 951.0
+      }
+    },
+    {
+      "id": "variant-370c43d3-b815-5435-9810-24d97f958927",
+      "score": 0.8636174,
+      "metadata": {
+        "text": "core_product_name: indicating lamp fitting",
+        "raw_product_name": "INDICATING LAMP FITTING",
+        "list_of_product_ids": "20128,20443,20418,20465,20506,20645",
+        "core_id": 1232.0
+      }
+    },
+    {
+      "id": "variant-a807b261-d030-557d-80c2-edb07d018ba1",
+      "score": 0.8616051,
+      "metadata": {
+        "text": "core_product_name: accessory lighting fixture | protection_features: Non Hazardous",
+        "raw_product_name": "LIGHTING FIXTURE & ACCESORY-NON HZARDOUS",
+        "list_of_product_ids": "5630,6459,10568,10188,10179,19512,19508,19540,26082",
+        "core_id": 1352.0
+      }
+    },
+    {
+      "id": "variant-5ce39e66-51d3-5c8d-8399-07e58423611b",
+      "score": 0.8602468,
+      "metadata": {
+        "text": "core_product_name: tube light fixture",
+        "raw_product_name": "TUBE LIGHT FIXTURES",
+        "list_of_product_ids": "139,811,494,021,021",
+        "core_id": 2282.0
+      }
+    },
+    {
+      "id": "variant-8b814fd7-106f-5fd3-a273-6c9340ea527b",
+      "score": 0.8586477,
+      "metadata": {
+        "text": "core_product_name: interior",
+        "raw_product_name": "CONTROL ROOM INTERIOR",
+        "list_of_product_ids": "19384,19379,28261,38713",
+        "core_id": 458.0
+      }
+    },
+    {
+      "id": "variant-d3918fb3-1dcf-5330-9bbe-6452020c252d",
+      "score": 0.8583812,
+      "metadata": {
+        "text": "core_product_name: plumbing fitting and fixture",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+        "list_of_product_ids": "6364,5535,7874,12489,12648,12649,34680,34681",
+        "core_id": 1961.0
+      }
+    },
+    {
+      "id": "variant-4899927d-b320-5265-8d88-74ca5f512243",
+      "score": 0.85816526,
+      "metadata": {
+        "text": "core_product_name: flame proof lighting fixture | protection_features: Flame proof | accessories_or_attachments: Accessories",
+        "raw_product_name": "FLAME PROOF LIGHTING FIXTURES & ACCESSORIES",
+        "list_of_product_ids": "13572,14602,14848,15164,15923,18858,22863,16552,35780",
+        "core_id": 890.0
+      }
+    },
+    {
+      "id": "variant-4e0ba911-cbe0-52b3-9940-995ea28ba1f7",
+      "score": 0.8566224,
+      "metadata": {
+        "text": "core_product_name: electric light fitting | accessories_or_attachments: accessories",
+        "raw_product_name": "ELECTRIC LIGHT FITTINGS (COMM) & ACCESSORIES",
+        "list_of_product_ids": "208,382,083,728,502",
+        "core_id": 704.0
+      }
+    },
+    {
+      "id": "variant-6daccb7e-afc6-52ac-8f19-b716ca12c3a6",
+      "score": 0.85598695,
+      "metadata": {
+        "text": "core_product_name: video wall | material: LED (Light Emitting Diode)",
+        "raw_product_name": "Video Walls (LED)",
+        "list_of_product_ids": "7078,7405,18019,18418,18417",
+        "core_id": 2418.0
+      }
+    },
+    {
+      "id": "variant-e253088d-4ef0-56ec-9d5a-d5f3bacd86f4",
+      "score": 0.8555689,
+      "metadata": {
+        "text": "core_product_name: decorative textured coating",
+        "raw_product_name": "PAINTING WORKS - DECORATIVE TEXTURED COATING",
+        "list_of_product_ids": "6355,5526,12540,12556,15688,14818,14816,15687,16295,20197,20237,20216,34677",
+        "core_id": 1627.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.8540291,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-95684402-79ab-5b53-9acd-20380a03193d",
+      "score": 0.8535726,
+      "metadata": {
+        "text": "core_product_name: integral water proofing compound | mounting_or_installation: in plaster",
+        "raw_product_name": "INTEGRAL WATER PROOFING COMPOUND (IN PLASTER)",
+        "list_of_product_ids": "6372,5543,12484,12488,12461,12478,12523,23882,24155",
+        "core_id": 1282.0
+      }
+    },
+    {
+      "id": "variant-33525379-9060-5b76-8e53-8f90b0e2a756",
+      "score": 0.8528629,
+      "metadata": {
+        "text": "core_product_name: surface texture paint | operating_conditions: Interior",
+        "raw_product_name": "SURFACE TEXTURE PAINT(INTERIOR)",
+        "list_of_product_ids": "200,842,008,020,714",
+        "core_id": 2154.0
+      }
+    },
+    {
+      "id": "variant-2871fae9-7edc-5be1-b153-13a90cdb9355",
+      "score": 0.85204095,
+      "metadata": {
+        "text": "core_product_name: lighting fixture | acronymed_core_product_name: LTG (Lighting) Fixtures | type_or_class: Fluorescent or Incandescent | type_or_class: Class-B",
+        "raw_product_name": "Fluorescent / Incandescent Class-“B” LTG Fixtures",
+        "list_of_product_ids": "18685,18686,18683,32299,18684,19018,35809,35860,35884,35937",
+        "core_id": 1006.0
+      }
+    },
+    {
+      "id": "variant-1e84e4af-7d7e-5d97-adb2-330b0f9887b6",
+      "score": 0.8517564,
+      "metadata": {
+        "text": "core_product_name: hazardous lighting fixture | accessories_or_attachments: accessories",
+        "raw_product_name": "LIGHTING FIXTURE & ACCESSORIES-HAZARDOUS",
+        "list_of_product_ids": "6414,5584,10587,10557,10600,17341,17357,19480,19473,22850,35768,35810,35886,35864,35939,35950,36518",
+        "core_id": 1353.0
+      }
+    },
+    {
+      "id": "variant-de47ff96-bd93-5d30-b6a8-28e7215a5255",
+      "score": 0.8517158,
+      "metadata": {
+        "text": "core_product_name: interface device",
+        "raw_product_name": "INTERFACE DEVICES",
+        "list_of_product_ids": "6630,5800,11596,11597,10310,11701,11702,11703,12288,8405,13108,13117,21089,21081,21077,21070",
+        "core_id": 1280.0
+      }
+    },
+    {
+      "id": "variant-63f28b5e-8d64-503f-938b-d41f4b31f2fd",
+      "score": 0.8513256,
+      "metadata": {
+        "text": "core_product_name: industrial receptacle",
+        "raw_product_name": "INDUSTRIAL RECEPTACLE",
+        "list_of_product_ids": "136,891,479,414,813",
+        "core_id": 1235.0
+      }
+    },
+    {
+      "id": "variant-6f5ecfa8-6693-52e0-8ba6-d305343e1ef8",
+      "score": 0.8512026,
+      "metadata": {
+        "text": "core_product_name: inline inductor",
+        "raw_product_name": "INLINE INDUCTORS",
+        "list_of_product_ids": "6029,5208,8476,8737,16410,23830",
+        "core_id": 1250.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.8511671,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-949ab2fe-ba86-5c1c-8b73-a142920b7378",
+      "score": 0.85115945,
+      "metadata": {
+        "text": "core_product_name: lining | material: Lead",
+        "raw_product_name": "LINING (LEAD)",
+        "list_of_product_ids": "61,665,336",
+        "core_id": 1367.0
+      }
+    },
+    {
+      "id": "variant-a64f210f-8e6e-5798-86ae-8ba83cd224bf",
+      "score": 0.8509827,
+      "metadata": {
+        "text": "core_product_name: site fabricated cladding | accessories_or_attachments: column",
+        "raw_product_name": "COLUMN-CLAD SITE FABRICATED",
+        "list_of_product_ids": "6689,5860,9699,12168,13094,23576",
+        "core_id": 398.0
+      }
+    },
+    {
+      "id": "variant-5b452ea9-dd5f-5e3b-bde6-d56b975fbc36",
+      "score": 0.85065633,
+      "metadata": {
+        "text": "core_product_name: fabricated fitting | material: Plate | construction_features: Cladded",
+        "raw_product_name": "FITTINGS FABRICATED FROM PLATE - CLADDED",
+        "list_of_product_ids": "6326,5497,11561,24593,34020,34019,36846",
+        "core_id": 874.0
+      }
+    },
+    {
+      "id": "variant-c23ef45a-ceb3-5385-9578-20f6040440eb",
+      "score": 0.8504991,
+      "metadata": {
+        "text": "core_product_name: hanger | mounting_or_installation: Supports",
+        "raw_product_name": "Hangers & Supports",
+        "list_of_product_ids": "7538,11523,10958,7212,9703,11838,14955",
+        "core_id": 1215.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.8500536,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-0cb3d965-6b71-56dc-a522-f463c04698ee",
+      "score": 0.84984106,
+      "metadata": {
+        "text": "core_product_name: light fabricated component",
+        "raw_product_name": "LIGHT FABRICATED COMPONENT",
+        "list_of_product_ids": "26019,26018,26017,26690",
+        "core_id": 1347.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.84914935,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    }
+  ]
+}

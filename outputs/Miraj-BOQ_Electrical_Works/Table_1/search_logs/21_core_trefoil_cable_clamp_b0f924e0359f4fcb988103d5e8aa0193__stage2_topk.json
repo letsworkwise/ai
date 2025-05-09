@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: trefoil cable clamp | size: cable: 1Cx185 mm2, diameter: 40mm | feature_or_specifications: voltage: 6.6 kV (unarmoured extruded), conductor material: aluminium, insulation: XLPE (cross-linked polyethylene), sheath: FRLS (flame retardant low smoke) PVC (polyvinyl chloride), sheathed: armoured cables, material: PVC (polyvinyl chloride)",
+  "retrieval_results": [
+    {
+      "id": "variant-81a14c31-0118-5e0b-b544-f02bc84e131a",
+      "score": 0.8712958,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 132kV (132 kilovolt) | material: XLPE (cross-linked polyethylene)",
+        "raw_product_name": "132kV CABLE XLPE",
+        "list_of_product_ids": "14146,15782,20052,24050,23901",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-0ff35c17-29e9-57ef-9128-f170e7baffc4",
+      "score": 0.87028635,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 33kV | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "33kV cable XLPE",
+        "list_of_product_ids": "14154,15792,16795,20142,24052,20057,23903",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-11b5ebb2-c136-58d8-ae90-c22c25a8234c",
+      "score": 0.8696986,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 220 kV (kilovolt) | material: XLPE (cross-linked polyethylene)",
+        "raw_product_name": "220 kV CABLE XLPE",
+        "list_of_product_ids": "14151,15785,20056,24051,23902",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-b2934f72-046a-511c-b279-1e68e75f481c",
+      "score": 0.8665208,
+      "metadata": {
+        "text": "core_product_name: control cable | material: PVC (Polyvinyl Chloride) | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES:CONTROL-PVC/XLPE",
+        "list_of_product_ids": "6422,5592,10193,11360,10665,11368,11745,12088,12118,13289,13295,16038,16281,17782,23991,23860,40317",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-a6c0fc04-eafb-59b9-80b3-216525c393ef",
+      "score": 0.86566776,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 11KV (11 kiloVolt) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "11KV CABLE XLPE",
+        "list_of_product_ids": "23938,24087,21515,27081",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-b6f3af29-639b-56b2-8d8c-1891bd3bd4bf",
+      "score": 0.86515814,
+      "metadata": {
+        "text": "core_product_name: control cable | type_or_class: Unpaired | material: PVC (Polyvinyl Chloride) or XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES:CONTROL (UNPAIRED)-PVC/XLPE",
+        "list_of_product_ids": "8994,8997,9355,9364,9372,9383,9381,9390,9395,9456,9192,9198,9195,9196,9201,9202,9205,9208,9296,9357,9370,9374,14648,24043,23894,27028,27032,27033,27031,38755,38840,38595,38621,38704,38781,38649,38729,38872,38914,38940,38676,38977,39004,39032,39068,39100,39130,39178,39217,39259,39301,39337,39373,39402,39432,39483,39538,39565,39603,39627,39655,39689,39729,39799,39827,39898",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-c1595de7-9673-5e8f-846d-3386450520fc",
+      "score": 0.8625713,
+      "metadata": {
+        "text": "core_product_name: power cable | size_or_capacity: medium voltage | material: PVC (Polyvinyl Chloride) or XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES-MEDIUM VOLTAGE-POWER-PVC/XLPE",
+        "list_of_product_ids": "8987,9004,10662,9469,9472,9476,9356,9366,9382,9393,9454,9191,9197,9193,9199,9203,9206,9209,9295,9359,9369,9373,15970,19317,19309,19311,17781,19314,16908,24041,23892,26973,27004,27003,19310,38593,38753,38647,36581,38619,38702,38779,38727,38870,38838,38912,38938,38674,38975,39002,39030,39066,39098,39128,39176,39215,39257,39299,39335,39371,39400,39430,39481,39536,39563,39601,39625,39653,39687,39727,39797,39825,39896",
+        "core_id": 3.0
+      }
+    },
+    {
+      "id": "variant-50985070-9f03-5bda-8aff-50bb3ee6ccad",
+      "score": 0.86227924,
+      "metadata": {
+        "text": "core_product_name: fire retardant low smoke cable | acronymed_core_product_name: frls cable (fire retardant low smoke cable) | size_or_capacity: 1.1 KV | protection_features: fire retardant | protection_features: low smoke | type_or_class: FRLS (Fire Retardant Low Smoke)",
+        "raw_product_name": "1.1 KV FIRE RETARDANT LOW SMOKE CABLES(FRLS)",
+        "list_of_product_ids": "1,029,021,403",
+        "core_id": 5.0
+      }
+    },
+    {
+      "id": "variant-d653c619-066e-5b89-be58-292fd0a2d594",
+      "score": 0.85906714,
+      "metadata": {
+        "text": "core_product_name: high voltage cable | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES-HIGH VOLTAGE-XLPE",
+        "list_of_product_ids": "6420,5590,10186,10816,11366,10660,10881,12079,12087,16280,23989,23858,26941,26939,26938,26937,26936,26935,36582",
+        "core_id": 289.0
+      }
+    },
+    {
+      "id": "variant-f82843f0-a52d-5369-bcf3-ffa6d37113cf",
+      "score": 0.8565821,
+      "metadata": {
+        "text": "core_product_name: control cable | type_or_class: Unpaired | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES-CONTROL (UNPAIRED)-XLPE",
+        "list_of_product_ids": "13730,14825,24063,23915",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-4dd90f9e-4a1a-51a9-85b8-5801fa7498c6",
+      "score": 0.85313255,
+      "metadata": {
+        "text": "core_product_name: control cable | size_or_capacity: 1100 Volts | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "1100 VOLTS GRADE PVC CONTROL CABLES",
+        "list_of_product_ids": "23936,24085,21514,28591",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-f8a1ee85-e2d7-59eb-a075-771e231186d7",
+      "score": 0.84454745,
+      "metadata": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC Conduit",
+        "list_of_product_ids": "16287,17401,21575,16288",
+        "core_id": 442.0
+      }
+    },
+    {
+      "id": "variant-0a06fbf2-0b0e-570c-bf1f-98af8e2f23ed",
+      "score": 0.84358203,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: xlpe cable | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "XLPE CABLE",
+        "list_of_product_ids": "23937,24086,21510,27082",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-7930aac4-4837-5a2d-9160-b0e71f7b6da1",
+      "score": 0.84106326,
+      "metadata": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride) | accessories_or_attachments: accessories",
+        "raw_product_name": "PVC Conduit and accessories",
+        "list_of_product_ids": "7222,7548,10494,10502",
+        "core_id": 442.0
+      }
+    },
+    {
+      "id": "variant-bb001d38-b128-522d-9d87-0b59ec1edf02",
+      "score": 0.84009963,
+      "metadata": {
+        "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+        "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+        "list_of_product_ids": "140,901,478,121,282",
+        "core_id": 313.0
+      }
+    },
+    {
+      "id": "variant-f9b90487-4157-56f3-bf76-37e9d21a83f4",
+      "score": 0.83963937,
+      "metadata": {
+        "text": "core_product_name: cable | material: PTFE (Polytetrafluoroethylene)",
+        "raw_product_name": "PTFE CABLE",
+        "list_of_product_ids": "24083,21245,21237,23934,27352",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-910635db-1f6d-5b76-ae03-05bdfcbe87d3",
+      "score": 0.83886606,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: ht (high tension) cable | size_or_capacity: up to 11kV | type_or_class: HT (High Tension) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "HT (up to 11kV) cable XLPE",
+        "list_of_product_ids": "13659,14787,14826,15794,16794,20058,20143,24054,23905",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-0d864684-0c5c-5fb0-b8da-da3982f30c1f",
+      "score": 0.8376719,
+      "metadata": {
+        "text": "core_product_name: cable tray | material: FRP (Fibre Reinforced Plastic)",
+        "raw_product_name": "CABLE TRAYS-FRP",
+        "list_of_product_ids": "6448,5618,7011,10644,7897,8783,8785,8786,8784,9181,17329,17325,18877,18923,26431,36084",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-b6ead048-663b-5a2b-91c5-5138c715e072",
+      "score": 0.8363496,
+      "metadata": {
+        "text": "core_product_name: power and control cable | type_or_class: LT (Low Tension) Power and Control | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLE – LT POWER & CONTROL(XPLE)",
+        "list_of_product_ids": "14190,19114,15162,16034,19097,19096,20131,24055,23906",
+        "core_id": 286.0
+      }
+    },
+    {
+      "id": "variant-b90e4959-0e4c-5eb5-9820-fa2c177b2ecd",
+      "score": 0.83554155,
+      "metadata": {
+        "text": "core_product_name: pipe-frp (fiber reinforced plastic)",
+        "raw_product_name": "PIPE-FRP",
+        "list_of_product_ids": "6298,5469,10648,8088,8076,8814,12261,12381,8812,12536,13160,13175,13190,13203,13169,13184,13339,17880",
+        "core_id": 1669.0
+      }
+    },
+    {
+      "id": "variant-0c89508d-0dbf-50ac-b11c-f1fdbb37cb9f",
+      "score": 0.83531153,
+      "metadata": {
+        "text": "core_product_name: tube | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC TUBE",
+        "list_of_product_ids": "223,352,233,327,804",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-6b08bbce-127a-5a9e-a2df-12cef00b7236",
+      "score": 0.83492994,
+      "metadata": {
+        "text": "core_product_name: equipment | acronymed_core_product_name: frp (fiber reinforced plastic) reinforced pvc (polyvinyl chloride) or pp (polypropylene) lined eqpt | material: FRP (Fiber Reinforced Plastic) reinforced | material: PVC (Polyvinyl Chloride) lined | material: PP (Polypropylene) lined",
+        "raw_product_name": "FRP/FRP REINFORCED PVC/PP LINED EQPT",
+        "list_of_product_ids": "6169,5339,8810,13157,13337,18151,18143",
+        "core_id": 460.0
+      }
+    },
+    {
+      "id": "variant-affc3a60-b3e8-5b61-83c3-0bf211340c68",
+      "score": 0.83485377,
+      "metadata": {
+        "text": "core_product_name: armoured cable | construction_features: Armour | special_attributes: Loop",
+        "raw_product_name": "ARMOURED CABLE-(LOOP)",
+        "list_of_product_ids": "9936,9937,9938,8890,8911,8937,8941,8949,8945,8953,9082,9086,9090,9094,9098,19456,19459,19521,19532,19549,19556,23874,24037,24686,27123,27118,27127,27131,27135,27162,27167,27172,27181,27283,27337,27358,27398,27433,27520,27526,27539,27544,27553,27580,27638,27646,27682,27673,27771,27789,27810,27900,27917,27962,28028,28080,28067,28145,28115,28111,28107,28271,28283,28295,28291,28347,28385,28381,28413,28419,28458,28455,28466,28498,28514,38762,38596,38683,38622,38711,38650,38736,38847,38879,38921,38947,38984,39011,39039,39064,39107,39137,39185,39213,39266,39287,39333,39369,39398,39428,39479,39534,39561,38788,39599,39623,39651,39685,39725,39795,39823,39894",
+        "core_id": 130.0
+      }
+    },
+    {
+      "id": "variant-a4fc46d1-dd28-5aaf-b76e-a54ecabd041e",
+      "score": 0.8343645,
+      "metadata": {
+        "text": "core_product_name: handrail | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC HANDRAIL",
+        "list_of_product_ids": "20552,20516,20593,20630,20684,20742,37427",
+        "core_id": 1822.0
+      }
+    },
+    {
+      "id": "variant-921a72d2-68fb-54d7-821d-995601344d9f",
+      "score": 0.83432907,
+      "metadata": {
+        "text": "core_product_name: tape | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC TAPE",
+        "list_of_product_ids": "20688,20548,20512,20595,20589,20746",
+        "core_id": 815.0
+      }
+    },
+    {
+      "id": "variant-731a2417-b478-5c08-b7a2-e9757c4e5536",
+      "score": 0.8342246,
+      "metadata": {
+        "text": "core_product_name: fitting | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC Pipe Fittings",
+        "list_of_product_ids": "13913,16304,16719,22337,22901",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-d01e7f04-41a2-5983-a7cb-2052b99c5edb",
+      "score": 0.8335449,
+      "metadata": {
+        "text": "core_product_name: control cable | protection_features: Fire Survival",
+        "raw_product_name": "CONTROL CABLE - FIRE SURVIVAL",
+        "list_of_product_ids": "6424,5594,10194,10666,11369,11371,12120,13290,15814,17323,17783,23993,23862",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-b38364ed-944e-5328-ae92-c2de4288e310",
+      "score": 0.83285356,
+      "metadata": {
+        "text": "core_product_name: cable tray | acronymed_core_product_name: frp (fiber reinforced plastic) cable tray | material: FRP (Fiber Reinforced Plastic)",
+        "raw_product_name": "CABLE TRAY FRP- Package Type",
+        "list_of_product_ids": "38434,38297,38329,38330,38331,38425",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-76f2380b-e820-5790-96f0-0815dbd8e1a4",
+      "score": 0.8327278,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper | construction_features: PVC (Polyvinyl Chloride) coated",
+        "raw_product_name": "COPPER TUBE (PVC COATED)",
+        "list_of_product_ids": "16380,16442,16464,16437",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-e4fb7566-88cb-5b16-875c-301cb0eb7c64",
+      "score": 0.8323935,
+      "metadata": {
+        "text": "core_product_name: flexible wire and cable | acronymed_core_product_name: fr-lsh wire and cable | type_or_class: FR-LSH (Flame Retardant Low Smoke and Halogen)",
+        "raw_product_name": "FR-LSH FLEXIBLE WIRES AND CABLES",
+        "list_of_product_ids": "39984,39985,39986,39987,39988,40154",
+        "core_id": 982.0
+      }
+    }
+  ]
+}

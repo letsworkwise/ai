@@ -1,0 +1,552 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.85603887,
+      "text": "core_product_name: solenoid valve",
+      "core_id": 2061.0,
+      "raw_product_name": "SOLENOID VALVES",
+      "list_of_product_ids": [
+        "6490",
+        "5661",
+        "11653",
+        "11670",
+        "11456",
+        "11454",
+        "8822",
+        "9136",
+        "12122",
+        "12126",
+        "12138",
+        "12145",
+        "12137",
+        "12176",
+        "12175",
+        "12206",
+        "12207",
+        "17141",
+        "17142",
+        "18479",
+        "18900",
+        "18944",
+        "23735",
+        "22264",
+        "36629",
+        "31448",
+        "36947",
+        "37248",
+        "36688",
+        "40244",
+        "40297"
+      ]
+    },
+    {
+      "retrieval_score": 0.8499246,
+      "text": "core_product_name: fire safe valve | protection_features: fireproof",
+      "core_id": 857.0,
+      "raw_product_name": "FIRE SAFE VALVE",
+      "list_of_product_ids": [
+        "14252",
+        "22821",
+        "37280",
+        "39855",
+        "39936",
+        "40213",
+        "40304"
+      ]
+    },
+    {
+      "retrieval_score": 0.845008,
+      "text": "core_product_name: pressure balanced plug valve | type_or_class: Fire Safe (FS)",
+      "core_id": 2369.0,
+      "raw_product_name": "VALVE PLUG PRESSURE BALANCED (FS)",
+      "list_of_product_ids": [
+        "6211",
+        "5380",
+        "7840",
+        "8136",
+        "8699",
+        "35591"
+      ]
+    },
+    {
+      "retrieval_score": 0.84470713,
+      "text": "core_product_name: safety relief valve",
+      "core_id": 2181.0,
+      "raw_product_name": "Safety Relief Valve",
+      "list_of_product_ids": [
+        "7520",
+        "7194",
+        "10321",
+        "9958",
+        "12013",
+        "12014",
+        "12015",
+        "12091",
+        "12784",
+        "12758",
+        "12775",
+        "17529",
+        "18043",
+        "22348",
+        "36631",
+        "34693",
+        "34695",
+        "34697",
+        "34699",
+        "35702",
+        "36144",
+        "36151",
+        "39885"
+      ]
+    },
+    {
+      "retrieval_score": 0.8441251,
+      "text": "core_product_name: safety valve",
+      "core_id": 1950.0,
+      "raw_product_name": "SAFETY VALVES",
+      "list_of_product_ids": [
+        "14389",
+        "14381",
+        "14554",
+        "15199",
+        "15333"
+      ]
+    },
+    {
+      "retrieval_score": 0.8439782,
+      "text": "core_product_name: deluge valve",
+      "core_id": 565.0,
+      "raw_product_name": "DELUGE VALVE",
+      "list_of_product_ids": [
+        "6385",
+        "5556",
+        "6997",
+        "7010",
+        "9956",
+        "9957",
+        "8289",
+        "8298",
+        "8735",
+        "8882",
+        "8922",
+        "8926",
+        "8930",
+        "8957",
+        "9063",
+        "9068",
+        "9073",
+        "9103",
+        "9146",
+        "12394",
+        "18887",
+        "18933",
+        "23761",
+        "24221",
+        "22765",
+        "22793"
+      ]
+    },
+    {
+      "retrieval_score": 0.8420197,
+      "text": "core_product_name: check valve | construction_features: pre-insulation",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK PRE-INSULATION",
+      "list_of_product_ids": [
+        "1",
+        "544",
+        "118",
+        "796"
+      ]
+    },
+    {
+      "retrieval_score": 0.84186655,
+      "text": "core_product_name: plug valve | type_or_class: FS (Fire Safe)",
+      "core_id": 2366.0,
+      "raw_product_name": "VALVE PLUG FS",
+      "list_of_product_ids": [
+        "14041",
+        "23307",
+        "23295",
+        "23368",
+        "23669",
+        "23653",
+        "35580"
+      ]
+    },
+    {
+      "retrieval_score": 0.8413384,
+      "text": "core_product_name: fire safe valve | protection_features: Fireproof | type_or_class: Feed Water",
+      "core_id": 857.0,
+      "raw_product_name": "FIRE SAFE VALVE - FEED WATER",
+      "list_of_product_ids": [
+        "39716",
+        "39742",
+        "39938",
+        "40070",
+        "40211",
+        "40302"
+      ]
+    },
+    {
+      "retrieval_score": 0.84100896,
+      "text": "core_product_name: globe valve | standards_and_approvals: NACE (National Association of Corrosion Engineers)",
+      "core_id": 1062.0,
+      "raw_product_name": "VALVE GLOBE (NACE)",
+      "list_of_product_ids": [
+        "20246",
+        "20299",
+        "20275",
+        "20332",
+        "20328",
+        "20370",
+        "35552"
+      ]
+    },
+    {
+      "retrieval_score": 0.84054273,
+      "text": "core_product_name: ball valve | protection_features: fire safe | material: C.S (Carbon Steel) | type_or_class: Non NACE (National Association of Corrosion Engineers)",
+      "core_id": 172.0,
+      "raw_product_name": "VALVE BALL FIRE SAFE-C.S NON NACE",
+      "list_of_product_ids": [
+        "16508",
+        "16512",
+        "16598",
+        "16583",
+        "16582",
+        "16575",
+        "16581",
+        "33495",
+        "35486",
+        "36361"
+      ]
+    },
+    {
+      "retrieval_score": 0.8401768,
+      "text": "core_product_name: double disc gate valve",
+      "core_id": 2354.0,
+      "raw_product_name": "VALVE DOUBLE DISC GATE",
+      "list_of_product_ids": [
+        "62",
+        "675",
+        "436"
+      ]
+    },
+    {
+      "retrieval_score": 0.8401404,
+      "text": "core_product_name: induction motor | type_or_class: M.V (Medium Voltage) | protection_features: Flame Proof",
+      "core_id": 1506.0,
+      "raw_product_name": "MOTOR-INDUCTION-M.V (FLAME PROOF)",
+      "list_of_product_ids": [
+        "6405",
+        "5576",
+        "11381",
+        "11386",
+        "9418",
+        "24531",
+        "24530"
+      ]
+    },
+    {
+      "retrieval_score": 0.84001815,
+      "text": "core_product_name: flameproof plug | protection_features: Flameproof",
+      "core_id": 897.0,
+      "raw_product_name": "FLAMEPROOF PLUG",
+      "list_of_product_ids": [
+        "201",
+        "172",
+        "041",
+        "520",
+        "651"
+      ]
+    },
+    {
+      "retrieval_score": 0.83952683,
+      "text": "core_product_name: fire protection system | accessories_or_attachments: Valves and Accessories",
+      "core_id": 858.0,
+      "raw_product_name": "FIRE PROTECTION SYSTEM (VALVES & ACC.)",
+      "list_of_product_ids": [
+        "6603",
+        "5773",
+        "10731",
+        "7858",
+        "35221"
+      ]
+    },
+    {
+      "retrieval_score": 0.8394515,
+      "text": "core_product_name: concentric plug valve | material: CAS (Cast Alloy Steel) | type_or_class: F.S. (Fire Safe) or N.F.S. (Non Fire Safe)",
+      "core_id": 2367.0,
+      "raw_product_name": "VALVE PLUG CONCENTRIC-CAS(F.S. & N.F.S.)",
+      "list_of_product_ids": [
+        "6",
+        "261",
+        "543",
+        "035",
+        "590"
+      ]
+    },
+    {
+      "retrieval_score": 0.83926135,
+      "text": "core_product_name: double block valve | material: CS (Carbon Steel) | type_or_class: NACE (National Association of Corrosion Engineers)",
+      "core_id": 2380.0,
+      "raw_product_name": "VALVES DOUBLE BLOCK - CS NACE",
+      "list_of_product_ids": [
+        "2",
+        "019",
+        "420",
+        "374"
+      ]
+    },
+    {
+      "retrieval_score": 0.8390747,
+      "text": "core_product_name: flameproof convenience outlet | protection_features: Flameproof",
+      "core_id": 892.0,
+      "raw_product_name": "FLAMEPROOF - CONVENIENCE OUTLETS",
+      "list_of_product_ids": [
+        "19657",
+        "19639",
+        "19667",
+        "28279"
+      ]
+    },
+    {
+      "retrieval_score": 0.8390038,
+      "text": "core_product_name: plug multiport valve | protection_features: Non Fire Safe",
+      "core_id": 2368.0,
+      "raw_product_name": "VALVE PLUG MULTIPORT - NON FIRE SAFE",
+      "list_of_product_ids": [
+        "6",
+        "264",
+        "543",
+        "335",
+        "593"
+      ]
+    },
+    {
+      "retrieval_score": 0.8386651,
+      "text": "core_product_name: naval patternised valve",
+      "core_id": 2378.0,
+      "raw_product_name": "VALVES (NAVAL PATTERNISED)",
+      "list_of_product_ids": [
+        "222",
+        "562",
+        "225",
+        "528",
+        "613"
+      ]
+    },
+    {
+      "retrieval_score": 0.8386393,
+      "text": "core_product_name: deluge valve | type_or_class: Diaphragm",
+      "core_id": 565.0,
+      "raw_product_name": "DELUGE VALVE (DIAPHRAGM)",
+      "list_of_product_ids": [
+        "28285",
+        "28287",
+        "28297",
+        "28410",
+        "35575"
+      ]
+    },
+    {
+      "retrieval_score": 0.83827895,
+      "text": "core_product_name: on-off valve",
+      "core_id": 1594.0,
+      "raw_product_name": "ON-OFF VALVES",
+      "list_of_product_ids": [
+        "6494",
+        "5665",
+        "11273",
+        "11719",
+        "9263",
+        "8149",
+        "8160",
+        "8188",
+        "8187",
+        "8386",
+        "8597",
+        "8693",
+        "8669",
+        "8674",
+        "8688",
+        "12185",
+        "12293",
+        "12610",
+        "12821",
+        "12914",
+        "12934",
+        "12959",
+        "12969",
+        "12925",
+        "12935",
+        "12957",
+        "12961",
+        "12967",
+        "12968",
+        "12970",
+        "16129",
+        "16458",
+        "18305",
+        "18468",
+        "18462",
+        "18451",
+        "18447",
+        "18444",
+        "19712",
+        "23746",
+        "21621",
+        "21764",
+        "25964",
+        "28149",
+        "28148",
+        "28147",
+        "31883",
+        "37526",
+        "34316",
+        "36255",
+        "36408"
+      ]
+    },
+    {
+      "retrieval_score": 0.83827305,
+      "text": "core_product_name: check valve | standards_and_approvals: NACE (National Association of Corrosion Engineers)",
+      "core_id": 340.0,
+      "raw_product_name": "CHECK VALVE (NACE)",
+      "list_of_product_ids": [
+        "20156",
+        "20245",
+        "20284",
+        "20261",
+        "20312",
+        "20355"
+      ]
+    },
+    {
+      "retrieval_score": 0.83815145,
+      "text": "core_product_name: check valve | type_or_class: Dual Plate Type",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK (DUAL PLATE TYPE)",
+      "list_of_product_ids": [
+        "6234",
+        "5403",
+        "11558",
+        "11057",
+        "10427",
+        "11468",
+        "11476",
+        "11470",
+        "11474",
+        "12333",
+        "12431",
+        "12494",
+        "13264",
+        "19422",
+        "19730",
+        "22771",
+        "31566",
+        "30834"
+      ]
+    },
+    {
+      "retrieval_score": 0.83814174,
+      "text": "core_product_name: check valve | material: SS (Stainless Steel) | standards_and_approvals: NACE (National Association of Corrosion Engineers)",
+      "core_id": 340.0,
+      "raw_product_name": "CHECK VALVE (SS NACE)",
+      "list_of_product_ids": [
+        "13819",
+        "14923",
+        "16911",
+        "16905"
+      ]
+    },
+    {
+      "retrieval_score": 0.83795625,
+      "text": "core_product_name: thermal relief valve",
+      "core_id": 2242.0,
+      "raw_product_name": "THERMAL RELIEF VALVE",
+      "list_of_product_ids": [
+        "14016",
+        "15348",
+        "15353",
+        "15358",
+        "22349",
+        "36633",
+        "37438",
+        "37439",
+        "34694",
+        "34696",
+        "34698",
+        "34700"
+      ]
+    },
+    {
+      "retrieval_score": 0.8379528,
+      "text": "core_product_name: surge relief valve",
+      "core_id": 2159.0,
+      "raw_product_name": "SURGE RELIEF VALVE",
+      "list_of_product_ids": [
+        "6505",
+        "5676",
+        "12130",
+        "22347",
+        "28768"
+      ]
+    },
+    {
+      "retrieval_score": 0.8378683,
+      "text": "core_product_name: pneumatic valve",
+      "core_id": 1719.0,
+      "raw_product_name": "PNEUMATICS VALVE",
+      "list_of_product_ids": [
+        "14397",
+        "14567",
+        "21878",
+        "21876",
+        "21874",
+        "36687",
+        "35745"
+      ]
+    },
+    {
+      "retrieval_score": 0.83785474,
+      "text": "core_product_name: valve diaphragm",
+      "core_id": 2352.0,
+      "raw_product_name": "VALVE DIAPHRAGM",
+      "list_of_product_ids": [
+        "10368",
+        "6255",
+        "5424",
+        "10405",
+        "10443",
+        "8132",
+        "13147",
+        "13283",
+        "16494",
+        "19489",
+        "30872",
+        "30873",
+        "30874",
+        "34545",
+        "35574",
+        "39942",
+        "40079"
+      ]
+    },
+    {
+      "retrieval_score": 0.83743405,
+      "text": "core_product_name: internal wall | protection_features: fireproof",
+      "core_id": 1288.0,
+      "raw_product_name": "INTERNAL FIRE WALL",
+      "list_of_product_ids": [
+        "19216",
+        "28252",
+        "39669",
+        "39674",
+        "39745",
+        "39812",
+        "39784",
+        "39913"
+      ]
+    }
+  ]
+}

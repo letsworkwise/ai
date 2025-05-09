@@ -1,0 +1,85 @@
+{
+  "query": "core_product_name: cat 6 cable | feature_or_specifications: accessories: lugs, adapter, blank plate & patch cord etc as required is included",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: wire | acronymed_core_product_name: cat 6 wire (category 6 wire) | type_or_class: CAT 6 (Category 6)",
+        "raw_product_name": "CAT 6 WIRE",
+        "list_of_product_ids": [
+          "20687",
+          "20549",
+          "20513",
+          "20590",
+          "20633",
+          "20745",
+          "21239"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLES",
+        "list_of_product_ids": [
+          "15455",
+          "13721",
+          "24275",
+          "15161",
+          "16241",
+          "19098",
+          "23820",
+          "23814",
+          "21319",
+          "19315",
+          "23819",
+          "23822",
+          "24273",
+          "23829",
+          "20141",
+          "23831",
+          "24058",
+          "23836",
+          "23909",
+          "23839",
+          "23828",
+          "24685",
+          "24726",
+          "24844",
+          "24955",
+          "31590",
+          "31591",
+          "26436",
+          "26438",
+          "31740",
+          "33330"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLE STOCKIST/TRADERS",
+        "list_of_product_ids": [
+          "2",
+          "467",
+          "924",
+          "680"
+        ]
+      }
+    }
+  ]
+}

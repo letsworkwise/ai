@@ -1,0 +1,69 @@
+{
+  "query": "core_product_name: gi class c pipe | size: size: 200NB | feature_or_specifications: standard: indian standard 1239 (part-i), make: tata",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "Standards & Approvals"
+      ],
+      "match_details": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards) 1239 | construction_features: Black | construction_features: GI (Galvanized Iron)",
+        "raw_product_name": "PIPE-CARBON STEEL IS - 1239 (BLACK & GI)",
+        "list_of_product_ids": [
+          "13923",
+          "21043",
+          "21299",
+          "21563",
+          "22892",
+          "37032",
+          "37034",
+          "37013",
+          "37017",
+          "37033"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Standards & Approvals"
+      ],
+      "match_details": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards): 1239",
+        "raw_product_name": "PIPE-CARBON STEEL IS: 1239",
+        "list_of_product_ids": [
+          "13999",
+          "15697",
+          "21642",
+          "22745",
+          "22894"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: carbon steel pipe | material: Carbon Steel (C.S) | type_or_class: Non-NACE",
+        "raw_product_name": "PIPE (C.S NON-NACE)",
+        "list_of_product_ids": [
+          "16459",
+          "16482",
+          "16503",
+          "16521",
+          "16524",
+          "16526",
+          "16525",
+          "16527"
+        ]
+      }
+    }
+  ]
+}

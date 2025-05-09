@@ -1,0 +1,60 @@
+{
+  "query": "core_product_name: multizone door frame metallic detector",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: multi gas detector",
+        "raw_product_name": "MULTI GAS DETECTOR",
+        "list_of_product_ids": [
+          "16470",
+          "16479",
+          "16499",
+          "34957"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: hot metal detector",
+        "raw_product_name": "Hot Metal Detector",
+        "list_of_product_ids": [
+          "7550",
+          "7224",
+          "10508",
+          "18013"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: detector",
+        "raw_product_name": "DETECTOR",
+        "list_of_product_ids": [
+          "8900",
+          "8902",
+          "9849",
+          "9858",
+          "9867",
+          "18250",
+          "18249",
+          "18248",
+          "36841",
+          "36225",
+          "36377"
+        ]
+      }
+    }
+  ]
+}

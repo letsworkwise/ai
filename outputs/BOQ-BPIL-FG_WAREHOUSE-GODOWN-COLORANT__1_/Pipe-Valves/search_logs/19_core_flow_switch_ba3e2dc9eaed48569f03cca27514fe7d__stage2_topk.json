@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: flow switch",
+  "retrieval_results": [
+    {
+      "id": "variant-a11d486f-19a6-5688-b35a-59bc9038833e",
+      "score": 0.9359731,
+      "metadata": {
+        "text": "core_product_name: flow switch",
+        "raw_product_name": "FLOW SWITCH",
+        "list_of_product_ids": "9557,9517,9851,13395,18227",
+        "core_id": 939.0
+      }
+    },
+    {
+      "id": "variant-1a15faa8-0202-565a-b570-0c735809e6c0",
+      "score": 0.92936766,
+      "metadata": {
+        "text": "core_product_name: flow switch | type_or_class: Electrical",
+        "raw_product_name": "FLOW SWITCHES (ELECTRICAL)",
+        "list_of_product_ids": "10080,9559,9519,12077,15127,15135,15143,17313",
+        "core_id": 939.0
+      }
+    },
+    {
+      "id": "variant-29ac30b6-7629-5de3-acdd-d2748db91a2f",
+      "score": 0.92593575,
+      "metadata": {
+        "text": "core_product_name: flow switch | type_or_class: Pneumatic",
+        "raw_product_name": "FLOW SWITCHES (PNEUMATIC)",
+        "list_of_product_ids": "10079,9558,9518,12076,12886,15134,15142,17312",
+        "core_id": 939.0
+      }
+    },
+    {
+      "id": "variant-95d9d3ef-3ca6-53eb-bee2-e98eb33ece8f",
+      "score": 0.9030956,
+      "metadata": {
+        "text": "core_product_name: switch",
+        "raw_product_name": "SWITCHES",
+        "list_of_product_ids": "13967,14807,15296,36552,17540,24101,22217,22288,23682",
+        "core_id": 603.0
+      }
+    },
+    {
+      "id": "variant-61f49d7f-0bf1-50db-b458-8a67c65cd429",
+      "score": 0.90302444,
+      "metadata": {
+        "text": "core_product_name: switch",
+        "raw_product_name": "LEVEL SWITCHES",
+        "list_of_product_ids": "13588,14220,17089,17076,17070,17066,23998,21753,31744,36106",
+        "core_id": 603.0
+      }
+    },
+    {
+      "id": "variant-1e779b78-1ef1-5e95-8a58-2dd0cf4d9242",
+      "score": 0.9028954,
+      "metadata": {
+        "text": "core_product_name: switch",
+        "raw_product_name": "DISTANCE SWITCHES",
+        "list_of_product_ids": "19150,27607,19152,38467",
+        "core_id": 603.0
+      }
+    },
+    {
+      "id": "variant-0c404a18-c267-5d95-9abf-d1a450dbfade",
+      "score": 0.9028954,
+      "metadata": {
+        "text": "core_product_name: switch",
+        "raw_product_name": "RECEIVER SWITCHES",
+        "list_of_product_ids": "137,612,033,723,684",
+        "core_id": 603.0
+      }
+    },
+    {
+      "id": "variant-1a58f6a3-7c66-5396-9054-307256af2c51",
+      "score": 0.90272796,
+      "metadata": {
+        "text": "core_product_name: network switch",
+        "raw_product_name": "NETWORK SWITCHES",
+        "list_of_product_ids": "5945,6774,7942,7941,11855",
+        "core_id": 1541.0
+      }
+    },
+    {
+      "id": "variant-e2154c10-2f56-5baa-aefe-b77982eae367",
+      "score": 0.9010087,
+      "metadata": {
+        "text": "core_product_name: control switch",
+        "raw_product_name": "CONTROL SWITCH",
+        "list_of_product_ids": "140,491,529,838,269",
+        "core_id": 462.0
+      }
+    },
+    {
+      "id": "variant-ab5c7d28-a5aa-552a-8340-75f3f0f1cca3",
+      "score": 0.90046924,
+      "metadata": {
+        "text": "core_product_name: flow transmitter",
+        "raw_product_name": "FLOW TRANSMITTER",
+        "list_of_product_ids": "134,391,821,036,513",
+        "core_id": 942.0
+      }
+    },
+    {
+      "id": "variant-ddb1abf6-893f-5dce-8646-5ce69a208251",
+      "score": 0.9004122,
+      "metadata": {
+        "text": "core_product_name: flow computer",
+        "raw_product_name": "FLOW COMPUTER",
+        "list_of_product_ids": "13625,15172,15209,17965,37509,36219,36371",
+        "core_id": 931.0
+      }
+    },
+    {
+      "id": "variant-361d16ec-1c9b-51c2-bb2b-c034ee826f48",
+      "score": 0.89910895,
+      "metadata": {
+        "text": "core_product_name: pressure switch",
+        "raw_product_name": "PRESSURE SWITCHES",
+        "list_of_product_ids": "6591,5761,10082,10084,10628,7944,7946,7948,9043,12721,12730,12724,12726,12900,12905,16623,16824,19378,18142,18406,18882,18928,30690,31309,37434,37435,36690,35676,39387",
+        "core_id": 1777.0
+      }
+    },
+    {
+      "id": "variant-b4662890-d6e7-5ff9-8a58-cf6a938d5315",
+      "score": 0.8983875,
+      "metadata": {
+        "text": "core_product_name: flow indicator",
+        "raw_product_name": "FLOW INDICATOR",
+        "list_of_product_ids": "165,441,654,127,339",
+        "core_id": 937.0
+      }
+    },
+    {
+      "id": "variant-57fa6a05-9d45-5c5e-a63d-0dd682aa3ca9",
+      "score": 0.8975232,
+      "metadata": {
+        "text": "core_product_name: flow diverter",
+        "raw_product_name": "FLOW DIVERTER",
+        "list_of_product_ids": "13633,15349,15354,15359,36689",
+        "core_id": 930.0
+      }
+    },
+    {
+      "id": "variant-2617a22e-898d-5bf3-99df-d3043eb03775",
+      "score": 0.89739597,
+      "metadata": {
+        "text": "core_product_name: flow element",
+        "raw_product_name": "FLOW ELEMENTS",
+        "list_of_product_ids": "65,415,712",
+        "core_id": 934.0
+      }
+    },
+    {
+      "id": "variant-bf503acb-0fc0-55b7-bf9d-e5ea2bbe1383",
+      "score": 0.89670825,
+      "metadata": {
+        "text": "core_product_name: flow instrument | type_or_class: Flow (F)",
+        "raw_product_name": "Flow (F) Instruments",
+        "list_of_product_ids": "597,167,996,804",
+        "core_id": 1004.0
+      }
+    },
+    {
+      "id": "variant-52710eb9-e42d-5ebd-99f4-259076cc397a",
+      "score": 0.8966382,
+      "metadata": {
+        "text": "core_product_name: float level switch",
+        "raw_product_name": "LEVEL SWITCHES(FLOAT)",
+        "list_of_product_ids": "17125,19898,31745,27176",
+        "core_id": 1339.0
+      }
+    },
+    {
+      "id": "variant-6dba5e49-7e42-5b48-997c-782b204e0c38",
+      "score": 0.8965729,
+      "metadata": {
+        "text": "core_product_name: temperature switch",
+        "raw_product_name": "TEMPERATURE SWITCHES",
+        "list_of_product_ids": "10252,10257,10271,10272,10274,10279,10282,10286,10285,9993,10028,10083,10085,10222,10241,10246,12732,12902,12907,36536,16622,16826,17069,17288,18163,23112,37681,36620,35672,35668,39389",
+        "core_id": 2224.0
+      }
+    },
+    {
+      "id": "variant-7d3babc0-7766-59e4-892d-3dc9f1d580bf",
+      "score": 0.8946108,
+      "metadata": {
+        "text": "core_product_name: flow duct",
+        "raw_product_name": "DUCT (FLOW)",
+        "list_of_product_ids": "21027,21026,21020,36684,27258",
+        "core_id": 637.0
+      }
+    },
+    {
+      "id": "variant-e2437085-e69b-5d8e-b712-6b1e2bda0a43",
+      "score": 0.89402014,
+      "metadata": {
+        "text": "core_product_name: level switch | type_or_class: Displacer or Float",
+        "raw_product_name": "LEVEL SWITCHES(DISPLACER/FLOAT)",
+        "list_of_product_ids": "6589,5759,11661,11692,11683,11810,11310,10095,10109,10550,10623,11708,7943,7945,7949,7947,8395,12074,12217,12813,12814,14200,16823,18395,38275,36310,36162",
+        "core_id": 1337.0
+      }
+    },
+    {
+      "id": "variant-a0035dd1-f740-526c-9e6b-edd8cceff95c",
+      "score": 0.8934984,
+      "metadata": {
+        "text": "core_product_name: flow meter",
+        "raw_product_name": "FLOW METER",
+        "list_of_product_ids": "9516,9556,20013,20023,20018,36586",
+        "core_id": 938.0
+      }
+    },
+    {
+      "id": "variant-278511c6-684e-58e3-8807-07de85b7bd8a",
+      "score": 0.8922626,
+      "metadata": {
+        "text": "core_product_name: control switch | type_or_class: Breaker",
+        "raw_product_name": "CONTROL SWITCHES (BREAKER)",
+        "list_of_product_ids": "6446,5616,9385,9441,9442",
+        "core_id": 462.0
+      }
+    },
+    {
+      "id": "variant-fbc7aef8-6ded-5b2f-ace5-db6c3dad188c",
+      "score": 0.89215887,
+      "metadata": {
+        "text": "core_product_name: fuse switch combination",
+        "raw_product_name": "FUSE SWITCH COMBINATION",
+        "list_of_product_ids": "6470,5641,10189,19034,19033,19032,26087,38285",
+        "core_id": 991.0
+      }
+    },
+    {
+      "id": "variant-93b2a354-c0f7-5041-878f-e5638fbfb62f",
+      "score": 0.89199317,
+      "metadata": {
+        "text": "core_product_name: changeover switch",
+        "raw_product_name": "CHANGEOVER SWITCH",
+        "list_of_product_ids": "138,071,807,519,889",
+        "core_id": 334.0
+      }
+    },
+    {
+      "id": "variant-0bc9d3b1-3985-5230-a4d5-82fbe18bb0c7",
+      "score": 0.89198005,
+      "metadata": {
+        "text": "core_product_name: differential pressure switch",
+        "raw_product_name": "DIFFERENTIAL PRESSURE SWITCHES",
+        "list_of_product_ids": "10086,10087,10092,10093,10236,12720,12722,12731,12901,12906,15173,16825,18164,23111,37046,35677",
+        "core_id": 586.0
+      }
+    },
+    {
+      "id": "variant-9bba2e17-cf1d-526f-a83c-61ada94bf1b8",
+      "score": 0.89084965,
+      "metadata": {
+        "text": "core_product_name: pneumatic switch | type_or_class: Pressure (PR.)",
+        "raw_product_name": "PNEUMATIC PR. SWITCH",
+        "list_of_product_ids": "13815,38325,35543,36102,40132",
+        "core_id": 1718.0
+      }
+    },
+    {
+      "id": "variant-9e015de9-d9ac-5bbd-8506-bf9fdd9fc343",
+      "score": 0.89044195,
+      "metadata": {
+        "text": "core_product_name: flush valve",
+        "raw_product_name": "FLUSH VALVES",
+        "list_of_product_ids": "16768,17054,20562,20603,20623,20675,20733,33422,34376,35163",
+        "core_id": 953.0
+      }
+    },
+    {
+      "id": "variant-7e796f6f-0d17-514d-aca4-a14dcdb48ba7",
+      "score": 0.8899716,
+      "metadata": {
+        "text": "core_product_name: fluid power equipment",
+        "raw_product_name": "FLUID POWER EQUIPMENT",
+        "list_of_product_ids": "1,364,936,946",
+        "core_id": 949.0
+      }
+    },
+    {
+      "id": "variant-536ae043-08aa-5645-8761-19aba47f03a6",
+      "score": 0.8893484,
+      "metadata": {
+        "text": "core_product_name: modular switch",
+        "raw_product_name": "MODULAR SWITCH",
+        "list_of_product_ids": "756,072,347,934",
+        "core_id": 1493.0
+      }
+    },
+    {
+      "id": "variant-3240c9d4-b584-55f4-b520-dd8b7167c2c1",
+      "score": 0.8890307,
+      "metadata": {
+        "text": "core_product_name: micro switch",
+        "raw_product_name": "MICRO SWITCHES",
+        "list_of_product_ids": "164,261,647,516,624",
+        "core_id": 1472.0
+      }
+    }
+  ]
+}

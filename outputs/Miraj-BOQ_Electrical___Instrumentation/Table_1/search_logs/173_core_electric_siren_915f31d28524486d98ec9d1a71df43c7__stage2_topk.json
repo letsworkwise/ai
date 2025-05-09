@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: electric siren | feature_or_specifications: location: pump house, pmcc (power and motor control center), security room, accessories: siren controller, necessary equipment, components, support for siren and panel, as per tender document",
+  "retrieval_results": [
+    {
+      "id": "variant-0f3e183c-b2f0-51af-a986-c0ac043850c7",
+      "score": 0.85959446,
+      "metadata": {
+        "text": "core_product_name: power cum motor control centre | acronymed_core_product_name: pmcc (power cum motor control centre)",
+        "raw_product_name": "POWER CUM MOTOR CONTROL CENTRE (PMCC)",
+        "list_of_product_ids": "1,380,914,620",
+        "core_id": 1740.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.8529111,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.85054827,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-e6adf7df-193e-5beb-987e-c58468cb735f",
+      "score": 0.85000956,
+      "metadata": {
+        "text": "core_product_name: electric crane control equipment",
+        "raw_product_name": "ELECTRIC CRANE CONTROL EQUIPMENT",
+        "list_of_product_ids": "20822,20824,20826,20828,27785",
+        "core_id": 689.0
+      }
+    },
+    {
+      "id": "variant-230a4424-e175-5ef7-86fc-50fca103f71d",
+      "score": 0.8475935,
+      "metadata": {
+        "text": "core_product_name: electric horn",
+        "raw_product_name": "ELECTRIC HORN",
+        "list_of_product_ids": "268,932,689,126,998",
+        "core_id": 693.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.84745836,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-7aa48c98-4b7d-5946-8320-0a44853c6ebb",
+      "score": 0.84734696,
+      "metadata": {
+        "text": "core_product_name: component pipe support",
+        "raw_product_name": "Pipe Support components",
+        "list_of_product_ids": "7539,9978,7213,7829,9704,14956",
+        "core_id": 1832.0
+      }
+    },
+    {
+      "id": "variant-bc446b96-7ff5-570b-a54f-9268dd16f26d",
+      "score": 0.8465292,
+      "metadata": {
+        "text": "core_product_name: power control centre | acronymed_core_product_name: pcc (power control centre)",
+        "raw_product_name": "Power Control Centre (PCC)",
+        "list_of_product_ids": "8225",
+        "core_id": 1741.0
+      }
+    },
+    {
+      "id": "variant-064699ed-ad89-5313-8161-2b4d7c3fff26",
+      "score": 0.8465292,
+      "metadata": {
+        "text": "core_product_name: power control centre | acronymed_core_product_name: pcc (power control centre)",
+        "raw_product_name": "POWER CONTROL CENTRE (PCC)",
+        "list_of_product_ids": "13849,14618,14643,17928,17915,17890,17946,17937,18024,18006,18047",
+        "core_id": 1741.0
+      }
+    },
+    {
+      "id": "variant-f58a34d2-d54f-56cf-8c8a-d7ac1cefe2b0",
+      "score": 0.84571075,
+      "metadata": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: PMCC (Power Motor Control Center) switchgear panel | size_or_capacity: 415V | type_or_class: PMCC (Power Motor Control Center)",
+        "raw_product_name": "415V SWITCHGEAR PANEL (PMCC)",
+        "list_of_product_ids": "15388,14161,14610,17705,17688,38510",
+        "core_id": 18.0
+      }
+    },
+    {
+      "id": "variant-8eacc00b-ac12-5620-9ec9-24342650e47a",
+      "score": 0.8453887,
+      "metadata": {
+        "text": "core_product_name: electrical component | accessories_or_attachments: Accessories",
+        "raw_product_name": "ELECTRICAL COMPONENTS & ACCESSORIES",
+        "list_of_product_ids": "222,862,228,728,574",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.8448072,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-62e9d5fb-3cb4-5db6-9c87-632de704fb71",
+      "score": 0.84379435,
+      "metadata": {
+        "text": "core_product_name: erection and commissioning equipment",
+        "raw_product_name": "EQUIPMENT - ERECTION & COMMISSIONING",
+        "list_of_product_ids": "16194,16202,16350,16355,33812,34490,35836,35844",
+        "core_id": 757.0
+      }
+    },
+    {
+      "id": "variant-966e4ca5-fe30-58c0-97b6-4325ab0c701e",
+      "score": 0.8434034,
+      "metadata": {
+        "text": "core_product_name: electric hoist control equipment",
+        "raw_product_name": "ELECTRIC HOIST CONTROL EQUIPMENT",
+        "list_of_product_ids": "20829,20827,20825,20823,27097",
+        "core_id": 694.0
+      }
+    },
+    {
+      "id": "variant-413ae249-19f3-5238-9e1e-81c9b8824457",
+      "score": 0.8429763,
+      "metadata": {
+        "text": "core_product_name: addressable fire alarm panel",
+        "raw_product_name": "ADDRESSABLE FIRE ALARM PANEL",
+        "list_of_product_ids": "37759,37764,37769,37774,37780,37790",
+        "core_id": 48.0
+      }
+    },
+    {
+      "id": "variant-7e796f6f-0d17-514d-aca4-a14dcdb48ba7",
+      "score": 0.8429135,
+      "metadata": {
+        "text": "core_product_name: fluid power equipment",
+        "raw_product_name": "FLUID POWER EQUIPMENT",
+        "list_of_product_ids": "1,364,936,946",
+        "core_id": 949.0
+      }
+    },
+    {
+      "id": "variant-1b301242-51fc-526a-84ff-a5c917de276a",
+      "score": 0.84279996,
+      "metadata": {
+        "text": "core_product_name: pressure indicating controller",
+        "raw_product_name": "PRESSURE INDICATING CONTROLLERS",
+        "list_of_product_ids": "17056,17059,17058,17057,28751,36365,40118",
+        "core_id": 1772.0
+      }
+    },
+    {
+      "id": "variant-53533849-97d9-5ba2-af95-f27dc00d0c06",
+      "score": 0.84253854,
+      "metadata": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: PMCC (Power Motor Control Center) switchgear panel | type_or_class: PMCC (Power Motor Control Center)",
+        "raw_product_name": "SWITCHGEAR PANEL (PMCC)",
+        "list_of_product_ids": "1,397,014,627",
+        "core_id": 18.0
+      }
+    },
+    {
+      "id": "variant-a4ebd8e5-7045-562f-b9cd-963999de4c2c",
+      "score": 0.8421695,
+      "metadata": {
+        "text": "core_product_name: fire alarm panel",
+        "raw_product_name": "FIRE ALARM PANEL",
+        "list_of_product_ids": "8896,8906,9845,9853,9863,8933,9076,9137,14320,14321,10735,16601,16125,34974,35217,36088,36458",
+        "core_id": 837.0
+      }
+    },
+    {
+      "id": "variant-4ee544d6-0f39-5064-8d24-8c48472ff71a",
+      "score": 0.8419839,
+      "metadata": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": "5954,6782,12132,14671,14679,18191,20174,36159",
+        "core_id": 2156.0
+      }
+    },
+    {
+      "id": "variant-74d303aa-2799-5e8d-8b8a-412a8da4a4f2",
+      "score": 0.8412078,
+      "metadata": {
+        "text": "core_product_name: electrical spare",
+        "raw_product_name": "ELECTRICAL SPARES",
+        "list_of_product_ids": "207,782,077,728,462",
+        "core_id": 710.0
+      }
+    },
+    {
+      "id": "variant-81632571-2c7b-524d-bcc4-14aa9f2e33f4",
+      "score": 0.84083134,
+      "metadata": {
+        "text": "core_product_name: lighting and power panel | operating_conditions: Safe Area",
+        "raw_product_name": "LIGHTING & POWER PANELS (SAFE AREA)",
+        "list_of_product_ids": "5631,6460,10307,11363,9150,9362,11943,24828,24816,24931,24942,19386,38289",
+        "core_id": 1351.0
+      }
+    },
+    {
+      "id": "variant-7b84b9d7-6c76-5b4d-9aaf-d57ecafe4b91",
+      "score": 0.84067494,
+      "metadata": {
+        "text": "core_product_name: electrical-instrumentation work",
+        "raw_product_name": "ELECTRICAL-INSTRUMENTATION WORKS",
+        "list_of_product_ids": "36860,36857,36888,36892",
+        "core_id": 711.0
+      }
+    },
+    {
+      "id": "variant-56098b22-03d9-5916-b833-4b7ac8b7d339",
+      "score": 0.84059453,
+      "metadata": {
+        "text": "core_product_name: control panel | accessories_or_attachments: accessories",
+        "raw_product_name": "CONTROL PANEL & ACCESSORIES",
+        "list_of_product_ids": "6599,5769,9463,8213,8215,8212,8214,9377,9156,9178,9378,9464,12191,8211,10743,31063,37694,37698,37703,37708,37712",
+        "core_id": 453.0
+      }
+    },
+    {
+      "id": "variant-3b631906-ca81-5dcc-9013-16874fbdfa21",
+      "score": 0.8405141,
+      "metadata": {
+        "text": "core_product_name: electronic controller | type_or_class: Control Panel Instrument",
+        "raw_product_name": "ELECTRONIC CONTROLLER (CONTROL PANEL INSTRUMENT)",
+        "list_of_product_ids": "13897,20864,22602,22797",
+        "core_id": 724.0
+      }
+    },
+    {
+      "id": "variant-0f1e1ce5-671f-518b-b863-86f86d8242c6",
+      "score": 0.84048665,
+      "metadata": {
+        "text": "core_product_name: motor control center | acronymed_core_product_name: mcc package",
+        "raw_product_name": "MCC PACKAGE",
+        "list_of_product_ids": "23571,23614,23565,23559,23554,23549,23541,23532",
+        "core_id": 1447.0
+      }
+    },
+    {
+      "id": "variant-b0341ac8-d484-5fda-9e50-728b9d637a42",
+      "score": 0.8404588,
+      "metadata": {
+        "text": "core_product_name: terminal | acronymed_core_product_name: PLCC (Power Line Carrier Communication) terminal | accessories_or_attachments: protection coupler",
+        "raw_product_name": "PLCC TERMINAL WITH PROTECTION COUPLER",
+        "list_of_product_ids": "18710,18709,19015,18707,38296,38321",
+        "core_id": 1707.0
+      }
+    },
+    {
+      "id": "variant-8b1fcf86-0360-56b1-afdd-ddf65f5bc982",
+      "score": 0.84025705,
+      "metadata": {
+        "text": "core_product_name: primary structure | accessories_or_attachments: Fabrication | accessories_or_attachments: Supply",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE (FABRICATION & SUPPLY)",
+        "list_of_product_ids": "237,742,105,321,052",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-1ab3bbc1-7237-500d-90d8-27f6498da945",
+      "score": 0.8400124,
+      "metadata": {
+        "text": "core_product_name: equipment",
+        "raw_product_name": "CONTROL ROOM EQUIPMENT",
+        "list_of_product_ids": "14034,14815,17256,21098",
+        "core_id": 460.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.83990604,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "query": "core_product_name: ups db | acronymed_core_product_name: db | size: voltage: 230v, frequency: 50hz, incomer: 63a, phase: 3 phase, wire: 4 wire, way: 3 way, short circuit rating: 10ka for 1 sec | feature_or_specifications: type: outdoor, type: flame proof (flp), protection: ip class suitable for flp, minimum protection: ip-65, feature: with rcbo (residual current circuit breaker with overcurrent protection)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups (uninterruptible power supply)",
+        "raw_product_name": "UN-INTERRUPTIBLE POWER SUPPLY (UPS)",
+        "list_of_product_ids": [
+          "141",
+          "931",
+          "781",
+          "320",
+          "002"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups | accessories_or_attachments: acdb (alternating current distribution board)",
+        "raw_product_name": "UPS With ACDB",
+        "list_of_product_ids": [
+          "1",
+          "419",
+          "636",
+          "134"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: flameproof lighting and distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF LIGHTING & DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13578",
+          "14601",
+          "14847",
+          "24098"
+        ]
+      }
+    }
+  ]
+}

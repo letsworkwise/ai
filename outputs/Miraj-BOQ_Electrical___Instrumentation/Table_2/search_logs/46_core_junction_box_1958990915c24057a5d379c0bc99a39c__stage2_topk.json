@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: junction box | size: inlet: 12, outlet: 2 | feature_or_specifications: color: blue, application: for spot type IR (infrared) gas detectors, flame proof: yes, ex-proof: yes, body material: die cast AL LM6 (aluminium LM6), area suitability: hazardous area of zone 1, group IIA/IIB, temperature class: T3 or better, approval: PESO/CMIFR (Petroleum and Explosives Safety Organisation/Central Mining Research Institute Fire Research), accessories: certified flameproof/exproof SS316 (stainless steel 316) double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners, specification: as per specifications/documents",
+  "retrieval_results": [
+    {
+      "id": "variant-c078d442-499e-5fef-af59-18af5b47f64b",
+      "score": 0.867671,
+      "metadata": {
+        "text": "core_product_name: flame proof junction box | protection_features: Flame proof",
+        "raw_product_name": "JUNCTION BOXES (FLAME PROOF)",
+        "list_of_product_ids": "6417,5587,11078,11075,10304,11324,10578,10585,10555,10601,10686,8207,8208,8402,15922,16008,16029,16025,26747,26746,33512,35769",
+        "core_id": 1315.0
+      }
+    },
+    {
+      "id": "variant-5504c024-4b72-5368-8851-9130177d4a4c",
+      "score": 0.86364514,
+      "metadata": {
+        "text": "core_product_name: junction box",
+        "raw_product_name": "JUNCTION BOXES",
+        "list_of_product_ids": "5960,6788,10303,10552,10606,8206,8209,15928,17373,18803,24168,22859,27495,36562,36607,35775,35887,35865,35940,36519,39357",
+        "core_id": 1311.0
+      }
+    },
+    {
+      "id": "variant-0efb7545-ace8-5231-a7a1-6342569f67d0",
+      "score": 0.85521436,
+      "metadata": {
+        "text": "core_product_name: thermal detector",
+        "raw_product_name": "THERMAL DETECTORS",
+        "list_of_product_ids": "14012,14939,18003,18002,37766,37771,37776,37792,37802,37807",
+        "core_id": 2239.0
+      }
+    },
+    {
+      "id": "variant-5a3dccc3-1bfc-5555-8837-abbdff1584d8",
+      "score": 0.85403484,
+      "metadata": {
+        "text": "core_product_name: gas detector",
+        "raw_product_name": "GAS DETECTORS",
+        "list_of_product_ids": "9806,9813,9861,19902,34955,36092,36086,36094,39317",
+        "core_id": 1026.0
+      }
+    },
+    {
+      "id": "variant-a2809c8f-d8fc-59ef-92ef-c3639cd334c9",
+      "score": 0.85351443,
+      "metadata": {
+        "text": "core_product_name: multi gas detector",
+        "raw_product_name": "MULTI GAS DETECTOR",
+        "list_of_product_ids": "16470,16479,16499,34957",
+        "core_id": 1513.0
+      }
+    },
+    {
+      "id": "variant-aeb4f6a9-b1de-541e-9b7d-a9e5a83c65b6",
+      "score": 0.85348254,
+      "metadata": {
+        "text": "core_product_name: portable gas detector",
+        "raw_product_name": "PORTABLE GAS DETECTOR",
+        "list_of_product_ids": "13831,14336,14674,14682,14934,14935,14936,14937,19376,23210,33600,33610,33673,33689,34959,36085",
+        "core_id": 1726.0
+      }
+    },
+    {
+      "id": "variant-3ce73ff4-e68b-5cbf-b95e-8d29109fe9a2",
+      "score": 0.85282105,
+      "metadata": {
+        "text": "core_product_name: infrared radiation pyrometer",
+        "raw_product_name": "INFRARED RADIATION PYROMETER",
+        "list_of_product_ids": "18861,18860,18909,18959,18964,18957,37674,37481",
+        "core_id": 1239.0
+      }
+    },
+    {
+      "id": "variant-ad90f2fd-c5dd-5686-8f31-0e544fbd882f",
+      "score": 0.85191447,
+      "metadata": {
+        "text": "core_product_name: hot metal detector",
+        "raw_product_name": "Hot Metal Detector",
+        "list_of_product_ids": "7550,7224,10508,18013",
+        "core_id": 1216.0
+      }
+    },
+    {
+      "id": "variant-19ed9fe9-31f3-5298-9c2c-4e26777a2d11",
+      "score": 0.8516658,
+      "metadata": {
+        "text": "core_product_name: gas detection system",
+        "raw_product_name": "GAS DETECTION SYSTEMS",
+        "list_of_product_ids": "6549,5720,10456,11233,11243,10651,10650,11424,11422,11722,12817,12820,12819,13110,13111,18189,36733,35577,36091,36095",
+        "core_id": 1028.0
+      }
+    },
+    {
+      "id": "variant-9958feea-789c-5aae-a14d-84cf4d8178d7",
+      "score": 0.85134804,
+      "metadata": {
+        "text": "core_product_name: fire detector",
+        "raw_product_name": "FIRE DETECTORS",
+        "list_of_product_ids": "20032,20033,20031,20040,21851,20044,24696,31749,31750,31752,31754,31755,26667,26668,26673,31757,31758,31759,37800,37805,35219,39917",
+        "core_id": 842.0
+      }
+    },
+    {
+      "id": "variant-2b04f37a-fd10-57bc-a269-68ba91254353",
+      "score": 0.8511963,
+      "metadata": {
+        "text": "core_product_name: flame detector",
+        "raw_product_name": "FLAME DETECTOR",
+        "list_of_product_ids": "14274,14672,14680,18190",
+        "core_id": 888.0
+      }
+    },
+    {
+      "id": "variant-03ca2e29-3dfc-50e3-b749-dae30e6f3b61",
+      "score": 0.85093796,
+      "metadata": {
+        "text": "core_product_name: heat detector",
+        "raw_product_name": "HEAT DETECTOR",
+        "list_of_product_ids": "9000,8991,9080,9141",
+        "core_id": 1108.0
+      }
+    },
+    {
+      "id": "variant-b55a4457-928b-5d4f-a0d7-6fb8f7583369",
+      "score": 0.85053086,
+      "metadata": {
+        "text": "core_product_name: insulating joint",
+        "raw_product_name": "INSULATING JOINTS",
+        "list_of_product_ids": "6206,5375,12910,31006,31054,31064",
+        "core_id": 1269.0
+      }
+    },
+    {
+      "id": "variant-a61cf322-50a0-5edd-9933-4560aead10ca",
+      "score": 0.849849,
+      "metadata": {
+        "text": "core_product_name: smoke detector",
+        "raw_product_name": "SMOKE DETECTOR",
+        "list_of_product_ids": "9001,8990,11435,9079,9140,18004,31184,37767,37772,37777,37793,37803,37808,36089",
+        "core_id": 2045.0
+      }
+    },
+    {
+      "id": "variant-b90c3dc5-0a21-59cf-be4a-d059afd54e5f",
+      "score": 0.8494938,
+      "metadata": {
+        "text": "core_product_name: addressable detector",
+        "raw_product_name": "ADDRESSABLE DETECTOR",
+        "list_of_product_ids": "37763,37768,37773,37779,37789,37758",
+        "core_id": 47.0
+      }
+    },
+    {
+      "id": "variant-44ef153c-f8c1-591b-bcfa-ee12e6ec437f",
+      "score": 0.8491664,
+      "metadata": {
+        "text": "core_product_name: fire and gas detection system",
+        "raw_product_name": "FIRE & GAS DETECTION SYSTEMS",
+        "list_of_product_ids": "6550,5721,10943,10040,11234,11244,11420,11423,11421,11425,12425,12818,17482,17481,19831,29874,37765,37770,37775,37791,35578,36117,36233,36385,36457",
+        "core_id": 836.0
+      }
+    },
+    {
+      "id": "variant-dc902e3d-597c-5dda-bda3-7f176d1b91e9",
+      "score": 0.848964,
+      "metadata": {
+        "text": "core_product_name: detector",
+        "raw_product_name": "DETECTOR",
+        "list_of_product_ids": "8900,8902,9849,9858,9867,18250,18249,18248,36841,36225,36377",
+        "core_id": 579.0
+      }
+    },
+    {
+      "id": "variant-676f7f9e-13f4-5f2d-95c5-6b3194f152fb",
+      "score": 0.84873724,
+      "metadata": {
+        "text": "core_product_name: infrared detector | acronymed_core_product_name: ir detector",
+        "raw_product_name": "IR DETECTOR",
+        "list_of_product_ids": "980,798,149,854",
+        "core_id": 1295.0
+      }
+    },
+    {
+      "id": "variant-78443036-3ff8-5091-b071-64441d2c17b9",
+      "score": 0.84801084,
+      "metadata": {
+        "text": "core_product_name: oxygen detector",
+        "raw_product_name": "OXYGEN DETECTOR",
+        "list_of_product_ids": "164,771,647,816,500",
+        "core_id": 1610.0
+      }
+    },
+    {
+      "id": "variant-7e2d6aa3-d1a8-5e98-bd8c-ce8cbb63daf6",
+      "score": 0.8477612,
+      "metadata": {
+        "text": "core_product_name: casting | material: Cast Iron",
+        "raw_product_name": "CASTING -CAST IRON",
+        "list_of_product_ids": "21885,21883,24612,39753,39842,39868,39927,40032",
+        "core_id": 91.0
+      }
+    },
+    {
+      "id": "variant-ba3d7620-8f6f-5c5a-bdc1-21d5c6b75b6f",
+      "score": 0.8477222,
+      "metadata": {
+        "text": "core_product_name: insulation material",
+        "raw_product_name": "INSULATION MATERIAL",
+        "list_of_product_ids": "10251,10256,10261,10266,10273,10278,10281,7088,7415,10172,10221,10226,10230,10234,10240,10245,11862,13008,38431,33383",
+        "core_id": 1274.0
+      }
+    },
+    {
+      "id": "variant-a0c0bcb6-a4e3-59a2-a30a-467701880557",
+      "score": 0.8477199,
+      "metadata": {
+        "text": "core_product_name: flameproof socket | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF SOCKET",
+        "list_of_product_ids": "20118,20440,20416,20650,22853",
+        "core_id": 900.0
+      }
+    },
+    {
+      "id": "variant-dccb1b8c-ce03-5353-8d7f-1894add2f041",
+      "score": 0.8474418,
+      "metadata": {
+        "text": "core_product_name: equipment insulation",
+        "raw_product_name": "EQUIPMENT INSULATION WORKS",
+        "list_of_product_ids": "358,293,583,235,880",
+        "core_id": 761.0
+      }
+    },
+    {
+      "id": "variant-fdba3f1d-630e-5ee5-a3c3-99ac8dfd8fde",
+      "score": 0.84725624,
+      "metadata": {
+        "text": "core_product_name: thermal bimetallic overload relay",
+        "raw_product_name": "Thermal bimetallic Overload relays",
+        "list_of_product_ids": "7125,7452,8243,18473,19664",
+        "core_id": 2307.0
+      }
+    },
+    {
+      "id": "variant-035bb6e4-a7d4-5f12-9d32-b43f858be59a",
+      "score": 0.84705406,
+      "metadata": {
+        "text": "core_product_name: weatherproof junction box | protection_features: Weatherproof",
+        "raw_product_name": "JUNCTION BOX (WEATHERPROOF)",
+        "list_of_product_ids": "215,532,156,528,596",
+        "core_id": 1310.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.8468778,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    },
+    {
+      "id": "variant-6132efec-1235-55d3-aa62-41f6aee844c2",
+      "score": 0.84687376,
+      "metadata": {
+        "text": "core_product_name: quartzoid bulb detector",
+        "raw_product_name": "QUARTZOID BULB DETECTOR",
+        "list_of_product_ids": "16789,27820,37489,37490,37493,37494,37497",
+        "core_id": 1846.0
+      }
+    },
+    {
+      "id": "variant-4d90c084-11dd-5309-a710-bba18baf4ab9",
+      "score": 0.8467595,
+      "metadata": {
+        "text": "core_product_name: check valve | material: Cast",
+        "raw_product_name": "VALVE CHECK CAST",
+        "list_of_product_ids": "6229,5398,29399,11623,11640,11225,11237,11247,11279,11282,11259,11446,11431,6853,6858,6863,6873,6878,6883,6888,6893,6898,7697,7698,7699,7700,7701,7702,7703,7704,7705,7706,7707,7708,7866,9261,9387,9411,9407,9162,9252,9163,9175,9244,9342,12330,12429,12568,12548,12652,13364,13375,13381,6868,19359,16650,19409,18053,18383,19710,33375",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-7cdce484-d293-548f-afe9-8606981ff5c8",
+      "score": 0.8467412,
+      "metadata": {
+        "text": "core_product_name: aspiration detector",
+        "raw_product_name": "ASPIRATION DETECTOR",
+        "list_of_product_ids": "980,598,129,859",
+        "core_id": 134.0
+      }
+    },
+    {
+      "id": "variant-aad7fdec-a20c-58ad-9b20-91b9859c779a",
+      "score": 0.8467246,
+      "metadata": {
+        "text": "core_product_name: resistance temperature detector",
+        "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR",
+        "list_of_product_ids": "17218,17213,21738,27914,36623",
+        "core_id": 1901.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.84617734,
+      "text": "core_product_name: bullet proof glass | protection_features: Bullet proof",
+      "core_id": 256.0,
+      "raw_product_name": "BULLET PROOF GLASS",
+      "list_of_product_ids": [
+        "282",
+        "412",
+        "824",
+        "228",
+        "240"
+      ]
+    },
+    {
+      "retrieval_score": 0.8402447,
+      "text": "core_product_name: door fitting | material: Glass",
+      "core_id": 1058.0,
+      "raw_product_name": "GLASS DOOR FITTINGS",
+      "list_of_product_ids": [
+        "39976",
+        "39977",
+        "39978",
+        "39979",
+        "40027"
+      ]
+    },
+    {
+      "retrieval_score": 0.839725,
+      "text": "core_product_name: glass lined reactor | construction_features: glass lined",
+      "core_id": 1865.0,
+      "raw_product_name": "REACTOR-GLASS LINED",
+      "list_of_product_ids": [
+        "6",
+        "060",
+        "515",
+        "219",
+        "741"
+      ]
+    },
+    {
+      "retrieval_score": 0.83818257,
+      "text": "core_product_name: fitting and fixture | type_or_class: sanitary | type_or_class: plumbing | accessories_or_attachments: mirror or glass",
+      "core_id": 1964.0,
+      "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - MIRROR / GLASS",
+      "list_of_product_ids": [
+        "6365",
+        "5536",
+        "12516",
+        "17444",
+        "19499",
+        "34682"
+      ]
+    },
+    {
+      "retrieval_score": 0.8380211,
+      "text": "core_product_name: tube | material: Copper | construction_features: Coated | construction_features: Bare",
+      "core_id": 88.0,
+      "raw_product_name": "COPPER TUBES(COATED,BARE)",
+      "list_of_product_ids": [
+        "6",
+        "487",
+        "565",
+        "818",
+        "967"
+      ]
+    },
+    {
+      "retrieval_score": 0.8379582,
+      "text": "core_product_name: lining | material: Glass",
+      "core_id": 1367.0,
+      "raw_product_name": "LINING (GLASS)",
+      "list_of_product_ids": [
+        "6",
+        "165",
+        "533",
+        "519",
+        "742"
+      ]
+    },
+    {
+      "retrieval_score": 0.83786243,
+      "text": "core_product_name: level switch | protection_features: Explosion Proof",
+      "core_id": 1337.0,
+      "raw_product_name": "Level Switches (Explosion Proof)",
+      "list_of_product_ids": [
+        "17095",
+        "17094",
+        "17093",
+        "17092",
+        "17091",
+        "17090",
+        "17096",
+        "27177"
+      ]
+    },
+    {
+      "retrieval_score": 0.8374325,
+      "text": "core_product_name: primary structure | construction_features: bolted",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+      "list_of_product_ids": [
+        "20000",
+        "19997",
+        "20035",
+        "21038",
+        "21002",
+        "21083",
+        "21901",
+        "22017",
+        "22116",
+        "22826",
+        "22992"
+      ]
+    },
+    {
+      "retrieval_score": 0.83657175,
+      "text": "core_product_name: gauge | material: Glass",
+      "core_id": 1043.0,
+      "raw_product_name": "GAUGE GIASS",
+      "list_of_product_ids": [
+        "164",
+        "191",
+        "652",
+        "834",
+        "576"
+      ]
+    },
+    {
+      "retrieval_score": 0.83639884,
+      "text": "core_product_name: check valve | construction_features: Forged",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK FORGED",
+      "list_of_product_ids": [
+        "6231",
+        "5400",
+        "11625",
+        "11641",
+        "11223",
+        "11242",
+        "11255",
+        "9246",
+        "11448",
+        "9262",
+        "8280",
+        "8383",
+        "8555",
+        "8649",
+        "8626",
+        "9412",
+        "9451",
+        "9253",
+        "9166",
+        "9343",
+        "12098",
+        "12493",
+        "12572",
+        "12656",
+        "13266",
+        "13360",
+        "19382",
+        "19390",
+        "17623",
+        "17908",
+        "18030",
+        "19711",
+        "19860",
+        "31813",
+        "36763",
+        "32701"
+      ]
+    },
+    {
+      "retrieval_score": 0.8360879,
+      "text": "core_product_name: fabricated fitting | material: Plate | construction_features: Cladded",
+      "core_id": 874.0,
+      "raw_product_name": "FITTINGS FABRICATED FROM PLATE - CLADDED",
+      "list_of_product_ids": [
+        "6326",
+        "5497",
+        "11561",
+        "24593",
+        "34020",
+        "34019",
+        "36846"
+      ]
+    },
+    {
+      "retrieval_score": 0.8357445,
+      "text": "core_product_name: globe valve | construction_features: forged",
+      "core_id": 1062.0,
+      "raw_product_name": "VALVE GLOBE FORGED",
+      "list_of_product_ids": [
+        "6222",
+        "5391",
+        "11621",
+        "11639",
+        "11241",
+        "11254",
+        "11278",
+        "8279",
+        "8380",
+        "8554",
+        "8644",
+        "8621",
+        "9386",
+        "9428",
+        "9410",
+        "9452",
+        "9251",
+        "9165",
+        "9247",
+        "9341",
+        "11976",
+        "12097",
+        "12492",
+        "12571",
+        "13261",
+        "13361",
+        "19389",
+        "17622",
+        "17817",
+        "17907",
+        "18303",
+        "18031",
+        "19861",
+        "31811",
+        "19381",
+        "32700",
+        "36762",
+        "35556"
+      ]
+    },
+    {
+      "retrieval_score": 0.83530855,
+      "text": "core_product_name: site fabricated cladding | accessories_or_attachments: column",
+      "core_id": 398.0,
+      "raw_product_name": "COLUMN-CLAD SITE FABRICATED",
+      "list_of_product_ids": [
+        "6689",
+        "5860",
+        "9699",
+        "12168",
+        "13094",
+        "23576"
+      ]
+    },
+    {
+      "retrieval_score": 0.83491963,
+      "text": "core_product_name: sight glass",
+      "core_id": 2022.0,
+      "raw_product_name": "SIGHT GLASSES",
+      "list_of_product_ids": [
+        "6280",
+        "5450",
+        "10295",
+        "10549",
+        "10582",
+        "10668",
+        "12669",
+        "28239",
+        "36774",
+        "35605"
+      ]
+    },
+    {
+      "retrieval_score": 0.83415496,
+      "text": "core_product_name: check valve | construction_features: pre-insulation",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK PRE-INSULATION",
+      "list_of_product_ids": [
+        "1",
+        "544",
+        "118",
+        "796"
+      ]
+    },
+    {
+      "retrieval_score": 0.83379745,
+      "text": "core_product_name: bolt and nut | protection_features: galvanised",
+      "core_id": 231.0,
+      "raw_product_name": "BOLTS & NUTS (GALVANISED)",
+      "list_of_product_ids": [
+        "21576",
+        "21573",
+        "26271",
+        "26205",
+        "26208",
+        "26210",
+        "26219",
+        "26228",
+        "21578",
+        "27711"
+      ]
+    },
+    {
+      "retrieval_score": 0.8337648,
+      "text": "core_product_name: sheet | material: Fibre Glass",
+      "core_id": 132.0,
+      "raw_product_name": "FIBRE GLASS SHEETS",
+      "list_of_product_ids": [
+        "171",
+        "122",
+        "514",
+        "536",
+        "124"
+      ]
+    },
+    {
+      "retrieval_score": 0.83375025,
+      "text": "core_product_name: shock mounting",
+      "core_id": 2016.0,
+      "raw_product_name": "SHOCK MOUNTINGS",
+      "list_of_product_ids": [
+        "22949",
+        "22950",
+        "22953",
+        "28654"
+      ]
+    },
+    {
+      "retrieval_score": 0.8333581,
+      "text": "core_product_name: site fabricated pressure vessel | construction_features: clad",
+      "core_id": 1781.0,
+      "raw_product_name": "PRESSURE VESSEL-CLAD SITE FABRICATED",
+      "list_of_product_ids": [
+        "6686",
+        "5857",
+        "9696",
+        "12166",
+        "13092",
+        "23503"
+      ]
+    },
+    {
+      "retrieval_score": 0.83333606,
+      "text": "core_product_name: glazing glass",
+      "core_id": 1061.0,
+      "raw_product_name": "GLAZING GLASS",
+      "list_of_product_ids": [
+        "20532",
+        "20610",
+        "20620",
+        "20569",
+        "20669",
+        "20727"
+      ]
+    },
+    {
+      "retrieval_score": 0.8332956,
+      "text": "core_product_name: gasket | material: PTFE (Polytetrafluoroethylene) | special_attributes: Glass Filled",
+      "core_id": 758.0,
+      "raw_product_name": "GASKET-PTFE(GLASS FILLED)",
+      "list_of_product_ids": [
+        "5998",
+        "5177",
+        "7790",
+        "8351",
+        "8355",
+        "8371",
+        "23342",
+        "23341",
+        "23340"
+      ]
+    },
+    {
+      "retrieval_score": 0.8332258,
+      "text": "core_product_name: globe cryogenic valve | construction_features: Forged",
+      "core_id": 2360.0,
+      "raw_product_name": "VALVE GLOBE CRYOGENIC FORGED",
+      "list_of_product_ids": [
+        "6223",
+        "5392",
+        "11622",
+        "10423",
+        "11416",
+        "8645",
+        "8622",
+        "13258"
+      ]
+    },
+    {
+      "retrieval_score": 0.8330365,
+      "text": "core_product_name: special control valve | type_or_class: Globe",
+      "core_id": 2075.0,
+      "raw_product_name": "SPECIAL CONTROL VALVES (GLOBE )",
+      "list_of_product_ids": [
+        "13997",
+        "20250",
+        "23767",
+        "22456",
+        "22423",
+        "22478",
+        "36656",
+        "35566"
+      ]
+    },
+    {
+      "retrieval_score": 0.83266306,
+      "text": "core_product_name: special control valve | type_or_class: Segmental",
+      "core_id": 2075.0,
+      "raw_product_name": "SPECIAL CONTROL VALVES (SEGMENTAL)",
+      "list_of_product_ids": [
+        "6507",
+        "5678",
+        "8709",
+        "28773",
+        "28781",
+        "28780",
+        "28779",
+        "28778",
+        "28777",
+        "28776",
+        "28775",
+        "28774",
+        "36265",
+        "36418"
+      ]
+    },
+    {
+      "retrieval_score": 0.83258057,
+      "text": "core_product_name: float glass",
+      "core_id": 1003.0,
+      "raw_product_name": "Float glass",
+      "list_of_product_ids": [
+        "68",
+        "177",
+        "320"
+      ]
+    },
+    {
+      "retrieval_score": 0.8319547,
+      "text": "core_product_name: primary structure | construction_features: welded",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+      "list_of_product_ids": [
+        "19999",
+        "20036",
+        "22016",
+        "21003",
+        "21084",
+        "21900",
+        "22115",
+        "21039",
+        "19993",
+        "22825",
+        "22991"
+      ]
+    },
+    {
+      "retrieval_score": 0.83177346,
+      "text": "core_product_name: explosion proof control station | protection_features: Explosion proof",
+      "core_id": 461.0,
+      "raw_product_name": "CONTROL STATIONS - EXPLOSION PROOF",
+      "list_of_product_ids": [
+        "19797",
+        "19862",
+        "19850",
+        "19865",
+        "19864",
+        "28286",
+        "35867",
+        "35889",
+        "35942"
+      ]
+    },
+    {
+      "retrieval_score": 0.8313409,
+      "text": "core_product_name: gasket | type_or_class: Kamprofile",
+      "core_id": 758.0,
+      "raw_product_name": "GASKET KAMPROFILE",
+      "list_of_product_ids": [
+        "5999",
+        "5178",
+        "7784",
+        "8352",
+        "8356",
+        "8361",
+        "8572",
+        "23347",
+        "23346",
+        "23345"
+      ]
+    },
+    {
+      "retrieval_score": 0.8311566,
+      "text": "core_product_name: sight flow indicator | type_or_class: Sight Glass",
+      "core_id": 2021.0,
+      "raw_product_name": "SIGHT FLOW INDICATORS (SIGHT GLASSES)",
+      "list_of_product_ids": [
+        "6281",
+        "5451",
+        "10197",
+        "38276",
+        "36775"
+      ]
+    },
+    {
+      "retrieval_score": 0.8309295,
+      "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+      "core_id": 1262.0,
+      "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+      "list_of_product_ids": [
+        "19885",
+        "19880",
+        "24078",
+        "23930",
+        "27348"
+      ]
+    }
+  ]
+}

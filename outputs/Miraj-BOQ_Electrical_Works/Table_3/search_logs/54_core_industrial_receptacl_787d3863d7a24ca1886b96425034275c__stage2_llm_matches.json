@@ -1,0 +1,75 @@
+{
+  "query": "core_product_name: industrial receptacle | size: current rating: 63 A, voltage: 415V, poles: 4P with earth, pins: 5 | feature_or_specifications: mounting: surface or recess, cover: spring operated, interlocks: included, ELCB (earth leakage circuit breaker): 100mA, switch: included, fuse units: included, plug: included, enclosure: FRP (fibre reinforced plastic) or sheet steel, protection: IP 55",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: industrial receptacle",
+        "raw_product_name": "INDUSTRIAL RECEPTACLE",
+        "list_of_product_ids": [
+          "136",
+          "891",
+          "479",
+          "414",
+          "813"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: fitting | material: FRP (Fibre Reinforced Plastic)",
+        "raw_product_name": "FITTINGS - FRP",
+        "list_of_product_ids": [
+          "6320",
+          "5491",
+          "10645",
+          "8114",
+          "13162",
+          "13177",
+          "13192",
+          "13197",
+          "13166",
+          "13186",
+          "17882",
+          "24589",
+          "33989"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable tray | material: FRP (Fibre Reinforced Plastic)",
+        "raw_product_name": "CABLE TRAYS-FRP",
+        "list_of_product_ids": [
+          "6448",
+          "5618",
+          "7011",
+          "10644",
+          "7897",
+          "8783",
+          "8785",
+          "8786",
+          "8784",
+          "9181",
+          "17329",
+          "17325",
+          "18877",
+          "18923",
+          "26431",
+          "36084"
+        ]
+      }
+    }
+  ]
+}

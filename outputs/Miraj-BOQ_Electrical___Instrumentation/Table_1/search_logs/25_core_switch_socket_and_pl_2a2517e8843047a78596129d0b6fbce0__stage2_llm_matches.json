@@ -1,0 +1,50 @@
+{
+  "query": "core_product_name: switch socket and plug | size: voltage: 415 V, pins: 5-pin, current: 63 A | feature_or_specifications: type: weatherproof, type: interlocking, canopy: 3mm thick frp (fiber reinforced plastic) with side cover, cable gland: double compression stainless steel, feature: stopping plug, standard: as per attached specifications",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: flameproof plug | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF PLUG",
+        "list_of_product_ids": [
+          "201",
+          "172",
+          "041",
+          "520",
+          "651"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: flameproof socket | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF SOCKET",
+        "list_of_product_ids": [
+          "20118",
+          "20440",
+          "20416",
+          "20650",
+          "22853"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: flameproof switch | protection_features: Flameproof",
+        "raw_product_name": "SWITCH- FLAMEPROOF",
+        "list_of_product_ids": [
+          "228",
+          "782",
+          "301",
+          "335",
+          "779"
+        ]
+      }
+    }
+  ]
+}

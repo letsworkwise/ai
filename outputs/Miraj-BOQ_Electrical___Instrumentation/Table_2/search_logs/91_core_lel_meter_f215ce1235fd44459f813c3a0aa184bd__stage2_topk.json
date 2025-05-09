@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: lel meter | size: range: 0~100 VOL% | feature_or_specifications: type: IR, response time: below 20 sec.",
+  "retrieval_results": [
+    {
+      "id": "variant-e015dccb-5f49-5d0f-aa32-a40814dff6c3",
+      "score": 0.87025636,
+      "metadata": {
+        "text": "core_product_name: millivolt meter",
+        "raw_product_name": "MILLIVOLT METER",
+        "list_of_product_ids": "219,972,203,128,609",
+        "core_id": 1477.0
+      }
+    },
+    {
+      "id": "variant-81654678-5e37-56b6-a4c2-b32410d87659",
+      "score": 0.86889917,
+      "metadata": {
+        "text": "core_product_name: infrared temperature measurement system",
+        "raw_product_name": "INFRARED TEMP MEASUREMENT SYSTEM",
+        "list_of_product_ids": "6598,5768,10909,11112",
+        "core_id": 1243.0
+      }
+    },
+    {
+      "id": "variant-b6be6587-f30d-5e04-856c-202eed73a5a4",
+      "score": 0.868844,
+      "metadata": {
+        "text": "core_product_name: reflex level gauge",
+        "raw_product_name": "LEVEL GAUGES (REFLEX)",
+        "list_of_product_ids": "13571,17073,21346,21755,23033,23533",
+        "core_id": 1334.0
+      }
+    },
+    {
+      "id": "variant-d337814d-4caf-55de-a5cc-ad63eedc8308",
+      "score": 0.8681659,
+      "metadata": {
+        "text": "core_product_name: instrument and meter",
+        "raw_product_name": "INSTRUMENT & METER",
+        "list_of_product_ids": "20461,20502,20648,20115",
+        "core_id": 1248.0
+      }
+    },
+    {
+      "id": "variant-2f824904-7a85-5dc5-b4d5-cb5597db0ca7",
+      "score": 0.8678723,
+      "metadata": {
+        "text": "core_product_name: indicating meter",
+        "raw_product_name": "INDICATING METERS",
+        "list_of_product_ids": "13682,14947,19149,19123,19142",
+        "core_id": 1230.0
+      }
+    },
+    {
+      "id": "variant-3ce73ff4-e68b-5cbf-b95e-8d29109fe9a2",
+      "score": 0.86720717,
+      "metadata": {
+        "text": "core_product_name: infrared radiation pyrometer",
+        "raw_product_name": "INFRARED RADIATION PYROMETER",
+        "list_of_product_ids": "18861,18860,18909,18959,18964,18957,37674,37481",
+        "core_id": 1239.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.8666275,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    },
+    {
+      "id": "variant-a3ea87f7-7dcb-5836-840f-58464d7fabbb",
+      "score": 0.8665047,
+      "metadata": {
+        "text": "core_product_name: meter",
+        "raw_product_name": "METERS",
+        "list_of_product_ids": "6464,5635,9440,9449,9457,9465,9224,9223,20438,20412,20968",
+        "core_id": 1470.0
+      }
+    },
+    {
+      "id": "variant-1ac5d110-6c9d-59d6-bd4c-32269eda6ffd",
+      "score": 0.8664998,
+      "metadata": {
+        "text": "core_product_name: meter",
+        "raw_product_name": "WOBBE METERS",
+        "list_of_product_ids": "6564,5734,18968,37761,35704",
+        "core_id": 1470.0
+      }
+    },
+    {
+      "id": "variant-d205e705-72bf-582d-bf29-a310c0df9f63",
+      "score": 0.8663785,
+      "metadata": {
+        "text": "core_product_name: laser doppler velocity meter",
+        "raw_product_name": "Laser Doppler Velocity Meter",
+        "list_of_product_ids": "7556,7230,10511,18016",
+        "core_id": 1409.0
+      }
+    },
+    {
+      "id": "variant-a0035dd1-f740-526c-9e6b-edd8cceff95c",
+      "score": 0.8657395,
+      "metadata": {
+        "text": "core_product_name: flow meter",
+        "raw_product_name": "FLOW METER",
+        "list_of_product_ids": "9516,9556,20013,20023,20018,36586",
+        "core_id": 938.0
+      }
+    },
+    {
+      "id": "variant-9134b0e6-fc1e-5a54-8140-fa262c90885c",
+      "score": 0.8656842,
+      "metadata": {
+        "text": "core_product_name: variable area flow meter",
+        "raw_product_name": "VARIABLE AREA FLOW METERS(I,T)",
+        "list_of_product_ids": "6570,5740,11581,11587,11595,11652,10063,11685,11694,11813,11827,10570,11710,18398,30543",
+        "core_id": 2382.0
+      }
+    },
+    {
+      "id": "variant-98ffb5b2-ba7e-59ba-975e-6977c0b87585",
+      "score": 0.86534035,
+      "metadata": {
+        "text": "core_product_name: analogue meter",
+        "raw_product_name": "ANALOGUE METER",
+        "list_of_product_ids": "181,191,811,818,590",
+        "core_id": 104.0
+      }
+    },
+    {
+      "id": "variant-86b7fc98-7361-5489-9af1-070a461775ff",
+      "score": 0.86515135,
+      "metadata": {
+        "text": "core_product_name: level sensor",
+        "raw_product_name": "LEVEL SENSOR",
+        "list_of_product_ids": "19121,19128,19133,38465",
+        "core_id": 1336.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.86510026,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-89a5c131-f178-5da7-9060-dd340393808b",
+      "score": 0.8650775,
+      "metadata": {
+        "text": "core_product_name: target flowmeter",
+        "raw_product_name": "TARGET FLOWMETERS",
+        "list_of_product_ids": "65,755,745",
+        "core_id": 2207.0
+      }
+    },
+    {
+      "id": "variant-afab6dc3-050d-5261-8459-27f733291778",
+      "score": 0.86486495,
+      "metadata": {
+        "text": "core_product_name: conductivity meter",
+        "raw_product_name": "CONDUCTIVITY METER",
+        "list_of_product_ids": "1,383,823,184",
+        "core_id": 438.0
+      }
+    },
+    {
+      "id": "variant-2feed7e4-24e4-59d5-829f-33f67991b001",
+      "score": 0.8647785,
+      "metadata": {
+        "text": "core_product_name: radiation survey meter",
+        "raw_product_name": "RADIATION SURVEY METER",
+        "list_of_product_ids": "154,321,876,838,886",
+        "core_id": 1858.0
+      }
+    },
+    {
+      "id": "variant-a32d8296-ea3c-51d4-95de-73a3824167db",
+      "score": 0.863412,
+      "metadata": {
+        "text": "core_product_name: measurement system",
+        "raw_product_name": "MEASUREMENT SYSTEM",
+        "list_of_product_ids": "188,511,884,918,973",
+        "core_id": 1451.0
+      }
+    },
+    {
+      "id": "variant-bc08e481-a9ae-551e-9e13-ace49d85e974",
+      "score": 0.86323446,
+      "metadata": {
+        "text": "core_product_name: measurement",
+        "raw_product_name": "VIBRATION MEASUREMENT",
+        "list_of_product_ids": "242,652,426,624,269",
+        "core_id": 2401.0
+      }
+    },
+    {
+      "id": "variant-aad7fdec-a20c-58ad-9b20-91b9859c779a",
+      "score": 0.86249065,
+      "metadata": {
+        "text": "core_product_name: resistance temperature detector",
+        "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR",
+        "list_of_product_ids": "17218,17213,21738,27914,36623",
+        "core_id": 1901.0
+      }
+    },
+    {
+      "id": "variant-55210aea-1507-5312-b966-b5ed49c56743",
+      "score": 0.86228824,
+      "metadata": {
+        "text": "core_product_name: level instrument",
+        "raw_product_name": "LEVEL INSTRUMENTS",
+        "list_of_product_ids": "6483,5654,19445,19444,19796,39388,40153",
+        "core_id": 1335.0
+      }
+    },
+    {
+      "id": "variant-22d616a9-27b2-5045-8c46-dc2ca062c176",
+      "score": 0.8622103,
+      "metadata": {
+        "text": "core_product_name: viscosity meter",
+        "raw_product_name": "VISCOSITY METER",
+        "list_of_product_ids": "6,607,577,711,317",
+        "core_id": 2409.0
+      }
+    },
+    {
+      "id": "variant-d2eab6c2-d22b-57e1-8719-4f726583379e",
+      "score": 0.8621932,
+      "metadata": {
+        "text": "core_product_name: magnetic level instrument",
+        "raw_product_name": "MAGNETIC LEVEL INSTRUMENTS",
+        "list_of_product_ids": "6583,5753,11811,11274,10573,10581,10196,10669,8393,11949,11948,12069,12219,12239,12778,12834,12833,12842,18396,22199",
+        "core_id": 1422.0
+      }
+    },
+    {
+      "id": "variant-3e48178f-5c06-56a3-8668-4e1ad2ec2508",
+      "score": 0.8614325,
+      "metadata": {
+        "text": "core_product_name: ultrasonic flow meter",
+        "raw_product_name": "ULTRASONIC FLOW METER",
+        "list_of_product_ids": "6574,5744,11654,11727,11729,11728,11749,11922,13398,17968,18231,19176,38508,36840,35992,38498",
+        "core_id": 2315.0
+      }
+    },
+    {
+      "id": "variant-df5488a2-4bea-54ad-878b-edd74b01b7c0",
+      "score": 0.86122096,
+      "metadata": {
+        "text": "core_product_name: special level instrument",
+        "raw_product_name": "SPECIAL LEVEL INSTRUMENTS",
+        "list_of_product_ids": "56,556,484",
+        "core_id": 2076.0
+      }
+    },
+    {
+      "id": "variant-ce3340f0-4981-5b69-907c-467bbb0fd41b",
+      "score": 0.8603028,
+      "metadata": {
+        "text": "core_product_name: electrical instrument | type_or_class: Voltmeter",
+        "raw_product_name": "ELECTRICAL INSTRUMENTS (VOLTMETER)",
+        "list_of_product_ids": "164,211,652,016,522",
+        "core_id": 707.0
+      }
+    },
+    {
+      "id": "variant-3b4492be-e634-5952-99e3-1dc4031766ad",
+      "score": 0.85985935,
+      "metadata": {
+        "text": "core_product_name: sound level monitoring",
+        "raw_product_name": "SOUND LEVEL MONITORING",
+        "list_of_product_ids": "243,292,433,026,872",
+        "core_id": 2066.0
+      }
+    },
+    {
+      "id": "variant-89a2347f-1a82-5551-9f1b-80bf9155df99",
+      "score": 0.85940176,
+      "metadata": {
+        "text": "core_product_name: magnetic flow meter",
+        "raw_product_name": "MAGNETIC FLOW METERS",
+        "list_of_product_ids": "5741,6571,11580,11586,11691,10064,11682,11808,10094,10124,10108,10571,11707,11872,12210,13112,13385,13396,18228,18264,18885,18931,32952,36224,36376",
+        "core_id": 1421.0
+      }
+    },
+    {
+      "id": "variant-d1365a8c-84b3-5290-9344-b2b83a9fb93d",
+      "score": 0.85915977,
+      "metadata": {
+        "text": "core_product_name: energy meter",
+        "raw_product_name": "ENERGY METER",
+        "list_of_product_ids": "20130,20445,20420,20467,20508,20644,36515",
+        "core_id": 746.0
+      }
+    }
+  ]
+}

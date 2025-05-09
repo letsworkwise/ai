@@ -1,0 +1,62 @@
+{
+  "query": "core_product_name: sample gas cylinder for gas detectors | size: calibration capacity: minimum 21 gas detectors at a time | feature_or_specifications: accessories: all needed for calibration included",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: calibration",
+        "raw_product_name": "INSTRUMENTS CALIBRATION",
+        "list_of_product_ids": [
+          "24237",
+          "23794",
+          "23833",
+          "23950",
+          "23799",
+          "26879"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: sample gas pump",
+        "raw_product_name": "SAMPLE GAS PUMP",
+        "list_of_product_ids": [
+          "19213",
+          "19211",
+          "19658",
+          "27529",
+          "38631",
+          "39778"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: gas detector",
+        "raw_product_name": "GAS DETECTORS",
+        "list_of_product_ids": [
+          "9806",
+          "9813",
+          "9861",
+          "19902",
+          "34955",
+          "36092",
+          "36086",
+          "36094",
+          "39317"
+        ]
+      }
+    }
+  ]
+}

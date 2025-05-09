@@ -1,0 +1,412 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.87007344,
+      "text": "core_product_name: earthing material",
+      "core_id": 672.0,
+      "raw_product_name": "EARTHING MATERIALS",
+      "list_of_product_ids": [
+        "378",
+        "733",
+        "788",
+        "037",
+        "898"
+      ]
+    },
+    {
+      "retrieval_score": 0.8675282,
+      "text": "core_product_name: neutral grounding resistor",
+      "core_id": 1545.0,
+      "raw_product_name": "NEUTRAL GROUNDING RESISTOR",
+      "list_of_product_ids": [
+        "13789",
+        "16868",
+        "24234",
+        "22107",
+        "22106",
+        "22104"
+      ]
+    },
+    {
+      "retrieval_score": 0.86214024,
+      "text": "core_product_name: instrumentation earthing",
+      "core_id": 1263.0,
+      "raw_product_name": "INSTRUMENTATION EARTHING",
+      "list_of_product_ids": [
+        "13420"
+      ]
+    },
+    {
+      "retrieval_score": 0.84880173,
+      "text": "core_product_name: low pressure non ferrous pipe",
+      "core_id": 1686.0,
+      "raw_product_name": "PIPES NON FERROUS - LOW PRESSURE",
+      "list_of_product_ids": [
+        "29957",
+        "29958",
+        "29959",
+        "30508",
+        "29960"
+      ]
+    },
+    {
+      "retrieval_score": 0.8486516,
+      "text": "core_product_name: pipe fitting | material: Non Ferrous",
+      "core_id": 182.0,
+      "raw_product_name": "NON FERROUS PIPE FITTINGS",
+      "list_of_product_ids": [
+        "22328",
+        "22326",
+        "23499",
+        "28817"
+      ]
+    },
+    {
+      "retrieval_score": 0.84778535,
+      "text": "core_product_name: soil pipe",
+      "core_id": 2054.0,
+      "raw_product_name": "SOIL PIPES",
+      "list_of_product_ids": [
+        "20572",
+        "20534",
+        "20613",
+        "20618",
+        "20667",
+        "20725"
+      ]
+    },
+    {
+      "retrieval_score": 0.84760046,
+      "text": "core_product_name: wet pit pump | mounting_or_installation: vertical",
+      "core_id": 2471.0,
+      "raw_product_name": "WET PIT PUMPS - VERTICAL",
+      "list_of_product_ids": [
+        "37846",
+        "37847",
+        "37848",
+        "37849",
+        "37804",
+        "37810",
+        "37843",
+        "37844",
+        "37845"
+      ]
+    },
+    {
+      "retrieval_score": 0.8475206,
+      "text": "core_product_name: cross fitting | special_attributes: Seamless (pipes)",
+      "core_id": 822.0,
+      "raw_product_name": "FIITINGS CROSS-FROM SEAMLESS PIPES",
+      "list_of_product_ids": [
+        "6319",
+        "5490",
+        "11288",
+        "33988",
+        "33987",
+        "33986"
+      ]
+    },
+    {
+      "retrieval_score": 0.8473168,
+      "text": "core_product_name: neutral grounding resistor | type_or_class: High Voltage (H.V.)",
+      "core_id": 1545.0,
+      "raw_product_name": "NEUTRAL GROUNDING RESISTORS-H.V.",
+      "list_of_product_ids": [
+        "6428",
+        "5598",
+        "10534",
+        "10546",
+        "10545",
+        "16915"
+      ]
+    },
+    {
+      "retrieval_score": 0.8448867,
+      "text": "core_product_name: neutral grounding resistor | type_or_class: Medium Voltage (M.V.)",
+      "core_id": 1545.0,
+      "raw_product_name": "NEUTRAL GROUNDING RESISTORS-M.V.",
+      "list_of_product_ids": [
+        "16867",
+        "16864",
+        "16916",
+        "27424"
+      ]
+    },
+    {
+      "retrieval_score": 0.84468555,
+      "text": "core_product_name: tube | material: Copper | construction_features: Coated | construction_features: Bare",
+      "core_id": 88.0,
+      "raw_product_name": "COPPER TUBES(COATED,BARE)",
+      "list_of_product_ids": [
+        "6",
+        "487",
+        "565",
+        "818",
+        "967"
+      ]
+    },
+    {
+      "retrieval_score": 0.8440104,
+      "text": "core_product_name: gate valve | operating_conditions: LP (Low Pressure) application",
+      "core_id": 1041.0,
+      "raw_product_name": "Valve gate for LP application",
+      "list_of_product_ids": [
+        "14074",
+        "14930",
+        "22240",
+        "22352",
+        "35540"
+      ]
+    },
+    {
+      "retrieval_score": 0.843494,
+      "text": "core_product_name: piping speciality",
+      "core_id": 1689.0,
+      "raw_product_name": "PIPING SPECIALITY",
+      "list_of_product_ids": [
+        "194",
+        "961",
+        "949",
+        "428",
+        "268"
+      ]
+    },
+    {
+      "retrieval_score": 0.84326625,
+      "text": "core_product_name: metal | material: Non Ferrous",
+      "core_id": 809.0,
+      "raw_product_name": "NON FERROUS METALS",
+      "list_of_product_ids": [
+        "1",
+        "379",
+        "122",
+        "874"
+      ]
+    },
+    {
+      "retrieval_score": 0.8425878,
+      "text": "core_product_name: primary structure | construction_features: bolted",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+      "list_of_product_ids": [
+        "20000",
+        "19997",
+        "20035",
+        "21038",
+        "21002",
+        "21083",
+        "21901",
+        "22017",
+        "22116",
+        "22826",
+        "22992"
+      ]
+    },
+    {
+      "retrieval_score": 0.84224766,
+      "text": "core_product_name: earth leakage relay",
+      "core_id": 670.0,
+      "raw_product_name": "EARTH LEAKAGE RELAY",
+      "list_of_product_ids": [
+        "1",
+        "379",
+        "915",
+        "295"
+      ]
+    },
+    {
+      "retrieval_score": 0.84182537,
+      "text": "core_product_name: coupling device",
+      "core_id": 499.0,
+      "raw_product_name": "COUPLING DEVICE",
+      "list_of_product_ids": [
+        "18582",
+        "18579",
+        "18578",
+        "18637"
+      ]
+    },
+    {
+      "retrieval_score": 0.841704,
+      "text": "core_product_name: chipping",
+      "core_id": 347.0,
+      "raw_product_name": "CHIPPING",
+      "list_of_product_ids": [
+        "239",
+        "692",
+        "397",
+        "328",
+        "692"
+      ]
+    },
+    {
+      "retrieval_score": 0.841682,
+      "text": "core_product_name: valve | material: Non Ferrous",
+      "core_id": 307.0,
+      "raw_product_name": "Non Ferrous Valves",
+      "list_of_product_ids": [
+        "7498",
+        "7173",
+        "11991",
+        "17809"
+      ]
+    },
+    {
+      "retrieval_score": 0.8416795,
+      "text": "core_product_name: check valve | operating_conditions: LP (Low Pressure) application",
+      "core_id": 340.0,
+      "raw_product_name": "Valves check for LP application",
+      "list_of_product_ids": [
+        "8343"
+      ]
+    },
+    {
+      "retrieval_score": 0.8416795,
+      "text": "core_product_name: check valve | operating_conditions: LP (Low Pressure) application",
+      "core_id": 340.0,
+      "raw_product_name": "Valve check for LP application",
+      "list_of_product_ids": [
+        "14071",
+        "14931",
+        "22241",
+        "22353"
+      ]
+    },
+    {
+      "retrieval_score": 0.84135956,
+      "text": "core_product_name: nucleonic level instrument",
+      "core_id": 1564.0,
+      "raw_product_name": "NUCLEONIC LEVEL INSTRUMENTS",
+      "list_of_product_ids": [
+        "6590",
+        "5760",
+        "10953",
+        "10104",
+        "10118",
+        "19570",
+        "20889",
+        "35265",
+        "35416",
+        "35425"
+      ]
+    },
+    {
+      "retrieval_score": 0.8412087,
+      "text": "core_product_name: non metalic surface hardner | material: Non Metalic",
+      "core_id": 1570.0,
+      "raw_product_name": "Non Metalic Surface Hardners",
+      "list_of_product_ids": [
+        "13792",
+        "23889",
+        "22465",
+        "35653"
+      ]
+    },
+    {
+      "retrieval_score": 0.8407053,
+      "text": "core_product_name: non-asbestos jointing material | material: Non-Asbestos",
+      "core_id": 1557.0,
+      "raw_product_name": "NON-ASBESTOS JOINTING MATERIALS",
+      "list_of_product_ids": [
+        "195",
+        "901",
+        "958",
+        "728",
+        "274"
+      ]
+    },
+    {
+      "retrieval_score": 0.8406125,
+      "text": "core_product_name: pillar tap",
+      "core_id": 501.0,
+      "raw_product_name": "PILLAR TAPS",
+      "list_of_product_ids": [
+        "1",
+        "388",
+        "622",
+        "907"
+      ]
+    },
+    {
+      "retrieval_score": 0.8405088,
+      "text": "core_product_name: seamless pipe fitting | special_attributes: Seamless",
+      "core_id": 1660.0,
+      "raw_product_name": "PIPE FITTINGS SEAMLESS",
+      "list_of_product_ids": [
+        "13917",
+        "15739",
+        "16052",
+        "16258",
+        "16611",
+        "16578",
+        "19720",
+        "20931",
+        "22918",
+        "36847"
+      ]
+    },
+    {
+      "retrieval_score": 0.84043497,
+      "text": "core_product_name: for cementitious surface water proofing",
+      "core_id": 2445.0,
+      "raw_product_name": "WATER PROOFING FOR CEMENTITIONS SURFACE",
+      "list_of_product_ids": [
+        "14088",
+        "22464",
+        "24156",
+        "23887",
+        "22879",
+        "35650"
+      ]
+    },
+    {
+      "retrieval_score": 0.84035254,
+      "text": "core_product_name: electro-pneumatic positioner",
+      "core_id": 716.0,
+      "raw_product_name": "ELECTRO - PNEUMATIC POSITIONER",
+      "list_of_product_ids": [
+        "4",
+        "019",
+        "640",
+        "266"
+      ]
+    },
+    {
+      "retrieval_score": 0.84015584,
+      "text": "core_product_name: tube | special_attributes: Seamless | material: Nickel Alloys",
+      "core_id": 88.0,
+      "raw_product_name": "PIPE/TUBE-NICKEL ALLOYS (S.LESS & WELDED)",
+      "list_of_product_ids": [
+        "6289",
+        "5460",
+        "10330",
+        "7774",
+        "7795",
+        "7807",
+        "7781",
+        "13138",
+        "17018",
+        "17429",
+        "19628",
+        "21096",
+        "21317",
+        "21307",
+        "30870",
+        "30875",
+        "37088"
+      ]
+    },
+    {
+      "retrieval_score": 0.8399998,
+      "text": "core_product_name: check valve | construction_features: pre-insulation",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK PRE-INSULATION",
+      "list_of_product_ids": [
+        "1",
+        "544",
+        "118",
+        "796"
+      ]
+    }
+  ]
+}

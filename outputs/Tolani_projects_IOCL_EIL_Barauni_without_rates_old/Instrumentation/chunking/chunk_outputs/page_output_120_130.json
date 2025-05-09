@@ -1,0 +1,198 @@
+{
+  "sheet_name": "Instrumentation",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "8 + 8 x 10",
+      "core_product_name": "cable",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "8 + 8 x 4",
+      "core_product_name": "cable",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Laying of instrumentation cables for signal, alarm, shutdown, control and signal cable on ducts, main trays, perforated trays, angle trays, trenches (including opening of cable duct covers if required  through IRCs {Instrument Road Crossings}) including clamping, glanding the cables, termination at both ends including shield/ drain/ communication wire, providing and fixing identifying tags and megger testing but exclusive of supply of cables and erection of ducts, main tray, perforated tray/ angle trays and preparation of cable trench. Signal / Alarm / Control Cables of cable sizes 1P x 1.5 / 2.5 mm²",
+      "core_product_name": "instrumentation cable laying",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1P x 1.5 / 2.5 mm²",
+      "feature_or_specifications": "application: signal, alarm, shutdown, control; laying location: ducts, main trays, perforated trays, angle trays, trenches; includes: opening of cable duct covers, clamping, glanding, termination at both ends, shield/drain/communication wire, identifying tags, megger testing; excludes: supply of cables, erection of ducts, trays, trench preparation",
+      "quantity": "2500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Laying of instrumentation cables for signal, alarm, shutdown, control and signal cable on ducts, main trays, perforated trays, angle trays, trenches (including opening of cable duct covers if required  through IRCs {Instrument Road Crossings}) including clamping, glanding the cables, termination at both ends including shield/ drain/ communication wire, providing and fixing identifying tags and megger testing but exclusive of supply of cables and erection of ducts, main tray, perforated tray/ angle trays and preparation of cable trench. Signal/ Alarm/ Control Cables of cable sizes 12C / 6P x 1.5 / 2.5 mm²",
+      "core_product_name": "instrumentation cable laying",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 12C / 6P x 1.5 / 2.5 mm²",
+      "feature_or_specifications": "application: signal, alarm, shutdown, control; laying location: ducts, main trays, perforated trays, angle trays, trenches; includes: opening of cable duct covers, clamping, glanding, termination at both ends, shield/drain/communication wire, identifying tags, megger testing; excludes: supply of cables, erection of ducts, trays, trench preparation",
+      "quantity": "500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Laying of instrumentation cables for signal, alarm, shutdown, control and signal cable on ducts, main trays, perforated trays, angle trays, trenches (including opening of cable duct covers if required  through IRCs {Instrument Road Crossings}) including clamping, glanding the cables, termination at both ends including shield/ drain/ communication wire, providing and fixing identifying tags and megger testing but exclusive of supply of cables and erection of ducts, main tray, perforated tray/ angle trays and preparation of cable trench. Signal/ Alarm/ Control Cables of cable sizes 24C /12P x 1.5/ 2.5  mm²",
+      "core_product_name": "instrumentation cable laying",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 24C /12P x 1.5/ 2.5 mm²",
+      "feature_or_specifications": "application: signal, alarm, shutdown, control; laying location: ducts, main trays, perforated trays, angle trays, trenches; includes: opening of cable duct covers, clamping, glanding, termination at both ends, shield/drain/communication wire, identifying tags, megger testing; excludes: supply of cables, erection of ducts, trays, trench preparation",
+      "quantity": "500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Laying of instrumentation cables for signal, alarm, shutdown, control and signal cable on ducts, main trays, perforated trays, angle trays, trenches (including opening of cable duct covers if required  through IRCs {Instrument Road Crossings}) including clamping, glanding the cables, termination at both ends including shield/ drain/ communication wire, providing and fixing identifying tags and megger testing but exclusive of supply of cables and erection of ducts, main tray, perforated tray/ angle trays and preparation of cable trench. Special armoured serial link MODBUS TCP/IP/RS485 Serial/ cable",
+      "core_product_name": "instrumentation cable laying",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "cable type: special armoured serial link MODBUS TCP/IP/RS485 Serial/ cable; application: signal, alarm, shutdown, control; laying location: ducts, main trays, perforated trays, angle trays, trenches; includes: opening of cable duct covers, clamping, glanding, termination at both ends, shield/drain/communication wire, identifying tags, megger testing; excludes: supply of cables, erection of ducts, trays, trench preparation",
+      "quantity": "1000.0",
+      "unit": "m"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      120,
+      129
+    ],
+    "original_rows": [
+      {
+        "0": 362,
+        "1": 0,
+        "2": "01II.600.50.1",
+        "3": "8 + 8 x 10",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 363,
+        "1": 0,
+        "2": "01II.600.50.4",
+        "3": "8 + 8 x 4",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 364,
+        "1": 0,
+        "2": "01II.610",
+        "3": "LAYING OF CABLES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 365,
+        "1": 0,
+        "2": "01II.610.10",
+        "3": "Laying of instrumentation cables for signal, alarm, shutdown, control and signal cable on ducts, main trays, perforated trays, angle trays, trenches (including opening of cable duct covers if required  through IRCs {Instrument Road Crossings}) including clamping, glanding the cables, termination at both ends including shield/ drain/ communication wire, providing and fixing identifying tags and megger testing but exclusive of supply of cables and erection of ducts, main tray, perforated tray/ angle trays and preparation of cable trench.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 366,
+        "1": 0,
+        "2": "01II.610.10.1",
+        "3": "Signal / Alarm / Control Cables of cable sizes 1P x 1.5 / 2.5 mm²",
+        "4": 2500.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 367,
+        "1": 0,
+        "2": "01II.610.10.4",
+        "3": "Signal/ Alarm/ Control Cables of cable sizes 12C / 6P x 1.5 / 2.5 mm²",
+        "4": 500.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 368,
+        "1": 0,
+        "2": "01II.610.10.9",
+        "3": "Signal/ Alarm/ Control Cables of cable sizes 24C /12P x 1.5/ 2.5  mm²",
+        "4": 500.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 369,
+        "1": 0,
+        "2": "01II.610.10.12",
+        "3": "Special armoured serial link MODBUS TCP/IP/RS485 Serial/ cable",
+        "4": 1000.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 370,
+        "1": 0,
+        "2": "01II.610.30",
+        "3": "Laying of thermocouple/ RTD/ LEL Detector/ H2S Detector cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs {Instrument Road Crossings}) including opening of cable duct covers if required clamping, glanding the cables, termination at both ends including shield/ drain/communication wire providing and fixing of identifying tags and megger testing but exclusive of supply of multi cables and erection of ducts, main tray, perforated tray/angle tray and preparation of cable trench.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 371,
+        "1": 0,
+        "2": "01II.610.30.21",
+        "3": "1 Pair / 2 Pair x 16/20 AWG Thermocouple Cable",
+        "4": 200.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2584,
+    "completion_tokens": 1722
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "WIRING",
+      "full_product_description": "Connecting individual equipment to the earth strip or earth plate with following sizes of G.I. wire / G.I. wire rope 3/8\" dia (10 mm) flexible rope.",
+      "core_product_name": "gi wire or gi wire rope connecting individual equipment to earth strip or earth plate",
+      "acronymed_core_product_name": "gi wire or gi wire rope",
+      "size": "diameter: 3/8 inch (10 mm)",
+      "feature_or_specifications": "type: flexible rope",
+      "quantity": "100.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "WIRING",
+      "full_product_description": "Connecting individual equipment to the earth strip or earth plate with following sizes of G.I. wire / G.I. wire rope 5/8\" dia (16 mm) flexible rope.",
+      "core_product_name": "gi wire or gi wire rope connecting individual equipment to earth strip or earth plate",
+      "acronymed_core_product_name": "gi wire or gi wire rope",
+      "size": "diameter: 5/8 inch (16 mm)",
+      "feature_or_specifications": "type: flexible rope",
+      "quantity": "100.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "WIRING",
+      "full_product_description": "Connecting individual equipment to the earth strip or earth plate with following sizes of G.I. wire / G.I. wire rope 8 SWG GI Wire.",
+      "core_product_name": "gi wire or gi wire rope connecting individual equipment to earth strip or earth plate",
+      "acronymed_core_product_name": "gi wire or gi wire rope",
+      "size": "wire gauge: 8 swg",
+      "feature_or_specifications": "material: gi (galvanized iron), type: wire",
+      "quantity": "20.0",
+      "unit": "m"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      230,
+      239
+    ],
+    "original_rows": [
+      {
+        "0": 231,
+        "1": 0,
+        "2": "01EE.4040.10",
+        "3": "Connecting individual equipment to the earth strip or earth plate with following sizes of G.I. wire / G.I. wire rope",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 232,
+        "1": 0,
+        "2": "01EE.4040.10.10",
+        "3": "3/8\" dia (10 mm) flexible rope.",
+        "4": 100.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 233,
+        "1": 0,
+        "2": "01EE.4040.10.20",
+        "3": "5/8\" dia (16 mm) flexible rope.",
+        "4": 100.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 234,
+        "1": 0,
+        "2": "01EE.4040.10.30",
+        "3": "8 SWG GI Wire.",
+        "4": 20.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 235,
+        "1": 0,
+        "2": "01EE.4040.30",
+        "3": "Supply and installation of 25 sq. mm (168/0.01772\") copper flexibles of following length with copper lugs crimped on",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 236,
+        "1": 0,
+        "2": "01EE.4040.30.10",
+        "3": "300 mm",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 237,
+        "1": 0,
+        "2": "01EE.4040.30.20",
+        "3": "500 mm",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 238,
+        "1": 0,
+        "2": "01EE.4040.30.30",
+        "3": "1500 mm",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 239,
+        "1": 0,
+        "2": "01EE.4050",
+        "3": "EARTH PLATES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 240,
+        "1": 0,
+        "2": "01EE.4050.10",
+        "3": "Supply, installation and connection of GI earth plates as per std. 7-51-0103, complete with anchor bolts, including all",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2364,
+    "completion_tokens": 920
+  }
+}

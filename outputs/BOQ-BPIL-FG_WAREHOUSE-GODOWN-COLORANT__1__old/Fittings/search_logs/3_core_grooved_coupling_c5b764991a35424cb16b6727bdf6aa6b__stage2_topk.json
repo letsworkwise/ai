@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: grooved coupling | size: nominal bore: 80",
+  "retrieval_results": [
+    {
+      "id": "variant-3aab3c1a-b3e9-52c8-bf7e-0d99674edf84",
+      "score": 0.8781337,
+      "metadata": {
+        "text": "core_product_name: geared coupling | size_or_capacity: below 50 kW (kilowatt)",
+        "raw_product_name": "Geared Coupling(below 50 kW)",
+        "list_of_product_ids": "7030,7358,10523,10533,9730,18765,18775",
+        "core_id": 1083.0
+      }
+    },
+    {
+      "id": "variant-e0d4f4c7-a28c-568e-892e-f4bd7c857efd",
+      "score": 0.87805355,
+      "metadata": {
+        "text": "core_product_name: geared coupling | size_or_capacity: 50 kW and above",
+        "raw_product_name": "Geared Coupling(50 kW and above)",
+        "list_of_product_ids": "7046,7373,9729,18764,18774",
+        "core_id": 1083.0
+      }
+    },
+    {
+      "id": "variant-8b08aed3-7c60-5bf1-8758-bc5bc5707a0a",
+      "score": 0.86543137,
+      "metadata": {
+        "text": "core_product_name: coupling",
+        "raw_product_name": "COUPLING",
+        "list_of_product_ids": "14102,19606,19603,21430,24786,24777,24787,24800,24801,24814,25096,37417,37437",
+        "core_id": 497.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.8645955,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    },
+    {
+      "id": "variant-de672701-9ade-5c81-8247-0ddaf7d35263",
+      "score": 0.8584479,
+      "metadata": {
+        "text": "core_product_name: hose coupling",
+        "raw_product_name": "HOSE COUPLING",
+        "list_of_product_ids": "8887,8914,9058,9822,9050,9054,9143,20026,20038",
+        "core_id": 1145.0
+      }
+    },
+    {
+      "id": "variant-c600bffc-d53a-53a6-8754-c996b2644bec",
+      "score": 0.85712725,
+      "metadata": {
+        "text": "core_product_name: fluid coupling",
+        "raw_product_name": "Fluid Coupling",
+        "list_of_product_ids": "7541,7215,9733,16462",
+        "core_id": 948.0
+      }
+    },
+    {
+      "id": "variant-7146d757-9e40-5f96-a20a-728f619703b7",
+      "score": 0.8553903,
+      "metadata": {
+        "text": "core_product_name: coupling | type_or_class: Pin Bush or Bibby | size_or_capacity: below 10 kW",
+        "raw_product_name": "Pin Bush/ Bibby Coupling (below10kW)",
+        "list_of_product_ids": "7044,7371,10524,9732,18767",
+        "core_id": 497.0
+      }
+    },
+    {
+      "id": "variant-778645d4-85bb-59dd-8fa4-ed0ea95deb18",
+      "score": 0.8530736,
+      "metadata": {
+        "text": "core_product_name: pin bush or bibby coupling | size_or_capacity: 10kW and above",
+        "raw_product_name": "Pin Bush/ Bibby Coupling (10kW and above)",
+        "list_of_product_ids": "7043,7370,9731,18766",
+        "core_id": 1831.0
+      }
+    },
+    {
+      "id": "variant-e5c86a71-04bd-5314-b0cb-6b60180b38da",
+      "score": 0.85299224,
+      "metadata": {
+        "text": "core_product_name: coupling capacitor",
+        "raw_product_name": "COUPLING CAPACITOR",
+        "list_of_product_ids": "18571,18570,18564,18561,18560,18639,18559",
+        "core_id": 496.0
+      }
+    },
+    {
+      "id": "variant-0e79bdd6-b79e-559f-9b10-2259217696a2",
+      "score": 0.8525436,
+      "metadata": {
+        "text": "core_product_name: resilient coupling",
+        "raw_product_name": "Resilient Coupling",
+        "list_of_product_ids": "7045,7372,10525,10811,9734",
+        "core_id": 1945.0
+      }
+    },
+    {
+      "id": "variant-2f93d8f7-a73a-5975-bf77-9375f12bceaf",
+      "score": 0.8493156,
+      "metadata": {
+        "text": "core_product_name: geared motor | size_or_capacity: below 5 kW",
+        "raw_product_name": "Geared Motor(below 5 kW)",
+        "list_of_product_ids": "7027,7355,10478,10515,10519,10531,10521,10808,10806,35411",
+        "core_id": 1084.0
+      }
+    },
+    {
+      "id": "variant-74503a1f-fa22-5c08-ac97-9f8dba31f1f4",
+      "score": 0.8470028,
+      "metadata": {
+        "text": "core_product_name: conduit fitting",
+        "raw_product_name": "FITTINGS (CONDUIT)",
+        "list_of_product_ids": "165,391,654,021,574",
+        "core_id": 870.0
+      }
+    },
+    {
+      "id": "variant-9c05ffb1-461a-5bd6-ba91-086e808c1a36",
+      "score": 0.8467608,
+      "metadata": {
+        "text": "core_product_name: breakaway coupling",
+        "raw_product_name": "BREAKAWAY COUPLING",
+        "list_of_product_ids": "1,363,717,942",
+        "core_id": 244.0
+      }
+    },
+    {
+      "id": "variant-5935ee01-a444-52d8-9615-fa4b0239701e",
+      "score": 0.846629,
+      "metadata": {
+        "text": "core_product_name: geared motor",
+        "raw_product_name": "Geared Motor",
+        "list_of_product_ids": "7,543,721,735,410",
+        "core_id": 1084.0
+      }
+    },
+    {
+      "id": "variant-c184836f-fc8c-5421-96c9-57703770e0df",
+      "score": 0.8465884,
+      "metadata": {
+        "text": "core_product_name: thermocouple",
+        "raw_product_name": "THERMOCOUPLES",
+        "list_of_product_ids": "6546,5717,16564,17217,24281,36622",
+        "core_id": 2246.0
+      }
+    },
+    {
+      "id": "variant-383781f7-59ee-5d5b-8a29-cf16569a65fc",
+      "score": 0.8454222,
+      "metadata": {
+        "text": "core_product_name: welded fitting",
+        "raw_product_name": "FITTINGS \u2013 AS WELDED",
+        "list_of_product_ids": "14259,15973,19406,19805,19790,20139,22666,37085,37098",
+        "core_id": 878.0
+      }
+    },
+    {
+      "id": "variant-f9d0f089-635a-5d99-871b-36ab7568eaca",
+      "score": 0.84428066,
+      "metadata": {
+        "text": "core_product_name: cross fitting | special_attributes: Seamless (pipes)",
+        "raw_product_name": "FIITINGS CROSS-FROM SEAMLESS PIPES",
+        "list_of_product_ids": "6319,5490,11288,33988,33987,33986",
+        "core_id": 822.0
+      }
+    },
+    {
+      "id": "variant-9aa36f08-e097-54b1-94fe-8359583782f8",
+      "score": 0.8442461,
+      "metadata": {
+        "text": "core_product_name: orifice fitting",
+        "raw_product_name": "ORIFICE - FITTINGS",
+        "list_of_product_ids": "36537,36541,36539,36546",
+        "core_id": 1602.0
+      }
+    },
+    {
+      "id": "variant-bb96db43-a603-5b08-b082-1a787ab9db3c",
+      "score": 0.8435161,
+      "metadata": {
+        "text": "core_product_name: conduit accessory",
+        "raw_product_name": "CONDUIT ACCESSORIES",
+        "list_of_product_ids": "20550,20514,20591,20632,20686,20744",
+        "core_id": 439.0
+      }
+    },
+    {
+      "id": "variant-8d00b73b-5dbc-5a15-9977-16b46a2060ab",
+      "score": 0.8434634,
+      "metadata": {
+        "text": "core_product_name: valve fitting",
+        "raw_product_name": "VALVES FITTING",
+        "list_of_product_ids": "8612",
+        "core_id": 2379.0
+      }
+    },
+    {
+      "id": "variant-6a2eb1b0-38c1-5e50-8fd3-5808f51bb1ee",
+      "score": 0.84346247,
+      "metadata": {
+        "text": "core_product_name: bearing",
+        "raw_product_name": "Bearing",
+        "list_of_product_ids": "7047,7374,15509,15505,18776,20394,20653,19595,37012",
+        "core_id": 267.0
+      }
+    },
+    {
+      "id": "variant-223a653f-ce26-546e-9630-21d058f384c7",
+      "score": 0.8425663,
+      "metadata": {
+        "text": "core_product_name: grating",
+        "raw_product_name": "GRATINGS",
+        "list_of_product_ids": "218,522,185,428,606",
+        "core_id": 1068.0
+      }
+    },
+    {
+      "id": "variant-c3756b8d-324f-56ef-8b25-e8649af3435b",
+      "score": 0.84236825,
+      "metadata": {
+        "text": "core_product_name: variable speed fluid coupling",
+        "raw_product_name": "FLUID COUPLING (VARIABLE SPEED)",
+        "list_of_product_ids": "9,884,989,418,747",
+        "core_id": 947.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.84209895,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-f126676e-a62f-52a6-ba06-b09e7951e71e",
+      "score": 0.84186834,
+      "metadata": {
+        "text": "core_product_name: forged fitting",
+        "raw_product_name": "FORGED FITTINGS",
+        "list_of_product_ids": "13660,22252,24586,36933",
+        "core_id": 972.0
+      }
+    },
+    {
+      "id": "variant-ee924878-b1d8-53b4-bc37-39cf91a098ae",
+      "score": 0.841773,
+      "metadata": {
+        "text": "core_product_name: fluid coupling | type_or_class: Constant Speed",
+        "raw_product_name": "FLUID COUPLING (CONSTANT SPEED)",
+        "list_of_product_ids": "178,721,865,117,870",
+        "core_id": 948.0
+      }
+    },
+    {
+      "id": "variant-d65edc80-7bd6-5e0a-a085-b9a403bb222d",
+      "score": 0.84170395,
+      "metadata": {
+        "text": "core_product_name: thrust bearing",
+        "raw_product_name": "THRUST BEARING",
+        "list_of_product_ids": "236,132,357,723,575",
+        "core_id": 2248.0
+      }
+    },
+    {
+      "id": "variant-9b25b784-a1a1-5ce1-9130-4075d704d02b",
+      "score": 0.8416454,
+      "metadata": {
+        "text": "core_product_name: globe valve | construction_features: forged",
+        "raw_product_name": "VALVE GLOBE FORGED",
+        "list_of_product_ids": "6222,5391,11621,11639,11241,11254,11278,8279,8380,8554,8644,8621,9386,9428,9410,9452,9251,9165,9247,9341,11976,12097,12492,12571,13261,13361,19389,17622,17817,17907,18303,18031,19861,31811,19381,32700,36762,35556",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-3f2acb41-a1eb-5138-ad21-61ecd0048e63",
+      "score": 0.8415691,
+      "metadata": {
+        "text": "core_product_name: pipeline connector",
+        "raw_product_name": "PIPELINE CONNECTORS",
+        "list_of_product_ids": "6,011,519,022,696",
+        "core_id": 1679.0
+      }
+    },
+    {
+      "id": "variant-151ce4f6-5469-579f-8545-47358a95c4ad",
+      "score": 0.841357,
+      "metadata": {
+        "text": "core_product_name: flange | material: Alloy 20",
+        "raw_product_name": "FLANGE- ALLOY 20",
+        "list_of_product_ids": "176,491,764,718,665",
+        "core_id": 216.0
+      }
+    }
+  ]
+}

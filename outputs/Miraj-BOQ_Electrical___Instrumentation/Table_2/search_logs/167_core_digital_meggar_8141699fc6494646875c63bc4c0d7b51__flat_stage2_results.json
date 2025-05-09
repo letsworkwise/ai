@@ -1,0 +1,578 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8650552,
+      "text": "core_product_name: megger (megohmmeter) instrument",
+      "core_id": 1458.0,
+      "raw_product_name": "MEGGER INSTRUMENT",
+      "list_of_product_ids": [
+        "166",
+        "191",
+        "659",
+        "627",
+        "346"
+      ]
+    },
+    {
+      "retrieval_score": 0.8466412,
+      "text": "core_product_name: digital indicator",
+      "core_id": 590.0,
+      "raw_product_name": "DIGITAL INDICATOR",
+      "list_of_product_ids": [
+        "1",
+        "365",
+        "123",
+        "180"
+      ]
+    },
+    {
+      "retrieval_score": 0.84276795,
+      "text": "core_product_name: drum level instrument | type_or_class: Electronic",
+      "core_id": 629.0,
+      "raw_product_name": "DRUM LEVEL INSTRUMENTS (ELECTRONIC)",
+      "list_of_product_ids": [
+        "5750",
+        "6580",
+        "10947",
+        "10950",
+        "11314",
+        "35427"
+      ]
+    },
+    {
+      "retrieval_score": 0.84191215,
+      "text": "core_product_name: electronic marker",
+      "core_id": 727.0,
+      "raw_product_name": "ELECTRONIC MARKER",
+      "list_of_product_ids": [
+        "13904"
+      ]
+    },
+    {
+      "retrieval_score": 0.84084207,
+      "text": "core_product_name: globe valve | construction_features: forged",
+      "core_id": 1062.0,
+      "raw_product_name": "VALVE GLOBE FORGED",
+      "list_of_product_ids": [
+        "6222",
+        "5391",
+        "11621",
+        "11639",
+        "11241",
+        "11254",
+        "11278",
+        "8279",
+        "8380",
+        "8554",
+        "8644",
+        "8621",
+        "9386",
+        "9428",
+        "9410",
+        "9452",
+        "9251",
+        "9165",
+        "9247",
+        "9341",
+        "11976",
+        "12097",
+        "12492",
+        "12571",
+        "13261",
+        "13361",
+        "19389",
+        "17622",
+        "17817",
+        "17907",
+        "18303",
+        "18031",
+        "19861",
+        "31811",
+        "19381",
+        "32700",
+        "36762",
+        "35556"
+      ]
+    },
+    {
+      "retrieval_score": 0.84024745,
+      "text": "core_product_name: deluge valve | type_or_class: Diaphragm",
+      "core_id": 565.0,
+      "raw_product_name": "DELUGE VALVE (DIAPHRAGM)",
+      "list_of_product_ids": [
+        "28285",
+        "28287",
+        "28297",
+        "28410",
+        "35575"
+      ]
+    },
+    {
+      "retrieval_score": 0.84010506,
+      "text": "core_product_name: gate cryogenic valve | construction_features: forged",
+      "core_id": 2359.0,
+      "raw_product_name": "VALVE GATE CRYOGENIC FORGED",
+      "list_of_product_ids": [
+        "6216",
+        "5385",
+        "11617",
+        "10419",
+        "11438",
+        "11413",
+        "8377",
+        "8642",
+        "8618",
+        "13256",
+        "31715"
+      ]
+    },
+    {
+      "retrieval_score": 0.83995926,
+      "text": "core_product_name: gate valve | construction_features: Forged",
+      "core_id": 1041.0,
+      "raw_product_name": "VALVE GATE FORGED",
+      "list_of_product_ids": [
+        "6215",
+        "5384",
+        "10997",
+        "11616",
+        "11636",
+        "11221",
+        "11239",
+        "11252",
+        "11276",
+        "11397",
+        "11437",
+        "9259",
+        "8278",
+        "8376",
+        "8550",
+        "8641",
+        "8617",
+        "9409",
+        "9434",
+        "9450",
+        "9249",
+        "9168",
+        "9245",
+        "9339",
+        "11977",
+        "12023",
+        "12041",
+        "12032",
+        "12096",
+        "12491",
+        "12570",
+        "12654",
+        "13254",
+        "19380",
+        "19388",
+        "17620",
+        "17816",
+        "17909",
+        "18302",
+        "18032",
+        "19708",
+        "19859",
+        "31810",
+        "31714",
+        "32699",
+        "35523"
+      ]
+    },
+    {
+      "retrieval_score": 0.8394736,
+      "text": "core_product_name: check valve | construction_features: Forged",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK FORGED",
+      "list_of_product_ids": [
+        "6231",
+        "5400",
+        "11625",
+        "11641",
+        "11223",
+        "11242",
+        "11255",
+        "9246",
+        "11448",
+        "9262",
+        "8280",
+        "8383",
+        "8555",
+        "8649",
+        "8626",
+        "9412",
+        "9451",
+        "9253",
+        "9166",
+        "9343",
+        "12098",
+        "12493",
+        "12572",
+        "12656",
+        "13266",
+        "13360",
+        "19382",
+        "19390",
+        "17623",
+        "17908",
+        "18030",
+        "19711",
+        "19860",
+        "31813",
+        "36763",
+        "32701"
+      ]
+    },
+    {
+      "retrieval_score": 0.83904284,
+      "text": "core_product_name: flushing apparatus",
+      "core_id": 958.0,
+      "raw_product_name": "FLUSHING APPARATUS",
+      "list_of_product_ids": [
+        "143",
+        "601",
+        "444",
+        "714",
+        "482"
+      ]
+    },
+    {
+      "retrieval_score": 0.83841085,
+      "text": "core_product_name: switch | material: Mercury",
+      "core_id": 603.0,
+      "raw_product_name": "MERCURY SWITCHES",
+      "list_of_product_ids": [
+        "1",
+        "642",
+        "516",
+        "474"
+      ]
+    },
+    {
+      "retrieval_score": 0.8377373,
+      "text": "core_product_name: check cryogenic valve | construction_features: forged",
+      "core_id": 2346.0,
+      "raw_product_name": "VALVE CHECK CRYOGENIC FORGED",
+      "list_of_product_ids": [
+        "6232",
+        "5401",
+        "11626",
+        "10425",
+        "11418",
+        "8650",
+        "8627"
+      ]
+    },
+    {
+      "retrieval_score": 0.8365783,
+      "text": "core_product_name: handheld data logger",
+      "core_id": 1095.0,
+      "raw_product_name": "HANDHELD DATA LOGGER",
+      "list_of_product_ids": [
+        "192",
+        "481",
+        "924",
+        "928",
+        "255"
+      ]
+    },
+    {
+      "retrieval_score": 0.8364657,
+      "text": "core_product_name: digital storage oscilloscope",
+      "core_id": 591.0,
+      "raw_product_name": "DIGITAL STORAGE OSCILLOSCOPE",
+      "list_of_product_ids": [
+        "1",
+        "543",
+        "418",
+        "782"
+      ]
+    },
+    {
+      "retrieval_score": 0.83616006,
+      "text": "core_product_name: generator shaft | special_attributes: forging",
+      "core_id": 1051.0,
+      "raw_product_name": "GENERATOR SHAFT FORGING",
+      "list_of_product_ids": [
+        "137",
+        "311",
+        "500",
+        "315",
+        "000"
+      ]
+    },
+    {
+      "retrieval_score": 0.8361048,
+      "text": "core_product_name: gauge",
+      "core_id": 1043.0,
+      "raw_product_name": "ROCHESTER GAUGE",
+      "list_of_product_ids": [
+        "13848",
+        "13850",
+        "15244",
+        "15258",
+        "21980",
+        "37412"
+      ]
+    },
+    {
+      "retrieval_score": 0.8360073,
+      "text": "core_product_name: cable lug | accessories_or_attachments: Lugs",
+      "core_id": 280.0,
+      "raw_product_name": "CABLE – LUGS",
+      "list_of_product_ids": [
+        "13715",
+        "14861",
+        "18113",
+        "19564",
+        "20439",
+        "20413",
+        "20462",
+        "20503",
+        "24057",
+        "23908",
+        "32998",
+        "33032",
+        "33185",
+        "33250",
+        "33552",
+        "33624",
+        "35913"
+      ]
+    },
+    {
+      "retrieval_score": 0.8359287,
+      "text": "core_product_name: digital switch | operating_conditions: Temperature | mounting_or_installation: Panel mounted",
+      "core_id": 592.0,
+      "raw_product_name": "DIGITAL TEMP SWITCH PANEL MOUNTED TYPE",
+      "list_of_product_ids": [
+        "164",
+        "041",
+        "650",
+        "716",
+        "513"
+      ]
+    },
+    {
+      "retrieval_score": 0.83584344,
+      "text": "core_product_name: receiver gauge",
+      "core_id": 1869.0,
+      "raw_product_name": "RECEIVER GAUGES",
+      "list_of_product_ids": [
+        "10283",
+        "10000",
+        "10021",
+        "22687",
+        "37662",
+        "37655",
+        "35965"
+      ]
+    },
+    {
+      "retrieval_score": 0.83573866,
+      "text": "core_product_name: magnetic level instrument",
+      "core_id": 1422.0,
+      "raw_product_name": "MAGNETIC LEVEL INSTRUMENTS",
+      "list_of_product_ids": [
+        "6583",
+        "5753",
+        "11811",
+        "11274",
+        "10573",
+        "10581",
+        "10196",
+        "10669",
+        "8393",
+        "11949",
+        "11948",
+        "12069",
+        "12219",
+        "12239",
+        "12778",
+        "12834",
+        "12833",
+        "12842",
+        "18396",
+        "22199"
+      ]
+    },
+    {
+      "retrieval_score": 0.8352038,
+      "text": "core_product_name: flare system",
+      "core_id": 910.0,
+      "raw_product_name": "FLARE SYSTEM",
+      "list_of_product_ids": [
+        "13593",
+        "18504",
+        "38501",
+        "22848",
+        "38462",
+        "38489",
+        "38491"
+      ]
+    },
+    {
+      "retrieval_score": 0.83511114,
+      "text": "core_product_name: cable lug",
+      "core_id": 280.0,
+      "raw_product_name": "CABLE LUG",
+      "list_of_product_ids": [
+        "2",
+        "064",
+        "720",
+        "116"
+      ]
+    },
+    {
+      "retrieval_score": 0.8348853,
+      "text": "core_product_name: switchgear",
+      "core_id": 1178.0,
+      "raw_product_name": "SWITCHGEAR",
+      "list_of_product_ids": [
+        "20771",
+        "20773",
+        "21200",
+        "27083",
+        "36613",
+        "36676",
+        "35358"
+      ]
+    },
+    {
+      "retrieval_score": 0.8347381,
+      "text": "core_product_name: fabricated gate valve",
+      "core_id": 993.0,
+      "raw_product_name": "Fabricated Gate Valve",
+      "list_of_product_ids": [
+        "7468",
+        "7141",
+        "10694",
+        "11973",
+        "12745",
+        "12757",
+        "17695",
+        "23525",
+        "35527",
+        "40128"
+      ]
+    },
+    {
+      "retrieval_score": 0.8346791,
+      "text": "core_product_name: fabricated duct",
+      "core_id": 787.0,
+      "raw_product_name": "FABRICATED DUCT",
+      "list_of_product_ids": [
+        "1",
+        "397",
+        "437",
+        "260"
+      ]
+    },
+    {
+      "retrieval_score": 0.8346703,
+      "text": "core_product_name: liquid metering system | type_or_class: Turbine",
+      "core_id": 1372.0,
+      "raw_product_name": "LIQUID METERING SYSTEM (TURBINE)",
+      "list_of_product_ids": [
+        "5786",
+        "6616",
+        "11754",
+        "11816",
+        "11826",
+        "11831",
+        "10123",
+        "11748",
+        "11752",
+        "11871",
+        "12211",
+        "16989",
+        "38504",
+        "38471",
+        "38476",
+        "38484",
+        "38494"
+      ]
+    },
+    {
+      "retrieval_score": 0.8346302,
+      "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+      "core_id": 1262.0,
+      "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+      "list_of_product_ids": [
+        "19885",
+        "19880",
+        "24078",
+        "23930",
+        "27348"
+      ]
+    },
+    {
+      "retrieval_score": 0.8345963,
+      "text": "core_product_name: deluge valve",
+      "core_id": 565.0,
+      "raw_product_name": "DELUGE VALVE",
+      "list_of_product_ids": [
+        "6385",
+        "5556",
+        "6997",
+        "7010",
+        "9956",
+        "9957",
+        "8289",
+        "8298",
+        "8735",
+        "8882",
+        "8922",
+        "8926",
+        "8930",
+        "8957",
+        "9063",
+        "9068",
+        "9073",
+        "9103",
+        "9146",
+        "12394",
+        "18887",
+        "18933",
+        "23761",
+        "24221",
+        "22765",
+        "22793"
+      ]
+    },
+    {
+      "retrieval_score": 0.83441174,
+      "text": "core_product_name: globe cryogenic valve | construction_features: Forged",
+      "core_id": 2360.0,
+      "raw_product_name": "VALVE GLOBE CRYOGENIC FORGED",
+      "list_of_product_ids": [
+        "6223",
+        "5392",
+        "11622",
+        "10423",
+        "11416",
+        "8645",
+        "8622",
+        "13258"
+      ]
+    },
+    {
+      "retrieval_score": 0.8342346,
+      "text": "core_product_name: drum level instrument | type_or_class: Bi-Colour Gauge",
+      "core_id": 629.0,
+      "raw_product_name": "DRUM LEVEL INSTRUMENTS (BI-COLOUR GAUGE)",
+      "list_of_product_ids": [
+        "6581",
+        "5751",
+        "10948",
+        "10951",
+        "12233",
+        "12235",
+        "12238",
+        "12241",
+        "35428"
+      ]
+    }
+  ]
+}

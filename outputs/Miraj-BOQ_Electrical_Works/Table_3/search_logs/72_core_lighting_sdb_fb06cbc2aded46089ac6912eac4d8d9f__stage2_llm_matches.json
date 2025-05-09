@@ -1,0 +1,72 @@
+{
+  "query": "core_product_name: lighting sdb | feature_or_specifications: incoming: 16 a dprcbo (double pole residual current circuit breaker with overcurrent protection), outgoing: 6 a dp mcb (double pole miniature circuit breaker) (6 nos)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: sub lighting distribution board",
+        "raw_product_name": "SUB LIGHTING DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "19061",
+          "19062",
+          "19056",
+          "36641"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: main lighting distribution board | acronymed_core_product_name: MLDB (Main Lighting Distribution Board)",
+        "raw_product_name": "MLDB",
+        "list_of_product_ids": [
+          "15386",
+          "13768",
+          "14606",
+          "14779",
+          "17931",
+          "17918",
+          "17893",
+          "17950",
+          "17940",
+          "17945",
+          "18027",
+          "18009",
+          "18050",
+          "19060",
+          "19661"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting and power distribution panel",
+        "raw_product_name": "Lighting & Power Distribution Panel",
+        "list_of_product_ids": [
+          "18723",
+          "18718",
+          "18735",
+          "18734",
+          "18733",
+          "19012",
+          "18997",
+          "18728",
+          "19000",
+          "38293",
+          "35861",
+          "38156"
+        ]
+      }
+    }
+  ]
+}

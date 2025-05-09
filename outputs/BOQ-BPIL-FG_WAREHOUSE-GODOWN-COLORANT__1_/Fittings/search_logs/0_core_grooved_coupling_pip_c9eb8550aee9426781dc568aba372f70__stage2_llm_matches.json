@@ -1,0 +1,63 @@
+{
+  "query": "core_product_name: grooved coupling (pipe to pipe) | size: pipe size: 200 NB",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: coupling",
+        "raw_product_name": "COUPLING",
+        "list_of_product_ids": [
+          "14102",
+          "19606",
+          "19603",
+          "21430",
+          "24786",
+          "24777",
+          "24787",
+          "24800",
+          "24801",
+          "24814",
+          "25096",
+          "37417",
+          "37437"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: resilient coupling",
+        "raw_product_name": "Resilient Coupling",
+        "list_of_product_ids": [
+          "7045",
+          "7372",
+          "10525",
+          "10811",
+          "9734"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": [
+          "18582",
+          "18579",
+          "18578",
+          "18637"
+        ]
+      }
+    }
+  ]
+}

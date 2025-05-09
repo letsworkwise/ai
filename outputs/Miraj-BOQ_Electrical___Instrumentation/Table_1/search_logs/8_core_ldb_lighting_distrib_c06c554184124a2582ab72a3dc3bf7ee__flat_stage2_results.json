@@ -1,0 +1,487 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8776016,
+      "text": "core_product_name: flame proof local distribution board | acronymed_core_product_name: ldb (local distribution board) | protection_features: Flame proof",
+      "core_id": 889.0,
+      "raw_product_name": "FLAME PROOF LDB’S",
+      "list_of_product_ids": [
+        "13570",
+        "22218",
+        "22257",
+        "22862",
+        "35778"
+      ]
+    },
+    {
+      "retrieval_score": 0.8772212,
+      "text": "core_product_name: lightning distribution board | acronymed_core_product_name: ldb (lightning distribution board)",
+      "core_id": 1357.0,
+      "raw_product_name": "LIGHTNING DISTRIBUTION BOARD/LDB",
+      "list_of_product_ids": [
+        "10002",
+        "10019",
+        "10242",
+        "15385",
+        "14605",
+        "14777",
+        "14808",
+        "17874",
+        "17933",
+        "17919",
+        "17894",
+        "17951",
+        "17941",
+        "17944",
+        "18029",
+        "18010",
+        "18051",
+        "19660",
+        "19141"
+      ]
+    },
+    {
+      "retrieval_score": 0.8661012,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (ldb (lighting distribution board))",
+      "core_id": 20.0,
+      "raw_product_name": "A.C. DISTRIBUTION BOARD (LDB)",
+      "list_of_product_ids": [
+        "14163",
+        "14793",
+        "14812",
+        "19307"
+      ]
+    },
+    {
+      "retrieval_score": 0.8641676,
+      "text": "core_product_name: main lighting distribution board | acronymed_core_product_name: MLDB (Main Lighting Distribution Board)",
+      "core_id": 1487.0,
+      "raw_product_name": "MLDB",
+      "list_of_product_ids": [
+        "15386",
+        "13768",
+        "14606",
+        "14779",
+        "17931",
+        "17918",
+        "17893",
+        "17950",
+        "17940",
+        "17945",
+        "18027",
+        "18009",
+        "18050",
+        "19060",
+        "19661"
+      ]
+    },
+    {
+      "retrieval_score": 0.85074514,
+      "text": "core_product_name: power distribution board | acronymed_core_product_name: pdb (power distribution board)",
+      "core_id": 1743.0,
+      "raw_product_name": "POWER DISTRIBUTION BOARD (PDB)",
+      "list_of_product_ids": [
+        "13892",
+        "14644",
+        "14778",
+        "14809",
+        "17930",
+        "17917",
+        "17892",
+        "17949",
+        "17939",
+        "18026",
+        "18008",
+        "18049",
+        "20762",
+        "20761",
+        "27494"
+      ]
+    },
+    {
+      "retrieval_score": 0.8497934,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (pdb (power distribution board))",
+      "core_id": 20.0,
+      "raw_product_name": "A.C. DISTRIBUTION BOARD (PDB)",
+      "list_of_product_ids": [
+        "14164",
+        "14792",
+        "14811",
+        "19308"
+      ]
+    },
+    {
+      "retrieval_score": 0.84976983,
+      "text": "core_product_name: intelligent battery charger | acronymed_core_product_name: dcdb (direct current distribution board) | size_or_capacity: 24V DC (24 Volt Direct Current)",
+      "core_id": 1304.0,
+      "raw_product_name": "Intelligent Battery charger 24V DC DCDB",
+      "list_of_product_ids": [
+        "1",
+        "375",
+        "215",
+        "290"
+      ]
+    },
+    {
+      "retrieval_score": 0.8497604,
+      "text": "core_product_name: flameproof lighting and distribution board | protection_features: Flameproof",
+      "core_id": 895.0,
+      "raw_product_name": "FLAMEPROOF LIGHTING & DISTRIBUTION BOARD",
+      "list_of_product_ids": [
+        "13578",
+        "14601",
+        "14847",
+        "24098"
+      ]
+    },
+    {
+      "retrieval_score": 0.84136045,
+      "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+      "core_id": 899.0,
+      "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+      "list_of_product_ids": [
+        "13583",
+        "14851",
+        "20281",
+        "22858",
+        "26788",
+        "26787",
+        "26786",
+        "26789",
+        "35773"
+      ]
+    },
+    {
+      "retrieval_score": 0.841003,
+      "text": "core_product_name: lighting and power distribution panel",
+      "core_id": 1413.0,
+      "raw_product_name": "Lighting & Power Distribution Panel",
+      "list_of_product_ids": [
+        "18723",
+        "18718",
+        "18735",
+        "18734",
+        "18733",
+        "19012",
+        "18997",
+        "18728",
+        "19000",
+        "38293",
+        "35861",
+        "38156"
+      ]
+    },
+    {
+      "retrieval_score": 0.84036726,
+      "text": "core_product_name: sub lighting distribution board",
+      "core_id": 2143.0,
+      "raw_product_name": "SUB LIGHTING DISTRIBUTION BOARD",
+      "list_of_product_ids": [
+        "19061",
+        "19062",
+        "19056",
+        "36641"
+      ]
+    },
+    {
+      "retrieval_score": 0.8402945,
+      "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+      "core_id": 559.0,
+      "raw_product_name": "DCDB",
+      "list_of_product_ids": [
+        "15387",
+        "13587",
+        "14607",
+        "14780",
+        "19662",
+        "21388",
+        "36160"
+      ]
+    },
+    {
+      "retrieval_score": 0.83967865,
+      "text": "core_product_name: inside panel | acronymed_core_product_name: mcb (miniature circuit breaker) panel | type_or_class: Flush type only",
+      "core_id": 1448.0,
+      "raw_product_name": "MCB Inside Panels (Flush type only)",
+      "list_of_product_ids": [
+        "1",
+        "371",
+        "214",
+        "885"
+      ]
+    },
+    {
+      "retrieval_score": 0.83549935,
+      "text": "core_product_name: outdoor circuit breaker | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 11.0,
+      "raw_product_name": "33kV outdoor Circuit Breaker",
+      "list_of_product_ids": [
+        "141",
+        "551",
+        "464",
+        "036",
+        "000"
+      ]
+    },
+    {
+      "retrieval_score": 0.8345254,
+      "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups | accessories_or_attachments: acdb (alternating current distribution board)",
+      "core_id": 2316.0,
+      "raw_product_name": "UPS With ACDB",
+      "list_of_product_ids": [
+        "1",
+        "419",
+        "636",
+        "134"
+      ]
+    },
+    {
+      "retrieval_score": 0.8326106,
+      "text": "core_product_name: miniature circuit breaker | acronymed_core_product_name: mcb",
+      "core_id": 1446.0,
+      "raw_product_name": "MCB",
+      "list_of_product_ids": [
+        "6462",
+        "5633",
+        "10157",
+        "10663",
+        "9350",
+        "9447",
+        "9151",
+        "9187",
+        "9219",
+        "9361",
+        "11905",
+        "11944",
+        "17873",
+        "19028",
+        "19645",
+        "19652",
+        "20775",
+        "21203",
+        "19140",
+        "38290",
+        "36563"
+      ]
+    },
+    {
+      "retrieval_score": 0.83099765,
+      "text": "core_product_name: fixed switchboard | acronymed_core_product_name: switchboard-mv | type_or_class: Medium Voltage (MV) | type_or_class: Motor Control Center (MCC) or Automatic Switchboard (ASB) or Lighting Distribution Board (LDB)",
+      "core_id": 2175.0,
+      "raw_product_name": "SWITCHBOARD-MV:MCC/ASB/LDB-FIXED TYPE",
+      "list_of_product_ids": [
+        "19303",
+        "19302",
+        "19301",
+        "19253",
+        "19347",
+        "19304",
+        "19306",
+        "19256",
+        "21373",
+        "21358",
+        "21354",
+        "24425",
+        "24427",
+        "26856"
+      ]
+    },
+    {
+      "retrieval_score": 0.8299846,
+      "text": "core_product_name: fixed switch board | mounting_or_installation: for package equipments | protection_features: flame proof",
+      "core_id": 2168.0,
+      "raw_product_name": "SWITCH BOARD FIXED FOR PACKAGE EQUIPMENTS FLAME PROOF",
+      "list_of_product_ids": [
+        "13973",
+        "14603",
+        "14849",
+        "19440",
+        "20280",
+        "22864",
+        "35781"
+      ]
+    },
+    {
+      "retrieval_score": 0.82976735,
+      "text": "core_product_name: hazardous area lighting panel | protection_features: Flameproof",
+      "core_id": 891.0,
+      "raw_product_name": "FLAMEPROOF - HAZARDOUS AREA LIGHTING PANEL",
+      "list_of_product_ids": [
+        "19706",
+        "19705",
+        "19702",
+        "19700",
+        "19695",
+        "19670",
+        "27175",
+        "35892",
+        "35945",
+        "40178",
+        "40228"
+      ]
+    },
+    {
+      "retrieval_score": 0.8294561,
+      "text": "core_product_name: surge protection device",
+      "core_id": 2156.0,
+      "raw_product_name": "SURG PROTECTION DEVICES",
+      "list_of_product_ids": [
+        "5954",
+        "6782",
+        "12132",
+        "14671",
+        "14679",
+        "18191",
+        "20174",
+        "36159"
+      ]
+    },
+    {
+      "retrieval_score": 0.8288017,
+      "text": "core_product_name: light barrier switch",
+      "core_id": 1345.0,
+      "raw_product_name": "LIGHT BARRIER SWITCH",
+      "list_of_product_ids": [
+        "19122",
+        "19129",
+        "19132",
+        "38466"
+      ]
+    },
+    {
+      "retrieval_score": 0.8284456,
+      "text": "core_product_name: outdoor circuit breaker | size_or_capacity: 132 kV or 220 kV | operating_conditions: outdoor",
+      "core_id": 11.0,
+      "raw_product_name": "132kV/ 220 kV outdoor Circuit Breaker",
+      "list_of_product_ids": [
+        "1",
+        "414",
+        "714",
+        "844"
+      ]
+    },
+    {
+      "retrieval_score": 0.82724404,
+      "text": "core_product_name: outdoor lightning arrestor | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 12.0,
+      "raw_product_name": "33kV outdoor Lightning Arrestor",
+      "list_of_product_ids": [
+        "1",
+        "415",
+        "921",
+        "498"
+      ]
+    },
+    {
+      "retrieval_score": 0.827143,
+      "text": "core_product_name: emergency lighting system",
+      "core_id": 740.0,
+      "raw_product_name": "EMERGENCY LIGHTING SYSTEM",
+      "list_of_product_ids": [
+        "3",
+        "216",
+        "232",
+        "163"
+      ]
+    },
+    {
+      "retrieval_score": 0.8266059,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: ac (alternating current) distribution board | type_or_class: AC (Alternating Current)",
+      "core_id": 20.0,
+      "raw_product_name": "AC Distribution Board",
+      "list_of_product_ids": [
+        "18726",
+        "18724",
+        "18719",
+        "18740",
+        "18739",
+        "18736",
+        "19011",
+        "18998",
+        "19001",
+        "38292",
+        "36556",
+        "35863",
+        "38152"
+      ]
+    },
+    {
+      "retrieval_score": 0.8262824,
+      "text": "core_product_name: indoor switchboard | acronymed_core_product_name: switchboard-hv | type_or_class: High Voltage (HV) | accessories_or_attachments: Vacuum Circuit Breaker (VCB) | operating_conditions: Indoor",
+      "core_id": 2174.0,
+      "raw_product_name": "SWITCHBOARD-HV (INDOOR) WITH VCB BREAKR",
+      "list_of_product_ids": [
+        "6387",
+        "5558",
+        "9304",
+        "7950",
+        "9334",
+        "9216",
+        "9336",
+        "9367",
+        "24419",
+        "24415"
+      ]
+    },
+    {
+      "retrieval_score": 0.826139,
+      "text": "core_product_name: outdoor disconnecting switch | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 10.0,
+      "raw_product_name": "33kV outdoor Isolator/ Disconnecting Switch",
+      "list_of_product_ids": [
+        "7308",
+        "7331",
+        "7936",
+        "7940",
+        "7938"
+      ]
+    },
+    {
+      "retrieval_score": 0.82602805,
+      "text": "core_product_name: outdoor disconnecting switch | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 10.0,
+      "raw_product_name": "33kV outdoor Isolator/Disconnecting Switch",
+      "list_of_product_ids": [
+        "1",
+        "415",
+        "814",
+        "639"
+      ]
+    },
+    {
+      "retrieval_score": 0.825967,
+      "text": "core_product_name: outdoor insulator and bushing | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 8.0,
+      "raw_product_name": "33kV outdoor Insulator & Bushing",
+      "list_of_product_ids": [
+        "14156",
+        "16118",
+        "17436",
+        "18328",
+        "21499"
+      ]
+    },
+    {
+      "retrieval_score": 0.82572323,
+      "text": "core_product_name: molded case circuit breaker | acronymed_core_product_name: MCCB (Molded Case Circuit Breaker)",
+      "core_id": 1449.0,
+      "raw_product_name": "MCCB",
+      "list_of_product_ids": [
+        "6463",
+        "5634",
+        "10536",
+        "10191",
+        "9351",
+        "9152",
+        "9154",
+        "11938",
+        "19030",
+        "19029",
+        "20774",
+        "21202",
+        "36564",
+        "38080"
+      ]
+    }
+  ]
+}

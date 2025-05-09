@@ -1,0 +1,61 @@
+{
+  "query": "core_product_name: led cove light | size: strip length: 5 MTR | feature_or_specifications: application: false ceiling of common control room (CCR) and ESP (electrostatic precipitator) control room, nomenclature: FC36 (LED)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: video wall | material: LED (Light Emitting Diode)",
+        "raw_product_name": "Video Walls (LED)",
+        "list_of_product_ids": [
+          "7078",
+          "7405",
+          "18019",
+          "18418",
+          "18417"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": [
+          "13606",
+          "16555",
+          "16546",
+          "16591",
+          "16576",
+          "17657",
+          "17650",
+          "17702",
+          "17682",
+          "18058",
+          "20306",
+          "20834",
+          "21315",
+          "22108",
+          "23384",
+          "35044"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: fluorescent lighting fixture",
+        "raw_product_name": "FLUORESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": [
+          "19025",
+          "19023",
+          "19021",
+          "19019",
+          "19164"
+        ]
+      }
+    }
+  ]
+}

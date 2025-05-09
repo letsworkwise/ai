@@ -1,0 +1,54 @@
+{
+  "query": "core_product_name: led monitor | size: screen size: 65 inch | feature_or_specifications: feature: reputed make, location: driver rest room, feature: for display of safety videos & slogans",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "Size & Capacity"
+      ],
+      "match_details": {
+        "text": "core_product_name: light emitting diode (LED) display | acronymed_core_product_name: LED display | size_or_capacity: 40\u001d or more",
+        "raw_product_name": "LED display (40\u001d or more)",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: light emitting diode (led) display | acronymed_core_product_name: led display",
+        "raw_product_name": "LED DISPLAY",
+        "list_of_product_ids": [
+          "154",
+          "631",
+          "427",
+          "315",
+          "294"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: light emitting diode (led) screen | acronymed_core_product_name: led screen",
+        "raw_product_name": "LED SCREEN",
+        "list_of_product_ids": [
+          "5",
+          "957",
+          "678",
+          "511",
+          "846"
+        ]
+      }
+    }
+  ]
+}

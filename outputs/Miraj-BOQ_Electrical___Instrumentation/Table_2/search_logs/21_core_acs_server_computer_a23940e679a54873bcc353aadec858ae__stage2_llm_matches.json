@@ -1,0 +1,74 @@
+{
+  "query": "core_product_name: acs server computer | acronymed_core_product_name: acs server computer | size: monitor size: 22 inch | feature_or_specifications: feature: color led monitor, feature: standard keyboard, feature: video camera, feature: loaded with acs (access control system) software, location: cmh (central monitoring hub) room",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: access control system",
+        "raw_product_name": "ACCESS CONTROL SYSTEM",
+        "list_of_product_ids": [
+          "6601",
+          "5771",
+          "10891",
+          "10915",
+          "11070",
+          "10890",
+          "10892",
+          "19260",
+          "19270",
+          "34967",
+          "34987",
+          "35018"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: personal computer and server | acronymed_core_product_name: pc (personal computer) and server",
+        "raw_product_name": "PC AND SERVER",
+        "list_of_product_ids": [
+          "5943",
+          "6772",
+          "10713",
+          "10715",
+          "10716",
+          "10719",
+          "10720",
+          "10721",
+          "10711",
+          "11856",
+          "18834",
+          "19469",
+          "30762",
+          "37436",
+          "35054",
+          "37192"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: industrial personal computer | acronymed_core_product_name: pc (personal computer)",
+        "raw_product_name": "Industrial PC",
+        "list_of_product_ids": [
+          "7079",
+          "7406",
+          "18422",
+          "18419",
+          "35055"
+        ]
+      }
+    }
+  ]
+}

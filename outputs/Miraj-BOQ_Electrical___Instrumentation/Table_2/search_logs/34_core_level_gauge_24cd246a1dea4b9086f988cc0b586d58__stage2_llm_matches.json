@@ -1,0 +1,61 @@
+{
+  "query": "core_product_name: level gauge | size: vent & drain plug: 3/4\" NPT, flange: 1 1/2\" 300# RF, c to c distance: HOLD | feature_or_specifications: type: transparent, protection: IP-66, float material: ss (stainless steel), zone: 1 IIA/IIB",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: transparent level gauge",
+        "raw_product_name": "LEVEL GAUGES (TRANSPARENT)",
+        "list_of_product_ids": [
+          "13573",
+          "17074",
+          "21347",
+          "21754",
+          "23034"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: level gauge",
+        "raw_product_name": "LEVEL GAUGES",
+        "list_of_product_ids": [
+          "14374",
+          "17072",
+          "18035",
+          "23121",
+          "23520",
+          "36626",
+          "36111"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: reflex level gauge",
+        "raw_product_name": "LEVEL GAUGES (REFLEX)",
+        "list_of_product_ids": [
+          "13571",
+          "17073",
+          "21346",
+          "21755",
+          "23033",
+          "23533"
+        ]
+      }
+    }
+  ]
+}

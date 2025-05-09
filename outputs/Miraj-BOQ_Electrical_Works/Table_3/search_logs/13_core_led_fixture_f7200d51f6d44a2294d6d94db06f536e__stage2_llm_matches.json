@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: led fixture | feature_or_specifications: type: street light, driver: integral",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: light | acronymed_core_product_name: led (light emitting diode) light | type_or_class: LED (Light Emitting Diode)",
+        "raw_product_name": "LED LIGHTS",
+        "list_of_product_ids": [
+          "36554",
+          "24238",
+          "24241",
+          "26878"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting fixture | acronymed_core_product_name: LTG (Lighting) Fixtures | type_or_class: Fluorescent or Incandescent | type_or_class: Class-B",
+        "raw_product_name": "Fluorescent / Incandescent Class-\u001cB\u001d LTG Fixtures",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: solar street lighting",
+        "raw_product_name": "SOLAR STREET LIGHTING",
+        "list_of_product_ids": [
+          "13982",
+          "17713",
+          "17709",
+          "17767",
+          "18696",
+          "37006",
+          "34978",
+          "35048"
+        ]
+      }
+    }
+  ]
+}

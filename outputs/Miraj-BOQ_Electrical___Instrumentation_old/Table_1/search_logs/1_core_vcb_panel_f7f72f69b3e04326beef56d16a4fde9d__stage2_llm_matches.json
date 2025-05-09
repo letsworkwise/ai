@@ -1,0 +1,76 @@
+{
+  "query": "core_product_name: vcb panel | acronymed_core_product_name: vcb panel | size: voltage: 11 kv, current: 630 a | feature_or_specifications: type: indoor, feature: metering and protection system, feature: numerical relay, feature: auxiliary relay, feature: cts (current transformers), feature: pts (potential transformers), feature: indication lamp, feature: switches, feature: weather proof double compression ni (nickel) plated brass cable gland, feature: crimping type cable lugs for all incoming and outgoing cables, feature: as per specification",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "accessories_or_attachments",
+        "operating_conditions"
+      ],
+      "match_details": {
+        "text": "core_product_name: indoor switchboard | acronymed_core_product_name: switchboard-hv | type_or_class: High Voltage (HV) | accessories_or_attachments: Vacuum Circuit Breaker (VCB) | operating_conditions: Indoor",
+        "raw_product_name": "SWITCHBOARD-HV (INDOOR) WITH VCB BREAKR",
+        "list_of_product_ids": [
+          "6387",
+          "5558",
+          "9304",
+          "7950",
+          "9334",
+          "9216",
+          "9336",
+          "9367",
+          "24419",
+          "24415"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: rectifier panel",
+        "raw_product_name": "RECTIFIER PANEL",
+        "list_of_product_ids": [
+          "171",
+          "741",
+          "717",
+          "527",
+          "078"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: relay and control panel",
+        "raw_product_name": "RELAY & CONTROL PANEL",
+        "list_of_product_ids": [
+          "6389",
+          "5560",
+          "11172",
+          "11457",
+          "7888",
+          "19357",
+          "24445",
+          "24450",
+          "24448",
+          "24827",
+          "24815",
+          "24451",
+          "19363",
+          "24930",
+          "24941",
+          "38203",
+          "38204"
+        ]
+      }
+    }
+  ]
+}

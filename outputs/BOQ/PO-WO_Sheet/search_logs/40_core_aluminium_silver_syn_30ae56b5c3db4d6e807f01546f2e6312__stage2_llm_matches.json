@@ -1,0 +1,58 @@
+{
+  "query": "core_product_name: aluminium silver synthetic enamel paint | size: quantity: 20 ltrs | feature_or_specifications: packaging: tin",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: section | material: Aluminum",
+        "raw_product_name": "ALUMINUM SECTION",
+        "list_of_product_ids": [
+          "20555",
+          "20518",
+          "20605",
+          "20596",
+          "20682",
+          "20740",
+          "38548",
+          "39312"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: plate | material: Aluminium",
+        "raw_product_name": "ALUMINIUM PLATE",
+        "list_of_product_ids": [
+          "234",
+          "562",
+          "603",
+          "726",
+          "687"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: partition | material: Aluminium",
+        "raw_product_name": "PATITIONS - ALUMINIUM",
+        "list_of_product_ids": [
+          "15639",
+          "15633",
+          "15618",
+          "15724"
+        ]
+      }
+    }
+  ]
+}

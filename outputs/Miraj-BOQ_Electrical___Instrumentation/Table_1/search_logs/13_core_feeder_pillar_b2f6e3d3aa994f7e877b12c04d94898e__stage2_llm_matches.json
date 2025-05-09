@@ -1,0 +1,70 @@
+{
+  "query": "core_product_name: feeder pillar | size: voltage: 415 V, phases: 3 phase, frequency: 50 Hz, enclosure thickness: 3 mm, incomer: 63 A, outgoing: 3 x 16 A tpn mcb | feature_or_specifications: type: flame proof (ip class suitable for flp), minimum protection: ip-65, enclosure: sheet steel, mounting: column/structural, feature: photovoltic cell based control, feature: a/m (auto/manual) selector switch, feature: start/stop pb (push button), feature: indicating lamps, feature: frp (fiber reinforced plastic) canopy and side cover, feature: rcbo 30 ma (residual current circuit breaker with overcurrent protection), feature: tpn mcb (triple pole and neutral miniature circuit breaker)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13583",
+          "14851",
+          "20281",
+          "22858",
+          "26788",
+          "26787",
+          "26786",
+          "26789",
+          "35773"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof lighting and distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF LIGHTING & DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13578",
+          "14601",
+          "14847",
+          "24098"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting and power panel | acronymed_core_product_name: FLP (Flameproof) panel | protection_features: Flameproof",
+        "raw_product_name": "LIGHTING & POWER PANELS (FLP)",
+        "list_of_product_ids": [
+          "6418",
+          "5588",
+          "7009",
+          "10306",
+          "10579",
+          "10558",
+          "10588",
+          "10602",
+          "18874",
+          "18920",
+          "22851",
+          "26777",
+          "26773",
+          "26754",
+          "26750",
+          "35770"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "query": "core_product_name: local control station | acronymed_core_product_name: lcs",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: local control station",
+        "raw_product_name": "LOCAL CONTROL STATIONS",
+        "list_of_product_ids": [
+          "99",
+          "911",
+          "003",
+          "018",
+          "831"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: local operating station | acronymed_core_product_name: LOS | accessories_or_attachments: for primary air (PA) fan",
+        "raw_product_name": "LOS FOR PA FAN",
+        "list_of_product_ids": [
+          "21339",
+          "21336",
+          "21333",
+          "21366",
+          "21771",
+          "27095"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: motor control centre | acronymed_core_product_name: mcc (motor control centre)",
+        "raw_product_name": "Motor Control Centre (MCC)",
+        "list_of_product_ids": [
+          "7619",
+          "7293",
+          "11204",
+          "11218",
+          "10538",
+          "10190",
+          "7885",
+          "7887",
+          "7884",
+          "7886",
+          "12216",
+          "17704",
+          "17929",
+          "17916",
+          "17891",
+          "17948",
+          "17938",
+          "18025",
+          "18007",
+          "18048",
+          "20021",
+          "20011",
+          "20016",
+          "36642",
+          "35962"
+        ]
+      }
+    }
+  ]
+}

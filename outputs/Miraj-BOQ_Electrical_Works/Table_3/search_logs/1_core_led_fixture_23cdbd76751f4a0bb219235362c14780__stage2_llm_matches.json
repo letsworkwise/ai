@@ -1,0 +1,69 @@
+{
+  "query": "core_product_name: led fixture | size: panel size: approx. 1200mm x 300mm | feature_or_specifications: type: decorative, mounting: recess in false ceiling, driver: integral, design: aesthetically designed for control room or office",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: panel tube light",
+        "raw_product_name": "PANEL TUBE LIGHT",
+        "list_of_product_ids": [
+          "19668",
+          "19677",
+          "19680",
+          "19684",
+          "24243"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": [
+          "13606",
+          "16555",
+          "16546",
+          "16591",
+          "16576",
+          "17657",
+          "17650",
+          "17702",
+          "17682",
+          "18058",
+          "20306",
+          "20834",
+          "21315",
+          "22108",
+          "23384",
+          "35044"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: fluorescent lighting fixture",
+        "raw_product_name": "FLUORESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": [
+          "19025",
+          "19023",
+          "19021",
+          "19019",
+          "19164"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Roof   Nozzle   150   Class   WNRF   Type   1.5 Inch  Size SA 105   Material",
+      "core_product_name": "roof nozzle",
+      "acronymed_core_product_name": "",
+      "size": "size: 1.5 inch",
+      "feature_or_specifications": "class: 150, type: wnrf, material: sa 105",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Roof   Nozzle   300   Class   WNRF   Type   3 Inch  Size SA 105   Material",
+      "core_product_name": "roof nozzle",
+      "acronymed_core_product_name": "",
+      "size": "size: 3 inch",
+      "feature_or_specifications": "class: 300, type: wnrf, material: sa 105",
+      "quantity": "6.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Shell   Nozzle   300   Class   WNRF   Type   2 Inch  Size SA 105   Material",
+      "core_product_name": "shell nozzle",
+      "acronymed_core_product_name": "",
+      "size": "size: 2 inch",
+      "feature_or_specifications": "class: 300, type: wnrf, material: sa 105",
+      "quantity": "6.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Shell   Nozzle   300   Class   WNRF   Type   10 Inch  Size SA 105   Material",
+      "core_product_name": "shell nozzle",
+      "acronymed_core_product_name": "",
+      "size": "size: 10 inch",
+      "feature_or_specifications": "class: 300, type: wnrf, material: sa 105",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Roof   Nozzle   300   Class   WNRF   Type   24 Inch  Size SA 105   Material",
+      "core_product_name": "roof nozzle",
+      "acronymed_core_product_name": "",
+      "size": "size: 24 inch",
+      "feature_or_specifications": "class: 300, type: wnrf, material: sa 105",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Shell   Nozzle   300   Class   WNRF   Type   24 Inch  Size SA 105   Material",
+      "core_product_name": "shell nozzle",
+      "acronymed_core_product_name": "",
+      "size": "size: 24 inch",
+      "feature_or_specifications": "class: 300, type: wnrf, material: sa 105",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Roof   Nozzle   150   Class   WNRF   Type   16 Inch  Size SA 105   Material",
+      "core_product_name": "roof nozzle",
+      "acronymed_core_product_name": "",
+      "size": "size: 16 inch",
+      "feature_or_specifications": "class: 150, type: wnrf, material: sa 105",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "CALIBRATION",
+      "core_product_name": "calibration",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Diameter (Meters) :   > 10 to 25   Height (Meters) :   > 10",
+      "core_product_name": "diameter height",
+      "acronymed_core_product_name": "",
+      "size": "diameter: > 10 to 25 meters, height: > 10 meters",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      450,
+      459
+    ],
+    "original_rows": [
+      {
+        "0": 451,
+        "1": 0,
+        "2": "01VV.10.3.1.1V48",
+        "3": "Roof   Nozzle   150   Class   WNRF   Type   1.5 Inch  Size SA 105   Material",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 452,
+        "1": 0,
+        "2": "01VV.10.3.1.1V52",
+        "3": "Roof   Nozzle   300   Class   WNRF   Type   3 Inch  Size SA 105   Material",
+        "4": 6.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 453,
+        "1": 0,
+        "2": "01VV.10.3.1.1V63",
+        "3": "Shell   Nozzle   300   Class   WNRF   Type   2 Inch  Size SA 105   Material",
+        "4": 6.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 454,
+        "1": 0,
+        "2": "01VV.10.3.1.1V72",
+        "3": "Shell   Nozzle   300   Class   WNRF   Type   10 Inch  Size SA 105   Material",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 455,
+        "1": 0,
+        "2": "01VV.10.3.1.1V76",
+        "3": "Roof   Nozzle   300   Class   WNRF   Type   24 Inch  Size SA 105   Material",
+        "4": 9.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 456,
+        "1": 0,
+        "2": "01VV.10.3.1.1V125",
+        "3": "Shell   Nozzle   300   Class   WNRF   Type   24 Inch  Size SA 105   Material",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 457,
+        "1": 0,
+        "2": "01VV.10.3.1.1V126",
+        "3": "Roof   Nozzle   150   Class   WNRF   Type   16 Inch  Size SA 105   Material",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 458,
+        "1": 0,
+        "2": "01VV.10.8",
+        "3": "CALIBRATION",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 459,
+        "1": 0,
+        "2": "01VV.10.8.2V3",
+        "3": "Diameter (Meters) :   > 10 to 25   Height (Meters) :   > 10",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 460,
+        "1": 0,
+        "2": "01VV.10.9",
+        "3": "APPLICATION OF HOT INSULATION",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2729,
+    "completion_tokens": 1154
+  }
+}

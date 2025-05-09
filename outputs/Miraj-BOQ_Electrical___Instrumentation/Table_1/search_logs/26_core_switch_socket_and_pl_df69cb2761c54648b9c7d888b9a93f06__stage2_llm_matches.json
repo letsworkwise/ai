@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: switch socket and plug | size: voltage: 240 V, pins: 3-pin, current: 16 A or 5 A | feature_or_specifications: type: weatherproof, type: interlocking, canopy: 3mm thick frp (fiber reinforced plastic) with side cover, cable gland: double compression stainless steel, feature: stopping plug, standard: as per attached specifications",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: fuse switch combination",
+        "raw_product_name": "FUSE SWITCH COMBINATION",
+        "list_of_product_ids": [
+          "6470",
+          "5641",
+          "10189",
+          "19034",
+          "19033",
+          "19032",
+          "26087",
+          "38285"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: switch | acronymed_core_product_name: flp (flameproof) switch | protection_features: Flameproof",
+        "raw_product_name": "FLP SWITCH",
+        "list_of_product_ids": [
+          "22872",
+          "22870",
+          "27608",
+          "35765"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: fixed switch board | mounting_or_installation: for package equipments | protection_features: flame proof",
+        "raw_product_name": "SWITCH BOARD FIXED FOR PACKAGE EQUIPMENTS FLAME PROOF",
+        "list_of_product_ids": [
+          "13973",
+          "14603",
+          "14849",
+          "19440",
+          "20280",
+          "22864",
+          "35781"
+        ]
+      }
+    }
+  ]
+}

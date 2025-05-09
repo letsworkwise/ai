@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: gate valve | feature_or_specifications: material: cast iron, manufacturer: koley valve",
+  "retrieval_results": [
+    {
+      "id": "variant-d69adfa3-0450-5ca4-941b-112665d0bb41",
+      "score": 0.9171534,
+      "metadata": {
+        "text": "core_product_name: gate valve | material: Cast Iron",
+        "raw_product_name": "VALVE GATE CAST IRON",
+        "list_of_product_ids": "7133,7460,11512,11979,17819,35528,39520,39843,39869,39928,40203",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-3532a5d2-2d8b-5179-b6d3-28e9fcd4e52f",
+      "score": 0.9053052,
+      "metadata": {
+        "text": "core_product_name: gate valve | material: Cast Steel",
+        "raw_product_name": "VALVE GATE CAST STEEL",
+        "list_of_product_ids": "39578,39583,39749,39850,39932,40142,40206,40300",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-172a68b6-cd52-5685-883b-446f0e6aeee5",
+      "score": 0.904457,
+      "metadata": {
+        "text": "core_product_name: gate valve | material: Cast",
+        "raw_product_name": "VALVE GATE CAST",
+        "list_of_product_ids": "5382,11614,29395,7639,7652,11635,11222,11235,11245,11257,11396,11429,6845,6849,6854,6859,6869,6874,6879,6884,6889,6894,6864,6963,6976,6978,6980,6984,6986,6955,6957,6959,6961,6990,6994,6982,6988,6992,9258,7662,7664,7666,7668,7670,7631,7633,7635,7637,7654,7656,7658,7660,9408,9427,9240,9248,9167,9174,9242,9306,9319,9320,9338,12024,12042,12033,12324,12328,12427,12566,12546,12651,13252,13362,13366,13373,13376,13380,6213,19358,16660,19369,18054,18381,18506,19707,31712,33376,35515,39521,40044,40143",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-5b6e1aa3-93c9-5ab7-830a-5bd88e61ab8f",
+      "score": 0.8952053,
+      "metadata": {
+        "text": "core_product_name: globe valve | material: Cast Iron",
+        "raw_product_name": "VALVE GLOBE CAST IRON",
+        "list_of_product_ids": "7135,7462,11514,11981,17821,35559,39522,39870,40204",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-e7a645cc-6281-5e3c-b5f0-0002df11aea4",
+      "score": 0.89516187,
+      "metadata": {
+        "text": "core_product_name: gate cryogenic valve | material: Cast",
+        "raw_product_name": "VALVE GATE CRYOGENIC CAST",
+        "list_of_product_ids": "6214,5383,11615,10418,11260,11436,11412,8375,8549,8640,8616,12430,13253,21273,31713,35535",
+        "core_id": 2359.0
+      }
+    },
+    {
+      "id": "variant-faffc9a7-24ec-5dce-9c41-99b6c37545c6",
+      "score": 0.8948696,
+      "metadata": {
+        "text": "core_product_name: valve | material: Cast Steel",
+        "raw_product_name": "CAST STEEL VALVE-STEAM",
+        "list_of_product_ids": "39671",
+        "core_id": 307.0
+      }
+    },
+    {
+      "id": "variant-43858ab0-e07a-54ea-bccd-3c1581f895bf",
+      "score": 0.8948055,
+      "metadata": {
+        "text": "core_product_name: valve | material: Cast Steel",
+        "raw_product_name": "CAST STEEL VALVE- STEAM",
+        "list_of_product_ids": "39702,39764,39848,39876,39931,40067,40208,40299",
+        "core_id": 307.0
+      }
+    },
+    {
+      "id": "variant-864a66e9-7821-55d1-be64-ccda8c52b0ea",
+      "score": 0.89338183,
+      "metadata": {
+        "text": "core_product_name: non-return valve | material: Cast Iron",
+        "raw_product_name": "Non-Return Valves Cast Iron",
+        "list_of_product_ids": "7464,11519,7137,11983,17815,35571,39525,40039,40205",
+        "core_id": 1562.0
+      }
+    },
+    {
+      "id": "variant-b59c86d8-ec6c-5b34-8637-6e84c12b0d3e",
+      "score": 0.89091706,
+      "metadata": {
+        "text": "core_product_name: gate valve | material: AS (Alloy Steel)",
+        "raw_product_name": "VALVE GATE AS",
+        "list_of_product_ids": "14055,23055,37206,37119,37127,37149,37175,35514,37137,37163,37183",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-27d39f8f-5c88-5af7-a7c1-b8ebd1346284",
+      "score": 0.8874925,
+      "metadata": {
+        "text": "core_product_name: gate valve | construction_features: Forged",
+        "raw_product_name": "VALVE GATE FORGED",
+        "list_of_product_ids": "6215,5384,10997,11616,11636,11221,11239,11252,11276,11397,11437,9259,8278,8376,8550,8641,8617,9409,9434,9450,9249,9168,9245,9339,11977,12023,12041,12032,12096,12491,12570,12654,13254,19380,19388,17620,17816,17909,18302,18032,19708,19859,31810,31714,32699,35523",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-cb0722bd-3ced-5d25-ad8e-f83258629632",
+      "score": 0.8871337,
+      "metadata": {
+        "text": "core_product_name: gate valve | material: CS (Carbon Steel)",
+        "raw_product_name": "VALVE GATE CS",
+        "list_of_product_ids": "8270,8634,24006,14056,14886,14918,14925,14938,15032,15043,16515,17208,17634,17830,24015,22376,22676,22784,15070,14943,22973,16448,14872,36776,37118,37459,37129,37138,37150,37173,35512,37184,37208,37647",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-40e11f41-48b0-5b85-b34e-6aaa924196bd",
+      "score": 0.88700145,
+      "metadata": {
+        "text": "core_product_name: gate valve | material: CS (Carbon Steel)",
+        "raw_product_name": "GATE VALVE CS",
+        "list_of_product_ids": "7086,7413,10352,10361,10397,10313,10345,10410,10436,11301,10687,12016,12034,12025,12312,12318,12395,12441,12615,12621,19232,17522,18312,18388,18408,18755,24115,24172,21257,22188,22391,22364,22450,22511,22492,22470,22547,22532,22560,22577,22628,22645,22706,23070,23097,25997,25998,26001,26002,26004,26005,26006,32702,33210,37460,34575,35509",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-5e5f1468-e14f-529c-905e-2b6e0d375ec7",
+      "score": 0.8839069,
+      "metadata": {
+        "text": "core_product_name: ball valve | material: CI (Cast Iron)",
+        "raw_product_name": "VALVE BALL CI",
+        "list_of_product_ids": "8656",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-54eb5840-0988-5600-a264-759df2ce61b3",
+      "score": 0.88356334,
+      "metadata": {
+        "text": "core_product_name: globe valve | material: Cast Steel",
+        "raw_product_name": "VALVE GLOBE CAST STEEL",
+        "list_of_product_ids": "401,854,021,740,264",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-4d90c084-11dd-5309-a710-bba18baf4ab9",
+      "score": 0.8834498,
+      "metadata": {
+        "text": "core_product_name: check valve | material: Cast",
+        "raw_product_name": "VALVE CHECK CAST",
+        "list_of_product_ids": "6229,5398,29399,11623,11640,11225,11237,11247,11279,11282,11259,11446,11431,6853,6858,6863,6873,6878,6883,6888,6893,6898,7697,7698,7699,7700,7701,7702,7703,7704,7705,7706,7707,7708,7866,9261,9387,9411,9407,9162,9252,9163,9175,9244,9342,12330,12429,12568,12548,12652,13364,13375,13381,6868,19359,16650,19409,18053,18383,19710,33375",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-7714f3a9-8fa2-5600-b7c0-b87049f3dc5f",
+      "score": 0.8824691,
+      "metadata": {
+        "text": "core_product_name: non-return valve | material: Cast Steel",
+        "raw_product_name": "NON-RETURN VALVES (CAST STEEL)",
+        "list_of_product_ids": "13770,15004,35572,39750,39851,40144,40207",
+        "core_id": 1562.0
+      }
+    },
+    {
+      "id": "variant-4af2736c-e759-5609-93a4-afc42f6dce9e",
+      "score": 0.88222617,
+      "metadata": {
+        "text": "core_product_name: globe valve | material: Cast",
+        "raw_product_name": "VALVE GLOBE CAST",
+        "list_of_product_ids": "6220,5389,29398,6981,11619,11638,11224,11236,11246,11277,11258,11441,11430,6852,6857,6862,6872,6877,6882,6887,6892,6897,6867,6977,6979,6985,6956,6958,6960,6962,6964,6987,6991,6995,6983,6989,6993,7661,7663,7665,7667,7669,7671,7632,7634,7636,7638,9260,7640,7653,7655,7657,7659,9388,9413,9436,9241,9250,9164,9243,9307,9318,9328,9340,12329,12428,12567,12547,13259,13365,13374,13382,17621,18382,19709,16651,31717,33377,35551,39523,39933,40045",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-1c970bab-ac0f-5ea7-b0b2-e3743073ef71",
+      "score": 0.8818696,
+      "metadata": {
+        "text": "core_product_name: plug valve | material: CI (Cast Iron)",
+        "raw_product_name": "VALVE PLUG CI",
+        "list_of_product_ids": "14077,23666,23304,23289,23650,35583",
+        "core_id": 2366.0
+      }
+    },
+    {
+      "id": "variant-0972d5e9-6fae-50aa-8800-38666d02f89a",
+      "score": 0.8811101,
+      "metadata": {
+        "text": "core_product_name: gate valve | material: SG (Spheroidal Graphite) Iron",
+        "raw_product_name": "VALVE GATE SG IRON",
+        "list_of_product_ids": "7134,7461,11513,11980,17820,35525",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-70f50d41-db1c-57e3-ab11-eb3f07c6cd1a",
+      "score": 0.8796227,
+      "metadata": {
+        "text": "core_product_name: fabricated gate valve",
+        "raw_product_name": "Fabricated Gate Valve",
+        "list_of_product_ids": "7468,7141,10694,11973,12745,12757,17695,23525,35527,40128",
+        "core_id": 993.0
+      }
+    },
+    {
+      "id": "variant-a671fe35-9d57-555d-a7aa-47aad5d334b3",
+      "score": 0.87856025,
+      "metadata": {
+        "text": "core_product_name: gate cryogenic valve | construction_features: forged",
+        "raw_product_name": "VALVE GATE CRYOGENIC FORGED",
+        "list_of_product_ids": "6216,5385,11617,10419,11438,11413,8377,8642,8618,13256,31715",
+        "core_id": 2359.0
+      }
+    },
+    {
+      "id": "variant-7e2d6aa3-d1a8-5e98-bd8c-ce8cbb63daf6",
+      "score": 0.87741977,
+      "metadata": {
+        "text": "core_product_name: casting | material: Cast Iron",
+        "raw_product_name": "CASTING -CAST IRON",
+        "list_of_product_ids": "21885,21883,24612,39753,39842,39868,39927,40032",
+        "core_id": 91.0
+      }
+    },
+    {
+      "id": "variant-68f535ac-0df7-5ccb-9994-ef3dcae767a7",
+      "score": 0.8774185,
+      "metadata": {
+        "text": "core_product_name: gate valve | material: Brass",
+        "raw_product_name": "GATE VALVE (BRASS)",
+        "list_of_product_ids": "20523,20642,20737,35522",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-ef714854-2383-5bcc-a51a-bd52b4d9ddd7",
+      "score": 0.8758221,
+      "metadata": {
+        "text": "core_product_name: conventional valve | type_or_class: Gate",
+        "raw_product_name": "CONVENTIONAL VALVES (GATE)",
+        "list_of_product_ids": "7613,11051,11054,7287,11137,7854,30844,30855,30858,30861,30864,30867,35534",
+        "core_id": 471.0
+      }
+    },
+    {
+      "id": "variant-6d8db20e-8326-58a3-84f2-8c22a267f529",
+      "score": 0.8757917,
+      "metadata": {
+        "text": "core_product_name: gate valve | type_or_class: Gate",
+        "raw_product_name": "VALVE GATE",
+        "list_of_product_ids": "7147,7324,11132,11134,11140,11631,11649,11232,11281,11426,11434,7850,8163,8142,8158,8728,9480,8788,8920,9040,9038,9060,12374,12438,12498,12508,13244,15487,16972,17625,17827,18899,18945,19854,30832,25966,36732,37283,35508,39751,39883",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-ff32a082-1801-502d-89e6-82d0bfd571da",
+      "score": 0.87435865,
+      "metadata": {
+        "text": "core_product_name: globe cryogenic valve | material: Cast",
+        "raw_product_name": "VALVE GLOBE CRYOGENIC CAST",
+        "list_of_product_ids": "6221,5390,11620,10422,11262,11442,11415,8379,8643,8620,12436,13260,35565",
+        "core_id": 2360.0
+      }
+    },
+    {
+      "id": "variant-786305ca-9a15-54d4-ae9d-0d35110efec8",
+      "score": 0.87434673,
+      "metadata": {
+        "text": "core_product_name: check cryogenic valve | material: Cast",
+        "raw_product_name": "VALVE CHECK CRYOGENIC CAST",
+        "list_of_product_ids": "6230,5399,11624,11265,11447,11417,8382,8648,8625,12437,13265,21274",
+        "core_id": 2346.0
+      }
+    },
+    {
+      "id": "variant-ce2461e2-d6d8-57d0-ad2a-40ec63f58d20",
+      "score": 0.8743161,
+      "metadata": {
+        "text": "core_product_name: casting | material: Alloy Steel",
+        "raw_product_name": "ALLOY STEEL CASTING",
+        "list_of_product_ids": "249,632,496,026,778",
+        "core_id": 91.0
+      }
+    },
+    {
+      "id": "variant-8f546c7f-1e17-5a59-abb1-cb3abf841d3f",
+      "score": 0.8739873,
+      "metadata": {
+        "text": "core_product_name: gate valve | material: Gunmetal or Brass or Bronze",
+        "raw_product_name": "VALVE GATE GUNMETAL/BRASS/BRONZE",
+        "list_of_product_ids": "6217,5386,10406,10420,8551,11992,13257,37416,36547,36565,37390,35541,36148,37399",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-bd0fe466-0cac-5689-b2f0-4ab39953d9f0",
+      "score": 0.8736528,
+      "metadata": {
+        "text": "core_product_name: gate valve | material: CS (Carbon Steel) | standards_and_approvals: NACE (National Association of Corrosion Engineers)",
+        "raw_product_name": "VALVE GATE(CS NACE)",
+        "list_of_product_ids": "15949,16189,16228,16232,16360,16356,16346,16342,16337,16333,16396,32199,33275,35517",
+        "core_id": 1041.0
+      }
+    }
+  ]
+}

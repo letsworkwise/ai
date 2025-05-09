@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: esfr sprinkler upright type | acronymed_core_product_name: esfr sprinkler upright type | size: temperature: 68° C, k-factor: 200 | feature_or_specifications: manufacturer: newage",
+  "retrieval_results": [
+    {
+      "id": "variant-7fa3b25f-1368-5176-aad5-701306d3255c",
+      "score": 0.85292125,
+      "metadata": {
+        "text": "core_product_name: sprinkler",
+        "raw_product_name": "SPRINKLER",
+        "list_of_product_ids": "13482,13498,13499,31059,37496,35014,37488,37491,37492,37495",
+        "core_id": 2090.0
+      }
+    },
+    {
+      "id": "variant-db5bf6a9-26d9-5efa-913d-ef1f02ca3c2b",
+      "score": 0.84946823,
+      "metadata": {
+        "text": "core_product_name: water sprinkler",
+        "raw_product_name": "WATER SPRINKLER",
+        "list_of_product_ids": "6032,5211,8921,8925,8928,8956,8959,9061,9066,9070,9101,9105,22756,31060,34994",
+        "core_id": 2455.0
+      }
+    },
+    {
+      "id": "variant-7c83b144-2261-5ef3-ada0-0823013e3c85",
+      "score": 0.8458365,
+      "metadata": {
+        "text": "core_product_name: fire water sprinkler system",
+        "raw_product_name": "FIRE WATER SPRINKLER SYSTEM",
+        "list_of_product_ids": "23980,23982,23983,27056",
+        "core_id": 864.0
+      }
+    },
+    {
+      "id": "variant-7ff74fb8-0733-5a78-b024-455c93c2edc4",
+      "score": 0.8457578,
+      "metadata": {
+        "text": "core_product_name: foam sprinkler",
+        "raw_product_name": "FOAM SPRINKLER",
+        "list_of_product_ids": "8996,8995,9062,9067,9071,9102,24711",
+        "core_id": 970.0
+      }
+    },
+    {
+      "id": "variant-7606644a-4edd-5fea-81c9-7414b8a77e6e",
+      "score": 0.84132844,
+      "metadata": {
+        "text": "core_product_name: spray nozzle",
+        "raw_product_name": "SPRAY NOZZLES",
+        "list_of_product_ids": "8288",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-9988271a-59ee-57cb-9616-702a2cea2636",
+      "score": 0.8400223,
+      "metadata": {
+        "text": "core_product_name: spray nozzle | type_or_class: Fire Fighting",
+        "raw_product_name": "SPRAY NOZZLE- FIRE FIGHTING",
+        "list_of_product_ids": "6036,5215,8013,8012,8262,8263,8294,8738,8923,8927,8929,8958,9064,9069,9072,9104,9145,19631,24003,21213,19986,36157",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-a947ab69-11c3-5478-b1b6-fa5978c60e03",
+      "score": 0.83505005,
+      "metadata": {
+        "text": "core_product_name: flushing apparatus",
+        "raw_product_name": "FLUSHING APPARATUS",
+        "list_of_product_ids": "143,601,444,714,482",
+        "core_id": 958.0
+      }
+    },
+    {
+      "id": "variant-7e796f6f-0d17-514d-aca4-a14dcdb48ba7",
+      "score": 0.8337255,
+      "metadata": {
+        "text": "core_product_name: fluid power equipment",
+        "raw_product_name": "FLUID POWER EQUIPMENT",
+        "list_of_product_ids": "1,364,936,946",
+        "core_id": 949.0
+      }
+    },
+    {
+      "id": "variant-59caacf0-2771-53a3-844e-b2c03e89997d",
+      "score": 0.8312076,
+      "metadata": {
+        "text": "core_product_name: special temperature element",
+        "raw_product_name": "SPECIAL TEMPERATURE ELEMENTS",
+        "list_of_product_ids": "6548,5719,10143,11458,11891,12796,31357,31333,35160,35199,35204,35212",
+        "core_id": 2078.0
+      }
+    },
+    {
+      "id": "variant-f27251ed-1fd0-5168-8cec-9afc08bd55ac",
+      "score": 0.8310166,
+      "metadata": {
+        "text": "core_product_name: spray nozzle | type_or_class: Process",
+        "raw_product_name": "SPRAY NOZZLE-PROCESS",
+        "list_of_product_ids": "6193,5361,7958,7960,7957,7959,19632,36761",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-7d467917-439b-526b-86e2-6d7684487571",
+      "score": 0.8304114,
+      "metadata": {
+        "text": "core_product_name: flare stack",
+        "raw_product_name": "FLARE STACK",
+        "list_of_product_ids": "7099,7426,11802,8321,8429",
+        "core_id": 906.0
+      }
+    },
+    {
+      "id": "variant-e710300d-3583-5d7e-8fed-45342f49a4f0",
+      "score": 0.8301254,
+      "metadata": {
+        "text": "core_product_name: special control valve",
+        "raw_product_name": "SPECIAL CONTROL VALVES",
+        "list_of_product_ids": "13990,18539,23763,22458,22425,22487,22480,38452,40026",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-4eadce78-5ec1-5cb0-8032-3ed669ded9c9",
+      "score": 0.8299542,
+      "metadata": {
+        "text": "core_product_name: refrigeration plant",
+        "raw_product_name": "REFRIGERATION PLANT",
+        "list_of_product_ids": "21436,21446,21449,24990,26751",
+        "core_id": 1884.0
+      }
+    },
+    {
+      "id": "variant-faf3e95e-554f-5c8b-8920-860c5d0630da",
+      "score": 0.8297988,
+      "metadata": {
+        "text": "core_product_name: fabrication and erection boiler",
+        "raw_product_name": "BOILER - FABRICATION & ERECTION",
+        "list_of_product_ids": "16071,16114,16150,16136,35833",
+        "core_id": 217.0
+      }
+    },
+    {
+      "id": "variant-62e9d5fb-3cb4-5db6-9c87-632de704fb71",
+      "score": 0.8297327,
+      "metadata": {
+        "text": "core_product_name: erection and commissioning equipment",
+        "raw_product_name": "EQUIPMENT - ERECTION & COMMISSIONING",
+        "list_of_product_ids": "16194,16202,16350,16355,33812,34490,35836,35844",
+        "core_id": 757.0
+      }
+    },
+    {
+      "id": "variant-31a63a03-e3b0-5171-8ec3-c5e3e1658862",
+      "score": 0.8297273,
+      "metadata": {
+        "text": "core_product_name: flange | material: Carbon steel | construction_features: Raised Face (RF)",
+        "raw_product_name": "Carbon steel Flange (RF)",
+        "list_of_product_ids": "68,157,318",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-0b1eb72b-24d6-57b1-8753-3b0839932dde",
+      "score": 0.82966083,
+      "metadata": {
+        "text": "core_product_name: vapour absorption refrigeration system",
+        "raw_product_name": "REFRIGERATION SYSTEM- VAPOUR ABSORPTION",
+        "list_of_product_ids": "7025,7353,10213,19825,22804",
+        "core_id": 1885.0
+      }
+    },
+    {
+      "id": "variant-298f2c6e-2bc0-5c2f-b94c-30f82a72d824",
+      "score": 0.82942736,
+      "metadata": {
+        "text": "core_product_name: nozzle",
+        "raw_product_name": "NOZZLE",
+        "list_of_product_ids": "24248,24222,22342,22340,22766,22794,26877",
+        "core_id": 1547.0
+      }
+    },
+    {
+      "id": "variant-e1e11915-0733-5349-a968-20b8807ed711",
+      "score": 0.82919043,
+      "metadata": {
+        "text": "core_product_name: flare system",
+        "raw_product_name": "FLARE SYSTEM",
+        "list_of_product_ids": "13593,18504,38501,22848,38462,38489,38491",
+        "core_id": 910.0
+      }
+    },
+    {
+      "id": "variant-d3918fb3-1dcf-5330-9bbe-6452020c252d",
+      "score": 0.8291773,
+      "metadata": {
+        "text": "core_product_name: plumbing fitting and fixture",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+        "list_of_product_ids": "6364,5535,7874,12489,12648,12649,34680,34681",
+        "core_id": 1961.0
+      }
+    },
+    {
+      "id": "variant-e99ab31d-678a-5f81-a7b5-bef530477e8f",
+      "score": 0.8290808,
+      "metadata": {
+        "text": "core_product_name: sanitary fitting",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - SANITARY FITTINGS",
+        "list_of_product_ids": "6363,5534,11009,35051",
+        "core_id": 1962.0
+      }
+    },
+    {
+      "id": "variant-751ad058-fdfd-583d-9869-ca9671210d00",
+      "score": 0.8288632,
+      "metadata": {
+        "text": "core_product_name: air conditioning",
+        "raw_product_name": "AIR CONDITIONING",
+        "list_of_product_ids": "21444,21434,21452,21450,21447,22930,22932,24988,26753",
+        "core_id": 67.0
+      }
+    },
+    {
+      "id": "variant-21302b14-ae7b-560d-b67c-e795da2ec93b",
+      "score": 0.8287491,
+      "metadata": {
+        "text": "core_product_name: special control valve | type_or_class: Angle",
+        "raw_product_name": "SPECIAL CONTROL VALVES (ANGLE)",
+        "list_of_product_ids": "13991,15407,15408,20249,23768,22455,22422,22477",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-eb1a4b06-b649-5f63-ada7-72c171b54c39",
+      "score": 0.8284056,
+      "metadata": {
+        "text": "core_product_name: heat exchanger",
+        "raw_product_name": "HEAT EXCHANGER",
+        "list_of_product_ids": "6660,5831,8523,11965,12047,12855,12976,16931,17274,17385,23724,23754,21191,26141,36717,36587,36648,37716,37721,36077,36287,36281",
+        "core_id": 1110.0
+      }
+    },
+    {
+      "id": "variant-a17fd78e-0a80-5e83-8bfc-b675b3dda993",
+      "score": 0.82839596,
+      "metadata": {
+        "text": "core_product_name: refilling service fire extinguisher",
+        "raw_product_name": "FIRE EXTINGUISHER REFILLING SERVICE",
+        "list_of_product_ids": "22319,22315,22312,27052",
+        "core_id": 853.0
+      }
+    },
+    {
+      "id": "variant-8b039f67-f885-5f47-8730-e3de67e68041",
+      "score": 0.8283924,
+      "metadata": {
+        "text": "core_product_name: special control valve | type_or_class: Axial",
+        "raw_product_name": "SPECIAL CONTROL VALVES (AXIAL)",
+        "list_of_product_ids": "6510,5681,12131,23764",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-35c0b277-6a3b-5856-9c86-096972d7c0d3",
+      "score": 0.8283665,
+      "metadata": {
+        "text": "core_product_name: temperature transmitter",
+        "raw_product_name": "TEMPERATURE TRANSMITTER",
+        "list_of_product_ids": "13422,36532,15082,15245,15259,15305,15312,17117,17116,17115,17114,18212,36177,36325,36511",
+        "core_id": 2226.0
+      }
+    },
+    {
+      "id": "variant-a4f50f03-dcc3-503a-b810-c1859fab99b9",
+      "score": 0.8282299,
+      "metadata": {
+        "text": "core_product_name: coriolis flowmeter",
+        "raw_product_name": "CORIOLIS FLOWMETER",
+        "list_of_product_ids": "14096,15026,15040,15012,15052,15084,15115,15130,15138,15146,15218,15224,15226,15229,15231,15275,15241,15255,15267,15271,23174,36104,36179,36327",
+        "core_id": 488.0
+      }
+    },
+    {
+      "id": "variant-11552573-e1b5-542c-8c2d-23e255c34741",
+      "score": 0.8281965,
+      "metadata": {
+        "text": "core_product_name: special control valve | type_or_class: Mixed",
+        "raw_product_name": "SPECIAL CONTROL VALVES-MIXED",
+        "list_of_product_ids": "6502,5673,8695,12188,28214,28213,28212,28211,28210,28209,28208,28207,28206,36259,36412",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-d57d54de-f40c-539e-8057-478b97a834b0",
+      "score": 0.82809675,
+      "metadata": {
+        "text": "core_product_name: thermal relief valve",
+        "raw_product_name": "THERMAL RELIEF VALVE",
+        "list_of_product_ids": "14016,15348,15353,15358,22349,36633,37438,37439,34694,34696,34698,34700",
+        "core_id": 2242.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "query": "core_product_name: alarm valve | size: size: 150NB | feature_or_specifications: make: newage",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: alarm valve",
+        "raw_product_name": "ALARM VALVE",
+        "list_of_product_ids": [
+          "11096",
+          "9804",
+          "9811",
+          "9843",
+          "9844",
+          "9877",
+          "9878",
+          "9879",
+          "30419"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: valve",
+        "raw_product_name": "VALVE",
+        "list_of_product_ids": [
+          "6489",
+          "5660",
+          "11527",
+          "7625",
+          "7628",
+          "10171",
+          "11508",
+          "12680",
+          "12682",
+          "12687",
+          "21302",
+          "31185",
+          "25958",
+          "37048",
+          "37263",
+          "35947",
+          "35995",
+          "36121"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: flood alarm system",
+        "raw_product_name": "FLOOD ALARM SYSTEM",
+        "list_of_product_ids": [
+          "243",
+          "872",
+          "438",
+          "626",
+          "860"
+        ]
+      }
+    }
+  ]
+}

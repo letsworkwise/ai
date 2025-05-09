@@ -1,0 +1,86 @@
+{
+  "query": "core_product_name: elbow | size: diameter: 40 nb(nominal bore), angle: 90 degree | feature_or_specifications: end-type: b/w(butt weld)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: elbow fitting",
+        "raw_product_name": "FITTINGS \u0013ELBOW",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: butt welded fitting | material: CS (Carbon Steel)",
+        "raw_product_name": "FITTINGS BUTT WELDED(CS)",
+        "list_of_product_ids": [
+          "10262",
+          "10267",
+          "10090",
+          "10091",
+          "10161",
+          "10166",
+          "10169",
+          "10635",
+          "10227",
+          "10229",
+          "10231",
+          "10235",
+          "13391",
+          "13411",
+          "17670",
+          "17924",
+          "21974",
+          "23102",
+          "23090",
+          "23194",
+          "25830",
+          "36932",
+          "32279",
+          "32278",
+          "32277",
+          "32280",
+          "32327"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: butt welded fitting | material: SS (Stainless Steel)",
+        "raw_product_name": "FITTINGS BUTT WELDED(SS)",
+        "list_of_product_ids": [
+          "9994",
+          "10027",
+          "10031",
+          "10636",
+          "10163",
+          "13392",
+          "13412",
+          "17671",
+          "17925",
+          "23103",
+          "23091",
+          "23195",
+          "25829",
+          "21973",
+          "36931",
+          "32328",
+          "10033"
+        ]
+      }
+    }
+  ]
+}

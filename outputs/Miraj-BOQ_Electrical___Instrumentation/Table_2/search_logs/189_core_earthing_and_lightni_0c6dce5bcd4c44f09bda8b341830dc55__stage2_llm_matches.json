@@ -1,0 +1,48 @@
+{
+  "query": "core_product_name: earthing and lightning protection materials | size: cable: 1 core x 6 mm2 | feature_or_specifications: material: hot dip galvanized, standard: indian standard (is), drawing: attachment no.-29 (lpg.eng.117.06.03.2001), galvanisation: 910 gms/sq. mtr, cable: pvc (polyvinyl chloride) (al) (aluminium), colour: green",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: earthing wire | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI EARTHING WIRE",
+        "list_of_product_ids": [
+          "13437"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: earthing material",
+        "raw_product_name": "EARTHING MATERIALS",
+        "list_of_product_ids": [
+          "378",
+          "733",
+          "788",
+          "037",
+          "898"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Size & Capacity"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable | size_or_capacity: 1 core x 6 mm2 | material: PVC (Polyvinyl Chloride) (al) (aluminium)",
+        "raw_product_name": "PVC ALUMINIUM CABLE 1 CORE 6MM2",
+        "list_of_product_ids": []
+      }
+    }
+  ]
+}

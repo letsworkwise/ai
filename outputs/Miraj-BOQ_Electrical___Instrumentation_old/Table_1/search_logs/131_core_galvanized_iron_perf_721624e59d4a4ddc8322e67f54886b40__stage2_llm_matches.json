@@ -1,0 +1,86 @@
+{
+  "query": "core_product_name: galvanized iron perforated cable tray | acronymed_core_product_name: gi perforated cable tray | size: depth: 100 mm, thickness: 3 mm, width: 600 mm | feature_or_specifications: coating: zinc, coating thickness: 100 micron, accessories: bend, accessories: reducer, accessories: coupler plate, accessories: other hardware",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "Material",
+        "Type/Class",
+        "Accessories"
+      ],
+      "match_details": {
+        "text": "core_product_name: perforated cable tray | acronymed_core_product_name: gi (galvanized iron) cable tray | material: GI (Galvanized Iron) | accessories_or_attachments: Accessories | type_or_class: Perforated",
+        "raw_product_name": "GI CABLE TRAYS AND ACCESSORIES (PERFORATED TYPE)",
+        "list_of_product_ids": [
+          "7301",
+          "7349",
+          "7899",
+          "17491",
+          "26434"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable tray | acronymed_core_product_name: gi cable tray | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI CABLE TRAYS",
+        "list_of_product_ids": [
+          "9939",
+          "9940",
+          "9943",
+          "9945",
+          "9944",
+          "9946",
+          "13481",
+          "15701",
+          "15731",
+          "15765",
+          "15788",
+          "15745",
+          "15824",
+          "18876",
+          "18922",
+          "15817",
+          "15848",
+          "15777",
+          "26430",
+          "32139"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: ladder cable tray | acronymed_core_product_name: gi (galvanized iron) cable trays | material: GI (Galvanized Iron) | accessories_or_attachments: Accessories | type_or_class: Ladder",
+        "raw_product_name": "GI CABLE TRAYS AND ACCESSORIES (LADDER TYPE)",
+        "list_of_product_ids": [
+          "7300",
+          "7348",
+          "7898",
+          "16218",
+          "16242",
+          "16233",
+          "16262",
+          "16774",
+          "16809",
+          "16865",
+          "17490",
+          "20192",
+          "16861"
+        ]
+      }
+    }
+  ]
+}

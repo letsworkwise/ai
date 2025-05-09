@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: mechanical tee | size: tee size: 200 x 25 NB | feature_or_specifications: feature: threaded outlet",
+  "retrieval_results": [
+    {
+      "id": "variant-663cf76d-ffc4-5b4c-934a-31949f5c06be",
+      "score": 0.85469353,
+      "metadata": {
+        "text": "core_product_name: tee fitting",
+        "raw_product_name": "FITTINGS –TEES",
+        "list_of_product_ids": "14267,14693,14668,14710,14903,14915,15996,16049,18892,19403,18960,19725,19800,19793,20062,20171,20936,21919,22661,22656,22915,23197,27761,27751,27741,27731,27721,27780,37063,36444,36528",
+        "core_id": 881.0
+      }
+    },
+    {
+      "id": "variant-0ac14aa8-88e6-5346-8d34-683abe9ee02e",
+      "score": 0.84633595,
+      "metadata": {
+        "text": "core_product_name: flow tee",
+        "raw_product_name": "FLOW TEE",
+        "list_of_product_ids": "5371,6067,11152,11151,10737,11283,10560,12908,15980,17555,27536,27759,27749,27739,27729,27719,27782,36526",
+        "core_id": 940.0
+      }
+    },
+    {
+      "id": "variant-7200274a-d707-5227-ac1e-143a15e80f5e",
+      "score": 0.8443286,
+      "metadata": {
+        "text": "core_product_name: barred tee",
+        "raw_product_name": "BARRED TEE",
+        "list_of_product_ids": "14187,22417,27760,27750,27740,27730,27720,27781,36527",
+        "core_id": 175.0
+      }
+    },
+    {
+      "id": "variant-b095a83c-bb8e-5835-ac24-cca90b1705bb",
+      "score": 0.84166783,
+      "metadata": {
+        "text": "core_product_name: machine tool",
+        "raw_product_name": "MACHINE TOOLS",
+        "list_of_product_ids": "19276,19271,19293,19272,27797,33209,33274,35936,39072,39192,39234,39273,39461,39350,39501,39518,39706,39775,39862,39952,40013,40060,40110,40220,40248,40287",
+        "core_id": 1419.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.84145737,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-f54c914d-9cf4-5252-893a-012bf8e07ce1",
+      "score": 0.8406692,
+      "metadata": {
+        "text": "core_product_name: electric tube",
+        "raw_product_name": "ELECTRIC TUBES",
+        "list_of_product_ids": "20835,20804,20802,28500",
+        "core_id": 699.0
+      }
+    },
+    {
+      "id": "variant-0785b087-cffb-5f55-8bb8-07fea8683b5a",
+      "score": 0.8405649,
+      "metadata": {
+        "text": "core_product_name: mechanical seal",
+        "raw_product_name": "MECHANICAL SEAL",
+        "list_of_product_ids": "27467,27466,27516,39968",
+        "core_id": 1453.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.83995974,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.839714,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-74d303aa-2799-5e8d-8b8a-412a8da4a4f2",
+      "score": 0.839629,
+      "metadata": {
+        "text": "core_product_name: electrical spare",
+        "raw_product_name": "ELECTRICAL SPARES",
+        "list_of_product_ids": "207,782,077,728,462",
+        "core_id": 710.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.83882207,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    },
+    {
+      "id": "variant-c0875fc8-a188-5b80-a701-f51d97ce66b3",
+      "score": 0.83826727,
+      "metadata": {
+        "text": "core_product_name: tube | special_attributes: Seamless | material: Nickel Alloys",
+        "raw_product_name": "PIPE/TUBE-NICKEL ALLOYS (S.LESS & WELDED)",
+        "list_of_product_ids": "6289,5460,10330,7774,7795,7807,7781,13138,17018,17429,19628,21096,21317,21307,30870,30875,37088",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-5c538932-61bc-544a-8e03-a60714eafe3a",
+      "score": 0.8377529,
+      "metadata": {
+        "text": "core_product_name: electrical strip",
+        "raw_product_name": "ELECTRICAL STRIPS",
+        "list_of_product_ids": "211,512,115,528,461",
+        "core_id": 714.0
+      }
+    },
+    {
+      "id": "variant-04f0e0c0-81f9-571a-b333-5c79b34da30d",
+      "score": 0.8373626,
+      "metadata": {
+        "text": "core_product_name: tube | special_attributes: Seamless | material: AS (Alloyed Steel)",
+        "raw_product_name": "PIPE/TUBE- A S (SEAMLESS)",
+        "list_of_product_ids": "6286,5457,10575,10616,10216,10828,6826,6821,7673,7676,7677,7678,7679,7680,7675,7681,7682,12133,12262,12677,17587,24026,24457,30022,29113,37050,39997",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-c054d8e4-1e8c-5ea7-b013-ef07cbeba8a2",
+      "score": 0.836919,
+      "metadata": {
+        "text": "core_product_name: split tee",
+        "raw_product_name": "SPLIT TEE",
+        "list_of_product_ids": "14008,14586,27763,27753,27743,27733,27723,27778,36529",
+        "core_id": 2084.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8368331,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-c4dd5da8-ce81-5c61-9d83-f5bcb7ada524",
+      "score": 0.8367446,
+      "metadata": {
+        "text": "core_product_name: scrapper tee",
+        "raw_product_name": "SCRAPPER TEES",
+        "list_of_product_ids": "13878,14911,15978,16124,17264,17263,17262,17550,18295,27762,27752,27742,27732,27722,27779,34727,34729,34855",
+        "core_id": 1975.0
+      }
+    },
+    {
+      "id": "variant-682975fc-e48c-5f80-a54b-4a6d6980a4fd",
+      "score": 0.8365078,
+      "metadata": {
+        "text": "core_product_name: flow tee | material: CS (Carbon Steel) | operating_conditions: Subsea",
+        "raw_product_name": "FLOW TEE CS - SUBSEA",
+        "list_of_product_ids": "19419,27765,27745,27735,27725,27776,27783,27755",
+        "core_id": 940.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.8364457,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    },
+    {
+      "id": "variant-1e8d51c0-00b6-5a2d-b9bf-ce4688cb5af2",
+      "score": 0.8364283,
+      "metadata": {
+        "text": "core_product_name: electrical contact",
+        "raw_product_name": "ELECTRICAL CONTACTS",
+        "list_of_product_ids": "211,562,115,228,503",
+        "core_id": 705.0
+      }
+    },
+    {
+      "id": "variant-30af54ab-8cc5-5bd5-b441-fb4223f3c8a8",
+      "score": 0.83569545,
+      "metadata": {
+        "text": "core_product_name: tube mill",
+        "raw_product_name": "TUBE MILLS",
+        "list_of_product_ids": "233,392,337,323,333",
+        "core_id": 2283.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.83561265,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-ea615f6d-ddd7-5bf3-89fb-13bae00fb9b0",
+      "score": 0.8352758,
+      "metadata": {
+        "text": "core_product_name: seamless tube | special_attributes: Seamless",
+        "raw_product_name": "SEAMLESS TUBES",
+        "list_of_product_ids": "13885,14712,14878,21559,27372,36957,36666,37273",
+        "core_id": 1987.0
+      }
+    },
+    {
+      "id": "variant-49b73ca9-9bcf-5025-b7eb-281b8c263141",
+      "score": 0.83521605,
+      "metadata": {
+        "text": "core_product_name: motor",
+        "raw_product_name": "Motors",
+        "list_of_product_ids": "6407,5578,11169,11344,10182,11378,11384,12243,12377,14875,15882,16439,19757,24028,21986,23476,23490,39314,36618,34590,34595,34593,34594,34625,34626,34627,34628,34632,34633,34634,34635,34636,34637,34638,34639,34640,34646,34881,34909,34908,34907,34906,34905,34919,34918,34917,34916,34915,34914,34913,34912,34911,34910,34920,34929,34928,34927,34926,34921,34924,34923,34925,34922,35146,35152,35188,35214,35270,35322,35323,35443,35448,35665,35680,35688,35875,35873,35955,35971,40181,40232",
+        "core_id": 556.0
+      }
+    },
+    {
+      "id": "variant-10dc0a41-9ee6-56ed-9d8e-405a29cccb61",
+      "score": 0.8351261,
+      "metadata": {
+        "text": "core_product_name: studded tube",
+        "raw_product_name": "TUBE-STUDDED",
+        "list_of_product_ids": "5,991,517,017,614",
+        "core_id": 2285.0
+      }
+    },
+    {
+      "id": "variant-1fe7927e-8e90-5f04-8015-9cb017b97836",
+      "score": 0.83511204,
+      "metadata": {
+        "text": "core_product_name: tube | material: Titanium",
+        "raw_product_name": "TUBE-TITANIUM",
+        "list_of_product_ids": "6307,5478,13304,30877",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-477f0b0f-879d-5a1f-a1fc-744e06945ccc",
+      "score": 0.83504164,
+      "metadata": {
+        "text": "core_product_name: motor servicing",
+        "raw_product_name": "MOTOR SERVICING",
+        "list_of_product_ids": "246,582,679,724,656",
+        "core_id": 1505.0
+      }
+    },
+    {
+      "id": "variant-215fd7c9-ee84-5244-9a2d-e9ceebef77ce",
+      "score": 0.8349113,
+      "metadata": {
+        "text": "core_product_name: mechanical miscellaneous work",
+        "raw_product_name": "MECHANICAL-MISCELLANEOUS WORKS",
+        "list_of_product_ids": "36859,35838,35841,35881,36516",
+        "core_id": 1454.0
+      }
+    },
+    {
+      "id": "variant-d8d2ec4b-e90c-5b1c-91aa-aece6242d68e",
+      "score": 0.834887,
+      "metadata": {
+        "text": "core_product_name: expansion joint | material: Fabric",
+        "raw_product_name": "EXPANSION JOINT-(FABRIC)",
+        "list_of_product_ids": "5993,5172,8564,8857,17223,36601",
+        "core_id": 773.0
+      }
+    },
+    {
+      "id": "variant-35c0b277-6a3b-5856-9c86-096972d7c0d3",
+      "score": 0.8347201,
+      "metadata": {
+        "text": "core_product_name: temperature transmitter",
+        "raw_product_name": "TEMPERATURE TRANSMITTER",
+        "list_of_product_ids": "13422,36532,15082,15245,15259,15305,15312,17117,17116,17115,17114,18212,36177,36325,36511",
+        "core_id": 2226.0
+      }
+    }
+  ]
+}

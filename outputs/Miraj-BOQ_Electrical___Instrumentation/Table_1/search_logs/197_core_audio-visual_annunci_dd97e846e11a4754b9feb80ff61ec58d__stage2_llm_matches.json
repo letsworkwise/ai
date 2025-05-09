@@ -1,0 +1,52 @@
+{
+  "query": "core_product_name: audio-visual annunciation panel | feature_or_specifications: location: lpg pump house, integration: all level switches of msvs (motorised shutoff valves), panel type: single common panel for all level switches",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: annunciation panel",
+        "raw_product_name": "ANNUNCIATION PANELS",
+        "list_of_product_ids": [
+          "14179",
+          "18854",
+          "18912",
+          "23154"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: annunciation system",
+        "raw_product_name": "ANNUNCIATION SYSTEM",
+        "list_of_product_ids": [
+          "197",
+          "191",
+          "971",
+          "727",
+          "089"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: system panel",
+        "raw_product_name": "SYSTEM PANELS",
+        "list_of_product_ids": [
+          "1",
+          "413",
+          "621",
+          "099"
+        ]
+      }
+    }
+  ]
+}

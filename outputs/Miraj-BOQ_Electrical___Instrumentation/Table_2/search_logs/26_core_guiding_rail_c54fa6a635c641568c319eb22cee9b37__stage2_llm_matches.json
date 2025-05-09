@@ -1,0 +1,49 @@
+{
+  "query": "core_product_name: guiding rail | feature_or_specifications: material: ss 304 (stainless steel 304)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: railing | material: Stainless Steel (SS)",
+        "raw_product_name": "STAINLESS STEEL RAILING",
+        "list_of_product_ids": [
+          "18841",
+          "18838",
+          "19004",
+          "20003"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: section | material: Stainless Steel",
+        "raw_product_name": "STAINLESS STEEL SECTIONS",
+        "list_of_product_ids": [
+          "17974",
+          "17973",
+          "17975",
+          "17972",
+          "18646"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: casting | material: Stainless Steel",
+        "raw_product_name": "STAINLESS STEEL CASTING",
+        "list_of_product_ids": [
+          "249",
+          "622",
+          "495",
+          "926",
+          "779"
+        ]
+      }
+    }
+  ]
+}

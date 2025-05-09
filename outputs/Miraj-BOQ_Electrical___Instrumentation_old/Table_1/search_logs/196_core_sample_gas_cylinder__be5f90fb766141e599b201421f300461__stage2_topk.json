@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: sample gas cylinder for gas detectors | feature_or_specifications: sufficient for: calibration of minimum 21 gas detectors at a time, included: all accessories for calibration",
+  "retrieval_results": [
+    {
+      "id": "variant-19ed9fe9-31f3-5298-9c2c-4e26777a2d11",
+      "score": 0.84880126,
+      "metadata": {
+        "text": "core_product_name: gas detection system",
+        "raw_product_name": "GAS DETECTION SYSTEMS",
+        "list_of_product_ids": "6549,5720,10456,11233,11243,10651,10650,11424,11422,11722,12817,12820,12819,13110,13111,18189,36733,35577,36091,36095",
+        "core_id": 1028.0
+      }
+    },
+    {
+      "id": "variant-a2809c8f-d8fc-59ef-92ef-c3639cd334c9",
+      "score": 0.8480832,
+      "metadata": {
+        "text": "core_product_name: multi gas detector",
+        "raw_product_name": "MULTI GAS DETECTOR",
+        "list_of_product_ids": "16470,16479,16499,34957",
+        "core_id": 1513.0
+      }
+    },
+    {
+      "id": "variant-5a3dccc3-1bfc-5555-8837-abbdff1584d8",
+      "score": 0.844885,
+      "metadata": {
+        "text": "core_product_name: gas detector",
+        "raw_product_name": "GAS DETECTORS",
+        "list_of_product_ids": "9806,9813,9861,19902,34955,36092,36086,36094,39317",
+        "core_id": 1026.0
+      }
+    },
+    {
+      "id": "variant-aeb4f6a9-b1de-541e-9b7d-a9e5a83c65b6",
+      "score": 0.84410775,
+      "metadata": {
+        "text": "core_product_name: portable gas detector",
+        "raw_product_name": "PORTABLE GAS DETECTOR",
+        "list_of_product_ids": "13831,14336,14674,14682,14934,14935,14936,14937,19376,23210,33600,33610,33673,33689,34959,36085",
+        "core_id": 1726.0
+      }
+    },
+    {
+      "id": "variant-3d1bb32b-82c9-5e48-bdfa-b2c33d26a29d",
+      "score": 0.8438415,
+      "metadata": {
+        "text": "core_product_name: gas analysis component",
+        "raw_product_name": "GAS ANALYSIS COMPONENTS",
+        "list_of_product_ids": "19223,19224,19648,27343,39577,39714",
+        "core_id": 1019.0
+      }
+    },
+    {
+      "id": "variant-8ae46d5f-845a-5711-a2a8-dbd69d20865b",
+      "score": 0.83794266,
+      "metadata": {
+        "text": "core_product_name: density or specific gravity analyser | special_attributes: vibrating cylinder",
+        "raw_product_name": "ANALYSER-DENSITY/SP GRAVTY (VIB CYLINDR)",
+        "list_of_product_ids": "6560,5730,11818,11313,29882,35610,35614,36242,36395",
+        "core_id": 109.0
+      }
+    },
+    {
+      "id": "variant-f0f0f159-c9f0-57bd-89ee-9689d390c903",
+      "score": 0.8377588,
+      "metadata": {
+        "text": "core_product_name: calibration",
+        "raw_product_name": "INSTRUMENTS CALIBRATION",
+        "list_of_product_ids": "24237,23794,23833,23950,23799,26879",
+        "core_id": 1265.0
+      }
+    },
+    {
+      "id": "variant-a6103f7d-434d-59c3-b0c8-a5ad206ecb93",
+      "score": 0.8373679,
+      "metadata": {
+        "text": "core_product_name: gas metering system | special_attributes: dual chamber orifice",
+        "raw_product_name": "GAS METERING SYSTEM -DUAL CHAMBR ORIFICE",
+        "list_of_product_ids": "6614,5784,38506,38496",
+        "core_id": 1031.0
+      }
+    },
+    {
+      "id": "variant-dbe53d3b-b232-59ad-a14e-f85b04c8befb",
+      "score": 0.83708656,
+      "metadata": {
+        "text": "core_product_name: extractive gas analyser system",
+        "raw_product_name": "STACK GAS ANALYSER SYSTEMS (EXTRACTIVE)",
+        "list_of_product_ids": "6526,5697,10053,11186,11765,11785,10134,11882,19069,19572,29266,29267,29265,29264,33424,33539,33606,33603,33686,33670,33817,33942,33960,35608,35612,36276,36428",
+        "core_id": 2098.0
+      }
+    },
+    {
+      "id": "variant-4b8d944e-4e96-5b4a-8837-cad13f968871",
+      "score": 0.836751,
+      "metadata": {
+        "text": "core_product_name: sample gas pump",
+        "raw_product_name": "SAMPLE GAS PUMP",
+        "list_of_product_ids": "19213,19211,19658,27529,38631,39778",
+        "core_id": 1953.0
+      }
+    },
+    {
+      "id": "variant-b8ddc942-c61f-5d99-be2e-3b250f252df9",
+      "score": 0.83672833,
+      "metadata": {
+        "text": "core_product_name: stack, insitu gas analyser system",
+        "raw_product_name": "STACK GAS ANALYSER SYSTEMS (INSITU)",
+        "list_of_product_ids": "6535,5706,22713,29793,33870,36262,36415",
+        "core_id": 2100.0
+      }
+    },
+    {
+      "id": "variant-0eeae93e-6bfe-5a9b-b349-a8eefb91ba7a",
+      "score": 0.8358379,
+      "metadata": {
+        "text": "core_product_name: process gas analyser",
+        "raw_product_name": "PROCESS GAS ANALYSER",
+        "list_of_product_ids": "13877,14675,14683,15310,15318",
+        "core_id": 1789.0
+      }
+    },
+    {
+      "id": "variant-c6142dce-03db-5441-8a18-40fa29bb5592",
+      "score": 0.8336401,
+      "metadata": {
+        "text": "core_product_name: hand held multifunctional calibrator",
+        "raw_product_name": "Hand Held Multifunctional Calibrator",
+        "list_of_product_ids": "18090,28750,37512,37499",
+        "core_id": 1211.0
+      }
+    },
+    {
+      "id": "variant-44ef153c-f8c1-591b-bcfa-ee12e6ec437f",
+      "score": 0.83122605,
+      "metadata": {
+        "text": "core_product_name: fire and gas detection system",
+        "raw_product_name": "FIRE & GAS DETECTION SYSTEMS",
+        "list_of_product_ids": "6550,5721,10943,10040,11234,11244,11420,11423,11421,11425,12425,12818,17482,17481,19831,29874,37765,37770,37775,37791,35578,36117,36233,36385,36457",
+        "core_id": 836.0
+      }
+    },
+    {
+      "id": "variant-f1797713-ac22-5f99-a288-a9b9dee27a72",
+      "score": 0.829697,
+      "metadata": {
+        "text": "core_product_name: process gas chromatograph",
+        "raw_product_name": "GAS CHROMATOGRAPH (PROCESS)",
+        "list_of_product_ids": "6522,5693,10051,11183,10131,11879,29983,29259,29258,29257,36279,36431",
+        "core_id": 1022.0
+      }
+    },
+    {
+      "id": "variant-60cc1389-d2d7-5796-b91e-9be0cfc16c55",
+      "score": 0.8296753,
+      "metadata": {
+        "text": "core_product_name: instrumentation fitting",
+        "raw_product_name": "INSTRUMENTATION FITTINGS",
+        "list_of_product_ids": "14372,17508,17507,17506,17505,17504,17501,17500,17496,17958,17960",
+        "core_id": 1264.0
+      }
+    },
+    {
+      "id": "variant-0eb5d02c-397d-58fc-80d8-1ab2e3a705cc",
+      "score": 0.8295638,
+      "metadata": {
+        "text": "core_product_name: test and measuring equipment",
+        "raw_product_name": "Test & Measuring Equipment",
+        "list_of_product_ids": "1,401,515,286",
+        "core_id": 2303.0
+      }
+    },
+    {
+      "id": "variant-36941d1d-74c0-536c-b4d8-1570d8f5d4be",
+      "score": 0.8286481,
+      "metadata": {
+        "text": "core_product_name: gas welding equipment",
+        "raw_product_name": "GAS WELDING EQUIPMENT",
+        "list_of_product_ids": "218,672,187,028,061",
+        "core_id": 1036.0
+      }
+    },
+    {
+      "id": "variant-ee59b1ef-a2c9-5d70-876f-f4022cf5903b",
+      "score": 0.8278494,
+      "metadata": {
+        "text": "core_product_name: gas cutting equipment",
+        "raw_product_name": "GAS CUTTING EQUIPMENT",
+        "list_of_product_ids": "218,682,186,928,607",
+        "core_id": 1024.0
+      }
+    },
+    {
+      "id": "variant-8afbad4d-0da4-5ead-97bb-ee4b09ad3b19",
+      "score": 0.82731366,
+      "metadata": {
+        "text": "core_product_name: gas generator",
+        "raw_product_name": "GAS GENERATOR",
+        "list_of_product_ids": "19484,19479,27060,36673",
+        "core_id": 1030.0
+      }
+    },
+    {
+      "id": "variant-185b88e9-63b7-56a0-9df9-801c2285f4c5",
+      "score": 0.82726187,
+      "metadata": {
+        "text": "core_product_name: fitting | standards_and_approvals: IS (Indian Standards)-1239",
+        "raw_product_name": "FITTINGS TO IS-1239",
+        "list_of_product_ids": "14270,14771,33994,33993,33992,33991,33990",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-0efb7545-ace8-5231-a7a1-6342569f67d0",
+      "score": 0.8269011,
+      "metadata": {
+        "text": "core_product_name: thermal detector",
+        "raw_product_name": "THERMAL DETECTORS",
+        "list_of_product_ids": "14012,14939,18003,18002,37766,37771,37776,37792,37802,37807",
+        "core_id": 2239.0
+      }
+    },
+    {
+      "id": "variant-61f8572e-efe3-5cec-9e1a-f25b5d3308a6",
+      "score": 0.8268577,
+      "metadata": {
+        "text": "core_product_name: fitting",
+        "raw_product_name": "FITTINGS",
+        "list_of_product_ids": "6290,5461,11537,7894,11072,11094,11098,11099,11127,11129,10446,10452,11402,8101,8103,8105,7876,7878,7880,7882,7883,7875,7877,7879,8095,8018,8097,8099,8094,8096,8098,8100,8102,8104,8106,8130,9273,9274,8824,8107,8108,12258,12679,12666,12683,12688,13310,13317,13403,14515,14568,15748,16005,16058,16446,16530,16614,19374,19368,19267,19252,19261,17541,19356,19736,20066,21742,21303,19811,19277,16579,24581,30951,30637,30687,33435,37262,37014,37026,35746,36881,36884",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-23ddd03b-4ec1-5137-adee-501343ea8d64",
+      "score": 0.82647353,
+      "metadata": {
+        "text": "core_product_name: multi-combination meter",
+        "raw_product_name": "MULTI-COMBINATION METER",
+        "list_of_product_ids": "137,821,494,616,620",
+        "core_id": 1514.0
+      }
+    },
+    {
+      "id": "variant-a28f217c-33b3-55f8-9958-274b5f02542e",
+      "score": 0.8262887,
+      "metadata": {
+        "text": "core_product_name: special measuring tool",
+        "raw_product_name": "SPECIAL MEASURING TOOLS",
+        "list_of_product_ids": "216,462,165,121,750",
+        "core_id": 2079.0
+      }
+    },
+    {
+      "id": "variant-78443036-3ff8-5091-b071-64441d2c17b9",
+      "score": 0.8261085,
+      "metadata": {
+        "text": "core_product_name: oxygen detector",
+        "raw_product_name": "OXYGEN DETECTOR",
+        "list_of_product_ids": "164,771,647,816,500",
+        "core_id": 1610.0
+      }
+    },
+    {
+      "id": "variant-dc902e3d-597c-5dda-bda3-7f176d1b91e9",
+      "score": 0.82596993,
+      "metadata": {
+        "text": "core_product_name: detector",
+        "raw_product_name": "DETECTOR",
+        "list_of_product_ids": "8900,8902,9849,9858,9867,18250,18249,18248,36841,36225,36377",
+        "core_id": 579.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.82593423,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-fcc2ab1b-58df-54d8-9ad8-c557e480c6b4",
+      "score": 0.82571566,
+      "metadata": {
+        "text": "core_product_name: portable calibrator",
+        "raw_product_name": "Portable Calibrator",
+        "list_of_product_ids": "18091,27913,37511,37498",
+        "core_id": 1732.0
+      }
+    },
+    {
+      "id": "variant-04c0253b-a0b8-5065-bbd3-97279ba79809",
+      "score": 0.82571566,
+      "metadata": {
+        "text": "core_product_name: portable calibrator",
+        "raw_product_name": "PORTABLE TEMPERATURE CALIBRATOR",
+        "list_of_product_ids": "171,831,717,327,912",
+        "core_id": 1732.0
+      }
+    }
+  ]
+}

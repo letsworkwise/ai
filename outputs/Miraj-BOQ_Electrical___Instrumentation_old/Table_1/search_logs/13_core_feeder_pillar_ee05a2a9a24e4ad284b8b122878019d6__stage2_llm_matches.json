@@ -1,0 +1,73 @@
+{
+  "query": "core_product_name: feeder pillar | size: voltage: 415v, phase: 3ph, frequency: 50hz, enclosure thickness: 3mm frp (fiber reinforced plastic) canopy and side cover, incomer: 63a, outgoing: 16a tpn mcb | feature_or_specifications: type: flame proof, protection: ip class suitable for flp (flame proof), minimum protection: ip-65, enclosure: sheet steel, mounting: column/structural, control: photovoltic cell based, selector switch: a/m (auto/manual), feature: start/stop pb (push button), feature: indicating lamps, feature: with 1no.-incomer 63a, 3 phase rcbo 30 ma, feature: 3nos.-o/g (outgoing) 16a tpn (triple pole neutral) mcb (miniature circuit breaker)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "protection",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13583",
+          "14851",
+          "20281",
+          "22858",
+          "26788",
+          "26787",
+          "26786",
+          "26789",
+          "35773"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "protection",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof lighting and distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF LIGHTING & DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13578",
+          "14601",
+          "14847",
+          "24098"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "protection",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting and power panel | acronymed_core_product_name: FLP (Flameproof) panel | protection_features: Flameproof",
+        "raw_product_name": "LIGHTING & POWER PANELS (FLP)",
+        "list_of_product_ids": [
+          "6418",
+          "5588",
+          "7009",
+          "10306",
+          "10579",
+          "10558",
+          "10588",
+          "10602",
+          "18874",
+          "18920",
+          "22851",
+          "26777",
+          "26773",
+          "26754",
+          "26750",
+          "35770"
+        ]
+      }
+    }
+  ]
+}

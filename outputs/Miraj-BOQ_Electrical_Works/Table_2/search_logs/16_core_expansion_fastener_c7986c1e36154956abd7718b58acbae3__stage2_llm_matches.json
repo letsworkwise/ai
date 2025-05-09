@@ -1,0 +1,115 @@
+{
+  "query": "core_product_name: expansion fastener | size: size: M8 x 92",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fastener",
+        "raw_product_name": "FASTENERS",
+        "list_of_product_ids": [
+          "6002",
+          "5181",
+          "6904",
+          "6903",
+          "6905",
+          "7743",
+          "7745",
+          "7747",
+          "10994",
+          "7742",
+          "7744",
+          "7746",
+          "10035",
+          "13118",
+          "6922",
+          "6923",
+          "7740",
+          "7741",
+          "7739",
+          "7748",
+          "9329",
+          "8799",
+          "8800",
+          "8802",
+          "8804",
+          "8798",
+          "8801",
+          "8803",
+          "13318",
+          "13414",
+          "16122",
+          "17203",
+          "17716",
+          "17715",
+          "17714",
+          "17697",
+          "17871",
+          "17887",
+          "24667",
+          "22005",
+          "22036",
+          "22029",
+          "22281",
+          "23495",
+          "23486",
+          "36650",
+          "36936",
+          "33127",
+          "37388",
+          "37385",
+          "37387",
+          "37391",
+          "36097",
+          "36272"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: fastener | material: Titanium",
+        "raw_product_name": "TITANIUM FASTENERS",
+        "list_of_product_ids": [
+          "305",
+          "123",
+          "000",
+          "830",
+          "009"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: high temperature fastener",
+        "raw_product_name": "FASTENERS:HIGH TEMPERATURE",
+        "list_of_product_ids": [
+          "8374",
+          "8614",
+          "8615",
+          "14005",
+          "20926",
+          "20923",
+          "22363",
+          "22641",
+          "22639",
+          "23550",
+          "23540",
+          "23539",
+          "24670",
+          "36096"
+        ]
+      }
+    }
+  ]
+}

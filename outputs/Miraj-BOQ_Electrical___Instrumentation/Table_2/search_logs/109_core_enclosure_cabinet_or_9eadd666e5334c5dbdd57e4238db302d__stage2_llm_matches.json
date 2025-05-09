@@ -1,0 +1,72 @@
+{
+  "query": "core_product_name: enclosure cabinet or panel | size: height: 42 U | feature_or_specifications: accessories: all accessories/component for switches and server installation",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cabinet",
+        "raw_product_name": "CABINETS",
+        "list_of_product_ids": [
+          "5",
+          "936",
+          "676",
+          "512",
+          "192"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: system panel",
+        "raw_product_name": "SYSTEM PANELS",
+        "list_of_product_ids": [
+          "1",
+          "413",
+          "621",
+          "099"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "accessories_or_attachments"
+      ],
+      "match_details": {
+        "text": "core_product_name: control panel | accessories_or_attachments: accessories",
+        "raw_product_name": "CONTROL PANEL & ACCESSORIES",
+        "list_of_product_ids": [
+          "6599",
+          "5769",
+          "9463",
+          "8213",
+          "8215",
+          "8212",
+          "8214",
+          "9377",
+          "9156",
+          "9178",
+          "9378",
+          "9464",
+          "12191",
+          "8211",
+          "10743",
+          "31063",
+          "37694",
+          "37698",
+          "37703",
+          "37708",
+          "37712"
+        ]
+      }
+    }
+  ]
+}

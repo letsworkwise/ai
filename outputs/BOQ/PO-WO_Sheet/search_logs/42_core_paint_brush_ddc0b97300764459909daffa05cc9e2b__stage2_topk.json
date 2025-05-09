@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: paint brush | size: width: 2 inch",
+  "retrieval_results": [
+    {
+      "id": "variant-ef59ecb0-320a-5cea-b154-4ba76cf39f9e",
+      "score": 0.8745031,
+      "metadata": {
+        "text": "core_product_name: brush | material: Carbon",
+        "raw_product_name": "CARBON BRUSHES",
+        "list_of_product_ids": "242,252,422,726,882",
+        "core_id": 302.0
+      }
+    },
+    {
+      "id": "variant-57fecfed-c79f-5acd-b247-15bf21cbd5a3",
+      "score": 0.87228274,
+      "metadata": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "Paints",
+        "list_of_product_ids": "7573,7248,10288,11486,7766,12146,12193,12340,12341,14307,16998,17021,17015,18878,18924,24661,24663,24684,24681,24678,24676,24675,24672,24697,24690,24694,24700,24725,24723,24722,24729,30771,24738,15680,15678,15677,30810,25163,25264,25278,25308,25299,25345,25552,25781,26145,26116,26220,25680,31891,30742,34244,38228,38229,38230,38231,38232,38233,35616,35617,35618,35619,35622,35703,35698,35707,35785,35816,35817,36023",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-ae413c56-b2e1-58fc-b7c0-83629b95ba1c",
+      "score": 0.8720732,
+      "metadata": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "paints",
+        "list_of_product_ids": "8191",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-014c7bb6-6ec5-54af-848e-7964ab04ac83",
+      "score": 0.8720652,
+      "metadata": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "PAINTS (STOCKIST/TRADERS)",
+        "list_of_product_ids": "2,457,824,577",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-0e0c90c9-780c-50d5-a034-058ce6617e37",
+      "score": 0.87011385,
+      "metadata": {
+        "text": "core_product_name: painting",
+        "raw_product_name": "PAINTING",
+        "list_of_product_ids": "239,702,397,227,813",
+        "core_id": 1625.0
+      }
+    },
+    {
+      "id": "variant-ecb3294f-d3d1-571e-a39d-4c8df6a63d75",
+      "score": 0.8606294,
+      "metadata": {
+        "text": "core_product_name: polishing painting work",
+        "raw_product_name": "PAINTING WORKS - POLISHING",
+        "list_of_product_ids": "6356,5527,34337,34678",
+        "core_id": 1628.0
+      }
+    },
+    {
+      "id": "variant-b0d9c4df-3690-59a3-8c9a-dfab3097ac82",
+      "score": 0.85957503,
+      "metadata": {
+        "text": "core_product_name: based paint | material: Polymer",
+        "raw_product_name": "POLYMER BASED PAINT",
+        "list_of_product_ids": "138,272,388,622,463",
+        "core_id": 327.0
+      }
+    },
+    {
+      "id": "variant-977e0459-66d4-544b-870a-6f7f95d3023e",
+      "score": 0.85853463,
+      "metadata": {
+        "text": "core_product_name: brush holder | material: Carbon",
+        "raw_product_name": "CARBON BRUSH HOLDER",
+        "list_of_product_ids": "19611,19612,24228,26881",
+        "core_id": 298.0
+      }
+    },
+    {
+      "id": "variant-053579c3-3498-5b60-8344-1f2872278138",
+      "score": 0.8566054,
+      "metadata": {
+        "text": "core_product_name: painting tank",
+        "raw_product_name": "TANK - PAINTING WORK",
+        "list_of_product_ids": "168,882,781,434,496",
+        "core_id": 2198.0
+      }
+    },
+    {
+      "id": "variant-61ed1a5a-d988-5f1a-b288-7fc04abf584a",
+      "score": 0.85617566,
+      "metadata": {
+        "text": "core_product_name: paint | material: Acrylic Emulsion",
+        "raw_product_name": "ACRYLIC EMULSION Paint",
+        "list_of_product_ids": "7041,7368,11500,12195,15679,14311,18879,18925,22556,30744,30769,30808,31893,34033,34242",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-e073d2ae-f2d1-5e74-9d31-5194d6319446",
+      "score": 0.85549355,
+      "metadata": {
+        "text": "core_product_name: structural painting work",
+        "raw_product_name": "PAINTING WORK-STRUCTURAL",
+        "list_of_product_ids": "1,658,927,816",
+        "core_id": 1624.0
+      }
+    },
+    {
+      "id": "variant-2372785c-0a8a-571d-add4-db24f21a105b",
+      "score": 0.85502964,
+      "metadata": {
+        "text": "core_product_name: paint thinner",
+        "raw_product_name": "PAINT THINNER",
+        "list_of_product_ids": "22307,22306,22305,27438,29106,29105,29104",
+        "core_id": 1623.0
+      }
+    },
+    {
+      "id": "variant-b6cc49f4-1485-53a1-a1a7-68d77a587995",
+      "score": 0.85488117,
+      "metadata": {
+        "text": "core_product_name: gallery",
+        "raw_product_name": "CONVEYER GALLERIES",
+        "list_of_product_ids": "210,412,104,227,102",
+        "core_id": 473.0
+      }
+    },
+    {
+      "id": "variant-134a5803-1220-5c71-a390-0836d01ebe02",
+      "score": 0.854761,
+      "metadata": {
+        "text": "core_product_name: pipe painting",
+        "raw_product_name": "PIPE PAINTING",
+        "list_of_product_ids": "16382,16510,16511,16556,16538,34493",
+        "core_id": 1663.0
+      }
+    },
+    {
+      "id": "variant-1ab41630-8bae-5046-a614-3fa1aa8f914d",
+      "score": 0.8545916,
+      "metadata": {
+        "text": "core_product_name: spray painting equipment",
+        "raw_product_name": "SPRAY PAINTING EQUIPMENTS",
+        "list_of_product_ids": "223,092,230,827,039",
+        "core_id": 2089.0
+      }
+    },
+    {
+      "id": "variant-fc11023f-6aa9-5a2a-9ffa-b1e3abd66cf0",
+      "score": 0.85248184,
+      "metadata": {
+        "text": "core_product_name: craft",
+        "raw_product_name": "SURVIVAL CRAFT",
+        "list_of_product_ids": "188,592,806,237,502",
+        "core_id": 2164.0
+      }
+    },
+    {
+      "id": "variant-33525379-9060-5b76-8e53-8f90b0e2a756",
+      "score": 0.8508295,
+      "metadata": {
+        "text": "core_product_name: surface texture paint | operating_conditions: Interior",
+        "raw_product_name": "SURFACE TEXTURE PAINT(INTERIOR)",
+        "list_of_product_ids": "200,842,008,020,714",
+        "core_id": 2154.0
+      }
+    },
+    {
+      "id": "variant-d179beb7-8ae9-5a78-a4c4-2d411dc27fee",
+      "score": 0.8489016,
+      "metadata": {
+        "text": "core_product_name: emulsion paint | material: Plastic",
+        "raw_product_name": "Plastic Emulsion Paint",
+        "list_of_product_ids": "13444,14315,14462,30751,30777,30816,31898,35640,35639,35641,35642,35643",
+        "core_id": 1833.0
+      }
+    },
+    {
+      "id": "variant-dc892e41-60f1-5a16-a1bd-f106f106c78b",
+      "score": 0.8486329,
+      "metadata": {
+        "text": "core_product_name: as fitted drawing",
+        "raw_product_name": "AS FITTED DRAWING",
+        "list_of_product_ids": "295,042,928,129,280",
+        "core_id": 131.0
+      }
+    },
+    {
+      "id": "variant-3b283f23-b639-5606-8a99-8f21fc62dd8f",
+      "score": 0.84856504,
+      "metadata": {
+        "text": "core_product_name: tool",
+        "raw_product_name": "TOOLS",
+        "list_of_product_ids": "14142,39191,18580,39705,39233,39272,39349,24181,39460,33208,33273,35935,39071,39500,39519,39776,39861,39951,40019,40059,40116,40219,40247,40286",
+        "core_id": 2254.0
+      }
+    },
+    {
+      "id": "variant-39fce78b-8d44-56c5-9c95-7e9a9934ea56",
+      "score": 0.84821665,
+      "metadata": {
+        "text": "core_product_name: width gauge",
+        "raw_product_name": "Width Gauge",
+        "list_of_product_ids": "7552,7226,10509,18014",
+        "core_id": 2491.0
+      }
+    },
+    {
+      "id": "variant-83351410-76f3-5cb0-86b0-0ae6f6887ba6",
+      "score": 0.84750205,
+      "metadata": {
+        "text": "core_product_name: surface texture paint | operating_conditions: exterior",
+        "raw_product_name": "SURFACE TEXTURE PAINT(EXTERIOR)",
+        "list_of_product_ids": "200,832,007,920,715",
+        "core_id": 2154.0
+      }
+    },
+    {
+      "id": "variant-dc61bb4b-3a37-5c73-9e84-36303b19eb2d",
+      "score": 0.8473202,
+      "metadata": {
+        "text": "core_product_name: based paint | material: Cement",
+        "raw_product_name": "CEMENT BASED PAINT",
+        "list_of_product_ids": "35632,35633,35634,35631,35670",
+        "core_id": 327.0
+      }
+    },
+    {
+      "id": "variant-93987a99-4ac7-592e-92b4-e5207d77fe5d",
+      "score": 0.8469417,
+      "metadata": {
+        "text": "core_product_name: small fabrication job",
+        "raw_product_name": "SMALL FABRICATION JOB",
+        "list_of_product_ids": "24981,24980,24979,26756",
+        "core_id": 2044.0
+      }
+    },
+    {
+      "id": "variant-ffccfbbe-0b59-55ae-99a5-d39d2aa1a0ab",
+      "score": 0.8459143,
+      "metadata": {
+        "text": "core_product_name: naval patternized paint",
+        "raw_product_name": "PAINTS (NAVAL PATTERNIZED)",
+        "list_of_product_ids": "22310,22313,22311,28614,29101,29103,29102,35326,35339,35345,35366,35371,35408",
+        "core_id": 1633.0
+      }
+    },
+    {
+      "id": "variant-c9606761-8875-5ecd-8e32-10a958b09ddd",
+      "score": 0.845327,
+      "metadata": {
+        "text": "core_product_name: bolt",
+        "raw_product_name": "BOLT",
+        "list_of_product_ids": "13612,20911,20910,26266,26148,26200,26213,26223,26232,27708,33126,37287",
+        "core_id": 228.0
+      }
+    },
+    {
+      "id": "variant-27834032-9ff1-56f1-aa48-bbc29b08fc65",
+      "score": 0.8452213,
+      "metadata": {
+        "text": "core_product_name: bitumastic paint | protection_features: Anti-corrosive",
+        "raw_product_name": "ANTI CORROSIVE BITUMASTIC PAINT",
+        "list_of_product_ids": "15685,15682,15683,30758,30784,30823,27989,15684,31895",
+        "core_id": 122.0
+      }
+    },
+    {
+      "id": "variant-e253088d-4ef0-56ec-9d5a-d5f3bacd86f4",
+      "score": 0.8449445,
+      "metadata": {
+        "text": "core_product_name: decorative textured coating",
+        "raw_product_name": "PAINTING WORKS - DECORATIVE TEXTURED COATING",
+        "list_of_product_ids": "6355,5526,12540,12556,15688,14818,14816,15687,16295,20197,20237,20216,34677",
+        "core_id": 1627.0
+      }
+    },
+    {
+      "id": "variant-51099c41-aa43-5333-9366-8cb60cfc4c26",
+      "score": 0.84460926,
+      "metadata": {
+        "text": "core_product_name: flange | material: Incoloy",
+        "raw_product_name": "FLANGES (INCOLOY)",
+        "list_of_product_ids": "20905,24572,24650,37037",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-578e3960-5868-52c9-b7bf-c85fda197741",
+      "score": 0.84457535,
+      "metadata": {
+        "text": "core_product_name: heat resistant paint",
+        "raw_product_name": "HEAT RESISTANT PAINT",
+        "list_of_product_ids": "22320,22324,28624,28826,28821",
+        "core_id": 1115.0
+      }
+    }
+  ]
+}

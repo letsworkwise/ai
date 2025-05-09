@@ -1,0 +1,88 @@
+{
+  "query": "core_product_name: pvc(copper) cable | size: core: 1, area: 2.5 mm2 | feature_or_specifications: material: copper, insulation: pvc(polyvinyl chloride), colour: green",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": [
+          "32910",
+          "32911",
+          "33009",
+          "33041",
+          "33195",
+          "33260",
+          "33562",
+          "33633",
+          "35922"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material",
+        "Construction & Build"
+      ],
+      "match_details": {
+        "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+        "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+        "list_of_product_ids": [
+          "140",
+          "901",
+          "478",
+          "121",
+          "282"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLES",
+        "list_of_product_ids": [
+          "15455",
+          "13721",
+          "24275",
+          "15161",
+          "16241",
+          "19098",
+          "23820",
+          "23814",
+          "21319",
+          "19315",
+          "23819",
+          "23822",
+          "24273",
+          "23829",
+          "20141",
+          "23831",
+          "24058",
+          "23836",
+          "23909",
+          "23839",
+          "23828",
+          "24685",
+          "24726",
+          "24844",
+          "24955",
+          "31590",
+          "31591",
+          "26436",
+          "26438",
+          "31740",
+          "33330"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.86784756,
+      "text": "core_product_name: pressure indicating controller",
+      "core_id": 1772.0,
+      "raw_product_name": "PRESSURE INDICATING CONTROLLERS",
+      "list_of_product_ids": [
+        "17056",
+        "17059",
+        "17058",
+        "17057",
+        "28751",
+        "36365",
+        "40118"
+      ]
+    },
+    {
+      "retrieval_score": 0.864964,
+      "text": "core_product_name: pressure transmitter",
+      "core_id": 1778.0,
+      "raw_product_name": "PRESSURE TRANSMITTER",
+      "list_of_product_ids": [
+        "10037",
+        "10038",
+        "10043",
+        "10159",
+        "10626",
+        "9515",
+        "9555",
+        "36531",
+        "15313",
+        "17103",
+        "17110",
+        "18208",
+        "24110",
+        "19474",
+        "20012",
+        "20022",
+        "20017",
+        "35953",
+        "36165",
+        "36313",
+        "36510"
+      ]
+    },
+    {
+      "retrieval_score": 0.86158174,
+      "text": "core_product_name: local control station",
+      "core_id": 1380.0,
+      "raw_product_name": "LOCAL CONTROL STATIONS",
+      "list_of_product_ids": [
+        "99",
+        "911",
+        "003",
+        "018",
+        "831"
+      ]
+    },
+    {
+      "retrieval_score": 0.85877115,
+      "text": "core_product_name: sample gas pump",
+      "core_id": 1953.0,
+      "raw_product_name": "SAMPLE GAS PUMP",
+      "list_of_product_ids": [
+        "19213",
+        "19211",
+        "19658",
+        "27529",
+        "38631",
+        "39778"
+      ]
+    },
+    {
+      "retrieval_score": 0.8566492,
+      "text": "core_product_name: check valve | operating_conditions: LP (Low Pressure) application",
+      "core_id": 340.0,
+      "raw_product_name": "Valve check for LP application",
+      "list_of_product_ids": [
+        "14071",
+        "14931",
+        "22241",
+        "22353"
+      ]
+    },
+    {
+      "retrieval_score": 0.8566492,
+      "text": "core_product_name: check valve | operating_conditions: LP (Low Pressure) application",
+      "core_id": 340.0,
+      "raw_product_name": "Valves check for LP application",
+      "list_of_product_ids": [
+        "8343"
+      ]
+    },
+    {
+      "retrieval_score": 0.85553944,
+      "text": "core_product_name: pressure regulator",
+      "core_id": 1773.0,
+      "raw_product_name": "PRESSURE REGULATOR",
+      "list_of_product_ids": [
+        "13868",
+        "15346",
+        "15351",
+        "15356"
+      ]
+    },
+    {
+      "retrieval_score": 0.8554962,
+      "text": "core_product_name: oil level indicator",
+      "core_id": 1582.0,
+      "raw_product_name": "OIL LEVEL INDICATOR",
+      "list_of_product_ids": [
+        "21633",
+        "21630",
+        "21639",
+        "21757"
+      ]
+    },
+    {
+      "retrieval_score": 0.8552841,
+      "text": "core_product_name: pump",
+      "core_id": 539.0,
+      "raw_product_name": "PUMP",
+      "list_of_product_ids": [
+        "19073",
+        "13894",
+        "16991",
+        "17418",
+        "19783",
+        "20922",
+        "21362",
+        "21529",
+        "21511",
+        "21463",
+        "37047",
+        "37288",
+        "36119"
+      ]
+    },
+    {
+      "retrieval_score": 0.85521334,
+      "text": "core_product_name: level transmitter",
+      "core_id": 1080.0,
+      "raw_product_name": "LEVEL TRANSMITTER",
+      "list_of_product_ids": [
+        "14042",
+        "36533",
+        "17995",
+        "18211",
+        "19929",
+        "19985",
+        "19983",
+        "36512",
+        "40096"
+      ]
+    },
+    {
+      "retrieval_score": 0.854919,
+      "text": "core_product_name: flow indicator",
+      "core_id": 937.0,
+      "raw_product_name": "FLOW INDICATOR",
+      "list_of_product_ids": [
+        "165",
+        "441",
+        "654",
+        "127",
+        "339"
+      ]
+    },
+    {
+      "retrieval_score": 0.8539427,
+      "text": "core_product_name: level indicator | type_or_class: Servo Type TGM",
+      "core_id": 1332.0,
+      "raw_product_name": "LEVEL INDICATORS (SERVO TYPE TGM)",
+      "list_of_product_ids": [
+        "13980"
+      ]
+    },
+    {
+      "retrieval_score": 0.8535338,
+      "text": "core_product_name: indicating meter",
+      "core_id": 1230.0,
+      "raw_product_name": "INDICATING METERS",
+      "list_of_product_ids": [
+        "13682",
+        "14947",
+        "19149",
+        "19123",
+        "19142"
+      ]
+    },
+    {
+      "retrieval_score": 0.8534236,
+      "text": "core_product_name: pressure vessel",
+      "core_id": 1779.0,
+      "raw_product_name": "PRESSURE VESSELS",
+      "list_of_product_ids": [
+        "7036",
+        "7363",
+        "11704",
+        "11496",
+        "12043",
+        "12853",
+        "13000",
+        "15855",
+        "17342",
+        "17386",
+        "17845",
+        "22795",
+        "36649",
+        "26140",
+        "33998",
+        "33997",
+        "37074",
+        "35786",
+        "35998",
+        "36076",
+        "36282",
+        "36288"
+      ]
+    },
+    {
+      "retrieval_score": 0.8531897,
+      "text": "core_product_name: site fabricated pressure vessel | construction_features: clad",
+      "core_id": 1781.0,
+      "raw_product_name": "PRESSURE VESSEL-CLAD SITE FABRICATED",
+      "list_of_product_ids": [
+        "6686",
+        "5857",
+        "9696",
+        "12166",
+        "13092",
+        "23503"
+      ]
+    },
+    {
+      "retrieval_score": 0.8531299,
+      "text": "core_product_name: check valve | construction_features: pre-insulation",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK PRE-INSULATION",
+      "list_of_product_ids": [
+        "1",
+        "544",
+        "118",
+        "796"
+      ]
+    },
+    {
+      "retrieval_score": 0.8530667,
+      "text": "core_product_name: loop powered indicator",
+      "core_id": 1383.0,
+      "raw_product_name": "LOOP POWERED INDICATORS",
+      "list_of_product_ids": [
+        "6593",
+        "5763",
+        "11632",
+        "11633",
+        "10042",
+        "10068",
+        "8403",
+        "12844",
+        "38272"
+      ]
+    },
+    {
+      "retrieval_score": 0.85281444,
+      "text": "core_product_name: site fabricated pressure vessel | type_or_class: LAS (Low Alloy Steel)",
+      "core_id": 1781.0,
+      "raw_product_name": "PRESSURE VESSEL-LAS SITE FABRICATED",
+      "list_of_product_ids": [
+        "6684",
+        "5855",
+        "9695",
+        "23494"
+      ]
+    },
+    {
+      "retrieval_score": 0.8525449,
+      "text": "core_product_name: indicator",
+      "core_id": 1233.0,
+      "raw_product_name": "INDICATORS",
+      "list_of_product_ids": [
+        "13683",
+        "15210",
+        "19644",
+        "19651",
+        "20866",
+        "21235",
+        "22603"
+      ]
+    },
+    {
+      "retrieval_score": 0.852542,
+      "text": "core_product_name: pressure gauge",
+      "core_id": 1771.0,
+      "raw_product_name": "PRESSURE GAUGES",
+      "list_of_product_ids": [
+        "6566",
+        "5736",
+        "9044",
+        "9045",
+        "9453",
+        "9239",
+        "9160",
+        "12718",
+        "12728",
+        "12829",
+        "12831",
+        "13206",
+        "14225",
+        "16560",
+        "16615",
+        "16593",
+        "16586",
+        "18215",
+        "18883",
+        "18929",
+        "18983",
+        "19504",
+        "21561",
+        "31684",
+        "31592",
+        "31593",
+        "37411",
+        "37410",
+        "36585",
+        "37680",
+        "33015",
+        "36619",
+        "33202",
+        "33267",
+        "38194",
+        "33569",
+        "33640",
+        "38210",
+        "38211",
+        "37654",
+        "35194",
+        "35929",
+        "35966",
+        "35973",
+        "37653"
+      ]
+    },
+    {
+      "retrieval_score": 0.852374,
+      "text": "core_product_name: indicator",
+      "core_id": 1233.0,
+      "raw_product_name": "PIG INDICATOR",
+      "list_of_product_ids": [
+        "17549",
+        "17543",
+        "18671",
+        "36724",
+        "34854"
+      ]
+    },
+    {
+      "retrieval_score": 0.851629,
+      "text": "core_product_name: pressure control valve",
+      "core_id": 1770.0,
+      "raw_product_name": "PRESSURE CONTROL VALVE",
+      "list_of_product_ids": [
+        "14378",
+        "14380",
+        "16837",
+        "17055",
+        "17085",
+        "17627",
+        "17851",
+        "17905",
+        "17903",
+        "18055",
+        "18045",
+        "18036",
+        "18233",
+        "20949",
+        "21592",
+        "21600",
+        "21661",
+        "22355",
+        "23084",
+        "23330",
+        "10654",
+        "10876",
+        "36298",
+        "36435",
+        "40310"
+      ]
+    },
+    {
+      "retrieval_score": 0.851402,
+      "text": "core_product_name: pressure control regulator",
+      "core_id": 1769.0,
+      "raw_product_name": "PRESSURE CONTROL REGULATOR",
+      "list_of_product_ids": [
+        "13867",
+        "15347",
+        "15352",
+        "15357"
+      ]
+    },
+    {
+      "retrieval_score": 0.851354,
+      "text": "core_product_name: water level indicator",
+      "core_id": 2439.0,
+      "raw_product_name": "WATER LEVEL INDICATOR",
+      "list_of_product_ids": [
+        "21632",
+        "21626",
+        "21638",
+        "21758"
+      ]
+    },
+    {
+      "retrieval_score": 0.85128224,
+      "text": "core_product_name: gate valve | operating_conditions: LP (Low Pressure) application",
+      "core_id": 1041.0,
+      "raw_product_name": "Valve gate for LP application",
+      "list_of_product_ids": [
+        "14074",
+        "14930",
+        "22240",
+        "22352",
+        "35540"
+      ]
+    },
+    {
+      "retrieval_score": 0.85105544,
+      "text": "core_product_name: oil temperature indicator",
+      "core_id": 1590.0,
+      "raw_product_name": "OIL TEMPERATURE INDICATOR",
+      "list_of_product_ids": [
+        "6466",
+        "5637",
+        "15947",
+        "16111"
+      ]
+    },
+    {
+      "retrieval_score": 0.85092,
+      "text": "core_product_name: magnetic liquid level indicator",
+      "core_id": 1423.0,
+      "raw_product_name": "MAGNETIC LIQUID LEVEL INDICATOR",
+      "list_of_product_ids": [
+        "218",
+        "652",
+        "186",
+        "428",
+        "600"
+      ]
+    },
+    {
+      "retrieval_score": 0.8505672,
+      "text": "core_product_name: dosing pump",
+      "core_id": 618.0,
+      "raw_product_name": "DOSING PUMP",
+      "list_of_product_ids": [
+        "13699",
+        "17936",
+        "21024",
+        "21017",
+        "21013",
+        "21008",
+        "20998",
+        "20997",
+        "37927",
+        "37201",
+        "37918"
+      ]
+    },
+    {
+      "retrieval_score": 0.8504983,
+      "text": "core_product_name: lp (low pressure) heater",
+      "core_id": 1394.0,
+      "raw_product_name": "LP Heaters (Sub QR Item)",
+      "list_of_product_ids": [
+        "136",
+        "462",
+        "158",
+        "227",
+        "287"
+      ]
+    },
+    {
+      "retrieval_score": 0.84972286,
+      "text": "core_product_name: position transducer",
+      "core_id": 1838.0,
+      "raw_product_name": "Position Transducer",
+      "list_of_product_ids": [
+        "7075",
+        "7402",
+        "10513",
+        "11844",
+        "18018"
+      ]
+    }
+  ]
+}

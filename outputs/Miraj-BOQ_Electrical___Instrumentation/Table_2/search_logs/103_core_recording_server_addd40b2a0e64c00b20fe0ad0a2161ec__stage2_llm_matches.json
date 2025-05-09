@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: recording server | size: ram: 32 GB, disk configuration: 2 x 300 GB minimum, live database disk: 10 x 15K RPM 600GB | feature_or_specifications: processor: intel xeon quad core, network: 2 gigabit NICs, operating system: windows server 2012 R2 x64 standard/data center, disk configuration: RAID 5 (with server redundancy), live database disk configuration: RAID 1 or RAID10, connectivity: internal or direct attached",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: recorder",
+        "raw_product_name": "RECORDERS",
+        "list_of_product_ids": [
+          "13825",
+          "15211",
+          "20871",
+          "36627"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: large case field recorder",
+        "raw_product_name": "Large Case Field Recorders",
+        "list_of_product_ids": [
+          "17062",
+          "17061",
+          "17060",
+          "27436"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: temperature recorder",
+        "raw_product_name": "TEMPERATURE RECORDERS",
+        "list_of_product_ids": [
+          "6620",
+          "5790",
+          "10045",
+          "10155",
+          "11903",
+          "12893",
+          "12892"
+        ]
+      }
+    }
+  ]
+}

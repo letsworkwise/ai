@@ -1,0 +1,55 @@
+{
+  "query": "core_product_name: digital multimeter | feature_or_specifications: make: FLUKE or YAKOGAWA",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: multi-combination meter",
+        "raw_product_name": "MULTI-COMBINATION METER",
+        "list_of_product_ids": [
+          "137",
+          "821",
+          "494",
+          "616",
+          "620"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": [
+          "22280",
+          "22279",
+          "22278",
+          "27344",
+          "30010"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": [
+          "24296",
+          "20768",
+          "20767",
+          "24283"
+        ]
+      }
+    }
+  ]
+}

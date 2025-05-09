@@ -1,0 +1,72 @@
+{
+  "query": "core_product_name: led luminaire | size: mounting: recessed, size: 2'X2', system power consumption: not more than 36W, colour temperature: 5500-6500K | feature_or_specifications: light output: neutral white, driver: built in constant current electronic, housing: powder coated CRCA (cold rolled close annealed) sheet steel, diffuser: high efficiency acrylic, feature: uniform and glare free light output",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: product | acronymed_core_product_name: crca (cold rolled close annealed) | material: CRCA (Cold Rolled Close Annealed)",
+        "raw_product_name": "CRCA",
+        "list_of_product_ids": [
+          "17107",
+          "17105",
+          "17109",
+          "17281",
+          "17106",
+          "24613"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": [
+          "13606",
+          "16555",
+          "16546",
+          "16591",
+          "16576",
+          "17657",
+          "17650",
+          "17702",
+          "17682",
+          "18058",
+          "20306",
+          "20834",
+          "21315",
+          "22108",
+          "23384",
+          "35044"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: accessory lighting fixture | protection_features: Non Hazardous",
+        "raw_product_name": "LIGHTING FIXTURE & ACCESORY-NON HZARDOUS",
+        "list_of_product_ids": [
+          "5630",
+          "6459",
+          "10568",
+          "10188",
+          "10179",
+          "19512",
+          "19508",
+          "19540",
+          "26082"
+        ]
+      }
+    }
+  ]
+}

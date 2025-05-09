@@ -1,0 +1,148 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Termination of XLPE insulated armoured power cables (up to 1100 V grade) and connection of leads excluding the Cables with OD upto 20 mm.",
+      "core_product_name": "end termination",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: upto 20 mm",
+      "feature_or_specifications": "insulation: XLPE (cross-linked polyethylene), armour: armoured, voltage grade: up to 1100 V",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Termination of XLPE insulated armoured power cables (up to 1100 V grade) and connection of leads excluding the Cables with OD above 20 mm but upto 30 mm.",
+      "core_product_name": "end termination",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: above 20 mm but upto 30 mm",
+      "feature_or_specifications": "insulation: XLPE (cross-linked polyethylene), armour: armoured, voltage grade: up to 1100 V",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Termination of XLPE insulated armoured power cables (up to 1100 V grade) and connection of leads excluding the Cables with OD above 30 mm but upto 40 mm.",
+      "core_product_name": "end termination",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: above 30 mm but upto 40 mm",
+      "feature_or_specifications": "insulation: XLPE (cross-linked polyethylene), armour: armoured, voltage grade: up to 1100 V",
+      "quantity": "5.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      140,
+      149
+    ],
+    "original_rows": [
+      {
+        "0": 141,
+        "1": 0,
+        "2": "01EE.2050",
+        "3": "END TERMINATIONS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 142,
+        "1": 0,
+        "2": "01EE.2050.100",
+        "3": "Termination of XLPE insulated armoured power cables (up to 1100 V grade) and connection of leads excluding the",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 143,
+        "1": 0,
+        "2": "01EE.2050.100.10",
+        "3": "Cables with OD upto 20 mm.",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 144,
+        "1": 0,
+        "2": "01EE.2050.100.20",
+        "3": "Cables with OD above 20 mm but upto 30 mm.",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 145,
+        "1": 0,
+        "2": "01EE.2050.100.30",
+        "3": "Cables with OD above 30 mm but upto 40 mm.",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 146,
+        "1": 0,
+        "2": "01EE.2070",
+        "3": "G.I. & PVC PIPES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 147,
+        "1": 0,
+        "2": "01EE.2070.10",
+        "3": "Supply and laying of following sizes of  G.I. Pipes (medium) in required length fixed on steel, concrete or similar",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 148,
+        "1": 0,
+        "2": "01EE.2070.10.20",
+        "3": "50 mm NB.",
+        "4": 50.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 149,
+        "1": 0,
+        "2": "01EE.2070.10.50",
+        "3": "100 mm NB.",
+        "4": 50.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 150,
+        "1": 0,
+        "2": "01EE.2070.20",
+        "3": "Supply and laying of following sizes of  PVC Pipes in required length fixed on steel, concrete or similar structure,",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2454,
+    "completion_tokens": 728
+  }
+}

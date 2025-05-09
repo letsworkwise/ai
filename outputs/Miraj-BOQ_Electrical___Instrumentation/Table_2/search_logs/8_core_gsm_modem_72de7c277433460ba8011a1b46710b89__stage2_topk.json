@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: gsm modem | acronymed_core_product_name: gsm modem | feature_or_specifications: feature: auto sms for transmission after each stage of loading process, feature: for esd (emergency shutdown)",
+  "retrieval_results": [
+    {
+      "id": "variant-4bd75da8-b3ea-55fd-8691-73600fd313e0",
+      "score": 0.8718857,
+      "metadata": {
+        "text": "core_product_name: programmable logic controller | acronymed_core_product_name: programmable logic controller (esd) | type_or_class: ESD (Emergency Shutdown Device)",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER(ESD)",
+        "list_of_product_ids": "14140,15109,20984,23213,36203,36352",
+        "core_id": 1794.0
+      }
+    },
+    {
+      "id": "variant-ab96acaa-88b3-5fbb-ae8d-09b6e468d938",
+      "score": 0.8710767,
+      "metadata": {
+        "text": "core_product_name: emergency shutdown valve | acronymed_core_product_name: esd (emergency shutdown) valve",
+        "raw_product_name": "EMERGENCY SHUTDOWN VALVE(ESD)",
+        "list_of_product_ids": "13920,17286,35980,36007,40245",
+        "core_id": 741.0
+      }
+    },
+    {
+      "id": "variant-ca680a19-4300-52ac-9ef0-6f3e8a4236c8",
+      "score": 0.84962535,
+      "metadata": {
+        "text": "core_product_name: substation automation system | acronymed_core_product_name: sas system",
+        "raw_product_name": "SAS System",
+        "list_of_product_ids": "7566,7240,11203,10872,10874,11375",
+        "core_id": 1963.0
+      }
+    },
+    {
+      "id": "variant-df0dea48-90e8-59dc-83d7-4bf3ca502767",
+      "score": 0.8423181,
+      "metadata": {
+        "text": "core_product_name: addressable auto fire detection system | acronymed_core_product_name: afds (addressable auto fire detection system)",
+        "raw_product_name": "ADDRESSABLE AUTO FIRE DETECTION SYSTEM (AFDS)",
+        "list_of_product_ids": "24385,24384,24383,24382,26861,34990",
+        "core_id": 46.0
+      }
+    },
+    {
+      "id": "variant-13cafeb1-bea2-5577-aed4-b6d9f511ca3d",
+      "score": 0.84089607,
+      "metadata": {
+        "text": "core_product_name: protection and metering substation automation system | acronymed_core_product_name: sas system (substation automation system)",
+        "raw_product_name": "SAS System (PROTECTION & METERING)",
+        "list_of_product_ids": "1,387,214,853",
+        "core_id": 1965.0
+      }
+    },
+    {
+      "id": "variant-73ac1663-9c33-5076-bc1d-29bfe0484357",
+      "score": 0.8363198,
+      "metadata": {
+        "text": "core_product_name: telecommunication system",
+        "raw_product_name": "TELECOMMUNICATION SYSTEM",
+        "list_of_product_ids": "14203,18336,22435,36100",
+        "core_id": 2212.0
+      }
+    },
+    {
+      "id": "variant-fbbd54ff-ec53-502c-8905-ce58c349321a",
+      "score": 0.8362662,
+      "metadata": {
+        "text": "core_product_name: associated internals package | acronymed_core_product_name: STRD. PKGS. | special_attributes: Proprietory",
+        "raw_product_name": "STRD.PKGS.& ASSOC.INTERNALS(PROPRIETORY)",
+        "list_of_product_ids": "6702,5873,8973,8984,9119,9130,12415,12350,19937",
+        "core_id": 2128.0
+      }
+    },
+    {
+      "id": "variant-c9c58aff-a0f1-50b5-b1f4-9bd02d954bc4",
+      "score": 0.83346045,
+      "metadata": {
+        "text": "core_product_name: auto telephone system",
+        "raw_product_name": "AUTO TELEPHONE SYSTEM",
+        "list_of_product_ids": "23967,22940,22939,22938,27057,22941",
+        "core_id": 138.0
+      }
+    },
+    {
+      "id": "variant-bec43992-d5ea-520b-a1fd-0d2a8444a303",
+      "score": 0.8324007,
+      "metadata": {
+        "text": "core_product_name: auto changeover switch",
+        "raw_product_name": "AUTO CHANGEOVER SWITCH",
+        "list_of_product_ids": "20760,20758,21211,21209,21207,21205,27427",
+        "core_id": 137.0
+      }
+    },
+    {
+      "id": "variant-6b086f26-3ab4-545b-adc8-b69f1decdb1d",
+      "score": 0.8314963,
+      "metadata": {
+        "text": "core_product_name: telecommunication package",
+        "raw_product_name": "TELECOM PACKAGE",
+        "list_of_product_ids": "14004,19206,19262,18697,19229,19218,20983,22436,22704,23211",
+        "core_id": 2213.0
+      }
+    },
+    {
+      "id": "variant-cbe0500f-7d01-5cbf-84c0-579b2a7af5d7",
+      "score": 0.83087176,
+      "metadata": {
+        "text": "core_product_name: material | acronymed_core_product_name: ets material",
+        "raw_product_name": "ETS MATERIAL",
+        "list_of_product_ids": "139,563,828,136,667",
+        "core_id": 353.0
+      }
+    },
+    {
+      "id": "variant-35f1cbfd-1ac3-52a3-bc45-b47462ee0944",
+      "score": 0.8307104,
+      "metadata": {
+        "text": "core_product_name: emergency stop push button station",
+        "raw_product_name": "EMERGENCY STOP PUSH BUTTON STATION NEAR TANK",
+        "list_of_product_ids": "216,582,165,721,730",
+        "core_id": 743.0
+      }
+    },
+    {
+      "id": "variant-0ea9e5f6-ccd4-5364-bbd1-e4bf6dcb09de",
+      "score": 0.8301342,
+      "metadata": {
+        "text": "core_product_name: terminal automation system",
+        "raw_product_name": "TERMINAL AUTOMATION SYSTEM",
+        "list_of_product_ids": "6572,5742,10065,10150,11898,19578,30475",
+        "core_id": 2229.0
+      }
+    },
+    {
+      "id": "variant-b0a0841f-ecb6-5123-a66c-279289d1e741",
+      "score": 0.83006054,
+      "metadata": {
+        "text": "core_product_name: log | acronymed_core_product_name: em log",
+        "raw_product_name": "EM LOG",
+        "list_of_product_ids": "23412,23409,23406,28226,28247",
+        "core_id": 736.0
+      }
+    },
+    {
+      "id": "variant-7a81ebd3-21d8-54a3-a240-c819d8c11843",
+      "score": 0.8287351,
+      "metadata": {
+        "text": "core_product_name: quick opening end closure",
+        "raw_product_name": "QUICK OPENING END CLOSURE",
+        "list_of_product_ids": "15436,18787,22338,36605,34856",
+        "core_id": 1851.0
+      }
+    },
+    {
+      "id": "variant-760f80e5-c1c7-5bd9-a10f-267445f26362",
+      "score": 0.8285006,
+      "metadata": {
+        "text": "core_product_name: telephone system",
+        "raw_product_name": "TELEPHONE SYSTEM",
+        "list_of_product_ids": "193,772,764,139,783",
+        "core_id": 2217.0
+      }
+    },
+    {
+      "id": "variant-0ca12a92-4a20-56ce-b4f5-7899a9d96e9b",
+      "score": 0.82777506,
+      "metadata": {
+        "text": "core_product_name: shutdown panel",
+        "raw_product_name": "WELL FIRE SHUTDOWN PANEL",
+        "list_of_product_ids": "19081,19085,19059,24838,24826,24940,24952,38428,38437,38445,38326,38358,38384,36118",
+        "core_id": 2306.0
+      }
+    },
+    {
+      "id": "variant-4ed83870-c8d2-5f69-ba76-674bbe8ff2b1",
+      "score": 0.8277418,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: ups system",
+        "raw_product_name": "UPS SYSTEM",
+        "list_of_product_ids": "14194,15283,15287,15895,17799,17789,17897,18615,18614,18613,18612",
+        "core_id": 2314.0
+      }
+    },
+    {
+      "id": "variant-42640f35-65bd-5786-a8e0-6da0c7032c9c",
+      "score": 0.82773244,
+      "metadata": {
+        "text": "core_product_name: local area network switch | acronymed_core_product_name: LAN SWITCH",
+        "raw_product_name": "LAN SWITCH",
+        "list_of_product_ids": "19153,19154,27610,37883,37888,37890",
+        "core_id": 1317.0
+      }
+    },
+    {
+      "id": "variant-6f0d62ac-9bd0-5eac-ba3b-e04dc52329d6",
+      "score": 0.82768965,
+      "metadata": {
+        "text": "core_product_name: life saving appliance | acronymed_core_product_name: lsa (life saving appliance)",
+        "raw_product_name": "SHIP REPAIR- LIFE SAVING APPLIANCE (LSA)",
+        "list_of_product_ids": "29500,29291,29288,29286",
+        "core_id": 2012.0
+      }
+    },
+    {
+      "id": "variant-699a43b0-7687-5c69-996f-3aebb9c05522",
+      "score": 0.8274908,
+      "metadata": {
+        "text": "core_product_name: disposal level transmitter",
+        "raw_product_name": "Disposal Level Transmitters",
+        "list_of_product_ids": "17087,17086,17996,17997,18641",
+        "core_id": 653.0
+      }
+    },
+    {
+      "id": "variant-47cddcc7-fe21-56de-9c73-1f4acd3507f6",
+      "score": 0.8273687,
+      "metadata": {
+        "text": "core_product_name: electronic private automatic branch exchange system | acronymed_core_product_name: epabx system",
+        "raw_product_name": "EPABX SYSTEM",
+        "list_of_product_ids": "18169,18166,18575,26934,35019",
+        "core_id": 755.0
+      }
+    },
+    {
+      "id": "variant-1cd9b248-af72-5de0-8cca-598aaba7737d",
+      "score": 0.8270077,
+      "metadata": {
+        "text": "core_product_name: on off shutdown valve",
+        "raw_product_name": "ON OFF SHUTDOWN VALVE",
+        "list_of_product_ids": "138,242,013,740,025",
+        "core_id": 1593.0
+      }
+    },
+    {
+      "id": "variant-4ee544d6-0f39-5064-8d24-8c48472ff71a",
+      "score": 0.8269722,
+      "metadata": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": "5954,6782,12132,14671,14679,18191,20174,36159",
+        "core_id": 2156.0
+      }
+    },
+    {
+      "id": "variant-35edf62b-a83f-553d-9019-f1a2256ad6d6",
+      "score": 0.82677567,
+      "metadata": {
+        "text": "core_product_name: signal distributor",
+        "raw_product_name": "SIGNAL DISTRIBUTORS",
+        "list_of_product_ids": "13943,15212,20873,22615",
+        "core_id": 2023.0
+      }
+    },
+    {
+      "id": "variant-60759c1d-1484-5fdf-a6d4-d96e4e97573f",
+      "score": 0.82654387,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: u.p.s. system",
+        "raw_product_name": "U.P.S.SYSTEM",
+        "list_of_product_ids": "6399,5570,11076,11073,10496,10624,12084,12082,12245,24506,24504,36163,36311",
+        "core_id": 2314.0
+      }
+    },
+    {
+      "id": "variant-1a3809cb-702e-5689-ba92-d49d3b31d30a",
+      "score": 0.82644534,
+      "metadata": {
+        "text": "core_product_name: port | acronymed_core_product_name: aa port",
+        "raw_product_name": "AA PORT",
+        "list_of_product_ids": "14144,14661,19996,20125",
+        "core_id": 21.0
+      }
+    },
+    {
+      "id": "variant-327a47ca-7b81-5e93-90bc-e6781974a338",
+      "score": 0.8263807,
+      "metadata": {
+        "text": "core_product_name: fire safe damper valve | acronymed_core_product_name: fsd valve",
+        "raw_product_name": "FSD VALVE",
+        "list_of_product_ids": "17285,17287,25960,26144,35979,40246",
+        "core_id": 983.0
+      }
+    },
+    {
+      "id": "variant-998de358-535f-5a38-9d70-5de38ceaaf0a",
+      "score": 0.8262851,
+      "metadata": {
+        "text": "core_product_name: surge protective device | acronymed_core_product_name: SPD (Surge Protective Device)",
+        "raw_product_name": "Surge Protective Devices(SPD)",
+        "list_of_product_ids": "1,421,322,381",
+        "core_id": 2194.0
+      }
+    },
+    {
+      "id": "variant-57d96592-6666-5304-a0b5-3483499c39fc",
+      "score": 0.82575965,
+      "metadata": {
+        "text": "core_product_name: system package | acronymed_core_product_name: h v system package",
+        "raw_product_name": "H V SYSTEM PACKAGE",
+        "list_of_product_ids": "6393,5564,10763,24478,24477,24476",
+        "core_id": 1089.0
+      }
+    }
+  ]
+}

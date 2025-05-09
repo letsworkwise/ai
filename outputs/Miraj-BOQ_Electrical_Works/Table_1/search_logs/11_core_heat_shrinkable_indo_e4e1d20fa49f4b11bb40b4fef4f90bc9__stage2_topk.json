@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: heat shrinkable indoor end termination | size: cable: 3C x 185 sqmm | feature_or_specifications: voltage: 6.6 kV (unarmoured extruded), gland: double compression, conductor material: aluminium",
+  "retrieval_results": [
+    {
+      "id": "variant-81a14c31-0118-5e0b-b544-f02bc84e131a",
+      "score": 0.8568802,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 132kV (132 kilovolt) | material: XLPE (cross-linked polyethylene)",
+        "raw_product_name": "132kV CABLE XLPE",
+        "list_of_product_ids": "14146,15782,20052,24050,23901",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-0ff35c17-29e9-57ef-9128-f170e7baffc4",
+      "score": 0.8548505,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 33kV | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "33kV cable XLPE",
+        "list_of_product_ids": "14154,15792,16795,20142,24052,20057,23903",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-11b5ebb2-c136-58d8-ae90-c22c25a8234c",
+      "score": 0.85371435,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 220 kV (kilovolt) | material: XLPE (cross-linked polyethylene)",
+        "raw_product_name": "220 kV CABLE XLPE",
+        "list_of_product_ids": "14151,15785,20056,24051,23902",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-8ba13069-a06b-58e4-8642-d0dd58f762bd",
+      "score": 0.8531214,
+      "metadata": {
+        "text": "core_product_name: indoor switchgear | size_or_capacity: 33 kV (kilovolt) | operating_conditions: Indoor",
+        "raw_product_name": "33 kV Indoor Switchgear",
+        "list_of_product_ids": "1,415,314,637",
+        "core_id": 15.0
+      }
+    },
+    {
+      "id": "variant-42694b24-9940-5ebb-aa65-006a1a6eb034",
+      "score": 0.8506529,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 33kV (33 kilovolt)",
+        "raw_product_name": "CABLE 33kV",
+        "list_of_product_ids": "10253,10005,10017,24048,23899",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-5f6025f4-d869-56e7-bced-6488b91fa952",
+      "score": 0.8495821,
+      "metadata": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": "6444,5614,11000,12263,12344,15781,23866,24503",
+        "core_id": 282.0
+      }
+    },
+    {
+      "id": "variant-b282183e-bc8e-5a78-bf84-96bc3fea7930",
+      "score": 0.8491014,
+      "metadata": {
+        "text": "core_product_name: cable gland",
+        "raw_product_name": "CABLE GLANDS",
+        "list_of_product_ids": "5961,6789,8221,8217,10553,10605,8222,8223,12107,15811,15929,16012,16032,16026,17577,22860,26078,26074,26071,36606,33509,33510,35776,35866,39358",
+        "core_id": 278.0
+      }
+    },
+    {
+      "id": "variant-475d6e28-3e39-5b3c-86e9-f6970c05297a",
+      "score": 0.84685415,
+      "metadata": {
+        "text": "core_product_name: hazardous area cable gland",
+        "raw_product_name": "CABLE GLANDS ( HAZARDOUS AREA)",
+        "list_of_product_ids": "6443,5613,8218,10559,10589,10590,10604,8216,8219,8220,8224,12670,17578,23865,22857,24500,35772",
+        "core_id": 279.0
+      }
+    },
+    {
+      "id": "variant-a6c0fc04-eafb-59b9-80b3-216525c393ef",
+      "score": 0.8464408,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 11KV (11 kiloVolt) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "11KV CABLE XLPE",
+        "list_of_product_ids": "23938,24087,21515,27081",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-c28cd6ec-18ca-5e53-b2b3-3eb06b046006",
+      "score": 0.84433764,
+      "metadata": {
+        "text": "core_product_name: high tension (H.T.) cable | acronymed_core_product_name: h.t. cable | size_or_capacity: up to 33kV",
+        "raw_product_name": "H.T. CABLE UPTO 33KV",
+        "list_of_product_ids": "13744,14790,14822,14828,24064,23916,33894",
+        "core_id": 1091.0
+      }
+    },
+    {
+      "id": "variant-bc7a2421-57c3-538d-a522-7f4c55db5987",
+      "score": 0.8432598,
+      "metadata": {
+        "text": "core_product_name: gas insulated switchgear | size_or_capacity: 33 kV",
+        "raw_product_name": "33 kV Gas Insulated Switchgear",
+        "list_of_product_ids": "141,521,463,835,821",
+        "core_id": 6.0
+      }
+    },
+    {
+      "id": "variant-bb001d38-b128-522d-9d87-0b59ec1edf02",
+      "score": 0.84270275,
+      "metadata": {
+        "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+        "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+        "list_of_product_ids": "140,901,478,121,282",
+        "core_id": 313.0
+      }
+    },
+    {
+      "id": "variant-d8b634b4-a567-527e-a116-0fe02f9cc8d7",
+      "score": 0.8412065,
+      "metadata": {
+        "text": "core_product_name: gas insulated switchgear | size_or_capacity: 132 kV or 220 kV",
+        "raw_product_name": "132 kV/ 220 kV Gas Insulated Switchgear",
+        "list_of_product_ids": "7563,7237,7953,7952,35822",
+        "core_id": 6.0
+      }
+    },
+    {
+      "id": "variant-05c9db43-5c4d-52ba-ab45-526ce58a2d3e",
+      "score": 0.84094733,
+      "metadata": {
+        "text": "core_product_name: thermal insulation",
+        "raw_product_name": "Thermal Insulation",
+        "list_of_product_ids": "7572,7247,11774,11775,7759,7755,7757,9770,12863,13002,13009,16997,17020,17014,34601",
+        "core_id": 2305.0
+      }
+    },
+    {
+      "id": "variant-035e5d74-4fc0-5854-ace0-4826f9b36c25",
+      "score": 0.8409054,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+        "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+        "list_of_product_ids": "19885,19880,24078,23930,27348",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-910635db-1f6d-5b76-ae03-05bdfcbe87d3",
+      "score": 0.8406833,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: ht (high tension) cable | size_or_capacity: up to 11kV | type_or_class: HT (High Tension) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "HT (up to 11kV) cable XLPE",
+        "list_of_product_ids": "13659,14787,14826,15794,16794,20058,20143,24054,23905",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.83987516,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-a88868c3-e02b-556c-afb5-f9319567fc58",
+      "score": 0.8394682,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLES",
+        "list_of_product_ids": "15455,13721,24275,15161,16241,19098,23820,23814,21319,19315,23819,23822,24273,23829,20141,23831,24058,23836,23909,23839,23828,24685,24726,24844,24955,31590,31591,26436,26438,31740,33330",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-361f0a6c-be07-52cd-995f-85d382c94f3b",
+      "score": 0.83939654,
+      "metadata": {
+        "text": "core_product_name: thermocouple wire",
+        "raw_product_name": "THERMOCOUPLE WIRE",
+        "list_of_product_ids": "220,072,203,322,053",
+        "core_id": 2243.0
+      }
+    },
+    {
+      "id": "variant-7f090a1a-b828-5a18-86a5-0ef23d51283a",
+      "score": 0.83926415,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLE STOCKIST/TRADERS",
+        "list_of_product_ids": "2,467,924,680",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-dd81f7e2-3f3e-5582-9a0c-afea580b1559",
+      "score": 0.8384705,
+      "metadata": {
+        "text": "core_product_name: outdoor insulator and bushing | size_or_capacity: 33kV | operating_conditions: Outdoor",
+        "raw_product_name": "33kV outdoor Insulator & Bushing",
+        "list_of_product_ids": "14156,16118,17436,18328,21499",
+        "core_id": 8.0
+      }
+    },
+    {
+      "id": "variant-fd13ccfd-2158-5657-967f-7707e9b442e3",
+      "score": 0.8382555,
+      "metadata": {
+        "text": "core_product_name: commercial cable",
+        "raw_product_name": "COMMERCIAL CABLE",
+        "list_of_product_ids": "20779,20808,20806,21176,21175,27361",
+        "core_id": 400.0
+      }
+    },
+    {
+      "id": "variant-9d7cef58-0c34-5334-a173-1eaa8b262868",
+      "score": 0.83795285,
+      "metadata": {
+        "text": "core_product_name: extra high voltage cable | size_or_capacity: Extra High Voltage",
+        "raw_product_name": "CABLES - EXTRA HIGH VOLTAGE",
+        "list_of_product_ids": "6425,5595,10504,10183,14821,23994,23863",
+        "core_id": 288.0
+      }
+    },
+    {
+      "id": "variant-b2fd74a4-89f2-5719-ba63-b6451df8aa47",
+      "score": 0.83779955,
+      "metadata": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": "32910,32911,33009,33041,33195,33260,33562,33633,35922",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-c6f0eba4-fa2a-56b7-bdb4-a61b5f29101a",
+      "score": 0.8370946,
+      "metadata": {
+        "text": "core_product_name: outdoor insulator and bushing | size_or_capacity: 132 kV or 220 kV | operating_conditions: outdoor",
+        "raw_product_name": "132kV/ 220 kV outdoor Insulator & Bushing",
+        "list_of_product_ids": "14148,14691,16117,17435,18327,21497",
+        "core_id": 8.0
+      }
+    },
+    {
+      "id": "variant-22060b80-5c97-59bd-9f52-b00cbf6e0567",
+      "score": 0.83708906,
+      "metadata": {
+        "text": "core_product_name: ventilator | material: Aluminium",
+        "raw_product_name": "DOORS/ WINDOWS/ VENTILATORS - ALUMINIUM",
+        "list_of_product_ids": "6344,5515,12509,15638,15632,15658,15660,15776,17292",
+        "core_id": 614.0
+      }
+    },
+    {
+      "id": "variant-ab2d6841-b5d8-560c-8730-c69949bf7410",
+      "score": 0.8370237,
+      "metadata": {
+        "text": "core_product_name: fabricated component | material: Aluminium",
+        "raw_product_name": "ALUMINIUM FABRICATED COMPONENT",
+        "list_of_product_ids": "23962,23964,23963,28691",
+        "core_id": 97.0
+      }
+    },
+    {
+      "id": "variant-ba3d7620-8f6f-5c5a-bdc1-21d5c6b75b6f",
+      "score": 0.8367548,
+      "metadata": {
+        "text": "core_product_name: insulation material",
+        "raw_product_name": "INSULATION MATERIAL",
+        "list_of_product_ids": "10251,10256,10261,10266,10273,10278,10281,7088,7415,10172,10221,10226,10230,10234,10240,10245,11862,13008,38431,33383",
+        "core_id": 1274.0
+      }
+    },
+    {
+      "id": "variant-272261cc-0ac7-5e62-bdc4-b8b3ba555a0a",
+      "score": 0.8364117,
+      "metadata": {
+        "text": "core_product_name: power cable",
+        "raw_product_name": "POWER CABLE",
+        "list_of_product_ids": "13440,14645,15813,29442,29447,29448,24045,23896,36583,36611,38139",
+        "core_id": 3.0
+      }
+    },
+    {
+      "id": "variant-76a3b279-5fd8-543f-ba01-801914162ba6",
+      "score": 0.8362885,
+      "metadata": {
+        "text": "core_product_name: structural | material: Aluminium",
+        "raw_product_name": "STRUCTURAL ALUMINIUM",
+        "list_of_product_ids": "234,572,603,826,686",
+        "core_id": 2134.0
+      }
+    }
+  ]
+}

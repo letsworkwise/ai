@@ -1,0 +1,58 @@
+{
+  "query": "core_product_name: mechanical tee | size: tee size: 65 x 25 NB | feature_or_specifications: feature: grooved outlet",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: tee fitting",
+        "raw_product_name": "FITTINGS \u001eTEES",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: split tee",
+        "raw_product_name": "SPLIT TEE",
+        "list_of_product_ids": [
+          "14008",
+          "14586",
+          "27763",
+          "27753",
+          "27743",
+          "27733",
+          "27723",
+          "27778",
+          "36529"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: barred tee",
+        "raw_product_name": "BARRED TEE",
+        "list_of_product_ids": [
+          "14187",
+          "22417",
+          "27760",
+          "27750",
+          "27740",
+          "27730",
+          "27720",
+          "27781",
+          "36527"
+        ]
+      }
+    }
+  ]
+}

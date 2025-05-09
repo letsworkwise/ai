@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: armoured copper cable | size: cores: 6C, cross section: 2.5 sq.mm | feature_or_specifications: application: Alternator to Control panel",
+  "retrieval_results": [
+    {
+      "id": "variant-561ccbee-4cf2-55d6-9001-685613ac299b",
+      "score": 0.8698421,
+      "metadata": {
+        "text": "core_product_name: armoured cable | type_or_class: Power | construction_features: Armour",
+        "raw_product_name": "ARMOURED CABLE-(POWER)",
+        "list_of_product_ids": "8891,8910,8938,8942,8950,8946,8954,9083,9087,9091,9095,9099,23875,24038,24687,24728,24957,27122,27117,27126,27130,27134,27161,27166,27171,27180,27284,27336,27357,27397,27432,27519,27525,27538,27543,27552,27579,27637,27645,27681,27672,27770,27788,27809,27899,27916,27961,28027,28079,28068,28144,28114,28110,28106,28270,28282,28294,28290,28349,28384,28380,28412,28420,28457,28454,28465,28497,28513,39980,39981,39982,39983,40102,40105,40106,40103,40104,40107,40108,40109",
+        "core_id": 130.0
+      }
+    },
+    {
+      "id": "variant-affc3a60-b3e8-5b61-83c3-0bf211340c68",
+      "score": 0.86880463,
+      "metadata": {
+        "text": "core_product_name: armoured cable | construction_features: Armour | special_attributes: Loop",
+        "raw_product_name": "ARMOURED CABLE-(LOOP)",
+        "list_of_product_ids": "9936,9937,9938,8890,8911,8937,8941,8949,8945,8953,9082,9086,9090,9094,9098,19456,19459,19521,19532,19549,19556,23874,24037,24686,27123,27118,27127,27131,27135,27162,27167,27172,27181,27283,27337,27358,27398,27433,27520,27526,27539,27544,27553,27580,27638,27646,27682,27673,27771,27789,27810,27900,27917,27962,28028,28080,28067,28145,28115,28111,28107,28271,28283,28295,28291,28347,28385,28381,28413,28419,28458,28455,28466,28498,28514,38762,38596,38683,38622,38711,38650,38736,38847,38879,38921,38947,38984,39011,39039,39064,39107,39137,39185,39213,39266,39287,39333,39369,39398,39428,39479,39534,39561,38788,39599,39623,39651,39685,39725,39795,39823,39894",
+        "core_id": 130.0
+      }
+    },
+    {
+      "id": "variant-ee05504e-04ab-5063-9f21-014ad2b2938e",
+      "score": 0.8597873,
+      "metadata": {
+        "text": "core_product_name: armoured cable | type_or_class: Speaker | construction_features: Armour",
+        "raw_product_name": "ARMOURED CABLE-(SPEAKER)",
+        "list_of_product_ids": "8892,8909,8939,8943,8951,8947,8955,9084,9088,9092,9096,9100,23876,24039,24688,24727,24956,27121,27116,27125,27129,27133,27160,27165,27170,27179,27285,27335,27356,27396,27431,27518,27524,27537,27542,27551,27578,27636,27644,27680,27671,27769,27787,27808,27898,27915,27960,28026,28078,28066,28143,28113,28109,28105,28269,28281,28289,28293,28346,28383,28379,28411,28421,28453,28456,28464,28496,28512",
+        "core_id": 130.0
+      }
+    },
+    {
+      "id": "variant-035e5d74-4fc0-5854-ace0-4826f9b36c25",
+      "score": 0.8529512,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+        "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+        "list_of_product_ids": "19885,19880,24078,23930,27348",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-b2fd74a4-89f2-5719-ba63-b6451df8aa47",
+      "score": 0.8517145,
+      "metadata": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": "32910,32911,33009,33041,33195,33260,33562,33633,35922",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-d01e7f04-41a2-5983-a7cb-2052b99c5edb",
+      "score": 0.851241,
+      "metadata": {
+        "text": "core_product_name: control cable | protection_features: Fire Survival",
+        "raw_product_name": "CONTROL CABLE - FIRE SURVIVAL",
+        "list_of_product_ids": "6424,5594,10194,10666,11369,11371,12120,13290,15814,17323,17783,23993,23862",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.85098743,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-852e0cf7-491f-5120-8c23-037d62b5cec0",
+      "score": 0.84687525,
+      "metadata": {
+        "text": "core_product_name: solid conductor | material: Copper",
+        "raw_product_name": "SOLID COPPER CONDUCTOR",
+        "list_of_product_ids": "180,781,807,918,591",
+        "core_id": 2063.0
+      }
+    },
+    {
+      "id": "variant-b722d3a4-0ea7-52cf-9586-094ccbee23e0",
+      "score": 0.84676003,
+      "metadata": {
+        "text": "core_product_name: screened cable | special_attributes: Screened cable",
+        "raw_product_name": "SCREENED CABLES",
+        "list_of_product_ids": "13881,14838,15808,20059,20100,24067,23919",
+        "core_id": 1976.0
+      }
+    },
+    {
+      "id": "variant-3ed2b8d0-9200-57ee-93d7-347d83b99d24",
+      "score": 0.8450327,
+      "metadata": {
+        "text": "core_product_name: conventional relay and control panel",
+        "raw_product_name": "CONVENTIONAL RELAY & CONTROL PANEL",
+        "list_of_product_ids": "38185,38198,38206,38387",
+        "core_id": 470.0
+      }
+    },
+    {
+      "id": "variant-415d3f4c-4cc5-5cc9-9229-84cf4ef1c9ae",
+      "score": 0.8440624,
+      "metadata": {
+        "text": "core_product_name: electric wire | material: Copper",
+        "raw_product_name": "ELECTRIC COPPER WIRE",
+        "list_of_product_ids": "211,542,115,028,492",
+        "core_id": 688.0
+      }
+    },
+    {
+      "id": "variant-5199ab2c-72e1-55de-929a-5ccc5de62bfd",
+      "score": 0.84378034,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | type_or_class: Control",
+        "raw_product_name": "INSTRUMENTATION CABLES (CONTROL)",
+        "list_of_product_ids": "13723,14729,14736,14743,14766,14774,14834,15159,15185,15169,15834,19883,24060,23911,20049,38759,38600,38680,38626,38708,38654,38733,38785,38844,38876,38918,38944,38981,39008,39036,39051,39104,39134,39182,39210,39263,39284,39330,39366,39395,39425,39476,39531,39558,39596,39620,39648,39682,39722,39792,39820,39891",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-fef6b9dd-7e01-5ccc-a69b-564761e16a01",
+      "score": 0.8436373,
+      "metadata": {
+        "text": "core_product_name: alternator",
+        "raw_product_name": "ALTERNATOR",
+        "list_of_product_ids": "14175,15069,18717,18716,18731,18729,24322,36929",
+        "core_id": 89.0
+      }
+    },
+    {
+      "id": "variant-11fd4851-b53d-5354-8701-6060ebf8322c",
+      "score": 0.8435634,
+      "metadata": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: pcc (power control center) switchgear panel | size_or_capacity: 415V | type_or_class: PCC (Power Control Center)",
+        "raw_product_name": "415V SWITCHGEAR PANEL (PCC)",
+        "list_of_product_ids": "176,911,769,018,664",
+        "core_id": 18.0
+      }
+    },
+    {
+      "id": "variant-9f376ba2-bfd9-569d-9df5-c33008feb16d",
+      "score": 0.8431536,
+      "metadata": {
+        "text": "core_product_name: relay and control panel",
+        "raw_product_name": "RELAY & CONTROL PANEL",
+        "list_of_product_ids": "6389,5560,11172,11457,7888,19357,24445,24450,24448,24827,24815,24451,19363,24930,24941,38203,38204",
+        "core_id": 187.0
+      }
+    },
+    {
+      "id": "variant-e7e36f9e-c2bd-5fb1-9e61-4ed595438655",
+      "score": 0.84308153,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper and Alloys",
+        "raw_product_name": "TUBE COPPER AND ALLOYS",
+        "list_of_product_ids": "6308,5479,8815,8816,31806",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-323bf0e7-9d8f-5ea5-9cad-eb58b0ac6448",
+      "score": 0.8429766,
+      "metadata": {
+        "text": "core_product_name: special cable",
+        "raw_product_name": "SPECIAL CABLES",
+        "list_of_product_ids": "13989,14840,20102,20070,24071,23923",
+        "core_id": 2074.0
+      }
+    },
+    {
+      "id": "variant-272261cc-0ac7-5e62-bdc4-b8b3ba555a0a",
+      "score": 0.84234685,
+      "metadata": {
+        "text": "core_product_name: power cable",
+        "raw_product_name": "POWER CABLE",
+        "list_of_product_ids": "13440,14645,15813,29442,29447,29448,24045,23896,36583,36611,38139",
+        "core_id": 3.0
+      }
+    },
+    {
+      "id": "variant-bb96db43-a603-5b08-b082-1a787ab9db3c",
+      "score": 0.84092695,
+      "metadata": {
+        "text": "core_product_name: conduit accessory",
+        "raw_product_name": "CONDUIT ACCESSORIES",
+        "list_of_product_ids": "20550,20514,20591,20632,20686,20744",
+        "core_id": 439.0
+      }
+    },
+    {
+      "id": "variant-dc9bd585-6e63-5149-b6ce-8c3a23715608",
+      "score": 0.84074694,
+      "metadata": {
+        "text": "core_product_name: control cable | type_or_class: Control",
+        "raw_product_name": "CABLES:CONTROL",
+        "list_of_product_ids": "10003,10018,10247,14646,36569,24046,23897",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.8404943,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-d6171005-2a99-53db-a388-670f27dc51ec",
+      "score": 0.84045774,
+      "metadata": {
+        "text": "core_product_name: control cable | type_or_class: Control",
+        "raw_product_name": "CONTROL CABLE",
+        "list_of_product_ids": "14006,15171,15812,15972,36570,20132",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-8352d7ce-497c-5dfa-ac61-3bd167120a94",
+      "score": 0.8404453,
+      "metadata": {
+        "text": "core_product_name: electrical actuator",
+        "raw_product_name": "ELECTRICAL ACTUATORS",
+        "list_of_product_ids": "13854,19083,20219,22224,22220,40240",
+        "core_id": 702.0
+      }
+    },
+    {
+      "id": "variant-5a827aa7-391f-5f70-92bd-88bb21f7214d",
+      "score": 0.8395569,
+      "metadata": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: mcc (motor control center) switchgear panel | size_or_capacity: 415V | type_or_class: MCC (Motor Control Center)",
+        "raw_product_name": "415V SWITCHGEAR PANEL (MCC)",
+        "list_of_product_ids": "15389,14160,14609,17689,38512",
+        "core_id": 18.0
+      }
+    },
+    {
+      "id": "variant-8788ef44-6564-50af-bfce-061ba690a1fd",
+      "score": 0.8392002,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | type_or_class: Alarm",
+        "raw_product_name": "INSTRUMENTATION CABLES (ALARM)",
+        "list_of_product_ids": "13722,14713,14727,14734,14741,14751,14772,14832,15157,15183,15167,15833,20043,24059,23910,38757,38842,38598,38624,38706,38731,38652,38783,38874,38916,38942,38678,38979,39006,39034,39049,39102,39132,39180,39208,39261,39282,39328,39364,39393,39423,39474,39529,39556,39594,39618,39646,39680,39720,39790,39818,39889",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-3d0bde07-4300-58a1-948b-3e37bc58efa5",
+      "score": 0.83904016,
+      "metadata": {
+        "text": "core_product_name: seal | material: Copper",
+        "raw_product_name": "COPPER SEAL",
+        "list_of_product_ids": "214,332,143,227,055",
+        "core_id": 487.0
+      }
+    },
+    {
+      "id": "variant-1c2b8fdb-3ab1-5869-b71b-d009d023377b",
+      "score": 0.8383973,
+      "metadata": {
+        "text": "core_product_name: signal cable | protection_features: Fire Resistant",
+        "raw_product_name": "SIGNAL CABLE - FIRE RESISTANT",
+        "list_of_product_ids": "6482,5653,10413,10664,12117,13288,13294,17776,17788,23870,24034,38767,38585,38611,38690,38715,38639,38826,38662,38858,38900,38926,38741,38963,38990,39018,39047,39086,39116,39162,39206,39245,39280,39326,39362,39391,39421,39472,39554,39527,39616,39592,39644,39678,39718,39788,39816,39887",
+        "core_id": 826.0
+      }
+    },
+    {
+      "id": "variant-3eeb4429-0c98-5866-91ea-e859fefb8e31",
+      "score": 0.83799887,
+      "metadata": {
+        "text": "core_product_name: rectifier panel",
+        "raw_product_name": "RECTIFIER PANEL",
+        "list_of_product_ids": "171,741,717,527,078",
+        "core_id": 1877.0
+      }
+    },
+    {
+      "id": "variant-bb001d38-b128-522d-9d87-0b59ec1edf02",
+      "score": 0.83785254,
+      "metadata": {
+        "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+        "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+        "list_of_product_ids": "140,901,478,121,282",
+        "core_id": 313.0
+      }
+    },
+    {
+      "id": "variant-371b3ece-a606-5c8d-9ec9-de52fb9e3846",
+      "score": 0.8375823,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper | construction_features: Coated | construction_features: Bare",
+        "raw_product_name": "COPPER TUBES(COATED,BARE)",
+        "list_of_product_ids": "6,487,565,818,967",
+        "core_id": 88.0
+      }
+    }
+  ]
+}

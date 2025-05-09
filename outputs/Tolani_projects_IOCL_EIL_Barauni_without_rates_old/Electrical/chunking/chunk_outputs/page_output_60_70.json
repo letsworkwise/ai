@@ -1,0 +1,188 @@
+{
+  "sheet_name": "Electrical",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Supply and fixing of FLP(IIA/IIB) blocking plugs for blocking unused cable entries with following diameter in outdoor electrical equipment including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge. Cables with OD above 30 mm but upto 40 mm",
+      "core_product_name": "blocking plug",
+      "acronymed_core_product_name": "",
+      "size": "cable outer diameter: above 30 mm but upto 40 mm",
+      "feature_or_specifications": "feature: flame proof IIA/IIB, use: blocking unused cable entries in outdoor electrical equipment, inclusion: all labour and materials, as per approved drawings, specifications of this tender and directions of engineer-in-charge",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Supply and fixing of FLP(IIA/IIB) blocking plugs for blocking unused cable entries with following diameter in outdoor electrical equipment including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge. Cables with OD above 40 mm but upto 50 mm",
+      "core_product_name": "blocking plug",
+      "acronymed_core_product_name": "",
+      "size": "cable outer diameter: above 40 mm but upto 50 mm",
+      "feature_or_specifications": "feature: flame proof IIA/IIB, use: blocking unused cable entries in outdoor electrical equipment, inclusion: all labour and materials, as per approved drawings, specifications of this tender and directions of engineer-in-charge",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Supply and fixing of FLP(IIA/IIB) blocking plugs for blocking unused cable entries with following diameter in outdoor electrical equipment including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge. Cables with OD above 50 mm but upto 60 mm",
+      "core_product_name": "blocking plug",
+      "acronymed_core_product_name": "",
+      "size": "cable outer diameter: above 50 mm but upto 60 mm",
+      "feature_or_specifications": "feature: flame proof IIA/IIB, use: blocking unused cable entries in outdoor electrical equipment, inclusion: all labour and materials, as per approved drawings, specifications of this tender and directions of engineer-in-charge",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Supply and installation of earth pit markers for directly buried GI pipe electrodes as per std. 7-51-0101 with 14 SWG enamelled steel plate engraved with white letters BURIED, EARTH ELECTRODE on JADE green background complete with support and foundation, including all labour and materials, as per approved drawings, specifications of this tender and direction of Engineer-in-Charge.",
+      "core_product_name": "earth pit marker",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: for directly buried GI pipe electrodes, standard: std. 7-51-0101, plate: 14 SWG enamelled steel, engraving: white letters BURIED, EARTH ELECTRODE, background: jade green, inclusion: complete with support and foundation, all labour and materials, as per approved drawings, specifications of this tender and direction of engineer-in-charge",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Supply and installation of earth pit markers for directly buried GI pipe electrodes with 14 SWG enamelled steel plate engraved  with white letters BURIED, EARTH ELECTRODE on JADE green background complete with support and foundation as per approved drawings, specifications of this tender and direction of Engineer-in-Charge.",
+      "core_product_name": "earth pit marker",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: for directly buried GI pipe electrodes, plate: 14 SWG enamelled steel, engraving: white letters BURIED, EARTH ELECTRODE, background: jade green, inclusion: complete with support and foundation, as per approved drawings, specifications of this tender and direction of engineer-in-charge",
+      "quantity": "5.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      60,
+      69
+    ],
+    "original_rows": [
+      {
+        "0": 172,
+        "1": 0,
+        "2": "01EE.2100.50.30",
+        "3": "Cables with OD above 30 mm but upto 40 mm",
+        "4": 2.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 173,
+        "1": 0,
+        "2": "01EE.2100.50.40",
+        "3": "Cables with OD above 40 mm but upto 50 mm",
+        "4": 2.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 174,
+        "1": 0,
+        "2": "01EE.2100.50.50",
+        "3": "Cables with OD above 50 mm but upto 60 mm",
+        "4": 2.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 175,
+        "1": 0,
+        "2": "01EE.2110",
+        "3": "MARKERS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 176,
+        "1": 0,
+        "2": "01EE.2110.20",
+        "3": "Supply and installation of earth pit markers for directly buried GI pipe electrodes as per std. 7-51-0101 with 14 SWG enamelled steel plate engraved with white letters BURIED, EARTH ELECTRODE on JADE green background complete with support and foundation, including all labour and materials, as per approved drawings, specifications of this tender and direction of Engineer-in-Charge.",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 177,
+        "1": 0,
+        "2": "01EE.2110.30",
+        "3": "Supply and installation of earth pit markers for directly buried GI pipe electrodes with 14 SWG enamelled steel plate engraved  with white letters BURIED, EARTH ELECTRODE on JADE green background complete with support and foundation as per approved drawings, specifications of this tender and direction of Engineer-in-Charge.",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 178,
+        "1": 0,
+        "2": "01EE.2120",
+        "3": "CABLE LUGS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 179,
+        "1": 0,
+        "2": "01EE.2120.10",
+        "3": "Supply of crimping type long barrel tinned copper lugs with circular/sector shaped barrel for following conductor sizes, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 180,
+        "1": 0,
+        "2": "01EE.2120.10.10",
+        "3": "All sizes upto 10 sq. mm",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 181,
+        "1": 0,
+        "2": "01EE.2120.10.20",
+        "3": "All sizes from 16 to 35 sq. mm",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2667,
+    "completion_tokens": 1435
+  }
+}

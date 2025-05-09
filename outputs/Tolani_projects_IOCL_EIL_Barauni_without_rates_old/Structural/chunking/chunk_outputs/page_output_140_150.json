@@ -1,0 +1,178 @@
+{
+  "sheet_name": "Structural",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Demolishing RCC WORK (taking all necessary safety precautions) for all heights above plinth level including supply of all tools & tackles, necessary scaffolding, propping, underpinning etc., cutting, straightening, scraping and cleaning of reinforcement bars, stacking of serviceable materials, disposal of unserviceable material to spoil heaps ANYWHERE OUTSIDE THE PLANT BOUNDARY, all complete as specified and directed. Disposal areas outside plant Boundary to be arranged by the contractor. Royalty as applicable for disposal outside plant limits to be borne by the Contractor. (Excavation & backfilling shall be paid separately under relevant items).",
+      "core_product_name": "demolishing rcc work",
+      "acronymed_core_product_name": "rcc (reinforced cement concrete) work",
+      "size": "height: above plinth level",
+      "feature_or_specifications": "safety precautions: all necessary, includes: supply of all tools & tackles, necessary scaffolding, propping, underpinning, cutting, straightening, scraping and cleaning of reinforcement bars, stacking of serviceable materials, disposal of unserviceable material to spoil heaps anywhere outside the plant boundary, specification: all complete as specified and directed, disposal: areas outside plant boundary to be arranged by the contractor, royalty: as applicable for disposal outside plant limits to be borne by the contractor, note: excavation & backfilling shall be paid separately under relevant items",
+      "quantity": "50.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Demolishing PLAIN CEMENT CONCRETE work (taking all necessary safety precautions) for all depths below plinth level including supply of all tools & tackles, necessary scaffolding, propping, underpinning etc. disposal of unserviceable material to spoil heaps anywhere within the plant boundary, all complete as specified and directed. (Excavation and backfilling shall be paid separately under relevant items)",
+      "core_product_name": "demolishing plain cement concrete work",
+      "acronymed_core_product_name": "",
+      "size": "depth: below plinth level",
+      "feature_or_specifications": "safety precautions: all necessary, includes: supply of all tools & tackles, necessary scaffolding, propping, underpinning, disposal of unserviceable material to spoil heaps anywhere within the plant boundary, specification: all complete as specified and directed, note: excavation and backfilling shall be paid separately under relevant items",
+      "quantity": "100.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Demolishing PLAIN CEMENT CONCRETE work (taking all necessary safety precautions) for all heights above plinth level including supply of all tools & tackles, necessary scaffolding, propping, underpinning etc. disposal of unserviceable material to spoil heaps anywhere within the plant boundary, all complete as specified and directed.",
+      "core_product_name": "demolishing plain cement concrete work",
+      "acronymed_core_product_name": "",
+      "size": "height: above plinth level",
+      "feature_or_specifications": "safety precautions: all necessary, includes: supply of all tools & tackles, necessary scaffolding, propping, underpinning, disposal of unserviceable material to spoil heaps anywhere within the plant boundary, specification: all complete as specified and directed",
+      "quantity": "1.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Dismantling bolted/rivetted/welded STRUCTURAL STEEL WORK of all descriptions (taking all necessary safety precautions), including supply of all tools and tackles, consumables, necessary scaffolding etc., providing temporary bracings as required, cutting (by flame or saw) gusset plates, bolts, nuts, weldings etc., transporting and stacking of the serviceable materials, cleaning the site of work of all unserviceable materials for disposal to spoil heaps anywhere within the plant boundary, all complete at all depths and heights, as specified and directed.",
+      "core_product_name": "dismantling structural steel work",
+      "acronymed_core_product_name": "",
+      "size": "depth: all, height: all",
+      "feature_or_specifications": "type: bolted/rivetted/welded, safety precautions: all necessary, includes: supply of all tools and tackles, consumables, necessary scaffolding, providing temporary bracings as required, cutting (by flame or saw) gusset plates, bolts, nuts, weldings, transporting and stacking of the serviceable materials, cleaning the site of work of all unserviceable materials, disposal: to spoil heaps anywhere within the plant boundary, specification: all complete as specified and directed",
+      "quantity": "1.0",
+      "unit": "mt"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      140,
+      149
+    ],
+    "original_rows": [
+      {
+        "0": 615,
+        "1": 0,
+        "2": "01CS.10.2.22",
+        "3": "Demolishing RCC WORK (taking all necessary safety precautions) for all heights above plinth level including supply of all tools & tackles, necessary scaffolding, propping, underpinning etc., cutting, straightening, scraping and cleaning of reinforcement bars, stacking of serviceable materials, disposal of unserviceable material to spoil heaps ANYWHERE OUTSIDE THE PLANT BOUNDARY, all complete as specified and directed. Disposal areas outside plant Boundary to be arranged by the contractor. Royalty as applicable for disposal outside plant limits to be borne by the Contractor. (Excavation & backfilling shall be paid separately under relevant items).",
+        "4": 50.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 616,
+        "1": 0,
+        "2": "01CS.10.4",
+        "3": "PCC _ Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 617,
+        "1": 0,
+        "2": "01CS.10.4.1",
+        "3": "Demolishing PLAIN CEMENT CONCRETE work (taking all necessary safety precautions) for all depths below plinth level including supply of all tools & tackles, necessary scaffolding, propping, underpinning etc. disposal of unserviceable material to spoil heaps anywhere within the plant boundary, all complete as specified and directed. (Excavation and backfilling shall be paid separately under relevant items)",
+        "4": 100.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 618,
+        "1": 0,
+        "2": "01CS.10.4.2",
+        "3": "Demolishing PLAIN CEMENT CONCRETE work (taking all necessary safety precautions) for all heights above plinth level including supply of all tools & tackles, necessary scaffolding, propping, underpinning etc. disposal of unserviceable material to spoil heaps anywhere within the plant boundary, all complete as specified and directed.",
+        "4": 1.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 619,
+        "1": 0,
+        "2": "01CS.10.6",
+        "3": "Steelwork - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 620,
+        "1": 0,
+        "2": "01CS.10.6.1",
+        "3": "Dismantling bolted/rivetted/welded STRUCTURAL STEEL WORK of all descriptions (taking all necessary safety precautions), including supply of all tools and tackles, consumables, necessary scaffolding etc., providing temporary bracings as required, cutting (by flame or saw) gusset plates, bolts, nuts, weldings etc., transporting and stacking of the serviceable materials, cleaning the site of work of all unserviceable materials for disposal to spoil heaps anywhere within the plant boundary, all complete at all depths and heights, as specified and directed.",
+        "4": 1.0,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 621,
+        "1": 0,
+        "2": "01CS.10.7",
+        "3": "AC / GI Sheets  - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 622,
+        "1": 0,
+        "2": "01CS.10.7.1",
+        "3": "Dismantling GI/asbestos/translucent sheets, ridges, gutters etc. (taking all necessary safety precautions) in roofings and wall claddings, including supply of all tools & tackles, necessary scaffolding, consumables, cutting (by flame or saw) of fixing hooks, transporting and stacking the serviceable materials, cleaning the site and disposal of the unserviceable material to spoil heaps anywhere within the plant boundary, all complete for all levels, as specified and directed.",
+        "4": 1.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 623,
+        "1": 0,
+        "2": "01CS.11",
+        "3": "MISCELLANEOUS ITEMS (REFER SPECIFICATION NO. 6-68-0013)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 624,
+        "1": 0,
+        "2": "01CS.11.6",
+        "3": "Sand Filling - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2930,
+    "completion_tokens": 1521
+  }
+}

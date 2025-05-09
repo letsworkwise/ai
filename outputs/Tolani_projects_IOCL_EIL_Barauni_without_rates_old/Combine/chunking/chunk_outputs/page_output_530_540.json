@@ -1,0 +1,208 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing 20mm wide EXPANSION JOINTS in flooring and pavement slabs and ISOLATION JOINTS around equipment",
+      "core_product_name": "expansion joints and isolation joints",
+      "acronymed_core_product_name": "",
+      "size": "width: 20mm",
+      "feature_or_specifications": "location: flooring and pavement slabs, around equipment",
+      "quantity": "1.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and fixing in position 25mm thick BITUMEN IMPREGNATED FIBRE BOARD conforming to IS:1838 of",
+      "core_product_name": "bitumen impregnated fibre board",
+      "acronymed_core_product_name": "",
+      "size": "thickness: 25mm",
+      "feature_or_specifications": "standard: indian standard 1838",
+      "quantity": "5.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and fixing in position 50 mm (2X25 mm) thick BITUMEN IMPREGNATED FIBRE BOARD conforming to",
+      "core_product_name": "bitumen impregnated fibre board",
+      "acronymed_core_product_name": "",
+      "size": "thickness: 50 mm (2X25 mm)",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and sealing EXPANSION JOINTS 25 mm wide and 12mm deep at all locations and levels in Concrete",
+      "core_product_name": "expansion joints",
+      "acronymed_core_product_name": "",
+      "size": "width: 25 mm, depth: 12mm",
+      "feature_or_specifications": "location: all locations and levels in concrete",
+      "quantity": "15.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and sealing EXPANSION JOINTS 50 mm wide and 12mm deep at all locations and levels in Concrete",
+      "core_product_name": "expansion joints",
+      "acronymed_core_product_name": "",
+      "size": "width: 50 mm, depth: 12mm",
+      "feature_or_specifications": "location: all locations and levels in concrete",
+      "quantity": "1.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Mechanical Rebar Couplers - Non-FIM items",
+      "core_product_name": "mechanical rebar couplers",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: non-fim items",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "\"Supplying and fixing MECHANICAL REBAR COUPLER of approved make for jointing high strength deformed steel",
+      "core_product_name": "mechanical rebar coupler",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: approved make, application: jointing high strength deformed steel",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "\"Supplying and fixing MECHANICAL REBAR COUPLER of approved make for jointing high strength deformed steel",
+      "core_product_name": "mechanical rebar coupler",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: approved make, application: jointing high strength deformed steel",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Fixing Re-bars in already cast concrete - Non FIM Items",
+      "core_product_name": "fixing re-bars",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: already cast concrete, type: non fim items",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      530,
+      539
+    ],
+    "original_rows": [
+      {
+        "0": 531,
+        "1": 0,
+        "2": "01CS.2.26.1",
+        "3": "Providing 20mm wide EXPANSION JOINTS in flooring and pavement slabs and ISOLATION JOINTS around equipment",
+        "4": 1.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 532,
+        "1": 0,
+        "2": "01CS.2.26.2",
+        "3": "Supplying and fixing in position 25mm thick BITUMEN IMPREGNATED FIBRE BOARD conforming to IS:1838 of",
+        "4": 5.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 533,
+        "1": 0,
+        "2": "01CS.2.26.3",
+        "3": "Supplying and fixing in position 50 mm (2X25 mm) thick BITUMEN IMPREGNATED FIBRE BOARD conforming to",
+        "4": 1.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 534,
+        "1": 0,
+        "2": "01CS.2.26.4",
+        "3": "Supplying and sealing EXPANSION JOINTS 25 mm wide and 12mm deep at all locations and levels in Concrete",
+        "4": 15.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 535,
+        "1": 0,
+        "2": "01CS.2.26.5",
+        "3": "Supplying and sealing EXPANSION JOINTS 50 mm wide and 12mm deep at all locations and levels in Concrete",
+        "4": 1.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 536,
+        "1": 0,
+        "2": "01CS.2.28",
+        "3": "Mechanical Rebar Couplers - Non-FIM items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 537,
+        "1": 0,
+        "2": "01CS.2.28.3",
+        "3": "\"Supplying and fixing MECHANICAL REBAR COUPLER of approved make for jointing high strength deformed steel",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 538,
+        "1": 0,
+        "2": "01CS.2.28.4",
+        "3": "\"Supplying and fixing MECHANICAL REBAR COUPLER of approved make for jointing high strength deformed steel",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 539,
+        "1": 0,
+        "2": "01CS.2.29",
+        "3": "Fixing Re-bars in already cast concrete - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 540,
+        "1": 0,
+        "2": "01CS.2.29.1",
+        "3": "Designing, supplying and fixing rebars in already cast concrete, including drilling, cleaning hole with air blow-out &",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2616,
+    "completion_tokens": 1280
+  }
+}

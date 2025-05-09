@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: aluminium ladder | size: height: 10m | feature_or_specifications: type: wheel mounted, adjustable",
+  "retrieval_results": [
+    {
+      "id": "variant-88f67bda-0ce9-53e9-aaef-be35e70ad3ed",
+      "score": 0.8827798,
+      "metadata": {
+        "text": "core_product_name: ladder | material: Aluminium",
+        "raw_product_name": "ALUMINIUM LADDERS",
+        "list_of_product_ids": "274,922,751,027,487",
+        "core_id": 96.0
+      }
+    },
+    {
+      "id": "variant-27d47a5b-cdb8-5216-8bbe-6b319d964776",
+      "score": 0.85815686,
+      "metadata": {
+        "text": "core_product_name: accommodation ladder",
+        "raw_product_name": "ACCOMMODATION LADDER",
+        "list_of_product_ids": "260,502,604,926,682",
+        "core_id": 31.0
+      }
+    },
+    {
+      "id": "variant-8686717b-373e-55c7-9041-9945bb30655c",
+      "score": 0.8572883,
+      "metadata": {
+        "text": "core_product_name: ladder | material: Mild Steel (MS)",
+        "raw_product_name": "MILD STEEL LADDERS",
+        "list_of_product_ids": "274,932,750,927,490",
+        "core_id": 96.0
+      }
+    },
+    {
+      "id": "variant-76a3b279-5fd8-543f-ba01-801914162ba6",
+      "score": 0.8409164,
+      "metadata": {
+        "text": "core_product_name: structural | material: Aluminium",
+        "raw_product_name": "STRUCTURAL ALUMINIUM",
+        "list_of_product_ids": "234,572,603,826,686",
+        "core_id": 2134.0
+      }
+    },
+    {
+      "id": "variant-f04964aa-985c-5fd7-9acd-379ec435e792",
+      "score": 0.8389771,
+      "metadata": {
+        "text": "core_product_name: plate | material: Aluminium",
+        "raw_product_name": "ALUMINIUM PLATE",
+        "list_of_product_ids": "234,562,603,726,687",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-264dbf59-32e9-5b3f-8f2f-ff8fd311b4c0",
+      "score": 0.8387973,
+      "metadata": {
+        "text": "core_product_name: resilient mounting",
+        "raw_product_name": "RESILIENT MOUNTINGS",
+        "list_of_product_ids": "22948,22951,22952,28652",
+        "core_id": 1900.0
+      }
+    },
+    {
+      "id": "variant-ceb42176-0014-5d31-ac0e-5f3425afa6fa",
+      "score": 0.83721536,
+      "metadata": {
+        "text": "core_product_name: cladding | material: Metal",
+        "raw_product_name": "METAL CLADDING",
+        "list_of_product_ids": "15590,15511,15586,15914,15587,33507",
+        "core_id": 1465.0
+      }
+    },
+    {
+      "id": "variant-f2d4af06-494c-576d-904c-5608ebb84565",
+      "score": 0.8364548,
+      "metadata": {
+        "text": "core_product_name: section | material: Aluminum",
+        "raw_product_name": "ALUMINUM SECTION",
+        "list_of_product_ids": "20555,20518,20605,20596,20682,20740,38548,39312",
+        "core_id": 100.0
+      }
+    },
+    {
+      "id": "variant-4fbda17f-559f-5825-bbe5-5435a6b56056",
+      "score": 0.83579475,
+      "metadata": {
+        "text": "core_product_name: ceiling girder | construction_features: welded",
+        "raw_product_name": "CEILING GIRDER (WELDED)",
+        "list_of_product_ids": "20958,20988,20956,21006,21904,22002,22114",
+        "core_id": 321.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.83569914,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-0e2cd202-ec5f-5480-b2d5-3357abba0224",
+      "score": 0.8356472,
+      "metadata": {
+        "text": "core_product_name: modular accommodation",
+        "raw_product_name": "MODULAR ACCOMODATION",
+        "list_of_product_ids": "23416,23417,26048,26683",
+        "core_id": 1494.0
+      }
+    },
+    {
+      "id": "variant-c23ef45a-ceb3-5385-9578-20f6040440eb",
+      "score": 0.83520716,
+      "metadata": {
+        "text": "core_product_name: hanger | mounting_or_installation: Supports",
+        "raw_product_name": "Hangers & Supports",
+        "list_of_product_ids": "7538,11523,10958,7212,9703,11838,14955",
+        "core_id": 1215.0
+      }
+    },
+    {
+      "id": "variant-0faf55f2-722f-5c4d-ac4f-e83c8a642092",
+      "score": 0.8349686,
+      "metadata": {
+        "text": "core_product_name: wall span | material: Aluminum",
+        "raw_product_name": "ALUMINUM WALL SPANS",
+        "list_of_product_ids": "20476,20541,20580,20638,20695",
+        "core_id": 102.0
+      }
+    },
+    {
+      "id": "variant-ab2d6841-b5d8-560c-8730-c69949bf7410",
+      "score": 0.8345427,
+      "metadata": {
+        "text": "core_product_name: fabricated component | material: Aluminium",
+        "raw_product_name": "ALUMINIUM FABRICATED COMPONENT",
+        "list_of_product_ids": "23962,23964,23963,28691",
+        "core_id": 97.0
+      }
+    },
+    {
+      "id": "variant-6acf83ce-edd4-5a01-87c4-5f88cdffa6ae",
+      "score": 0.8345426,
+      "metadata": {
+        "text": "core_product_name: telescopic access platform",
+        "raw_product_name": "TELESCOPIC ACCESS PLATFORM",
+        "list_of_product_ids": "61,805,351",
+        "core_id": 2216.0
+      }
+    },
+    {
+      "id": "variant-0859b49b-78bf-5420-917f-73bdcad0fd3d",
+      "score": 0.83435917,
+      "metadata": {
+        "text": "core_product_name: partition | material: Aluminium",
+        "raw_product_name": "PATITIONS - ALUMINIUM",
+        "list_of_product_ids": "15639,15633,15618,15724",
+        "core_id": 1637.0
+      }
+    },
+    {
+      "id": "variant-7640ad37-dec6-5c3f-b256-d83cbb591b61",
+      "score": 0.83401924,
+      "metadata": {
+        "text": "core_product_name: mobile crane | mounting_or_installation: crawler or tyre mounted",
+        "raw_product_name": "CRANE MOBILE (CRAWLER/TYRE MOUNTED)",
+        "list_of_product_ids": "6103,5270,10214,10794,10792,10796,10848,9758,23273,26008",
+        "core_id": 508.0
+      }
+    },
+    {
+      "id": "variant-f1aaaa16-e4d1-54f0-902f-ed534e654ad6",
+      "score": 0.83394593,
+      "metadata": {
+        "text": "core_product_name: expansion bellow | material: Metallic",
+        "raw_product_name": "Mettalic Expansion Bellows",
+        "list_of_product_ids": "13753,22100,23437,23436,32732",
+        "core_id": 1526.0
+      }
+    },
+    {
+      "id": "variant-34b684fd-230b-5a53-8eb6-3bc742c8872c",
+      "score": 0.8335143,
+      "metadata": {
+        "text": "core_product_name: maintenance platform | type_or_class: Furnace | special_attributes: Sky Climber",
+        "raw_product_name": "FURNACE MAINTENANCE PLATFORM (SKY CLIMBER)",
+        "list_of_product_ids": "357,053,570,635,716",
+        "core_id": 990.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.8320176,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-85595b96-8efb-5b9b-b2ef-1814c72f9b21",
+      "score": 0.8310209,
+      "metadata": {
+        "text": "core_product_name: finned tube | material: Aluminium",
+        "raw_product_name": "TUBE - ALUMINIUM FINNED",
+        "list_of_product_ids": "6063,5155,10988,10989,8492,17554,23035,23477,24438,23469,33845",
+        "core_id": 2281.0
+      }
+    },
+    {
+      "id": "variant-2c7b6d1d-f4b5-57ea-8948-872aec63db91",
+      "score": 0.83101684,
+      "metadata": {
+        "text": "core_product_name: cast product | material: Aluminium",
+        "raw_product_name": "CAST ALUMINIUM",
+        "list_of_product_ids": "249,682,496,726,776",
+        "core_id": 305.0
+      }
+    },
+    {
+      "id": "variant-a2d5443b-8b58-5842-81e9-dadde284f9dc",
+      "score": 0.8308827,
+      "metadata": {
+        "text": "core_product_name: ceiling girder | construction_features: bolted",
+        "raw_product_name": "CEILING GIRDER (BOLTED)",
+        "list_of_product_ids": "20959,20987,20957,21005,21905,22001,22113",
+        "core_id": 321.0
+      }
+    },
+    {
+      "id": "variant-22060b80-5c97-59bd-9f52-b00cbf6e0567",
+      "score": 0.8308557,
+      "metadata": {
+        "text": "core_product_name: ventilator | material: Aluminium",
+        "raw_product_name": "DOORS/ WINDOWS/ VENTILATORS - ALUMINIUM",
+        "list_of_product_ids": "6344,5515,12509,15638,15632,15658,15660,15776,17292",
+        "core_id": 614.0
+      }
+    },
+    {
+      "id": "variant-ee594ea9-54de-5175-8475-03c527b2b030",
+      "score": 0.83084023,
+      "metadata": {
+        "text": "core_product_name: heli deck | material: Aluminium",
+        "raw_product_name": "ALUMINIUM HELI DECK",
+        "list_of_product_ids": "19185,28075,39385,39419,39445,39467,39469",
+        "core_id": 94.0
+      }
+    },
+    {
+      "id": "variant-eb18b864-4ac3-555b-8837-49397c929f7f",
+      "score": 0.83055836,
+      "metadata": {
+        "text": "core_product_name: floating roof | material: Aluminium",
+        "raw_product_name": "ALUMINIUM FLOATING ROOF",
+        "list_of_product_ids": "19452,19457,19458,19511,19472,19468,39918",
+        "core_id": 95.0
+      }
+    },
+    {
+      "id": "variant-33b5feb9-5c29-5532-97ca-e659863663c0",
+      "score": 0.8305484,
+      "metadata": {
+        "text": "core_product_name: flexible clamp",
+        "raw_product_name": "FLEXIBLE CLAMP",
+        "list_of_product_ids": "24745,24746,24774,24784,24789,24799,24803,24813,25094",
+        "core_id": 915.0
+      }
+    },
+    {
+      "id": "variant-e087cfea-1dfe-59a0-95e5-714d9562a582",
+      "score": 0.82900584,
+      "metadata": {
+        "text": "core_product_name: rotameter | material: Metal",
+        "raw_product_name": "ROTAMETER(METAL TUBE)",
+        "list_of_product_ids": "138,581,707,819,877",
+        "core_id": 1923.0
+      }
+    },
+    {
+      "id": "variant-308e32cc-e64d-5e44-958a-db6c0113273f",
+      "score": 0.828906,
+      "metadata": {
+        "text": "core_product_name: adhesive | material: Aluminium",
+        "raw_product_name": "ALUMINIUM WORK - ADHESIVE",
+        "list_of_product_ids": "15588,15916,19655,16974,37009,24159",
+        "core_id": 99.0
+      }
+    },
+    {
+      "id": "variant-87a566b6-5a86-509b-86ac-e597dd349665",
+      "score": 0.8288071,
+      "metadata": {
+        "text": "core_product_name: welded structural item",
+        "raw_product_name": "STRUCTURAL ITEM (WELDED)",
+        "list_of_product_ids": "173,361,733,427,923",
+        "core_id": 2136.0
+      }
+    }
+  ]
+}

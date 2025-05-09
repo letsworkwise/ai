@@ -1,0 +1,58 @@
+{
+  "query": "core_product_name: 9 point temperature probe | size: points: 9 | feature_or_specifications: interface: radar & servo",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: temperature scanner",
+        "raw_product_name": "TEMPERATURE SCANNER",
+        "list_of_product_ids": [
+          "164",
+          "011",
+          "640",
+          "216",
+          "506"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: temperature recorder",
+        "raw_product_name": "TEMPERATURE RECORDERS",
+        "list_of_product_ids": [
+          "6620",
+          "5790",
+          "10045",
+          "10155",
+          "11903",
+          "12893",
+          "12892"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: resistance temperature detector",
+        "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR",
+        "list_of_product_ids": [
+          "17218",
+          "17213",
+          "21738",
+          "27914",
+          "36623"
+        ]
+      }
+    }
+  ]
+}

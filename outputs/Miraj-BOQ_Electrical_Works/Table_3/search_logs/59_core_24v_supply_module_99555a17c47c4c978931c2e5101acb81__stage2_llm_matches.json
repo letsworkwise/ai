@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: 24v supply module | feature_or_specifications: type: portable, voltage: 24v (twenty four volts), transformer rating: 500 va, transformer voltage ratio: 240/26.5 volt, primary side isolation: dp mcb (double pole miniature circuit breaker) with hrc (high rupturing capacity) fuse, isolation rating: 16a, hrc (high rupturing capacity) fuse rating: 6a, secondary side isolation: spn mcb (single pole and neutral miniature circuit breaker) with hrc (high rupturing capacity) fuse, isolation rating: 6a, hrc (high rupturing capacity) fuse rating: 16a, module type: portable type with receptacle distribution panel",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Size & Capacity"
+      ],
+      "match_details": {
+        "text": "core_product_name: panel mounted power supply | size_or_capacity: 24 V DC (volts direct current)",
+        "raw_product_name": "PANEL MOUNTED 24 V DC POWER SUPPLY",
+        "list_of_product_ids": [
+          "215",
+          "712",
+          "156",
+          "927",
+          "440"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: power supply",
+        "raw_product_name": "BUIL POWER SUPPLY",
+        "list_of_product_ids": [
+          "5",
+          "937",
+          "676",
+          "612",
+          "114"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: bulk power supply",
+        "raw_product_name": "BULK POWER SUPPLY",
+        "list_of_product_ids": [
+          "7",
+          "561",
+          "723",
+          "518",
+          "220"
+        ]
+      }
+    }
+  ]
+}

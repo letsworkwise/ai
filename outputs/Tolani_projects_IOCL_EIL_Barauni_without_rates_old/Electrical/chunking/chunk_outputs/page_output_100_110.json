@@ -1,0 +1,168 @@
+{
+  "sheet_name": "Electrical",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Supply and installation of Type-`A' clamps(for bracket mounted lighting fixtures) including bolt (MOC SS304) for fixing the fixture to the clamp as per EIL std.no.7-51-0221, including supply and fixing of anchor fasteners, nuts and bolts, washers etc. as per approved drawings, specifications of this tender and directions of Engineer-in-Charge.",
+      "core_product_name": "clamp",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: type-a, mounting: bracket mounted lighting fixtures, bolt material: ss304(stainless steel 304), inclusion: anchor fasteners, nuts and bolts, washers, standard: eil standard no.7-51-0221, as per approved drawings, specifications of this tender and directions of engineer-in-charge",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Supply and installation of Type-`B' clamps(for ceiling mounted lighting fixtures) including bolt (MOC SS304) for fixing the fixture to the clamps per EIL std.no.7-51- 0221, including supply and fixing of anchor fastners,nuts and bolts,washers as per approved drawings, specifications of this tender and directions of Engineer-in-Charge.",
+      "core_product_name": "clamp",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: type-b, mounting: ceiling mounted lighting fixtures, bolt material: ss304(stainless steel 304), inclusion: anchor fasteners, nuts and bolts, washers, standard: eil standard no.7-51-0221, as per approved drawings, specifications of this tender and directions of engineer-in-charge",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Supply, installation, connection, testing and commissioning of  flame proof weather proof lighting/power panels  (for gas group IIA/IIB) as per EIL std. spec. 6-51-0008, including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge. 40 A, 4 pole incomer MCB isolator and ELCB and 12 Nos. outgoing  double pole  MCBs (upto 20 A).",
+      "core_product_name": "lighting/power panel",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: flame proof, feature: weather proof, application: gas group iia/iib, standard: eil standard specification 6-51-0008, inclusion: all labour and materials, as per approved drawings, specifications of this tender and directions of engineer-in-charge, incomer: 40 a 4 pole mcb isolator and elcb, outgoing: 12 nos. double pole mcbs (upto 20 a)",
+      "quantity": "2.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      100,
+      109
+    ],
+    "original_rows": [
+      {
+        "0": 212,
+        "1": 0,
+        "2": "01EE.3030.30",
+        "3": "Supply and installation of Type-`A' clamps(for bracket mounted lighting fixtures) including bolt (MOC SS304) for fixing the fixture to the clamp as per EIL std.no.7-51-0221, including supply and fixing of anchor fasteners, nuts and bolts, washers etc. as per approved drawings, specifications of this tender and directions of Engineer-in-Charge.",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 213,
+        "1": 0,
+        "2": "01EE.3030.40",
+        "3": "Supply and installation of Type-`B' clamps(for ceiling mounted lighting fixtures) including bolt (MOC SS304) for fixing the fixture to the clamps per EIL std.no.7-51- 0221, including supply and fixing of anchor fastners,nuts and bolts,washers as per approved drawings, specifications of this tender and directions of Engineer-in-Charge.",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 214,
+        "1": 0,
+        "2": "01EE.3090",
+        "3": "LIGHTING / POWER PANELS AND DISTRIBUTION BOARDS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 215,
+        "1": 0,
+        "2": "01EE.3090.10",
+        "3": "Supply, installation, connection, testing and commissioning of  flame proof weather proof lighting/power panels  (for gas group IIA/IIB) as per EIL std. spec. 6-51-0008, including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 216,
+        "1": 0,
+        "2": "01EE.3090.10.50",
+        "3": "40 A, 4 pole incomer MCB isolator and ELCB and 12 Nos. outgoing  double pole  MCBs (upto 20 A).",
+        "4": 2.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 217,
+        "1": 0,
+        "2": "01EE.3100",
+        "3": "WIRING",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 218,
+        "1": 0,
+        "2": "01EE.3100.120",
+        "3": "Circuit wiring in hazardous areas using (sizes given below) copper conductor, XLPE insulated, FRLS outer sleeve armoured cables (third core for earthing) from lighting/power panel/distribution junction box onwards, excluding the supply of cables, junction boxes and cable glands but including fixing of cable glands, supply and fixing of clamps, cable terminations and connections, including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 219,
+        "1": 0,
+        "2": "01EE.3100.120.10",
+        "3": "3 C x 2.5 sq. mm",
+        "4": 500.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 220,
+        "1": 0,
+        "2": "01EE.4020",
+        "3": "EARTH ELECTRODES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 221,
+        "1": 0,
+        "2": "01EE.4020.10",
+        "3": "Supply, installation, testing and commissioning of GI earth electrodes, complete with earth pit as per std. 7-51-0102 and all necessary materials including excavation of earth pit, filling with charcoal and salt, back filling, providing necessary brickwork, connections, including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2730,
+    "completion_tokens": 1098
+  }
+}

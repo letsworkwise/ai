@@ -1,0 +1,178 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Disconnection, dismantaling of existing industrial / flameproof local control stations, including transporting to Existing LCS.",
+      "core_product_name": "local control station",
+      "acronymed_core_product_name": "lcs",
+      "size": "",
+      "feature_or_specifications": "type: industrial or flameproof, feature: disconnection, dismantling, transporting",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Cables from existing switchboards/panels/misc. electrical equipment.",
+      "core_product_name": "cable",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "source: existing switchboards, panels, miscellaneous electrical equipment",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Disconnection, dismantling of 30M High Mast Lighting (HML) system complete with associated lighting fixtures and",
+      "core_product_name": "high mast lighting system",
+      "acronymed_core_product_name": "hml",
+      "size": "height: 30m",
+      "feature_or_specifications": "feature: disconnection, dismantling, complete with associated lighting fixtures",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "SUPPLY OF MV CABLES",
+      "core_product_name": "mv cable",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of 1100 V grade, Copper Conductor,XLPE insulated and armoured, cables of following sizes as per EIL standard 3 C x 2.5 sq. mm",
+      "core_product_name": "cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 3, cross-sectional area: 2.5 sq. mm",
+      "feature_or_specifications": "voltage: 1100 V grade, conductor: copper, insulation: XLPE, armouring: armoured, standard: EIL standard",
+      "quantity": "500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "LAYING OF CABLES",
+      "core_product_name": "cable laying",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      130,
+      139
+    ],
+    "original_rows": [
+      {
+        "0": 131,
+        "1": 0,
+        "2": "01EE.1120.40.10",
+        "3": "Cables from existing switchboards/panels/misc. electrical equipment.",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 132,
+        "1": 0,
+        "2": "01EE.1120.50",
+        "3": "Disconnection, dismantling of 30M High Mast Lighting (HML) system complete with associated lighting fixtures and",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 133,
+        "1": 0,
+        "2": "01EE.2010",
+        "3": "SUPPLY OF MV CABLES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 134,
+        "1": 0,
+        "2": "01EE.2010.30",
+        "3": "Supply of 1100 V grade, Copper Conductor,XLPE insulated and armoured, cables of following sizes as per EIL standard",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 135,
+        "1": 0,
+        "2": "01EE.2010.30.20",
+        "3": "3 C x 2.5 sq. mm",
+        "4": 500.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 136,
+        "1": 0,
+        "2": "01EE.2040",
+        "3": "LAYING OF CABLES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 137,
+        "1": 0,
+        "2": "01EE.2040.20",
+        "3": "Laying of cables of different voltage grade and types of the following overall diameters in ready trays/trenches/",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 138,
+        "1": 0,
+        "2": "01EE.2040.20.10",
+        "3": "Cables with OD upto 20 mm.",
+        "4": 100.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 139,
+        "1": 0,
+        "2": "01EE.2040.20.20",
+        "3": "Cables with OD above 20 mm but upto 30 mm.",
+        "4": 100.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 140,
+        "1": 0,
+        "2": "01EE.2040.20.30",
+        "3": "Cables with OD above 30 mm but upto 40 mm.",
+        "4": 100.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2224,
+    "completion_tokens": 1191
+  }
+}

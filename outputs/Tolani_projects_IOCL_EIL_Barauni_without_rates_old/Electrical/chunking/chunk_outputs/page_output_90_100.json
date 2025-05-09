@@ -1,0 +1,178 @@
+{
+  "sheet_name": "Electrical",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Supply and  installation of platform Lighting pole as per std. 7-51-0202,  including all welding, structural works, paint and all sundry materials as required, including painting, (excluding supply and installation of control gear box/junction box), but including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge. Lighting poles for hazardous areas.",
+      "core_product_name": "lighting pole",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "standard: 7-51-0202, inclusion: welding, structural works, paint, sundry materials, painting, all labour and materials, as per approved drawings, specifications of this tender and directions of engineer-in-charge, exclusion: supply and installation of control gear box/junction box, area: hazardous",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Installation, connection, testing and commissioning of following types of flame proof/Div.2 lighting fixtures and accessories, including cable termination and connection, fixing of cable glands, lugs, including supply of necessary hardwares,including transportation from store/yard to site at the place of installation, unpacking, including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge. Well glass type pole mounting type for Platform.",
+      "core_product_name": "lighting fixture",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: flame proof/Div.2, accessory: well glass type pole mounting, inclusion: cable termination and connection, fixing of cable glands, lugs, supply of necessary hardwares, transportation from store/yard to site, unpacking, all labour and materials, as per approved drawings, specifications of this tender and directions of engineer-in-charge",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Installation, connection, testing and commissioning of following types of flame proof/Div.2 lighting fixtures and accessories, including cable termination and connection, fixing of cable glands, lugs, including supply of necessary hardwares,including transportation from store/yard to site at the place of installation, unpacking, including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge. Well glass type bracket mounted.",
+      "core_product_name": "lighting fixture",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: flame proof/Div.2, accessory: well glass type bracket mounted, inclusion: cable termination and connection, fixing of cable glands, lugs, supply of necessary hardwares, transportation from store/yard to site, unpacking, all labour and materials, as per approved drawings, specifications of this tender and directions of engineer-in-charge",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Installation, connection, testing and commissioning of following types of flame proof/Div.2 lighting fixtures and accessories, including cable termination and connection, fixing of cable glands, lugs, including supply of necessary hardwares,including transportation from store/yard to site at the place of installation, unpacking, including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge. Well glass type ceiling mounted.",
+      "core_product_name": "lighting fixture",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: flame proof/Div.2, accessory: well glass type ceiling mounted, inclusion: cable termination and connection, fixing of cable glands, lugs, supply of necessary hardwares, transportation from store/yard to site, unpacking, all labour and materials, as per approved drawings, specifications of this tender and directions of engineer-in-charge",
+      "quantity": "5.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      90,
+      99
+    ],
+    "original_rows": [
+      {
+        "0": 202,
+        "1": 0,
+        "2": "01EE.3020",
+        "3": "LIGHTING POLES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 203,
+        "1": 0,
+        "2": "01EE.3020.30",
+        "3": "Supply and  installation of platform Lighting pole as per std. 7-51-0202,  including all welding, structural works, paint and all sundry materials as required, including painting, (excluding supply and installation of control gear box/junction box), but including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 204,
+        "1": 0,
+        "2": "01EE.3020.30.20",
+        "3": "Lighting poles for hazardous areas.",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 205,
+        "1": 0,
+        "2": "01EE.3030",
+        "3": "HAZARDOUS AREA LIGHTING FIXTURES AND ACCESSORIES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 206,
+        "1": 0,
+        "2": "01EE.3030.10",
+        "3": "Installation, connection, testing and commissioning of following types of flame proof/Div.2 lighting fixtures and accessories, including cable termination and connection, fixing of cable glands, lugs, including supply of necessary hardwares,including transportation from store/yard to site at the place of installation, unpacking, including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 207,
+        "1": 0,
+        "2": "01EE.3030.10.20",
+        "3": "Well glass type pole mounting type for Platform.",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 208,
+        "1": 0,
+        "2": "01EE.3030.10.30",
+        "3": "Well glass type bracket mounted.",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 209,
+        "1": 0,
+        "2": "01EE.3030.10.40",
+        "3": "Well glass type ceiling mounted.",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 210,
+        "1": 0,
+        "2": "01EE.3030.20",
+        "3": "Supply of following FLP/Div.2 lighting fixtures complete with lamps, requisite FLP cable glands, plugs and necessary control gear as per EIL standard specification No. 6 -51-0061, data sheet for lighting fixture schedule, including all albour and materials,specifications of this tender and directions of Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 211,
+        "1": 0,
+        "2": "01EE.3030.20.520",
+        "3": "Type FLP-LED-1 Fixtures.",
+        "4": 20.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2730,
+    "completion_tokens": 1245
+  }
+}

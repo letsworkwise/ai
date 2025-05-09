@@ -1,0 +1,54 @@
+{
+  "query": "core_product_name: mobile aluminium scaffolding | size: material capacity: 150 kgs, platform height: 4.3 mtr, tower height: 6.3 mtr, working height: 7 mtr | feature_or_specifications: material: aluminium",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: structural | material: Aluminium",
+        "raw_product_name": "STRUCTURAL ALUMINIUM",
+        "list_of_product_ids": [
+          "234",
+          "572",
+          "603",
+          "826",
+          "686"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: fabricated component | material: Aluminium",
+        "raw_product_name": "ALUMINIUM FABRICATED COMPONENT",
+        "list_of_product_ids": [
+          "23962",
+          "23964",
+          "23963",
+          "28691"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: partition | material: Aluminium",
+        "raw_product_name": "PATITIONS - ALUMINIUM",
+        "list_of_product_ids": [
+          "15639",
+          "15633",
+          "15618",
+          "15724"
+        ]
+      }
+    }
+  ]
+}

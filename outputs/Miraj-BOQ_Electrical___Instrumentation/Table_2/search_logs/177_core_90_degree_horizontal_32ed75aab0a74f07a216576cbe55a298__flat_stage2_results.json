@@ -1,0 +1,537 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.86727947,
+      "text": "core_product_name: horizontal brace",
+      "core_id": 1141.0,
+      "raw_product_name": "HORIZONTAL BRACE",
+      "list_of_product_ids": [
+        "199",
+        "091",
+        "991",
+        "428",
+        "350"
+      ]
+    },
+    {
+      "retrieval_score": 0.859043,
+      "text": "core_product_name: bend",
+      "core_id": 19.0,
+      "raw_product_name": "BENDS",
+      "list_of_product_ids": [
+        "219",
+        "382",
+        "194",
+        "421",
+        "936"
+      ]
+    },
+    {
+      "retrieval_score": 0.85462713,
+      "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+      "core_id": 1411.0,
+      "raw_product_name": "Large-diameter pipe, bent",
+      "list_of_product_ids": [
+        "758",
+        "872",
+        "638",
+        "029"
+      ]
+    },
+    {
+      "retrieval_score": 0.85357565,
+      "text": "core_product_name: circular hollow section",
+      "core_id": 356.0,
+      "raw_product_name": "CIRCULAR HOLLOW SECTION",
+      "list_of_product_ids": [
+        "199",
+        "101",
+        "991",
+        "528",
+        "351"
+      ]
+    },
+    {
+      "retrieval_score": 0.8535449,
+      "text": "core_product_name: bend | special_attributes: 5D (5 times diameter) radius",
+      "core_id": 19.0,
+      "raw_product_name": "5D BENDS",
+      "list_of_product_ids": [
+        "14162",
+        "18289",
+        "20009",
+        "20007",
+        "19998",
+        "21405",
+        "23291",
+        "37862",
+        "37395",
+        "40120",
+        "40094"
+      ]
+    },
+    {
+      "retrieval_score": 0.8520077,
+      "text": "core_product_name: welded fitting",
+      "core_id": 878.0,
+      "raw_product_name": "FITTINGS – AS WELDED",
+      "list_of_product_ids": [
+        "14259",
+        "15973",
+        "19406",
+        "19805",
+        "19790",
+        "20139",
+        "22666",
+        "37085",
+        "37098"
+      ]
+    },
+    {
+      "retrieval_score": 0.85199183,
+      "text": "core_product_name: centrifugal horizontal pump",
+      "core_id": 329.0,
+      "raw_product_name": "CENTRIFUGAL PUMPS- HORIZONTAL",
+      "list_of_product_ids": [
+        "13590",
+        "15846",
+        "17032",
+        "18712",
+        "18708",
+        "21618",
+        "22246",
+        "23229",
+        "23335",
+        "29997",
+        "29995",
+        "29993",
+        "29988",
+        "29990",
+        "29998",
+        "31784"
+      ]
+    },
+    {
+      "retrieval_score": 0.8510738,
+      "text": "core_product_name: centrifugal pump | construction_features: horizontal split casing",
+      "core_id": 328.0,
+      "raw_product_name": "CENTRIFUGAL PUMPS-HORIZONTAL SPLIT CASING",
+      "list_of_product_ids": [
+        "153",
+        "611",
+        "539",
+        "121",
+        "692"
+      ]
+    },
+    {
+      "retrieval_score": 0.8510228,
+      "text": "core_product_name: hot induction bend",
+      "core_id": 1156.0,
+      "raw_product_name": "HOT INDUCTION BEND",
+      "list_of_product_ids": [
+        "6304",
+        "5475",
+        "10335",
+        "11399",
+        "12134",
+        "31798",
+        "31799",
+        "31797",
+        "34691"
+      ]
+    },
+    {
+      "retrieval_score": 0.8509918,
+      "text": "core_product_name: orifice fitting",
+      "core_id": 1602.0,
+      "raw_product_name": "ORIFICE - FITTINGS",
+      "list_of_product_ids": [
+        "36537",
+        "36541",
+        "36539",
+        "36546"
+      ]
+    },
+    {
+      "retrieval_score": 0.8503385,
+      "text": "core_product_name: rectangular hollow section",
+      "core_id": 1942.0,
+      "raw_product_name": "Rectangular Hollow Section",
+      "list_of_product_ids": [
+        "28759",
+        "28757",
+        "28762",
+        "37159"
+      ]
+    },
+    {
+      "retrieval_score": 0.8500953,
+      "text": "core_product_name: forged fitting",
+      "core_id": 972.0,
+      "raw_product_name": "FORGED FITTINGS",
+      "list_of_product_ids": [
+        "13660",
+        "22252",
+        "24586",
+        "36933"
+      ]
+    },
+    {
+      "retrieval_score": 0.84902793,
+      "text": "core_product_name: width gauge",
+      "core_id": 2491.0,
+      "raw_product_name": "Width Gauge",
+      "list_of_product_ids": [
+        "7552",
+        "7226",
+        "10509",
+        "18014"
+      ]
+    },
+    {
+      "retrieval_score": 0.8489433,
+      "text": "core_product_name: perforated cable tray",
+      "core_id": 1054.0,
+      "raw_product_name": "Perforrated Cable Tray",
+      "list_of_product_ids": [
+        "7",
+        "013",
+        "732",
+        "126",
+        "432"
+      ]
+    },
+    {
+      "retrieval_score": 0.8477509,
+      "text": "core_product_name: forged pipe fitting",
+      "core_id": 971.0,
+      "raw_product_name": "FORGED PIPE FITTINGS",
+      "list_of_product_ids": [
+        "13663",
+        "14901",
+        "15749",
+        "16041",
+        "16260",
+        "19726",
+        "19799",
+        "20064",
+        "22660",
+        "22654",
+        "22913"
+      ]
+    },
+    {
+      "retrieval_score": 0.84760416,
+      "text": "core_product_name: welded pipe fitting",
+      "core_id": 1659.0,
+      "raw_product_name": "PIPE FITTINGS WELDED",
+      "list_of_product_ids": [
+        "14095",
+        "15741",
+        "16054",
+        "16259",
+        "16577",
+        "19721",
+        "20934",
+        "22919",
+        "16612"
+      ]
+    },
+    {
+      "retrieval_score": 0.8465296,
+      "text": "core_product_name: long radius bend",
+      "core_id": 1381.0,
+      "raw_product_name": "LONG RADIUS BENDS",
+      "list_of_product_ids": [
+        "6202",
+        "5370",
+        "11212",
+        "19493",
+        "30761",
+        "30763",
+        "30764",
+        "30590",
+        "37861",
+        "37394",
+        "39923",
+        "40028",
+        "40092",
+        "40121"
+      ]
+    },
+    {
+      "retrieval_score": 0.8461987,
+      "text": "core_product_name: hose fitting",
+      "core_id": 1146.0,
+      "raw_product_name": "HOSE FITTINGS",
+      "list_of_product_ids": [
+        "214",
+        "192",
+        "141",
+        "828",
+        "587"
+      ]
+    },
+    {
+      "retrieval_score": 0.84616655,
+      "text": "core_product_name: conduit fitting",
+      "core_id": 870.0,
+      "raw_product_name": "FITTINGS (CONDUIT)",
+      "list_of_product_ids": [
+        "165",
+        "391",
+        "654",
+        "021",
+        "574"
+      ]
+    },
+    {
+      "retrieval_score": 0.84569216,
+      "text": "core_product_name: section | material: Stainless Steel",
+      "core_id": 100.0,
+      "raw_product_name": "STAINLESS STEEL SECTIONS",
+      "list_of_product_ids": [
+        "17974",
+        "17973",
+        "17975",
+        "17972",
+        "18646"
+      ]
+    },
+    {
+      "retrieval_score": 0.8456186,
+      "text": "core_product_name: flange | material: Titanium",
+      "core_id": 216.0,
+      "raw_product_name": "FLANGE (TITANIUM)",
+      "list_of_product_ids": [
+        "20205",
+        "20213",
+        "20294",
+        "20270",
+        "20321",
+        "20363"
+      ]
+    },
+    {
+      "retrieval_score": 0.84538555,
+      "text": "core_product_name: hinged closure",
+      "core_id": 1134.0,
+      "raw_product_name": "HINGED CLOSURES",
+      "list_of_product_ids": [
+        "16126",
+        "16175",
+        "17330",
+        "17551",
+        "36725",
+        "34728",
+        "34730",
+        "34754",
+        "34851"
+      ]
+    },
+    {
+      "retrieval_score": 0.84490764,
+      "text": "core_product_name: tube fitting",
+      "core_id": 2280.0,
+      "raw_product_name": "TUBE FITTING",
+      "list_of_product_ids": [
+        "6474",
+        "5645",
+        "8110",
+        "10396",
+        "10379",
+        "10670",
+        "10674",
+        "10675",
+        "10683",
+        "8109",
+        "8111",
+        "8113",
+        "8112",
+        "8592",
+        "12052",
+        "12678",
+        "12685",
+        "12681",
+        "12693",
+        "16884",
+        "17200",
+        "17653",
+        "36870",
+        "26298",
+        "26297",
+        "26296",
+        "26295",
+        "26903",
+        "37156",
+        "36861"
+      ]
+    },
+    {
+      "retrieval_score": 0.8448282,
+      "text": "core_product_name: forged fitting | material: Steel",
+      "core_id": 972.0,
+      "raw_product_name": "FORGED STEEL FITTINGS",
+      "list_of_product_ids": [
+        "202",
+        "272",
+        "070",
+        "320",
+        "974"
+      ]
+    },
+    {
+      "retrieval_score": 0.84456015,
+      "text": "core_product_name: square hollow section",
+      "core_id": 2189.0,
+      "raw_product_name": "Square Hollow Section",
+      "list_of_product_ids": [
+        "28758",
+        "28763",
+        "28760",
+        "37158"
+      ]
+    },
+    {
+      "retrieval_score": 0.84453267,
+      "text": "core_product_name: dual chamber orifice fitting",
+      "core_id": 634.0,
+      "raw_product_name": "DUAL CHAMBER ORIFICE FITTINGS",
+      "list_of_product_ids": [
+        "20397",
+        "20398",
+        "20478",
+        "20470",
+        "20659",
+        "20717"
+      ]
+    },
+    {
+      "retrieval_score": 0.8445321,
+      "text": "core_product_name: pipe fitting",
+      "core_id": 182.0,
+      "raw_product_name": "PIPE FITTINGS",
+      "list_of_product_ids": [
+        "22332",
+        "22331",
+        "22330",
+        "23352",
+        "23353",
+        "24583",
+        "36871",
+        "30825",
+        "36882",
+        "37027",
+        "28815",
+        "37304",
+        "36590",
+        "33279",
+        "33280",
+        "33281",
+        "37015",
+        "37157",
+        "36862",
+        "35736",
+        "35737",
+        "35738",
+        "35739",
+        "35740",
+        "35741",
+        "35742",
+        "36885",
+        "36524"
+      ]
+    },
+    {
+      "retrieval_score": 0.8445238,
+      "text": "core_product_name: flange | material: Carbon Steel",
+      "core_id": 216.0,
+      "raw_product_name": "FLANGE- CARBON STEEL",
+      "list_of_product_ids": [
+        "6273",
+        "5442",
+        "11592",
+        "11400",
+        "7751",
+        "9314",
+        "9323",
+        "8440",
+        "8447",
+        "8472",
+        "8450",
+        "8463",
+        "9392",
+        "8779",
+        "9231",
+        "9232",
+        "9235",
+        "9310",
+        "9317",
+        "9344",
+        "12306",
+        "12342",
+        "12387",
+        "12469",
+        "12766",
+        "12759",
+        "12779",
+        "12874",
+        "12884",
+        "12870",
+        "12887",
+        "12894",
+        "12921",
+        "12928",
+        "12932",
+        "12936",
+        "12944",
+        "12952",
+        "12897",
+        "12904",
+        "12911",
+        "12931",
+        "12940",
+        "12948",
+        "13370",
+        "13377",
+        "15999",
+        "17005",
+        "17518",
+        "17911",
+        "18401",
+        "18895",
+        "18939",
+        "19832",
+        "21671",
+        "21654",
+        "21699",
+        "21732"
+      ]
+    },
+    {
+      "retrieval_score": 0.8444184,
+      "text": "core_product_name: sheet | material: Polycarbonate",
+      "core_id": 132.0,
+      "raw_product_name": "Polycarbonate Sheets",
+      "list_of_product_ids": [
+        "15937",
+        "15938",
+        "25146",
+        "15728"
+      ]
+    },
+    {
+      "retrieval_score": 0.8443239,
+      "text": "core_product_name: flange | material: Duplex Steel",
+      "core_id": 216.0,
+      "raw_product_name": "FLANGES -DUPLEX STEEL",
+      "list_of_product_ids": [
+        "17453",
+        "17452",
+        "24558",
+        "24654"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: tong tester",
+  "retrieval_results": [
+    {
+      "id": "variant-bc4a43e5-ae89-513e-b435-8a2fa0f517cc",
+      "score": 0.896586,
+      "metadata": {
+        "text": "core_product_name: test product",
+        "raw_product_name": "TEST PRODUCT",
+        "list_of_product_ids": "1,310,627,675",
+        "core_id": 2235.0
+      }
+    },
+    {
+      "id": "variant-59b5e3e6-cca0-5578-9fb8-1da38d04a8ce",
+      "score": 0.88591653,
+      "metadata": {
+        "text": "core_product_name: test separator",
+        "raw_product_name": "TEST SEPARATOR",
+        "list_of_product_ids": "6093,5260,8755,23730",
+        "core_id": 2233.0
+      }
+    },
+    {
+      "id": "variant-0eb5d02c-397d-58fc-80d8-1ab2e3a705cc",
+      "score": 0.8820539,
+      "metadata": {
+        "text": "core_product_name: test and measuring equipment",
+        "raw_product_name": "Test & Measuring Equipment",
+        "list_of_product_ids": "1,401,515,286",
+        "core_id": 2303.0
+      }
+    },
+    {
+      "id": "variant-ec24adf3-64c0-5cab-a601-956105d3788f",
+      "score": 0.88188225,
+      "metadata": {
+        "text": "core_product_name: fieldbus tester",
+        "raw_product_name": "FIELDBUS TESTER",
+        "list_of_product_ids": "5,949,677,810,923",
+        "core_id": 823.0
+      }
+    },
+    {
+      "id": "variant-bf83fc29-4344-5cdf-ad0a-680397ade823",
+      "score": 0.8806425,
+      "metadata": {
+        "text": "core_product_name: tap",
+        "raw_product_name": "FAUCETS & TAPS",
+        "list_of_product_ids": "1,420,422,905",
+        "core_id": 805.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.880089,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-4b8a5a23-ea81-58fe-887d-4e5efd8ffbe5",
+      "score": 0.87966913,
+      "metadata": {
+        "text": "core_product_name: instrument test bench",
+        "raw_product_name": "INSTRUMENT TEST BENCH",
+        "list_of_product_ids": "5964,6792,10935,10928",
+        "core_id": 1257.0
+      }
+    },
+    {
+      "id": "variant-244b8c71-608d-55cc-ab40-d9438704ec8e",
+      "score": 0.8795576,
+      "metadata": {
+        "text": "core_product_name: manual pump | testing_or_inspection: Hydro test",
+        "raw_product_name": "HYDRO TESTING PUMP (MANUAL)",
+        "list_of_product_ids": "32806,32807,32995,33029,33182,33247,33550,33621,35909",
+        "core_id": 1207.0
+      }
+    },
+    {
+      "id": "variant-1021c327-1f23-56c6-a5b2-2af09e1e62e1",
+      "score": 0.87850106,
+      "metadata": {
+        "text": "core_product_name: instrument tubing",
+        "raw_product_name": "INSTRUMENT TUBING",
+        "list_of_product_ids": "6476,5647,10324,10217,10680,10682,10685,12053,12684,12686,18270,18269,21301,37132",
+        "core_id": 1260.0
+      }
+    },
+    {
+      "id": "variant-a34f1f1e-82d9-5e87-b46b-8d2eb35aca6c",
+      "score": 0.87753886,
+      "metadata": {
+        "text": "core_product_name: tachometer",
+        "raw_product_name": "TACHOMETER",
+        "list_of_product_ids": "164,341,646,822,032",
+        "core_id": 2208.0
+      }
+    },
+    {
+      "id": "variant-c3d53cbb-630e-5fa5-ae1f-516e4650d0c5",
+      "score": 0.8774963,
+      "metadata": {
+        "text": "core_product_name: deadweight tester",
+        "raw_product_name": "DEADWEIGHT TESTER",
+        "list_of_product_ids": "16391,16406,16492,19503",
+        "core_id": 561.0
+      }
+    },
+    {
+      "id": "variant-6d0c75dd-9f8b-5217-b1e9-2776cd193325",
+      "score": 0.8771257,
+      "metadata": {
+        "text": "core_product_name: electronic test bench",
+        "raw_product_name": "ELECTRONIC TEST BENCH",
+        "list_of_product_ids": "171,821,716,727,677",
+        "core_id": 728.0
+      }
+    },
+    {
+      "id": "variant-f137bdce-af71-511f-9954-636b434a08d5",
+      "score": 0.8770291,
+      "metadata": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPARETURE GAUGE",
+        "list_of_product_ids": "13992,36535,17284,17283,17282,23171,35667,35957,35960,35972,37406",
+        "core_id": 2222.0
+      }
+    },
+    {
+      "id": "variant-f36f9a26-b202-54c5-b8bf-b0bf8137e3a4",
+      "score": 0.8769542,
+      "metadata": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPERATURE GAUGES",
+        "list_of_product_ids": "19536,19516,27065,37528,35959,35961,37407",
+        "core_id": 2222.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8768261,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-3b283f23-b639-5606-8a99-8f21fc62dd8f",
+      "score": 0.87622213,
+      "metadata": {
+        "text": "core_product_name: tool",
+        "raw_product_name": "TOOLS",
+        "list_of_product_ids": "14142,39191,18580,39705,39233,39272,39349,24181,39460,33208,33273,35935,39071,39500,39519,39776,39861,39951,40019,40059,40116,40219,40247,40286",
+        "core_id": 2254.0
+      }
+    },
+    {
+      "id": "variant-dc902e3d-597c-5dda-bda3-7f176d1b91e9",
+      "score": 0.8759627,
+      "metadata": {
+        "text": "core_product_name: detector",
+        "raw_product_name": "DETECTOR",
+        "list_of_product_ids": "8900,8902,9849,9858,9867,18250,18249,18248,36841,36225,36377",
+        "core_id": 579.0
+      }
+    },
+    {
+      "id": "variant-89603419-a682-5e22-b25d-9f3a05987c84",
+      "score": 0.8759152,
+      "metadata": {
+        "text": "core_product_name: hydrotesting hose pipe | testing_or_inspection: Hydro test",
+        "raw_product_name": "HOSE PIPE FOR HYDROTESTING",
+        "list_of_product_ids": "32812,32813,32996,33030,33183,33248,33549,33622,35910",
+        "core_id": 1148.0
+      }
+    },
+    {
+      "id": "variant-f09314a8-8820-556e-83ef-658650230b84",
+      "score": 0.8756197,
+      "metadata": {
+        "text": "core_product_name: utensil",
+        "raw_product_name": "UTENSILS",
+        "list_of_product_ids": "214,242,142,928,590",
+        "core_id": 2328.0
+      }
+    },
+    {
+      "id": "variant-0d0de11c-f5fe-5c46-baf4-6f26d957da45",
+      "score": 0.8756088,
+      "metadata": {
+        "text": "core_product_name: meter prover",
+        "raw_product_name": "METER PROVERS",
+        "list_of_product_ids": "6610,5780,11824,10156,10910,11904",
+        "core_id": 1468.0
+      }
+    },
+    {
+      "id": "variant-13d1ac92-02c1-50bb-afd6-80bbe875e2f8",
+      "score": 0.8755729,
+      "metadata": {
+        "text": "core_product_name: analyser",
+        "raw_product_name": "ANALYSER",
+        "list_of_product_ids": "14178,17079,19189,19477,39579,39910,39958,40087",
+        "core_id": 106.0
+      }
+    },
+    {
+      "id": "variant-a8db3448-b0b2-5ef1-a215-ab5bf6aac376",
+      "score": 0.87514126,
+      "metadata": {
+        "text": "core_product_name: cone meter",
+        "raw_product_name": "Cone Meter",
+        "list_of_product_ids": "1,860,527,441",
+        "core_id": 548.0
+      }
+    },
+    {
+      "id": "variant-89a5c131-f178-5da7-9060-dd340393808b",
+      "score": 0.8750541,
+      "metadata": {
+        "text": "core_product_name: target flowmeter",
+        "raw_product_name": "TARGET FLOWMETERS",
+        "list_of_product_ids": "65,755,745",
+        "core_id": 2207.0
+      }
+    },
+    {
+      "id": "variant-35c0b277-6a3b-5856-9c86-096972d7c0d3",
+      "score": 0.87501055,
+      "metadata": {
+        "text": "core_product_name: temperature transmitter",
+        "raw_product_name": "TEMPERATURE TRANSMITTER",
+        "list_of_product_ids": "13422,36532,15082,15245,15259,15305,15312,17117,17116,17115,17114,18212,36177,36325,36511",
+        "core_id": 2226.0
+      }
+    },
+    {
+      "id": "variant-2a4f0b0f-4c92-5ae6-91ef-927efdea3958",
+      "score": 0.87495166,
+      "metadata": {
+        "text": "core_product_name: starter",
+        "raw_product_name": "STARTERS",
+        "list_of_product_ids": "20786,20780,20781,21197,21194,27047",
+        "core_id": 608.0
+      }
+    },
+    {
+      "id": "variant-8073a0f4-08ea-5986-8a7b-495ae6c04c80",
+      "score": 0.87392384,
+      "metadata": {
+        "text": "core_product_name: corrosion probe",
+        "raw_product_name": "CORROSION PROBES",
+        "list_of_product_ids": "17360,17359,27794,35149,35165,35148",
+        "core_id": 492.0
+      }
+    },
+    {
+      "id": "variant-c4e119cc-aafe-5001-a6b3-3284be36811b",
+      "score": 0.87364316,
+      "metadata": {
+        "text": "core_product_name: turnkey instrumentation",
+        "raw_product_name": "TURNKEY INSTRUMENTATION",
+        "list_of_product_ids": "6627,5797,10074,8347,30050,29691,27064,30481,38274,32771,38190,37692,37693,37700,37702,37706,37710,34960,36098,36246,36399",
+        "core_id": 2299.0
+      }
+    },
+    {
+      "id": "variant-1302208c-f245-531e-8566-116e291bcde5",
+      "score": 0.8736,
+      "metadata": {
+        "text": "core_product_name: liquid analyzer",
+        "raw_product_name": "LIQUID ANALYZER",
+        "list_of_product_ids": "1,361,722,618",
+        "core_id": 1369.0
+      }
+    },
+    {
+      "id": "variant-6dcc8876-240e-5e70-ac16-c16116f8e328",
+      "score": 0.8735831,
+      "metadata": {
+        "text": "core_product_name: check valve",
+        "raw_product_name": "VALVE CHECK AS",
+        "list_of_product_ids": "8730,14043,22653,23060,37165,37120,37131,37143,37188,37176,37212",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-340b37d2-2c91-5866-8f1d-7ab8143160bc",
+      "score": 0.873558,
+      "metadata": {
+        "text": "core_product_name: check valve",
+        "raw_product_name": "CHECK VALVE",
+        "list_of_product_ids": "6225,5394,24446,10946,11136,11142,10403,10322,10445,11393,11355,9037,7852,8165,9479,8154,8787,8919,9059,12376,12496,12659,13243,15488,17533,17829,22546,21271,30830,37286",
+        "core_id": 340.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "query": "core_product_name: scada software | acronymed_core_product_name: scada software | feature_or_specifications: feature: 100% spare tags, feature: dongle/key, feature: licenses, feature: media, feature: documentation",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: computer software",
+        "raw_product_name": "COMPUTER SOFTWARE",
+        "list_of_product_ids": [
+          "193",
+          "121",
+          "931",
+          "327",
+          "257"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: supervisory control and data acquisition system | acronymed_core_product_name: SCADA SYSTEMS",
+        "raw_product_name": "SCADA SYSTEMS",
+        "list_of_product_ids": [
+          "6625",
+          "5795",
+          "10073",
+          "11202",
+          "10804",
+          "10871",
+          "10873",
+          "11374",
+          "11377",
+          "30049",
+          "29687",
+          "27063",
+          "30480",
+          "38273",
+          "32770",
+          "36655",
+          "36679",
+          "36002",
+          "36005",
+          "36004",
+          "36003",
+          "36001",
+          "36245",
+          "36398",
+          "36523"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: distributed digital control, monitoring information system | acronymed_core_product_name: ddcmis",
+        "raw_product_name": "DISTRIBUTED DIGITAL CONTROL,MONITORING INFORMATION SYSTEM(DDCMIS)",
+        "list_of_product_ids": [
+          "1",
+          "361",
+          "820",
+          "927"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "sheet_name": "Instrumentation",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Female Connector:   Material:   SS-316   : Size:   1/2\" NPTF X 1/2\" OD   153 Bar",
+      "core_product_name": "female connector",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1/2\" nptf, outer diameter: 1/2\" od",
+      "feature_or_specifications": "material: ss 316(stainless steel 316), pressure: 153 bar",
+      "quantity": "20.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Tube Union: Material:   SS-316   ; Size:   1/2\" OD x 1/2\" OD 153 Bar",
+      "core_product_name": "tube union",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: 1/2\" od x 1/2\" od",
+      "feature_or_specifications": "material: ss 316(stainless steel 316), pressure: 153 bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Tube Union: Material:   SS-316   ; Size:   1/4\" OD x 1/4\" OD 153 Bar",
+      "core_product_name": "tube union",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: 1/4\" od x 1/4\" od",
+      "feature_or_specifications": "material: ss 316(stainless steel 316), pressure: 153 bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Tube Union: Material:   SS-316   ; Size:   12 mm OD x 12 mm OD   153 Bar",
+      "core_product_name": "tube union",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: 12 mm od x 12 mm od",
+      "feature_or_specifications": "material: ss 316(stainless steel 316), pressure: 153 bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Tube Union: Material:   SS-316   ; Size:   6 mm OD x 6 mm OD   153 Bar",
+      "core_product_name": "tube union",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: 6 mm od x 6 mm od",
+      "feature_or_specifications": "material: ss 316(stainless steel 316), pressure: 153 bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Tube Union: Material:   SS-316   ; Size:   3/4\" OD x 3/4\" OD 153 Bar",
+      "core_product_name": "tube union",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: 3/4\" od x 3/4\" od",
+      "feature_or_specifications": "material: ss 316(stainless steel 316), pressure: 153 bar",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Tube Cap; Material:   SS-316   ; Size :   1/2\" OD   153 Bar",
+      "core_product_name": "tube cap",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: 1/2\" od",
+      "feature_or_specifications": "material: ss 316(stainless steel 316), pressure: 153 bar",
+      "quantity": "20.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Tube Cap; Material:   SS-316   ; Size :   1/4\" OD   153 Bar",
+      "core_product_name": "tube cap",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: 1/4\" od",
+      "feature_or_specifications": "material: ss 316(stainless steel 316), pressure: 153 bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "SS 316 Ball Valve 1/2\" NB OD 41 Bar",
+      "core_product_name": "ball valve",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 1/2\" nb, outer diameter: 1/2\" od",
+      "feature_or_specifications": "material: ss 316(stainless steel 316), pressure: 41 bar",
+      "quantity": "20.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      90,
+      99
+    ],
+    "original_rows": [
+      {
+        "0": 332,
+        "1": 0,
+        "2": "01II.550.50.1V50",
+        "3": "Female Connector:   Material:   SS-316   : Size:   1/2\" NPTF X 1/2\" OD   153 Bar",
+        "4": 20.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 333,
+        "1": 0,
+        "2": "01II.550.50.3V1",
+        "3": "Tube Union: Material:   SS-316   ; Size:   1/2\" OD x 1/2\" OD 153 Bar",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 334,
+        "1": 0,
+        "2": "01II.550.50.3V2",
+        "3": "Tube Union: Material:   SS-316   ; Size:   1/4\" OD x 1/4\" OD 153 Bar",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 335,
+        "1": 0,
+        "2": "01II.550.50.3V4",
+        "3": "Tube Union: Material:   SS-316   ; Size:   12 mm OD x 12 mm OD   153 Bar",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 336,
+        "1": 0,
+        "2": "01II.550.50.3V5",
+        "3": "Tube Union: Material:   SS-316   ; Size:   6 mm OD x 6 mm OD   153 Bar",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 337,
+        "1": 0,
+        "2": "01II.550.50.3V10",
+        "3": "Tube Union: Material:   SS-316   ; Size:   3/4\" OD x 3/4\" OD 153 Bar",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 338,
+        "1": 0,
+        "2": "01II.550.50.4V1",
+        "3": "Tube Cap; Material:   SS-316   ; Size :   1/2\" OD   153 Bar",
+        "4": 20.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 339,
+        "1": 0,
+        "2": "01II.550.50.4V3",
+        "3": "Tube Cap; Material:   SS-316   ; Size :   1/4\" OD   153 Bar",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 340,
+        "1": 0,
+        "2": "01II.550.50.5",
+        "3": "SS 316 Ball Valve 1/2\" NB OD 41 Bar",
+        "4": 20.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 341,
+        "1": 0,
+        "2": "01II.550.50.MC15",
+        "3": "Tube Plug; Material:   SS-316   ; Size :   6mm OD   153 Bar",
+        "4": 80.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2957,
+    "completion_tokens": 1402
+  }
+}

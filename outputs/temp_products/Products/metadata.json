@@ -1,0 +1,14 @@
+{
+  "file_path": "temp_products.xlsx",
+  "sheet_name": "Products",
+  "output_folder": "outputs/temp_products/Products",
+  "schedule_path": "outputs/temp_products/Products/schedule_only.xlsx",
+  "context_md": "",
+  "header_md": "S no. | Name | Manufacturer | Category | Specification Key | Specification Value | Approved By | Availability | Status",
+  "schedule_start_idx": 1,
+  "max_col_idx": 9,
+  "tokens_used_ctx": [
+    616,
+    38
+  ]
+}

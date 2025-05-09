@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: earthing station | size: inspection chamber: 400(L)x400(W)x450(D)mm, block work thickness: 150mm, copper plate: 600x600x3mm, gi(galvanized iron) line/funnel: 15mm, watering line: 50mm | feature_or_specifications: feature: providing, installing, testing, commissioning, cover/lid: ci(cast iron), frame: ci(cast iron), mixture: salt & charcoal, bolts & nuts: m10, clamps: universal stainless steel, standard: is(indian standard) 3043-2018, standard: nbc 2016 (latest), compliance: full",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: earthing wire | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI EARTHING WIRE",
+        "list_of_product_ids": [
+          "13437"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: fitting | material: Cast Iron (CI)",
+        "raw_product_name": "FITTINGS -CAST IRON (CI)",
+        "list_of_product_ids": [
+          "7618",
+          "7292",
+          "7881",
+          "15941",
+          "16290",
+          "16308",
+          "34586",
+          "35732",
+          "35733"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: plate | material: Cast Iron",
+        "raw_product_name": "CAST IRON PLATE",
+        "list_of_product_ids": [
+          "399",
+          "713",
+          "996",
+          "039",
+          "973"
+        ]
+      }
+    }
+  ]
+}

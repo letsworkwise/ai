@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: gasket | size: size: 80NB",
+  "retrieval_results": [
+    {
+      "id": "variant-a3b21856-928b-5ccc-9090-eb9cea2bab58",
+      "score": 0.8946477,
+      "metadata": {
+        "text": "core_product_name: gasket | material: Rubber",
+        "raw_product_name": "GASKET RUBBER",
+        "list_of_product_ids": "17840,17839,18654,22361,37308,37310,37313,37315,37318,37303",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-710db86a-5665-5d2e-b3fd-987c788a21ba",
+      "score": 0.89463246,
+      "metadata": {
+        "text": "core_product_name: gasket | material: Rubber",
+        "raw_product_name": "RUBBER GASKETS",
+        "list_of_product_ids": "8366",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-4173582a-6ddd-5391-86a4-9c2653bc8f5a",
+      "score": 0.89157456,
+      "metadata": {
+        "text": "core_product_name: gasket",
+        "raw_product_name": "GASKET",
+        "list_of_product_ids": "9922,9923,9924,9925,9926,9927,9928,9929,14319,14759,17708,36907,36908,19453,19462,19488,19520,19533,19548,19555,23028,23022,23012,23077,23072,36596,35882",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-bef9e8d8-b371-52cc-b8d8-a94a4cb6dd98",
+      "score": 0.8915567,
+      "metadata": {
+        "text": "core_product_name: gasket",
+        "raw_product_name": "Gasket",
+        "list_of_product_ids": "6921",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-a04e326a-e012-52d5-b0cf-79c485e8ddee",
+      "score": 0.8915567,
+      "metadata": {
+        "text": "core_product_name: gasket",
+        "raw_product_name": "GASKETS",
+        "list_of_product_ids": "7738",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-c3bf3b5d-c7e1-567b-896e-879ca0b726dc",
+      "score": 0.8896304,
+      "metadata": {
+        "text": "core_product_name: gasket | material: Metel",
+        "raw_product_name": "Metel Gasket",
+        "list_of_product_ids": "1,421,914,239",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-d5d3a3bb-538b-5db4-9a35-07a48a0373f7",
+      "score": 0.8869698,
+      "metadata": {
+        "text": "core_product_name: gasket | type_or_class: Kamprofile",
+        "raw_product_name": "GASKET KAMPROFILE",
+        "list_of_product_ids": "5999,5178,7784,8352,8356,8361,8572,23347,23346,23345",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-409db9f7-0d7e-5b9a-b324-5c096433382c",
+      "score": 0.8862117,
+      "metadata": {
+        "text": "core_product_name: gasket | material: Compressed Fibre Asbestos Free",
+        "raw_product_name": "GASKET (COMPRESSED FIBRE ASBESTOS FREE)",
+        "list_of_product_ids": "8365",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-b9748b6d-36e1-5407-9b7f-4029cd54c5ae",
+      "score": 0.88183564,
+      "metadata": {
+        "text": "core_product_name: non-asbestos gasket | material: Non-Asbestos",
+        "raw_product_name": "GASKET NON-ASBESTOS",
+        "list_of_product_ids": "5994,5173,6913,6919,6910,6916,7722,7725,7728,7723,7724,7726,7727,8203,8205,8348,8353,8357,8362,8363,8368,9281,9287,9289,9236,9293,22345",
+        "core_id": 1038.0
+      }
+    },
+    {
+      "id": "variant-e04aba36-8c5c-58c5-a647-8ee483ec5152",
+      "score": 0.8779868,
+      "metadata": {
+        "text": "core_product_name: gasket | material: Metallic | material: Soft Iron",
+        "raw_product_name": "GASKET METALLIC & SOFT IRON",
+        "list_of_product_ids": "5995,5174,6912,6918,6909,6915,7720,7721,8358,8369,9280,17301",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-0ae3d3c4-a7f4-5b32-82d0-77c07fc9cbfe",
+      "score": 0.87506187,
+      "metadata": {
+        "text": "core_product_name: spiral wound gasket",
+        "raw_product_name": "GASKET SPIRAL WOUND",
+        "list_of_product_ids": "5997,5176,7736,9282,6914,6920,6911,7729,7730,7731,7732,7733,7734,7735,7737,8202,8329,8350,8354,8360,8364,8367,9283,6917,13079,37378,37379,37382",
+        "core_id": 1040.0
+      }
+    },
+    {
+      "id": "variant-cac8498d-19b3-5ede-90b5-a5e8047ade7c",
+      "score": 0.8747073,
+      "metadata": {
+        "text": "core_product_name: jacketed gasket | material: Metal",
+        "raw_product_name": "GASKET METAL JACKETED",
+        "list_of_product_ids": "5996,5175,7788,8204,8328,8349,8359,8370,9288,8571,23298,23297,23294,23293",
+        "core_id": 1039.0
+      }
+    },
+    {
+      "id": "variant-63458fcb-e2b7-502e-9c16-0c0e5425c24f",
+      "score": 0.87369883,
+      "metadata": {
+        "text": "core_product_name: sheet material gasket | material: non-asbestos",
+        "raw_product_name": "non-asbestos sheet material gasket",
+        "list_of_product_ids": "8327",
+        "core_id": 2499.0
+      }
+    },
+    {
+      "id": "variant-97c47e7e-d6e0-5d36-80a4-01f0fe6e1f26",
+      "score": 0.8703175,
+      "metadata": {
+        "text": "core_product_name: heat exchanger | construction_features: plates-gasketted",
+        "raw_product_name": "HEAT EXCHANGER (PLATES-GASKETTED)",
+        "list_of_product_ids": "6669,5840,12278,8820,8817,8821,23059,37943,37962,37991,38013,38043,38348,38369,37896,38404,38423",
+        "core_id": 1110.0
+      }
+    },
+    {
+      "id": "variant-84fef0a6-275e-53f2-91ad-14bfaa01e218",
+      "score": 0.86432046,
+      "metadata": {
+        "text": "core_product_name: gas valve",
+        "raw_product_name": "GAS VALVE",
+        "list_of_product_ids": "401,894,021,840,265",
+        "core_id": 1037.0
+      }
+    },
+    {
+      "id": "variant-172a68b6-cd52-5685-883b-446f0e6aeee5",
+      "score": 0.86120826,
+      "metadata": {
+        "text": "core_product_name: gate valve | material: Cast",
+        "raw_product_name": "VALVE GATE CAST",
+        "list_of_product_ids": "5382,11614,29395,7639,7652,11635,11222,11235,11245,11257,11396,11429,6845,6849,6854,6859,6869,6874,6879,6884,6889,6894,6864,6963,6976,6978,6980,6984,6986,6955,6957,6959,6961,6990,6994,6982,6988,6992,9258,7662,7664,7666,7668,7670,7631,7633,7635,7637,7654,7656,7658,7660,9408,9427,9240,9248,9167,9174,9242,9306,9319,9320,9338,12024,12042,12033,12324,12328,12427,12566,12546,12651,13252,13362,13366,13373,13376,13380,6213,19358,16660,19369,18054,18381,18506,19707,31712,33376,35515,39521,40044,40143",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-15b082ab-a3ee-5143-857d-441fbeabb39b",
+      "score": 0.8583333,
+      "metadata": {
+        "text": "core_product_name: item | material: Neoprene Rubber",
+        "raw_product_name": "NEOPRENE RUBBER ITEM",
+        "list_of_product_ids": "229,422,294,328,651",
+        "core_id": 1538.0
+      }
+    },
+    {
+      "id": "variant-4d90c084-11dd-5309-a710-bba18baf4ab9",
+      "score": 0.85832196,
+      "metadata": {
+        "text": "core_product_name: check valve | material: Cast",
+        "raw_product_name": "VALVE CHECK CAST",
+        "list_of_product_ids": "6229,5398,29399,11623,11640,11225,11237,11247,11279,11282,11259,11446,11431,6853,6858,6863,6873,6878,6883,6888,6893,6898,7697,7698,7699,7700,7701,7702,7703,7704,7705,7706,7707,7708,7866,9261,9387,9411,9407,9162,9252,9163,9175,9244,9342,12330,12429,12568,12548,12652,13364,13375,13381,6868,19359,16650,19409,18053,18383,19710,33375",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-298f2c6e-2bc0-5c2f-b94c-30f82a72d824",
+      "score": 0.8575018,
+      "metadata": {
+        "text": "core_product_name: nozzle",
+        "raw_product_name": "NOZZLE",
+        "list_of_product_ids": "24248,24222,22342,22340,22766,22794,26877",
+        "core_id": 1547.0
+      }
+    },
+    {
+      "id": "variant-3af49486-93ab-5254-a588-fea4e3345951",
+      "score": 0.8572281,
+      "metadata": {
+        "text": "core_product_name: needle valve",
+        "raw_product_name": "VALVE NEEDLE",
+        "list_of_product_ids": "5434,6265,8184,8167,8171,8152,8182,8183,8181,8599,18083,18084,18086,18307,30828,37284,36451",
+        "core_id": 1543.0
+      }
+    },
+    {
+      "id": "variant-ab9dbd86-4a41-5ba6-9f97-69988ced16bc",
+      "score": 0.8571978,
+      "metadata": {
+        "text": "core_product_name: air admittance valve",
+        "raw_product_name": "AIR ADMITTANCE VALVE",
+        "list_of_product_ids": "199,041,990,327,084",
+        "core_id": 51.0
+      }
+    },
+    {
+      "id": "variant-f728c4ed-4c19-5413-83f7-8a107bce1c33",
+      "score": 0.8568813,
+      "metadata": {
+        "text": "core_product_name: insulation | material: Nitrile Rubber",
+        "raw_product_name": "INSULATION NITRILE RUBBER",
+        "list_of_product_ids": "7503,7178,7762,8172",
+        "core_id": 404.0
+      }
+    },
+    {
+      "id": "variant-7714f3a9-8fa2-5600-b7c0-b87049f3dc5f",
+      "score": 0.8563635,
+      "metadata": {
+        "text": "core_product_name: non-return valve | material: Cast Steel",
+        "raw_product_name": "NON-RETURN VALVES (CAST STEEL)",
+        "list_of_product_ids": "13770,15004,35572,39750,39851,40144,40207",
+        "core_id": 1562.0
+      }
+    },
+    {
+      "id": "variant-68f535ac-0df7-5ccb-9994-ef3dcae767a7",
+      "score": 0.85601693,
+      "metadata": {
+        "text": "core_product_name: gate valve | material: Brass",
+        "raw_product_name": "GATE VALVE (BRASS)",
+        "list_of_product_ids": "20523,20642,20737,35522",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-864a66e9-7821-55d1-be64-ccda8c52b0ea",
+      "score": 0.85594195,
+      "metadata": {
+        "text": "core_product_name: non-return valve | material: Cast Iron",
+        "raw_product_name": "Non-Return Valves Cast Iron",
+        "list_of_product_ids": "7464,11519,7137,11983,17815,35571,39525,40039,40205",
+        "core_id": 1562.0
+      }
+    },
+    {
+      "id": "variant-c3c43150-376a-55b8-97b1-87ac754b97cf",
+      "score": 0.85581946,
+      "metadata": {
+        "text": "core_product_name: air release valve",
+        "raw_product_name": "Air Release Valve",
+        "list_of_product_ids": "7489,7164,11511,23526,31193,31194,31195,39759,40031",
+        "core_id": 156.0
+      }
+    },
+    {
+      "id": "variant-4af2736c-e759-5609-93a4-afc42f6dce9e",
+      "score": 0.8558184,
+      "metadata": {
+        "text": "core_product_name: globe valve | material: Cast",
+        "raw_product_name": "VALVE GLOBE CAST",
+        "list_of_product_ids": "6220,5389,29398,6981,11619,11638,11224,11236,11246,11277,11258,11441,11430,6852,6857,6862,6872,6877,6882,6887,6892,6897,6867,6977,6979,6985,6956,6958,6960,6962,6964,6987,6991,6995,6983,6989,6993,7661,7663,7665,7667,7669,7671,7632,7634,7636,7638,9260,7640,7653,7655,7657,7659,9388,9413,9436,9241,9250,9164,9243,9307,9318,9328,9340,12329,12428,12567,12547,13259,13365,13374,13382,17621,18382,19709,16651,31717,33377,35551,39523,39933,40045",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-e7a645cc-6281-5e3c-b5f0-0002df11aea4",
+      "score": 0.8546948,
+      "metadata": {
+        "text": "core_product_name: gate cryogenic valve | material: Cast",
+        "raw_product_name": "VALVE GATE CRYOGENIC CAST",
+        "list_of_product_ids": "6214,5383,11615,10418,11260,11436,11412,8375,8549,8640,8616,12430,13253,21273,31713,35535",
+        "core_id": 2359.0
+      }
+    },
+    {
+      "id": "variant-d3d3a70e-8dac-56bd-b03a-9e51c7a304b8",
+      "score": 0.85465425,
+      "metadata": {
+        "text": "core_product_name: glandless valve piston",
+        "raw_product_name": "VALVE PISTON (GLANDLESS)",
+        "list_of_product_ids": "6262,5431,8577,8858,7812,22698,35594",
+        "core_id": 2363.0
+      }
+    },
+    {
+      "id": "variant-151ce4f6-5469-579f-8545-47358a95c4ad",
+      "score": 0.8545599,
+      "metadata": {
+        "text": "core_product_name: flange | material: Alloy 20",
+        "raw_product_name": "FLANGE- ALLOY 20",
+        "list_of_product_ids": "176,491,764,718,665",
+        "core_id": 216.0
+      }
+    }
+  ]
+}

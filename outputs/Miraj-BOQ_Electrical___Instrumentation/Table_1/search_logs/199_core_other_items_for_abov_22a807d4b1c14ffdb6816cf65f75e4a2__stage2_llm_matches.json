@@ -1,0 +1,94 @@
+{
+  "query": "core_product_name: other items for above | feature_or_specifications: flp (flameproof) double compression type ss (stainless steel) cable glands: as required, adaptor plate for radar gauge: 4\"/6\", 300# (ss316), quantity: 1 no, adaptor plate for temperature probes: 2\", 300# (ss316), quantity: 4 nos, fabricated adaptor chamber for servo gauge: 2\"x4\"x6\" 300# (moc cs(carbon steel)), with pressure gauge, needle valve & pressure relief valve for servo tags, studs: sa 320 gr. l7, bolts nuts: sa 194 gr. 7, gaskets: (6\",4\",2\") spiral wound metallic aisi 304, asbestos filled as per api 601, fabricated cable for ciu & pc: as required, fabrication of manifold for installation of local indicator (radar or servo): as required, cables for communication of servo, radar or servo or field instruments to ciu (frls (fire retardant low smoke) cable for data communication): as required, all software and hardware: included as required, process plc (programmable logic controller) & tank gauging system interface: redundant modbus communication, any other item: to achieve complete system to successful functioning and integration with other system as required",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "Construction & Build"
+      ],
+      "match_details": {
+        "text": "core_product_name: fabricated fitting | material: SS (Stainless Steel) | construction_features: fabricated from plate",
+        "raw_product_name": "FITTINGS FABRICATED FROM PLATE - S.S.",
+        "list_of_product_ids": [
+          "6324",
+          "5495",
+          "10373",
+          "10389",
+          "11290",
+          "11332",
+          "11404",
+          "9432",
+          "12104",
+          "12772",
+          "12740",
+          "12754",
+          "12763",
+          "12781",
+          "12809",
+          "13131",
+          "13213",
+          "13313",
+          "13386",
+          "13404",
+          "15987",
+          "16061",
+          "17663",
+          "24592",
+          "36843",
+          "36575",
+          "34012",
+          "34011",
+          "34010",
+          "34009",
+          "34684"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: site fabricated pressure vessel | material: SS (Stainless Steel)",
+        "raw_product_name": "PRESSURE VESSEL-SS SITE FABRICATED",
+        "list_of_product_ids": [
+          "6685",
+          "5856",
+          "12009",
+          "12591",
+          "37726",
+          "37742"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: fitting | material: SS (Stainless Steel)",
+        "raw_product_name": "SS FITTINGS",
+        "list_of_product_ids": [
+          "14024",
+          "17502",
+          "17498",
+          "18363",
+          "19876",
+          "22592",
+          "22811",
+          "22830",
+          "23351",
+          "24442",
+          "27369",
+          "36132"
+        ]
+      }
+    }
+  ]
+}

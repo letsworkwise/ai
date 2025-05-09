@@ -1,0 +1,62 @@
+{
+  "query": "core_product_name: digital lux meter",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: multi-combination meter",
+        "raw_product_name": "MULTI-COMBINATION METER",
+        "list_of_product_ids": [
+          "137",
+          "821",
+          "494",
+          "616",
+          "620"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: meter",
+        "raw_product_name": "METERS",
+        "list_of_product_ids": [
+          "6464",
+          "5635",
+          "9440",
+          "9449",
+          "9457",
+          "9465",
+          "9224",
+          "9223",
+          "20438",
+          "20412",
+          "20968"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: meter",
+        "raw_product_name": "WOBBE METERS",
+        "list_of_product_ids": [
+          "6564",
+          "5734",
+          "18968",
+          "37761",
+          "35704"
+        ]
+      }
+    }
+  ]
+}

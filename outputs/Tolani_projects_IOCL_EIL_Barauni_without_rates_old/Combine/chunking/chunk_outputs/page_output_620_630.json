@@ -1,0 +1,148 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Dismantling GI/asbestos/translucent sheets, ridges, gutters etc. (taking all necessary safety precautions) in roofings and",
+      "core_product_name": "dismantling sheets",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: gi(galvanized iron), material: asbestos, material: translucent, feature: ridges, feature: gutters, feature: taking all necessary safety precautions, application: roofings",
+      "quantity": "1.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and filling approved SAND of specified quality under floors, in foundations, plinths, tank foundations etc. for",
+      "core_product_name": "sand filling",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: sand, quality: approved, application: under floors, application: in foundations, application: plinths, application: tank foundations",
+      "quantity": "4200.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and mixing of approved brand of BI-POLAR CONCRETE PENETRATING CORROSION INHIBITING",
+      "core_product_name": "concrete penetrating corrosion inhibiting admixture",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: bi-polar, feature: corrosion inhibiting, feature: penetrating, material: admixture, brand: approved",
+      "quantity": "7850.0",
+      "unit": "kg"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      620,
+      629
+    ],
+    "original_rows": [
+      {
+        "0": 621,
+        "1": 0,
+        "2": "01CS.10.7",
+        "3": "AC / GI Sheets  - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 622,
+        "1": 0,
+        "2": "01CS.10.7.1",
+        "3": "Dismantling GI/asbestos/translucent sheets, ridges, gutters etc. (taking all necessary safety precautions) in roofings and",
+        "4": 1.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 623,
+        "1": 0,
+        "2": "01CS.11",
+        "3": "MISCELLANEOUS ITEMS (REFER SPECIFICATION NO. 6- 68-0013)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 624,
+        "1": 0,
+        "2": "01CS.11.6",
+        "3": "Sand Filling - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 625,
+        "1": 0,
+        "2": "01CS.11.6.1",
+        "3": "Supplying and filling approved SAND of specified quality under floors, in foundations, plinths, tank foundations etc. for",
+        "4": 4200.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 626,
+        "1": 0,
+        "2": "01CS.11.10",
+        "3": "BI-POLAR CONCRETE PENETRATING CORROSION INHIBITING ADMIXTURE",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 627,
+        "1": 0,
+        "2": "01CS.11.10.1",
+        "3": "Supplying and mixing of approved brand of BI-POLAR CONCRETE PENETRATING CORROSION INHIBITING",
+        "4": 7850.0,
+        "5": "kg",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 628,
+        "1": 0,
+        "2": "01CS.11.13",
+        "3": "Thermal Isolation Barrier at Tank bottom - Non-FIM Item",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 629,
+        "1": 0,
+        "2": "01CS.11.13.ME01",
+        "3": "Supplying, Providing and Laying appropriate coating on foundation concrete followed by laying of dry sand, suitable",
+        "4": 1000.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 630,
+        "1": 0,
+        "2": "01CS.14",
+        "3": "BONDING FRESH CONCRETE TO OLD CONCRETE BY EPOXY RESIN BONDING SYSTEM (REFER",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2283,
+    "completion_tokens": 630
+  }
+}

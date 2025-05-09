@@ -1,0 +1,453 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8513851,
+      "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride)",
+      "core_id": 442.0,
+      "raw_product_name": "PVC Conduit",
+      "list_of_product_ids": [
+        "16287",
+        "17401",
+        "21575",
+        "16288"
+      ]
+    },
+    {
+      "retrieval_score": 0.8487285,
+      "text": "core_product_name: conduit fitting",
+      "core_id": 870.0,
+      "raw_product_name": "FITTINGS (CONDUIT)",
+      "list_of_product_ids": [
+        "165",
+        "391",
+        "654",
+        "021",
+        "574"
+      ]
+    },
+    {
+      "retrieval_score": 0.8473554,
+      "text": "core_product_name: fitting | standards_and_approvals: IS (Indian Standards)-1239",
+      "core_id": 273.0,
+      "raw_product_name": "FITTINGS TO IS-1239",
+      "list_of_product_ids": [
+        "14270",
+        "14771",
+        "33994",
+        "33993",
+        "33992",
+        "33991",
+        "33990"
+      ]
+    },
+    {
+      "retrieval_score": 0.84657484,
+      "text": "core_product_name: articulated steel pipe | construction_features: flexible",
+      "core_id": 1916.0,
+      "raw_product_name": "ROOF DRAIN SYSTEM:ARTICULATED STEEL PIPE WITH FLEXIBLE JOINT",
+      "list_of_product_ids": [
+        "7",
+        "148",
+        "747",
+        "323",
+        "011"
+      ]
+    },
+    {
+      "retrieval_score": 0.84361583,
+      "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride) | accessories_or_attachments: accessories",
+      "core_id": 442.0,
+      "raw_product_name": "PVC Conduit and accessories",
+      "list_of_product_ids": [
+        "7222",
+        "7548",
+        "10494",
+        "10502"
+      ]
+    },
+    {
+      "retrieval_score": 0.84340036,
+      "text": "core_product_name: fitting | material: PVC (Polyvinyl Chloride)",
+      "core_id": 273.0,
+      "raw_product_name": "PVC Pipe Fittings",
+      "list_of_product_ids": [
+        "13913",
+        "16304",
+        "16719",
+        "22337",
+        "22901"
+      ]
+    },
+    {
+      "retrieval_score": 0.84259593,
+      "text": "core_product_name: pvc (polyvinyl chloride) pipe",
+      "core_id": 1824.0,
+      "raw_product_name": "PVC Pipe",
+      "list_of_product_ids": [
+        "14387",
+        "14545",
+        "16303",
+        "16718",
+        "16711",
+        "18505",
+        "22900",
+        "27371",
+        "35734",
+        "35735"
+      ]
+    },
+    {
+      "retrieval_score": 0.8413439,
+      "text": "core_product_name: tube | material: PVC (Polyvinyl Chloride)",
+      "core_id": 88.0,
+      "raw_product_name": "PVC TUBE",
+      "list_of_product_ids": [
+        "223",
+        "352",
+        "233",
+        "327",
+        "804"
+      ]
+    },
+    {
+      "retrieval_score": 0.83997583,
+      "text": "core_product_name: large-diameter pipe",
+      "core_id": 1410.0,
+      "raw_product_name": "Large-diameter pipe",
+      "list_of_product_ids": [
+        "758",
+        "772",
+        "628",
+        "028"
+      ]
+    },
+    {
+      "retrieval_score": 0.839605,
+      "text": "core_product_name: flow duct",
+      "core_id": 637.0,
+      "raw_product_name": "DUCT (FLOW)",
+      "list_of_product_ids": [
+        "21027",
+        "21026",
+        "21020",
+        "36684",
+        "27258"
+      ]
+    },
+    {
+      "retrieval_score": 0.83937013,
+      "text": "core_product_name: pvc pipe | accessories_or_attachments: fittings | type_or_class: cable conduit",
+      "core_id": 1823.0,
+      "raw_product_name": "PVC PIPES AND FITTINGS (CABLE CONDUITS)",
+      "list_of_product_ids": [
+        "16289",
+        "16286",
+        "16284",
+        "16283",
+        "16291",
+        "27072",
+        "34651",
+        "35164"
+      ]
+    },
+    {
+      "retrieval_score": 0.83929616,
+      "text": "core_product_name: tube | material: Copper | construction_features: PVC (Polyvinyl Chloride) coated",
+      "core_id": 88.0,
+      "raw_product_name": "COPPER TUBE (PVC COATED)",
+      "list_of_product_ids": [
+        "16380",
+        "16442",
+        "16464",
+        "16437"
+      ]
+    },
+    {
+      "retrieval_score": 0.8388524,
+      "text": "core_product_name: conduit accessory",
+      "core_id": 439.0,
+      "raw_product_name": "CONDUIT ACCESSORIES",
+      "list_of_product_ids": [
+        "20550",
+        "20514",
+        "20591",
+        "20632",
+        "20686",
+        "20744"
+      ]
+    },
+    {
+      "retrieval_score": 0.83881426,
+      "text": "core_product_name: flexible clamp",
+      "core_id": 915.0,
+      "raw_product_name": "FLEXIBLE CLAMP",
+      "list_of_product_ids": [
+        "24745",
+        "24746",
+        "24774",
+        "24784",
+        "24789",
+        "24799",
+        "24803",
+        "24813",
+        "25094"
+      ]
+    },
+    {
+      "retrieval_score": 0.8386849,
+      "text": "core_product_name: conduit pipe",
+      "core_id": 440.0,
+      "raw_product_name": "CONDUIT PIPE",
+      "list_of_product_ids": [
+        "222",
+        "962",
+        "229",
+        "728",
+        "617"
+      ]
+    },
+    {
+      "retrieval_score": 0.83807844,
+      "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+      "core_id": 313.0,
+      "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+      "list_of_product_ids": [
+        "140",
+        "901",
+        "478",
+        "121",
+        "282"
+      ]
+    },
+    {
+      "retrieval_score": 0.83728427,
+      "text": "core_product_name: flexible wire | material: Copper",
+      "core_id": 912.0,
+      "raw_product_name": "FLEXIBLE COPPER WIRES",
+      "list_of_product_ids": [
+        "136",
+        "081",
+        "478",
+        "520",
+        "094"
+      ]
+    },
+    {
+      "retrieval_score": 0.83679384,
+      "text": "core_product_name: primary structure | construction_features: welded",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+      "list_of_product_ids": [
+        "19999",
+        "20036",
+        "22016",
+        "21003",
+        "21084",
+        "21900",
+        "22115",
+        "21039",
+        "19993",
+        "22825",
+        "22991"
+      ]
+    },
+    {
+      "retrieval_score": 0.8362158,
+      "text": "core_product_name: welded duct",
+      "core_id": 642.0,
+      "raw_product_name": "DUCTS (WELDED)",
+      "list_of_product_ids": [
+        "21034",
+        "21033",
+        "21030",
+        "27074"
+      ]
+    },
+    {
+      "retrieval_score": 0.83600205,
+      "text": "core_product_name: welded pipe fitting",
+      "core_id": 1659.0,
+      "raw_product_name": "PIPE FITTINGS WELDED",
+      "list_of_product_ids": [
+        "14095",
+        "15741",
+        "16054",
+        "16259",
+        "16577",
+        "19721",
+        "20934",
+        "22919",
+        "16612"
+      ]
+    },
+    {
+      "retrieval_score": 0.83582354,
+      "text": "core_product_name: fabricated duct",
+      "core_id": 787.0,
+      "raw_product_name": "FABRICATED DUCT",
+      "list_of_product_ids": [
+        "1",
+        "397",
+        "437",
+        "260"
+      ]
+    },
+    {
+      "retrieval_score": 0.8355758,
+      "text": "core_product_name: pipe fitting",
+      "core_id": 182.0,
+      "raw_product_name": "PIPE FITTINGS",
+      "list_of_product_ids": [
+        "22332",
+        "22331",
+        "22330",
+        "23352",
+        "23353",
+        "24583",
+        "36871",
+        "30825",
+        "36882",
+        "37027",
+        "28815",
+        "37304",
+        "36590",
+        "33279",
+        "33280",
+        "33281",
+        "37015",
+        "37157",
+        "36862",
+        "35736",
+        "35737",
+        "35738",
+        "35739",
+        "35740",
+        "35741",
+        "35742",
+        "36885",
+        "36524"
+      ]
+    },
+    {
+      "retrieval_score": 0.83489835,
+      "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+      "core_id": 1411.0,
+      "raw_product_name": "Large-diameter pipe, bent",
+      "list_of_product_ids": [
+        "758",
+        "872",
+        "638",
+        "029"
+      ]
+    },
+    {
+      "retrieval_score": 0.8348368,
+      "text": "core_product_name: pipe insulation",
+      "core_id": 1662.0,
+      "raw_product_name": "PIPE INSULATION",
+      "list_of_product_ids": [
+        "13921",
+        "16092",
+        "16635",
+        "16633",
+        "18103",
+        "23466",
+        "23458",
+        "34600"
+      ]
+    },
+    {
+      "retrieval_score": 0.8344365,
+      "text": "core_product_name: rigid rigid polyvinyl chloride (PVC) conduit pipe | material: Polyvinyl Chloride (PVC)",
+      "core_id": 1910.0,
+      "raw_product_name": "RIGID PVC CONDUIT PIPE",
+      "list_of_product_ids": [
+        "20551",
+        "20515",
+        "20592",
+        "20631",
+        "20685",
+        "20743"
+      ]
+    },
+    {
+      "retrieval_score": 0.8336614,
+      "text": "core_product_name: tubing",
+      "core_id": 2099.0,
+      "raw_product_name": "TUBINGS",
+      "list_of_product_ids": [
+        "14396",
+        "14566",
+        "22505",
+        "35747"
+      ]
+    },
+    {
+      "retrieval_score": 0.8334252,
+      "text": "core_product_name: plumbing fitting and fixture",
+      "core_id": 1961.0,
+      "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+      "list_of_product_ids": [
+        "6364",
+        "5535",
+        "7874",
+        "12489",
+        "12648",
+        "12649",
+        "34680",
+        "34681"
+      ]
+    },
+    {
+      "retrieval_score": 0.83342177,
+      "text": "core_product_name: check valve | construction_features: pre-insulation",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK PRE-INSULATION",
+      "list_of_product_ids": [
+        "1",
+        "544",
+        "118",
+        "796"
+      ]
+    },
+    {
+      "retrieval_score": 0.83323157,
+      "text": "core_product_name: duct insulation",
+      "core_id": 639.0,
+      "raw_product_name": "DUCT INSULATION",
+      "list_of_product_ids": [
+        "13749",
+        "16142",
+        "22567",
+        "22558",
+        "37316"
+      ]
+    },
+    {
+      "retrieval_score": 0.8332004,
+      "text": "core_product_name: pipe-frp (fiber reinforced plastic)",
+      "core_id": 1669.0,
+      "raw_product_name": "PIPE-FRP",
+      "list_of_product_ids": [
+        "6298",
+        "5469",
+        "10648",
+        "8088",
+        "8076",
+        "8814",
+        "12261",
+        "12381",
+        "8812",
+        "12536",
+        "13160",
+        "13175",
+        "13190",
+        "13203",
+        "13169",
+        "13184",
+        "13339",
+        "17880"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.85963005,
+      "text": "core_product_name: data storage system",
+      "core_id": 649.0,
+      "raw_product_name": "Data storage system",
+      "list_of_product_ids": [
+        "7084",
+        "7411",
+        "18425",
+        "18424"
+      ]
+    },
+    {
+      "retrieval_score": 0.85546553,
+      "text": "core_product_name: closed circuit television | acronymed_core_product_name: cctv",
+      "core_id": 323.0,
+      "raw_product_name": "CLOSED CIRCUIT TV",
+      "list_of_product_ids": [
+        "6592",
+        "5762",
+        "10914",
+        "10889",
+        "11962",
+        "12202",
+        "12473",
+        "16497",
+        "19259",
+        "19269",
+        "30476",
+        "31285",
+        "37696",
+        "37697",
+        "37705",
+        "37709",
+        "37713",
+        "40236",
+        "40237",
+        "40234",
+        "40235",
+        "40257"
+      ]
+    },
+    {
+      "retrieval_score": 0.85220754,
+      "text": "core_product_name: closed circuit television | acronymed_core_product_name: CCTV",
+      "core_id": 323.0,
+      "raw_product_name": "CCTV",
+      "list_of_product_ids": [
+        "5956",
+        "6784",
+        "11071",
+        "10174",
+        "11373",
+        "11847",
+        "11851",
+        "11843",
+        "12201",
+        "31186",
+        "34966",
+        "34976",
+        "34986",
+        "34997",
+        "35008",
+        "35017",
+        "40277",
+        "40256",
+        "40261",
+        "40260",
+        "40259",
+        "40258",
+        "40295"
+      ]
+    },
+    {
+      "retrieval_score": 0.848759,
+      "text": "core_product_name: recorder",
+      "core_id": 1875.0,
+      "raw_product_name": "RECORDERS",
+      "list_of_product_ids": [
+        "13825",
+        "15211",
+        "20871",
+        "36627"
+      ]
+    },
+    {
+      "retrieval_score": 0.8486015,
+      "text": "core_product_name: radiography",
+      "core_id": 1856.0,
+      "raw_product_name": "RADIOGRAPHY",
+      "list_of_product_ids": [
+        "218",
+        "552",
+        "185",
+        "721",
+        "856"
+      ]
+    },
+    {
+      "retrieval_score": 0.8466636,
+      "text": "core_product_name: large case field recorder",
+      "core_id": 1407.0,
+      "raw_product_name": "Large Case Field Recorders",
+      "list_of_product_ids": [
+        "17062",
+        "17061",
+        "17060",
+        "27436"
+      ]
+    },
+    {
+      "retrieval_score": 0.8465113,
+      "text": "core_product_name: digital storage oscilloscope",
+      "core_id": 591.0,
+      "raw_product_name": "DIGITAL STORAGE OSCILLOSCOPE",
+      "list_of_product_ids": [
+        "1",
+        "543",
+        "418",
+        "782"
+      ]
+    },
+    {
+      "retrieval_score": 0.84635574,
+      "text": "core_product_name: site fabricated column | acronymed_core_product_name: las (level alarm system) column",
+      "core_id": 396.0,
+      "raw_product_name": "COLUMN-LAS SITE FABRICATED",
+      "list_of_product_ids": [
+        "6688",
+        "5859",
+        "9698",
+        "23521"
+      ]
+    },
+    {
+      "retrieval_score": 0.84608895,
+      "text": "core_product_name: central processing unit | acronymed_core_product_name: cpu unit",
+      "core_id": 505.0,
+      "raw_product_name": "CPU UNITS",
+      "list_of_product_ids": [
+        "192",
+        "651",
+        "410",
+        "722",
+        "373"
+      ]
+    },
+    {
+      "retrieval_score": 0.84605354,
+      "text": "core_product_name: encoder",
+      "core_id": 744.0,
+      "raw_product_name": "ENCODER",
+      "list_of_product_ids": [
+        "19082",
+        "19099",
+        "19104",
+        "19089",
+        "19113",
+        "36721",
+        "38449",
+        "36751",
+        "38453"
+      ]
+    },
+    {
+      "retrieval_score": 0.8455492,
+      "text": "core_product_name: drive arrangement",
+      "core_id": 624.0,
+      "raw_product_name": "DRIVE ARRANGEMENT FOR CLINKER GRINDER",
+      "list_of_product_ids": [
+        "1",
+        "344",
+        "114",
+        "445"
+      ]
+    },
+    {
+      "retrieval_score": 0.84527564,
+      "text": "core_product_name: equipment",
+      "core_id": 460.0,
+      "raw_product_name": "CONTROL ROOM EQUIPMENT",
+      "list_of_product_ids": [
+        "14034",
+        "14815",
+        "17256",
+        "21098"
+      ]
+    },
+    {
+      "retrieval_score": 0.8451433,
+      "text": "core_product_name: video wall",
+      "core_id": 2418.0,
+      "raw_product_name": "Video wall",
+      "list_of_product_ids": [
+        "7081",
+        "7408",
+        "18012",
+        "18421",
+        "18416"
+      ]
+    },
+    {
+      "retrieval_score": 0.84425575,
+      "text": "core_product_name: chemical storage and dosing system",
+      "core_id": 344.0,
+      "raw_product_name": "CHEMICAL STORAGE & DOSING SYSTEM",
+      "list_of_product_ids": [
+        "7053",
+        "7380",
+        "17865",
+        "18358",
+        "21023",
+        "21294",
+        "21252",
+        "21316",
+        "37071",
+        "37082",
+        "39187",
+        "39201"
+      ]
+    },
+    {
+      "retrieval_score": 0.84397376,
+      "text": "core_product_name: addressable detector",
+      "core_id": 47.0,
+      "raw_product_name": "ADDRESSABLE DETECTOR",
+      "list_of_product_ids": [
+        "37763",
+        "37768",
+        "37773",
+        "37779",
+        "37789",
+        "37758"
+      ]
+    },
+    {
+      "retrieval_score": 0.84379524,
+      "text": "core_product_name: monitor",
+      "core_id": 2443.0,
+      "raw_product_name": "WATER MONITOR",
+      "list_of_product_ids": [
+        "6039",
+        "5218",
+        "9825",
+        "9830",
+        "9835",
+        "9840",
+        "8259",
+        "8296",
+        "8316",
+        "8739",
+        "9230",
+        "16411",
+        "24091",
+        "23518",
+        "37476"
+      ]
+    },
+    {
+      "retrieval_score": 0.8436242,
+      "text": "core_product_name: cathodic protection power supply module",
+      "core_id": 315.0,
+      "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+      "list_of_product_ids": [
+        "6413",
+        "5583",
+        "8417",
+        "12209"
+      ]
+    },
+    {
+      "retrieval_score": 0.84288234,
+      "text": "core_product_name: server",
+      "core_id": 1999.0,
+      "raw_product_name": "SERVERS",
+      "list_of_product_ids": [
+        "13899",
+        "15300",
+        "15302",
+        "18836"
+      ]
+    },
+    {
+      "retrieval_score": 0.8428243,
+      "text": "core_product_name: surge protection device",
+      "core_id": 2156.0,
+      "raw_product_name": "SURG PROTECTION DEVICES",
+      "list_of_product_ids": [
+        "5954",
+        "6782",
+        "12132",
+        "14671",
+        "14679",
+        "18191",
+        "20174",
+        "36159"
+      ]
+    },
+    {
+      "retrieval_score": 0.842765,
+      "text": "core_product_name: cathodic protection system",
+      "core_id": 503.0,
+      "raw_product_name": "Cathodic Protection System",
+      "list_of_product_ids": [
+        "18681",
+        "19166",
+        "21519",
+        "18680",
+        "36550"
+      ]
+    },
+    {
+      "retrieval_score": 0.8426853,
+      "text": "core_product_name: machine monitoring system",
+      "core_id": 1418.0,
+      "raw_product_name": "MACHINE MONITORING SYSTEMS",
+      "list_of_product_ids": [
+        "6478",
+        "5649",
+        "12455",
+        "32772",
+        "38192"
+      ]
+    },
+    {
+      "retrieval_score": 0.8423312,
+      "text": "core_product_name: interface device",
+      "core_id": 1280.0,
+      "raw_product_name": "INTERFACE DEVICES",
+      "list_of_product_ids": [
+        "6630",
+        "5800",
+        "11596",
+        "11597",
+        "10310",
+        "11701",
+        "11702",
+        "11703",
+        "12288",
+        "8405",
+        "13108",
+        "13117",
+        "21089",
+        "21081",
+        "21077",
+        "21070"
+      ]
+    },
+    {
+      "retrieval_score": 0.84225345,
+      "text": "core_product_name: erection hardware",
+      "core_id": 762.0,
+      "raw_product_name": "ERECTION HARDWARE",
+      "list_of_product_ids": [
+        "1",
+        "394",
+        "215",
+        "266"
+      ]
+    },
+    {
+      "retrieval_score": 0.8421498,
+      "text": "core_product_name: computer maintenance",
+      "core_id": 422.0,
+      "raw_product_name": "COMPUTER MAINTENANCE",
+      "list_of_product_ids": [
+        "193",
+        "231",
+        "932",
+        "428",
+        "719"
+      ]
+    },
+    {
+      "retrieval_score": 0.8418034,
+      "text": "core_product_name: network component",
+      "core_id": 1544.0,
+      "raw_product_name": "NETWORK COMPONENTS",
+      "list_of_product_ids": [
+        "137",
+        "882",
+        "017",
+        "621",
+        "241"
+      ]
+    },
+    {
+      "retrieval_score": 0.84174335,
+      "text": "core_product_name: laptop",
+      "core_id": 1320.0,
+      "raw_product_name": "LAPTOPS",
+      "list_of_product_ids": [
+        "142",
+        "481",
+        "529",
+        "918",
+        "835"
+      ]
+    },
+    {
+      "retrieval_score": 0.84173495,
+      "text": "core_product_name: tube suppression system",
+      "core_id": 2284.0,
+      "raw_product_name": "TUBE SUPPRESSION SYSTEM",
+      "list_of_product_ids": [
+        "3",
+        "247",
+        "232",
+        "473"
+      ]
+    },
+    {
+      "retrieval_score": 0.84121865,
+      "text": "core_product_name: ground monitoring system",
+      "core_id": 1079.0,
+      "raw_product_name": "GROUND MONITORING SYSTEMS",
+      "list_of_product_ids": [
+        "6629",
+        "5799",
+        "10305",
+        "24235",
+        "19579"
+      ]
+    },
+    {
+      "retrieval_score": 0.8411718,
+      "text": "core_product_name: infrared detector | acronymed_core_product_name: ir detector",
+      "core_id": 1295.0,
+      "raw_product_name": "IR DETECTOR",
+      "list_of_product_ids": [
+        "980",
+        "798",
+        "149",
+        "854"
+      ]
+    },
+    {
+      "retrieval_score": 0.84115976,
+      "text": "core_product_name: temperature recorder",
+      "core_id": 2223.0,
+      "raw_product_name": "TEMPERATURE RECORDERS",
+      "list_of_product_ids": [
+        "6620",
+        "5790",
+        "10045",
+        "10155",
+        "11903",
+        "12893",
+        "12892"
+      ]
+    }
+  ]
+}

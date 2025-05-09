@@ -1,0 +1,476 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8665068,
+      "text": "core_product_name: rail and road weigh bridge",
+      "core_id": 1859.0,
+      "raw_product_name": "RAIL & ROAD WEIGH BRIDGE",
+      "list_of_product_ids": [
+        "6133",
+        "5300",
+        "10482",
+        "9712",
+        "9752",
+        "9755",
+        "24271"
+      ]
+    },
+    {
+      "retrieval_score": 0.84748095,
+      "text": "core_product_name: test and measuring equipment",
+      "core_id": 2303.0,
+      "raw_product_name": "Test & Measuring Equipment",
+      "list_of_product_ids": [
+        "1",
+        "401",
+        "515",
+        "286"
+      ]
+    },
+    {
+      "retrieval_score": 0.84717405,
+      "text": "core_product_name: electronic weigh scale",
+      "core_id": 733.0,
+      "raw_product_name": "ELECTRONIC WEIGH SCALE",
+      "list_of_product_ids": [
+        "6138",
+        "5308",
+        "10476",
+        "9713",
+        "9753",
+        "23226"
+      ]
+    },
+    {
+      "retrieval_score": 0.84715295,
+      "text": "core_product_name: measurement",
+      "core_id": 2401.0,
+      "raw_product_name": "VIBRATION MEASUREMENT",
+      "list_of_product_ids": [
+        "242",
+        "652",
+        "426",
+        "624",
+        "269"
+      ]
+    },
+    {
+      "retrieval_score": 0.84684193,
+      "text": "core_product_name: measurement system",
+      "core_id": 1451.0,
+      "raw_product_name": "MEASUREMENT SYSTEM",
+      "list_of_product_ids": [
+        "188",
+        "511",
+        "884",
+        "918",
+        "973"
+      ]
+    },
+    {
+      "retrieval_score": 0.8466741,
+      "text": "core_product_name: at site material handling and transportation",
+      "core_id": 1445.0,
+      "raw_product_name": "MATERIAL HANDLING AND TRANSPORTATION AT SITE",
+      "list_of_product_ids": [
+        "35825",
+        "35831",
+        "35840",
+        "35879",
+        "36082",
+        "40091"
+      ]
+    },
+    {
+      "retrieval_score": 0.8464658,
+      "text": "core_product_name: measuring instrument",
+      "core_id": 1450.0,
+      "raw_product_name": "MEASURING INSTRUMENTS",
+      "list_of_product_ids": [
+        "22280",
+        "22279",
+        "22278",
+        "27344",
+        "30010"
+      ]
+    },
+    {
+      "retrieval_score": 0.84576017,
+      "text": "core_product_name: local control station",
+      "core_id": 1380.0,
+      "raw_product_name": "LOCAL CONTROL STATIONS",
+      "list_of_product_ids": [
+        "99",
+        "911",
+        "003",
+        "018",
+        "831"
+      ]
+    },
+    {
+      "retrieval_score": 0.84540045,
+      "text": "core_product_name: telemetry interface cabinet",
+      "core_id": 2214.0,
+      "raw_product_name": "TELEMETRY INTERFACE CABINET",
+      "list_of_product_ids": [
+        "13988",
+        "18052",
+        "18994",
+        "19044",
+        "21698"
+      ]
+    },
+    {
+      "retrieval_score": 0.8449316,
+      "text": "core_product_name: electrical measuring instrument",
+      "core_id": 709.0,
+      "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+      "list_of_product_ids": [
+        "24296",
+        "20768",
+        "20767",
+        "24283"
+      ]
+    },
+    {
+      "retrieval_score": 0.8449012,
+      "text": "core_product_name: instrument panel",
+      "core_id": 1256.0,
+      "raw_product_name": "INSTRUMENT PANEL",
+      "list_of_product_ids": [
+        "13720",
+        "14806",
+        "14814",
+        "14824",
+        "21097",
+        "22773",
+        "36101"
+      ]
+    },
+    {
+      "retrieval_score": 0.844167,
+      "text": "core_product_name: indicating meter",
+      "core_id": 1230.0,
+      "raw_product_name": "INDICATING METERS",
+      "list_of_product_ids": [
+        "13682",
+        "14947",
+        "19149",
+        "19123",
+        "19142"
+      ]
+    },
+    {
+      "retrieval_score": 0.84387267,
+      "text": "core_product_name: instrument and meter",
+      "core_id": 1248.0,
+      "raw_product_name": "INSTRUMENT & METER",
+      "list_of_product_ids": [
+        "20461",
+        "20502",
+        "20648",
+        "20115"
+      ]
+    },
+    {
+      "retrieval_score": 0.8437232,
+      "text": "core_product_name: weighing metering unit package | type_or_class: Weighing System",
+      "core_id": 1469.0,
+      "raw_product_name": "METERING UNIT PACKAGE ( WEIGHING SYSTEM)",
+      "list_of_product_ids": [
+        "615",
+        "053",
+        "209",
+        "757"
+      ]
+    },
+    {
+      "retrieval_score": 0.84345776,
+      "text": "core_product_name: instrument tubing",
+      "core_id": 1260.0,
+      "raw_product_name": "INSTRUMENT TUBING",
+      "list_of_product_ids": [
+        "6476",
+        "5647",
+        "10324",
+        "10217",
+        "10680",
+        "10682",
+        "10685",
+        "12053",
+        "12684",
+        "12686",
+        "18270",
+        "18269",
+        "21301",
+        "37132"
+      ]
+    },
+    {
+      "retrieval_score": 0.8422603,
+      "text": "core_product_name: ground monitoring system",
+      "core_id": 1079.0,
+      "raw_product_name": "GROUND MONITORING SYSTEMS",
+      "list_of_product_ids": [
+        "6629",
+        "5799",
+        "10305",
+        "24235",
+        "19579"
+      ]
+    },
+    {
+      "retrieval_score": 0.8419843,
+      "text": "core_product_name: magnetic level instrument",
+      "core_id": 1422.0,
+      "raw_product_name": "MAGNETIC LEVEL INSTRUMENTS",
+      "list_of_product_ids": [
+        "6583",
+        "5753",
+        "11811",
+        "11274",
+        "10573",
+        "10581",
+        "10196",
+        "10669",
+        "8393",
+        "11949",
+        "11948",
+        "12069",
+        "12219",
+        "12239",
+        "12778",
+        "12834",
+        "12833",
+        "12842",
+        "18396",
+        "22199"
+      ]
+    },
+    {
+      "retrieval_score": 0.84192353,
+      "text": "core_product_name: fieldbus monitor",
+      "core_id": 821.0,
+      "raw_product_name": "FIELDBUS MONITOR",
+      "list_of_product_ids": [
+        "5",
+        "948",
+        "677",
+        "710",
+        "076"
+      ]
+    },
+    {
+      "retrieval_score": 0.8418146,
+      "text": "core_product_name: instrumentation fitting",
+      "core_id": 1264.0,
+      "raw_product_name": "INSTRUMENTATION FITTINGS",
+      "list_of_product_ids": [
+        "14372",
+        "17508",
+        "17507",
+        "17506",
+        "17505",
+        "17504",
+        "17501",
+        "17500",
+        "17496",
+        "17958",
+        "17960"
+      ]
+    },
+    {
+      "retrieval_score": 0.8416761,
+      "text": "core_product_name: junction box",
+      "core_id": 1311.0,
+      "raw_product_name": "JUNCTION BOXES",
+      "list_of_product_ids": [
+        "5960",
+        "6788",
+        "10303",
+        "10552",
+        "10606",
+        "8206",
+        "8209",
+        "15928",
+        "17373",
+        "18803",
+        "24168",
+        "22859",
+        "27495",
+        "36562",
+        "36607",
+        "35775",
+        "35887",
+        "35865",
+        "35940",
+        "36519",
+        "39357"
+      ]
+    },
+    {
+      "retrieval_score": 0.8414346,
+      "text": "core_product_name: thermal mass flow meter",
+      "core_id": 2253.0,
+      "raw_product_name": "THERMAL MASS FLOW METER",
+      "list_of_product_ids": [
+        "14013",
+        "18172",
+        "24191",
+        "36113"
+      ]
+    },
+    {
+      "retrieval_score": 0.84127396,
+      "text": "core_product_name: level transmitter",
+      "core_id": 1080.0,
+      "raw_product_name": "LEVEL TRANSMITTER",
+      "list_of_product_ids": [
+        "14042",
+        "36533",
+        "17995",
+        "18211",
+        "19929",
+        "19985",
+        "19983",
+        "36512",
+        "40096"
+      ]
+    },
+    {
+      "retrieval_score": 0.84117216,
+      "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+      "core_id": 1262.0,
+      "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+      "list_of_product_ids": [
+        "19885",
+        "19880",
+        "24078",
+        "23930",
+        "27348"
+      ]
+    },
+    {
+      "retrieval_score": 0.8411324,
+      "text": "core_product_name: bolted structural item",
+      "core_id": 2135.0,
+      "raw_product_name": "STRUCTURAL ITEM (BOLTED)",
+      "list_of_product_ids": [
+        "173",
+        "371",
+        "733",
+        "527",
+        "207"
+      ]
+    },
+    {
+      "retrieval_score": 0.8406832,
+      "text": "core_product_name: marshalling box",
+      "core_id": 1523.0,
+      "raw_product_name": "Marshalling Boxes",
+      "list_of_product_ids": [
+        "16914",
+        "17029",
+        "17037",
+        "35828"
+      ]
+    },
+    {
+      "retrieval_score": 0.84060234,
+      "text": "core_product_name: electronic belt weigher",
+      "core_id": 720.0,
+      "raw_product_name": "ELECTRONIC BELT WEIGHER",
+      "list_of_product_ids": [
+        "347",
+        "553",
+        "473",
+        "134",
+        "778"
+      ]
+    },
+    {
+      "retrieval_score": 0.8404233,
+      "text": "core_product_name: welded structural item",
+      "core_id": 2136.0,
+      "raw_product_name": "STRUCTURAL ITEM (WELDED)",
+      "list_of_product_ids": [
+        "173",
+        "361",
+        "733",
+        "427",
+        "923"
+      ]
+    },
+    {
+      "retrieval_score": 0.84032094,
+      "text": "core_product_name: hanger | mounting_or_installation: Supports",
+      "core_id": 1215.0,
+      "raw_product_name": "Hangers & Supports",
+      "list_of_product_ids": [
+        "7538",
+        "11523",
+        "10958",
+        "7212",
+        "9703",
+        "11838",
+        "14955"
+      ]
+    },
+    {
+      "retrieval_score": 0.8398225,
+      "text": "core_product_name: loading arm | operating_conditions: rail or road",
+      "core_id": 1375.0,
+      "raw_product_name": "LOADING ARMS (RAIL/ROAD)",
+      "list_of_product_ids": [
+        "6090",
+        "5257",
+        "10826",
+        "8530",
+        "10898",
+        "12368",
+        "24433",
+        "38072",
+        "38089",
+        "38120"
+      ]
+    },
+    {
+      "retrieval_score": 0.8392394,
+      "text": "core_product_name: mass flow meter",
+      "core_id": 1443.0,
+      "raw_product_name": "MASS FLOW METERS",
+      "list_of_product_ids": [
+        "6578",
+        "5748",
+        "11524",
+        "11528",
+        "11548",
+        "11574",
+        "11585",
+        "11660",
+        "11690",
+        "10067",
+        "11681",
+        "11804",
+        "11803",
+        "11806",
+        "11807",
+        "11828",
+        "11833",
+        "11834",
+        "10097",
+        "10111",
+        "11832",
+        "11706",
+        "11835",
+        "11836",
+        "12068",
+        "12148",
+        "18230",
+        "18884",
+        "18930",
+        "19177"
+      ]
+    }
+  ]
+}

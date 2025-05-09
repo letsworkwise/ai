@@ -1,0 +1,390 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8689957,
+      "text": "core_product_name: earthing material",
+      "core_id": 672.0,
+      "raw_product_name": "EARTHING MATERIALS",
+      "list_of_product_ids": [
+        "378",
+        "733",
+        "788",
+        "037",
+        "898"
+      ]
+    },
+    {
+      "retrieval_score": 0.86373025,
+      "text": "core_product_name: instrumentation earthing",
+      "core_id": 1263.0,
+      "raw_product_name": "INSTRUMENTATION EARTHING",
+      "list_of_product_ids": [
+        "13420"
+      ]
+    },
+    {
+      "retrieval_score": 0.85498744,
+      "text": "core_product_name: lining | material: Lead",
+      "core_id": 1367.0,
+      "raw_product_name": "LINING (LEAD)",
+      "list_of_product_ids": [
+        "61",
+        "665",
+        "336"
+      ]
+    },
+    {
+      "retrieval_score": 0.85212,
+      "text": "core_product_name: lightning arrestor",
+      "core_id": 1354.0,
+      "raw_product_name": "LIGHTNING ARRESTORS",
+      "list_of_product_ids": [
+        "6411",
+        "5629",
+        "12225",
+        "12252",
+        "12482",
+        "16603",
+        "19513",
+        "19509",
+        "19541",
+        "33537",
+        "35360",
+        "36158"
+      ]
+    },
+    {
+      "retrieval_score": 0.8512125,
+      "text": "core_product_name: outer casing | type_or_class: LP (Low Pressure)",
+      "core_id": 1293.0,
+      "raw_product_name": "LP Outer Casing Fabrication",
+      "list_of_product_ids": [
+        "15373",
+        "13654",
+        "16535",
+        "21542"
+      ]
+    },
+    {
+      "retrieval_score": 0.84950656,
+      "text": "core_product_name: earth leakage circuit breaker",
+      "core_id": 668.0,
+      "raw_product_name": "EARTH LEAKAGE CIRCUIT BREAKER",
+      "list_of_product_ids": [
+        "6449",
+        "5619",
+        "9349",
+        "9448",
+        "9149",
+        "9217",
+        "9363",
+        "11942",
+        "24537",
+        "24536",
+        "38287"
+      ]
+    },
+    {
+      "retrieval_score": 0.84908676,
+      "text": "core_product_name: earth leakage relay",
+      "core_id": 670.0,
+      "raw_product_name": "EARTH LEAKAGE RELAY",
+      "list_of_product_ids": [
+        "1",
+        "379",
+        "915",
+        "295"
+      ]
+    },
+    {
+      "retrieval_score": 0.84791166,
+      "text": "core_product_name: inner casing | type_or_class: LP (Low Pressure)",
+      "core_id": 1166.0,
+      "raw_product_name": "LP Inner Casing Fabrication",
+      "list_of_product_ids": [
+        "15372",
+        "13650",
+        "16534",
+        "21541"
+      ]
+    },
+    {
+      "retrieval_score": 0.8474302,
+      "text": "core_product_name: electrical contact",
+      "core_id": 705.0,
+      "raw_product_name": "ELECTRICAL CONTACTS",
+      "list_of_product_ids": [
+        "211",
+        "562",
+        "115",
+        "228",
+        "503"
+      ]
+    },
+    {
+      "retrieval_score": 0.84666866,
+      "text": "core_product_name: turbine shaft forging | type_or_class: LP (Low Pressure)",
+      "core_id": 1171.0,
+      "raw_product_name": "LP Turbine Shaft Forging",
+      "list_of_product_ids": [
+        "15366",
+        "15367",
+        "15368",
+        "13687"
+      ]
+    },
+    {
+      "retrieval_score": 0.845894,
+      "text": "core_product_name: inner casing casting | type_or_class: LP (Low Pressure)",
+      "core_id": 1292.0,
+      "raw_product_name": "LP Inner Casing Casting",
+      "list_of_product_ids": [
+        "15369",
+        "15374",
+        "15375",
+        "13648"
+      ]
+    },
+    {
+      "retrieval_score": 0.8456833,
+      "text": "core_product_name: gate valve | operating_conditions: LP (Low Pressure) application",
+      "core_id": 1041.0,
+      "raw_product_name": "Valve gate for LP application",
+      "list_of_product_ids": [
+        "14074",
+        "14930",
+        "22240",
+        "22352",
+        "35540"
+      ]
+    },
+    {
+      "retrieval_score": 0.84525436,
+      "text": "core_product_name: lead pipe",
+      "core_id": 1670.0,
+      "raw_product_name": "PIPE-LEAD",
+      "list_of_product_ids": [
+        "630",
+        "054",
+        "717",
+        "793"
+      ]
+    },
+    {
+      "retrieval_score": 0.8451039,
+      "text": "core_product_name: globe valve | operating_conditions: LP (Low Pressure) application",
+      "core_id": 1062.0,
+      "raw_product_name": "Valve globe for LP application",
+      "list_of_product_ids": [
+        "14081",
+        "14929",
+        "22239",
+        "22351",
+        "35567"
+      ]
+    },
+    {
+      "retrieval_score": 0.8442121,
+      "text": "core_product_name: pipe cap | material: Exotic",
+      "core_id": 875.0,
+      "raw_product_name": "FITTINGS PIPE CAP (EXOTIC)",
+      "list_of_product_ids": [
+        "6330",
+        "5501",
+        "24598",
+        "34311",
+        "34312",
+        "34313",
+        "34314",
+        "36852"
+      ]
+    },
+    {
+      "retrieval_score": 0.84374,
+      "text": "core_product_name: chipping",
+      "core_id": 347.0,
+      "raw_product_name": "CHIPPING",
+      "list_of_product_ids": [
+        "239",
+        "692",
+        "397",
+        "328",
+        "692"
+      ]
+    },
+    {
+      "retrieval_score": 0.8434688,
+      "text": "core_product_name: electrical terminal",
+      "core_id": 712.0,
+      "raw_product_name": "ELECTRICAL TERMINALS",
+      "list_of_product_ids": [
+        "21153",
+        "21157",
+        "28575",
+        "36610"
+      ]
+    },
+    {
+      "retrieval_score": 0.84329945,
+      "text": "core_product_name: electrical strip",
+      "core_id": 714.0,
+      "raw_product_name": "ELECTRICAL STRIPS",
+      "list_of_product_ids": [
+        "211",
+        "512",
+        "115",
+        "528",
+        "461"
+      ]
+    },
+    {
+      "retrieval_score": 0.8432158,
+      "text": "core_product_name: check valve | operating_conditions: LP (Low Pressure) application",
+      "core_id": 340.0,
+      "raw_product_name": "Valve check for LP application",
+      "list_of_product_ids": [
+        "14071",
+        "14931",
+        "22241",
+        "22353"
+      ]
+    },
+    {
+      "retrieval_score": 0.8432158,
+      "text": "core_product_name: check valve | operating_conditions: LP (Low Pressure) application",
+      "core_id": 340.0,
+      "raw_product_name": "Valves check for LP application",
+      "list_of_product_ids": [
+        "8343"
+      ]
+    },
+    {
+      "retrieval_score": 0.8431109,
+      "text": "core_product_name: emergency lighting system",
+      "core_id": 740.0,
+      "raw_product_name": "EMERGENCY LIGHTING SYSTEM",
+      "list_of_product_ids": [
+        "3",
+        "216",
+        "232",
+        "163"
+      ]
+    },
+    {
+      "retrieval_score": 0.8430736,
+      "text": "core_product_name: electrical accessory",
+      "core_id": 701.0,
+      "raw_product_name": "ELECTRICAL ACCESSORIES",
+      "list_of_product_ids": [
+        "211",
+        "632",
+        "705",
+        "121",
+        "165"
+      ]
+    },
+    {
+      "retrieval_score": 0.842851,
+      "text": "core_product_name: piping speciality",
+      "core_id": 1689.0,
+      "raw_product_name": "PIPING SPECIALITY",
+      "list_of_product_ids": [
+        "194",
+        "961",
+        "949",
+        "428",
+        "268"
+      ]
+    },
+    {
+      "retrieval_score": 0.84276056,
+      "text": "core_product_name: lining",
+      "core_id": 1367.0,
+      "raw_product_name": "LININGS",
+      "list_of_product_ids": [
+        "9522",
+        "9562",
+        "14414",
+        "14416",
+        "14418",
+        "14425"
+      ]
+    },
+    {
+      "retrieval_score": 0.8427316,
+      "text": "core_product_name: outdoor lightning arrestor | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 12.0,
+      "raw_product_name": "33kV outdoor Lightning Arrestor",
+      "list_of_product_ids": [
+        "1",
+        "415",
+        "921",
+        "498"
+      ]
+    },
+    {
+      "retrieval_score": 0.8427141,
+      "text": "core_product_name: electrical-instrumentation work",
+      "core_id": 711.0,
+      "raw_product_name": "ELECTRICAL-INSTRUMENTATION WORKS",
+      "list_of_product_ids": [
+        "36860",
+        "36857",
+        "36888",
+        "36892"
+      ]
+    },
+    {
+      "retrieval_score": 0.84239036,
+      "text": "core_product_name: electrical repair",
+      "core_id": 2009.0,
+      "raw_product_name": "SHIP REPAIR (ELECTRICAL WORK)",
+      "list_of_product_ids": [
+        "23965",
+        "24298",
+        "23966",
+        "24724",
+        "24966",
+        "36009"
+      ]
+    },
+    {
+      "retrieval_score": 0.84189415,
+      "text": "core_product_name: electrical item",
+      "core_id": 713.0,
+      "raw_product_name": "ELECTRICALS ITEMS",
+      "list_of_product_ids": [
+        "240",
+        "232",
+        "403",
+        "028",
+        "576"
+      ]
+    },
+    {
+      "retrieval_score": 0.8418448,
+      "text": "core_product_name: electric lamp",
+      "core_id": 695.0,
+      "raw_product_name": "ELECTRIC LAMPS",
+      "list_of_product_ids": [
+        "20801",
+        "20836",
+        "20803",
+        "28495"
+      ]
+    },
+    {
+      "retrieval_score": 0.8416771,
+      "text": "core_product_name: lp (low pressure) heater",
+      "core_id": 1394.0,
+      "raw_product_name": "LP Heaters (Sub QR Item)",
+      "list_of_product_ids": [
+        "136",
+        "462",
+        "158",
+        "227",
+        "287"
+      ]
+    }
+  ]
+}

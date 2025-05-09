@@ -1,0 +1,129 @@
+{
+  "query": "core_product_name: power and control cable termination | size: cable: 3.5CX240 sqmm | feature_or_specifications: termination kit: included, conductor material: aluminium",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: power and control cable | acronymed_core_product_name: lt (low tension) cable | type_or_class: LT (Low Tension) | type_or_class: Power | type_or_class: Control",
+        "raw_product_name": "LT power & control cable",
+        "list_of_product_ids": [
+          "7622",
+          "7892",
+          "7296",
+          "8226",
+          "11367",
+          "11370",
+          "7891",
+          "12081",
+          "15804",
+          "16036",
+          "16645",
+          "16643",
+          "16811",
+          "16783",
+          "16773",
+          "16862",
+          "16860",
+          "16845",
+          "16839",
+          "16832",
+          "16831",
+          "16907",
+          "16909",
+          "16898",
+          "16887",
+          "16882",
+          "16872",
+          "16866",
+          "18223",
+          "19316",
+          "20096",
+          "23873",
+          "24036",
+          "38789",
+          "38603",
+          "38684",
+          "38629",
+          "38712",
+          "38657",
+          "38737",
+          "38848",
+          "38880",
+          "38922",
+          "38948",
+          "38985",
+          "39012",
+          "39040",
+          "39065",
+          "39108",
+          "39138",
+          "39186",
+          "39214",
+          "39267",
+          "39288",
+          "39334",
+          "39370",
+          "39399",
+          "39429",
+          "39480",
+          "39535",
+          "39562",
+          "38763",
+          "39600",
+          "39624",
+          "39652",
+          "39686",
+          "39726",
+          "39796",
+          "39824",
+          "39895"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: power and control cable | type_or_class: LT (Low Tension) Power and Control | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLE – LT POWER & CONTROL(XPLE)",
+        "list_of_product_ids": [
+          "14190",
+          "19114",
+          "15162",
+          "16034",
+          "19097",
+          "19096",
+          "20131",
+          "24055",
+          "23906"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": [
+          "6444",
+          "5614",
+          "11000",
+          "12263",
+          "12344",
+          "15781",
+          "23866",
+          "24503"
+        ]
+      }
+    }
+  ]
+}

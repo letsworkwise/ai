@@ -1,0 +1,118 @@
+{
+  "sheet_name": "General Civil",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)",
+      "full_product_description": "Flanged/ Wafer Valves (ITEM NO: 01GC.30.1.1) Nominal Dia.   8 Inch (ITEM NO: 01GC.30.1.1.1V2)",
+      "core_product_name": "flanged or wafer valves",
+      "acronymed_core_product_name": "",
+      "size": "nominal diameter: 8 inch",
+      "feature_or_specifications": "",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)",
+      "full_product_description": "Dismantling works (ITEM NO: 01GC.32)",
+      "core_product_name": "dismantling works",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)",
+      "full_product_description": "Removal of existing U/G piping (ITEM NO: 01GC.32.2)",
+      "core_product_name": "removal of existing underground piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)",
+      "full_product_description": "Removal of existing U/G piping including excavation in all types of soils except soft rock and hard rock, including supply of any additional material required so as to expose the pipes for removal / dismantling, taking all safety precautions, supporting existing U/G services, dewatering of surface / sub-surface water as required to facilitate dismantling of pipes, cutting of pipes in appropriate lengths for transporting purpose, removal of soft material from bottom of trench and compacting, backfilling with available selected earth including re-excavating the deposited soil excavated earlier, breaking clods, laying in thickness not exceeding 15cms, watering rolling and ramming by manual methods / mechanical Compactors to achieve 90% laboratory maximum dry density as per IS:2720 Part VII or 85% relative density as per IS:2720 part XIV as applicable, stacking of serviceable / unserviceable material, transporting and stacking of all piping material to Owner's storage point, disposal of unserviceable material anywhere outside the complex etc. , all complete as per directions of Engineer-in-Charge.(Disposal areas shall be arranged by the  contractor at his own cost. The rate quoted shall include all royalties, right-of-way etc. complete.) (ITEM NO: 01GC.32.2.1)",
+      "core_product_name": "removal of existing underground piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: includes excavation, supply of additional material, safety precautions, supporting existing underground services, dewatering, cutting pipes, removal of soft material, compacting, backfilling, breaking clods, laying in thickness not exceeding 15cms, watering, rolling, ramming, stacking, transporting, disposal, as per IS:2720 Part VII and Part XIV, as per directions of Engineer-in-Charge, includes all royalties and right-of-way",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      40,
+      44
+    ],
+    "original_rows": [
+      {
+        "0": 689,
+        "1": 0,
+        "2": "01GC.30.1.1.1V2",
+        "3": "Nominal Dia.   8 Inch",
+        "4": 9.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 690,
+        "1": 0,
+        "2": "01GC.32",
+        "3": "Dismantling works",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 691,
+        "1": 0,
+        "2": "01GC.32.2",
+        "3": "Removal of existing U/G piping",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 692,
+        "1": 0,
+        "2": "01GC.32.2.1",
+        "3": "Removal of existing U/G piping including excavation in all types of soils except soft rock and hard rock, including supply of any additional material required so as to expose the pipes for removal / dismantling, taking all safety precautions, supporting existing U/G services, dewatering of surface / sub-surface water as required to facilitate dismantling of pipes, cutting of pipes in appropriate lengths for transporting purpose, removal of soft material from bottom of trench and compacting, backfilling with available selected earth including re-excavating the deposited soil excavated earlier, breaking clods, laying in thickness not exceeding 15cms, watering rolling and ramming by manual methods / mechanical Compactors to achieve 90% laboratory maximum dry density as per IS:2720 Part VII or 85% relative density as per IS:2720 part XIV as applicable, stacking of serviceable / unserviceable material, transporting and stacking of all piping material to Owner's storage point, disposal of unserviceable material anywhere outside the complex etc. , all complete as per directions of Engineer-in-Charge.(Disposal areas shall be arranged by the  contractor at his own cost. The rate quoted shall include all royalties, right-of-way etc. complete.)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 693,
+        "1": 0,
+        "2": "01GC.32.2.1.1",
+        "3": "For CS Piping dismantling, Thickness <=10 mm , For following Nominal Sizes",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2498,
+    "completion_tokens": 1061
+  }
+}

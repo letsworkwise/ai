@@ -1,0 +1,482 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8542801,
+      "text": "core_product_name: radar level indicator | type_or_class: Radar Type",
+      "core_id": 1333.0,
+      "raw_product_name": "LEVEL INDICATORS (RADAR TYPE)",
+      "list_of_product_ids": [
+        "13979",
+        "15091",
+        "15133",
+        "15141",
+        "15149",
+        "15250",
+        "15263",
+        "36108",
+        "36186",
+        "36334"
+      ]
+    },
+    {
+      "retrieval_score": 0.8484078,
+      "text": "core_product_name: level switch | type_or_class: Radar Type",
+      "core_id": 1337.0,
+      "raw_product_name": "LEVEL SWITCH RADAR TYPE",
+      "list_of_product_ids": [
+        "1",
+        "358",
+        "231",
+        "746"
+      ]
+    },
+    {
+      "retrieval_score": 0.847055,
+      "text": "core_product_name: pressure indicating controller",
+      "core_id": 1772.0,
+      "raw_product_name": "PRESSURE INDICATING CONTROLLERS",
+      "list_of_product_ids": [
+        "17056",
+        "17059",
+        "17058",
+        "17057",
+        "28751",
+        "36365",
+        "40118"
+      ]
+    },
+    {
+      "retrieval_score": 0.8466986,
+      "text": "core_product_name: radar level transmitter",
+      "core_id": 1852.0,
+      "raw_product_name": "RADAR LEVEL TRANSMITTERS",
+      "list_of_product_ids": [
+        "13803",
+        "15081",
+        "15246",
+        "15260",
+        "23177",
+        "37424",
+        "36176",
+        "36324"
+      ]
+    },
+    {
+      "retrieval_score": 0.8459946,
+      "text": "core_product_name: level instrument | type_or_class: Radar Type",
+      "core_id": 1335.0,
+      "raw_product_name": "LEVEL INSTRUMENTS (RADAR TYPE)",
+      "list_of_product_ids": [
+        "9487",
+        "9587",
+        "12075",
+        "14687",
+        "14707",
+        "14801",
+        "15021",
+        "15024",
+        "15103",
+        "15239",
+        "15253",
+        "36197",
+        "36346"
+      ]
+    },
+    {
+      "retrieval_score": 0.8456843,
+      "text": "core_product_name: tank level instrument | type_or_class: Radar | type_or_class: Ultrasonic",
+      "core_id": 2202.0,
+      "raw_product_name": "TANK LEVEL INSTRUMENT (RADAR,ULTRASONIC)",
+      "list_of_product_ids": [
+        "6596",
+        "5766",
+        "11601",
+        "11814",
+        "11323",
+        "10106",
+        "10120",
+        "11345",
+        "9173",
+        "12073",
+        "12860",
+        "12862",
+        "13363",
+        "13367",
+        "13371",
+        "13372",
+        "18399",
+        "19278",
+        "35436",
+        "36170",
+        "36318"
+      ]
+    },
+    {
+      "retrieval_score": 0.845623,
+      "text": "core_product_name: programmable logic controller",
+      "core_id": 1794.0,
+      "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLERS",
+      "list_of_product_ids": [
+        "6565",
+        "5735",
+        "11164",
+        "10154",
+        "11376",
+        "9379",
+        "9159",
+        "9221",
+        "11902",
+        "12182",
+        "36522",
+        "17895",
+        "18871",
+        "18916",
+        "29683",
+        "30474",
+        "38193",
+        "36169",
+        "36317"
+      ]
+    },
+    {
+      "retrieval_score": 0.8440183,
+      "text": "core_product_name: magnetic liquid level indicator",
+      "core_id": 1423.0,
+      "raw_product_name": "MAGNETIC LIQUID LEVEL INDICATOR",
+      "list_of_product_ids": [
+        "218",
+        "652",
+        "186",
+        "428",
+        "600"
+      ]
+    },
+    {
+      "retrieval_score": 0.84397244,
+      "text": "core_product_name: special control valve | type_or_class: Segmental",
+      "core_id": 2075.0,
+      "raw_product_name": "SPECIAL CONTROL VALVES (SEGMENTAL)",
+      "list_of_product_ids": [
+        "6507",
+        "5678",
+        "8709",
+        "28773",
+        "28781",
+        "28780",
+        "28779",
+        "28778",
+        "28777",
+        "28776",
+        "28775",
+        "28774",
+        "36265",
+        "36418"
+      ]
+    },
+    {
+      "retrieval_score": 0.84351605,
+      "text": "core_product_name: programmable logic controller-fire and gas system | acronymed_core_product_name: PLC-FGS",
+      "core_id": 1706.0,
+      "raw_product_name": "PLC-FGS",
+      "list_of_product_ids": [
+        "13801",
+        "15110",
+        "20985",
+        "23214",
+        "36204",
+        "36353"
+      ]
+    },
+    {
+      "retrieval_score": 0.84344435,
+      "text": "core_product_name: site fabricated storage tank",
+      "core_id": 2038.0,
+      "raw_product_name": "SITE FABRICATED STORAGE TANKS",
+      "list_of_product_ids": [
+        "1",
+        "395",
+        "423",
+        "053"
+      ]
+    },
+    {
+      "retrieval_score": 0.8431717,
+      "text": "core_product_name: gate valve | type_or_class: Liquefied Petroleum Gas (LPG)",
+      "core_id": 1041.0,
+      "raw_product_name": "VALVE GATE - LIQUEFIED PETROLEUM GAS",
+      "list_of_product_ids": [
+        "39743",
+        "39767",
+        "39780",
+        "39852",
+        "39878",
+        "40072",
+        "40214",
+        "40305"
+      ]
+    },
+    {
+      "retrieval_score": 0.8430639,
+      "text": "core_product_name: level indicator | type_or_class: Servo Type TGM",
+      "core_id": 1332.0,
+      "raw_product_name": "LEVEL INDICATORS (SERVO TYPE TGM)",
+      "list_of_product_ids": [
+        "13980"
+      ]
+    },
+    {
+      "retrieval_score": 0.8430338,
+      "text": "core_product_name: loop powered indicator",
+      "core_id": 1383.0,
+      "raw_product_name": "LOOP POWERED INDICATORS",
+      "list_of_product_ids": [
+        "6593",
+        "5763",
+        "11632",
+        "11633",
+        "10042",
+        "10068",
+        "8403",
+        "12844",
+        "38272"
+      ]
+    },
+    {
+      "retrieval_score": 0.8422313,
+      "text": "core_product_name: magnetic oil level gauge",
+      "core_id": 1424.0,
+      "raw_product_name": "MAGNETIC OIL LEVEL GAUGE",
+      "list_of_product_ids": [
+        "6465",
+        "5636",
+        "10160",
+        "12891",
+        "26083"
+      ]
+    },
+    {
+      "retrieval_score": 0.8419465,
+      "text": "core_product_name: level gauge",
+      "core_id": 1330.0,
+      "raw_product_name": "LEVEL GAUGES",
+      "list_of_product_ids": [
+        "14374",
+        "17072",
+        "18035",
+        "23121",
+        "23520",
+        "36626",
+        "36111"
+      ]
+    },
+    {
+      "retrieval_score": 0.841646,
+      "text": "core_product_name: guided wave level instrument | type_or_class: Radar",
+      "core_id": 2083.0,
+      "raw_product_name": "SPL. LEVEL INSTRUMENTS-GUIDED WAVE RADAR",
+      "list_of_product_ids": [
+        "6584",
+        "5754",
+        "11684",
+        "11693",
+        "11812",
+        "11275",
+        "10099",
+        "10113",
+        "11709",
+        "12071",
+        "13219",
+        "18397",
+        "35433"
+      ]
+    },
+    {
+      "retrieval_score": 0.8415803,
+      "text": "core_product_name: level sensor",
+      "core_id": 1336.0,
+      "raw_product_name": "LEVEL SENSOR",
+      "list_of_product_ids": [
+        "19121",
+        "19128",
+        "19133",
+        "38465"
+      ]
+    },
+    {
+      "retrieval_score": 0.8403978,
+      "text": "core_product_name: control valve positioner",
+      "core_id": 467.0,
+      "raw_product_name": "CONTROL VALVE POSITIONER",
+      "list_of_product_ids": [
+        "6488",
+        "5659",
+        "11718",
+        "8691"
+      ]
+    },
+    {
+      "retrieval_score": 0.84019285,
+      "text": "core_product_name: receiver gauge",
+      "core_id": 1869.0,
+      "raw_product_name": "RECEIVER GAUGES",
+      "list_of_product_ids": [
+        "10283",
+        "10000",
+        "10021",
+        "22687",
+        "37662",
+        "37655",
+        "35965"
+      ]
+    },
+    {
+      "retrieval_score": 0.8401083,
+      "text": "core_product_name: local control station",
+      "core_id": 1380.0,
+      "raw_product_name": "LOCAL CONTROL STATIONS",
+      "list_of_product_ids": [
+        "99",
+        "911",
+        "003",
+        "018",
+        "831"
+      ]
+    },
+    {
+      "retrieval_score": 0.8400522,
+      "text": "core_product_name: electronic level indicator | type_or_class: Boiler Drum",
+      "core_id": 723.0,
+      "raw_product_name": "ELECTRONIC BOILER DRUM LEVEL INDICATOR",
+      "list_of_product_ids": [
+        "1",
+        "388",
+        "723",
+        "155"
+      ]
+    },
+    {
+      "retrieval_score": 0.8398633,
+      "text": "core_product_name: tank level instrument | type_or_class: Servo Type",
+      "core_id": 2202.0,
+      "raw_product_name": "TANK LEVEL INSTRUMENT (SERVO TYPE)",
+      "list_of_product_ids": [
+        "6586",
+        "5756",
+        "11687",
+        "11696",
+        "11712",
+        "13222",
+        "15090",
+        "15248",
+        "15262",
+        "21060",
+        "36107",
+        "36185",
+        "36333"
+      ]
+    },
+    {
+      "retrieval_score": 0.83976114,
+      "text": "core_product_name: oil level indicator",
+      "core_id": 1582.0,
+      "raw_product_name": "OIL LEVEL INDICATOR",
+      "list_of_product_ids": [
+        "21633",
+        "21630",
+        "21639",
+        "21757"
+      ]
+    },
+    {
+      "retrieval_score": 0.8393965,
+      "text": "core_product_name: gas detection system",
+      "core_id": 1028.0,
+      "raw_product_name": "GAS DETECTION SYSTEMS",
+      "list_of_product_ids": [
+        "6549",
+        "5720",
+        "10456",
+        "11233",
+        "11243",
+        "10651",
+        "10650",
+        "11424",
+        "11422",
+        "11722",
+        "12817",
+        "12820",
+        "12819",
+        "13110",
+        "13111",
+        "18189",
+        "36733",
+        "35577",
+        "36091",
+        "36095"
+      ]
+    },
+    {
+      "retrieval_score": 0.8387641,
+      "text": "core_product_name: gas metering system | special_attributes: dual chamber orifice",
+      "core_id": 1031.0,
+      "raw_product_name": "GAS METERING SYSTEM -DUAL CHAMBR ORIFICE",
+      "list_of_product_ids": [
+        "6614",
+        "5784",
+        "38506",
+        "38496"
+      ]
+    },
+    {
+      "retrieval_score": 0.838378,
+      "text": "core_product_name: oil level controller",
+      "core_id": 1583.0,
+      "raw_product_name": "OIL LEVEL CONTROLLER",
+      "list_of_product_ids": [
+        "21631",
+        "21640",
+        "21635",
+        "21756"
+      ]
+    },
+    {
+      "retrieval_score": 0.83834434,
+      "text": "core_product_name: transparent level gauge",
+      "core_id": 1331.0,
+      "raw_product_name": "LEVEL GAUGES (TRANSPARENT)",
+      "list_of_product_ids": [
+        "13573",
+        "17074",
+        "21347",
+        "21754",
+        "23034"
+      ]
+    },
+    {
+      "retrieval_score": 0.8382425,
+      "text": "core_product_name: position transducer",
+      "core_id": 1838.0,
+      "raw_product_name": "Position Transducer",
+      "list_of_product_ids": [
+        "7075",
+        "7402",
+        "10513",
+        "11844",
+        "18018"
+      ]
+    },
+    {
+      "retrieval_score": 0.83798283,
+      "text": "core_product_name: flow indicator",
+      "core_id": 937.0,
+      "raw_product_name": "FLOW INDICATOR",
+      "list_of_product_ids": [
+        "165",
+        "441",
+        "654",
+        "127",
+        "339"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "HALF BRICK MASONARY  with bricks of CLASS 5.0-Non FIM Items. Providing and laying HALF BRICK MASONRY with bricks of CLASS 5.0 in cement mortar 1:4 (1 Cement : 4 Sand)in any",
+      "core_product_name": "half brick masonry",
+      "acronymed_core_product_name": "",
+      "size": "class: 5.0",
+      "feature_or_specifications": "material: bricks, mortar ratio: 1:4 (1 cement : 4 sand)",
+      "quantity": "5.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "DEMOLISHING AND DISMANTLING (REFER SPEC NO. 6- 68-0012). Brickwork - Non FIM Items. Demolishing BRICKWORK (taking all necessary safety precautions) for all depths below plinth level including supply",
+      "core_product_name": "demolishing brickwork",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: taking all necessary safety precautions, depth: below plinth level",
+      "quantity": "30.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "DEMOLISHING AND DISMANTLING (REFER SPEC NO. 6- 68-0012). Brickwork - Non FIM Items. Demolishing BRICKWORK (taking all necessary safety precautions) for all heights above plinth level including",
+      "core_product_name": "demolishing brickwork",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: taking all necessary safety precautions, height: above plinth level",
+      "quantity": "30.0",
+      "unit": "m³"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      600,
+      609
+    ],
+    "original_rows": [
+      {
+        "0": 601,
+        "1": 0,
+        "2": "01CS.7.9.4",
+        "3": "Providing and laying BRICK MASONRY WITH BRICKS OF CLASS 5.0 in cement mortar 1:6 (1 Cement : 6 Sand) in one",
+        "4": 0.5,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 602,
+        "1": 0,
+        "2": "01CS.7.11",
+        "3": "HALF BRICK MASONARY  with bricks of CLASS 5.0-Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 603,
+        "1": 0,
+        "2": "01CS.7.11.1",
+        "3": "Providing and laying HALF BRICK MASONRY with bricks of CLASS 5.0 in cement mortar 1:4 (1 Cement : 4 Sand)in any",
+        "4": 5.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 604,
+        "1": 0,
+        "2": "01CS.10",
+        "3": "DEMOLISHING AND DISMANTLING (REFER SPEC NO. 6- 68-0012)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 605,
+        "1": 0,
+        "2": "01CS.10.1",
+        "3": "Brickwork - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 606,
+        "1": 0,
+        "2": "01CS.10.1.1",
+        "3": "Demolishing BRICKWORK (taking all necessary safety precautions) for all depths below plinth level including supply",
+        "4": 30.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 607,
+        "1": 0,
+        "2": "01CS.10.1.2",
+        "3": "Demolishing BRICKWORK (taking all necessary safety precautions) for all heights above plinth level including",
+        "4": 30.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 608,
+        "1": 0,
+        "2": "01CS.10.2",
+        "3": "RCC - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 609,
+        "1": 0,
+        "2": "01CS.10.2.3",
+        "3": "Chipping of RCC WORK (taking all necessary safety precautions) by CHISELLING, upto & inclusive of 25mm",
+        "4": 0.5,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 610,
+        "1": 0,
+        "2": "01CS.10.2.4",
+        "3": "Chipping of RCC WORK (taking all necessary safety precautions) by CHISELLING, beyond 25mm and upto &",
+        "4": 0.5,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2552,
+    "completion_tokens": 784
+  }
+}

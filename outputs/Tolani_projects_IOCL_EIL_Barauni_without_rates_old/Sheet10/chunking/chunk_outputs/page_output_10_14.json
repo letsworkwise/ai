@@ -1,0 +1,60 @@
+{
+  "sheet_name": "Sheet10",
+  "boq_context": " |  |  |  |  | \n |  |  |  |  | \nSUMMARY FOR BARAUNI TANK |  |  |  |  | \n |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "commissioning Assistance",
+      "core_product_name": "commissioning assistance",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "0.0",
+      "unit": ""
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      10,
+      13
+    ],
+    "original_rows": [
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": 0.0,
+        "5": 0.0
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": 0.0,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": 0.0,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": 0.0,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 1773,
+    "completion_tokens": 107
+  }
+}

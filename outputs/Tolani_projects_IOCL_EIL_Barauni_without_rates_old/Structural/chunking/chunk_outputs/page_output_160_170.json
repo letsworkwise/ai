@@ -1,0 +1,148 @@
+{
+  "sheet_name": "Structural",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Dismantling structural steel already erected by others including provision of adequate temporary supports, bracings etc. wherever required, to ensure safety of the affected structure or part thereof, and replacing back all original members into their respective positions true to line and level, removing all temporary supports/bracings, welding/bolting of the end connections, splicing or strengthening the member and their joints to regain original strengths, all complete as directed by the Engineer-in- Charge. Note: The weight of dismantled and re- erected structure shall be measured only once.(SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE)",
+      "core_product_name": "structural steel dismantling",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "provision: adequate temporary supports, bracings, safety: ensure safety of affected structure or part, replacement: all original members into respective positions, connection: welding/bolting of end connections, strengthening: splicing or strengthening member and joints, direction: as directed by engineer-in-charge, note: weight of dismantled and re-erected structure measured only once, supply: all materials in contractor's scope",
+      "quantity": "0.5",
+      "unit": "mt"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      160,
+      169
+    ],
+    "original_rows": [
+      {
+        "0": 635,
+        "1": 0,
+        "2": "01CS.18.9.1",
+        "3": "Dismantling structural steel already erected by others including provision of adequate temporary supports, bracings etc. wherever required, to ensure safety of the affected structure or part thereof, and replacing back all original members into their respective positions true to line and level, removing all temporary supports/bracings, welding/bolting of the end connections, splicing or strengthening the member and their joints to regain original strengths, all complete as directed by the Engineer-in- Charge. Note: The weight of dismantled and re- erected structure shall be measured only once.(SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE)",
+        "4": 0.5,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 636,
+        "1": 0,
+        "2": "01CS.22",
+        "3": "TESTING, REPAIR & REHABILITATION OF STRUCTURE",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 637,
+        "1": 0,
+        "2": "01CS.22.1",
+        "3": "Non-destructive/ Partial Destructive Testing - Non FIM Item",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 638,
+        "1": 0,
+        "2": "01CS.22.1.1",
+        "3": "Ultrasonic Pulse Velocity (UPV) measurement in accordance with IS:13311 Part-1 by measuring the time taken for travel of a known distance through concrete medium being tested. The rate shall include the necessary surface preparation including its smoothening and making it flat, application of petroleum jelly, etc necessary for intimate contact of the transmitter & receiver with the concrete surface, recording the minimum & stable reading, necessary scaffolding and platform, presentation of results in an acceptable format etc all complete. All materials, tools, tackles, etc. shall be in contractor's scope.",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 639,
+        "1": 0,
+        "2": "01CS.22.1.2",
+        "3": "Measurement of Rebound Index in accordance with IS:13311 Part-2 for a location on concrete surface with calibrated rebound hammer placed perpendicular to the surface and taking required number of rebound readings. The rate shall include surface preparation, which shall cover removal of surface plaster, if any, with chisel etc, removal of cement slurry layer from concrete surface with grinding stone, making surface even & smooth, necessary scaffolding and platform, presentation of results in an acceptable format etc. all complete. All materials, tools, tackles, etc. shall be in contractor's scope.",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 640,
+        "1": 0,
+        "2": "01CS.22.1.5",
+        "3": "\"Cutting and extracting undisturbed concrete core of 60 mm to 75 mm diameter preferably with its length finished after end preparation equal to twice the diameter but in any case not less than the diameter of the core, without encountering any steel reinforcement from the RCC members at specified locations with portable power driven core cutting equipment. After the core has been extracted, the hole shall be made good by plugging with dry pack concrete and finished as per the existing finish. The rate shall include necessary scaffolding and platform and cost of all the operations, scanning T&P and materials etc complete and testing the extracted concrete cores (as per relevant BIS / BS / ASTM codes) for the following: a) Evaluating compressive strength b) Determining density of concrete c) Determining permeability of concrete d) Determining depth of carbonation with phenolphthalein indicator e) Determining the total acid soluble chloride content in concrete as per BS 1881: Part 124 f) Determining the total sulphate contents in concrete expressed as sulphate by mass of concrete as per BS 1881: Part 124 g) Determining pH value of concrete sample using pH meter electrode conforming to IS:2711 and testing according to IS 13435: Part 4\"",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 641,
+        "1": 0,
+        "2": "01CS.22.1.7",
+        "3": "\"Scanning the concrete surface with standard non-destructive embedded metal detecting instrument and plotting the reinforcement scan, determining its diameter and concrete cover thickness and providing the following: a) Plot of reinforcement (spacing etc.) b) Cover thickness c) Bar diameter\"",
+        "4": 20.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 642,
+        "1": 0,
+        "2": "01CS.22.1.9",
+        "3": "Preparation of complete health assessment report based on conducted visual inspection and non-destructive/ partial destructive testing as per relevant items, which should include detailed observation and results of tests, test interpretation, test procedures, crack profile in detail and indicating crack location, dimension & thickness, record of regular calibration of the NDT equipments test results, recommendations & suggestive retrofitting/ repair schemes etc. in drawing/ document format for improving the structural integrity all complete. Record/ documents and reports shall be provided given in neatly typed, bound and in professionally prepared volumes. All the inspection/ measurement locations shall be defined on proper developed sketches of structure. Obtaining owner's observations/ comments and incorporating the same in the report.",
+        "4": 2.0,
+        "5": "Set",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 643,
+        "1": 0,
+        "2": "01CS.23",
+        "3": "SAFETY (REFER EIL SPECIFICATION)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 644,
+        "1": 0,
+        "2": "01CS.23.2",
+        "3": "Supply of Safety Personnel",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 3174,
+    "completion_tokens": 1918
+  }
+}

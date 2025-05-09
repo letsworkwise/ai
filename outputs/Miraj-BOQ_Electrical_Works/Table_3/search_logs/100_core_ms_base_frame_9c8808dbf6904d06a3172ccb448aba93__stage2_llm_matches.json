@@ -1,0 +1,75 @@
+{
+  "query": "core_product_name: ms base frame | feature_or_specifications: material: ms(mild steel), includes: channels, angles, pipes, plates, process: welding, bolting, riveting, grouting, coating: one coat of primer and two finished coats of approved epoxy anticorrosive paint",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flat | acronymed_core_product_name: m. s. flat (mild steel flat) | material: Mild Steel (M. S.)",
+        "raw_product_name": "MILD STEEL FLAT (M. S. FLAT)",
+        "list_of_product_ids": [
+          "17119",
+          "17126",
+          "17135",
+          "17133",
+          "17129",
+          "19597",
+          "33984",
+          "17156",
+          "35811"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: ladder | material: Mild Steel (MS)",
+        "raw_product_name": "MILD STEEL LADDERS",
+        "list_of_product_ids": [
+          "274",
+          "932",
+          "750",
+          "927",
+          "490"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flange | material: MS (Mild Steel)",
+        "raw_product_name": "FLANGE (MS) /Mild Steel Flange",
+        "list_of_product_ids": [
+          "10255",
+          "10260",
+          "10265",
+          "10270",
+          "10277",
+          "9941",
+          "9942",
+          "9947",
+          "9948",
+          "10225",
+          "9964",
+          "10238",
+          "10239",
+          "10244",
+          "10249",
+          "13101",
+          "17431",
+          "24567",
+          "25825"
+        ]
+      }
+    }
+  ]
+}

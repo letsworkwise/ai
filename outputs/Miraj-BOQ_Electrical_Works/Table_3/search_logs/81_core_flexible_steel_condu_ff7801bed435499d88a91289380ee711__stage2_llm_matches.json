@@ -1,0 +1,67 @@
+{
+  "query": "core_product_name: flexible steel conduit | size: diameter: 20 mm, thickness: 1.6mm | feature_or_specifications: material: steel, type: flexible",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: structural tube | material: Steel",
+        "raw_product_name": "STRUCTURAL STEEL TUBE",
+        "list_of_product_ids": [
+          "18839",
+          "19006",
+          "18827",
+          "35224",
+          "35225",
+          "35223"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: casting | material: Steel",
+        "raw_product_name": "STEEL CASTING",
+        "list_of_product_ids": [
+          "24961",
+          "24958",
+          "26780",
+          "39754",
+          "39847",
+          "39875",
+          "39930",
+          "40008",
+          "40298"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: coil | material: Steel",
+        "raw_product_name": "STEEL COILS",
+        "list_of_product_ids": [
+          "13492",
+          "13561",
+          "15838",
+          "17835",
+          "18367",
+          "21289",
+          "21286",
+          "22539",
+          "38279",
+          "35273",
+          "38265"
+        ]
+      }
+    }
+  ]
+}

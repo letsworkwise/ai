@@ -1,0 +1,16 @@
+{
+  "final_variant_matches": [
+    {
+      "text": "core_product_name: main lighting distribution board | acronymed_core_product_name: MLDB (Main Lighting Distribution Board)",
+      "raw_product_name": "MLDB"
+    },
+    {
+      "text": "core_product_name: fixed switchboard | acronymed_core_product_name: switchboard-mv | type_or_class: Medium Voltage (MV) | type_or_class: Motor Control Center (MCC) or Automatic Switchboard (ASB) or Lighting Distribution Board (LDB)",
+      "raw_product_name": "SWITCHBOARD-MV:MCC/ASB/LDB-FIXED TYPE"
+    },
+    {
+      "text": "core_product_name: flame proof local distribution board | acronymed_core_product_name: ldb (local distribution board) | protection_features: Flame proof",
+      "raw_product_name": "FLAME PROOF LDB’S"
+    }
+  ]
+}

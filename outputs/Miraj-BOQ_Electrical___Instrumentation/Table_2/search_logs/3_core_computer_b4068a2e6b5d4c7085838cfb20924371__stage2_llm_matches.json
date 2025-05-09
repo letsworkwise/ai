@@ -1,0 +1,66 @@
+{
+  "query": "core_product_name: computer | size: monitor size: 22 inch | feature_or_specifications: feature: led colour monitor, feature: standard keyboard, feature: for sap terminal, feature: for generating printing invoice",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: monitor",
+        "raw_product_name": "WATER MONITOR",
+        "list_of_product_ids": [
+          "6039",
+          "5218",
+          "9825",
+          "9830",
+          "9835",
+          "9840",
+          "8259",
+          "8296",
+          "8316",
+          "8739",
+          "9230",
+          "16411",
+          "24091",
+          "23518",
+          "37476"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: remote controlled monitor",
+        "raw_product_name": "REMOTE CONTROLLED MONITORS",
+        "list_of_product_ids": [
+          "6042",
+          "5221",
+          "8319",
+          "24103",
+          "22791"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: computer maintenance",
+        "raw_product_name": "COMPUTER MAINTENANCE",
+        "list_of_product_ids": [
+          "193",
+          "231",
+          "932",
+          "428",
+          "719"
+        ]
+      }
+    }
+  ]
+}

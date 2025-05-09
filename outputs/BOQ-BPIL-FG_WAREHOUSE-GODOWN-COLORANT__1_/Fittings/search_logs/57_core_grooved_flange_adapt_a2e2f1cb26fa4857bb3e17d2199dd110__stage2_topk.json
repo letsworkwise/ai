@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: grooved flange adaptor | size: pipe size: 150 NB",
+  "retrieval_results": [
+    {
+      "id": "variant-8b17e0b9-66f6-5d0e-86c3-90233954cdce",
+      "score": 0.8591086,
+      "metadata": {
+        "text": "core_product_name: pipe fitting",
+        "raw_product_name": "PIPE FITTINGS",
+        "list_of_product_ids": "22332,22331,22330,23352,23353,24583,36871,30825,36882,37027,28815,37304,36590,33279,33280,33281,37015,37157,36862,35736,35737,35738,35739,35740,35741,35742,36885,36524",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-7fe0ad8e-24a9-5c57-a81e-ccf349532bd4",
+      "score": 0.85833,
+      "metadata": {
+        "text": "core_product_name: pipe | accessories_or_attachments: Nozzle",
+        "raw_product_name": "BRANCH PIPE WITH NOZZLE",
+        "list_of_product_ids": "8886,8915,9820,9056,9048,9052,9134,37474,37475",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.8550931,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    },
+    {
+      "id": "variant-79e34a67-ef11-56c8-9cb0-0ea71ddda0de",
+      "score": 0.85443866,
+      "metadata": {
+        "text": "core_product_name: flange",
+        "raw_product_name": "FLANGES",
+        "list_of_product_ids": "5445,6068,6902,9990,9987,11093,11095,40331,40332,10738,11699,10739,11251,10740,10742,10165,36909,11403,6908,6900,6925,6929,6933,6927,6931,7714,7715,9313,8791,8792,8794,8790,8823,8793,8880,12380,13051,13319,15743,16378,16613,16580,24554,18182,18206,29472,36906,18894,18938,20065,19843,7713,36873,30636,30688,37305,36934,32262,36591,37264,36864,35744,35743,36525",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-74503a1f-fa22-5c08-ac97-9f8dba31f1f4",
+      "score": 0.8541807,
+      "metadata": {
+        "text": "core_product_name: conduit fitting",
+        "raw_product_name": "FITTINGS (CONDUIT)",
+        "list_of_product_ids": "165,391,654,021,574",
+        "core_id": 870.0
+      }
+    },
+    {
+      "id": "variant-1db4e99b-7e61-5b85-b423-76e2c8c1a44a",
+      "score": 0.8514124,
+      "metadata": {
+        "text": "core_product_name: welded pipe fitting",
+        "raw_product_name": "PIPE FITTINGS WELDED",
+        "list_of_product_ids": "14095,15741,16054,16259,16577,19721,20934,22919,16612",
+        "core_id": 1659.0
+      }
+    },
+    {
+      "id": "variant-fd020e37-6f78-5f8a-a6b7-9c8e751b5e9c",
+      "score": 0.85136706,
+      "metadata": {
+        "text": "core_product_name: orifice plate | accessories_or_attachments: Flanges",
+        "raw_product_name": "ORIFICE PLATES & FLANGES",
+        "list_of_product_ids": "6540,5711,11161,10380,10551,10199,8333,8389,8452,12199,12725,12748,12746,13075,13400,13401,36538,19243,17296,17289,17656,17687,17680,21401,17219,24556,31187,36625,35156,36215,36367",
+        "core_id": 1603.0
+      }
+    },
+    {
+      "id": "variant-a42bdd25-7045-52a3-ba51-f803ecb7d773",
+      "score": 0.85102975,
+      "metadata": {
+        "text": "core_product_name: forged pipe fitting",
+        "raw_product_name": "FORGED PIPE FITTINGS",
+        "list_of_product_ids": "13663,14901,15749,16041,16260,19726,19799,20064,22660,22654,22913",
+        "core_id": 971.0
+      }
+    },
+    {
+      "id": "variant-bb96db43-a603-5b08-b082-1a787ab9db3c",
+      "score": 0.85052806,
+      "metadata": {
+        "text": "core_product_name: conduit accessory",
+        "raw_product_name": "CONDUIT ACCESSORIES",
+        "list_of_product_ids": "20550,20514,20591,20632,20686,20744",
+        "core_id": 439.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.84984016,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    },
+    {
+      "id": "variant-f9d0f089-635a-5d99-871b-36ab7568eaca",
+      "score": 0.84926975,
+      "metadata": {
+        "text": "core_product_name: cross fitting | special_attributes: Seamless (pipes)",
+        "raw_product_name": "FIITINGS CROSS-FROM SEAMLESS PIPES",
+        "list_of_product_ids": "6319,5490,11288,33988,33987,33986",
+        "core_id": 822.0
+      }
+    },
+    {
+      "id": "variant-8d00b73b-5dbc-5a15-9977-16b46a2060ab",
+      "score": 0.84898335,
+      "metadata": {
+        "text": "core_product_name: valve fitting",
+        "raw_product_name": "VALVES FITTING",
+        "list_of_product_ids": "8612",
+        "core_id": 2379.0
+      }
+    },
+    {
+      "id": "variant-51099c41-aa43-5333-9366-8cb60cfc4c26",
+      "score": 0.84887743,
+      "metadata": {
+        "text": "core_product_name: flange | material: Incoloy",
+        "raw_product_name": "FLANGES (INCOLOY)",
+        "list_of_product_ids": "20905,24572,24650,37037",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-94afc0d1-e0c4-562d-b6d3-a66d8aa3ea57",
+      "score": 0.84726816,
+      "metadata": {
+        "text": "core_product_name: conduit pipe",
+        "raw_product_name": "CONDUIT PIPE",
+        "list_of_product_ids": "222,962,229,728,617",
+        "core_id": 440.0
+      }
+    },
+    {
+      "id": "variant-7aa48c98-4b7d-5946-8320-0a44853c6ebb",
+      "score": 0.8472111,
+      "metadata": {
+        "text": "core_product_name: component pipe support",
+        "raw_product_name": "Pipe Support components",
+        "list_of_product_ids": "7539,9978,7213,7829,9704,14956",
+        "core_id": 1832.0
+      }
+    },
+    {
+      "id": "variant-7a47b8db-ee25-518f-9ee3-4b13bf063bda",
+      "score": 0.84715575,
+      "metadata": {
+        "text": "core_product_name: large-diameter pipe",
+        "raw_product_name": "Large-diameter pipe",
+        "list_of_product_ids": "758,772,628,028",
+        "core_id": 1410.0
+      }
+    },
+    {
+      "id": "variant-c3753f45-57cf-541d-9d01-f130037050a7",
+      "score": 0.8470625,
+      "metadata": {
+        "text": "core_product_name: hose fitting",
+        "raw_product_name": "HOSE FITTINGS",
+        "list_of_product_ids": "214,192,141,828,587",
+        "core_id": 1146.0
+      }
+    },
+    {
+      "id": "variant-80846140-9c60-5177-8bda-746bfe44d073",
+      "score": 0.84678775,
+      "metadata": {
+        "text": "core_product_name: flange | material: Titanium",
+        "raw_product_name": "FLANGE (TITANIUM)",
+        "list_of_product_ids": "20205,20213,20294,20270,20321,20363",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-8f6f91bf-b977-5254-b6f7-c761bf9f45a8",
+      "score": 0.84674114,
+      "metadata": {
+        "text": "core_product_name: orifice flange",
+        "raw_product_name": "ORIFICE - FLANGES",
+        "list_of_product_ids": "340,383,406,334,035",
+        "core_id": 1601.0
+      }
+    },
+    {
+      "id": "variant-7d01faaf-1c91-53b8-af60-366b4bc3cea8",
+      "score": 0.8463471,
+      "metadata": {
+        "text": "core_product_name: reduced flange",
+        "raw_product_name": "REDUCED FLANGE",
+        "list_of_product_ids": "15468,15474,15476,15477",
+        "core_id": 1879.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.84623986,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-3f2acb41-a1eb-5138-ad21-61ecd0048e63",
+      "score": 0.84607846,
+      "metadata": {
+        "text": "core_product_name: pipeline connector",
+        "raw_product_name": "PIPELINE CONNECTORS",
+        "list_of_product_ids": "6,011,519,022,696",
+        "core_id": 1679.0
+      }
+    },
+    {
+      "id": "variant-d617e5c1-f2a0-5f39-9d41-380647ad2f39",
+      "score": 0.8458511,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "PIPES",
+        "list_of_product_ids": "6282,5452,11043,10725,11044,10336,10697,6906,7716,7718,7717,7719,8063,8065,8062,8064,12663,12664,12667,12668,12671,13024,13026,13028,13123,13316,16445,36935,33427,33428,33429,33430,33431,33602",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-b28ede24-9ef0-5358-9f86-a7d812b09022",
+      "score": 0.8458511,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "PIPES & TUBULARS",
+        "list_of_product_ids": "6283,5454,7767,7768,7771,11149,10327,11214,11328,11347,10594,7761,7772,7791,8066,12665,12676,13019,13022,13034,13232,13303,13346,17643,19699,19767,24025,21790,21016,30015,36868,31708,31762,31764,31763,30014,36877",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-b39351ea-cb75-5b3a-8d9a-2a05878b4337",
+      "score": 0.8458511,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "Pipes for optimizing pipelines",
+        "list_of_product_ids": "759,172,668,032",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-a47fe2d5-edbc-5cd2-abb3-fb602932eb9f",
+      "score": 0.8457912,
+      "metadata": {
+        "text": "core_product_name: flange | material: Duplex Steel",
+        "raw_product_name": "FLANGES -DUPLEX STEEL",
+        "list_of_product_ids": "17453,17452,24558,24654",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-4913a173-35c9-57a0-be11-6babe2e9c5c0",
+      "score": 0.8457657,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "PIPES- INDIAN STOCKIST",
+        "list_of_product_ids": "30891,30899,30890,30889,30882,30884,30883,30885,30888,30887,30886",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-b08f8763-87d3-5136-a6d0-f8e112b85154",
+      "score": 0.8456376,
+      "metadata": {
+        "text": "core_product_name: flange | material: Exotic",
+        "raw_product_name": "FLANGES-EXOTIC",
+        "list_of_product_ids": "6276,5446,10701,8782,12877,12873,12890,12896,12924,12939,12947,12955,12899,12943,12951,21701,24555",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-25f9ab06-5a4e-5d74-8131-53caf3e9c221",
+      "score": 0.84509414,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | material: Non Ferrous",
+        "raw_product_name": "NON FERROUS PIPE FITTINGS",
+        "list_of_product_ids": "22328,22326,23499,28817",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-480b5587-5fb6-572c-95ab-e13c28298ad6",
+      "score": 0.84464145,
+      "metadata": {
+        "text": "core_product_name: forged flange",
+        "raw_product_name": "FLANGE- FORGED",
+        "list_of_product_ids": "7601,7276,8118,12390,13298,19714,22675,17413,37072,37073,37079,37080",
+        "core_id": 901.0
+      }
+    }
+  ]
+}

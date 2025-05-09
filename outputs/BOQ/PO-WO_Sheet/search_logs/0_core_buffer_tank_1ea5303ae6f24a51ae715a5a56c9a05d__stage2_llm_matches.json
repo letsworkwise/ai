@@ -1,0 +1,76 @@
+{
+  "query": "core_product_name: buffer tank | size: capacity: 990 LTR, wall: single | feature_or_specifications: feature: supply, installation, testing, commissioning",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: tank | acronymed_core_product_name: tank (IBD) | type_or_class: IBD (Inlet Buffer Drum)",
+        "raw_product_name": "TANK(IBD)",
+        "list_of_product_ids": [
+          "21066",
+          "21115",
+          "21124",
+          "21141",
+          "21108",
+          "21216",
+          "21709",
+          "35683"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: shop fabricated tank",
+        "raw_product_name": "SHOP FABRICATED TANK",
+        "list_of_product_ids": [
+          "7037",
+          "7364",
+          "11705",
+          "11497",
+          "12044",
+          "12854",
+          "13001",
+          "13072",
+          "15859",
+          "17343",
+          "22796",
+          "26143",
+          "37268",
+          "37271",
+          "37276",
+          "37278"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: storage tank",
+        "raw_product_name": "STORAGE TANK",
+        "list_of_product_ids": [
+          "20109",
+          "20123",
+          "20708",
+          "37075",
+          "35997",
+          "36142",
+          "36153",
+          "36284",
+          "36290",
+          "36303"
+        ]
+      }
+    }
+  ]
+}

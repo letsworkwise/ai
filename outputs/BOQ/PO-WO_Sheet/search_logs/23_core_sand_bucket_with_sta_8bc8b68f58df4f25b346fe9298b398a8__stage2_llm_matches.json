@@ -1,0 +1,69 @@
+{
+  "query": "core_product_name: sand bucket with stand",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: bucket",
+        "raw_product_name": "ELEVATOR -BUCKET",
+        "list_of_product_ids": [
+          "6124",
+          "5291",
+          "9598",
+          "9720",
+          "9741",
+          "9736"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire bucket",
+        "raw_product_name": "FIRE BUCKET",
+        "list_of_product_ids": [
+          "19466",
+          "19467",
+          "19465",
+          "19463",
+          "19523",
+          "19530",
+          "19551",
+          "19558"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: steam trap | type_or_class: bucket or thermodynamic (TH.DYN) or thermostatic (TH.STAT) or float",
+        "raw_product_name": "STEAM TRAPS-BUCKET/TH.DYN/TH.STAT/FLOAT",
+        "list_of_product_ids": [
+          "6009",
+          "5188",
+          "10417",
+          "11477",
+          "11475",
+          "8385",
+          "8439",
+          "8573",
+          "8859",
+          "12840",
+          "22045",
+          "22694",
+          "23713",
+          "23685"
+        ]
+      }
+    }
+  ]
+}

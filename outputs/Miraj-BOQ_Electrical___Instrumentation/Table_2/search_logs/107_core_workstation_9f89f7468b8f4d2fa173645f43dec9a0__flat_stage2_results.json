@@ -1,0 +1,449 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8513516,
+      "text": "core_product_name: data storage system",
+      "core_id": 649.0,
+      "raw_product_name": "Data storage system",
+      "list_of_product_ids": [
+        "7084",
+        "7411",
+        "18425",
+        "18424"
+      ]
+    },
+    {
+      "retrieval_score": 0.84919345,
+      "text": "core_product_name: control room",
+      "core_id": 457.0,
+      "raw_product_name": "CONTROL ROOM",
+      "list_of_product_ids": [
+        "19383",
+        "19371",
+        "19373",
+        "23748"
+      ]
+    },
+    {
+      "retrieval_score": 0.84886926,
+      "text": "core_product_name: local control station",
+      "core_id": 1380.0,
+      "raw_product_name": "LOCAL CONTROL STATIONS",
+      "list_of_product_ids": [
+        "99",
+        "911",
+        "003",
+        "018",
+        "831"
+      ]
+    },
+    {
+      "retrieval_score": 0.8476839,
+      "text": "core_product_name: laptop",
+      "core_id": 1320.0,
+      "raw_product_name": "LAPTOPS",
+      "list_of_product_ids": [
+        "142",
+        "481",
+        "529",
+        "918",
+        "835"
+      ]
+    },
+    {
+      "retrieval_score": 0.847536,
+      "text": "core_product_name: computer maintenance",
+      "core_id": 422.0,
+      "raw_product_name": "COMPUTER MAINTENANCE",
+      "list_of_product_ids": [
+        "193",
+        "231",
+        "932",
+        "428",
+        "719"
+      ]
+    },
+    {
+      "retrieval_score": 0.8467387,
+      "text": "core_product_name: machine monitoring system",
+      "core_id": 1418.0,
+      "raw_product_name": "MACHINE MONITORING SYSTEMS",
+      "list_of_product_ids": [
+        "6478",
+        "5649",
+        "12455",
+        "32772",
+        "38192"
+      ]
+    },
+    {
+      "retrieval_score": 0.8456892,
+      "text": "core_product_name: control desk",
+      "core_id": 452.0,
+      "raw_product_name": "CONTROL DESK",
+      "list_of_product_ids": [
+        "14011",
+        "17257",
+        "19417",
+        "19412",
+        "36643"
+      ]
+    },
+    {
+      "retrieval_score": 0.845377,
+      "text": "core_product_name: system panel",
+      "core_id": 2180.0,
+      "raw_product_name": "SYSTEM PANELS",
+      "list_of_product_ids": [
+        "1",
+        "413",
+        "621",
+        "099"
+      ]
+    },
+    {
+      "retrieval_score": 0.84485954,
+      "text": "core_product_name: power management system",
+      "core_id": 1744.0,
+      "raw_product_name": "POWER MANAGEMENT SYSTEM",
+      "list_of_product_ids": [
+        "138",
+        "561",
+        "462",
+        "423",
+        "212"
+      ]
+    },
+    {
+      "retrieval_score": 0.8446083,
+      "text": "core_product_name: access chamber",
+      "core_id": 26.0,
+      "raw_product_name": "ACCESS CHAMBER",
+      "list_of_product_ids": [
+        "158",
+        "151",
+        "585",
+        "815",
+        "880"
+      ]
+    },
+    {
+      "retrieval_score": 0.84388614,
+      "text": "core_product_name: monitor",
+      "core_id": 2443.0,
+      "raw_product_name": "WATER MONITOR",
+      "list_of_product_ids": [
+        "6039",
+        "5218",
+        "9825",
+        "9830",
+        "9835",
+        "9840",
+        "8259",
+        "8296",
+        "8316",
+        "8739",
+        "9230",
+        "16411",
+        "24091",
+        "23518",
+        "37476"
+      ]
+    },
+    {
+      "retrieval_score": 0.8431908,
+      "text": "core_product_name: access floor system",
+      "core_id": 29.0,
+      "raw_product_name": "ACCESS FLOOR SYSTEM",
+      "list_of_product_ids": [
+        "19257",
+        "28256",
+        "38565",
+        "38555",
+        "38556",
+        "38557",
+        "38559",
+        "39640",
+        "40151",
+        "40157"
+      ]
+    },
+    {
+      "retrieval_score": 0.8427311,
+      "text": "core_product_name: management system",
+      "core_id": 2200.0,
+      "raw_product_name": "TANK FARM MANAGEMENT SYSTEM",
+      "list_of_product_ids": [
+        "6585",
+        "5755",
+        "11689",
+        "11698",
+        "10102",
+        "10116",
+        "11714",
+        "13223",
+        "21062",
+        "35434"
+      ]
+    },
+    {
+      "retrieval_score": 0.8424876,
+      "text": "core_product_name: ventilation system",
+      "core_id": 2389.0,
+      "raw_product_name": "VENTILATION SYSTEM",
+      "list_of_product_ids": [
+        "7062",
+        "7389",
+        "8497",
+        "8501",
+        "18414"
+      ]
+    },
+    {
+      "retrieval_score": 0.84236765,
+      "text": "core_product_name: equipment",
+      "core_id": 460.0,
+      "raw_product_name": "CONTROL ROOM EQUIPMENT",
+      "list_of_product_ids": [
+        "14034",
+        "14815",
+        "17256",
+        "21098"
+      ]
+    },
+    {
+      "retrieval_score": 0.84202635,
+      "text": "core_product_name: ground monitoring system",
+      "core_id": 1079.0,
+      "raw_product_name": "GROUND MONITORING SYSTEMS",
+      "list_of_product_ids": [
+        "6629",
+        "5799",
+        "10305",
+        "24235",
+        "19579"
+      ]
+    },
+    {
+      "retrieval_score": 0.8419368,
+      "text": "core_product_name: computer software",
+      "core_id": 423.0,
+      "raw_product_name": "COMPUTER SOFTWARE",
+      "list_of_product_ids": [
+        "193",
+        "121",
+        "931",
+        "327",
+        "257"
+      ]
+    },
+    {
+      "retrieval_score": 0.8416162,
+      "text": "core_product_name: network component",
+      "core_id": 1544.0,
+      "raw_product_name": "NETWORK COMPONENTS",
+      "list_of_product_ids": [
+        "137",
+        "882",
+        "017",
+        "621",
+        "241"
+      ]
+    },
+    {
+      "retrieval_score": 0.8415768,
+      "text": "core_product_name: net oil computer",
+      "core_id": 1539.0,
+      "raw_product_name": "NET OIL COMPUTERS",
+      "list_of_product_ids": [
+        "13787",
+        "15020",
+        "15023",
+        "15041",
+        "15053",
+        "15055",
+        "15085",
+        "15116",
+        "15131",
+        "15139",
+        "15147",
+        "15219",
+        "15225",
+        "15227",
+        "15230",
+        "15232",
+        "15276",
+        "15242",
+        "15256",
+        "15268",
+        "15272",
+        "36105",
+        "36180",
+        "36328"
+      ]
+    },
+    {
+      "retrieval_score": 0.8408942,
+      "text": "core_product_name: stack emission monitoring system",
+      "core_id": 2097.0,
+      "raw_product_name": "STACK EMMISSION MONITORING SYSTEM",
+      "list_of_product_ids": [
+        "1",
+        "403",
+        "321",
+        "845"
+      ]
+    },
+    {
+      "retrieval_score": 0.8408749,
+      "text": "core_product_name: drive arrangement",
+      "core_id": 624.0,
+      "raw_product_name": "DRIVE ARRANGEMENT FOR CLINKER GRINDER",
+      "list_of_product_ids": [
+        "1",
+        "344",
+        "114",
+        "445"
+      ]
+    },
+    {
+      "retrieval_score": 0.8407761,
+      "text": "core_product_name: machine",
+      "core_id": 1420.0,
+      "raw_product_name": "MACHINE",
+      "list_of_product_ids": [
+        "24311",
+        "24313",
+        "39774",
+        "26875",
+        "39517",
+        "39044",
+        "39193",
+        "39235",
+        "39274",
+        "39351",
+        "39462",
+        "39502",
+        "39707",
+        "39863",
+        "39953",
+        "40014",
+        "40061",
+        "40111",
+        "40221",
+        "40249",
+        "40288"
+      ]
+    },
+    {
+      "retrieval_score": 0.84074855,
+      "text": "core_product_name: video wall",
+      "core_id": 2418.0,
+      "raw_product_name": "Video wall",
+      "list_of_product_ids": [
+        "7081",
+        "7408",
+        "18012",
+        "18421",
+        "18416"
+      ]
+    },
+    {
+      "retrieval_score": 0.8404848,
+      "text": "core_product_name: gallery",
+      "core_id": 473.0,
+      "raw_product_name": "CONVEYER GALLERIES",
+      "list_of_product_ids": [
+        "210",
+        "412",
+        "104",
+        "227",
+        "102"
+      ]
+    },
+    {
+      "retrieval_score": 0.84033513,
+      "text": "core_product_name: fieldbus monitor",
+      "core_id": 821.0,
+      "raw_product_name": "FIELDBUS MONITOR",
+      "list_of_product_ids": [
+        "5",
+        "948",
+        "677",
+        "710",
+        "076"
+      ]
+    },
+    {
+      "retrieval_score": 0.8395702,
+      "text": "core_product_name: at site material handling and transportation",
+      "core_id": 1445.0,
+      "raw_product_name": "MATERIAL HANDLING AND TRANSPORTATION AT SITE",
+      "list_of_product_ids": [
+        "35825",
+        "35831",
+        "35840",
+        "35879",
+        "36082",
+        "40091"
+      ]
+    },
+    {
+      "retrieval_score": 0.83926576,
+      "text": "core_product_name: site fabricated storage tank",
+      "core_id": 2038.0,
+      "raw_product_name": "SITE FABRICATED STORAGE TANKS",
+      "list_of_product_ids": [
+        "1",
+        "395",
+        "423",
+        "053"
+      ]
+    },
+    {
+      "retrieval_score": 0.83923227,
+      "text": "core_product_name: security search light system",
+      "core_id": 1989.0,
+      "raw_product_name": "SECURITY SEARCH LIGHT SYSTEM",
+      "list_of_product_ids": [
+        "7",
+        "065",
+        "739",
+        "211",
+        "726"
+      ]
+    },
+    {
+      "retrieval_score": 0.8391609,
+      "text": "core_product_name: semi-rugged laptop",
+      "core_id": 2183.0,
+      "raw_product_name": "Semi-Rugged Laptop",
+      "list_of_product_ids": [
+        "7080",
+        "7407",
+        "11852",
+        "11854"
+      ]
+    },
+    {
+      "retrieval_score": 0.83911455,
+      "text": "core_product_name: access control system",
+      "core_id": 30.0,
+      "raw_product_name": "ACCESS CONTROL SYSTEM",
+      "list_of_product_ids": [
+        "6601",
+        "5771",
+        "10891",
+        "10915",
+        "11070",
+        "10890",
+        "10892",
+        "19260",
+        "19270",
+        "34967",
+        "34987",
+        "35018"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "query": "core_product_name: fuel fitting | feature_or_specifications: type: bends, type: valves, type: flanges",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flange | material: Carbon steel | construction_features: Raised Face (RF)",
+        "raw_product_name": "Carbon steel Flange (RF)",
+        "list_of_product_ids": [
+          "68",
+          "157",
+          "318"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flange | material: Carbon Steel",
+        "raw_product_name": "FLANGE- CARBON STEEL",
+        "list_of_product_ids": [
+          "6273",
+          "5442",
+          "11592",
+          "11400",
+          "7751",
+          "9314",
+          "9323",
+          "8440",
+          "8447",
+          "8472",
+          "8450",
+          "8463",
+          "9392",
+          "8779",
+          "9231",
+          "9232",
+          "9235",
+          "9310",
+          "9317",
+          "9344",
+          "12306",
+          "12342",
+          "12387",
+          "12469",
+          "12766",
+          "12759",
+          "12779",
+          "12874",
+          "12884",
+          "12870",
+          "12887",
+          "12894",
+          "12921",
+          "12928",
+          "12932",
+          "12936",
+          "12944",
+          "12952",
+          "12897",
+          "12904",
+          "12911",
+          "12931",
+          "12940",
+          "12948",
+          "13370",
+          "13377",
+          "15999",
+          "17005",
+          "17518",
+          "17911",
+          "18401",
+          "18895",
+          "18939",
+          "19832",
+          "21671",
+          "21654",
+          "21699",
+          "21732"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flange | material: CS (Carbon Steel)",
+        "raw_product_name": "FLANGE (CS)",
+        "list_of_product_ids": [
+          "20206",
+          "20212",
+          "20295",
+          "20269",
+          "20322",
+          "20364",
+          "24569",
+          "25826",
+          "37252"
+        ]
+      }
+    }
+  ]
+}

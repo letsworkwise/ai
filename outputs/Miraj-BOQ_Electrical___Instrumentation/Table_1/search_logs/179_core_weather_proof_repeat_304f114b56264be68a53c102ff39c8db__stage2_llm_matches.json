@@ -1,0 +1,84 @@
+{
+  "query": "core_product_name: weather proof repeater panel | feature_or_specifications: location: security room, accessories: hooter, indication of fault & lel (lower explosive limit) alarm, connection: gms (gas monitoring system) at cmh (central monitoring hub), as per tender specifications",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: hooter",
+        "raw_product_name": "HOOTER",
+        "list_of_product_ids": [
+          "11069",
+          "11011",
+          "11068",
+          "8898",
+          "8904",
+          "9847",
+          "9856",
+          "9865",
+          "8934",
+          "9077",
+          "9138",
+          "14226",
+          "14228",
+          "14230",
+          "14232",
+          "14235",
+          "14237",
+          "20091",
+          "24029",
+          "33941",
+          "34030",
+          "36090"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: relay and control panel",
+        "raw_product_name": "RELAY & CONTROL PANEL",
+        "list_of_product_ids": [
+          "6389",
+          "5560",
+          "11172",
+          "11457",
+          "7888",
+          "19357",
+          "24445",
+          "24450",
+          "24448",
+          "24827",
+          "24815",
+          "24451",
+          "19363",
+          "24930",
+          "24941",
+          "38203",
+          "38204"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: system panel",
+        "raw_product_name": "SYSTEM PANELS",
+        "list_of_product_ids": [
+          "1",
+          "413",
+          "621",
+          "099"
+        ]
+      }
+    }
+  ]
+}

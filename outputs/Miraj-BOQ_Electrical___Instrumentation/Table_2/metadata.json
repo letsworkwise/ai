@@ -1,0 +1,14 @@
+{
+  "file_path": "/home/student2/Documents/GitHub/1st_AI_Project_Kothari/boq_extraction_2/pipeline_copy_2/inputs/Miraj-BOQ Electrical & Instrumentation.xlsx",
+  "sheet_name": "Table 2",
+  "output_folder": "outputs/Miraj-BOQ_Electrical___Instrumentation/Table_2",
+  "schedule_path": "outputs/Miraj-BOQ_Electrical___Instrumentation/Table_2/schedule_only.xlsx",
+  "context_md": "",
+  "header_md": "",
+  "schedule_start_idx": 0,
+  "max_col_idx": 4,
+  "tokens_used_ctx": [
+    1763,
+    15
+  ]
+}

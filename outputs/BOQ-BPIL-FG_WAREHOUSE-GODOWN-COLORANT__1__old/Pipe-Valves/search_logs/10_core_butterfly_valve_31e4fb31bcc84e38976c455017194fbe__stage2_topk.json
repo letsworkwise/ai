@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: butterfly valve | size: size: 100NB | feature_or_specifications: manufacturer: l&t or audco",
+  "retrieval_results": [
+    {
+      "id": "variant-5824c5a5-a6f4-59a9-8526-cb2a37d80d35",
+      "score": 0.87095666,
+      "metadata": {
+        "text": "core_product_name: special control valve | type_or_class: Butterfly",
+        "raw_product_name": "SPECIAL CONTROL VALVES (BUTTERFLY)",
+        "list_of_product_ids": "6498,5669,10696,8694,12187,20251,22457,22424,22479,36657,28198,28197,28196,28195,28194,28193,28192,28191,28190,35505,36257,36410",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-e95bf32f-2e82-542f-9843-2a3047bb1f54",
+      "score": 0.8709148,
+      "metadata": {
+        "text": "core_product_name: butterfly valve | type_or_class: Concentric",
+        "raw_product_name": "VALVE BUTTERFLY (CONCENTRIC)",
+        "list_of_product_ids": "8557,8668,8724,14023,15088,19362,18066,22545,22652,22769,25971,35497,36183,36331",
+        "core_id": 277.0
+      }
+    },
+    {
+      "id": "variant-2009b63d-69f8-5f58-99da-0adabfb280ee",
+      "score": 0.87003976,
+      "metadata": {
+        "text": "core_product_name: butterfly valve | type_or_class: CCS",
+        "raw_product_name": "VALVE BUTTERFLY - CCS",
+        "list_of_product_ids": "6249,5418,11432,8173,8176,8286,8338,8558,8663,8700,12331,12452,12608,19423,18063,19729,19857,23769,22767,25969,35494",
+        "core_id": 277.0
+      }
+    },
+    {
+      "id": "variant-a559bf05-9a48-5c02-825d-99be39c8bab7",
+      "score": 0.8699106,
+      "metadata": {
+        "text": "core_product_name: reaceable liner butterfly valve | special_attributes: Low Torque",
+        "raw_product_name": "VALVE BUTTERFLY REACEABLE LINER (LOW TORQUE)",
+        "list_of_product_ids": "154,391,879,135,507",
+        "core_id": 2345.0
+      }
+    },
+    {
+      "id": "variant-8fc7594b-3a5f-52bf-bda4-46e9df093538",
+      "score": 0.8696091,
+      "metadata": {
+        "text": "core_product_name: butterfly valve",
+        "raw_product_name": "VALVE BUTTERFLY",
+        "list_of_product_ids": "6248,5417,11058,11064,11059,11062,29397,12273,11143,11650,10367,10319,10412,10442,11428,6847,6851,6856,6861,6866,6871,6876,6881,6886,6891,6896,7853,8155,8161,8168,8169,8331,8655,9039,11972,12607,12611,12653,13124,13282,15485,15176,17237,17757,17825,18092,18898,18942,19856,22404,22433,22427,22712,23529,31661,30835,36660,30955,30843,30849,30850,30871,36773,35492,38421,39970,39757,39924,40040,40147",
+        "core_id": 277.0
+      }
+    },
+    {
+      "id": "variant-3708662a-86e5-52cd-bc52-a9720cd20a80",
+      "score": 0.8685509,
+      "metadata": {
+        "text": "core_product_name: butterfly valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE BUTTERFLY PRE-INSULATION",
+        "list_of_product_ids": "154,401,879,335,504",
+        "core_id": 277.0
+      }
+    },
+    {
+      "id": "variant-b8946a2c-c1ca-59b6-8129-c47891aa48a8",
+      "score": 0.8684951,
+      "metadata": {
+        "text": "core_product_name: control butterfly valve | type_or_class: Butterfly",
+        "raw_product_name": "VALVE CONTROL BUTTERFLY BODY",
+        "list_of_product_ids": "14053",
+        "core_id": 2351.0
+      }
+    },
+    {
+      "id": "variant-9661faf4-0629-50aa-9996-86740103b2d2",
+      "score": 0.8684002,
+      "metadata": {
+        "text": "core_product_name: control valve | type_or_class: Butterfly",
+        "raw_product_name": "CONTROL VALVES BUTTERFLY BODY",
+        "list_of_product_ids": "14083,15177,22356,22434,22428,22601,23777,23781,37018,32608,36578,36659,35499,36136",
+        "core_id": 468.0
+      }
+    },
+    {
+      "id": "variant-74d409e6-be82-546a-b3dc-088fb0905828",
+      "score": 0.86664027,
+      "metadata": {
+        "text": "core_product_name: butterfly valve | type_or_class: Butterfly | material: CAS",
+        "raw_product_name": "VALVE BUTTERFLY -CAS",
+        "list_of_product_ids": "6251,5420,8175,8178,12332,19425,25970,35493",
+        "core_id": 277.0
+      }
+    },
+    {
+      "id": "variant-5f4bbcf7-3466-5cee-a011-e77117ec5b56",
+      "score": 0.86541224,
+      "metadata": {
+        "text": "core_product_name: fabricated butterfly valve",
+        "raw_product_name": "Fabricated Butterfly Valve",
+        "list_of_product_ids": "7469,7142,11985,25972,35496",
+        "core_id": 995.0
+      }
+    },
+    {
+      "id": "variant-c0a1af7e-504c-5826-89f7-06150bd3ce1a",
+      "score": 0.8634142,
+      "metadata": {
+        "text": "core_product_name: on-off valve | type_or_class: Butterfly Body",
+        "raw_product_name": "ON-OFF VALVES (BUTTERFLY BODY)",
+        "list_of_product_ids": "7472,7145,8335,12292,12183,12960,12962,35498",
+        "core_id": 1594.0
+      }
+    },
+    {
+      "id": "variant-49b66bbe-04fa-5c5b-869e-a750997e7d57",
+      "score": 0.8631209,
+      "metadata": {
+        "text": "core_product_name: butterfly valve | type_or_class: Double Offset",
+        "raw_product_name": "VALVE BUTTERFLY (DOUBLE OFFSET)",
+        "list_of_product_ids": "8556,8667,8723,14037,15087,19361,18067,22544,22651,22768,35501,36182,36330",
+        "core_id": 277.0
+      }
+    },
+    {
+      "id": "variant-6b3d7d41-716a-5dcc-98b3-23e92b0e9616",
+      "score": 0.8605627,
+      "metadata": {
+        "text": "core_product_name: butterfly valve | operating_conditions: steam services",
+        "raw_product_name": "Butterfly Valves (Also for steam services)",
+        "list_of_product_ids": "8340",
+        "core_id": 277.0
+      }
+    },
+    {
+      "id": "variant-db2eb6fe-65f6-54d0-91f7-0b9cd1b6f6fb",
+      "score": 0.8553199,
+      "metadata": {
+        "text": "core_product_name: butterfly valve | type_or_class: Triple Offset",
+        "raw_product_name": "VALVE-BUTTERFLY (TRIPLE OFFSET)",
+        "list_of_product_ids": "6254,5423,11526,10995,11433,11507,8180,8665,8702,19360,19858,22770,35502",
+        "core_id": 277.0
+      }
+    },
+    {
+      "id": "variant-09d875a0-dacc-596c-bc6a-d295d1fd6051",
+      "score": 0.85499036,
+      "metadata": {
+        "text": "core_product_name: butterfly valve | material: CSS (Cast Stainless Steel)",
+        "raw_product_name": "VALVE BUTTERFLY -CSS",
+        "list_of_product_ids": "6250,5419,8174,8177,8339,8559,8701,12338,19424,23770,25968,35495",
+        "core_id": 277.0
+      }
+    },
+    {
+      "id": "variant-0652762b-d2d5-589e-a8df-36766c7eb060",
+      "score": 0.85204357,
+      "metadata": {
+        "text": "core_product_name: butterfly valve | material: PTFE (Polytetrafluoroethylene)",
+        "raw_product_name": "VALVE BUTTERFLY (PTFE SEATED)",
+        "list_of_product_ids": "6252,5421,8179,8664,12453,25973,35500",
+        "core_id": 277.0
+      }
+    },
+    {
+      "id": "variant-24946ba3-2aed-5d8b-8b2d-a9b7286bce1e",
+      "score": 0.8509879,
+      "metadata": {
+        "text": "core_product_name: double eccentric butterfly valve | type_or_class: Double Eccentric",
+        "raw_product_name": "Double Eccentric Butterfly Valve",
+        "list_of_product_ids": "7466,7139,8653,11970,17824,35503",
+        "core_id": 663.0
+      }
+    },
+    {
+      "id": "variant-97c1a9bb-7da2-5da5-a81c-95948c9b083c",
+      "score": 0.8487033,
+      "metadata": {
+        "text": "core_product_name: triple eccentric butterfly valve | type_or_class: Triple Eccentric",
+        "raw_product_name": "Triple Eccentric Butterfly Valves",
+        "list_of_product_ids": "7467,7140,8654,11971,35506",
+        "core_id": 2311.0
+      }
+    },
+    {
+      "id": "variant-3af49486-93ab-5254-a588-fea4e3345951",
+      "score": 0.84128284,
+      "metadata": {
+        "text": "core_product_name: needle valve",
+        "raw_product_name": "VALVE NEEDLE",
+        "list_of_product_ids": "5434,6265,8184,8167,8171,8152,8182,8183,8181,8599,18083,18084,18086,18307,30828,37284,36451",
+        "core_id": 1543.0
+      }
+    },
+    {
+      "id": "variant-e710300d-3583-5d7e-8fed-45342f49a4f0",
+      "score": 0.8389174,
+      "metadata": {
+        "text": "core_product_name: special control valve",
+        "raw_product_name": "SPECIAL CONTROL VALVES",
+        "list_of_product_ids": "13990,18539,23763,22458,22425,22487,22480,38452,40026",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-2e240545-7df4-5684-a867-6ed06fbac62a",
+      "score": 0.8377196,
+      "metadata": {
+        "text": "core_product_name: naval patternised valve",
+        "raw_product_name": "VALVES (NAVAL PATTERNISED)",
+        "list_of_product_ids": "222,562,225,528,613",
+        "core_id": 2378.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.8370239,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    },
+    {
+      "id": "variant-c3c43150-376a-55b8-97b1-87ac754b97cf",
+      "score": 0.8368972,
+      "metadata": {
+        "text": "core_product_name: air release valve",
+        "raw_product_name": "Air Release Valve",
+        "list_of_product_ids": "7489,7164,11511,23526,31193,31194,31195,39759,40031",
+        "core_id": 156.0
+      }
+    },
+    {
+      "id": "variant-b04f1ced-e7d4-554c-81c7-ffd648236268",
+      "score": 0.83672965,
+      "metadata": {
+        "text": "core_product_name: foot or air valve",
+        "raw_product_name": "VALVE FOOT/AIR",
+        "list_of_product_ids": "6266,5435,10732,10434,7873,7872",
+        "core_id": 2355.0
+      }
+    },
+    {
+      "id": "variant-441a1200-d5f5-5121-8c4b-fe5e1c49cc3f",
+      "score": 0.836374,
+      "metadata": {
+        "text": "core_product_name: appliance valve",
+        "raw_product_name": "APPLIANCE VALVE",
+        "list_of_product_ids": "1,415,737,398",
+        "core_id": 128.0
+      }
+    },
+    {
+      "id": "variant-8caeeac3-815d-5048-9c56-6fa3c4a488fc",
+      "score": 0.8360502,
+      "metadata": {
+        "text": "core_product_name: special control valve | type_or_class: Segmental",
+        "raw_product_name": "SPECIAL CONTROL VALVES (SEGMENTAL)",
+        "list_of_product_ids": "6507,5678,8709,28773,28781,28780,28779,28778,28777,28776,28775,28774,36265,36418",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-8d00b73b-5dbc-5a15-9977-16b46a2060ab",
+      "score": 0.83596545,
+      "metadata": {
+        "text": "core_product_name: valve fitting",
+        "raw_product_name": "VALVES FITTING",
+        "list_of_product_ids": "8612",
+        "core_id": 2379.0
+      }
+    },
+    {
+      "id": "variant-58483be8-83cb-5d82-b13a-a88989a318ab",
+      "score": 0.8359019,
+      "metadata": {
+        "text": "core_product_name: bolt and nut | construction_features: cadmium plated",
+        "raw_product_name": "BOLTS & NUTS (CADMIUM PLATED)",
+        "list_of_product_ids": "216,122,160,521,760",
+        "core_id": 231.0
+      }
+    },
+    {
+      "id": "variant-90976f4b-3fbf-5937-8f7c-8a3a085b92ed",
+      "score": 0.8356993,
+      "metadata": {
+        "text": "core_product_name: hydraulic valve",
+        "raw_product_name": "HYDRAULIC VALVE",
+        "list_of_product_ids": "21877,21875,21873,21872,27929",
+        "core_id": 1204.0
+      }
+    },
+    {
+      "id": "variant-11552573-e1b5-542c-8c2d-23e255c34741",
+      "score": 0.8356753,
+      "metadata": {
+        "text": "core_product_name: special control valve | type_or_class: Mixed",
+        "raw_product_name": "SPECIAL CONTROL VALVES-MIXED",
+        "list_of_product_ids": "6502,5673,8695,12188,28214,28213,28212,28211,28210,28209,28208,28207,28206,36259,36412",
+        "core_id": 2075.0
+      }
+    }
+  ]
+}

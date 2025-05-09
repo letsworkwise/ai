@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: cable gland | size: cores: 3.5c, conductor size: 95 sqmm | feature_or_specifications: feature: flameproof, type: double compression, material: stainless steel, suitability: xlpe (cross-linked polyethylene) and frls (flame retardant low smoke) cable sizes, standard: relevant indian standard, application: hazardous area",
+  "retrieval_results": [
+    {
+      "id": "variant-50985070-9f03-5bda-8aff-50bb3ee6ccad",
+      "score": 0.88478225,
+      "metadata": {
+        "text": "core_product_name: fire retardant low smoke cable | acronymed_core_product_name: frls cable (fire retardant low smoke cable) | size_or_capacity: 1.1 KV | protection_features: fire retardant | protection_features: low smoke | type_or_class: FRLS (Fire Retardant Low Smoke)",
+        "raw_product_name": "1.1 KV FIRE RETARDANT LOW SMOKE CABLES(FRLS)",
+        "list_of_product_ids": "1,029,021,403",
+        "core_id": 5.0
+      }
+    },
+    {
+      "id": "variant-0ff35c17-29e9-57ef-9128-f170e7baffc4",
+      "score": 0.876154,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 33kV | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "33kV cable XLPE",
+        "list_of_product_ids": "14154,15792,16795,20142,24052,20057,23903",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-475d6e28-3e39-5b3c-86e9-f6970c05297a",
+      "score": 0.87003,
+      "metadata": {
+        "text": "core_product_name: hazardous area cable gland",
+        "raw_product_name": "CABLE GLANDS ( HAZARDOUS AREA)",
+        "list_of_product_ids": "6443,5613,8218,10559,10589,10590,10604,8216,8219,8220,8224,12670,17578,23865,22857,24500,35772",
+        "core_id": 279.0
+      }
+    },
+    {
+      "id": "variant-81a14c31-0118-5e0b-b544-f02bc84e131a",
+      "score": 0.8688146,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 132kV (132 kilovolt) | material: XLPE (cross-linked polyethylene)",
+        "raw_product_name": "132kV CABLE XLPE",
+        "list_of_product_ids": "14146,15782,20052,24050,23901",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-11b5ebb2-c136-58d8-ae90-c22c25a8234c",
+      "score": 0.8681114,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 220 kV (kilovolt) | material: XLPE (cross-linked polyethylene)",
+        "raw_product_name": "220 kV CABLE XLPE",
+        "list_of_product_ids": "14151,15785,20056,24051,23902",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-a6c0fc04-eafb-59b9-80b3-216525c393ef",
+      "score": 0.8634862,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 11KV (11 kiloVolt) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "11KV CABLE XLPE",
+        "list_of_product_ids": "23938,24087,21515,27081",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-e4fb7566-88cb-5b16-875c-301cb0eb7c64",
+      "score": 0.8603651,
+      "metadata": {
+        "text": "core_product_name: flexible wire and cable | acronymed_core_product_name: fr-lsh wire and cable | type_or_class: FR-LSH (Flame Retardant Low Smoke and Halogen)",
+        "raw_product_name": "FR-LSH FLEXIBLE WIRES AND CABLES",
+        "list_of_product_ids": "39984,39985,39986,39987,39988,40154",
+        "core_id": 982.0
+      }
+    },
+    {
+      "id": "variant-1c2b8fdb-3ab1-5869-b71b-d009d023377b",
+      "score": 0.85741097,
+      "metadata": {
+        "text": "core_product_name: signal cable | protection_features: Fire Resistant",
+        "raw_product_name": "SIGNAL CABLE - FIRE RESISTANT",
+        "list_of_product_ids": "6482,5653,10413,10664,12117,13288,13294,17776,17788,23870,24034,38767,38585,38611,38690,38715,38639,38826,38662,38858,38900,38926,38741,38963,38990,39018,39047,39086,39116,39162,39206,39245,39280,39326,39362,39391,39421,39472,39554,39527,39616,39592,39644,39678,39718,39788,39816,39887",
+        "core_id": 826.0
+      }
+    },
+    {
+      "id": "variant-d653c619-066e-5b89-be58-292fd0a2d594",
+      "score": 0.85514116,
+      "metadata": {
+        "text": "core_product_name: high voltage cable | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES-HIGH VOLTAGE-XLPE",
+        "list_of_product_ids": "6420,5590,10186,10816,11366,10660,10881,12079,12087,16280,23989,23858,26941,26939,26938,26937,26936,26935,36582",
+        "core_id": 289.0
+      }
+    },
+    {
+      "id": "variant-b282183e-bc8e-5a78-bf84-96bc3fea7930",
+      "score": 0.8545093,
+      "metadata": {
+        "text": "core_product_name: cable gland",
+        "raw_product_name": "CABLE GLANDS",
+        "list_of_product_ids": "5961,6789,8221,8217,10553,10605,8222,8223,12107,15811,15929,16012,16032,16026,17577,22860,26078,26074,26071,36606,33509,33510,35776,35866,39358",
+        "core_id": 278.0
+      }
+    },
+    {
+      "id": "variant-d01e7f04-41a2-5983-a7cb-2052b99c5edb",
+      "score": 0.8529711,
+      "metadata": {
+        "text": "core_product_name: control cable | protection_features: Fire Survival",
+        "raw_product_name": "CONTROL CABLE - FIRE SURVIVAL",
+        "list_of_product_ids": "6424,5594,10194,10666,11369,11371,12120,13290,15814,17323,17783,23993,23862",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-910635db-1f6d-5b76-ae03-05bdfcbe87d3",
+      "score": 0.8517961,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: ht (high tension) cable | size_or_capacity: up to 11kV | type_or_class: HT (High Tension) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "HT (up to 11kV) cable XLPE",
+        "list_of_product_ids": "13659,14787,14826,15794,16794,20058,20143,24054,23905",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-c1595de7-9673-5e8f-846d-3386450520fc",
+      "score": 0.8514919,
+      "metadata": {
+        "text": "core_product_name: power cable | size_or_capacity: medium voltage | material: PVC (Polyvinyl Chloride) or XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES-MEDIUM VOLTAGE-POWER-PVC/XLPE",
+        "list_of_product_ids": "8987,9004,10662,9469,9472,9476,9356,9366,9382,9393,9454,9191,9197,9193,9199,9203,9206,9209,9295,9359,9369,9373,15970,19317,19309,19311,17781,19314,16908,24041,23892,26973,27004,27003,19310,38593,38753,38647,36581,38619,38702,38779,38727,38870,38838,38912,38938,38674,38975,39002,39030,39066,39098,39128,39176,39215,39257,39299,39335,39371,39400,39430,39481,39536,39563,39601,39625,39653,39687,39727,39797,39825,39896",
+        "core_id": 3.0
+      }
+    },
+    {
+      "id": "variant-f82843f0-a52d-5369-bcf3-ffa6d37113cf",
+      "score": 0.85143477,
+      "metadata": {
+        "text": "core_product_name: control cable | type_or_class: Unpaired | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES-CONTROL (UNPAIRED)-XLPE",
+        "list_of_product_ids": "13730,14825,24063,23915",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-2e21f2c9-7d64-55fd-aee2-28e0f9186645",
+      "score": 0.85065585,
+      "metadata": {
+        "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+        "list_of_product_ids": "13583,14851,20281,22858,26788,26787,26786,26789,35773",
+        "core_id": 899.0
+      }
+    },
+    {
+      "id": "variant-6d36d78e-c720-5c26-ab98-438d4edfd3fb",
+      "score": 0.84968454,
+      "metadata": {
+        "text": "core_product_name: fire survival cable | protection_features: Fire Survival",
+        "raw_product_name": "Fire Survival Cables",
+        "list_of_product_ids": "18687,18691,18690,18689,18688,19017,24074,21256,21579,21615,21624,21596,23926,38742,38663,38768,36637,38586,38127,38612,38136,38716,38640,38827,38859,38901,38927,38691,38964,38991,39019,39048,39087,39117,39164,39207,39246,39281,39327,39363,39392,39422,39473,39528,39555,39593,39617,39645,39679,39719,39789,39817,39888",
+        "core_id": 998.0
+      }
+    },
+    {
+      "id": "variant-6f388475-f466-5ff3-ba8a-3d0e206bd2c6",
+      "score": 0.8491367,
+      "metadata": {
+        "text": "core_product_name: flameproof plug | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF PLUG",
+        "list_of_product_ids": "201,172,041,520,651",
+        "core_id": 897.0
+      }
+    },
+    {
+      "id": "variant-a42e2286-63d0-50f1-b7db-ecb2ab6b3661",
+      "score": 0.8486399,
+      "metadata": {
+        "text": "core_product_name: hazardous area lighting panel | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF - HAZARDOUS AREA LIGHTING PANEL",
+        "list_of_product_ids": "19706,19705,19702,19700,19695,19670,27175,35892,35945,40178,40228",
+        "core_id": 891.0
+      }
+    },
+    {
+      "id": "variant-b2934f72-046a-511c-b279-1e68e75f481c",
+      "score": 0.8483705,
+      "metadata": {
+        "text": "core_product_name: control cable | material: PVC (Polyvinyl Chloride) | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES:CONTROL-PVC/XLPE",
+        "list_of_product_ids": "6422,5592,10193,11360,10665,11368,11745,12088,12118,13289,13295,16038,16281,17782,23991,23860,40317",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-3ddc3bca-68aa-59de-bad1-3710e64d9b3e",
+      "score": 0.8476503,
+      "metadata": {
+        "text": "core_product_name: fixed switch board | mounting_or_installation: for package equipments | protection_features: flame proof",
+        "raw_product_name": "SWITCH BOARD FIXED FOR PACKAGE EQUIPMENTS FLAME PROOF",
+        "list_of_product_ids": "13973,14603,14849,19440,20280,22864,35781",
+        "core_id": 2168.0
+      }
+    },
+    {
+      "id": "variant-0a06fbf2-0b0e-570c-bf1f-98af8e2f23ed",
+      "score": 0.8470557,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: xlpe cable | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "XLPE CABLE",
+        "list_of_product_ids": "23937,24086,21510,27082",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-b6f3af29-639b-56b2-8d8c-1891bd3bd4bf",
+      "score": 0.8460192,
+      "metadata": {
+        "text": "core_product_name: control cable | type_or_class: Unpaired | material: PVC (Polyvinyl Chloride) or XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES:CONTROL (UNPAIRED)-PVC/XLPE",
+        "list_of_product_ids": "8994,8997,9355,9364,9372,9383,9381,9390,9395,9456,9192,9198,9195,9196,9201,9202,9205,9208,9296,9357,9370,9374,14648,24043,23894,27028,27032,27033,27031,38755,38840,38595,38621,38704,38781,38649,38729,38872,38914,38940,38676,38977,39004,39032,39068,39100,39130,39178,39217,39259,39301,39337,39373,39402,39432,39483,39538,39565,39603,39627,39655,39689,39729,39799,39827,39898",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-035e5d74-4fc0-5854-ace0-4826f9b36c25",
+      "score": 0.8459405,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+        "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+        "list_of_product_ids": "19885,19880,24078,23930,27348",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-7c3e9537-bad4-5736-9cce-b57a0949b499",
+      "score": 0.84536356,
+      "metadata": {
+        "text": "core_product_name: external fire proofing | protection_features: Fireproof | type_or_class: A Rated",
+        "raw_product_name": "EXTERNAL FIRE PROOFING A RATED",
+        "list_of_product_ids": "39642,39670,39676,39673,39744",
+        "core_id": 776.0
+      }
+    },
+    {
+      "id": "variant-ccb92394-37fe-52d8-ab8f-34650a66199b",
+      "score": 0.8452484,
+      "metadata": {
+        "text": "core_product_name: flameproof lighting and distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF LIGHTING & DISTRIBUTION BOARD",
+        "list_of_product_ids": "13578,14601,14847,24098",
+        "core_id": 895.0
+      }
+    },
+    {
+      "id": "variant-6f51bba4-79b9-5d92-928d-652b82cce02e",
+      "score": 0.84492725,
+      "metadata": {
+        "text": "core_product_name: flameproof equipment | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF EQUIPMENT",
+        "list_of_product_ids": "13446,13447,13448,13449,13450,13473,13477",
+        "core_id": 894.0
+      }
+    },
+    {
+      "id": "variant-42694b24-9940-5ebb-aa65-006a1a6eb034",
+      "score": 0.8443641,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 33kV (33 kilovolt)",
+        "raw_product_name": "CABLE 33kV",
+        "list_of_product_ids": "10253,10005,10017,24048,23899",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.8440354,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-4d61d445-0ca2-5a71-a2b2-abf92cbb9dac",
+      "score": 0.8437001,
+      "metadata": {
+        "text": "core_product_name: communication cable | construction_features: jelly filled",
+        "raw_product_name": "CABLES COMMN. (JELLY FILLED)",
+        "list_of_product_ids": "6426,5596,11747,12089,12121,13297,23995,23864",
+        "core_id": 287.0
+      }
+    },
+    {
+      "id": "variant-501f4268-336a-5e01-af3e-8edf7d0a9e1c",
+      "score": 0.84361446,
+      "metadata": {
+        "text": "core_product_name: fire proofing material | protection_features: Fireproof",
+        "raw_product_name": "FIRE PROOFING MATERIAL",
+        "list_of_product_ids": "38658,38561,38562,38566",
+        "core_id": 856.0
+      }
+    }
+  ]
+}

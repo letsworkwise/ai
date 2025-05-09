@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: analog telephone | feature_or_specifications: display: LCD, memory: incoming call, outgoing call, functions: redial, pause, ringing tone: 5 types, intercom: selection, call transfer: parallel, volume control: included, caller ID: included, features: standard",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: telephone",
+        "raw_product_name": "TELEPHONE",
+        "list_of_product_ids": [
+          "181",
+          "681",
+          "816",
+          "518",
+          "576"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: telephone instrument",
+        "raw_product_name": "TELEPHONE INSTRUMENT",
+        "list_of_product_ids": [
+          "20448",
+          "20540",
+          "20579",
+          "20639",
+          "20696",
+          "20753"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: telephone system",
+        "raw_product_name": "TELEPHONE SYSTEM",
+        "list_of_product_ids": [
+          "193",
+          "772",
+          "764",
+          "139",
+          "783"
+        ]
+      }
+    }
+  ]
+}

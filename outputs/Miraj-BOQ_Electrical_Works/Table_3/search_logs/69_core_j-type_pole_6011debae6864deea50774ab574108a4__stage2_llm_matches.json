@@ -1,0 +1,67 @@
+{
+  "query": "core_product_name: j-type pole | size: height: 2 meter | feature_or_specifications: material: gi (galvanized iron), includes: junction box",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: octagonal pole | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI-OCTAGONAL POLE",
+        "list_of_product_ids": [
+          "180",
+          "571",
+          "805",
+          "618",
+          "592"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: pipe-ms (mild steel) | material: MS (Mild Steel) | construction_features: GI (Galvanized Iron) coating",
+        "raw_product_name": "PIPES-MS-(GI)",
+        "list_of_product_ids": [
+          "13947",
+          "14615",
+          "14654",
+          "14664",
+          "19769",
+          "21055",
+          "21413",
+          "22593",
+          "29948",
+          "29951",
+          "29953",
+          "35289",
+          "35310",
+          "35314"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: galvanized iron pipe | acronymed_core_product_name: gi pipe",
+        "raw_product_name": "GI PIPE",
+        "list_of_product_ids": [
+          "15427",
+          "17238",
+          "17227",
+          "30897",
+          "30959",
+          "27363",
+          "28754",
+          "28918",
+          "28967",
+          "35290",
+          "35308",
+          "35313",
+          "39993"
+        ]
+      }
+    }
+  ]
+}

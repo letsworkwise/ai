@@ -1,0 +1,50 @@
+{
+  "query": "core_product_name: test links",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: test | acronymed_core_product_name: mlc test",
+        "raw_product_name": "MLC Test",
+        "list_of_product_ids": [
+          "13102"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: test product",
+        "raw_product_name": "TEST PRODUCT",
+        "list_of_product_ids": [
+          "1",
+          "310",
+          "627",
+          "675"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: test separator",
+        "raw_product_name": "TEST SEPARATOR",
+        "list_of_product_ids": [
+          "6093",
+          "5260",
+          "8755",
+          "23730"
+        ]
+      }
+    }
+  ]
+}

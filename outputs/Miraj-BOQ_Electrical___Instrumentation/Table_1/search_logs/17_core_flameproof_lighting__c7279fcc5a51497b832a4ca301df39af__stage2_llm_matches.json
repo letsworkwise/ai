@@ -1,0 +1,72 @@
+{
+  "query": "core_product_name: flameproof lighting fixtures | size: voltage: 230 V AC, power: 40 W | feature_or_specifications: type: well glass, type: flameproof ex'd', type: led, feature: flp (flame proof) double compression stainless steel cable glands, feature: flp stopping plug, feature: control gear boxes, feature: inbuilt jbs (junction boxes) for loop in loop out facility of 3cx2.5 sqmm cu (copper) lighting cables, standard: as per attached specification",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flame proof lighting fixture | protection_features: Flame proof | accessories_or_attachments: Accessories",
+        "raw_product_name": "FLAME PROOF LIGHTING FIXTURES & ACCESSORIES",
+        "list_of_product_ids": [
+          "13572",
+          "14602",
+          "14848",
+          "15164",
+          "15923",
+          "18858",
+          "22863",
+          "16552",
+          "35780"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": [
+          "13606",
+          "16555",
+          "16546",
+          "16591",
+          "16576",
+          "17657",
+          "17650",
+          "17702",
+          "17682",
+          "18058",
+          "20306",
+          "20834",
+          "21315",
+          "22108",
+          "23384",
+          "35044"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof lighting and distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF LIGHTING & DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13578",
+          "14601",
+          "14847",
+          "24098"
+        ]
+      }
+    }
+  ]
+}

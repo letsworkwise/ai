@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: lighting transformer | size: capacity: 200kva, voltage: 415v/433v | feature_or_specifications: vector group: dyn1, cooling type: natural air cooled dry type, feature: as per attached specifications & ds (data sheet)",
+  "retrieval_results": [
+    {
+      "id": "variant-b95f50eb-973e-5765-ae18-09b76a4c5f2d",
+      "score": 0.8687447,
+      "metadata": {
+        "text": "core_product_name: transformer | size_or_capacity: Above 33 kV (kilovolt)",
+        "raw_product_name": "TRANSFORMER Above 33 kV",
+        "list_of_product_ids": "13957,14856,19765,35390",
+        "core_id": 1404.0
+      }
+    },
+    {
+      "id": "variant-73f845ce-e1a7-568a-a0af-b33495fdb172",
+      "score": 0.86833346,
+      "metadata": {
+        "text": "core_product_name: lighting transformer | type_or_class: Dry Type",
+        "raw_product_name": "DRY TYPE LIGHTING TRANSFORMERS",
+        "list_of_product_ids": "5632,6461,7931,15572,15561,15581,15616,15617,15583,15567,15611,15585,15622,15578,15559,18301,18872,18918",
+        "core_id": 635.0
+      }
+    },
+    {
+      "id": "variant-d9563320-cd56-5d30-8f65-0ad9b56cbc88",
+      "score": 0.86742264,
+      "metadata": {
+        "text": "core_product_name: oil type transformer | size_or_capacity: above 33 kV",
+        "raw_product_name": "Above 33 kV (Oil Type) TRANSFORMER",
+        "list_of_product_ids": "7303,7351,11724,7923,7917,14854,35393",
+        "core_id": 152.0
+      }
+    },
+    {
+      "id": "variant-1a654752-870e-5c3a-958f-e8464036d7ab",
+      "score": 0.8654993,
+      "metadata": {
+        "text": "core_product_name: lighting transformer",
+        "raw_product_name": "LIGHTING TRANSFORMERS",
+        "list_of_product_ids": "17731,17727,18659,19486,35388",
+        "core_id": 635.0
+      }
+    },
+    {
+      "id": "variant-4d92fd82-200c-5cb8-9aa1-7ab9fcd42205",
+      "score": 0.86341816,
+      "metadata": {
+        "text": "core_product_name: transformer | size_or_capacity: Up to 33 kV (kilovolt)",
+        "raw_product_name": "TRANSFORMER Up to 33 kV",
+        "list_of_product_ids": "13958,15331,19764,35391",
+        "core_id": 1404.0
+      }
+    },
+    {
+      "id": "variant-b195a799-d3ad-5613-a96d-578146100773",
+      "score": 0.8610506,
+      "metadata": {
+        "text": "core_product_name: power transformer | type_or_class: Oil Type | size_or_capacity: 33 or 6.6 kV",
+        "raw_product_name": "POWER TRANSFORMER (OIL TYPE) (33/6.6 kV)",
+        "list_of_product_ids": "1,385,923,137",
+        "core_id": 1747.0
+      }
+    },
+    {
+      "id": "variant-66e0977a-f494-5130-8840-2871b277c5bd",
+      "score": 0.86014175,
+      "metadata": {
+        "text": "core_product_name: distribution transformer | type_or_class: Dry Type",
+        "raw_product_name": "TRANSFORMER-DISTRIBUTION(DRY TYPE)",
+        "list_of_product_ids": "6410,5581,7910,15615,15580,15582,15610,15584,15620,15577,15558,15570,15560,15566",
+        "core_id": 606.0
+      }
+    },
+    {
+      "id": "variant-0098e9cc-7a73-5876-ae5e-37d7c454407b",
+      "score": 0.8596167,
+      "metadata": {
+        "text": "core_product_name: power transformer | size_or_capacity: above 5 MVA (Mega Volt Ampere)",
+        "raw_product_name": "TRANSFORMERS-POWER-ABOVE 5MVA",
+        "list_of_product_ids": "6408,5579,11387,7909,7924,9419,24543,24545,24544,24542,24541,35401",
+        "core_id": 1747.0
+      }
+    },
+    {
+      "id": "variant-c1a8a613-3715-53d5-9d1b-d4a5eaef8069",
+      "score": 0.85951006,
+      "metadata": {
+        "text": "core_product_name: oil type transformer | size_or_capacity: Up to 33 kV (kilovolt)",
+        "raw_product_name": "Up to 33 kV (Oil Type) TRANSFORMER",
+        "list_of_product_ids": "9818,7567,7241,7920,7926,7911,7922,9291,8253,9292,35392",
+        "core_id": 152.0
+      }
+    },
+    {
+      "id": "variant-f8086393-8b32-568a-8ccf-fb9906fbd2ae",
+      "score": 0.85908896,
+      "metadata": {
+        "text": "core_product_name: dry type transformer",
+        "raw_product_name": "Dry type TRANSFORMER",
+        "list_of_product_ids": "7569,7244,7921,7918,8254,9285,12248,19760,24099,36652,35381",
+        "core_id": 665.0
+      }
+    },
+    {
+      "id": "variant-3891317a-aff8-5713-acbe-b3188d03a526",
+      "score": 0.8575597,
+      "metadata": {
+        "text": "core_product_name: power or distribution transformer",
+        "raw_product_name": "POWER & DISTRIBUTION TRANSFORMERS",
+        "list_of_product_ids": "7020,7340,10181,10195,10207,10180,10218,11723,14858,21601,35405,35845",
+        "core_id": 1739.0
+      }
+    },
+    {
+      "id": "variant-96f7e30b-e45b-5a5a-a66f-28b1790f7ff3",
+      "score": 0.8572296,
+      "metadata": {
+        "text": "core_product_name: power transformer",
+        "raw_product_name": "POWER TRANSFORMER",
+        "list_of_product_ids": "16988,16987,16984,16983,17024,17038,17019,17013,17198,17177,17171,17163,17258,17247,17246,17240,17229,17220,35402,35820,35963",
+        "core_id": 1747.0
+      }
+    },
+    {
+      "id": "variant-16e318a0-a520-5526-88c7-fa72aaabfd1a",
+      "score": 0.85676765,
+      "metadata": {
+        "text": "core_product_name: distribution transformer | size_or_capacity: up to 5 MVA (Mega Volt Ampere)",
+        "raw_product_name": "TRANSFORMERS-DISTRIBUTION-UPTO 5MVA",
+        "list_of_product_ids": "6409,5580,7925,24550,24549,24548,24547",
+        "core_id": 606.0
+      }
+    },
+    {
+      "id": "variant-32aa035c-7c13-5294-be10-0b895907678b",
+      "score": 0.8541868,
+      "metadata": {
+        "text": "core_product_name: potential transformer",
+        "raw_product_name": "POTENTIAL TRANSFORMER",
+        "list_of_product_ids": "13843,15647,15654,14631,17269,17268,17267,17266,17751,18280,18300,23019,35382",
+        "core_id": 1738.0
+      }
+    },
+    {
+      "id": "variant-745585a2-6775-5a0c-b4f3-e9f18b6d93b5",
+      "score": 0.85289794,
+      "metadata": {
+        "text": "core_product_name: power transformer | acronymed_core_product_name: ICT (Interconnecting Transformer) | size_or_capacity: 400KV | type_or_class: ICT (Interconnecting Transformer)",
+        "raw_product_name": "POWER TRANSFORMER 400KV ICT",
+        "list_of_product_ids": "35814,35813,35818,35877",
+        "core_id": 1747.0
+      }
+    },
+    {
+      "id": "variant-ee48fd04-aac6-5563-843f-394434e324ee",
+      "score": 0.8528754,
+      "metadata": {
+        "text": "core_product_name: distribution transformer",
+        "raw_product_name": "DISTRIBUTION TRANSFORMERS",
+        "list_of_product_ids": "15552,15542,15546,13684,15548,14869,15539,15550",
+        "core_id": 606.0
+      }
+    },
+    {
+      "id": "variant-c80435d7-bc34-5ada-8172-074e43b102c0",
+      "score": 0.851361,
+      "metadata": {
+        "text": "core_product_name: relay and control panel | type_or_class: bay extension | size_or_capacity: 220kV",
+        "raw_product_name": "BAY EXTENSION RELAY & CONTROL PANEL (220kV)",
+        "list_of_product_ids": "38202,38209,38186,38413",
+        "core_id": 187.0
+      }
+    },
+    {
+      "id": "variant-c6f0eba4-fa2a-56b7-bdb4-a61b5f29101a",
+      "score": 0.8502221,
+      "metadata": {
+        "text": "core_product_name: outdoor insulator and bushing | size_or_capacity: 132 kV or 220 kV | operating_conditions: outdoor",
+        "raw_product_name": "132kV/ 220 kV outdoor Insulator & Bushing",
+        "list_of_product_ids": "14148,14691,16117,17435,18327,21497",
+        "core_id": 8.0
+      }
+    },
+    {
+      "id": "variant-a28a5702-2741-52e7-bbee-c9ec9500bcb3",
+      "score": 0.84993374,
+      "metadata": {
+        "text": "core_product_name: transformer-rectifier unit",
+        "raw_product_name": "TRANSFORMER-RECTIFIER UNIT",
+        "list_of_product_ids": "21792,21799,27105,35396",
+        "core_id": 2273.0
+      }
+    },
+    {
+      "id": "variant-d8b634b4-a567-527e-a116-0fe02f9cc8d7",
+      "score": 0.84975463,
+      "metadata": {
+        "text": "core_product_name: gas insulated switchgear | size_or_capacity: 132 kV or 220 kV",
+        "raw_product_name": "132 kV/ 220 kV Gas Insulated Switchgear",
+        "list_of_product_ids": "7563,7237,7953,7952,35822",
+        "core_id": 6.0
+      }
+    },
+    {
+      "id": "variant-245babdb-1588-5fce-afa1-83bc200e9c29",
+      "score": 0.849704,
+      "metadata": {
+        "text": "core_product_name: transformer",
+        "raw_product_name": "TRANSFORMERS",
+        "list_of_product_ids": "13976,15330,23987,19758,20787,21193,35356,35377",
+        "core_id": 1404.0
+      }
+    },
+    {
+      "id": "variant-1a0de3d0-ed79-5450-aa41-d8815f16ff26",
+      "score": 0.8495555,
+      "metadata": {
+        "text": "core_product_name: outdoor potential transformer | acronymed_core_product_name: pt | size_or_capacity: 33kV",
+        "raw_product_name": "33kV outdoor CT/ PT",
+        "list_of_product_ids": "7061,7388,18218,18377,19058",
+        "core_id": 17.0
+      }
+    },
+    {
+      "id": "variant-8c5e4502-0493-593e-acfd-58507fe51c8e",
+      "score": 0.84864974,
+      "metadata": {
+        "text": "core_product_name: current transformer",
+        "raw_product_name": "CURRENT TRANSFORMER",
+        "list_of_product_ids": "7305,7334,11167,10219,7932,7933,8246,8247,8248,8249,8250,8251,8252,9277,15648,15655,18281,18298,18870,18917,24209,35380",
+        "core_id": 533.0
+      }
+    },
+    {
+      "id": "variant-04557174-00a9-5154-8b28-71d131bdaca2",
+      "score": 0.84850043,
+      "metadata": {
+        "text": "core_product_name: lighting and power distribution panel",
+        "raw_product_name": "Lighting & Power Distribution Panel",
+        "list_of_product_ids": "18723,18718,18735,18734,18733,19012,18997,18728,19000,38293,35861,38156",
+        "core_id": 1413.0
+      }
+    },
+    {
+      "id": "variant-1a5efee9-05b7-5a43-8a38-ac48229a1472",
+      "score": 0.8484835,
+      "metadata": {
+        "text": "core_product_name: control transformer | type_or_class: LT (Low Tension)",
+        "raw_product_name": "CONTROL TRANSFORMER LT",
+        "list_of_product_ids": "21717,21726,21702,35385",
+        "core_id": 465.0
+      }
+    },
+    {
+      "id": "variant-07b9b3e8-c793-5690-a881-2978455f8410",
+      "score": 0.84744495,
+      "metadata": {
+        "text": "core_product_name: control transformer",
+        "raw_product_name": "CONTROL TRANSFORMER",
+        "list_of_product_ids": "15644,15652,14052,14630,19169,18277,18299,20133,23018,35387",
+        "core_id": 465.0
+      }
+    },
+    {
+      "id": "variant-eac04853-0cd4-54f1-a18f-72d0534f33b6",
+      "score": 0.84603953,
+      "metadata": {
+        "text": "core_product_name: electrical converter",
+        "raw_product_name": "ELECTRICAL CONVERTER",
+        "list_of_product_ids": "20850,20849,27075,20848",
+        "core_id": 706.0
+      }
+    },
+    {
+      "id": "variant-cf977c7c-e368-56f7-9ce9-23eb8659bb38",
+      "score": 0.84526044,
+      "metadata": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": "13606,16555,16546,16591,16576,17657,17650,17702,17682,18058,20306,20834,21315,22108,23384,35044",
+        "core_id": 1006.0
+      }
+    },
+    {
+      "id": "variant-2068f8b2-c8eb-5127-8588-14ba971dd49c",
+      "score": 0.8448549,
+      "metadata": {
+        "text": "core_product_name: transformer | acronymed_core_product_name: ltg (lighting) transformer | type_or_class: Lighting (LTG)",
+        "raw_product_name": "LTG TRANSFORMER",
+        "list_of_product_ids": "15651,13691,14629,15643,17750,18278,18296,23017,23136,35378",
+        "core_id": 1404.0
+      }
+    },
+    {
+      "id": "variant-8ba13069-a06b-58e4-8642-d0dd58f762bd",
+      "score": 0.8443456,
+      "metadata": {
+        "text": "core_product_name: indoor switchgear | size_or_capacity: 33 kV (kilovolt) | operating_conditions: Indoor",
+        "raw_product_name": "33 kV Indoor Switchgear",
+        "list_of_product_ids": "1,415,314,637",
+        "core_id": 15.0
+      }
+    }
+  ]
+}

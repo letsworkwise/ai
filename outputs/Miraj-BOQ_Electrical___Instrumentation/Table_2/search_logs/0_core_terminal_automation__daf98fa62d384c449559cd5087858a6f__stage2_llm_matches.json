@@ -1,0 +1,54 @@
+{
+  "query": "core_product_name: terminal automation software | feature_or_specifications: feature: operator stations, feature: dongle/key, feature: licenses, feature: media, feature: documentation, feature: system interfaces for monitoring, logging, reporting, controls-interlocks, feature: interface with SAP (systems, TT & packed truck loading & unloading), MCC (motor control center), VFD (variable frequency drive), DG sets (diesel generator sets), UPS (uninterruptible power supply), PLC (programmable logic controller), ESD (emergency shutdown), ROV (remote operated valve), TFMS (tank farm management system), PAGA (public address and general alarm), FAS (fire alarm system), fire fighting system, CCTV (closed circuit television) systems, DV operational panel, GMS (gas monitoring system) repeater panel, feature: alarms, archiving, events logging",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: terminal automation system",
+        "raw_product_name": "TERMINAL AUTOMATION SYSTEM",
+        "list_of_product_ids": [
+          "6572",
+          "5742",
+          "10065",
+          "10150",
+          "11898",
+          "19578",
+          "30475"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: technological control system",
+        "raw_product_name": "TECHNOLOGICAL CONTROL SYSTEM",
+        "list_of_product_ids": [
+          "236",
+          "112",
+          "356",
+          "823",
+          "584"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: embedded control system",
+        "raw_product_name": "EMBEDDED CONTROL SYSTEM",
+        "list_of_product_ids": [
+          "236",
+          "092",
+          "358",
+          "623",
+          "573"
+        ]
+      }
+    }
+  ]
+}

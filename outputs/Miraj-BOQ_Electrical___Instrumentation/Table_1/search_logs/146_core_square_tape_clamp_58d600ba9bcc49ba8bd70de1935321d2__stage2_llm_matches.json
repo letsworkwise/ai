@@ -1,0 +1,59 @@
+{
+  "query": "core_product_name: square tape clamp",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: clamp",
+        "raw_product_name": "CLAMP",
+        "list_of_product_ids": [
+          "26021",
+          "26020",
+          "26693",
+          "37265"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: clamp",
+        "raw_product_name": "JALI CLAMP",
+        "list_of_product_ids": [
+          "24747",
+          "24748",
+          "24775",
+          "24785",
+          "24788",
+          "24798",
+          "24802",
+          "24812",
+          "25095"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fabricated clamp",
+        "raw_product_name": "FABRICATED COMPONENT - CLAMP",
+        "list_of_product_ids": [
+          "295",
+          "032",
+          "928",
+          "329",
+          "282"
+        ]
+      }
+    }
+  ]
+}

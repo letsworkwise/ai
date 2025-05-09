@@ -1,0 +1,98 @@
+{
+  "query": "core_product_name: abc dry chemical powder fire extinguisher | acronymed_core_product_name: dcp fire extinguisher | size: capacity: 5 kg | feature_or_specifications: included: fixing bracket",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "acronymed_core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: auto extinguishing system | acronymed_core_product_name: dcp extinguishing system | type_or_class: DCP (Dry Chemical Powder)",
+        "raw_product_name": "AUTO DCP EXTINGUISHING SYSTEM",
+        "list_of_product_ids": [
+          "6037",
+          "5216",
+          "8485",
+          "24224"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire extinguisher",
+        "raw_product_name": "FIRE EXTINGUISHERS",
+        "list_of_product_ids": [
+          "6022",
+          "5201",
+          "8260",
+          "8312",
+          "8475",
+          "8924",
+          "9065",
+          "14404",
+          "15759",
+          "16244",
+          "16252",
+          "16390",
+          "19167",
+          "18179",
+          "19188",
+          "19455",
+          "19461",
+          "19522",
+          "19531",
+          "19550",
+          "19557",
+          "21036",
+          "21063",
+          "21214",
+          "21458",
+          "23513",
+          "21470",
+          "20756",
+          "19568",
+          "19165",
+          "28059",
+          "36560",
+          "36561",
+          "36559",
+          "36558",
+          "37456",
+          "33787",
+          "34087",
+          "34954",
+          "34965",
+          "34984",
+          "35003",
+          "35021"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: portable fire extinguisher",
+        "raw_product_name": "Portable Fire Extinguishers",
+        "list_of_product_ids": [
+          "7103",
+          "7430",
+          "8261",
+          "15762",
+          "16407",
+          "18427",
+          "23511",
+          "38383",
+          "37506"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: programmable logic controller | acronymed_core_product_name: plc | size: ai: 25 nos, di: 96 nos, do: 80 nos, serial interface ports: 28, spare io: minimum 20% | feature_or_specifications: redundancy: dual redundant (parallel/hot standby), panels: plc panels, marshalling panels, modules: input output, power supply units, relays with base, barriers, tbs (terminal blocks), dual ethernet ports per processor, serial interface modules, hmi (human machine interface) console, wirings, glands, plugs, other modules/hardwares: required for interfacing all required field and cmh (central monitoring hub) equipments, spare requirements: included, licenses: included, tags: included, gui: included, softwares: included, specification: as per tender document, plc panel count: optimized to accommodate all signals in one panel only",
+  "retrieval_results": [
+    {
+      "id": "variant-96e42f53-7dee-5b27-ad19-00ef4397fc52",
+      "score": 0.8798767,
+      "metadata": {
+        "text": "core_product_name: programmable logic controller | acronymed_core_product_name: plc subsystem",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER (PLC SUBSYSTEM)",
+        "list_of_product_ids": "13889,15107,20015,20010,36350,37195,36201",
+        "core_id": 1794.0
+      }
+    },
+    {
+      "id": "variant-de77b19c-5920-5260-afdf-af161f80d91f",
+      "score": 0.8706956,
+      "metadata": {
+        "text": "core_product_name: programmable logic controller system | acronymed_core_product_name: plc system (programmable logic controller)",
+        "raw_product_name": "PLC system (Programmable Logic Controller)",
+        "list_of_product_ids": "12296,12295,12297,12301,14199,14322,14405,14406,17988,17987,17986,17985,17984,17983,20020,20145,20144,37679,36223,36375",
+        "core_id": 1704.0
+      }
+    },
+    {
+      "id": "variant-24de6957-62d8-5579-9463-54c117e3e97c",
+      "score": 0.8666924,
+      "metadata": {
+        "text": "core_product_name: programmable logic controller",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLERS",
+        "list_of_product_ids": "6565,5735,11164,10154,11376,9379,9159,9221,11902,12182,36522,17895,18871,18916,29683,30474,38193,36169,36317",
+        "core_id": 1794.0
+      }
+    },
+    {
+      "id": "variant-36546641-c966-56c1-bc4e-3a8fa0c0e909",
+      "score": 0.8642889,
+      "metadata": {
+        "text": "core_product_name: programmable logic controller-fire and gas system | acronymed_core_product_name: PLC-FGS",
+        "raw_product_name": "PLC-FGS",
+        "list_of_product_ids": "13801,15110,20985,23214,36204,36353",
+        "core_id": 1706.0
+      }
+    },
+    {
+      "id": "variant-9d54fd87-21ea-5c1a-ae13-333a826234cd",
+      "score": 0.86390966,
+      "metadata": {
+        "text": "core_product_name: system panel",
+        "raw_product_name": "SYSTEM PANELS",
+        "list_of_product_ids": "1,413,621,099",
+        "core_id": 2180.0
+      }
+    },
+    {
+      "id": "variant-de016709-426e-5f64-87fb-0bc2a92d1c2c",
+      "score": 0.862834,
+      "metadata": {
+        "text": "core_product_name: central processing unit | acronymed_core_product_name: cpu unit",
+        "raw_product_name": "CPU UNITS",
+        "list_of_product_ids": "192,651,410,722,373",
+        "core_id": 505.0
+      }
+    },
+    {
+      "id": "variant-958dd18c-6227-509f-8329-a37240545b6c",
+      "score": 0.8619762,
+      "metadata": {
+        "text": "core_product_name: patch cable | acronymed_core_product_name: plc (programmable logic controller) patch cable | type_or_class: PLC (Programmable Logic Controller) Patch",
+        "raw_product_name": "PLC PATCH CABLES",
+        "list_of_product_ids": "13796,18811,20179,24065,23917",
+        "core_id": 1705.0
+      }
+    },
+    {
+      "id": "variant-de47ff96-bd93-5d30-b6a8-28e7215a5255",
+      "score": 0.861504,
+      "metadata": {
+        "text": "core_product_name: interface device",
+        "raw_product_name": "INTERFACE DEVICES",
+        "list_of_product_ids": "6630,5800,11596,11597,10310,11701,11702,11703,12288,8405,13108,13117,21089,21081,21077,21070",
+        "core_id": 1280.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.86017287,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-61e99eb5-9c35-529a-b779-cf379fb6ce1f",
+      "score": 0.86006206,
+      "metadata": {
+        "text": "core_product_name: module",
+        "raw_product_name": "MODULES",
+        "list_of_product_ids": "9868,9810,9817,9850,9860",
+        "core_id": 1495.0
+      }
+    },
+    {
+      "id": "variant-95725655-b9d5-5abd-b826-0ad218cf768a",
+      "score": 0.8598382,
+      "metadata": {
+        "text": "core_product_name: instrument panel",
+        "raw_product_name": "INSTRUMENT PANEL",
+        "list_of_product_ids": "13720,14806,14814,14824,21097,22773,36101",
+        "core_id": 1256.0
+      }
+    },
+    {
+      "id": "variant-c03e0ba5-aa70-53fc-9eb3-267f46d459cb",
+      "score": 0.8597286,
+      "metadata": {
+        "text": "core_product_name: cathodic protection power supply module",
+        "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+        "list_of_product_ids": "6413,5583,8417,12209",
+        "core_id": 315.0
+      }
+    },
+    {
+      "id": "variant-1ab3bbc1-7237-500d-90d8-27f6498da945",
+      "score": 0.85943943,
+      "metadata": {
+        "text": "core_product_name: equipment",
+        "raw_product_name": "CONTROL ROOM EQUIPMENT",
+        "list_of_product_ids": "14034,14815,17256,21098",
+        "core_id": 460.0
+      }
+    },
+    {
+      "id": "variant-fc8540c6-39ef-5bd8-94da-9b9420f9b06a",
+      "score": 0.8590546,
+      "metadata": {
+        "text": "core_product_name: input convertor | acronymed_core_product_name: i/p convertor",
+        "raw_product_name": "I/P CONVERTOR",
+        "list_of_product_ids": "1,542,023,681",
+        "core_id": 1222.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.85823154,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-42e08f95-d7cd-57f5-ba2f-6871ab20420b",
+      "score": 0.8575091,
+      "metadata": {
+        "text": "core_product_name: control panel",
+        "raw_product_name": "CONTROL PANEL",
+        "list_of_product_ids": "7620,10723,10724,7294,11348,10704,10706,10708,10709,10705,10707,7889,8210,16017,16030,16028,36914,16897,18294,18873,18919,19439,20784,20783,21195,24829,24817,24932,24943,21198,36654,36677,33483,33678,35056",
+        "core_id": 453.0
+      }
+    },
+    {
+      "id": "variant-f0b3c83f-340f-5359-af01-5f3abf8a29c7",
+      "score": 0.85732496,
+      "metadata": {
+        "text": "core_product_name: input/output converter | acronymed_core_product_name: i/p converter",
+        "raw_product_name": "I/P CONVERTERS",
+        "list_of_product_ids": "13678,14948,14949,15078,15105,15307,15315,17477,20895,23179,36199,36348",
+        "core_id": 1221.0
+      }
+    },
+    {
+      "id": "variant-9f376ba2-bfd9-569d-9df5-c33008feb16d",
+      "score": 0.8570217,
+      "metadata": {
+        "text": "core_product_name: relay and control panel",
+        "raw_product_name": "RELAY & CONTROL PANEL",
+        "list_of_product_ids": "6389,5560,11172,11457,7888,19357,24445,24450,24448,24827,24815,24451,19363,24930,24941,38203,38204",
+        "core_id": 187.0
+      }
+    },
+    {
+      "id": "variant-b0341ac8-d484-5fda-9e50-728b9d637a42",
+      "score": 0.8568931,
+      "metadata": {
+        "text": "core_product_name: terminal | acronymed_core_product_name: PLCC (Power Line Carrier Communication) terminal | accessories_or_attachments: protection coupler",
+        "raw_product_name": "PLCC TERMINAL WITH PROTECTION COUPLER",
+        "list_of_product_ids": "18710,18709,19015,18707,38296,38321",
+        "core_id": 1707.0
+      }
+    },
+    {
+      "id": "variant-4ee544d6-0f39-5064-8d24-8c48472ff71a",
+      "score": 0.85652345,
+      "metadata": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": "5954,6782,12132,14671,14679,18191,20174,36159",
+        "core_id": 2156.0
+      }
+    },
+    {
+      "id": "variant-60759c1d-1484-5fdf-a6d4-d96e4e97573f",
+      "score": 0.85639566,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: u.p.s. system",
+        "raw_product_name": "U.P.S.SYSTEM",
+        "list_of_product_ids": "6399,5570,11076,11073,10496,10624,12084,12082,12245,24506,24504,36163,36311",
+        "core_id": 2314.0
+      }
+    },
+    {
+      "id": "variant-74d303aa-2799-5e8d-8b8a-412a8da4a4f2",
+      "score": 0.85605395,
+      "metadata": {
+        "text": "core_product_name: electrical spare",
+        "raw_product_name": "ELECTRICAL SPARES",
+        "list_of_product_ids": "207,782,077,728,462",
+        "core_id": 710.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.8558791,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-8d4f9e6a-7de2-5006-bc96-23968ddcdbb4",
+      "score": 0.8556886,
+      "metadata": {
+        "text": "core_product_name: control panel integrator",
+        "raw_product_name": "CONTROL PANEL INTEGRATORS",
+        "list_of_product_ids": "15419,15451,15452,15453,18527,18545,24835,24823,24937,24949",
+        "core_id": 456.0
+      }
+    },
+    {
+      "id": "variant-c3316671-1084-5801-b30a-c27420018e41",
+      "score": 0.8555602,
+      "metadata": {
+        "text": "core_product_name: type valve control body",
+        "raw_product_name": "VALVE CONTROL BODY TYPE",
+        "list_of_product_ids": "14051,15178,17084,20252,22357,23086,23779,23783,36658",
+        "core_id": 2349.0
+      }
+    },
+    {
+      "id": "variant-41a6c6d9-ef4d-520f-b9f3-af2822f8dcef",
+      "score": 0.8555267,
+      "metadata": {
+        "text": "core_product_name: power supply",
+        "raw_product_name": "BUIL POWER SUPPLY",
+        "list_of_product_ids": "5,937,676,612,114",
+        "core_id": 250.0
+      }
+    },
+    {
+      "id": "variant-1a3809cb-702e-5689-ba92-d49d3b31d30a",
+      "score": 0.85504407,
+      "metadata": {
+        "text": "core_product_name: port | acronymed_core_product_name: aa port",
+        "raw_product_name": "AA PORT",
+        "list_of_product_ids": "14144,14661,19996,20125",
+        "core_id": 21.0
+      }
+    },
+    {
+      "id": "variant-e2c5e19f-b004-5e9a-af92-357a7b21565d",
+      "score": 0.8549724,
+      "metadata": {
+        "text": "core_product_name: technological control system",
+        "raw_product_name": "TECHNOLOGICAL CONTROL SYSTEM",
+        "list_of_product_ids": "236,112,356,823,584",
+        "core_id": 2209.0
+      }
+    },
+    {
+      "id": "variant-6aa0a898-71c9-566e-b82e-854055a79538",
+      "score": 0.8545564,
+      "metadata": {
+        "text": "core_product_name: embedded control system",
+        "raw_product_name": "EMBEDDED CONTROL SYSTEM",
+        "list_of_product_ids": "236,092,358,623,573",
+        "core_id": 737.0
+      }
+    },
+    {
+      "id": "variant-04557174-00a9-5154-8b28-71d131bdaca2",
+      "score": 0.8541401,
+      "metadata": {
+        "text": "core_product_name: lighting and power distribution panel",
+        "raw_product_name": "Lighting & Power Distribution Panel",
+        "list_of_product_ids": "18723,18718,18735,18734,18733,19012,18997,18728,19000,38293,35861,38156",
+        "core_id": 1413.0
+      }
+    }
+  ]
+}

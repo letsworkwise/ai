@@ -1,0 +1,198 @@
+{
+  "sheet_name": "Instrumentation",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "instrumentation | dismantling of existing instruments",
+      "full_product_description": "Temperature Transmitters",
+      "core_product_name": "temperature transmitters",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | dismantling of existing instruments",
+      "full_product_description": "Tank Level Instruments (Radar type)",
+      "core_product_name": "tank level instruments",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: radar",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | dismantling of existing instruments",
+      "full_product_description": "Electronic Local Indicator",
+      "core_product_name": "local indicator",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: electronic",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | dismantling of existing instruments",
+      "full_product_description": "Gas Detectors",
+      "core_product_name": "gas detectors",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "6.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | dismantling of existing instruments",
+      "full_product_description": "Push Button/Selector Switches/Lamps",
+      "core_product_name": "push button or selector switches or lamps",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | dismantling of existing instruments",
+      "full_product_description": "Hooter / Beacon",
+      "core_product_name": "hooter or beacon",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "2.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      40,
+      49
+    ],
+    "original_rows": [
+      {
+        "0": 282,
+        "1": 0,
+        "2": "01II.510.10.10",
+        "3": "Temperature Transmitters",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 283,
+        "1": 0,
+        "2": "01II.510.10.13",
+        "3": "Tank Level Instruments (Radar type)",
+        "4": 9.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 284,
+        "1": 0,
+        "2": "01II.510.10.15",
+        "3": "Electronic Local Indicator",
+        "4": 9.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 285,
+        "1": 0,
+        "2": "01II.510.10.17",
+        "3": "Gas Detectors",
+        "4": 6.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 286,
+        "1": 0,
+        "2": "01II.510.10.35",
+        "3": "Push Button/Selector Switches/Lamps",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 287,
+        "1": 0,
+        "2": "01II.510.10.40",
+        "3": "Hooter / Beacon",
+        "4": 2.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 288,
+        "1": 0,
+        "2": "01II.550",
+        "3": "SUPPLY ITEMS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 289,
+        "1": 0,
+        "2": "01II.550.10",
+        "3": "Supply of Instrument items as per specifications enclosed elsewhere in the Tender.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 290,
+        "1": 0,
+        "2": "01II.550.10.22",
+        "3": "1/2 \" GI Conduit",
+        "4": 20.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 291,
+        "1": 0,
+        "2": "01II.550.10.23",
+        "3": "3/4 \" GI Conduit",
+        "4": 20.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2250,
+    "completion_tokens": 662
+  }
+}

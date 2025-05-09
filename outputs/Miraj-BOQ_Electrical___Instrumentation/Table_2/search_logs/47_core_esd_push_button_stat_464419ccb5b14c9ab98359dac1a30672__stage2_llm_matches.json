@@ -1,0 +1,66 @@
+{
+  "query": "core_product_name: esd push button station | feature_or_specifications: flame proof: yes, ex-proof: yes, mounting: at local nearby of ROV (remotely operated valve) as per IOCL (Indian Oil Corporation Limited) instruction, application: for emergency shut down of ROV, accessories: all accessories included, usage: 1 push button station for 1 ESD ROV closed only",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof push button station | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF PUSH BUTTON STATION",
+        "list_of_product_ids": [
+          "13585",
+          "14846",
+          "15921",
+          "20279"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: emergency stop push button station",
+        "raw_product_name": "EMERGENCY STOP PUSH BUTTON STATION NEAR TANK",
+        "list_of_product_ids": [
+          "216",
+          "582",
+          "165",
+          "721",
+          "730"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flame proof control station | protection_features: Flame proof",
+        "raw_product_name": "CONTROL STATIONS-FLAME PROOF",
+        "list_of_product_ids": [
+          "6396",
+          "5567",
+          "10309",
+          "10586",
+          "10556",
+          "10599",
+          "16896",
+          "24100",
+          "22849",
+          "24498",
+          "24497",
+          "24496",
+          "24495",
+          "35767"
+        ]
+      }
+    }
+  ]
+}

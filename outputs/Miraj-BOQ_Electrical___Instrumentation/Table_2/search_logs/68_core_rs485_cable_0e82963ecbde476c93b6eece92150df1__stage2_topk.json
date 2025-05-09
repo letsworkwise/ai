@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: rs485 cable | acronymed_core_product_name: rs485 cable",
+  "retrieval_results": [
+    {
+      "id": "variant-fc8540c6-39ef-5bd8-94da-9b9420f9b06a",
+      "score": 0.8940607,
+      "metadata": {
+        "text": "core_product_name: input convertor | acronymed_core_product_name: i/p convertor",
+        "raw_product_name": "I/P CONVERTOR",
+        "list_of_product_ids": "1,542,023,681",
+        "core_id": 1222.0
+      }
+    },
+    {
+      "id": "variant-f0b3c83f-340f-5359-af01-5f3abf8a29c7",
+      "score": 0.8934231,
+      "metadata": {
+        "text": "core_product_name: input/output converter | acronymed_core_product_name: i/p converter",
+        "raw_product_name": "I/P CONVERTERS",
+        "list_of_product_ids": "13678,14948,14949,15078,15105,15307,15315,17477,20895,23179,36199,36348",
+        "core_id": 1221.0
+      }
+    },
+    {
+      "id": "variant-1a3809cb-702e-5689-ba92-d49d3b31d30a",
+      "score": 0.89338017,
+      "metadata": {
+        "text": "core_product_name: port | acronymed_core_product_name: aa port",
+        "raw_product_name": "AA PORT",
+        "list_of_product_ids": "14144,14661,19996,20125",
+        "core_id": 21.0
+      }
+    },
+    {
+      "id": "variant-40340428-fe45-5261-8678-98df5bbc3721",
+      "score": 0.89336157,
+      "metadata": {
+        "text": "core_product_name: converter | acronymed_core_product_name: rs 232 to 485 converter | type_or_class: RS 232 (Recommended Standard 232) to 485 (Recommended Standard 485)",
+        "raw_product_name": "RS 232 to 485 Converter",
+        "list_of_product_ids": "14212",
+        "core_id": 472.0
+      }
+    },
+    {
+      "id": "variant-57d96592-6666-5304-a0b5-3483499c39fc",
+      "score": 0.8930753,
+      "metadata": {
+        "text": "core_product_name: system package | acronymed_core_product_name: h v system package",
+        "raw_product_name": "H V SYSTEM PACKAGE",
+        "list_of_product_ids": "6393,5564,10763,24478,24477,24476",
+        "core_id": 1089.0
+      }
+    },
+    {
+      "id": "variant-62d1e6bd-b338-5af3-8dbe-a6aef8e2a92e",
+      "score": 0.8921506,
+      "metadata": {
+        "text": "core_product_name: public address equipment | acronymed_core_product_name: pa equipment",
+        "raw_product_name": "PA EQUIPMENTS",
+        "list_of_product_ids": "980,898,159,862",
+        "core_id": 1617.0
+      }
+    },
+    {
+      "id": "variant-676f7f9e-13f4-5f2d-95c5-6b3194f152fb",
+      "score": 0.8919843,
+      "metadata": {
+        "text": "core_product_name: infrared detector | acronymed_core_product_name: ir detector",
+        "raw_product_name": "IR DETECTOR",
+        "list_of_product_ids": "980,798,149,854",
+        "core_id": 1295.0
+      }
+    },
+    {
+      "id": "variant-1388d05e-83a1-5b32-b98d-095012ca20a0",
+      "score": 0.8919565,
+      "metadata": {
+        "text": "core_product_name: inner casing casting | acronymed_core_product_name: ip inner casing casting",
+        "raw_product_name": "IP INNER CASING CASTING",
+        "list_of_product_ids": "13762,14954,14960,14966,14971,14977,14989,14996,14984,14992,21375,21538",
+        "core_id": 1292.0
+      }
+    },
+    {
+      "id": "variant-0f1e1ce5-671f-518b-b863-86f86d8242c6",
+      "score": 0.8907945,
+      "metadata": {
+        "text": "core_product_name: motor control center | acronymed_core_product_name: mcc package",
+        "raw_product_name": "MCC PACKAGE",
+        "list_of_product_ids": "23571,23614,23565,23559,23554,23549,23541,23532",
+        "core_id": 1447.0
+      }
+    },
+    {
+      "id": "variant-74e0f1b7-1cd9-51f7-8b1a-a2ddf6009f39",
+      "score": 0.8902931,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: CAT (Category) cable | type_or_class: Ethernet CAT (Category)",
+        "raw_product_name": "ETHERNET CAT CABLE",
+        "list_of_product_ids": "23921,13950,20180,24069,21240",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-de016709-426e-5f64-87fb-0bc2a92d1c2c",
+      "score": 0.890186,
+      "metadata": {
+        "text": "core_product_name: central processing unit | acronymed_core_product_name: cpu unit",
+        "raw_product_name": "CPU UNITS",
+        "list_of_product_ids": "192,651,410,722,373",
+        "core_id": 505.0
+      }
+    },
+    {
+      "id": "variant-42640f35-65bd-5786-a8e0-6da0c7032c9c",
+      "score": 0.8900368,
+      "metadata": {
+        "text": "core_product_name: local area network switch | acronymed_core_product_name: LAN SWITCH",
+        "raw_product_name": "LAN SWITCH",
+        "list_of_product_ids": "19153,19154,27610,37883,37888,37890",
+        "core_id": 1317.0
+      }
+    },
+    {
+      "id": "variant-8008bfcb-d341-5d5b-9f49-f188e8e97b77",
+      "score": 0.8892608,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: LAN (Local Area Network) cable | type_or_class: LAN (Local Area Network)",
+        "raw_product_name": "LAN CABLE",
+        "list_of_product_ids": "174,251,742,627,040",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-610ecc7c-74f0-5330-9607-ffaf400ba166",
+      "score": 0.88921803,
+      "metadata": {
+        "text": "core_product_name: converter | acronymed_core_product_name: USB to RS485 Converter | type_or_class: USB (Universal Serial Bus) to RS485 (Recommended Standard 485)",
+        "raw_product_name": "USB to RS485 Converter",
+        "list_of_product_ids": "14217",
+        "core_id": 472.0
+      }
+    },
+    {
+      "id": "variant-ca5c5075-524a-5c1d-931c-e0dc688b8e21",
+      "score": 0.8887377,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: ev cable (electric vehicle cable) | type_or_class: EV (Electric Vehicle)",
+        "raw_product_name": "EV CABLES",
+        "list_of_product_ids": "39056,39631,38830,38771,38666,38522,38524,38583,38745,38609,38694,38637,38719,38862,38904,38930,38951,38967,38994,39022,39090,39120,39168,39221,39249,39291,39341,39377,39406,39436,39452,39487,39542,39569,39607,39659,39693,39733,39803,39831,39902",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-baaac195-1092-5391-b4b9-1c7fe6b84dca",
+      "score": 0.8881528,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: ht (high tension) cable | type_or_class: HT (High Tension)",
+        "raw_product_name": "HT (High Tension) CABLE",
+        "list_of_product_ids": "15953,15954,15956,16002,16010,15991,15984,15981,16043,16048,16031,15968",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-96e42f53-7dee-5b27-ad19-00ef4397fc52",
+      "score": 0.8879196,
+      "metadata": {
+        "text": "core_product_name: programmable logic controller | acronymed_core_product_name: plc subsystem",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER (PLC SUBSYSTEM)",
+        "list_of_product_ids": "13889,15107,20015,20010,36350,37195,36201",
+        "core_id": 1794.0
+      }
+    },
+    {
+      "id": "variant-cbe0500f-7d01-5cbf-84c0-579b2a7af5d7",
+      "score": 0.8873987,
+      "metadata": {
+        "text": "core_product_name: material | acronymed_core_product_name: ets material",
+        "raw_product_name": "ETS MATERIAL",
+        "list_of_product_ids": "139,563,828,136,667",
+        "core_id": 353.0
+      }
+    },
+    {
+      "id": "variant-72f4379c-8cca-53f1-a228-27f73550df0f",
+      "score": 0.88739395,
+      "metadata": {
+        "text": "core_product_name: closed circuit television | acronymed_core_product_name: cctv",
+        "raw_product_name": "CLOSED CIRCUIT TV",
+        "list_of_product_ids": "6592,5762,10914,10889,11962,12202,12473,16497,19259,19269,30476,31285,37696,37697,37705,37709,37713,40236,40237,40234,40235,40257",
+        "core_id": 323.0
+      }
+    },
+    {
+      "id": "variant-68b57dbb-5053-511e-94f6-80656736a45d",
+      "score": 0.88719094,
+      "metadata": {
+        "text": "core_product_name: test | acronymed_core_product_name: mlc test",
+        "raw_product_name": "MLC Test",
+        "list_of_product_ids": "13102",
+        "core_id": 1485.0
+      }
+    },
+    {
+      "id": "variant-c6aa387d-2e9d-53e7-9ccc-7aa27c02d480",
+      "score": 0.88715446,
+      "metadata": {
+        "text": "core_product_name: personal computer and server | acronymed_core_product_name: pc (personal computer) and server",
+        "raw_product_name": "PC AND SERVER",
+        "list_of_product_ids": "5943,6772,10713,10715,10716,10719,10720,10721,10711,11856,18834,19469,30762,37436,35054,37192",
+        "core_id": 1644.0
+      }
+    },
+    {
+      "id": "variant-4fb8f41e-8a80-50dd-a9b8-63dfc9ef06fe",
+      "score": 0.88706785,
+      "metadata": {
+        "text": "core_product_name: wire | acronymed_core_product_name: cat 6 wire (category 6 wire) | type_or_class: CAT 6 (Category 6)",
+        "raw_product_name": "CAT 6 WIRE",
+        "list_of_product_ids": "20687,20549,20513,20590,20633,20745,21239",
+        "core_id": 313.0
+      }
+    },
+    {
+      "id": "variant-addf3b62-be97-593c-99ea-0c7a325abe3a",
+      "score": 0.88625836,
+      "metadata": {
+        "text": "core_product_name: cooler | acronymed_core_product_name: pw cooler",
+        "raw_product_name": "PW COOLER",
+        "list_of_product_ids": "139,151,806,120,147",
+        "core_id": 1827.0
+      }
+    },
+    {
+      "id": "variant-f1cd44bb-1600-5b26-b939-96ee1bd21a72",
+      "score": 0.88561636,
+      "metadata": {
+        "text": "core_product_name: sorbent | acronymed_core_product_name: O SORB",
+        "raw_product_name": "O SORB",
+        "list_of_product_ids": "950,295,829,785",
+        "core_id": 1576.0
+      }
+    },
+    {
+      "id": "variant-ca680a19-4300-52ac-9ef0-6f3e8a4236c8",
+      "score": 0.88487494,
+      "metadata": {
+        "text": "core_product_name: substation automation system | acronymed_core_product_name: sas system",
+        "raw_product_name": "SAS System",
+        "list_of_product_ids": "7566,7240,11203,10872,10874,11375",
+        "core_id": 1963.0
+      }
+    },
+    {
+      "id": "variant-a88868c3-e02b-556c-afb5-f9319567fc58",
+      "score": 0.8845226,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLES",
+        "list_of_product_ids": "15455,13721,24275,15161,16241,19098,23820,23814,21319,19315,23819,23822,24273,23829,20141,23831,24058,23836,23909,23839,23828,24685,24726,24844,24955,31590,31591,26436,26438,31740,33330",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-7f090a1a-b828-5a18-86a5-0ef23d51283a",
+      "score": 0.88436204,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLE STOCKIST/TRADERS",
+        "list_of_product_ids": "2,467,924,680",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-755f2b34-edfe-5f5b-ba96-e5bbb84d50c8",
+      "score": 0.8841288,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: lv (low voltage) cable | type_or_class: LV (Low Voltage)",
+        "raw_product_name": "LV CABLES",
+        "list_of_product_ids": "39175,38752,38673,38837,38592,39001,38618,38539,38540,38778,38701,38726,38646,38869,38911,38937,38958,38974,39029,39063,39097,39127,39228,39256,39298,39348,39384,39413,39443,39459,39494,39549,39576,39614,39638,39666,39700,39740,39810,39838,39909",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-b1cefae0-7246-5049-a8bf-2961f0ae8cdd",
+      "score": 0.88388526,
+      "metadata": {
+        "text": "core_product_name: outlet fitting | acronymed_core_product_name: o-let",
+        "raw_product_name": "O-LETS",
+        "list_of_product_ids": "6312,5483,10359,10377,11349,10679,12307,39230,21806,32506,32507,32508,32509,32510,32511,32512",
+        "core_id": 1575.0
+      }
+    },
+    {
+      "id": "variant-c3c5f2e6-43d8-54dc-a454-4b05fd86ee82",
+      "score": 0.88377637,
+      "metadata": {
+        "text": "core_product_name: auxiliary column | acronymed_core_product_name: aux. column",
+        "raw_product_name": "AUX. COLUMN",
+        "list_of_product_ids": "20899,20876,21908,21952,22021,22119,20853",
+        "core_id": 147.0
+      }
+    }
+  ]
+}

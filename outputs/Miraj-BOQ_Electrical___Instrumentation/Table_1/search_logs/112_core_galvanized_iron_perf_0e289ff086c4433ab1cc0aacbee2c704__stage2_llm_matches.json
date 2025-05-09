@@ -1,0 +1,79 @@
+{
+  "query": "core_product_name: galvanized iron perforated cable tray | size: depth: 100 mm, thickness: 3 mm, width: 750mm | feature_or_specifications: material: galvanized iron, coating: zinc, coating thickness: 100 microns, accessories: bend, accessories: reducer, accessories: coupler plate, accessories: other hardware",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "Material",
+        "Type/Class",
+        "Accessories"
+      ],
+      "match_details": {
+        "text": "core_product_name: perforated cable tray | acronymed_core_product_name: gi (galvanized iron) cable tray | material: GI (Galvanized Iron) | accessories_or_attachments: Accessories | type_or_class: Perforated",
+        "raw_product_name": "GI CABLE TRAYS AND ACCESSORIES (PERFORATED TYPE)",
+        "list_of_product_ids": [
+          "7301",
+          "7349",
+          "7899",
+          "17491",
+          "26434"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flexible cable tray support system | acronymed_core_product_name: gi (galvanized iron) cable tray support system | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI FLEXIBLE CABLE TRAY SUPPORT SYSTEM",
+        "list_of_product_ids": [
+          "7302",
+          "7350",
+          "7900",
+          "16236",
+          "20193",
+          "16264"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable tray | acronymed_core_product_name: gi cable tray | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI CABLE TRAYS",
+        "list_of_product_ids": [
+          "9939",
+          "9940",
+          "9943",
+          "9945",
+          "9944",
+          "9946",
+          "13481",
+          "15701",
+          "15731",
+          "15765",
+          "15788",
+          "15745",
+          "15824",
+          "18876",
+          "18922",
+          "15817",
+          "15848",
+          "15777",
+          "26430",
+          "32139"
+        ]
+      }
+    }
+  ]
+}

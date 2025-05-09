@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: operator interface console computer | acronymed_core_product_name: oic | size: monitor size: 22 inch | feature_or_specifications: feature: colour led monitor, feature: standard keyboard, feature: carousal, feature: ews (engineering workstation)/ows (operator workstation), feature: gms (gas monitoring system), feature: weigh bridge, feature: cylinder inventory",
+  "retrieval_results": [
+    {
+      "id": "variant-a6103f7d-434d-59c3-b0c8-a5ad206ecb93",
+      "score": 0.84066314,
+      "metadata": {
+        "text": "core_product_name: gas metering system | special_attributes: dual chamber orifice",
+        "raw_product_name": "GAS METERING SYSTEM -DUAL CHAMBR ORIFICE",
+        "list_of_product_ids": "6614,5784,38506,38496",
+        "core_id": 1031.0
+      }
+    },
+    {
+      "id": "variant-eba165a3-e5a7-5ab3-8672-cefcfe8eb6fb",
+      "score": 0.8337345,
+      "metadata": {
+        "text": "core_product_name: waterways connected equipment | acronymed_core_product_name: odc (over dimensional cargo) equipment",
+        "raw_product_name": "ODC EQUIPMENTS (WATERWAYS CONNECTED)",
+        "list_of_product_ids": "7506,11038,7181,12169,12603,13095,23217,23216,23209,23208,23207,37948,37957,37996,38008,38048,38353,38364,38408",
+        "core_id": 1574.0
+      }
+    },
+    {
+      "id": "variant-3b631906-ca81-5dcc-9013-16874fbdfa21",
+      "score": 0.8336525,
+      "metadata": {
+        "text": "core_product_name: electronic controller | type_or_class: Control Panel Instrument",
+        "raw_product_name": "ELECTRONIC CONTROLLER (CONTROL PANEL INSTRUMENT)",
+        "list_of_product_ids": "13897,20864,22602,22797",
+        "core_id": 724.0
+      }
+    },
+    {
+      "id": "variant-db1ced93-1e42-595d-86ce-7318a1ac8d21",
+      "score": 0.8320474,
+      "metadata": {
+        "text": "core_product_name: gas analysis instrument | acronymed_core_product_name: CEMS (Continuous Emissions Monitoring System) instruments | type_or_class: Continuous Emissions Monitoring System (CEMS)",
+        "raw_product_name": "GAS ANALYSIS INSTRUMENTS (INCLUDING CEMS)",
+        "list_of_product_ids": "1,370,423,181",
+        "core_id": 1023.0
+      }
+    },
+    {
+      "id": "variant-0a9290b3-8ea7-59a2-a8d9-9ba99d3dbdaa",
+      "score": 0.83024347,
+      "metadata": {
+        "text": "core_product_name: machine monitoring system",
+        "raw_product_name": "MACHINE MONITORING SYSTEMS",
+        "list_of_product_ids": "6478,5649,12455,32772,38192",
+        "core_id": 1418.0
+      }
+    },
+    {
+      "id": "variant-b8ddc942-c61f-5d99-be2e-3b250f252df9",
+      "score": 0.8301431,
+      "metadata": {
+        "text": "core_product_name: stack, insitu gas analyser system",
+        "raw_product_name": "STACK GAS ANALYSER SYSTEMS (INSITU)",
+        "list_of_product_ids": "6535,5706,22713,29793,33870,36262,36415",
+        "core_id": 2100.0
+      }
+    },
+    {
+      "id": "variant-c0d168d3-8e1f-51c3-9542-7df88c30fde3",
+      "score": 0.8297126,
+      "metadata": {
+        "text": "core_product_name: black and white monitor | acronymed_core_product_name: b&w monitor",
+        "raw_product_name": "B&W MONITOR",
+        "list_of_product_ids": "14143,15099,36194,36293,36342,40329",
+        "core_id": 164.0
+      }
+    },
+    {
+      "id": "variant-11fd4851-b53d-5354-8701-6060ebf8322c",
+      "score": 0.8295769,
+      "metadata": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: pcc (power control center) switchgear panel | size_or_capacity: 415V | type_or_class: PCC (Power Control Center)",
+        "raw_product_name": "415V SWITCHGEAR PANEL (PCC)",
+        "list_of_product_ids": "176,911,769,018,664",
+        "core_id": 18.0
+      }
+    },
+    {
+      "id": "variant-95725655-b9d5-5abd-b826-0ad218cf768a",
+      "score": 0.8292543,
+      "metadata": {
+        "text": "core_product_name: instrument panel",
+        "raw_product_name": "INSTRUMENT PANEL",
+        "list_of_product_ids": "13720,14806,14814,14824,21097,22773,36101",
+        "core_id": 1256.0
+      }
+    },
+    {
+      "id": "variant-bb5c3c9a-68a3-5a60-8ea0-ed5439358d33",
+      "score": 0.828767,
+      "metadata": {
+        "text": "core_product_name: centrifugal horizontal pump | type_or_class: GWS",
+        "raw_product_name": "PUMP-CENT.HOR(GWS)",
+        "list_of_product_ids": "6709,5880,10341,8713,12229,18150,18331,24092,19778,23795,24106,23674,23692,23712,23715,23504,23752,36706,37102,33948,36998,37907,38457",
+        "core_id": 329.0
+      }
+    },
+    {
+      "id": "variant-2ad888d5-9143-5033-b2a0-2ff4d351f985",
+      "score": 0.828651,
+      "metadata": {
+        "text": "core_product_name: wellhead control panel",
+        "raw_product_name": "WELLHEAD CONTROL PANEL",
+        "list_of_product_ids": "15459,16750,24836,24824,16753,24938,24950,37081,36630,36115",
+        "core_id": 2470.0
+      }
+    },
+    {
+      "id": "variant-b7376535-2715-5ef8-8c57-c6ece399fec9",
+      "score": 0.8283815,
+      "metadata": {
+        "text": "core_product_name: distributed digital control, monitoring information system | acronymed_core_product_name: ddcmis",
+        "raw_product_name": "DISTRIBUTED DIGITAL CONTROL,MONITORING INFORMATION SYSTEM(DDCMIS)",
+        "list_of_product_ids": "1,361,820,927",
+        "core_id": 605.0
+      }
+    },
+    {
+      "id": "variant-27414862-2c30-5909-a2ca-0bc04ed19755",
+      "score": 0.82816356,
+      "metadata": {
+        "text": "core_product_name: transfer pump | acronymed_core_product_name: OWS (Oily Water Separator) pump",
+        "raw_product_name": "OWS Transfer Pumps",
+        "list_of_product_ids": "138,551,977,221,526",
+        "core_id": 1609.0
+      }
+    },
+    {
+      "id": "variant-3d1bb32b-82c9-5e48-bdfa-b2c33d26a29d",
+      "score": 0.82803756,
+      "metadata": {
+        "text": "core_product_name: gas analysis component",
+        "raw_product_name": "GAS ANALYSIS COMPONENTS",
+        "list_of_product_ids": "19223,19224,19648,27343,39577,39714",
+        "core_id": 1019.0
+      }
+    },
+    {
+      "id": "variant-36941d1d-74c0-536c-b4d8-1570d8f5d4be",
+      "score": 0.8274914,
+      "metadata": {
+        "text": "core_product_name: gas welding equipment",
+        "raw_product_name": "GAS WELDING EQUIPMENT",
+        "list_of_product_ids": "218,672,187,028,061",
+        "core_id": 1036.0
+      }
+    },
+    {
+      "id": "variant-19ed9fe9-31f3-5298-9c2c-4e26777a2d11",
+      "score": 0.8273711,
+      "metadata": {
+        "text": "core_product_name: gas detection system",
+        "raw_product_name": "GAS DETECTION SYSTEMS",
+        "list_of_product_ids": "6549,5720,10456,11233,11243,10651,10650,11424,11422,11722,12817,12820,12819,13110,13111,18189,36733,35577,36091,36095",
+        "core_id": 1028.0
+      }
+    },
+    {
+      "id": "variant-5a827aa7-391f-5f70-92bd-88bb21f7214d",
+      "score": 0.8272533,
+      "metadata": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: mcc (motor control center) switchgear panel | size_or_capacity: 415V | type_or_class: MCC (Motor Control Center)",
+        "raw_product_name": "415V SWITCHGEAR PANEL (MCC)",
+        "list_of_product_ids": "15389,14160,14609,17689,38512",
+        "core_id": 18.0
+      }
+    },
+    {
+      "id": "variant-2b0e8fd1-5aa1-5090-b6ce-851f4b124f7a",
+      "score": 0.82699955,
+      "metadata": {
+        "text": "core_product_name: weather monitoring system | acronymed_core_product_name: wms (weather monitoring system)",
+        "raw_product_name": "Weather Monitoring System (WMS)",
+        "list_of_product_ids": "18274,18546,18594,18593",
+        "core_id": 2488.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.8265281,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-0a2c8e44-9013-5d8c-80c7-198b456cf8f7",
+      "score": 0.8263331,
+      "metadata": {
+        "text": "core_product_name: miniature type hardwire console item",
+        "raw_product_name": "MINIATURE TYPE HARDWIRE CONSOLE ITEMS",
+        "list_of_product_ids": "5935,6764,10918,10920,10919",
+        "core_id": 1480.0
+      }
+    },
+    {
+      "id": "variant-1b301242-51fc-526a-84ff-a5c917de276a",
+      "score": 0.826245,
+      "metadata": {
+        "text": "core_product_name: pressure indicating controller",
+        "raw_product_name": "PRESSURE INDICATING CONTROLLERS",
+        "list_of_product_ids": "17056,17059,17058,17057,28751,36365,40118",
+        "core_id": 1772.0
+      }
+    },
+    {
+      "id": "variant-8c65b49d-0337-5355-b0b0-c268b6784810",
+      "score": 0.82615054,
+      "metadata": {
+        "text": "core_product_name: oxygen analyser",
+        "raw_product_name": "OXYGEN ANALYSER",
+        "list_of_product_ids": "13864,15102,15309,15317,36196,36345,40056",
+        "core_id": 1607.0
+      }
+    },
+    {
+      "id": "variant-9d54fd87-21ea-5c1a-ae13-333a826234cd",
+      "score": 0.8258916,
+      "metadata": {
+        "text": "core_product_name: system panel",
+        "raw_product_name": "SYSTEM PANELS",
+        "list_of_product_ids": "1,413,621,099",
+        "core_id": 2180.0
+      }
+    },
+    {
+      "id": "variant-f0337ba8-6950-573f-8620-dd7b8c06adeb",
+      "score": 0.8256109,
+      "metadata": {
+        "text": "core_product_name: monitor",
+        "raw_product_name": "WATER MONITOR",
+        "list_of_product_ids": "6039,5218,9825,9830,9835,9840,8259,8296,8316,8739,9230,16411,24091,23518,37476",
+        "core_id": 2443.0
+      }
+    },
+    {
+      "id": "variant-c6be1b18-e8c2-5801-aa88-f59bb7536896",
+      "score": 0.8251981,
+      "metadata": {
+        "text": "core_product_name: electronic weigh scale",
+        "raw_product_name": "ELECTRONIC WEIGH SCALE",
+        "list_of_product_ids": "6138,5308,10476,9713,9753,23226",
+        "core_id": 733.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.8251281,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    },
+    {
+      "id": "variant-0eeae93e-6bfe-5a9b-b349-a8eefb91ba7a",
+      "score": 0.82507443,
+      "metadata": {
+        "text": "core_product_name: process gas analyser",
+        "raw_product_name": "PROCESS GAS ANALYSER",
+        "list_of_product_ids": "13877,14675,14683,15310,15318",
+        "core_id": 1789.0
+      }
+    },
+    {
+      "id": "variant-815cfa85-79ff-5a89-89e7-6398f6ad8f78",
+      "score": 0.82491046,
+      "metadata": {
+        "text": "core_product_name: control desk",
+        "raw_product_name": "CONTROL DESK",
+        "list_of_product_ids": "14011,17257,19417,19412,36643",
+        "core_id": 452.0
+      }
+    },
+    {
+      "id": "variant-09fda6e0-1a13-5098-925f-788f30f1f21d",
+      "score": 0.8245009,
+      "metadata": {
+        "text": "core_product_name: stack emission monitoring system",
+        "raw_product_name": "STACK EMMISSION MONITORING SYSTEM",
+        "list_of_product_ids": "1,403,321,845",
+        "core_id": 2097.0
+      }
+    },
+    {
+      "id": "variant-f733ad3f-528f-5638-b3b0-5fea67d5c4fc",
+      "score": 0.8243282,
+      "metadata": {
+        "text": "core_product_name: gas engine",
+        "raw_product_name": "GAS ENGINES",
+        "list_of_product_ids": "19281,19275,20424,20399,20491,20450,36674",
+        "core_id": 1029.0
+      }
+    }
+  ]
+}

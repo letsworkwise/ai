@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: pedestal fan | size: sweep: 400 mm | feature_or_specifications: wattage: 50-65",
+  "retrieval_results": [
+    {
+      "id": "variant-7573f9c5-a789-5e5b-b54b-661f7abe2895",
+      "score": 0.85847133,
+      "metadata": {
+        "text": "core_product_name: axial fan | size_or_capacity: >= 5KW",
+        "raw_product_name": "FAN- AXIAL > = 5KW",
+        "list_of_product_ids": "17190,17186,19354,29945,29942,29941,29946,27098,29944,29943",
+        "core_id": 802.0
+      }
+    },
+    {
+      "id": "variant-9fa7b188-f509-5105-a8eb-1ac5d1dc233d",
+      "score": 0.85529184,
+      "metadata": {
+        "text": "core_product_name: centrifugal fan motor | size_or_capacity: ≥5KW",
+        "raw_product_name": "CENTRIFUGAL FAN (≥5KW) MOTOR",
+        "list_of_product_ids": "17187,17192,17516,19355,18675,19892,32480,32481,32482,32483,32484",
+        "core_id": 326.0
+      }
+    },
+    {
+      "id": "variant-b032218c-8896-57a0-af3e-6851909b39d6",
+      "score": 0.84606,
+      "metadata": {
+        "text": "core_product_name: fan",
+        "raw_product_name": "FAN",
+        "list_of_product_ids": "14325,19642,19649,19692,20765,27716,37513,37517,37520,37525,37527,34405,37500,37516,37505",
+        "core_id": 798.0
+      }
+    },
+    {
+      "id": "variant-fe01ffcb-06ed-5756-a4cd-d13a3e3c4565",
+      "score": 0.84543777,
+      "metadata": {
+        "text": "core_product_name: ceiling fan",
+        "raw_product_name": "CEILING FANS",
+        "list_of_product_ids": "14323,14786,16553,17416",
+        "core_id": 320.0
+      }
+    },
+    {
+      "id": "variant-2f93d8f7-a73a-5975-bf77-9375f12bceaf",
+      "score": 0.8438513,
+      "metadata": {
+        "text": "core_product_name: geared motor | size_or_capacity: below 5 kW",
+        "raw_product_name": "Geared Motor(below 5 kW)",
+        "list_of_product_ids": "7027,7355,10478,10515,10519,10531,10521,10808,10806,35411",
+        "core_id": 1084.0
+      }
+    },
+    {
+      "id": "variant-9ea179cd-c520-5b4b-be23-9a97f71423d0",
+      "score": 0.8420789,
+      "metadata": {
+        "text": "core_product_name: propeller fan",
+        "raw_product_name": "Propeller Fan",
+        "list_of_product_ids": "7111,7438,18219,18429,18440,23395,23394",
+        "core_id": 1850.0
+      }
+    },
+    {
+      "id": "variant-f20bb815-0524-5c4c-a52d-d6dd3b5df3b1",
+      "score": 0.83903706,
+      "metadata": {
+        "text": "core_product_name: geared motor | size_or_capacity: 5 kW and above",
+        "raw_product_name": "Geared Motor (5 kW and above)",
+        "list_of_product_ids": "7032,7359,10514,10807,10805,35412",
+        "core_id": 1084.0
+      }
+    },
+    {
+      "id": "variant-618b1500-e740-51e9-8d49-b14420a29627",
+      "score": 0.8390358,
+      "metadata": {
+        "text": "core_product_name: ventilation fan",
+        "raw_product_name": "VENTILATION FAN",
+        "list_of_product_ids": "7,127,745,418,478",
+        "core_id": 2390.0
+      }
+    },
+    {
+      "id": "variant-a58edd19-4267-57f1-b630-e20e9175a4df",
+      "score": 0.83890414,
+      "metadata": {
+        "text": "core_product_name: fan | material: Aluminum",
+        "raw_product_name": "FANS (ALUMINUM BLADES)",
+        "list_of_product_ids": "7,474,714,910,860",
+        "core_id": 798.0
+      }
+    },
+    {
+      "id": "variant-538ee8b0-3bc5-51df-a346-f852b580ca15",
+      "score": 0.8378627,
+      "metadata": {
+        "text": "core_product_name: electric hoist | size_or_capacity: >5 MT",
+        "raw_product_name": "ELECTRIC HOIST >5 MT",
+        "list_of_product_ids": "13846,23074,29913,29914,29917,29916,29918,29921,29924,29926,29925,29929,29923,29922,29930",
+        "core_id": 692.0
+      }
+    },
+    {
+      "id": "variant-379ba603-1991-5dab-923a-75f4aa1fd2ba",
+      "score": 0.8375482,
+      "metadata": {
+        "text": "core_product_name: geared motor | size_or_capacity: 5 kW and above or below 5 kW",
+        "raw_product_name": "Geared Motor (5 kW and above / below 5 kW)",
+        "list_of_product_ids": "7568,7242,10529,35413",
+        "core_id": 1084.0
+      }
+    },
+    {
+      "id": "variant-2173403c-45cd-5e4e-abe1-250d1120492b",
+      "score": 0.83651155,
+      "metadata": {
+        "text": "core_product_name: centrifugal fan",
+        "raw_product_name": "CENTRIFUGAL FAN",
+        "list_of_product_ids": "13800,15228,23592,23591,40077",
+        "core_id": 325.0
+      }
+    },
+    {
+      "id": "variant-3045303c-4acb-5e83-a3fe-8817086dbed4",
+      "score": 0.83585674,
+      "metadata": {
+        "text": "core_product_name: axial flow fan",
+        "raw_product_name": "FAN-AXIAL FLOW",
+        "list_of_product_ids": "5928,6757,11004,10468,17517,38157",
+        "core_id": 800.0
+      }
+    },
+    {
+      "id": "variant-5cc51db6-72a6-50ec-9ebd-873bb6926e9f",
+      "score": 0.83394206,
+      "metadata": {
+        "text": "core_product_name: exhaust fan",
+        "raw_product_name": "EXHAUST FAN",
+        "list_of_product_ids": "23604,14324,14788,16554,20796,23589",
+        "core_id": 771.0
+      }
+    },
+    {
+      "id": "variant-b08a3d13-8024-5dc0-b9f5-db1064f7b730",
+      "score": 0.8337763,
+      "metadata": {
+        "text": "core_product_name: air handling and fan coil unit",
+        "raw_product_name": "AIR HANDLING & FAN COIL UNIT",
+        "list_of_product_ids": "6046,5225,10823,10839,8496,11907,15518,15957,18085,36937,37038",
+        "core_id": 70.0
+      }
+    },
+    {
+      "id": "variant-b49e88b6-a2bd-5a37-8208-8212f61695a1",
+      "score": 0.8334496,
+      "metadata": {
+        "text": "core_product_name: scanner air fan",
+        "raw_product_name": "SCANNER AIR FAN",
+        "list_of_product_ids": "20255,20235,20233,20232,20258,20344",
+        "core_id": 1972.0
+      }
+    },
+    {
+      "id": "variant-5780dfa2-e8a9-53f9-9190-5eee6ee30fc8",
+      "score": 0.8318861,
+      "metadata": {
+        "text": "core_product_name: gearbox | size_or_capacity: below 50 kW (kilowatt)",
+        "raw_product_name": "Gearbox (below 50 kW)",
+        "list_of_product_ids": "7022,7342,10518,10522,10527,10530,10520,10526,10528,10532,9728,22162",
+        "core_id": 1048.0
+      }
+    },
+    {
+      "id": "variant-ec96de95-8ded-5e75-b681-0ace082cf16e",
+      "score": 0.8298518,
+      "metadata": {
+        "text": "core_product_name: seal air fan",
+        "raw_product_name": "SEAL AIR FAN",
+        "list_of_product_ids": "17189,17185,20253,20234,20303,20259,20335,20256,20954",
+        "core_id": 1982.0
+      }
+    },
+    {
+      "id": "variant-2453414f-2a7c-5818-8718-a658ff2c6da2",
+      "score": 0.82971627,
+      "metadata": {
+        "text": "core_product_name: tube axial fan",
+        "raw_product_name": "Tube Axial Fan",
+        "list_of_product_ids": "7110,7437,18430,18472,18521,19490",
+        "core_id": 2312.0
+      }
+    },
+    {
+      "id": "variant-41a6c6d9-ef4d-520f-b9f3-af2822f8dcef",
+      "score": 0.82857776,
+      "metadata": {
+        "text": "core_product_name: power supply",
+        "raw_product_name": "BUIL POWER SUPPLY",
+        "list_of_product_ids": "5,937,676,612,114",
+        "core_id": 250.0
+      }
+    },
+    {
+      "id": "variant-559cc977-3d03-546c-ad22-5d641d252855",
+      "score": 0.8284403,
+      "metadata": {
+        "text": "core_product_name: pneumatic level instrument",
+        "raw_product_name": "PNEUMATIC LEVEL INSTRUMENTS",
+        "list_of_product_ids": "39510,39511,39581,40152",
+        "core_id": 1716.0
+      }
+    },
+    {
+      "id": "variant-7e79e2f4-50f1-5eb2-ad00-d8225fbf09a8",
+      "score": 0.8283003,
+      "metadata": {
+        "text": "core_product_name: power management system",
+        "raw_product_name": "POWER MANAGEMENT SYSTEM",
+        "list_of_product_ids": "138,561,462,423,212",
+        "core_id": 1744.0
+      }
+    },
+    {
+      "id": "variant-8f7d43be-feac-5cc4-bfba-9de5d2dd8a48",
+      "score": 0.8282764,
+      "metadata": {
+        "text": "core_product_name: power tool",
+        "raw_product_name": "POWER TOOLS",
+        "list_of_product_ids": "40167,40169,40170,40171,40172,40173,40174,40175,40176,40177,40182,40183,40184,40186,40187,40188,40226,40263,40254,40293",
+        "core_id": 1745.0
+      }
+    },
+    {
+      "id": "variant-e540c7c2-e3d6-51f0-8757-526c99406924",
+      "score": 0.8280492,
+      "metadata": {
+        "text": "core_product_name: gearbox | size_or_capacity: above 50 kW (kilowatt)",
+        "raw_product_name": "GEARBOX (ABOVE 50 KW)",
+        "list_of_product_ids": "17847,17844,18653,18730,22161",
+        "core_id": 1048.0
+      }
+    },
+    {
+      "id": "variant-966e4ca5-fe30-58c0-97b6-4325ab0c701e",
+      "score": 0.8269824,
+      "metadata": {
+        "text": "core_product_name: electric hoist control equipment",
+        "raw_product_name": "ELECTRIC HOIST CONTROL EQUIPMENT",
+        "list_of_product_ids": "20829,20827,20825,20823,27097",
+        "core_id": 694.0
+      }
+    },
+    {
+      "id": "variant-3aab3c1a-b3e9-52c8-bf7e-0d99674edf84",
+      "score": 0.8266626,
+      "metadata": {
+        "text": "core_product_name: geared coupling | size_or_capacity: below 50 kW (kilowatt)",
+        "raw_product_name": "Geared Coupling(below 50 kW)",
+        "list_of_product_ids": "7030,7358,10523,10533,9730,18765,18775",
+        "core_id": 1083.0
+      }
+    },
+    {
+      "id": "variant-dbd64053-04ef-5e83-8e56-5ae23bab5c70",
+      "score": 0.8266535,
+      "metadata": {
+        "text": "core_product_name: surface aerator",
+        "raw_product_name": "SURFACE AERATOR",
+        "list_of_product_ids": "7017,7337,10202,17743,23356",
+        "core_id": 2153.0
+      }
+    },
+    {
+      "id": "variant-4912a32f-17d7-5913-8968-f0acc6c4470c",
+      "score": 0.8265065,
+      "metadata": {
+        "text": "core_product_name: portable power tool",
+        "raw_product_name": "PORTABLE POWER TOOLS",
+        "list_of_product_ids": "22271,22267,27798,40082,40084,40117,40191,40192,40193,40195,40198,40200,40199,40201,40202,40227,40194,40197,40255,40294",
+        "core_id": 1731.0
+      }
+    },
+    {
+      "id": "variant-9f330107-fd33-5a85-83c7-43b09fb012ca",
+      "score": 0.82629246,
+      "metadata": {
+        "text": "core_product_name: peristaltic pump",
+        "raw_product_name": "PERISTALTIC PUMP",
+        "list_of_product_ids": "19214,19212,19659,27528,38632,37200,39779",
+        "core_id": 1639.0
+      }
+    },
+    {
+      "id": "variant-8692b748-5519-5ee6-8a75-3ccc74f10544",
+      "score": 0.8259248,
+      "metadata": {
+        "text": "core_product_name: electric hoist",
+        "raw_product_name": "ELECTRIC HOIST",
+        "list_of_product_ids": "6107,5274,10955,10960,10992,10993,11002,11003,9727,12532,13078,16808,16798,16786,16899,17002,19625,19979,24254,21126,22967,23118,18722,38134",
+        "core_id": 692.0
+      }
+    }
+  ]
+}

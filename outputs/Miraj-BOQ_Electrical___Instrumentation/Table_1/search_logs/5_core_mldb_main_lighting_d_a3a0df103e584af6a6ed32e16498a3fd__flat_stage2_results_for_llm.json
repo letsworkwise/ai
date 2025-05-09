@@ -1,0 +1,124 @@
+{
+  "flat_stage2_results_for_llm": [
+    {
+      "text": "core_product_name: main lighting distribution board | acronymed_core_product_name: MLDB (Main Lighting Distribution Board)",
+      "raw_product_name": "MLDB"
+    },
+    {
+      "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (ldb (lighting distribution board))",
+      "raw_product_name": "A.C. DISTRIBUTION BOARD (LDB)"
+    },
+    {
+      "text": "core_product_name: lightning distribution board | acronymed_core_product_name: ldb (lightning distribution board)",
+      "raw_product_name": "LIGHTNING DISTRIBUTION BOARD/LDB"
+    },
+    {
+      "text": "core_product_name: flame proof local distribution board | acronymed_core_product_name: ldb (local distribution board) | protection_features: Flame proof",
+      "raw_product_name": "FLAME PROOF LDB’S"
+    },
+    {
+      "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (pdb (power distribution board))",
+      "raw_product_name": "A.C. DISTRIBUTION BOARD (PDB)"
+    },
+    {
+      "text": "core_product_name: power distribution board | acronymed_core_product_name: pdb (power distribution board)",
+      "raw_product_name": "POWER DISTRIBUTION BOARD (PDB)"
+    },
+    {
+      "text": "core_product_name: sub lighting distribution board",
+      "raw_product_name": "SUB LIGHTING DISTRIBUTION BOARD"
+    },
+    {
+      "text": "core_product_name: fixed switchboard | acronymed_core_product_name: switchboard-mv | type_or_class: Medium Voltage (MV) | type_or_class: Motor Control Center (MCC) or Automatic Switchboard (ASB) or Lighting Distribution Board (LDB)",
+      "raw_product_name": "SWITCHBOARD-MV:MCC/ASB/LDB-FIXED TYPE"
+    },
+    {
+      "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+      "raw_product_name": "DCDB"
+    },
+    {
+      "text": "core_product_name: lighting and power distribution panel",
+      "raw_product_name": "Lighting & Power Distribution Panel"
+    },
+    {
+      "text": "core_product_name: intelligent battery charger | acronymed_core_product_name: dcdb (direct current distribution board) | size_or_capacity: 24V DC (24 Volt Direct Current)",
+      "raw_product_name": "Intelligent Battery charger 24V DC DCDB"
+    },
+    {
+      "text": "core_product_name: flameproof lighting and distribution board | protection_features: Flameproof",
+      "raw_product_name": "FLAMEPROOF LIGHTING & DISTRIBUTION BOARD"
+    },
+    {
+      "text": "core_product_name: distribution board | acronymed_core_product_name: ac (alternating current) distribution board | type_or_class: AC (Alternating Current)",
+      "raw_product_name": "AC Distribution Board"
+    },
+    {
+      "text": "core_product_name: distribution board | acronymed_core_product_name: dc (direct current) distribution board | type_or_class: DC (Direct Current)",
+      "raw_product_name": "DC Distribution Board"
+    },
+    {
+      "text": "core_product_name: inside panel | acronymed_core_product_name: mcb (miniature circuit breaker) panel | type_or_class: Flush type only",
+      "raw_product_name": "MCB Inside Panels (Flush type only)"
+    },
+    {
+      "text": "core_product_name: miniature circuit breaker | acronymed_core_product_name: mcb",
+      "raw_product_name": "MCB"
+    },
+    {
+      "text": "core_product_name: power cable | acronymed_core_product_name: lt (low tension) power cable | size_or_capacity: 1.1 kV (kilovolt) | type_or_class: LT (Low Tension)",
+      "raw_product_name": "1.1 KV LT POWER CABLES"
+    },
+    {
+      "text": "core_product_name: molded case circuit breaker | acronymed_core_product_name: MCCB (Molded Case Circuit Breaker)",
+      "raw_product_name": "MCCB"
+    },
+    {
+      "text": "core_product_name: light emitting diode (LED) display | acronymed_core_product_name: LED display | size_or_capacity: 40” or more",
+      "raw_product_name": "LED display (40” or more)"
+    },
+    {
+      "text": "core_product_name: cable | size_or_capacity: 132kV (132 kilovolt) | material: XLPE (cross-linked polyethylene)",
+      "raw_product_name": "132kV CABLE XLPE"
+    },
+    {
+      "text": "core_product_name: cable | size_or_capacity: 220 kV (kilovolt) | material: XLPE (cross-linked polyethylene)",
+      "raw_product_name": "220 kV CABLE XLPE"
+    },
+    {
+      "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups | accessories_or_attachments: acdb (alternating current distribution board)",
+      "raw_product_name": "UPS With ACDB"
+    },
+    {
+      "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+      "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD"
+    },
+    {
+      "text": "core_product_name: distribution transformer | size_or_capacity: up to 5 MVA (Mega Volt Ampere)",
+      "raw_product_name": "TRANSFORMERS-DISTRIBUTION-UPTO 5MVA"
+    },
+    {
+      "text": "core_product_name: emergency lighting system",
+      "raw_product_name": "EMERGENCY LIGHTING SYSTEM"
+    },
+    {
+      "text": "core_product_name: electrical component",
+      "raw_product_name": "ELECTRICAL COMPONENTS"
+    },
+    {
+      "text": "core_product_name: high tension (HT) switchboard | acronymed_core_product_name: ht switchboard | size_or_capacity: 33 kV | size_or_capacity: 6.6 kV",
+      "raw_product_name": "HT SWITCHBOARD (33 kV & 6.6 Kv)"
+    },
+    {
+      "text": "core_product_name: cable | size_or_capacity: 11KV (11 kiloVolt) | material: XLPE (Cross Linked Polyethylene)",
+      "raw_product_name": "11KV CABLE XLPE"
+    },
+    {
+      "text": "core_product_name: lt (low tension) control panel | acronymed_core_product_name: vfd (variable frequency drive) control panel | type_or_class: VFD (Variable Frequency Drive)",
+      "raw_product_name": "LT VFD Control Panel"
+    },
+    {
+      "text": "core_product_name: lighting transformer",
+      "raw_product_name": "LIGHTING TRANSFORMERS"
+    }
+  ]
+}

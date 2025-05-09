@@ -1,0 +1,64 @@
+{
+  "query": "core_product_name: earthing station | size: inspection chamber: 400(L)x400(W)x450(D)mm, thickness: 150mm, pipe: 100mm ID, pipe thickness: 13mm | feature_or_specifications: cover: CI(cast iron), frame: CI(cast iron), pipe: CI(cast iron), funnel: watering with wire mesh, mixture: salt & charcoal, bolts & nuts: M10, clamps: universal stainless steel, standard: IS3043(indian standard 3043)-2018, standard: NBC 2016(national building code 2016), compliance: full compliance with IS:3043-2018 Earthing Standards/ NBC 2016 (latest), excavation: 400(W & L), back filling: around the Rod/ Pipe",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: fitting | material: Cast Iron (CI)",
+        "raw_product_name": "FITTINGS -CAST IRON (CI)",
+        "list_of_product_ids": [
+          "7618",
+          "7292",
+          "7881",
+          "15941",
+          "16290",
+          "16308",
+          "34586",
+          "35732",
+          "35733"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: casting | material: Cast Iron",
+        "raw_product_name": "CASTING -CAST IRON",
+        "list_of_product_ids": [
+          "21885",
+          "21883",
+          "24612",
+          "39753",
+          "39842",
+          "39868",
+          "39927",
+          "40032"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: plug valve | material: CI (Cast Iron)",
+        "raw_product_name": "VALVE PLUG CI",
+        "list_of_product_ids": [
+          "14077",
+          "23666",
+          "23304",
+          "23289",
+          "23650",
+          "35583"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "sheet_name": "Table 2",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.1 | Supply of SS 304 guiding rail as per specification.",
+      "core_product_name": "guiding rail",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: ss 304 (stainless steel 304)",
+      "quantity": "30.0",
+      "unit": "RM"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "7.1 | Supply of Static Weighing bridge (50 MT) located at near to Central Monitoring Hub (CMH) with load cells with all accessories (load cells, like cable from field to Central Monitoring Hub (CMH), JB, instruments, Jumbo Display for TT  etc.) The rate shall include Static weighing bridges local marshalling / control panel . Vendor to provide Static Weighing bridge local marshalling/ control panel protocol free of cost to M/s IOCL. Supply & installation of Jumbo display for TTs is also included.",
+      "core_product_name": "static weighing bridge",
+      "acronymed_core_product_name": "",
+      "size": "capacity: 50 MT",
+      "feature_or_specifications": "location: near to central monitoring hub (CMH), accessories: load cells, cable from field to central monitoring hub (CMH), JB (junction box), instruments, jumbo display for TT, includes: static weighing bridges local marshalling/control panel, protocol: local marshalling/control panel protocol free of cost to M/s IOCL, supply & installation: jumbo display for TTs included",
+      "quantity": "1.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.1.1 | supply of bourdon type pressure gauge with range 0~ 25kg/cm2. Pressure gauge- IP-66 , SS316 bourdon,zero adjustment facility, micrometer screw type pointer, ±1% accuracy with  all accessories.",
+      "core_product_name": "pressure gauge",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~25 kg/cm2",
+      "feature_or_specifications": "type: bourdon, protection: IP-66, bourdon material: ss316 (stainless steel 316), feature: zero adjustment facility, pointer: micrometer screw type, accuracy: ±1%, accessories: all accessories",
+      "quantity": "4.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.1.2 | supply of bourdon type pressure gauge with range 0~ 16kg/cm2. Pressure gauge- IP-66 , SS316 bourdon,zero adjustment facility, micrometer screw type pointer, ±1% accuracy with  all accessories.",
+      "core_product_name": "pressure gauge",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~16 kg/cm2",
+      "feature_or_specifications": "type: bourdon, protection: IP-66, bourdon material: ss316 (stainless steel 316), feature: zero adjustment facility, pointer: micrometer screw type, accuracy: ±1%, accessories: all accessories",
+      "quantity": "24.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.1.3 | supply of bourdon type pressure gauge with range 0~ 10kg/cm2. Pressure gauge- IP-66 , SS316 bourdon,zero adjustment facility, micrometer screw type pointer, ±1% accuracy with  all accessories.",
+      "core_product_name": "pressure gauge",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~10 kg/cm2",
+      "feature_or_specifications": "type: bourdon, protection: IP-66, bourdon material: ss316 (stainless steel 316), feature: zero adjustment facility, pointer: micrometer screw type, accuracy: ±1%, accessories: all accessories",
+      "quantity": "21.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.1.4 | supply of bourdon type pressure gauge with range 0~ 6kg/cm2. Pressure gauge- IP-66 , SS316 bourdon,zero adjustment facility, micrometer screw type pointer, ±1% accuracy with  all accessories.",
+      "core_product_name": "pressure gauge",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~6 kg/cm2",
+      "feature_or_specifications": "type: bourdon, protection: IP-66, bourdon material: ss316 (stainless steel 316), feature: zero adjustment facility, pointer: micrometer screw type, accuracy: ±1%, accessories: all accessories",
+      "quantity": "4.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.2.1 | Supply of presssure transmitter with calibration range 0~ 25 kg/cm2. Pressure & Differential pressure transmitter",
+      "core_product_name": "pressure transmitter",
+      "acronymed_core_product_name": "",
+      "size": "calibration range: 0~25 kg/cm2",
+      "feature_or_specifications": "",
+      "quantity": "6.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.3.1 | Supply of tempreture transmitter  with calibration range 0~ 100°C   alonge with tempreture elements & cable from element to transmitter. Tempreture Transmitter",
+      "core_product_name": "temperature transmitter",
+      "acronymed_core_product_name": "",
+      "size": "calibration range: 0~100°C",
+      "feature_or_specifications": "accessories: temperature elements & cable from element to transmitter",
+      "quantity": "3.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.4.1 | Supply of level gauge. level gauge- Description:-Transperent Type,IP-66, C To C distance: HOLD, SS float, Vent & Drain Plug: 3/4 \" NPT , Flange:1 1/2\" 300#  RF, Zone-1 IIA/IIB",
+      "core_product_name": "level gauge",
+      "acronymed_core_product_name": "",
+      "size": "vent & drain plug: 3/4\" NPT, flange: 1 1/2\" 300# RF, c to c distance: HOLD",
+      "feature_or_specifications": "type: transparent, protection: IP-66, float material: ss (stainless steel), zone: 1 IIA/IIB",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.5.1 | Supply of tempreture gauge with range 0 ~ 100°C. Temprature gauge: all angle type, 1.5\" 300#  RF well connection, 1/2\" NPT gauge,150mm dial size, SS316 material, shatterproof glass",
+      "core_product_name": "temperature gauge",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~100°C, well connection: 1.5\" 300# RF, gauge connection: 1/2\" NPT, dial size: 150mm",
+      "feature_or_specifications": "type: all angle, material: ss316 (stainless steel 316), glass: shatterproof",
+      "quantity": "5.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.6.1. | Supply of Electromagnetic Flow meter with range 0 ~ 50 m3/hr. Electromagnetic Flow  meter: For  water line of 100mm.",
+      "core_product_name": "electromagnetic flow meter",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~50 m3/hr, water line: 100mm",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.8.1 | Supply of Magnetic Flow Switch with range 0 ~ 15m3/hr. Flow  Switch: For  Water application and line size is 25mm.",
+      "core_product_name": "magnetic flow switch",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~15 m3/hr, line size: 25mm",
+      "feature_or_specifications": "application: water",
+      "quantity": "4.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "FIELD INSTRUMENTS",
+      "full_product_description": "8.8.1 | Supply of Float type level switch with range of 0 ~ 3 mtr. Level Switch: Level Switch for waste water in plant Sumps.",
+      "core_product_name": "float type level switch",
+      "acronymed_core_product_name": "",
+      "size": "range: 0~3 mtr",
+      "feature_or_specifications": "application: waste water in plant sumps",
+      "quantity": "3.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "JUNCTION BOXES  WITH SPARES ACCESSORIES, ALL REQUIRED  COMPONENTS AS PER  ITB SPECIFICATIONS AND DOCUMENTS/ DRAWINGS INCLUDING DOCUMENTATION, TECHNICAL DISCUSSIONS, CORRESPONDENCES, TESTING, INSPECTION, PACKING, TRANSPORTATION TO SITE, GUARANTEE  ETC.",
+      "full_product_description": "9.1.1 | Supply of  Signal Junction Box (BLUE) : Flame proof /ex-proof,  Die cast AL LM6  body, 12 inlet+2 outlet  as per specification suitable for hazardous area of zone 1, group  IIA/IIB, T3 ,having PESO/CMIFR approval. It shall be complete in all respect. Accessories like certified flameproof /exproof  SS316 double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners. Complete as per specifications /  documents. Junction for Field Instruments",
+      "core_product_name": "signal junction box",
+      "acronymed_core_product_name": "",
+      "size": "inlet: 12, outlet: 2",
+      "feature_or_specifications": "color: blue, flame proof: yes, ex-proof: yes, body material: die cast AL LM6 (aluminium LM6), area suitability: hazardous area of zone 1, group IIA/IIB, temperature class: T3, approval: PESO/CMIFR, accessories: certified flameproof/exproof SS316 (stainless steel 316) double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners, specification: as per specifications/documents",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "JUNCTION BOXES  WITH SPARES ACCESSORIES, ALL REQUIRED  COMPONENTS AS PER  ITB SPECIFICATIONS AND DOCUMENTS/ DRAWINGS INCLUDING DOCUMENTATION, TECHNICAL DISCUSSIONS, CORRESPONDENCES, TESTING, INSPECTION, PACKING, TRANSPORTATION TO SITE, GUARANTEE  ETC.",
+      "full_product_description": "9.1.2 | Supply of  Signal Junction Box (BLUE) : Flame proof /ex-proof,  Die cast AL LM6  body, 6 inlet+2 outlet  as per specification suitable for hazardous area of zone 1, group  IIA/IIB, T3 ,having PESO/CMIFR approval. It shall be complete in all respect. Accessories like certified flameproof /exproof  SS316 double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners. Complete as per specifications /  documents. Junction for Field Instruments",
+      "core_product_name": "signal junction box",
+      "acronymed_core_product_name": "",
+      "size": "inlet: 6, outlet: 2",
+      "feature_or_specifications": "color: blue, flame proof: yes, ex-proof: yes, body material: die cast AL LM6 (aluminium LM6), area suitability: hazardous area of zone 1, group IIA/IIB, temperature class: T3, approval: PESO/CMIFR, accessories: certified flameproof/exproof SS316 (stainless steel 316) double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners, specification: as per specifications/documents",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "JUNCTION BOXES  WITH SPARES ACCESSORIES, ALL REQUIRED  COMPONENTS AS PER  ITB SPECIFICATIONS AND DOCUMENTS/ DRAWINGS INCLUDING DOCUMENTATION, TECHNICAL DISCUSSIONS, CORRESPONDENCES, TESTING, INSPECTION, PACKING, TRANSPORTATION TO SITE, GUARANTEE  ETC.",
+      "full_product_description": "9.1.3 | Control Junction Box(GREY):Flame proof /ex-proof, Die cast AL LM6  body, 12 inlet+2 outlet   as per specification suitable for hazardous area of zone 1, group  IIA/IIB, T3 or better having PESO/CMIFR approval. It shall be complete in all respect. Accessories like certified flameproof /exproof  SS316 double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners. Complete as per specifications /  documents. Junction for Field Instruments",
+      "core_product_name": "control junction box",
+      "acronymed_core_product_name": "",
+      "size": "inlet: 12, outlet: 2",
+      "feature_or_specifications": "color: grey, flame proof: yes, ex-proof: yes, body material: die cast AL LM6 (aluminium LM6), area suitability: hazardous area of zone 1, group IIA/IIB, temperature class: T3 or better, approval: PESO/CMIFR, accessories: certified flameproof/exproof SS316 (stainless steel 316) double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners, specification: as per specifications/documents",
+      "quantity": "6.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "JUNCTION BOXES  WITH SPARES ACCESSORIES, ALL REQUIRED  COMPONENTS AS PER  ITB SPECIFICATIONS AND DOCUMENTS/ DRAWINGS INCLUDING DOCUMENTATION, TECHNICAL DISCUSSIONS, CORRESPONDENCES, TESTING, INSPECTION, PACKING, TRANSPORTATION TO SITE, GUARANTEE  ETC.",
+      "full_product_description": "9.1.4 | Supply of  Power Junction Box (GREY): Flame proof /ex-proof, Die cast AL LM6  body, 12 inlet+2 outlet  as per specification suitable for hazardous area of zone 1, group  IIA/IIB, T3 or better having PESO/CMIFR approval. It shall be complete in all respect. Accessories like certified double compression cable glands with PVC shrouds & plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners. Complete as per specifications /  documents. Junction for Field Instruments",
+      "core_product_name": "power junction box",
+      "acronymed_core_product_name": "",
+      "size": "inlet: 12, outlet: 2",
+      "feature_or_specifications": "color: grey, flame proof: yes, ex-proof: yes, body material: die cast AL LM6 (aluminium LM6), area suitability: hazardous area of zone 1, group IIA/IIB, temperature class: T3 or better, approval: PESO/CMIFR, accessories: certified double compression cable glands with PVC shrouds & plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners, specification: as per specifications/documents",
+      "quantity": "7.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "JUNCTION BOXES  WITH SPARES ACCESSORIES, ALL REQUIRED  COMPONENTS AS PER  ITB SPECIFICATIONS AND DOCUMENTS/ DRAWINGS INCLUDING DOCUMENTATION, TECHNICAL DISCUSSIONS, CORRESPONDENCES, TESTING, INSPECTION, PACKING, TRANSPORTATION TO SITE, GUARANTEE  ETC.",
+      "full_product_description": "9.1.5 | Junction Boxes Ex proof-EExd  (JBP ) Terminals  for  LINE,  NEUTRAL,  shall  be isolation breakers  : All  terminals  suitable  for  240 V AC  ,   Exd  type 12 nos. ½” NPTF cable entries at sides + 2 Nos. cable entries  at bottom  ; complete with suitable size double compressor SS316 Flame proof Glands with  Check  Nuts  & gaskets. Junction for Field Instruments",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "cable entries at sides: 12 nos. ½” NPTF, cable entries at bottom: 2 nos.",
+      "feature_or_specifications": "ex proof: EExd, type: JBP, terminals: for line, neutral, feature: isolation breakers, voltage: 240 V AC, type: Exd, accessories: suitable size double compressor SS316 (stainless steel 316) flame proof glands with check nuts & gaskets",
+      "quantity": "1.0",
+      "unit": "Nos."
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      30,
+      59
+    ],
+    "original_rows": [
+      {
+        "0": "7.1",
+        "1": "Supply of Static Weighing bridge (50 MT) located at near to Central Monitoring Hub (CMH) with load cells with all accessories (load cells, like cable from field to Central Monitoring Hub (CMH), JB, instruments, Jumbo Display for TT  etc.) The rate shall include Static weighing bridges local marshalling / control panel . Vendor to provide Static Weighing bridge local marshalling/ control panel protocol free of cost to M/s IOCL. Supply & installation of Jumbo display for TTs is also included.",
+        "2": "Set",
+        "3": 1.0
+      },
+      {
+        "0": "8",
+        "1": "FIELD INSTRUMENTS",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "8.1",
+        "1": "Pressure gauge- IP-66 , SS316 bourdon,zero adjustment facility, micrometer screw type pointer, ±1% accuracy with  all accessories.",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "8.1.1",
+        "1": "supply of bourdon type pressure gauge with range 0~ 25kg/cm2.",
+        "2": "Nos.",
+        "3": 4.0
+      },
+      {
+        "0": "8.1.2",
+        "1": "supply of bourdon type pressure gauge with range 0~ 16kg/cm2.",
+        "2": "Nos.",
+        "3": 24.0
+      },
+      {
+        "0": "8.1.3",
+        "1": "supply of bourdon type pressure gauge with range 0~ 10kg/cm2.",
+        "2": "Nos.",
+        "3": 21.0
+      },
+      {
+        "0": "8.1.4",
+        "1": "supply of bourdon type pressure gauge with range 0~ 6kg/cm2.",
+        "2": "Nos.",
+        "3": 4.0
+      },
+      {
+        "0": "8.2",
+        "1": "Pressure & Differential pressure transmitter",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "8.2.1",
+        "1": "Supply of presssure transmitter with calibration range 0~ 25 kg/cm2.",
+        "2": "Nos.",
+        "3": 6.0
+      },
+      {
+        "0": "8.3",
+        "1": "Tempreture Transmitter",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "8.3.1",
+        "1": "Supply of tempreture transmitter  with calibration range 0~ 100°C   alonge with tempreture elements & cable from element to transmitter.",
+        "2": "Nos.",
+        "3": 3.0
+      },
+      {
+        "0": "8.4",
+        "1": "level gauge- Description:-Transperent Type,IP-66, C To C distance: HOLD, SS float, Vent & Drain Plug: 3/4 \" NPT , Flange:1 1/2\" 300#  RF, Zone-1 IIA/IIB",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "8.4.1",
+        "1": "Supply of level gauge.",
+        "2": "Nos.",
+        "3": 2.0
+      },
+      {
+        "0": "8.5",
+        "1": "Temprature gauge: all angle type, 1.5\" 300#  RF well connection, 1/2\" NPT gauge,150mm dial size, SS316 material, shatterproof glass",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "8.5.1",
+        "1": "Supply of tempreture gauge with range 0 ~ 100°C.",
+        "2": "Nos.",
+        "3": 5.0
+      },
+      {
+        "0": "8.6",
+        "1": "Electromagnetic Flow  meter: For  water line of 100mm.",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "8.6.1.",
+        "1": "Supply of Electromagnetic Flow meter with range 0 ~ 50 m3/hr.",
+        "2": "Nos.",
+        "3": 1.0
+      },
+      {
+        "0": "8.7",
+        "1": "Flow  Switch: For  Water application and line size is 25mm.",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "8.8.1",
+        "1": "Supply of Magnetic Flow Switch with range 0 ~ 15m3/hr.",
+        "2": "Nos.",
+        "3": 4.0
+      },
+      {
+        "0": "8.8",
+        "1": "Level Switch: Level Switch for waste water in plant Sumps.",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "8.8.1",
+        "1": "Supply of Float type level switch with range of 0 ~ 3 mtr.",
+        "2": "Nos.",
+        "3": 3.0
+      },
+      {
+        "0": "9",
+        "1": "JUNCTION BOXES  WITH SPARES ACCESSORIES, ALL REQUIRED  COMPONENTS AS PER  ITB SPECIFICATIONS AND DOCUMENTS/ DRAWINGS INCLUDING DOCUMENTATION, TECHNICAL DISCUSSIONS, CORRESPONDENCES, TESTING, INSPECTION, PACKING, TRANSPORTATION TO SITE, GUARANTEE  ETC.",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "9.1",
+        "1": "Junction for Field Instruments",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "9.1.1",
+        "1": "Supply of  Signal Junction Box (BLUE) : Flame proof /ex-proof,  Die cast AL LM6  body, 12 inlet+2 outlet  as per specification suitable for hazardous area of zone 1, group  IIA/IIB, T3 ,having PESO/CMIFR approval. It shall be complete in all respect. Accessories like certified flameproof /exproof  SS316 double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners. Complete as per specifications /  documents.",
+        "2": "Nos.",
+        "3": 2.0
+      },
+      {
+        "0": "9.1.2",
+        "1": "Supply of  Signal Junction Box (BLUE) : Flame proof /ex-proof,  Die cast AL LM6  body, 6 inlet+2 outlet  as per specification suitable for hazardous area of zone 1, group  IIA/IIB, T3 ,having PESO/CMIFR approval. It shall be complete in all respect. Accessories like certified flameproof /exproof  SS316 double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners. Complete as per specifications /  documents.",
+        "2": "Nos.",
+        "3": 2.0
+      },
+      {
+        "0": "9.1.3",
+        "1": "Control Junction Box(GREY):Flame proof /ex-proof, Die cast AL LM6  body, 12 inlet+2 outlet   as per specification suitable for hazardous area of zone 1, group  IIA/IIB, T3 or better having PESO/CMIFR approval. It shall be complete in all respect. Accessories like certified flameproof /exproof  SS316 double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners. Complete as per specifications /  documents.",
+        "2": "Nos.",
+        "3": 6.0
+      },
+      {
+        "0": "9.1.4",
+        "1": "Supply of  Power Junction Box (GREY): Flame proof /ex-proof, Die cast AL LM6  body, 12 inlet+2 outlet  as per specification suitable for hazardous area of zone 1, group  IIA/IIB, T3 or better having PESO/CMIFR approval. It shall be complete in all respect. Accessories like certified double compression cable glands with PVC shrouds & plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners. Complete as per specifications /  documents.",
+        "2": "Nos.",
+        "3": 7.0
+      },
+      {
+        "0": "9.1.5",
+        "1": "Junction Boxes Ex proof-EExd  (JBP ) Terminals  for  LINE,  NEUTRAL,  shall  be isolation breakers  : All  terminals  suitable  for  240 V AC  ,   Exd  type 12 nos. ½” NPTF cable entries at sides + 2 Nos. cable entries  at bottom  ; complete with suitable size double compressor SS316 Flame proof Glands with  Check  Nuts  & gaskets.",
+        "2": "Nos.",
+        "3": 1.0
+      },
+      {
+        "0": "9.2",
+        "1": "Junction box  for DELUGE VALVE instruments  &  GAS DETECTORS",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "9.2.1",
+        "1": "Supply of  Signal Junction Box (BLUE) : Flame proof /ex-proof,  Die cast AL LM6  body, 12 inlet+2 outlet  as per specification suitable for hazardous area of zone 1, group  IIA/IIB, T3 ,having PESO/CMIFR approval. It shall be complete in all respect. Accessories like certified flameproof /exproof  SS316 double compression cable glands with PVC shrouds & SS plugs for excess entries, SS 316 engraved tag plate, mounting clamp & SS 316 fasteners. Complete as per specifications /  documents.",
+        "2": "Nos.",
+        "3": 3.0
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 3664,
+    "completion_tokens": 4442
+  }
+}

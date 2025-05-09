@@ -1,0 +1,152 @@
+{
+  "query": "core_product_name: gate valve | feature_or_specifications: material: cast iron, manufacturer: koley valve",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: gate valve | material: Cast Iron",
+        "raw_product_name": "VALVE GATE CAST IRON",
+        "list_of_product_ids": [
+          "7133",
+          "7460",
+          "11512",
+          "11979",
+          "17819",
+          "35528",
+          "39520",
+          "39843",
+          "39869",
+          "39928",
+          "40203"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: gate valve | material: SG (Spheroidal Graphite) Iron",
+        "raw_product_name": "VALVE GATE SG IRON",
+        "list_of_product_ids": [
+          "7134",
+          "7461",
+          "11513",
+          "11980",
+          "17820",
+          "35525"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: gate valve | material: Cast",
+        "raw_product_name": "VALVE GATE CAST",
+        "list_of_product_ids": [
+          "5382",
+          "11614",
+          "29395",
+          "7639",
+          "7652",
+          "11635",
+          "11222",
+          "11235",
+          "11245",
+          "11257",
+          "11396",
+          "11429",
+          "6845",
+          "6849",
+          "6854",
+          "6859",
+          "6869",
+          "6874",
+          "6879",
+          "6884",
+          "6889",
+          "6894",
+          "6864",
+          "6963",
+          "6976",
+          "6978",
+          "6980",
+          "6984",
+          "6986",
+          "6955",
+          "6957",
+          "6959",
+          "6961",
+          "6990",
+          "6994",
+          "6982",
+          "6988",
+          "6992",
+          "9258",
+          "7662",
+          "7664",
+          "7666",
+          "7668",
+          "7670",
+          "7631",
+          "7633",
+          "7635",
+          "7637",
+          "7654",
+          "7656",
+          "7658",
+          "7660",
+          "9408",
+          "9427",
+          "9240",
+          "9248",
+          "9167",
+          "9174",
+          "9242",
+          "9306",
+          "9319",
+          "9320",
+          "9338",
+          "12024",
+          "12042",
+          "12033",
+          "12324",
+          "12328",
+          "12427",
+          "12566",
+          "12546",
+          "12651",
+          "13252",
+          "13362",
+          "13366",
+          "13373",
+          "13376",
+          "13380",
+          "6213",
+          "19358",
+          "16660",
+          "19369",
+          "18054",
+          "18381",
+          "18506",
+          "19707",
+          "31712",
+          "33376",
+          "35515",
+          "39521",
+          "40044",
+          "40143"
+        ]
+      }
+    }
+  ]
+}

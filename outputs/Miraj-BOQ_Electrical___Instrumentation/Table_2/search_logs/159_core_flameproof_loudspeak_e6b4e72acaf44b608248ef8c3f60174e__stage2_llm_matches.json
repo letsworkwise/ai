@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: flameproof loudspeaker | feature_or_specifications: flameproof: yes",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof equipment | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF EQUIPMENT",
+        "list_of_product_ids": [
+          "13446",
+          "13447",
+          "13448",
+          "13449",
+          "13450",
+          "13473",
+          "13477"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof plug | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF PLUG",
+        "list_of_product_ids": [
+          "201",
+          "172",
+          "041",
+          "520",
+          "651"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof push button station | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF PUSH BUTTON STATION",
+        "list_of_product_ids": [
+          "13585",
+          "14846",
+          "15921",
+          "20279"
+        ]
+      }
+    }
+  ]
+}

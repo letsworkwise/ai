@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: led monitor | size: screen size: 65 inch | feature_or_specifications: feature: reputed make, location: driver rest room, feature: for display of safety videos & slogans",
+  "retrieval_results": [
+    {
+      "id": "variant-a6f3a592-88ba-56f4-9258-7043fb0c99c6",
+      "score": 0.8493313,
+      "metadata": {
+        "text": "core_product_name: large screen display",
+        "raw_product_name": "Large Screen Display",
+        "list_of_product_ids": "7076,7403,11853,11845",
+        "core_id": 1408.0
+      }
+    },
+    {
+      "id": "variant-60044460-7f86-5b0b-8cdf-73e13c1968ce",
+      "score": 0.8428331,
+      "metadata": {
+        "text": "core_product_name: light emitting diode (LED) display | acronymed_core_product_name: LED display | size_or_capacity: 40” or more",
+        "raw_product_name": "LED display (40” or more)",
+        "list_of_product_ids": "7,077,740,411,850",
+        "core_id": 1329.0
+      }
+    },
+    {
+      "id": "variant-902b6b26-3133-59a8-95d6-3601e1044c0a",
+      "score": 0.841259,
+      "metadata": {
+        "text": "core_product_name: light emitting diode (led) screen | acronymed_core_product_name: led screen",
+        "raw_product_name": "LED SCREEN",
+        "list_of_product_ids": "5,957,678,511,846",
+        "core_id": 1328.0
+      }
+    },
+    {
+      "id": "variant-bbad95d9-b94a-500e-b33a-e10ab8250567",
+      "score": 0.8408661,
+      "metadata": {
+        "text": "core_product_name: safety relief valve",
+        "raw_product_name": "Safety Relief Valve",
+        "list_of_product_ids": "7520,7194,10321,9958,12013,12014,12015,12091,12784,12758,12775,17529,18043,22348,36631,34693,34695,34697,34699,35702,36144,36151,39885",
+        "core_id": 2181.0
+      }
+    },
+    {
+      "id": "variant-002b6201-2a10-5089-b8e8-960002640296",
+      "score": 0.83933836,
+      "metadata": {
+        "text": "core_product_name: safety goggle",
+        "raw_product_name": "SAFETY GOGGLES",
+        "list_of_product_ids": "32936,32937,33006,33044,33198,36663,33263,33563,33636,35925",
+        "core_id": 1948.0
+      }
+    },
+    {
+      "id": "variant-f0337ba8-6950-573f-8620-dd7b8c06adeb",
+      "score": 0.83816034,
+      "metadata": {
+        "text": "core_product_name: monitor",
+        "raw_product_name": "WATER MONITOR",
+        "list_of_product_ids": "6039,5218,9825,9830,9835,9840,8259,8296,8316,8739,9230,16411,24091,23518,37476",
+        "core_id": 2443.0
+      }
+    },
+    {
+      "id": "variant-1a5a5bf1-d5cc-5063-b966-95d4799adb0f",
+      "score": 0.8370603,
+      "metadata": {
+        "text": "core_product_name: safety valve",
+        "raw_product_name": "SAFETY VALVES",
+        "list_of_product_ids": "14389,14381,14554,15199,15333",
+        "core_id": 1950.0
+      }
+    },
+    {
+      "id": "variant-4af64289-afca-503c-b0d6-4b11cce3d60a",
+      "score": 0.83704585,
+      "metadata": {
+        "text": "core_product_name: light emitting diode (led) display | acronymed_core_product_name: led display",
+        "raw_product_name": "LED DISPLAY",
+        "list_of_product_ids": "154,631,427,315,294",
+        "core_id": 1329.0
+      }
+    },
+    {
+      "id": "variant-6daccb7e-afc6-52ac-8f19-b716ca12c3a6",
+      "score": 0.8357234,
+      "metadata": {
+        "text": "core_product_name: video wall | material: LED (Light Emitting Diode)",
+        "raw_product_name": "Video Walls (LED)",
+        "list_of_product_ids": "7078,7405,18019,18418,18417",
+        "core_id": 2418.0
+      }
+    },
+    {
+      "id": "variant-f5caed72-7869-557b-9294-522f8b133ecb",
+      "score": 0.83389574,
+      "metadata": {
+        "text": "core_product_name: video wall",
+        "raw_product_name": "Video wall",
+        "list_of_product_ids": "7081,7408,18012,18421,18416",
+        "core_id": 2418.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.8338596,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    },
+    {
+      "id": "variant-4d5e6e53-120c-5d65-8cd9-e3aa1fd0aae7",
+      "score": 0.8337154,
+      "metadata": {
+        "text": "core_product_name: ball valve | construction_features: soft seated",
+        "raw_product_name": "VALVE BALL (SOFT SEATED)",
+        "list_of_product_ids": "7298,7346,8138,22343,37219,37220,37221,37222,37215,37216,37217,37218,35476",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-c1c7c951-de0a-5601-aa1a-b2d2fb7e1622",
+      "score": 0.8337116,
+      "metadata": {
+        "text": "core_product_name: security search light system",
+        "raw_product_name": "SECURITY SEARCH LIGHT SYSTEM",
+        "list_of_product_ids": "7,065,739,211,726",
+        "core_id": 1989.0
+      }
+    },
+    {
+      "id": "variant-009717dd-5aba-5762-9336-b0d1297f5fef",
+      "score": 0.8329501,
+      "metadata": {
+        "text": "core_product_name: roller screen",
+        "raw_product_name": "ROLLER SCREEN",
+        "list_of_product_ids": "400,974,013,540,158",
+        "core_id": 1913.0
+      }
+    },
+    {
+      "id": "variant-81632571-2c7b-524d-bcc4-14aa9f2e33f4",
+      "score": 0.8324992,
+      "metadata": {
+        "text": "core_product_name: lighting and power panel | operating_conditions: Safe Area",
+        "raw_product_name": "LIGHTING & POWER PANELS (SAFE AREA)",
+        "list_of_product_ids": "5631,6460,10307,11363,9150,9362,11943,24828,24816,24931,24942,19386,38289",
+        "core_id": 1351.0
+      }
+    },
+    {
+      "id": "variant-ae0e8bbe-4a06-5a15-983c-48bd59d44d59",
+      "score": 0.83226615,
+      "metadata": {
+        "text": "core_product_name: safety helmet",
+        "raw_product_name": "SAFETY HELMET",
+        "list_of_product_ids": "21456,21455,27053,33007,33039,33193,36662,33258,33559,33630,37471,35920",
+        "core_id": 1947.0
+      }
+    },
+    {
+      "id": "variant-b92b24ea-bbb8-5d58-8045-cc88814eca42",
+      "score": 0.83208436,
+      "metadata": {
+        "text": "core_product_name: long range monitor",
+        "raw_product_name": "LONG RANGE MONITOR",
+        "list_of_product_ids": "6041,5220,9827,9832,9837,9842,8295,8318",
+        "core_id": 1382.0
+      }
+    },
+    {
+      "id": "variant-ddd4f187-98c8-5f28-be50-d5624a3104d8",
+      "score": 0.8319963,
+      "metadata": {
+        "text": "core_product_name: safety shoe",
+        "raw_product_name": "SAFTY SHOES",
+        "list_of_product_ids": "32882,32883,33005,33038,33192,36664,33257,33560,33631,35919",
+        "core_id": 1951.0
+      }
+    },
+    {
+      "id": "variant-a42e2286-63d0-50f1-b7db-ecb2ab6b3661",
+      "score": 0.83146703,
+      "metadata": {
+        "text": "core_product_name: hazardous area lighting panel | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF - HAZARDOUS AREA LIGHTING PANEL",
+        "list_of_product_ids": "19706,19705,19702,19700,19695,19670,27175,35892,35945,40178,40228",
+        "core_id": 891.0
+      }
+    },
+    {
+      "id": "variant-0caffa1c-23c9-51bb-94c7-0a1deb0730b2",
+      "score": 0.8310194,
+      "metadata": {
+        "text": "core_product_name: safety shower and eye washer",
+        "raw_product_name": "SAFETY SHOWER & EYE WASHER",
+        "list_of_product_ids": "6023,5202,8477,8478,18843,36920",
+        "core_id": 1949.0
+      }
+    },
+    {
+      "id": "variant-35edf62b-a83f-553d-9019-f1a2256ad6d6",
+      "score": 0.83076435,
+      "metadata": {
+        "text": "core_product_name: signal distributor",
+        "raw_product_name": "SIGNAL DISTRIBUTORS",
+        "list_of_product_ids": "13943,15212,20873,22615",
+        "core_id": 2023.0
+      }
+    },
+    {
+      "id": "variant-21c63e29-ac02-5a6b-9277-0dfa76771131",
+      "score": 0.8305828,
+      "metadata": {
+        "text": "core_product_name: loop powered indicator",
+        "raw_product_name": "LOOP POWERED INDICATORS",
+        "list_of_product_ids": "6593,5763,11632,11633,10042,10068,8403,12844,38272",
+        "core_id": 1383.0
+      }
+    },
+    {
+      "id": "variant-571eec7a-6e40-518d-bc9e-aca92a0117a9",
+      "score": 0.83055913,
+      "metadata": {
+        "text": "core_product_name: remote controlled monitor",
+        "raw_product_name": "REMOTE CONTROLLED MONITORS",
+        "list_of_product_ids": "6042,5221,8319,24103,22791",
+        "core_id": 1896.0
+      }
+    },
+    {
+      "id": "variant-887682e1-b5c0-5cf1-8309-45fa808bdbac",
+      "score": 0.8301492,
+      "metadata": {
+        "text": "core_product_name: intrinsic safety barrier",
+        "raw_product_name": "INTRINSIC SAFETY BARRIERS",
+        "list_of_product_ids": "137,582,030,823,683",
+        "core_id": 1289.0
+      }
+    },
+    {
+      "id": "variant-8383cdc4-4669-51eb-9ff6-98d97836179f",
+      "score": 0.8296667,
+      "metadata": {
+        "text": "core_product_name: ball valve | construction_features: metal seated",
+        "raw_product_name": "VALVE BALL (METEL SEATED)",
+        "list_of_product_ids": "7299,7347,8139,8144,22518,22650,37224,37225,37226,37228,37227,37232,35477",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-91ddc546-7124-56e1-a6bf-d3ca57103a42",
+      "score": 0.82962495,
+      "metadata": {
+        "text": "core_product_name: foam monitor",
+        "raw_product_name": "FOAM MONITOR",
+        "list_of_product_ids": "21493,21506,21501,24709,24718",
+        "core_id": 967.0
+      }
+    },
+    {
+      "id": "variant-e250c010-85e4-5944-91ae-fde2f1037108",
+      "score": 0.8295358,
+      "metadata": {
+        "text": "core_product_name: ball valve | construction_features: metal seated",
+        "raw_product_name": "BALL VALVES (METAL SEATED)",
+        "list_of_product_ids": "8689",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-0cd6a304-ead2-5deb-91e8-b4c74619be10",
+      "score": 0.82951474,
+      "metadata": {
+        "text": "core_product_name: drive arrangement",
+        "raw_product_name": "DRIVE ARRANGEMENT FOR CLINKER GRINDER",
+        "list_of_product_ids": "1,344,114,445",
+        "core_id": 624.0
+      }
+    },
+    {
+      "id": "variant-700fd141-780c-57aa-8e1f-36a01481b5bb",
+      "score": 0.82948333,
+      "metadata": {
+        "text": "core_product_name: electronic marker",
+        "raw_product_name": "ELECTRONIC MARKER",
+        "list_of_product_ids": "13904",
+        "core_id": 727.0
+      }
+    },
+    {
+      "id": "variant-413ae249-19f3-5238-9e1e-81c9b8824457",
+      "score": 0.829391,
+      "metadata": {
+        "text": "core_product_name: addressable fire alarm panel",
+        "raw_product_name": "ADDRESSABLE FIRE ALARM PANEL",
+        "list_of_product_ids": "37759,37764,37769,37774,37780,37790",
+        "core_id": 48.0
+      }
+    }
+  ]
+}

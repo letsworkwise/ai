@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: civil works | feature_or_specifications: feature: including supply of cement, brick, concrete & sand",
+  "retrieval_results": [
+    {
+      "id": "variant-ecd99a45-b4da-5751-bab5-585cbed093e6",
+      "score": 0.8607169,
+      "metadata": {
+        "text": "core_product_name: civil maintenance",
+        "raw_product_name": "CIVIL MAINTENANCE",
+        "list_of_product_ids": "233,962,339,128,723",
+        "core_id": 357.0
+      }
+    },
+    {
+      "id": "variant-de387dbe-f6e2-57a8-b867-ddb3d0b4495c",
+      "score": 0.85902965,
+      "metadata": {
+        "text": "core_product_name: cement",
+        "raw_product_name": "CEMENT",
+        "list_of_product_ids": "15524,15525,16282,27349,34029,34040,38128,34702,34703,34704",
+        "core_id": 322.0
+      }
+    },
+    {
+      "id": "variant-7f3fb343-5b1c-5a28-a7bb-d788a4f504c2",
+      "score": 0.8545298,
+      "metadata": {
+        "text": "core_product_name: board | material: Cement",
+        "raw_product_name": "CEMENT BOARD",
+        "list_of_product_ids": "156,861,903,127,990",
+        "core_id": 324.0
+      }
+    },
+    {
+      "id": "variant-60a25ec0-7d9a-559d-ad5d-f5376070cc0e",
+      "score": 0.8544922,
+      "metadata": {
+        "text": "core_product_name: coating | material: Concrete",
+        "raw_product_name": "CONCRETE COATING",
+        "list_of_product_ids": "13941,19476,19470,23076,40166",
+        "core_id": 428.0
+      }
+    },
+    {
+      "id": "variant-d021e903-f730-529b-945d-e9a1406228be",
+      "score": 0.8537952,
+      "metadata": {
+        "text": "core_product_name: construction chemical",
+        "raw_product_name": "CONSTRUCTION CHEMICALS",
+        "list_of_product_ids": "15531,13971,15530,15944,17467,22627,23888,15529,15528,35652",
+        "core_id": 444.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.85176665,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-5efbfc9f-bc75-5353-9be4-8456266d9a3b",
+      "score": 0.851615,
+      "metadata": {
+        "text": "core_product_name: column | material: CS (Carbon Steel) | construction_features: site fabricated",
+        "raw_product_name": "COLUMN-CS SITE FABRICATED",
+        "list_of_product_ids": "6687,5858,9697,12010,12167,12592,13093,23509,37860,37727,37743",
+        "core_id": 392.0
+      }
+    },
+    {
+      "id": "variant-6329b83b-c0cd-5098-a48f-fce6cc7d9b74",
+      "score": 0.85140353,
+      "metadata": {
+        "text": "core_product_name: interlocking block | material: Concrete",
+        "raw_product_name": "INTERLOCKING CONCRETE BLOCKS",
+        "list_of_product_ids": "15533,15534,15536,27036,15535,15532",
+        "core_id": 1284.0
+      }
+    },
+    {
+      "id": "variant-267418f9-f51d-5750-92fb-cfff9170f220",
+      "score": 0.85084605,
+      "metadata": {
+        "text": "core_product_name: integral water-proofing compound | application: for concrete",
+        "raw_product_name": "INTEGRAL WATER-PROOFING COMPOUNDS FOR CONCRETE",
+        "list_of_product_ids": "6377,5548,19636,38284,38439,38444,35250,38426",
+        "core_id": 1278.0
+      }
+    },
+    {
+      "id": "variant-8b1fcf86-0360-56b1-afdd-ddf65f5bc982",
+      "score": 0.85018384,
+      "metadata": {
+        "text": "core_product_name: primary structure | accessories_or_attachments: Fabrication | accessories_or_attachments: Supply",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE (FABRICATION & SUPPLY)",
+        "list_of_product_ids": "237,742,105,321,052",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-9f830cf9-aaed-5a97-8a1b-c000701412dd",
+      "score": 0.84992343,
+      "metadata": {
+        "text": "core_product_name: for cementitious surface water proofing",
+        "raw_product_name": "WATER PROOFING FOR CEMENTITIONS SURFACE",
+        "list_of_product_ids": "14088,22464,24156,23887,22879,35650",
+        "core_id": 2445.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.8498809,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-bde46f53-2d3f-58d4-a2b0-0e3a3d75de38",
+      "score": 0.84785163,
+      "metadata": {
+        "text": "core_product_name: pressed tile | material: Cement Concrete",
+        "raw_product_name": "PRESSED CEMENT CONCRETE TILES",
+        "list_of_product_ids": "16742,16741,16740,16738,27995",
+        "core_id": 1765.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.84752345,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-dc61bb4b-3a37-5c73-9e84-36303b19eb2d",
+      "score": 0.8465905,
+      "metadata": {
+        "text": "core_product_name: based paint | material: Cement",
+        "raw_product_name": "CEMENT BASED PAINT",
+        "list_of_product_ids": "35632,35633,35634,35631,35670",
+        "core_id": 327.0
+      }
+    },
+    {
+      "id": "variant-027ce85c-fdd2-51eb-b988-3e5c1770b6a1",
+      "score": 0.8458779,
+      "metadata": {
+        "text": "core_product_name: waterproof painting work | material: Cement",
+        "raw_product_name": "PAINTING WORKS - WATERPROOF CEMENT",
+        "list_of_product_ids": "5525,6354,12539,12545,12555,12557,14318,16299,16296,18247,18890,18936,30780,30819,31897,30754,33871,33847,34028,34039,34031,34116",
+        "core_id": 1632.0
+      }
+    },
+    {
+      "id": "variant-0f65ae9a-96f2-5688-a949-d7158ab2dd48",
+      "score": 0.8448025,
+      "metadata": {
+        "text": "core_product_name: quick connect fitting | construction_features: quick connect | construction_features: quick connect",
+        "raw_product_name": "FITTINGS-QUICK CONNECT BODY & STEM",
+        "list_of_product_ids": "229,102,291,128,622",
+        "core_id": 883.0
+      }
+    },
+    {
+      "id": "variant-0d36c74f-f1d5-5e9d-a811-76f62093a877",
+      "score": 0.8447768,
+      "metadata": {
+        "text": "core_product_name: synthetic painting work | material: Enamel | special_attributes: For Building Works",
+        "raw_product_name": "PAINTING WORKS - SYNTHETIC ENAMEL (FOR BUILDING WORKS)",
+        "list_of_product_ids": "6353,5524,12197,12544,12554,14309,16294,16293,16292,22318,30747,30773,30812,28834,28832,28830,28828,28823,31890,34336,35226,35227,35228,35267,35337,35369,35343,35406,35364",
+        "core_id": 1631.0
+      }
+    },
+    {
+      "id": "variant-4d5414f9-1164-562f-881b-56ec7ea84f75",
+      "score": 0.8443233,
+      "metadata": {
+        "text": "core_product_name: pre finished tile | material: Cement",
+        "raw_product_name": "PRE FINISHED CEMENT TILES",
+        "list_of_product_ids": "20536,20581,20574,20614,20665,20723",
+        "core_id": 1751.0
+      }
+    },
+    {
+      "id": "variant-9e7cf840-9902-5931-8af9-15479968dd94",
+      "score": 0.8440081,
+      "metadata": {
+        "text": "core_product_name: cooling tower | material: Concrete",
+        "raw_product_name": "COOLING TOWER - CONCRETE",
+        "list_of_product_ids": "8493,14331,14335,36739,36709",
+        "core_id": 481.0
+      }
+    },
+    {
+      "id": "variant-0a7eb65b-5a1d-55c0-96d7-08974730295e",
+      "score": 0.842715,
+      "metadata": {
+        "text": "core_product_name: precast kerb | material: Cement Concrete",
+        "raw_product_name": "PRECAST CEMENT CONCRETE KERBS",
+        "list_of_product_ids": "15662,15667,15661,28022",
+        "core_id": 1757.0
+      }
+    },
+    {
+      "id": "variant-4a40dd6f-7d8c-58dc-b47f-6a3a3bf50a6e",
+      "score": 0.8422542,
+      "metadata": {
+        "text": "core_product_name: site fabrication and erection",
+        "raw_product_name": "FABRICATION & ERECTION (SITE)",
+        "list_of_product_ids": "260,232,602,226,692",
+        "core_id": 789.0
+      }
+    },
+    {
+      "id": "variant-d0009678-bb38-57d8-a0d5-67e1029f225a",
+      "score": 0.84177446,
+      "metadata": {
+        "text": "core_product_name: stone ware pipe | construction_features: salt-glazed",
+        "raw_product_name": "STONE WARE (SALT-GLAZED) PIPES",
+        "list_of_product_ids": "1,406,714,564",
+        "core_id": 2118.0
+      }
+    },
+    {
+      "id": "variant-eb147e60-4a00-529d-9ea8-c88af24b319c",
+      "score": 0.84105545,
+      "metadata": {
+        "text": "core_product_name: sand blasting work",
+        "raw_product_name": "SAND BLASTING WORK",
+        "list_of_product_ids": "1,688,927,906",
+        "core_id": 1956.0
+      }
+    },
+    {
+      "id": "variant-4e41f510-2ece-5a4b-9888-8347ee038b68",
+      "score": 0.8396415,
+      "metadata": {
+        "text": "core_product_name: gray cement | material: Gray",
+        "raw_product_name": "Gray Cement",
+        "list_of_product_ids": "4,032,440,325",
+        "core_id": 1097.0
+      }
+    },
+    {
+      "id": "variant-436646c3-56f2-5eda-ac41-b3798ec97437",
+      "score": 0.8396246,
+      "metadata": {
+        "text": "core_product_name: product | material: Bituminous",
+        "raw_product_name": "BITUMINOUS PRODUCT",
+        "list_of_product_ids": "14189,22476,29236,29235,29234,29233,29232",
+        "core_id": 211.0
+      }
+    },
+    {
+      "id": "variant-b0a1a136-54cf-5b24-ac25-be989e269a6c",
+      "score": 0.8394481,
+      "metadata": {
+        "text": "core_product_name: grey cement | material: Grey",
+        "raw_product_name": "GREY CEMENT",
+        "list_of_product_ids": "40326,40327,38055,38332,38129",
+        "core_id": 1075.0
+      }
+    },
+    {
+      "id": "variant-aee137b0-552a-50c0-995d-be1a301a917d",
+      "score": 0.8388938,
+      "metadata": {
+        "text": "core_product_name: at site material handling and transportation",
+        "raw_product_name": "MATERIAL HANDLING AND TRANSPORTATION AT SITE",
+        "list_of_product_ids": "35825,35831,35840,35879,36082,40091",
+        "core_id": 1445.0
+      }
+    },
+    {
+      "id": "variant-6149d67e-49b9-5a0a-b605-9adfa35289bc",
+      "score": 0.8388261,
+      "metadata": {
+        "text": "core_product_name: white cement",
+        "raw_product_name": "White Cement",
+        "list_of_product_ids": "16300,16297,27991,34141",
+        "core_id": 2494.0
+      }
+    },
+    {
+      "id": "variant-b40d0e24-1686-58a2-93d4-0fe4edd5351d",
+      "score": 0.8383703,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | material: RCC (Reinforced Cement Concrete)",
+        "raw_product_name": "RCC Pipe Fittings",
+        "list_of_product_ids": "13805,19896,22897,23252",
+        "core_id": 182.0
+      }
+    }
+  ]
+}

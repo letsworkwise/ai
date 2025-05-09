@@ -1,0 +1,82 @@
+{
+  "query": "core_product_name: lighting panel | feature_or_specifications: type: double door, paint shade: ral 7032, mounting: wall mounted, suitable for flush mounting, cable entry: bottom, pad locking arrangement: suitable, voltage: 415 v ac (alternating current), phases: 3ph (three phase), bus: 4w (four wire), incomer: one 63 a 4p mcb (miniature circuit breaker), outgoing: 18 nos 20a 240v double pole rcbo (residual current circuit breaker with overcurrent protection) 30ma, enclosure: sheet steel, degree of protection: ip 55",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting and power distribution panel",
+        "raw_product_name": "Lighting & Power Distribution Panel",
+        "list_of_product_ids": [
+          "18723",
+          "18718",
+          "18735",
+          "18734",
+          "18733",
+          "19012",
+          "18997",
+          "18728",
+          "19000",
+          "38293",
+          "35861",
+          "38156"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting and power panel | operating_conditions: Safe Area",
+        "raw_product_name": "LIGHTING & POWER PANELS (SAFE AREA)",
+        "list_of_product_ids": [
+          "5631",
+          "6460",
+          "10307",
+          "11363",
+          "9150",
+          "9362",
+          "11943",
+          "24828",
+          "24816",
+          "24931",
+          "24942",
+          "19386",
+          "38289"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting and power panel | acronymed_core_product_name: FLP (Flameproof) panel | protection_features: Flameproof",
+        "raw_product_name": "LIGHTING & POWER PANELS (FLP)",
+        "list_of_product_ids": [
+          "6418",
+          "5588",
+          "7009",
+          "10306",
+          "10579",
+          "10558",
+          "10588",
+          "10602",
+          "18874",
+          "18920",
+          "22851",
+          "26777",
+          "26773",
+          "26754",
+          "26750",
+          "35770"
+        ]
+      }
+    }
+  ]
+}

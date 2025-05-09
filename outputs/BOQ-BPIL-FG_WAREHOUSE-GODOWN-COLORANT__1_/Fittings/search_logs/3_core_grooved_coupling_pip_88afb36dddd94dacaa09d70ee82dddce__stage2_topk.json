@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: grooved coupling (pipe to pipe) | size: pipe size: 80 NB",
+  "retrieval_results": [
+    {
+      "id": "variant-f9d0f089-635a-5d99-871b-36ab7568eaca",
+      "score": 0.854223,
+      "metadata": {
+        "text": "core_product_name: cross fitting | special_attributes: Seamless (pipes)",
+        "raw_product_name": "FIITINGS CROSS-FROM SEAMLESS PIPES",
+        "list_of_product_ids": "6319,5490,11288,33988,33987,33986",
+        "core_id": 822.0
+      }
+    },
+    {
+      "id": "variant-de672701-9ade-5c81-8247-0ddaf7d35263",
+      "score": 0.8529648,
+      "metadata": {
+        "text": "core_product_name: hose coupling",
+        "raw_product_name": "HOSE COUPLING",
+        "list_of_product_ids": "8887,8914,9058,9822,9050,9054,9143,20026,20038",
+        "core_id": 1145.0
+      }
+    },
+    {
+      "id": "variant-8b08aed3-7c60-5bf1-8758-bc5bc5707a0a",
+      "score": 0.85243535,
+      "metadata": {
+        "text": "core_product_name: coupling",
+        "raw_product_name": "COUPLING",
+        "list_of_product_ids": "14102,19606,19603,21430,24786,24777,24787,24800,24801,24814,25096,37417,37437",
+        "core_id": 497.0
+      }
+    },
+    {
+      "id": "variant-8b17e0b9-66f6-5d0e-86c3-90233954cdce",
+      "score": 0.85148585,
+      "metadata": {
+        "text": "core_product_name: pipe fitting",
+        "raw_product_name": "PIPE FITTINGS",
+        "list_of_product_ids": "22332,22331,22330,23352,23353,24583,36871,30825,36882,37027,28815,37304,36590,33279,33280,33281,37015,37157,36862,35736,35737,35738,35739,35740,35741,35742,36885,36524",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-e0d4f4c7-a28c-568e-892e-f4bd7c857efd",
+      "score": 0.8511096,
+      "metadata": {
+        "text": "core_product_name: geared coupling | size_or_capacity: 50 kW and above",
+        "raw_product_name": "Geared Coupling(50 kW and above)",
+        "list_of_product_ids": "7046,7373,9729,18764,18774",
+        "core_id": 1083.0
+      }
+    },
+    {
+      "id": "variant-c600bffc-d53a-53a6-8754-c996b2644bec",
+      "score": 0.8510692,
+      "metadata": {
+        "text": "core_product_name: fluid coupling",
+        "raw_product_name": "Fluid Coupling",
+        "list_of_product_ids": "7541,7215,9733,16462",
+        "core_id": 948.0
+      }
+    },
+    {
+      "id": "variant-3aab3c1a-b3e9-52c8-bf7e-0d99674edf84",
+      "score": 0.85051584,
+      "metadata": {
+        "text": "core_product_name: geared coupling | size_or_capacity: below 50 kW (kilowatt)",
+        "raw_product_name": "Geared Coupling(below 50 kW)",
+        "list_of_product_ids": "7030,7358,10523,10533,9730,18765,18775",
+        "core_id": 1083.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.8464521,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    },
+    {
+      "id": "variant-3f2acb41-a1eb-5138-ad21-61ecd0048e63",
+      "score": 0.8460097,
+      "metadata": {
+        "text": "core_product_name: pipeline connector",
+        "raw_product_name": "PIPELINE CONNECTORS",
+        "list_of_product_ids": "6,011,519,022,696",
+        "core_id": 1679.0
+      }
+    },
+    {
+      "id": "variant-74503a1f-fa22-5c08-ac97-9f8dba31f1f4",
+      "score": 0.845623,
+      "metadata": {
+        "text": "core_product_name: conduit fitting",
+        "raw_product_name": "FITTINGS (CONDUIT)",
+        "list_of_product_ids": "165,391,654,021,574",
+        "core_id": 870.0
+      }
+    },
+    {
+      "id": "variant-94afc0d1-e0c4-562d-b6d3-a66d8aa3ea57",
+      "score": 0.84560484,
+      "metadata": {
+        "text": "core_product_name: conduit pipe",
+        "raw_product_name": "CONDUIT PIPE",
+        "list_of_product_ids": "222,962,229,728,617",
+        "core_id": 440.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8453944,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-7146d757-9e40-5f96-a20a-728f619703b7",
+      "score": 0.8449814,
+      "metadata": {
+        "text": "core_product_name: coupling | type_or_class: Pin Bush or Bibby | size_or_capacity: below 10 kW",
+        "raw_product_name": "Pin Bush/ Bibby Coupling (below10kW)",
+        "list_of_product_ids": "7044,7371,10524,9732,18767",
+        "core_id": 497.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.8440675,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    },
+    {
+      "id": "variant-778645d4-85bb-59dd-8fa4-ed0ea95deb18",
+      "score": 0.84314126,
+      "metadata": {
+        "text": "core_product_name: pin bush or bibby coupling | size_or_capacity: 10kW and above",
+        "raw_product_name": "Pin Bush/ Bibby Coupling (10kW and above)",
+        "list_of_product_ids": "7043,7370,9731,18766",
+        "core_id": 1831.0
+      }
+    },
+    {
+      "id": "variant-1db4e99b-7e61-5b85-b423-76e2c8c1a44a",
+      "score": 0.84270066,
+      "metadata": {
+        "text": "core_product_name: welded pipe fitting",
+        "raw_product_name": "PIPE FITTINGS WELDED",
+        "list_of_product_ids": "14095,15741,16054,16259,16577,19721,20934,22919,16612",
+        "core_id": 1659.0
+      }
+    },
+    {
+      "id": "variant-4913a173-35c9-57a0-be11-6babe2e9c5c0",
+      "score": 0.8415987,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "PIPES- INDIAN STOCKIST",
+        "list_of_product_ids": "30891,30899,30890,30889,30882,30884,30883,30885,30888,30887,30886",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-b28ede24-9ef0-5358-9f86-a7d812b09022",
+      "score": 0.84150153,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "PIPES & TUBULARS",
+        "list_of_product_ids": "6283,5454,7767,7768,7771,11149,10327,11214,11328,11347,10594,7761,7772,7791,8066,12665,12676,13019,13022,13034,13232,13303,13346,17643,19699,19767,24025,21790,21016,30015,36868,31708,31762,31764,31763,30014,36877",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-d617e5c1-f2a0-5f39-9d41-380647ad2f39",
+      "score": 0.84150153,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "PIPES",
+        "list_of_product_ids": "6282,5452,11043,10725,11044,10336,10697,6906,7716,7718,7717,7719,8063,8065,8062,8064,12663,12664,12667,12668,12671,13024,13026,13028,13123,13316,16445,36935,33427,33428,33429,33430,33431,33602",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-b39351ea-cb75-5b3a-8d9a-2a05878b4337",
+      "score": 0.84150153,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "Pipes for optimizing pipelines",
+        "list_of_product_ids": "759,172,668,032",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-7fe0ad8e-24a9-5c57-a81e-ccf349532bd4",
+      "score": 0.8414052,
+      "metadata": {
+        "text": "core_product_name: pipe | accessories_or_attachments: Nozzle",
+        "raw_product_name": "BRANCH PIPE WITH NOZZLE",
+        "list_of_product_ids": "8886,8915,9820,9056,9048,9052,9134,37474,37475",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.84007514,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    },
+    {
+      "id": "variant-0e79bdd6-b79e-559f-9b10-2259217696a2",
+      "score": 0.84000385,
+      "metadata": {
+        "text": "core_product_name: resilient coupling",
+        "raw_product_name": "Resilient Coupling",
+        "list_of_product_ids": "7045,7372,10525,10811,9734",
+        "core_id": 1945.0
+      }
+    },
+    {
+      "id": "variant-1297bf95-04c8-51c3-88c3-57508e8f85d8",
+      "score": 0.8399468,
+      "metadata": {
+        "text": "core_product_name: piping speciality",
+        "raw_product_name": "PIPING SPECIALITY",
+        "list_of_product_ids": "194,961,949,428,268",
+        "core_id": 1689.0
+      }
+    },
+    {
+      "id": "variant-a42bdd25-7045-52a3-ba51-f803ecb7d773",
+      "score": 0.8398685,
+      "metadata": {
+        "text": "core_product_name: forged pipe fitting",
+        "raw_product_name": "FORGED PIPE FITTINGS",
+        "list_of_product_ids": "13663,14901,15749,16041,16260,19726,19799,20064,22660,22654,22913",
+        "core_id": 971.0
+      }
+    },
+    {
+      "id": "variant-4381bff0-b96e-5563-a500-d2b4c0336bf5",
+      "score": 0.83963937,
+      "metadata": {
+        "text": "core_product_name: turbine integral piping",
+        "raw_product_name": "TURBINE INTEGRAL PIPING",
+        "list_of_product_ids": "14001,14706,21706,21745",
+        "core_id": 2293.0
+      }
+    },
+    {
+      "id": "variant-7a47b8db-ee25-518f-9ee3-4b13bf063bda",
+      "score": 0.8396387,
+      "metadata": {
+        "text": "core_product_name: large-diameter pipe",
+        "raw_product_name": "Large-diameter pipe",
+        "list_of_product_ids": "758,772,628,028",
+        "core_id": 1410.0
+      }
+    },
+    {
+      "id": "variant-7aa48c98-4b7d-5946-8320-0a44853c6ebb",
+      "score": 0.8385151,
+      "metadata": {
+        "text": "core_product_name: component pipe support",
+        "raw_product_name": "Pipe Support components",
+        "list_of_product_ids": "7539,9978,7213,7829,9704,14956",
+        "core_id": 1832.0
+      }
+    },
+    {
+      "id": "variant-38919950-c306-5523-8367-0bb4d14263e3",
+      "score": 0.8367673,
+      "metadata": {
+        "text": "core_product_name: pipeline valve",
+        "raw_product_name": "PIPELINE VALVES",
+        "list_of_product_ids": "7607,7282,8126,8128,9279,9284,8127,12357,12378,22648",
+        "core_id": 1680.0
+      }
+    },
+    {
+      "id": "variant-bb96db43-a603-5b08-b082-1a787ab9db3c",
+      "score": 0.83645797,
+      "metadata": {
+        "text": "core_product_name: conduit accessory",
+        "raw_product_name": "CONDUIT ACCESSORIES",
+        "list_of_product_ids": "20550,20514,20591,20632,20686,20744",
+        "core_id": 439.0
+      }
+    }
+  ]
+}

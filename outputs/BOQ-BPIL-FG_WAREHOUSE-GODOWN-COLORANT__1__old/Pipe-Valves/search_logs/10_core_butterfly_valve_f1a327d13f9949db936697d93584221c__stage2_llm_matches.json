@@ -1,0 +1,132 @@
+{
+  "query": "core_product_name: butterfly valve | size: nominal bore: 100 | feature_or_specifications: manufacturer: L&T or AUDCO",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: butterfly valve | material: CSS (Cast Stainless Steel)",
+        "raw_product_name": "VALVE BUTTERFLY -CSS",
+        "list_of_product_ids": [
+          "6250",
+          "5419",
+          "8174",
+          "8177",
+          "8339",
+          "8559",
+          "8701",
+          "12338",
+          "19424",
+          "23770",
+          "25968",
+          "35495"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: butterfly valve | material: PTFE (Polytetrafluoroethylene)",
+        "raw_product_name": "VALVE BUTTERFLY (PTFE SEATED)",
+        "list_of_product_ids": [
+          "6252",
+          "5421",
+          "8179",
+          "8664",
+          "12453",
+          "25973",
+          "35500"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: butterfly valve",
+        "raw_product_name": "VALVE BUTTERFLY",
+        "list_of_product_ids": [
+          "6248",
+          "5417",
+          "11058",
+          "11064",
+          "11059",
+          "11062",
+          "29397",
+          "12273",
+          "11143",
+          "11650",
+          "10367",
+          "10319",
+          "10412",
+          "10442",
+          "11428",
+          "6847",
+          "6851",
+          "6856",
+          "6861",
+          "6866",
+          "6871",
+          "6876",
+          "6881",
+          "6886",
+          "6891",
+          "6896",
+          "7853",
+          "8155",
+          "8161",
+          "8168",
+          "8169",
+          "8331",
+          "8655",
+          "9039",
+          "11972",
+          "12607",
+          "12611",
+          "12653",
+          "13124",
+          "13282",
+          "15485",
+          "15176",
+          "17237",
+          "17757",
+          "17825",
+          "18092",
+          "18898",
+          "18942",
+          "19856",
+          "22404",
+          "22433",
+          "22427",
+          "22712",
+          "23529",
+          "31661",
+          "30835",
+          "36660",
+          "30955",
+          "30843",
+          "30849",
+          "30850",
+          "30871",
+          "36773",
+          "35492",
+          "38421",
+          "39970",
+          "39757",
+          "39924",
+          "40040",
+          "40147"
+        ]
+      }
+    }
+  ]
+}

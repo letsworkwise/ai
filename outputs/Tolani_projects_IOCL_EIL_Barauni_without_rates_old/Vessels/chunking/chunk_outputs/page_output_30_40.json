@@ -1,0 +1,178 @@
+{
+  "sheet_name": "Vessels",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "APPURTENANCES > STORAGE TANKS > STRUCTURAL/PIPES > STILL WELLS/ DIP PIPES",
+      "full_product_description": "Roof   Nozzle   150   Class   WNRF   Type   16 Inch  Size SA 105   Material",
+      "core_product_name": "nozzle",
+      "acronymed_core_product_name": "",
+      "size": "size: 16 inch",
+      "feature_or_specifications": "location: roof, pressure class: 150, flange type: wnrf(weld neck raised face), material: sa 105",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "APPURTENANCES > STORAGE TANKS > STRUCTURAL/PIPES > STILL WELLS/ DIP PIPES",
+      "full_product_description": "CALIBRATION Carrying out calibration of tanks including supply of strapping tapes, scaffolding wherever required, arranging the visit of competent authority, all accessories, labour, preparation and submission of calibration charts duly approved by Competent authority etc. and complete the work in all respect as per Codes, specifications, standards and instructions of Engineer-in-Charge Diameter (Meters) :   > 10 to 25   Height (Meters) :   > 10",
+      "core_product_name": "calibration",
+      "acronymed_core_product_name": "",
+      "size": "diameter: > 10 to 25 meters, height: > 10 meters",
+      "feature_or_specifications": "includes: supply of strapping tapes, scaffolding, arranging visit of competent authority, all accessories, labour, preparation and submission of calibration charts, approval by competent authority, as per codes, specifications, standards and instructions of engineer-in-charge",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "APPURTENANCES > STORAGE TANKS > STRUCTURAL/PIPES > STILL WELLS/ DIP PIPES",
+      "full_product_description": "APPLICATION OF HOT INSULATION Supply  of  all  materials,  application  of  hot  insulation  as  per  applicable on outside surface of tank shell, roof, nozzles, manholes, appurtenances, attachments  etc., including  supply  of  all  materials  and  installation  of  all  insulation  supports as per  applicable standard  and  completing  the  work  in  all  respect  as  per drawings, specifications, standards and instructions of Engineer-in-Charge.  Surface preparation  and primer application on insulated surfaces is covered under painting Schedule of  rate. All materials shall be supplied by Contractor. Insulation Type :   IH   Insulation Material :   Rockwool Thickness :   60 mm",
+      "core_product_name": "hot insulation",
+      "acronymed_core_product_name": "",
+      "size": "thickness: 60 mm",
+      "feature_or_specifications": "insulation type: ih, insulation material: rockwool, application: outside surface of tank shell, roof, nozzles, manholes, appurtenances, attachments, includes: supply and installation of insulation supports, as per applicable standard, drawings, specifications, standards and instructions of engineer-in-charge, surface preparation and primer application covered under painting schedule of rate, all materials supplied by contractor",
+      "quantity": "4800.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "APPURTENANCES > STORAGE TANKS > STRUCTURAL/PIPES > STILL WELLS/ DIP PIPES",
+      "full_product_description": "HEATING COIL (STEAM TRACING etc.) / COOLING COIL For heating/ cooling coils inside the tank, external tracing coils on tank's shell/ roof: Supply of all materials (i.e. coil pipes, inlet and outlet nozzles (necks & flanges) on tank shell as well for tracing pipes, supports/ welded clips/ all SS 304 clamps / bolting material etc.), fabrication of coil as per drawings, installation of the same in position along with all associated items (supports/ clamps/ clips/ nozzles/ duly bolted, including radiography of all weld joints and hydrotesting of coil as per specifications, preparation of layout arrangement & fabrication drawings and getting the same approved by Owner/ EIL as per standards, specifications, instruction of Engineer-in- Charge. (Note: Supporting structures/ welded clips are covered under Structural/ Plate work). Coil pipe material:   SA 106 Gr. B   Coil pipe Size (NB)   50",
+      "core_product_name": "heating coil or cooling coil",
+      "acronymed_core_product_name": "",
+      "size": "coil pipe size (nb): 50",
+      "feature_or_specifications": "coil pipe material: sa 106 gr. b, includes: supply of all materials (coil pipes, inlet and outlet nozzles (necks & flanges), tracing pipes, supports, welded clips, ss 304 clamps, bolting material), fabrication and installation as per drawings, radiography of all weld joints, hydrotesting, preparation and approval of layout arrangement & fabrication drawings, as per standards, specifications, instruction of engineer-in-charge, supporting structures/welded clips covered under structural/plate work",
+      "quantity": "51.0",
+      "unit": "mt"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      30,
+      39
+    ],
+    "original_rows": [
+      {
+        "0": 457,
+        "1": 0,
+        "2": "01VV.10.3.1.1V126",
+        "3": "Roof   Nozzle   150   Class   WNRF   Type   16 Inch  Size SA 105   Material",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 458,
+        "1": 0,
+        "2": "01VV.10.8",
+        "3": "CALIBRATION Carrying out calibration of tanks including supply of strapping tapes, scaffolding wherever required, arranging the visit of competent authority, all accessories, labour, preparation and submission of calibration charts duly approved by Competent authority etc. and complete the work in all respect as per Codes, specifications, standards and instructions of Engineer-in-Charge",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 459,
+        "1": 0,
+        "2": "01VV.10.8.2V3",
+        "3": "Diameter (Meters) :   > 10 to 25   Height (Meters) :   > 10",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 460,
+        "1": 0,
+        "2": "01VV.10.9",
+        "3": "APPLICATION OF HOT INSULATION Supply  of  all  materials,  application  of  hot  insulation  as  per  applicable on outside surface of tank shell, roof, nozzles, manholes, appurtenances, attachments  etc., including  supply  of  all  materials  and  installation  of  all  insulation  supports as per  applicable standard  and  completing  the  work  in  all  respect  as  per drawings, specifications, standards and instructions of Engineer-in-Charge.  Surface preparation  and primer application on insulated surfaces is covered under painting Schedule of  rate. All materials shall be supplied by Contractor.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 461,
+        "1": 0,
+        "2": "01VV.10.9.1V22",
+        "3": "Insulation Type :   IH   Insulation Material :   Rockwool Thickness :   60 mm",
+        "4": 4800.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 462,
+        "1": 0,
+        "2": "01VV.10.11",
+        "3": "HEATING COIL",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 463,
+        "1": 0,
+        "2": "01VV.10.11.2",
+        "3": "HEATING COIL (STEAM TRACING etc.) / COOLING COIL For heating/ cooling coils inside the tank, external tracing coils on tank's shell/ roof: Supply of all materials (i.e. coil pipes, inlet and outlet nozzles (necks & flanges) on tank shell as well for tracing pipes, supports/ welded clips/ all SS 304 clamps / bolting material etc.), fabrication of coil as per drawings, installation of the same in position along with all associated items (supports/ clamps/ clips/ nozzles/ duly bolted, including radiography of all weld joints and hydrotesting of coil as per specifications, preparation of layout arrangement & fabrication drawings and getting the same approved by Owner/ EIL as per standards, specifications, instruction of Engineer-in- Charge. (Note: Supporting structures/ welded clips are covered under Structural/ Plate work).",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 464,
+        "1": 0,
+        "2": "01VV.10.11.2.1V3",
+        "3": "Coil pipe material:   SA 106 Gr. B   Coil pipe Size (NB)   50",
+        "4": 51.0,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 465,
+        "1": 0,
+        "2": "01VV.10.14",
+        "3": "DESIGN, SUPPLY & INSTALLATION OF EMERGENCY VENT Design, engineering, manufacture, procurement of materials and bought out components, assembly at shop, inspection, testing at manufacturer's works, packing, delivery, documentation as per the enclosed M/s EIL specification and installation of Emergency Vent etc. to the satisfaction of the Engineer- in Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 466,
+        "1": 0,
+        "2": "01VV.10.14.1V2",
+        "3": "16 Inch  of MOC   CS",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 3764,
+    "completion_tokens": 1531
+  }
+}

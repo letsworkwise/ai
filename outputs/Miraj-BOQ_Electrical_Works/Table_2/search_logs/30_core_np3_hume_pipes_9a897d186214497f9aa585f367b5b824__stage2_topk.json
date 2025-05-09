@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: np3 hume pipes | size: diameter: 100 mm | feature_or_specifications: standard: indian standard 459",
+  "retrieval_results": [
+    {
+      "id": "variant-ea22e0c0-270e-5836-8700-101c6b8c61e0",
+      "score": 0.8684378,
+      "metadata": {
+        "text": "core_product_name: hume pipe",
+        "raw_product_name": "HUME PIPE",
+        "list_of_product_ids": "21849,21850,22133,22272",
+        "core_id": 1182.0
+      }
+    },
+    {
+      "id": "variant-fc5ea489-34d9-5f79-8a61-0e7e57a98756",
+      "score": 0.8614671,
+      "metadata": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards) 3589",
+        "raw_product_name": "PIPE-CARBON STEEL IS: 3589",
+        "list_of_product_ids": "15698,14000,21300,22746,22893,37056,37052,37057,37058,37059,37060,37061,37062",
+        "core_id": 529.0
+      }
+    },
+    {
+      "id": "variant-e8d0d92b-1dda-5e70-b54f-38e4b41d9194",
+      "score": 0.8591031,
+      "metadata": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards): 1239",
+        "raw_product_name": "PIPE-CARBON STEEL IS: 1239",
+        "list_of_product_ids": "13999,15697,21642,22745,22894",
+        "core_id": 529.0
+      }
+    },
+    {
+      "id": "variant-185b88e9-63b7-56a0-9df9-801c2285f4c5",
+      "score": 0.85598767,
+      "metadata": {
+        "text": "core_product_name: fitting | standards_and_approvals: IS (Indian Standards)-1239",
+        "raw_product_name": "FITTINGS TO IS-1239",
+        "list_of_product_ids": "14270,14771,33994,33993,33992,33991,33990",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-7a47b8db-ee25-518f-9ee3-4b13bf063bda",
+      "score": 0.8499275,
+      "metadata": {
+        "text": "core_product_name: large-diameter pipe",
+        "raw_product_name": "Large-diameter pipe",
+        "list_of_product_ids": "758,772,628,028",
+        "core_id": 1410.0
+      }
+    },
+    {
+      "id": "variant-dfde9315-c9ad-54bf-b2a7-c86a1ab6fc37",
+      "score": 0.8458998,
+      "metadata": {
+        "text": "core_product_name: hydraulic pipe",
+        "raw_product_name": "HYDRAULIC PIPE",
+        "list_of_product_ids": "298,483,002,329,850",
+        "core_id": 1197.0
+      }
+    },
+    {
+      "id": "variant-4913a173-35c9-57a0-be11-6babe2e9c5c0",
+      "score": 0.8457536,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "PIPES- INDIAN STOCKIST",
+        "list_of_product_ids": "30891,30899,30890,30889,30882,30884,30883,30885,30888,30887,30886",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-b39351ea-cb75-5b3a-8d9a-2a05878b4337",
+      "score": 0.8454924,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "Pipes for optimizing pipelines",
+        "list_of_product_ids": "759,172,668,032",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-d617e5c1-f2a0-5f39-9d41-380647ad2f39",
+      "score": 0.8454924,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "PIPES",
+        "list_of_product_ids": "6282,5452,11043,10725,11044,10336,10697,6906,7716,7718,7717,7719,8063,8065,8062,8064,12663,12664,12667,12668,12671,13024,13026,13028,13123,13316,16445,36935,33427,33428,33429,33430,33431,33602",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-b28ede24-9ef0-5358-9f86-a7d812b09022",
+      "score": 0.8454924,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "PIPES & TUBULARS",
+        "list_of_product_ids": "6283,5454,7767,7768,7771,11149,10327,11214,11328,11347,10594,7761,7772,7791,8066,12665,12676,13019,13022,13034,13232,13303,13346,17643,19699,19767,24025,21790,21016,30015,36868,31708,31762,31764,31763,30014,36877",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-8b17e0b9-66f6-5d0e-86c3-90233954cdce",
+      "score": 0.84515464,
+      "metadata": {
+        "text": "core_product_name: pipe fitting",
+        "raw_product_name": "PIPE FITTINGS",
+        "list_of_product_ids": "22332,22331,22330,23352,23353,24583,36871,30825,36882,37027,28815,37304,36590,33279,33280,33281,37015,37157,36862,35736,35737,35738,35739,35740,35741,35742,36885,36524",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-94afc0d1-e0c4-562d-b6d3-a66d8aa3ea57",
+      "score": 0.84469897,
+      "metadata": {
+        "text": "core_product_name: conduit pipe",
+        "raw_product_name": "CONDUIT PIPE",
+        "list_of_product_ids": "222,962,229,728,617",
+        "core_id": 440.0
+      }
+    },
+    {
+      "id": "variant-3a4a3cca-5fe7-59a5-a1c6-73be3f1d92a3",
+      "score": 0.84423846,
+      "metadata": {
+        "text": "core_product_name: commercial pipe",
+        "raw_product_name": "Commercial pipes",
+        "list_of_product_ids": "758,072,558,021",
+        "core_id": 546.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.8424813,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    },
+    {
+      "id": "variant-8c9ece43-5d93-5447-92ba-1583464630f8",
+      "score": 0.8414653,
+      "metadata": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards) 1239 | construction_features: Black | construction_features: GI (Galvanized Iron)",
+        "raw_product_name": "PIPE-CARBON STEEL IS - 1239 (BLACK & GI)",
+        "list_of_product_ids": "13923,21043,21299,21563,22892,37032,37034,37013,37017,37033",
+        "core_id": 529.0
+      }
+    },
+    {
+      "id": "variant-8897de6f-d516-599d-afbd-01973bb2c53f",
+      "score": 0.84117615,
+      "metadata": {
+        "text": "core_product_name: universal branch pipe",
+        "raw_product_name": "UNIVERSAL BRANCH PIPE",
+        "list_of_product_ids": "23807,23812,23813,23815,23817,23818,23821,23797,23801,23806,23808,28663,23811,23810,23805",
+        "core_id": 2321.0
+      }
+    },
+    {
+      "id": "variant-eabf7f2b-a3e7-5d1b-8a79-6ce35bcaea92",
+      "score": 0.8411632,
+      "metadata": {
+        "text": "core_product_name: district heat pipe",
+        "raw_product_name": "District heat pipes",
+        "list_of_product_ids": "758,372,588,023",
+        "core_id": 657.0
+      }
+    },
+    {
+      "id": "variant-2da39fd8-2a03-5b2a-b6a3-bb346e5c6b7a",
+      "score": 0.84062016,
+      "metadata": {
+        "text": "core_product_name: line pipe",
+        "raw_product_name": "Line pipe",
+        "list_of_product_ids": "7589,7264,10302,8030,36593",
+        "core_id": 1362.0
+      }
+    },
+    {
+      "id": "variant-cf23d18a-3fb3-5ab5-b22b-a3778ac1d5c7",
+      "score": 0.8405788,
+      "metadata": {
+        "text": "core_product_name: soil pipe",
+        "raw_product_name": "SOIL PIPES",
+        "list_of_product_ids": "20572,20534,20613,20618,20667,20725",
+        "core_id": 2054.0
+      }
+    },
+    {
+      "id": "variant-067779a2-122f-53f1-9469-d03371626e54",
+      "score": 0.8404966,
+      "metadata": {
+        "text": "core_product_name: pipe insulation",
+        "raw_product_name": "PIPE INSULATION",
+        "list_of_product_ids": "13921,16092,16635,16633,18103,23466,23458,34600",
+        "core_id": 1662.0
+      }
+    },
+    {
+      "id": "variant-7ab9f76e-9c63-5605-8747-e9fad4f081a9",
+      "score": 0.8401622,
+      "metadata": {
+        "text": "core_product_name: drill pipe",
+        "raw_product_name": "Drill pipe",
+        "list_of_product_ids": "7582,7257,8024,36866,36875",
+        "core_id": 658.0
+      }
+    },
+    {
+      "id": "variant-44118678-c7ed-5092-bf4d-f7fa7d67002e",
+      "score": 0.8397786,
+      "metadata": {
+        "text": "core_product_name: bush pipe",
+        "raw_product_name": "BUSH PIPE",
+        "list_of_product_ids": "298,513,002,429,849",
+        "core_id": 261.0
+      }
+    },
+    {
+      "id": "variant-f9d0f089-635a-5d99-871b-36ab7568eaca",
+      "score": 0.8396965,
+      "metadata": {
+        "text": "core_product_name: cross fitting | special_attributes: Seamless (pipes)",
+        "raw_product_name": "FIITINGS CROSS-FROM SEAMLESS PIPES",
+        "list_of_product_ids": "6319,5490,11288,33988,33987,33986",
+        "core_id": 822.0
+      }
+    },
+    {
+      "id": "variant-1297bf95-04c8-51c3-88c3-57508e8f85d8",
+      "score": 0.83955353,
+      "metadata": {
+        "text": "core_product_name: piping speciality",
+        "raw_product_name": "PIPING SPECIALITY",
+        "list_of_product_ids": "194,961,949,428,268",
+        "core_id": 1689.0
+      }
+    },
+    {
+      "id": "variant-430c4d2c-af28-5d6a-bc20-d92c35ca8000",
+      "score": 0.8391432,
+      "metadata": {
+        "text": "core_product_name: lead pipe",
+        "raw_product_name": "PIPE-LEAD",
+        "list_of_product_ids": "630,054,717,793",
+        "core_id": 1670.0
+      }
+    },
+    {
+      "id": "variant-7349bbfd-436a-5d00-abac-f7bf4c4a9080",
+      "score": 0.83887327,
+      "metadata": {
+        "text": "core_product_name: boiler pipe",
+        "raw_product_name": "BOILER PIPING",
+        "list_of_product_ids": "135,771,469,920,076",
+        "core_id": 222.0
+      }
+    },
+    {
+      "id": "variant-8da86637-640e-57ed-97ed-42c7b129a944",
+      "score": 0.83834404,
+      "metadata": {
+        "text": "core_product_name: copper pipe",
+        "raw_product_name": "COPPER PIPE",
+        "list_of_product_ids": "757,172,467,754",
+        "core_id": 486.0
+      }
+    },
+    {
+      "id": "variant-aabd563e-cc76-5d89-b841-f08d650d24f1",
+      "score": 0.83822155,
+      "metadata": {
+        "text": "core_product_name: cu-ni (copper-nickel) pipe",
+        "raw_product_name": "PIPES (CU-NI)",
+        "list_of_product_ids": "13933,16999,33601,33715",
+        "core_id": 1681.0
+      }
+    },
+    {
+      "id": "variant-ee98ad6b-79c8-5d80-8b94-93abaa4ba33d",
+      "score": 0.8375596,
+      "metadata": {
+        "text": "core_product_name: cladded pipe",
+        "raw_product_name": "CLADDED PIPE",
+        "list_of_product_ids": "6295,5466,11562,7764,7783,7799,13030,13031",
+        "core_id": 359.0
+      }
+    },
+    {
+      "id": "variant-1db4e99b-7e61-5b85-b423-76e2c8c1a44a",
+      "score": 0.83742404,
+      "metadata": {
+        "text": "core_product_name: welded pipe fitting",
+        "raw_product_name": "PIPE FITTINGS WELDED",
+        "list_of_product_ids": "14095,15741,16054,16259,16577,19721,20934,22919,16612",
+        "core_id": 1659.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "query": "core_product_name: control cable termination | size: cable: 9Cx2.5 sqmm | feature_or_specifications: conductor material: copper, termination kit: included",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": [
+          "6444",
+          "5614",
+          "11000",
+          "12263",
+          "12344",
+          "15781",
+          "23866",
+          "24503"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: control cable | type_or_class: Control",
+        "raw_product_name": "CABLES:CONTROL",
+        "list_of_product_ids": [
+          "10003",
+          "10018",
+          "10247",
+          "14646",
+          "36569",
+          "24046",
+          "23897"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: control cable | type_or_class: Control",
+        "raw_product_name": "CONTROL CABLE",
+        "list_of_product_ids": [
+          "14006",
+          "15171",
+          "15812",
+          "15972",
+          "36570",
+          "20132"
+        ]
+      }
+    }
+  ]
+}

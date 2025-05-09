@@ -1,0 +1,89 @@
+{
+  "query": "core_product_name: programmable logic controller | acronymed_core_product_name: plc | size: ai: 25 nos, di: 96 nos, do: 80 nos, serial interface ports: 28, spare io: minimum 20% | feature_or_specifications: redundancy: dual redundant (parallel/hot standby), panels: plc panels, marshalling panels, modules: input output, power supply units, relays with base, barriers, tbs (terminal blocks), dual ethernet ports per processor, serial interface modules, hmi (human machine interface) console, wirings, glands, plugs, other modules/hardwares: required for interfacing all required field and cmh (central monitoring hub) equipments, spare requirements: included, licenses: included, tags: included, gui: included, softwares: included, specification: as per tender document, plc panel count: optimized to accommodate all signals in one panel only",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: programmable logic controller | acronymed_core_product_name: plc subsystem",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER (PLC SUBSYSTEM)",
+        "list_of_product_ids": [
+          "13889",
+          "15107",
+          "20015",
+          "20010",
+          "36350",
+          "37195",
+          "36201"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: programmable logic controller system | acronymed_core_product_name: plc system (programmable logic controller)",
+        "raw_product_name": "PLC system (Programmable Logic Controller)",
+        "list_of_product_ids": [
+          "12296",
+          "12295",
+          "12297",
+          "12301",
+          "14199",
+          "14322",
+          "14405",
+          "14406",
+          "17988",
+          "17987",
+          "17986",
+          "17985",
+          "17984",
+          "17983",
+          "20020",
+          "20145",
+          "20144",
+          "37679",
+          "36223",
+          "36375"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: programmable logic controller",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLERS",
+        "list_of_product_ids": [
+          "6565",
+          "5735",
+          "11164",
+          "10154",
+          "11376",
+          "9379",
+          "9159",
+          "9221",
+          "11902",
+          "12182",
+          "36522",
+          "17895",
+          "18871",
+          "18916",
+          "29683",
+          "30474",
+          "38193",
+          "36169",
+          "36317"
+        ]
+      }
+    }
+  ]
+}

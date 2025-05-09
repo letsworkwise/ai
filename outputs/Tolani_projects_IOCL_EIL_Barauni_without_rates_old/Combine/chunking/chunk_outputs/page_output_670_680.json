@@ -1,0 +1,138 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing 20mm wide expansion joints in lining for reservoir, channel, etc. including cleaning the joint of all loose for lining depth of 100mm",
+      "core_product_name": "expansion joints",
+      "acronymed_core_product_name": "",
+      "size": "width: 20mm, lining depth: 100mm",
+      "feature_or_specifications": "application: reservoir, channel, etc., feature: cleaning the joint of all loose",
+      "quantity": "570.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and laying film lining with cement concrete lining of M-20 grade with 20mm and down size graded stone For lining thickness of 100 mm on horizontal surface (All material including cement supplied by the contractor)",
+      "core_product_name": "film lining with cement concrete lining",
+      "acronymed_core_product_name": "",
+      "size": "lining thickness: 100 mm",
+      "feature_or_specifications": "grade: M-20, stone size: 20mm and down, surface: horizontal, material supply: all material including cement supplied by the contractor",
+      "quantity": "4580.0",
+      "unit": "m²"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      670,
+      679
+    ],
+    "original_rows": [
+      {
+        "0": 671,
+        "1": 0,
+        "2": "01GC.19.2.1",
+        "3": "for lining depth of 100mm",
+        "4": 2250.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 672,
+        "1": 0,
+        "2": "01GC.19.3",
+        "3": "Providing 20mm wide expansion joints in lining for reservoir, channel, etc. including cleaning the joint of all loose",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 673,
+        "1": 0,
+        "2": "01GC.19.3.1",
+        "3": "for lining depth of 100mm",
+        "4": 570.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 674,
+        "1": 0,
+        "2": "01GC.19.4",
+        "3": "Supplying and laying film lining with cement concrete lining of M-20 grade with 20mm and down size graded stone",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 675,
+        "1": 0,
+        "2": "01GC.19.4.5",
+        "3": "For lining thickness of 100 mm on horizontal surface (All material including cement supplied by the contractor)",
+        "4": 4580.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 676,
+        "1": 0,
+        "2": "01GC.27",
+        "3": "Modification Works",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 677,
+        "1": 0,
+        "2": "01GC.27.1",
+        "3": "MODIFICATION AND EXTRA WORKS ( IF ANY ) Cuting,bevelling,fitup,welding of different sizes of CS piping",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 678,
+        "1": 0,
+        "2": "01GC.27.1.1",
+        "3": "Flame cutting CS piping",
+        "4": 240.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 679,
+        "1": 0,
+        "2": "01GC.27.1.2",
+        "3": "Hacksaw cutting CS piping",
+        "4": 240.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 680,
+        "1": 0,
+        "2": "01GC.27.1.3",
+        "3": "Beveling CS piping",
+        "4": 480.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2217,
+    "completion_tokens": 704
+  }
+}

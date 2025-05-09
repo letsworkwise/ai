@@ -1,0 +1,58 @@
+{
+  "query": "core_product_name: sand bucket with stand | size: set: two",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire bucket",
+        "raw_product_name": "FIRE BUCKET",
+        "list_of_product_ids": [
+          "19466",
+          "19467",
+          "19465",
+          "19463",
+          "19523",
+          "19530",
+          "19551",
+          "19558"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: bucket",
+        "raw_product_name": "ELEVATOR -BUCKET",
+        "list_of_product_ids": [
+          "6124",
+          "5291",
+          "9598",
+          "9720",
+          "9741",
+          "9736"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: bucket wheel excavator",
+        "raw_product_name": "EXCAVATOR (BUCKET WHEEL)",
+        "list_of_product_ids": [
+          "6",
+          "175",
+          "534",
+          "623",
+          "283"
+        ]
+      }
+    }
+  ]
+}

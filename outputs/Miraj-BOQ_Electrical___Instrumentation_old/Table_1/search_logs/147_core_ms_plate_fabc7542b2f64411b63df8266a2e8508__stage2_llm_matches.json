@@ -1,0 +1,79 @@
+{
+  "query": "core_product_name: ms plate | size: thickness: 3 mm to 10 mm | feature_or_specifications: material: ms(mild steel), standard: indian standard 2062",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: plate flange | material: Mild Steel (MS)",
+        "raw_product_name": "MILD STEEL PLATE FLANGES",
+        "list_of_product_ids": [
+          "174",
+          "302",
+          "456",
+          "624",
+          "652"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: plate | material: Steel",
+        "raw_product_name": "STEEL PLATE",
+        "list_of_product_ids": [
+          "15457",
+          "15466",
+          "14057",
+          "15473",
+          "15475",
+          "15478",
+          "15836",
+          "19346",
+          "18374",
+          "18349",
+          "19348",
+          "21285",
+          "22300",
+          "22845",
+          "21288",
+          "22303",
+          "26241",
+          "29274",
+          "29273",
+          "29270",
+          "38270",
+          "38278",
+          "36661",
+          "36651",
+          "37396"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: plate | material: SS (Stainless Steel)",
+        "raw_product_name": "SS PLATE",
+        "list_of_product_ids": [
+          "19847",
+          "19830",
+          "19829",
+          "19908",
+          "20410",
+          "20652"
+        ]
+      }
+    }
+  ]
+}

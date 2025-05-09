@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: structural steel work | feature_or_specifications: feature: riveted, bolted or welded in built up sections, trusses & framed work, including cutting, hoisting, fixing in position and applying a priming coat of approved steel primer all complete",
+  "retrieval_results": [
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.86661226,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.8644056,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-bc4bdf0d-5ea4-54b0-b9ae-c7ba8ea12df4",
+      "score": 0.85602397,
+      "metadata": {
+        "text": "core_product_name: pre-fabricated structural steel",
+        "raw_product_name": "PRE-FABRICATED STRUCTURAL STEEL",
+        "list_of_product_ids": "30025,30048,30051,30213,30507,37877",
+        "core_id": 1755.0
+      }
+    },
+    {
+      "id": "variant-87a566b6-5a86-509b-86ac-e597dd349665",
+      "score": 0.85362035,
+      "metadata": {
+        "text": "core_product_name: welded structural item",
+        "raw_product_name": "STRUCTURAL ITEM (WELDED)",
+        "list_of_product_ids": "173,361,733,427,923",
+        "core_id": 2136.0
+      }
+    },
+    {
+      "id": "variant-dac42c0a-0a7d-5664-acb4-16aea5159e6b",
+      "score": 0.85133725,
+      "metadata": {
+        "text": "core_product_name: bolted structural item",
+        "raw_product_name": "STRUCTURAL ITEM (BOLTED)",
+        "list_of_product_ids": "173,371,733,527,207",
+        "core_id": 2135.0
+      }
+    },
+    {
+      "id": "variant-6bcc96d8-032f-56aa-854b-e9d5990731a4",
+      "score": 0.84951466,
+      "metadata": {
+        "text": "core_product_name: rolled section | material: Steel | type_or_class: Structural",
+        "raw_product_name": "STRUCTURAL STEEL ( ROLLED SECTIONS)",
+        "list_of_product_ids": "9,525,954,513,013",
+        "core_id": 2139.0
+      }
+    },
+    {
+      "id": "variant-27f5ab93-f595-5d15-a84a-3eae7caa9b6f",
+      "score": 0.8492802,
+      "metadata": {
+        "text": "core_product_name: fitting | material: CS (Carbon Steel) | construction_features: Welded",
+        "raw_product_name": "FITTINGS – CS WELDED",
+        "list_of_product_ids": "14261,15969,19407,19803,19789,20138,22664,37083,37096",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-383781f7-59ee-5d5b-8a29-cf16569a65fc",
+      "score": 0.84596735,
+      "metadata": {
+        "text": "core_product_name: welded fitting",
+        "raw_product_name": "FITTINGS – AS WELDED",
+        "list_of_product_ids": "14259,15973,19406,19805,19790,20139,22666,37085,37098",
+        "core_id": 878.0
+      }
+    },
+    {
+      "id": "variant-e073d2ae-f2d1-5e74-9d31-5194d6319446",
+      "score": 0.84549415,
+      "metadata": {
+        "text": "core_product_name: structural painting work",
+        "raw_product_name": "PAINTING WORK-STRUCTURAL",
+        "list_of_product_ids": "1,658,927,816",
+        "core_id": 1624.0
+      }
+    },
+    {
+      "id": "variant-7dfadcde-de2d-5210-8704-7e2d4bcb95a3",
+      "score": 0.8454446,
+      "metadata": {
+        "text": "core_product_name: fitting | material: SS (Stainless Steel) | construction_features: Welded",
+        "raw_product_name": "FITTINGS – SS WELDED",
+        "list_of_product_ids": "14263,15971,19408,19804,19791,20140,22665,37084,37097",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-64bca620-e696-5279-bab5-9065c12376ef",
+      "score": 0.8453029,
+      "metadata": {
+        "text": "core_product_name: structural steel | accessories_or_attachments: plates",
+        "raw_product_name": "Structural Steel (Including plates)",
+        "list_of_product_ids": "14076,20962,22587,40047",
+        "core_id": 2137.0
+      }
+    },
+    {
+      "id": "variant-a2d5443b-8b58-5842-81e9-dadde284f9dc",
+      "score": 0.8446368,
+      "metadata": {
+        "text": "core_product_name: ceiling girder | construction_features: bolted",
+        "raw_product_name": "CEILING GIRDER (BOLTED)",
+        "list_of_product_ids": "20959,20987,20957,21005,21905,22001,22113",
+        "core_id": 321.0
+      }
+    },
+    {
+      "id": "variant-5b452ea9-dd5f-5e3b-bde6-d56b975fbc36",
+      "score": 0.8442916,
+      "metadata": {
+        "text": "core_product_name: fabricated fitting | material: Plate | construction_features: Cladded",
+        "raw_product_name": "FITTINGS FABRICATED FROM PLATE - CLADDED",
+        "list_of_product_ids": "6326,5497,11561,24593,34020,34019,36846",
+        "core_id": 874.0
+      }
+    },
+    {
+      "id": "variant-ffb09cea-650c-5da0-8837-2e39ba2b060a",
+      "score": 0.8442026,
+      "metadata": {
+        "text": "core_product_name: structural steel",
+        "raw_product_name": "STRUCTURAL STEEL",
+        "list_of_product_ids": "9524,9544,13038,14422,15849,17276,17978,17977,17976,17979,31114,31137,31138,25221,31005,31007,31030,31053,31055,31056,31057,31061,31065",
+        "core_id": 2137.0
+      }
+    },
+    {
+      "id": "variant-4a40dd6f-7d8c-58dc-b47f-6a3a3bf50a6e",
+      "score": 0.843107,
+      "metadata": {
+        "text": "core_product_name: site fabrication and erection",
+        "raw_product_name": "FABRICATION & ERECTION (SITE)",
+        "list_of_product_ids": "260,232,602,226,692",
+        "core_id": 789.0
+      }
+    },
+    {
+      "id": "variant-ad831c60-442f-576b-a484-152182beebb9",
+      "score": 0.8423538,
+      "metadata": {
+        "text": "core_product_name: hollow section | material: Steel | type_or_class: Structural",
+        "raw_product_name": "STRUCTURAL STEEL ( HOLLOW SECTIONS)",
+        "list_of_product_ids": "9,526,954,613,014",
+        "core_id": 2138.0
+      }
+    },
+    {
+      "id": "variant-e8a4d1eb-c4de-5d7d-acc6-5be564032217",
+      "score": 0.8421637,
+      "metadata": {
+        "text": "core_product_name: boiler structure | construction_features: welded",
+        "raw_product_name": "BOILER STRUCTURES (SUPPLY WELDED)",
+        "list_of_product_ids": "220,792,208,628,610",
+        "core_id": 224.0
+      }
+    },
+    {
+      "id": "variant-4f7adc80-ee42-5a2b-922c-293dbf795a61",
+      "score": 0.84203595,
+      "metadata": {
+        "text": "core_product_name: boiler structure | construction_features: fabrication welded",
+        "raw_product_name": "BOILER STRUCTURES (FABRICATION WELDED)",
+        "list_of_product_ids": "220,852,208,027,812",
+        "core_id": 224.0
+      }
+    },
+    {
+      "id": "variant-5efbfc9f-bc75-5353-9be4-8456266d9a3b",
+      "score": 0.8415725,
+      "metadata": {
+        "text": "core_product_name: column | material: CS (Carbon Steel) | construction_features: site fabricated",
+        "raw_product_name": "COLUMN-CS SITE FABRICATED",
+        "list_of_product_ids": "6687,5858,9697,12010,12167,12592,13093,23509,37860,37727,37743",
+        "core_id": 392.0
+      }
+    },
+    {
+      "id": "variant-4fbda17f-559f-5825-bbe5-5435a6b56056",
+      "score": 0.8406442,
+      "metadata": {
+        "text": "core_product_name: ceiling girder | construction_features: welded",
+        "raw_product_name": "CEILING GIRDER (WELDED)",
+        "list_of_product_ids": "20958,20988,20956,21006,21904,22002,22114",
+        "core_id": 321.0
+      }
+    },
+    {
+      "id": "variant-a64f210f-8e6e-5798-86ae-8ba83cd224bf",
+      "score": 0.8404331,
+      "metadata": {
+        "text": "core_product_name: site fabricated cladding | accessories_or_attachments: column",
+        "raw_product_name": "COLUMN-CLAD SITE FABRICATED",
+        "list_of_product_ids": "6689,5860,9699,12168,13094,23576",
+        "core_id": 398.0
+      }
+    },
+    {
+      "id": "variant-6e62cc23-6ea6-5239-825a-b58e9a6d51c9",
+      "score": 0.8399375,
+      "metadata": {
+        "text": "core_product_name: forged fitting | material: Steel",
+        "raw_product_name": "FORGED STEEL FITTINGS",
+        "list_of_product_ids": "202,272,070,320,974",
+        "core_id": 972.0
+      }
+    },
+    {
+      "id": "variant-85f62663-258c-5c91-88e6-b92608f40aa0",
+      "score": 0.8389116,
+      "metadata": {
+        "text": "core_product_name: fabricated fitting | material: C.S. (Carbon Steel) | construction_features: fabricated from plate",
+        "raw_product_name": "FITTINGS FABRICATED FROM PLATE - C.S.",
+        "list_of_product_ids": "6322,5493,11570,9301,9322,9402,9422,9433,9444,9459,9461,9316,9327,9332,12771,12738,12753,12762,12780,12808,13132,13212,8092,13350,13355,13357,13359,13368,13379,17662,24590,36844,36572,33995,34683",
+        "core_id": 874.0
+      }
+    },
+    {
+      "id": "variant-f126676e-a62f-52a6-ba06-b09e7951e71e",
+      "score": 0.8385373,
+      "metadata": {
+        "text": "core_product_name: forged fitting",
+        "raw_product_name": "FORGED FITTINGS",
+        "list_of_product_ids": "13660,22252,24586,36933",
+        "core_id": 972.0
+      }
+    },
+    {
+      "id": "variant-0f65ae9a-96f2-5688-a949-d7158ab2dd48",
+      "score": 0.8365668,
+      "metadata": {
+        "text": "core_product_name: quick connect fitting | construction_features: quick connect | construction_features: quick connect",
+        "raw_product_name": "FITTINGS-QUICK CONNECT BODY & STEM",
+        "list_of_product_ids": "229,102,291,128,622",
+        "core_id": 883.0
+      }
+    },
+    {
+      "id": "variant-1db4e99b-7e61-5b85-b423-76e2c8c1a44a",
+      "score": 0.8359458,
+      "metadata": {
+        "text": "core_product_name: welded pipe fitting",
+        "raw_product_name": "PIPE FITTINGS WELDED",
+        "list_of_product_ids": "14095,15741,16054,16259,16577,19721,20934,22919,16612",
+        "core_id": 1659.0
+      }
+    },
+    {
+      "id": "variant-d3eafe02-daeb-5635-a313-d0289b207031",
+      "score": 0.83563757,
+      "metadata": {
+        "text": "core_product_name: fabricated fitting | material: SS (Stainless Steel) | construction_features: fabricated from plate",
+        "raw_product_name": "FITTINGS FABRICATED FROM PLATE - S.S.",
+        "list_of_product_ids": "6324,5495,10373,10389,11290,11332,11404,9432,12104,12772,12740,12754,12763,12781,12809,13131,13213,13313,13386,13404,15987,16061,17663,24592,36843,36575,34012,34011,34010,34009,34684",
+        "core_id": 874.0
+      }
+    },
+    {
+      "id": "variant-d3918fb3-1dcf-5330-9bbe-6452020c252d",
+      "score": 0.83535016,
+      "metadata": {
+        "text": "core_product_name: plumbing fitting and fixture",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+        "list_of_product_ids": "6364,5535,7874,12489,12648,12649,34680,34681",
+        "core_id": 1961.0
+      }
+    },
+    {
+      "id": "variant-ca7dc58f-54f3-5f60-8d0b-bc641dd521f3",
+      "score": 0.8345339,
+      "metadata": {
+        "text": "core_product_name: pipeline or wrapping coating",
+        "raw_product_name": "PIPELINE COATING / WRAPPING COATING",
+        "list_of_product_ids": "9002,8989,9046,16501",
+        "core_id": 1677.0
+      }
+    },
+    {
+      "id": "variant-40f5e806-4a91-59d6-8fea-bf521847066a",
+      "score": 0.83442813,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: Forged",
+        "raw_product_name": "VALVE CHECK FORGED",
+        "list_of_product_ids": "6231,5400,11625,11641,11223,11242,11255,9246,11448,9262,8280,8383,8555,8649,8626,9412,9451,9253,9166,9343,12098,12493,12572,12656,13266,13360,19382,19390,17623,17908,18030,19711,19860,31813,36763,32701",
+        "core_id": 340.0
+      }
+    }
+  ]
+}

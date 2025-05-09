@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: hdpe(high density polyethylene) pipes | acronymed_core_product_name: hdpe pipes | size: diameter: 150 mm | feature_or_specifications: standard: indian standard 8008 part-i",
+  "retrieval_results": [
+    {
+      "id": "variant-98e433a9-d060-5487-90d0-68ac9f500629",
+      "score": 0.9032174,
+      "metadata": {
+        "text": "core_product_name: hdpe (high density polyethylene) pipe | acronymed_core_product_name: hdpe pipe",
+        "raw_product_name": "HDPE Pipe",
+        "list_of_product_ids": "7605,7280,8124,12260,12382,12537,13054,13056,14514,16655,30982",
+        "core_id": 1105.0
+      }
+    },
+    {
+      "id": "variant-75514bd2-aa0e-50b9-8fab-00e8e87fdead",
+      "score": 0.894392,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | acronymed_core_product_name: hdpe pipe fittings (high density polyethylene pipe fittings) | material: HDPE (High Density Polyethylene)",
+        "raw_product_name": "HDPE PIPE FITTINGS",
+        "list_of_product_ids": "142,652,289,935,651",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-a03ef8f7-20b2-552d-b25d-3cadd1b4d12c",
+      "score": 0.8734543,
+      "metadata": {
+        "text": "core_product_name: membrane | acronymed_core_product_name: hdpe membrane | material: HDPE (High Density Polyethylene)",
+        "raw_product_name": "HDPE MEMBRANE",
+        "list_of_product_ids": "1,426,222,461",
+        "core_id": 1107.0
+      }
+    },
+    {
+      "id": "variant-7b009866-6d34-52c5-9fcd-06385c444699",
+      "score": 0.87328875,
+      "metadata": {
+        "text": "core_product_name: duct | acronymed_core_product_name: HDPE (High Density Polyethylene) DUCT | material: HDPE (High Density Polyethylene)",
+        "raw_product_name": "HDPE DUCT",
+        "list_of_product_ids": "142,501,665,622,898",
+        "core_id": 1101.0
+      }
+    },
+    {
+      "id": "variant-25fd2128-5718-5140-8e34-a138384ca61b",
+      "score": 0.87061566,
+      "metadata": {
+        "text": "core_product_name: valve | acronymed_core_product_name: mdpe (medium density polyethylene) valve | material: MDPE (Medium Density Polyethylene)",
+        "raw_product_name": "MDPE VALVES",
+        "list_of_product_ids": "15460,18105,25963,37376,37381,37384,37298",
+        "core_id": 307.0
+      }
+    },
+    {
+      "id": "variant-5f94468e-a84d-59e4-baa1-9d48990bb881",
+      "score": 0.8702784,
+      "metadata": {
+        "text": "core_product_name: liner | acronymed_core_product_name: hdpe (high density polyethylene) liner | material: HDPE (High Density Polyethylene) | type_or_class: Geomembrane",
+        "raw_product_name": "HDPE LINER (GEOMEMBRANE)",
+        "list_of_product_ids": "14260,22855,21367,16658",
+        "core_id": 1104.0
+      }
+    },
+    {
+      "id": "variant-62ef46c5-e19c-5cf0-b16c-f7c1d38b0ddc",
+      "score": 0.8636475,
+      "metadata": {
+        "text": "core_product_name: fitting | acronymed_core_product_name: mdpe (medium density polyethylene) fitting | material: MDPE (Medium Density Polyethylene)",
+        "raw_product_name": "MDPE FITTINGS",
+        "list_of_product_ids": "13718,21802,37375,37380,37383,37297",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-e83ab2da-9a5c-5f87-ba97-65d27b429eb0",
+      "score": 0.86349636,
+      "metadata": {
+        "text": "core_product_name: polyethylene pipe | acronymed_core_product_name: PE pipe",
+        "raw_product_name": "PE Pipes",
+        "list_of_product_ids": "760,672,818,125",
+        "core_id": 1640.0
+      }
+    },
+    {
+      "id": "variant-d15a7ed0-fbc9-522e-9839-1569bfabef03",
+      "score": 0.861234,
+      "metadata": {
+        "text": "core_product_name: liner sheet | acronymed_core_product_name: hdpe liner sheet | material: HDPE (High Density Polyethylene)",
+        "raw_product_name": "HDPE LINER SHEET",
+        "list_of_product_ids": "166,461,665,723,122",
+        "core_id": 1103.0
+      }
+    },
+    {
+      "id": "variant-7a47b8db-ee25-518f-9ee3-4b13bf063bda",
+      "score": 0.85983306,
+      "metadata": {
+        "text": "core_product_name: large-diameter pipe",
+        "raw_product_name": "Large-diameter pipe",
+        "list_of_product_ids": "758,772,628,028",
+        "core_id": 1410.0
+      }
+    },
+    {
+      "id": "variant-cb23523d-1c40-5963-91d6-d0dcf3964188",
+      "score": 0.8580246,
+      "metadata": {
+        "text": "core_product_name: hp (high pressure) pipes | acronymed_core_product_name: hp pipes",
+        "raw_product_name": "HP Pipes (Mills)",
+        "list_of_product_ids": "10370,7071,7398,7769,11840,13307,32042",
+        "core_id": 1170.0
+      }
+    },
+    {
+      "id": "variant-d96cbde4-c153-5a1c-a865-baba537d8746",
+      "score": 0.85643417,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | acronymed_core_product_name: hp pipe fittings | type_or_class: High Pressure (HP)",
+        "raw_product_name": "HP Pipe Fittings (Mills)",
+        "list_of_product_ids": "10371,7072,7399,11144,7770,11841,13308,32043",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-9dd9e954-61a4-569f-9ac5-2ce10d88e3e0",
+      "score": 0.85514313,
+      "metadata": {
+        "text": "core_product_name: bag | acronymed_core_product_name: ldpe (low density polyethylene) bag | material: LDPE (Low Density Polyethylene)",
+        "raw_product_name": "LDPE BAGS",
+        "list_of_product_ids": "950,095,809,783",
+        "core_id": 1323.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.8537378,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    },
+    {
+      "id": "variant-fc5ea489-34d9-5f79-8a61-0e7e57a98756",
+      "score": 0.85100126,
+      "metadata": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards) 3589",
+        "raw_product_name": "PIPE-CARBON STEEL IS: 3589",
+        "list_of_product_ids": "15698,14000,21300,22746,22893,37056,37052,37057,37058,37059,37060,37061,37062",
+        "core_id": 529.0
+      }
+    },
+    {
+      "id": "variant-eabf7f2b-a3e7-5d1b-8a79-6ce35bcaea92",
+      "score": 0.84905523,
+      "metadata": {
+        "text": "core_product_name: district heat pipe",
+        "raw_product_name": "District heat pipes",
+        "list_of_product_ids": "758,372,588,023",
+        "core_id": 657.0
+      }
+    },
+    {
+      "id": "variant-3723a7f7-2c0f-584d-ae96-1a1dd1426f3f",
+      "score": 0.847892,
+      "metadata": {
+        "text": "core_product_name: high integrity pressure protection system | acronymed_core_product_name: hipps",
+        "raw_product_name": "HIPPS",
+        "list_of_product_ids": "15111,13586,36205,36354",
+        "core_id": 1136.0
+      }
+    },
+    {
+      "id": "variant-6583deab-11f1-5938-b192-4e8251f3049c",
+      "score": 0.8470216,
+      "metadata": {
+        "text": "core_product_name: fabrication piping | acronymed_core_product_name: hp piping (high pressure piping) | type_or_class: High Pressure",
+        "raw_product_name": "HP PIPING -FABRICATION",
+        "list_of_product_ids": "13638,14579,14578,14703,16533",
+        "core_id": 1168.0
+      }
+    },
+    {
+      "id": "variant-910635db-1f6d-5b76-ae03-05bdfcbe87d3",
+      "score": 0.84697616,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: ht (high tension) cable | size_or_capacity: up to 11kV | type_or_class: HT (High Tension) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "HT (up to 11kV) cable XLPE",
+        "list_of_product_ids": "13659,14787,14826,15794,16794,20058,20143,24054,23905",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-7aa48c98-4b7d-5946-8320-0a44853c6ebb",
+      "score": 0.84667355,
+      "metadata": {
+        "text": "core_product_name: component pipe support",
+        "raw_product_name": "Pipe Support components",
+        "list_of_product_ids": "7539,9978,7213,7829,9704,14956",
+        "core_id": 1832.0
+      }
+    },
+    {
+      "id": "variant-ea22e0c0-270e-5836-8700-101c6b8c61e0",
+      "score": 0.84651554,
+      "metadata": {
+        "text": "core_product_name: hume pipe",
+        "raw_product_name": "HUME PIPE",
+        "list_of_product_ids": "21849,21850,22133,22272",
+        "core_id": 1182.0
+      }
+    },
+    {
+      "id": "variant-dfde9315-c9ad-54bf-b2a7-c86a1ab6fc37",
+      "score": 0.8457712,
+      "metadata": {
+        "text": "core_product_name: hydraulic pipe",
+        "raw_product_name": "HYDRAULIC PIPE",
+        "list_of_product_ids": "298,483,002,329,850",
+        "core_id": 1197.0
+      }
+    },
+    {
+      "id": "variant-4913a173-35c9-57a0-be11-6babe2e9c5c0",
+      "score": 0.84485316,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "PIPES- INDIAN STOCKIST",
+        "list_of_product_ids": "30891,30899,30890,30889,30882,30884,30883,30885,30888,30887,30886",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-b28ede24-9ef0-5358-9f86-a7d812b09022",
+      "score": 0.8448307,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "PIPES & TUBULARS",
+        "list_of_product_ids": "6283,5454,7767,7768,7771,11149,10327,11214,11328,11347,10594,7761,7772,7791,8066,12665,12676,13019,13022,13034,13232,13303,13346,17643,19699,19767,24025,21790,21016,30015,36868,31708,31762,31764,31763,30014,36877",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-d617e5c1-f2a0-5f39-9d41-380647ad2f39",
+      "score": 0.8448307,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "PIPES",
+        "list_of_product_ids": "6282,5452,11043,10725,11044,10336,10697,6906,7716,7718,7717,7719,8063,8065,8062,8064,12663,12664,12667,12668,12671,13024,13026,13028,13123,13316,16445,36935,33427,33428,33429,33430,33431,33602",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-b39351ea-cb75-5b3a-8d9a-2a05878b4337",
+      "score": 0.8448307,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "Pipes for optimizing pipelines",
+        "list_of_product_ids": "759,172,668,032",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-8b17e0b9-66f6-5d0e-86c3-90233954cdce",
+      "score": 0.84399897,
+      "metadata": {
+        "text": "core_product_name: pipe fitting",
+        "raw_product_name": "PIPE FITTINGS",
+        "list_of_product_ids": "22332,22331,22330,23352,23353,24583,36871,30825,36882,37027,28815,37304,36590,33279,33280,33281,37015,37157,36862,35736,35737,35738,35739,35740,35741,35742,36885,36524",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-ee98ad6b-79c8-5d80-8b94-93abaa4ba33d",
+      "score": 0.8429455,
+      "metadata": {
+        "text": "core_product_name: cladded pipe",
+        "raw_product_name": "CLADDED PIPE",
+        "list_of_product_ids": "6295,5466,11562,7764,7783,7799,13030,13031",
+        "core_id": 359.0
+      }
+    },
+    {
+      "id": "variant-3a4a3cca-5fe7-59a5-a1c6-73be3f1d92a3",
+      "score": 0.8425986,
+      "metadata": {
+        "text": "core_product_name: commercial pipe",
+        "raw_product_name": "Commercial pipes",
+        "list_of_product_ids": "758,072,558,021",
+        "core_id": 546.0
+      }
+    },
+    {
+      "id": "variant-94afc0d1-e0c4-562d-b6d3-a66d8aa3ea57",
+      "score": 0.8419914,
+      "metadata": {
+        "text": "core_product_name: conduit pipe",
+        "raw_product_name": "CONDUIT PIPE",
+        "list_of_product_ids": "222,962,229,728,617",
+        "core_id": 440.0
+      }
+    }
+  ]
+}

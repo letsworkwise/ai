@@ -1,0 +1,416 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.865969,
+      "text": "core_product_name: surge protection device",
+      "core_id": 2156.0,
+      "raw_product_name": "SURG PROTECTION DEVICES",
+      "list_of_product_ids": [
+        "5954",
+        "6782",
+        "12132",
+        "14671",
+        "14679",
+        "18191",
+        "20174",
+        "36159"
+      ]
+    },
+    {
+      "retrieval_score": 0.8648169,
+      "text": "core_product_name: local area network switch | acronymed_core_product_name: LAN SWITCH",
+      "core_id": 1317.0,
+      "raw_product_name": "LAN SWITCH",
+      "list_of_product_ids": [
+        "19153",
+        "19154",
+        "27610",
+        "37883",
+        "37888",
+        "37890"
+      ]
+    },
+    {
+      "retrieval_score": 0.8560485,
+      "text": "core_product_name: network switch",
+      "core_id": 1541.0,
+      "raw_product_name": "NETWORK SWITCHES",
+      "list_of_product_ids": [
+        "5945",
+        "6774",
+        "7942",
+        "7941",
+        "11855"
+      ]
+    },
+    {
+      "retrieval_score": 0.8543307,
+      "text": "core_product_name: interface device",
+      "core_id": 1280.0,
+      "raw_product_name": "INTERFACE DEVICES",
+      "list_of_product_ids": [
+        "6630",
+        "5800",
+        "11596",
+        "11597",
+        "10310",
+        "11701",
+        "11702",
+        "11703",
+        "12288",
+        "8405",
+        "13108",
+        "13117",
+        "21089",
+        "21081",
+        "21077",
+        "21070"
+      ]
+    },
+    {
+      "retrieval_score": 0.8532384,
+      "text": "core_product_name: level switch | protection_features: Explosion Proof",
+      "core_id": 1337.0,
+      "raw_product_name": "Level Switches (Explosion Proof)",
+      "list_of_product_ids": [
+        "17095",
+        "17094",
+        "17093",
+        "17092",
+        "17091",
+        "17090",
+        "17096",
+        "27177"
+      ]
+    },
+    {
+      "retrieval_score": 0.85233355,
+      "text": "core_product_name: surge protector",
+      "core_id": 2195.0,
+      "raw_product_name": "Surge Protectors",
+      "list_of_product_ids": [
+        "8396"
+      ]
+    },
+    {
+      "retrieval_score": 0.85081995,
+      "text": "core_product_name: switch | acronymed_core_product_name: flp (flameproof) switch | protection_features: Flameproof",
+      "core_id": 603.0,
+      "raw_product_name": "FLP SWITCH",
+      "list_of_product_ids": [
+        "22872",
+        "22870",
+        "27608",
+        "35765"
+      ]
+    },
+    {
+      "retrieval_score": 0.8492016,
+      "text": "core_product_name: surge barrier",
+      "core_id": 2158.0,
+      "raw_product_name": "SURGE BARRIER",
+      "list_of_product_ids": [
+        "83",
+        "971",
+        "395",
+        "122",
+        "382"
+      ]
+    },
+    {
+      "retrieval_score": 0.8491024,
+      "text": "core_product_name: public address equipment | acronymed_core_product_name: pa equipment",
+      "core_id": 1617.0,
+      "raw_product_name": "PA EQUIPMENTS",
+      "list_of_product_ids": [
+        "980",
+        "898",
+        "159",
+        "862"
+      ]
+    },
+    {
+      "retrieval_score": 0.84907657,
+      "text": "core_product_name: control switch",
+      "core_id": 462.0,
+      "raw_product_name": "CONTROL SWITCH",
+      "list_of_product_ids": [
+        "140",
+        "491",
+        "529",
+        "838",
+        "269"
+      ]
+    },
+    {
+      "retrieval_score": 0.8487582,
+      "text": "core_product_name: level switch | type_or_class: Capacitance Type",
+      "core_id": 1337.0,
+      "raw_product_name": "LEVEL SWITCHES (CAPACITANCE TYPE)",
+      "list_of_product_ids": [
+        "13589",
+        "15247",
+        "15261",
+        "19429"
+      ]
+    },
+    {
+      "retrieval_score": 0.8482824,
+      "text": "core_product_name: cable | acronymed_core_product_name: CAT (Category) cable | type_or_class: Ethernet CAT (Category)",
+      "core_id": 1.0,
+      "raw_product_name": "ETHERNET CAT CABLE",
+      "list_of_product_ids": [
+        "23921",
+        "13950",
+        "20180",
+        "24069",
+        "21240"
+      ]
+    },
+    {
+      "retrieval_score": 0.8480766,
+      "text": "core_product_name: flow switch | type_or_class: Electrical",
+      "core_id": 939.0,
+      "raw_product_name": "FLOW SWITCHES (ELECTRICAL)",
+      "list_of_product_ids": [
+        "10080",
+        "9559",
+        "9519",
+        "12077",
+        "15127",
+        "15135",
+        "15143",
+        "17313"
+      ]
+    },
+    {
+      "retrieval_score": 0.84756243,
+      "text": "core_product_name: heavy duty switch",
+      "core_id": 1118.0,
+      "raw_product_name": "HEAVY DUTY SWITCHES",
+      "list_of_product_ids": [
+        "6451",
+        "5621",
+        "24539",
+        "24538"
+      ]
+    },
+    {
+      "retrieval_score": 0.84747887,
+      "text": "core_product_name: switch",
+      "core_id": 603.0,
+      "raw_product_name": "SWITCHES",
+      "list_of_product_ids": [
+        "13967",
+        "14807",
+        "15296",
+        "36552",
+        "17540",
+        "24101",
+        "22217",
+        "22288",
+        "23682"
+      ]
+    },
+    {
+      "retrieval_score": 0.8474621,
+      "text": "core_product_name: surge relief valve",
+      "core_id": 2159.0,
+      "raw_product_name": "SURGE RELIEF VALVE",
+      "list_of_product_ids": [
+        "6505",
+        "5676",
+        "12130",
+        "22347",
+        "28768"
+      ]
+    },
+    {
+      "retrieval_score": 0.84732807,
+      "text": "core_product_name: switch",
+      "core_id": 603.0,
+      "raw_product_name": "DISTANCE SWITCHES",
+      "list_of_product_ids": [
+        "19150",
+        "27607",
+        "19152",
+        "38467"
+      ]
+    },
+    {
+      "retrieval_score": 0.84732807,
+      "text": "core_product_name: switch",
+      "core_id": 603.0,
+      "raw_product_name": "RECEIVER SWITCHES",
+      "list_of_product_ids": [
+        "137",
+        "612",
+        "033",
+        "723",
+        "684"
+      ]
+    },
+    {
+      "retrieval_score": 0.8469238,
+      "text": "core_product_name: switch",
+      "core_id": 603.0,
+      "raw_product_name": "LEVEL SWITCHES",
+      "list_of_product_ids": [
+        "13588",
+        "14220",
+        "17089",
+        "17076",
+        "17070",
+        "17066",
+        "23998",
+        "21753",
+        "31744",
+        "36106"
+      ]
+    },
+    {
+      "retrieval_score": 0.84664416,
+      "text": "core_product_name: commercial cable",
+      "core_id": 400.0,
+      "raw_product_name": "COMMERCIAL CABLE",
+      "list_of_product_ids": [
+        "20779",
+        "20808",
+        "20806",
+        "21176",
+        "21175",
+        "27361"
+      ]
+    },
+    {
+      "retrieval_score": 0.84623235,
+      "text": "core_product_name: surge signal multiplier",
+      "core_id": 2161.0,
+      "raw_product_name": "SURGE SIGNAL MULTIPLYER",
+      "list_of_product_ids": [
+        "83",
+        "991",
+        "393",
+        "922",
+        "384"
+      ]
+    },
+    {
+      "retrieval_score": 0.8459319,
+      "text": "core_product_name: modular switch",
+      "core_id": 1493.0,
+      "raw_product_name": "MODULAR SWITCH",
+      "list_of_product_ids": [
+        "756",
+        "072",
+        "347",
+        "934"
+      ]
+    },
+    {
+      "retrieval_score": 0.845888,
+      "text": "core_product_name: port | acronymed_core_product_name: aa port",
+      "core_id": 21.0,
+      "raw_product_name": "AA PORT",
+      "list_of_product_ids": [
+        "14144",
+        "14661",
+        "19996",
+        "20125"
+      ]
+    },
+    {
+      "retrieval_score": 0.8458875,
+      "text": "core_product_name: cable | acronymed_core_product_name: LAN (Local Area Network) cable | type_or_class: LAN (Local Area Network)",
+      "core_id": 1.0,
+      "raw_product_name": "LAN CABLE",
+      "list_of_product_ids": [
+        "174",
+        "251",
+        "742",
+        "627",
+        "040"
+      ]
+    },
+    {
+      "retrieval_score": 0.84571713,
+      "text": "core_product_name: flow switch",
+      "core_id": 939.0,
+      "raw_product_name": "FLOW SWITCH",
+      "list_of_product_ids": [
+        "9557",
+        "9517",
+        "9851",
+        "13395",
+        "18227"
+      ]
+    },
+    {
+      "retrieval_score": 0.84547967,
+      "text": "core_product_name: switch | material: Mercury",
+      "core_id": 603.0,
+      "raw_product_name": "MERCURY SWITCHES",
+      "list_of_product_ids": [
+        "1",
+        "642",
+        "516",
+        "474"
+      ]
+    },
+    {
+      "retrieval_score": 0.8453711,
+      "text": "core_product_name: flameproof switch | protection_features: Flameproof",
+      "core_id": 2173.0,
+      "raw_product_name": "SWITCH- FLAMEPROOF",
+      "list_of_product_ids": [
+        "228",
+        "782",
+        "301",
+        "335",
+        "779"
+      ]
+    },
+    {
+      "retrieval_score": 0.84527963,
+      "text": "core_product_name: wire | acronymed_core_product_name: cat 6 wire (category 6 wire) | type_or_class: CAT 6 (Category 6)",
+      "core_id": 313.0,
+      "raw_product_name": "CAT 6 WIRE",
+      "list_of_product_ids": [
+        "20687",
+        "20549",
+        "20513",
+        "20590",
+        "20633",
+        "20745",
+        "21239"
+      ]
+    },
+    {
+      "retrieval_score": 0.845236,
+      "text": "core_product_name: network component",
+      "core_id": 1544.0,
+      "raw_product_name": "NETWORK COMPONENTS",
+      "list_of_product_ids": [
+        "137",
+        "882",
+        "017",
+        "621",
+        "241"
+      ]
+    },
+    {
+      "retrieval_score": 0.84521604,
+      "text": "core_product_name: addressable fire alarm panel",
+      "core_id": 48.0,
+      "raw_product_name": "ADDRESSABLE FIRE ALARM PANEL",
+      "list_of_product_ids": [
+        "37759",
+        "37764",
+        "37769",
+        "37774",
+        "37780",
+        "37790"
+      ]
+    }
+  ]
+}

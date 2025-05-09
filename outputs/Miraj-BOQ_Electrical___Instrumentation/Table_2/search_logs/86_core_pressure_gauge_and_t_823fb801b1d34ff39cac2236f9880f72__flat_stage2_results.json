@@ -1,0 +1,504 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8582983,
+      "text": "core_product_name: oil module | accessories_or_attachments: Central Lubrication System",
+      "core_id": 1586.0,
+      "raw_product_name": "OIL MODULE INCLUDING CENTRAL LUBRICATION SYSTEM",
+      "list_of_product_ids": [
+        "13813",
+        "15194",
+        "15197",
+        "15196",
+        "21769",
+        "21782"
+      ]
+    },
+    {
+      "retrieval_score": 0.85447806,
+      "text": "core_product_name: auxiliary oil filled transformer",
+      "core_id": 162.0,
+      "raw_product_name": "Auxiliary Oil Filled Transformers",
+      "list_of_product_ids": [
+        "7304",
+        "7352",
+        "7927",
+        "7930",
+        "7929",
+        "19766",
+        "35395"
+      ]
+    },
+    {
+      "retrieval_score": 0.8491342,
+      "text": "core_product_name: for diesel engine spare | accessories_or_attachments: for diesel engine",
+      "core_id": 2073.0,
+      "raw_product_name": "SPARES FOR DIESEL ENGINE",
+      "list_of_product_ids": [
+        "19623",
+        "19622",
+        "19619",
+        "19618",
+        "27547",
+        "37917"
+      ]
+    },
+    {
+      "retrieval_score": 0.84859395,
+      "text": "core_product_name: magnetic oil level gauge",
+      "core_id": 1424.0,
+      "raw_product_name": "MAGNETIC OIL LEVEL GAUGE",
+      "list_of_product_ids": [
+        "6465",
+        "5636",
+        "10160",
+        "12891",
+        "26083"
+      ]
+    },
+    {
+      "retrieval_score": 0.8473314,
+      "text": "core_product_name: lube oil system",
+      "core_id": 1403.0,
+      "raw_product_name": "LUBE OIL SYSTEM",
+      "list_of_product_ids": [
+        "21330",
+        "21334",
+        "21348",
+        "21363",
+        "21489",
+        "21770",
+        "28584"
+      ]
+    },
+    {
+      "retrieval_score": 0.84608006,
+      "text": "core_product_name: pressure gauge",
+      "core_id": 1771.0,
+      "raw_product_name": "PRESSURE GAUGES",
+      "list_of_product_ids": [
+        "6566",
+        "5736",
+        "9044",
+        "9045",
+        "9453",
+        "9239",
+        "9160",
+        "12718",
+        "12728",
+        "12829",
+        "12831",
+        "13206",
+        "14225",
+        "16560",
+        "16615",
+        "16593",
+        "16586",
+        "18215",
+        "18883",
+        "18929",
+        "18983",
+        "19504",
+        "21561",
+        "31684",
+        "31592",
+        "31593",
+        "37411",
+        "37410",
+        "36585",
+        "37680",
+        "33015",
+        "36619",
+        "33202",
+        "33267",
+        "38194",
+        "33569",
+        "33640",
+        "38210",
+        "38211",
+        "37654",
+        "35194",
+        "35929",
+        "35966",
+        "35973",
+        "37653"
+      ]
+    },
+    {
+      "retrieval_score": 0.8452169,
+      "text": "core_product_name: pressure transmitter",
+      "core_id": 1778.0,
+      "raw_product_name": "PRESSURE TRANSMITTER",
+      "list_of_product_ids": [
+        "10037",
+        "10038",
+        "10043",
+        "10159",
+        "10626",
+        "9515",
+        "9555",
+        "36531",
+        "15313",
+        "17103",
+        "17110",
+        "18208",
+        "24110",
+        "19474",
+        "20012",
+        "20022",
+        "20017",
+        "35953",
+        "36165",
+        "36313",
+        "36510"
+      ]
+    },
+    {
+      "retrieval_score": 0.84516245,
+      "text": "core_product_name: oil temperature indicator",
+      "core_id": 1590.0,
+      "raw_product_name": "OIL TEMPERATURE INDICATOR",
+      "list_of_product_ids": [
+        "6466",
+        "5637",
+        "15947",
+        "16111"
+      ]
+    },
+    {
+      "retrieval_score": 0.8437936,
+      "text": "core_product_name: gas over oil actuator",
+      "core_id": 1032.0,
+      "raw_product_name": "GAS OVER OIL ACTUATORS",
+      "list_of_product_ids": [
+        "137",
+        "131",
+        "974",
+        "920",
+        "218"
+      ]
+    },
+    {
+      "retrieval_score": 0.84343004,
+      "text": "core_product_name: float operated level instrument | accessories_or_attachments: tank",
+      "core_id": 2203.0,
+      "raw_product_name": "TANK LEVEL INSTRUMENTS (FLOAT OPERATED)",
+      "list_of_product_ids": [
+        "6582",
+        "5752",
+        "11686",
+        "11695",
+        "11711",
+        "12356",
+        "13221",
+        "21059",
+        "38277"
+      ]
+    },
+    {
+      "retrieval_score": 0.8430427,
+      "text": "core_product_name: oil filled transformer",
+      "core_id": 1578.0,
+      "raw_product_name": "OIL FILLED TRANSFORMER",
+      "list_of_product_ids": [
+        "15545",
+        "15547",
+        "15537",
+        "15549",
+        "15538",
+        "15551",
+        "15540",
+        "15919",
+        "36653",
+        "35394"
+      ]
+    },
+    {
+      "retrieval_score": 0.84270763,
+      "text": "core_product_name: instrument test bench",
+      "core_id": 1257.0,
+      "raw_product_name": "INSTRUMENT TEST BENCH",
+      "list_of_product_ids": [
+        "5964",
+        "6792",
+        "10935",
+        "10928"
+      ]
+    },
+    {
+      "retrieval_score": 0.84232795,
+      "text": "core_product_name: oil level indicator",
+      "core_id": 1582.0,
+      "raw_product_name": "OIL LEVEL INDICATOR",
+      "list_of_product_ids": [
+        "21633",
+        "21630",
+        "21639",
+        "21757"
+      ]
+    },
+    {
+      "retrieval_score": 0.84201694,
+      "text": "core_product_name: transformer oil",
+      "core_id": 2271.0,
+      "raw_product_name": "TRANSFORMER OIL",
+      "list_of_product_ids": [
+        "199",
+        "521",
+        "995",
+        "127",
+        "635"
+      ]
+    },
+    {
+      "retrieval_score": 0.84147793,
+      "text": "core_product_name: for compressor spare",
+      "core_id": 2071.0,
+      "raw_product_name": "SPARES FOR COMPRESSOR",
+      "list_of_product_ids": [
+        "23452",
+        "23451",
+        "26070",
+        "26069",
+        "26676",
+        "23453"
+      ]
+    },
+    {
+      "retrieval_score": 0.8407429,
+      "text": "core_product_name: orifice plate | accessories_or_attachments: Flanges",
+      "core_id": 1603.0,
+      "raw_product_name": "ORIFICE PLATES & FLANGES",
+      "list_of_product_ids": [
+        "6540",
+        "5711",
+        "11161",
+        "10380",
+        "10551",
+        "10199",
+        "8333",
+        "8389",
+        "8452",
+        "12199",
+        "12725",
+        "12748",
+        "12746",
+        "13075",
+        "13400",
+        "13401",
+        "36538",
+        "19243",
+        "17296",
+        "17289",
+        "17656",
+        "17687",
+        "17680",
+        "21401",
+        "17219",
+        "24556",
+        "31187",
+        "36625",
+        "35156",
+        "36215",
+        "36367"
+      ]
+    },
+    {
+      "retrieval_score": 0.8405933,
+      "text": "core_product_name: seal oil cooler",
+      "core_id": 1983.0,
+      "raw_product_name": "SEAL OIL COOLER",
+      "list_of_product_ids": [
+        "13883",
+        "18062",
+        "18059",
+        "20149"
+      ]
+    },
+    {
+      "retrieval_score": 0.84026206,
+      "text": "core_product_name: oil filter | type_or_class: Duplex",
+      "core_id": 656.0,
+      "raw_product_name": "DUPLEX OIL FILTER",
+      "list_of_product_ids": [
+        "1",
+        "379",
+        "715",
+        "191"
+      ]
+    },
+    {
+      "retrieval_score": 0.840191,
+      "text": "core_product_name: gas metering system | special_attributes: dual chamber orifice",
+      "core_id": 1031.0,
+      "raw_product_name": "GAS METERING SYSTEM -DUAL CHAMBR ORIFICE",
+      "list_of_product_ids": [
+        "6614",
+        "5784",
+        "38506",
+        "38496"
+      ]
+    },
+    {
+      "retrieval_score": 0.8398162,
+      "text": "core_product_name: gauge",
+      "core_id": 1043.0,
+      "raw_product_name": "ROCHESTER GAUGE",
+      "list_of_product_ids": [
+        "13848",
+        "13850",
+        "15244",
+        "15258",
+        "21980",
+        "37412"
+      ]
+    },
+    {
+      "retrieval_score": 0.8396815,
+      "text": "core_product_name: differential pressure gauge",
+      "core_id": 585.0,
+      "raw_product_name": "DIFFERENTIAL PRESSURE GAUGES",
+      "list_of_product_ids": [
+        "6568",
+        "5738",
+        "11830",
+        "11715",
+        "12727",
+        "16561",
+        "16616",
+        "16594",
+        "16587",
+        "17202",
+        "18170",
+        "17703",
+        "18988",
+        "18982",
+        "18990",
+        "22722",
+        "37656",
+        "37661",
+        "37762",
+        "37672",
+        "32611",
+        "37782"
+      ]
+    },
+    {
+      "retrieval_score": 0.83933264,
+      "text": "core_product_name: electrical spare",
+      "core_id": 710.0,
+      "raw_product_name": "ELECTRICAL SPARES",
+      "list_of_product_ids": [
+        "207",
+        "782",
+        "077",
+        "728",
+        "462"
+      ]
+    },
+    {
+      "retrieval_score": 0.83916396,
+      "text": "core_product_name: conduit accessory",
+      "core_id": 439.0,
+      "raw_product_name": "CONDUIT ACCESSORIES",
+      "list_of_product_ids": [
+        "20550",
+        "20514",
+        "20591",
+        "20632",
+        "20686",
+        "20744"
+      ]
+    },
+    {
+      "retrieval_score": 0.83913696,
+      "text": "core_product_name: seal oil pump",
+      "core_id": 1984.0,
+      "raw_product_name": "SEAL OIL PUMP",
+      "list_of_product_ids": [
+        "138",
+        "841",
+        "523",
+        "415",
+        "235"
+      ]
+    },
+    {
+      "retrieval_score": 0.8390189,
+      "text": "core_product_name: oil skimmer",
+      "core_id": 1587.0,
+      "raw_product_name": "OIL SKIMMER",
+      "list_of_product_ids": [
+        "7015",
+        "7335",
+        "10200",
+        "11866",
+        "18552"
+      ]
+    },
+    {
+      "retrieval_score": 0.83894694,
+      "text": "core_product_name: measuring special gauge",
+      "core_id": 2077.0,
+      "raw_product_name": "SPECIAL MEASURING GAUGES",
+      "list_of_product_ids": [
+        "216",
+        "522",
+        "165",
+        "021",
+        "743"
+      ]
+    },
+    {
+      "retrieval_score": 0.83883315,
+      "text": "core_product_name: electronic test bench",
+      "core_id": 728.0,
+      "raw_product_name": "ELECTRONIC TEST BENCH",
+      "list_of_product_ids": [
+        "171",
+        "821",
+        "716",
+        "727",
+        "677"
+      ]
+    },
+    {
+      "retrieval_score": 0.83854514,
+      "text": "core_product_name: pneumatic test bench",
+      "core_id": 1721.0,
+      "raw_product_name": "PNEUMATIC TEST BENCH",
+      "list_of_product_ids": [
+        "171",
+        "811",
+        "716",
+        "627",
+        "676"
+      ]
+    },
+    {
+      "retrieval_score": 0.83851844,
+      "text": "core_product_name: oil mist lubrication system",
+      "core_id": 1584.0,
+      "raw_product_name": "OIL MIST LUBRICATION SYSTEM",
+      "list_of_product_ids": [
+        "5966",
+        "6794",
+        "10929",
+        "23716"
+      ]
+    },
+    {
+      "retrieval_score": 0.83842045,
+      "text": "core_product_name: check excess flow valve",
+      "core_id": 2347.0,
+      "raw_product_name": "VALVE CHECK EXCESS FLOW",
+      "list_of_product_ids": [
+        "6",
+        "235",
+        "540",
+        "417",
+        "694"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "file_path": "/home/student2/Documents/GitHub/1st_AI_Project_Kothari/boq_extraction_2/pipeline_copy_2/inputs/BOQ.xlsx",
+  "sheet_name": "Budget",
+  "output_folder": "outputs/BOQ/Budget",
+  "schedule_path": "outputs/BOQ/Budget/schedule_only.xlsx",
+  "context_md": " | CONTROL CABLING : |  |  | ",
+  "header_md": " | Line Item Detail | Unit | Qty | Amount",
+  "schedule_start_idx": 1,
+  "max_col_idx": 5,
+  "tokens_used_ctx": [
+    791,
+    37
+  ]
+}

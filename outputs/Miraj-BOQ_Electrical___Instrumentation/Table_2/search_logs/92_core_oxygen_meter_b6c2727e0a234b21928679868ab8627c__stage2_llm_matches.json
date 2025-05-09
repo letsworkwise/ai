@@ -1,0 +1,89 @@
+{
+  "query": "core_product_name: oxygen meter",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: water quality analyser | type_or_class: Dissolved Oxygen",
+        "raw_product_name": "WATER QUALITY ANALYSER-DISSOLVED OXYGEN",
+        "list_of_product_ids": [
+          "6516",
+          "5687",
+          "11779",
+          "11178",
+          "10046",
+          "11798",
+          "11796",
+          "10127",
+          "11759",
+          "11875",
+          "13399",
+          "18232",
+          "28804",
+          "28803",
+          "28802",
+          "28808",
+          "28807",
+          "28806",
+          "28805",
+          "33122",
+          "33341",
+          "36267",
+          "36420"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: flue gas analyser | type_or_class: O2 (Oxygen) analyser",
+        "raw_product_name": "FLUE GAS ANALYSER {O2 ANALYSER (LT)}",
+        "list_of_product_ids": [
+          "1",
+          "364",
+          "515",
+          "338"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: process stream analyser | type_or_class: O2 (Oxygen)-Zirconia",
+        "raw_product_name": "PROCESS STREAM ANALYSERS (O2-ZIRCONIA)",
+        "list_of_product_ids": [
+          "6518",
+          "5689",
+          "11656",
+          "11780",
+          "11180",
+          "10048",
+          "10128",
+          "11760",
+          "11876",
+          "19567",
+          "28972",
+          "28971",
+          "28970",
+          "28968",
+          "28973",
+          "33815",
+          "36270",
+          "36423"
+        ]
+      }
+    }
+  ]
+}

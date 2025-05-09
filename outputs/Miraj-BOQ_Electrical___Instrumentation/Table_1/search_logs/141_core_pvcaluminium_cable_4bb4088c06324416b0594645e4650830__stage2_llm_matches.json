@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: pvc(aluminium) cable | size: core: 1C, area: 150 mm2 | feature_or_specifications: colour: green",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: control cable | size_or_capacity: 1100 Volts | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "1100 VOLTS GRADE PVC CONTROL CABLES",
+        "list_of_product_ids": [
+          "23936",
+          "24085",
+          "21514",
+          "28591"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+        "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+        "list_of_product_ids": [
+          "140",
+          "901",
+          "478",
+          "121",
+          "282"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable | size_or_capacity: 1100 Volts",
+        "raw_product_name": "1100 VOLTS GRADE CABLES",
+        "list_of_product_ids": [
+          "24084",
+          "21508",
+          "23935",
+          "27355"
+        ]
+      }
+    }
+  ]
+}

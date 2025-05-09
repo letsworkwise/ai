@@ -1,0 +1,66 @@
+{
+  "query": "core_product_name: cotton waste",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: waste | material: Cotton",
+        "raw_product_name": "COTTON WASTE",
+        "list_of_product_ids": [
+          "32801",
+          "32802",
+          "32993",
+          "33027",
+          "33180",
+          "33245",
+          "33547",
+          "33619",
+          "35907"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: handglove | material: Cotton",
+        "raw_product_name": "COTTON HANGLOVES",
+        "list_of_product_ids": [
+          "32885",
+          "32894",
+          "33008",
+          "33040",
+          "33194",
+          "33259",
+          "33561",
+          "33632",
+          "35921"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: waste heat exchanger",
+        "raw_product_name": "WASTE HEAT EXCHANGER",
+        "list_of_product_ids": [
+          "17566",
+          "17546",
+          "18463",
+          "18460",
+          "18453",
+          "18643",
+          "37715",
+          "37720"
+        ]
+      }
+    }
+  ]
+}

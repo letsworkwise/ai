@@ -1,0 +1,529 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.91309637,
+      "text": "core_product_name: first aid box",
+      "core_id": 1000.0,
+      "raw_product_name": "First Aid Box",
+      "list_of_product_ids": [
+        "14350",
+        "14343",
+        "14347",
+        "14357",
+        "16793"
+      ]
+    },
+    {
+      "retrieval_score": 0.8995639,
+      "text": "core_product_name: first aid kit",
+      "core_id": 867.0,
+      "raw_product_name": "FIRST AID KITS",
+      "list_of_product_ids": [
+        "2",
+        "108",
+        "828",
+        "543"
+      ]
+    },
+    {
+      "retrieval_score": 0.879747,
+      "text": "core_product_name: primary structure | construction_features: bolted",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+      "list_of_product_ids": [
+        "20000",
+        "19997",
+        "20035",
+        "21038",
+        "21002",
+        "21083",
+        "21901",
+        "22017",
+        "22116",
+        "22826",
+        "22992"
+      ]
+    },
+    {
+      "retrieval_score": 0.8742176,
+      "text": "core_product_name: breathing equipment",
+      "core_id": 247.0,
+      "raw_product_name": "BREATHING EQUIPMENT",
+      "list_of_product_ids": [
+        "188",
+        "191",
+        "880",
+        "228",
+        "060"
+      ]
+    },
+    {
+      "retrieval_score": 0.87393284,
+      "text": "core_product_name: conventional valve | type_or_class: Check",
+      "core_id": 471.0,
+      "raw_product_name": "CONVENTIONAL VALVES (CHECK)",
+      "list_of_product_ids": [
+        "7289",
+        "7615",
+        "11053",
+        "11056",
+        "11139",
+        "7856",
+        "30846",
+        "30856",
+        "30860",
+        "30863",
+        "30866",
+        "30868"
+      ]
+    },
+    {
+      "retrieval_score": 0.8734357,
+      "text": "core_product_name: primary structure | accessories_or_attachments: Fabrication | accessories_or_attachments: Supply",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE (FABRICATION & SUPPLY)",
+      "list_of_product_ids": [
+        "237",
+        "742",
+        "105",
+        "321",
+        "052"
+      ]
+    },
+    {
+      "retrieval_score": 0.87254447,
+      "text": "core_product_name: emergency vent",
+      "core_id": 742.0,
+      "raw_product_name": "EMERGENCY VENT",
+      "list_of_product_ids": [
+        "1",
+        "392",
+        "415",
+        "189"
+      ]
+    },
+    {
+      "retrieval_score": 0.8720866,
+      "text": "core_product_name: hose box",
+      "core_id": 1144.0,
+      "raw_product_name": "HOSE BOX",
+      "list_of_product_ids": [
+        "8889",
+        "8912",
+        "9824",
+        "9829",
+        "9834",
+        "9839"
+      ]
+    },
+    {
+      "retrieval_score": 0.871662,
+      "text": "core_product_name: stretcher",
+      "core_id": 2126.0,
+      "raw_product_name": "STRETCHER",
+      "list_of_product_ids": [
+        "18818",
+        "28058",
+        "18800",
+        "39316"
+      ]
+    },
+    {
+      "retrieval_score": 0.87136734,
+      "text": "core_product_name: safety relief valve",
+      "core_id": 2181.0,
+      "raw_product_name": "Safety Relief Valve",
+      "list_of_product_ids": [
+        "7520",
+        "7194",
+        "10321",
+        "9958",
+        "12013",
+        "12014",
+        "12015",
+        "12091",
+        "12784",
+        "12758",
+        "12775",
+        "17529",
+        "18043",
+        "22348",
+        "36631",
+        "34693",
+        "34695",
+        "34697",
+        "34699",
+        "35702",
+        "36144",
+        "36151",
+        "39885"
+      ]
+    },
+    {
+      "retrieval_score": 0.870867,
+      "text": "core_product_name: flame proof junction box | protection_features: Flame proof",
+      "core_id": 1315.0,
+      "raw_product_name": "JUNCTION BOXES (FLAME PROOF)",
+      "list_of_product_ids": [
+        "6417",
+        "5587",
+        "11078",
+        "11075",
+        "10304",
+        "11324",
+        "10578",
+        "10585",
+        "10555",
+        "10601",
+        "10686",
+        "8207",
+        "8208",
+        "8402",
+        "15922",
+        "16008",
+        "16029",
+        "16025",
+        "26747",
+        "26746",
+        "33512",
+        "35769"
+      ]
+    },
+    {
+      "retrieval_score": 0.8702013,
+      "text": "core_product_name: main column | type_or_class: Plus and Box",
+      "core_id": 1426.0,
+      "raw_product_name": "MAIN COLUMNS (PLUS AND BOX)",
+      "list_of_product_ids": [
+        "20898",
+        "20976",
+        "21907",
+        "22020",
+        "22087",
+        "22118"
+      ]
+    },
+    {
+      "retrieval_score": 0.8700832,
+      "text": "core_product_name: primary structure | construction_features: welded",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+      "list_of_product_ids": [
+        "19999",
+        "20036",
+        "22016",
+        "21003",
+        "21084",
+        "21900",
+        "22115",
+        "21039",
+        "19993",
+        "22825",
+        "22991"
+      ]
+    },
+    {
+      "retrieval_score": 0.86970663,
+      "text": "core_product_name: resuscitator",
+      "core_id": 1905.0,
+      "raw_product_name": "RESUSCITATOR",
+      "list_of_product_ids": [
+        "14351",
+        "14341",
+        "14346",
+        "14356"
+      ]
+    },
+    {
+      "retrieval_score": 0.8692968,
+      "text": "core_product_name: primary structure",
+      "core_id": 223.0,
+      "raw_product_name": "PRIMARY STRUCTURES",
+      "list_of_product_ids": [
+        "237",
+        "872",
+        "378",
+        "828",
+        "073"
+      ]
+    },
+    {
+      "retrieval_score": 0.86887205,
+      "text": "core_product_name: starter",
+      "core_id": 608.0,
+      "raw_product_name": "STARTERS",
+      "list_of_product_ids": [
+        "20786",
+        "20780",
+        "20781",
+        "21197",
+        "21194",
+        "27047"
+      ]
+    },
+    {
+      "retrieval_score": 0.86883426,
+      "text": "core_product_name: safety valve | type_or_class: Spring Type",
+      "core_id": 1950.0,
+      "raw_product_name": "SAFETY VALVES(SPRING TYPE)",
+      "list_of_product_ids": [
+        "7610",
+        "7285",
+        "11131",
+        "11825",
+        "7847"
+      ]
+    },
+    {
+      "retrieval_score": 0.8684648,
+      "text": "core_product_name: quick opening closure | accessories_or_attachments: filter or separator",
+      "core_id": 1849.0,
+      "raw_product_name": "QUICK OPENING CLOSURE(FILTER/SEPARATOR)",
+      "list_of_product_ids": [
+        "5252",
+        "6086",
+        "11483",
+        "8747",
+        "16146",
+        "23562",
+        "24407",
+        "24405",
+        "36604"
+      ]
+    },
+    {
+      "retrieval_score": 0.8681844,
+      "text": "core_product_name: junction box",
+      "core_id": 1311.0,
+      "raw_product_name": "JUNCTION BOXES",
+      "list_of_product_ids": [
+        "5960",
+        "6788",
+        "10303",
+        "10552",
+        "10606",
+        "8206",
+        "8209",
+        "15928",
+        "17373",
+        "18803",
+        "24168",
+        "22859",
+        "27495",
+        "36562",
+        "36607",
+        "35775",
+        "35887",
+        "35865",
+        "35940",
+        "36519",
+        "39357"
+      ]
+    },
+    {
+      "retrieval_score": 0.8680804,
+      "text": "core_product_name: ventilation",
+      "core_id": 2385.0,
+      "raw_product_name": "VENTILATION",
+      "list_of_product_ids": [
+        "21445",
+        "21453",
+        "21451",
+        "21448",
+        "22931",
+        "22933",
+        "24989",
+        "26752",
+        "21435",
+        "35895"
+      ]
+    },
+    {
+      "retrieval_score": 0.8679863,
+      "text": "core_product_name: support structure",
+      "core_id": 127.0,
+      "raw_product_name": "GANTRY AND EQUIPMENT SUPPORT STRUCTURE",
+      "list_of_product_ids": [
+        "17432",
+        "17331",
+        "17332",
+        "17347",
+        "17351",
+        "17358",
+        "17370",
+        "17376",
+        "17382",
+        "17400",
+        "17423",
+        "17424",
+        "17442",
+        "17449",
+        "17454",
+        "17521",
+        "17519",
+        "17648",
+        "17655",
+        "17706",
+        "17693",
+        "18666",
+        "17537",
+        "17710",
+        "32192",
+        "35981",
+        "35988"
+      ]
+    },
+    {
+      "retrieval_score": 0.867774,
+      "text": "core_product_name: fire proofing material | protection_features: Fireproof",
+      "core_id": 856.0,
+      "raw_product_name": "FIRE PROOFING MATERIAL",
+      "list_of_product_ids": [
+        "38658",
+        "38561",
+        "38562",
+        "38566"
+      ]
+    },
+    {
+      "retrieval_score": 0.8676124,
+      "text": "core_product_name: auxiliary column | acronymed_core_product_name: aux. column",
+      "core_id": 147.0,
+      "raw_product_name": "AUX. COLUMN",
+      "list_of_product_ids": [
+        "20899",
+        "20876",
+        "21908",
+        "21952",
+        "22021",
+        "22119",
+        "20853"
+      ]
+    },
+    {
+      "retrieval_score": 0.86750066,
+      "text": "core_product_name: relief valve",
+      "core_id": 2370.0,
+      "raw_product_name": "VALVE RELIEF",
+      "list_of_product_ids": [
+        "14046",
+        "15292",
+        "22346",
+        "30833",
+        "36632"
+      ]
+    },
+    {
+      "retrieval_score": 0.86712325,
+      "text": "core_product_name: fire fighting accessory",
+      "core_id": 845.0,
+      "raw_product_name": "FIRE FIGHTING ACCESSORIES",
+      "list_of_product_ids": [
+        "16168",
+        "16173",
+        "16277",
+        "16274",
+        "16273",
+        "16272",
+        "16271",
+        "16266",
+        "21064",
+        "21057",
+        "34088"
+      ]
+    },
+    {
+      "retrieval_score": 0.86700803,
+      "text": "core_product_name: primer",
+      "core_id": 1841.0,
+      "raw_product_name": "Primer",
+      "list_of_product_ids": [
+        "7042",
+        "7369",
+        "11501",
+        "12196",
+        "14306",
+        "22314",
+        "30745",
+        "30770",
+        "30809",
+        "31892",
+        "29240",
+        "29239",
+        "29238",
+        "29237",
+        "34034",
+        "34243"
+      ]
+    },
+    {
+      "retrieval_score": 0.86686754,
+      "text": "core_product_name: quick opening closure | type_or_class: pipelines",
+      "core_id": 1849.0,
+      "raw_product_name": "QUICK OPENING CLOSURE(PIPELINES)",
+      "list_of_product_ids": [
+        "5373",
+        "6204",
+        "11485",
+        "16151",
+        "23564",
+        "30766",
+        "30901",
+        "36603"
+      ]
+    },
+    {
+      "retrieval_score": 0.8666526,
+      "text": "core_product_name: surge relief valve",
+      "core_id": 2159.0,
+      "raw_product_name": "SURGE RELIEF VALVE",
+      "list_of_product_ids": [
+        "6505",
+        "5676",
+        "12130",
+        "22347",
+        "28768"
+      ]
+    },
+    {
+      "retrieval_score": 0.8664468,
+      "text": "core_product_name: special valve | type_or_class: Category",
+      "core_id": 2374.0,
+      "raw_product_name": "VALVE SPECIAL CATEGORY",
+      "list_of_product_ids": [
+        "6271",
+        "5440",
+        "11271",
+        "7833",
+        "7842",
+        "8652",
+        "8705",
+        "12327",
+        "12573",
+        "12658",
+        "13276",
+        "15007",
+        "15035",
+        "15039",
+        "15015",
+        "15030",
+        "15045",
+        "18316",
+        "18314"
+      ]
+    },
+    {
+      "retrieval_score": 0.86636406,
+      "text": "core_product_name: safety valve",
+      "core_id": 1950.0,
+      "raw_product_name": "SAFETY VALVES",
+      "list_of_product_ids": [
+        "14389",
+        "14381",
+        "14554",
+        "15199",
+        "15333"
+      ]
+    }
+  ]
+}

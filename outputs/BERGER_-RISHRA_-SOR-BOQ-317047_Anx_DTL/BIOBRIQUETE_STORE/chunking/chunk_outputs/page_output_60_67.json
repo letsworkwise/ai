@@ -1,0 +1,108 @@
+{
+  "sheet_name": "BIOBRIQUETE STORE",
+  "boq_context": "Annexure I |  |  |  |  |  |  | \nP.O. No. 317047               Dt. 24.11.23 |  |  |  |  |  |  | \n |  |  |  |  |  |  | \nScope of Supply & Erection : |  |  |  |  |  |  | \n |  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "P | BIOBIQUETE STORE > P3 | PA SYSTEM",
+      "full_product_description": "Rack Mounted  125 watt Power Amplifier with battery back up (Wattage shall be as per requirement)",
+      "core_product_name": "power amplifier",
+      "size": "power: 125 watt",
+      "feature_or_specifications": "mounting: rack mounted, feature: battery back up, feature: wattage shall be as per requirement",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "P | BIOBIQUETE STORE > P3 | PA SYSTEM",
+      "full_product_description": "DVD player with features to hook up to amplifiers of PA system for music in the common areas.",
+      "core_product_name": "dvd player",
+      "size": "",
+      "feature_or_specifications": "feature: features to hook up to amplifiers of pa system for music in the common areas",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "Nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      60,
+      66
+    ],
+    "original_rows": [
+      {
+        "0": "4",
+        "1": "Rack Mounted  125 watt Power Amplifier with battery back up (Wattage shall be as per requirement)",
+        "2": "Nos",
+        "3": 1.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "5",
+        "1": "DVD player with features to hook up to amplifiers of PA system for music in the common areas.",
+        "2": "Nos",
+        "3": 1.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "6",
+        "1": "Paging  Loudspeaker",
+        "2": "Nos",
+        "3": 1.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": "TOTAL",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2129,
+    "completion_tokens": 432
+  }
+}

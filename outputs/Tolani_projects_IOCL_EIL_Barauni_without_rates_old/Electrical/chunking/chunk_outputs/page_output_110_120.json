@@ -1,0 +1,168 @@
+{
+  "sheet_name": "Electrical",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "GI earth electrode as per std. 7-51-0102.",
+      "core_product_name": "earth electrode",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: gi(galvanized iron), standard: 7-51-0102",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Supply, installation and connection of following GI earthing strip along the cable trenches or cable trays or fixing to walls or structures including welding at joints, providing anti-corrosive paint or bitumen and jute covering for welded portion, clamping and necessary hardware for connecting, etc., including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge. 50 x 6 mm",
+      "core_product_name": "earthing strip",
+      "acronymed_core_product_name": "",
+      "size": "strip size: 50 x 6 mm",
+      "feature_or_specifications": "material: gi(galvanized iron), installation: along cable trenches or cable trays or fixing to walls or structures, joint: welded, coating: anti-corrosive paint or bitumen and jute covering for welded portion, inclusion: clamping and necessary hardware for connecting, all labour and materials, as per approved drawings, specifications of this tender and directions of engineer-in-charge",
+      "quantity": "300.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Supply, installation and connection of following GI earthing strip along the cable trenches or cable trays or fixing to walls or structures including welding at joints, providing anti-corrosive paint or bitumen and jute covering for welded portion, clamping and necessary hardware for connecting, etc., including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge. 25 x 3 mm",
+      "core_product_name": "earthing strip",
+      "acronymed_core_product_name": "",
+      "size": "strip size: 25 x 3 mm",
+      "feature_or_specifications": "material: gi(galvanized iron), installation: along cable trenches or cable trays or fixing to walls or structures, joint: welded, coating: anti-corrosive paint or bitumen and jute covering for welded portion, inclusion: clamping and necessary hardware for connecting, all labour and materials, as per approved drawings, specifications of this tender and directions of engineer-in-charge",
+      "quantity": "100.0",
+      "unit": "m"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      110,
+      119
+    ],
+    "original_rows": [
+      {
+        "0": 222,
+        "1": 0,
+        "2": "01EE.4020.10.10",
+        "3": "GI earth electrode as per std. 7-51-0102.",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 223,
+        "1": 0,
+        "2": "01EE.4030",
+        "3": "EARTH STRIPS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 224,
+        "1": 0,
+        "2": "01EE.4030.10",
+        "3": "Supply, installation and connection of following GI earthing strip along the cable trenches or cable trays or fixing to walls or structures including welding at joints, providing anti-corrosive paint or bitumen and jute covering for welded portion, clamping and necessary hardware for connecting, etc., including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 225,
+        "1": 0,
+        "2": "01EE.4030.10.20",
+        "3": "50 x 6 mm",
+        "4": 300.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 226,
+        "1": 0,
+        "2": "01EE.4030.10.40",
+        "3": "25 x 3 mm",
+        "4": 100.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 227,
+        "1": 0,
+        "2": "01EE.4030.20",
+        "3": "Supply, installation and connection of following GI earthing strip buried individually at a depth of 500 mm including welding at joints, providing anti-corrosive paint or bitumen and jute covering for welded portion, clamping and necessary hardware for connecting, excavation and refilling etc., including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 228,
+        "1": 0,
+        "2": "01EE.4030.20.20",
+        "3": "50 x 6 mm",
+        "4": 250.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 229,
+        "1": 0,
+        "2": "01EE.4030.20.40",
+        "3": "25 x 3 mm",
+        "4": 100.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 230,
+        "1": 0,
+        "2": "01EE.4040",
+        "3": "EARTHING CONNECTION",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 231,
+        "1": 0,
+        "2": "01EE.4040.10",
+        "3": "Connecting individual equipment to the earth strip or earth plate with following sizes of G.I. wire / G.I. wire rope including the supply of G.I. wire /G.I. wire rope, lugs, conductors, connecting to the G.I. strip or earth plate and necessary hardware for connection, including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2626,
+    "completion_tokens": 1203
+  }
+}

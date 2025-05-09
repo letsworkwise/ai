@@ -1,0 +1,61 @@
+{
+  "query": "core_product_name: visitor management software",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: management system",
+        "raw_product_name": "TANK FARM MANAGEMENT SYSTEM",
+        "list_of_product_ids": [
+          "6585",
+          "5755",
+          "11689",
+          "11698",
+          "10102",
+          "10116",
+          "11714",
+          "13223",
+          "21062",
+          "35434"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: power management system",
+        "raw_product_name": "POWER MANAGEMENT SYSTEM",
+        "list_of_product_ids": [
+          "138",
+          "561",
+          "462",
+          "423",
+          "212"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: integrated platform management system",
+        "raw_product_name": "INTEGRATED PLATFORM MANAGEMENT SYSTEM",
+        "list_of_product_ids": [
+          "211",
+          "672",
+          "116",
+          "628",
+          "573"
+        ]
+      }
+    }
+  ]
+}

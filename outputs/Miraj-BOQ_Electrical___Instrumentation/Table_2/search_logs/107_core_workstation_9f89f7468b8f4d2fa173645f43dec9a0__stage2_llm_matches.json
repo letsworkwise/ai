@@ -1,0 +1,75 @@
+{
+  "query": "core_product_name: workstation | size: memory: minimum 16 GB, hard disk: 2TB SATA at 7200 rpms, graphic card: minimum 2 GB memory | feature_or_specifications: processor: intel core i7-4790 @ 3.60GHz, graphics: intel hd graphics 4600, operating system: windows 8.1 or 10, 64bit, network card: 1Gbit/s network card, location: central monitoring hub room, security room, admin building plant manager room",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: net oil computer",
+        "raw_product_name": "NET OIL COMPUTERS",
+        "list_of_product_ids": [
+          "13787",
+          "15020",
+          "15023",
+          "15041",
+          "15053",
+          "15055",
+          "15085",
+          "15116",
+          "15131",
+          "15139",
+          "15147",
+          "15219",
+          "15225",
+          "15227",
+          "15230",
+          "15232",
+          "15276",
+          "15242",
+          "15256",
+          "15268",
+          "15272",
+          "36105",
+          "36180",
+          "36328"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: computer maintenance",
+        "raw_product_name": "COMPUTER MAINTENANCE",
+        "list_of_product_ids": [
+          "193",
+          "231",
+          "932",
+          "428",
+          "719"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: laptop",
+        "raw_product_name": "LAPTOPS",
+        "list_of_product_ids": [
+          "142",
+          "481",
+          "529",
+          "918",
+          "835"
+        ]
+      }
+    }
+  ]
+}

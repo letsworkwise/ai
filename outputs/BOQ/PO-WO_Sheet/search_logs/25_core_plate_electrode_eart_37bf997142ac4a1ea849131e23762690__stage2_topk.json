@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: plate electrode earthing station | size: inspection chamber: 400(L)x400(W)x450(D)mm, thickness: 150mm, copper plate: 600x600x3mm, gi(galvanized iron) line/funnel: 15mm, line for watering: 50mm | feature_or_specifications: feature: providing, installing, testing, commissioning, cover/lid: cast iron, frame: cast iron, mixture: salt & charcoal, bolts & nuts: m10, clamps: universal stainless steel, standard: is(indian standard) 3043-2018, standard: nbc 2016 (latest), compliance: full",
+  "retrieval_results": [
+    {
+      "id": "variant-c877b74e-265d-5bd4-bb90-01b78c749417",
+      "score": 0.86373943,
+      "metadata": {
+        "text": "core_product_name: instrumentation earthing",
+        "raw_product_name": "INSTRUMENTATION EARTHING",
+        "list_of_product_ids": "13420",
+        "core_id": 1263.0
+      }
+    },
+    {
+      "id": "variant-b36f4e2f-98bf-53ec-a28b-ff2140fad1e5",
+      "score": 0.86149085,
+      "metadata": {
+        "text": "core_product_name: welding electrode",
+        "raw_product_name": "WELDING ELECTRODES",
+        "list_of_product_ids": "19553,19560,19542,19537,19528,19517,19630,38577",
+        "core_id": 2459.0
+      }
+    },
+    {
+      "id": "variant-9cab3a59-4c3f-5408-9e1e-d68d6a3b5435",
+      "score": 0.8605398,
+      "metadata": {
+        "text": "core_product_name: earthing material",
+        "raw_product_name": "EARTHING MATERIALS",
+        "list_of_product_ids": "378,733,788,037,898",
+        "core_id": 672.0
+      }
+    },
+    {
+      "id": "variant-cb60c123-5699-54ec-a71e-3a8bc891b611",
+      "score": 0.85979223,
+      "metadata": {
+        "text": "core_product_name: soldering station",
+        "raw_product_name": "SOLDERING STATION",
+        "list_of_product_ids": "154,291,875,238,511",
+        "core_id": 2064.0
+      }
+    },
+    {
+      "id": "variant-2c6d2fb0-4d65-53a0-9797-0709ec5bdacd",
+      "score": 0.8597194,
+      "metadata": {
+        "text": "core_product_name: earthing wire | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI EARTHING WIRE",
+        "list_of_product_ids": "13437",
+        "core_id": 1053.0
+      }
+    },
+    {
+      "id": "variant-020bf4c5-a0d0-54ea-a3fd-b3a605cce2c8",
+      "score": 0.8594483,
+      "metadata": {
+        "text": "core_product_name: plate | material: Cast Iron",
+        "raw_product_name": "CAST IRON PLATE",
+        "list_of_product_ids": "399,713,996,039,973",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-71375a23-b4b8-5f79-9289-52ed93bee593",
+      "score": 0.85708195,
+      "metadata": {
+        "text": "core_product_name: fitting | material: Cast Iron (CI)",
+        "raw_product_name": "FITTINGS -CAST IRON (CI)",
+        "list_of_product_ids": "7618,7292,7881,15941,16290,16308,34586,35732,35733",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-3eaf92b7-c4c0-55c4-99c1-41eda1bc409a",
+      "score": 0.8570082,
+      "metadata": {
+        "text": "core_product_name: electrode",
+        "raw_product_name": "ELECTRODE",
+        "list_of_product_ids": "21773,21781,21777,26028,26689,32986,33019,33173,33240,33540,33612,35900",
+        "core_id": 718.0
+      }
+    },
+    {
+      "id": "variant-e39317b3-3dc6-5bc0-978a-96d4f2a66c38",
+      "score": 0.85618204,
+      "metadata": {
+        "text": "core_product_name: casting | material: Stainless Steel",
+        "raw_product_name": "STAINLESS STEEL CASTING",
+        "list_of_product_ids": "249,622,495,926,779",
+        "core_id": 91.0
+      }
+    },
+    {
+      "id": "variant-7e2d6aa3-d1a8-5e98-bd8c-ce8cbb63daf6",
+      "score": 0.85602784,
+      "metadata": {
+        "text": "core_product_name: casting | material: Cast Iron",
+        "raw_product_name": "CASTING -CAST IRON",
+        "list_of_product_ids": "21885,21883,24612,39753,39842,39868,39927,40032",
+        "core_id": 91.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.85499203,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    },
+    {
+      "id": "variant-6c3737d4-39a0-5f0c-aeaf-89178b4d57df",
+      "score": 0.8544833,
+      "metadata": {
+        "text": "core_product_name: plate | material: Stainless Steel",
+        "raw_product_name": "STAINLESS STEEL PLATE",
+        "list_of_product_ids": "29507,29508,29506,29509,29511,29510,29535,32724",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-60cc1389-d2d7-5796-b91e-9be0cfc16c55",
+      "score": 0.8530386,
+      "metadata": {
+        "text": "core_product_name: instrumentation fitting",
+        "raw_product_name": "INSTRUMENTATION FITTINGS",
+        "list_of_product_ids": "14372,17508,17507,17506,17505,17504,17501,17500,17496,17958,17960",
+        "core_id": 1264.0
+      }
+    },
+    {
+      "id": "variant-7b84b9d7-6c76-5b4d-9aaf-d57ecafe4b91",
+      "score": 0.85299087,
+      "metadata": {
+        "text": "core_product_name: electrical-instrumentation work",
+        "raw_product_name": "ELECTRICAL-INSTRUMENTATION WORKS",
+        "list_of_product_ids": "36860,36857,36888,36892",
+        "core_id": 711.0
+      }
+    },
+    {
+      "id": "variant-cf079358-169a-5baf-943d-cca385aae7e4",
+      "score": 0.8520813,
+      "metadata": {
+        "text": "core_product_name: casting | material: Steel",
+        "raw_product_name": "STEEL CASTING",
+        "list_of_product_ids": "24961,24958,26780,39754,39847,39875,39930,40008,40298",
+        "core_id": 91.0
+      }
+    },
+    {
+      "id": "variant-89d62cb0-5eaa-5b46-9322-2dd3b312b339",
+      "score": 0.8517159,
+      "metadata": {
+        "text": "core_product_name: corrosion voltmeter",
+        "raw_product_name": "CORROSION VOLTMETER",
+        "list_of_product_ids": "1,410,114,945",
+        "core_id": 494.0
+      }
+    },
+    {
+      "id": "variant-157884b9-3ab5-51ae-b3f9-904ad08fbb26",
+      "score": 0.8513552,
+      "metadata": {
+        "text": "core_product_name: plate | material: Steel",
+        "raw_product_name": "STEEL PLATE",
+        "list_of_product_ids": "15457,15466,14057,15473,15475,15478,15836,19346,18374,18349,19348,21285,22300,22845,21288,22303,26241,29274,29273,29270,38270,38278,36661,36651,37396",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-a4af7647-e144-53ae-8ed6-61b5112af85e",
+      "score": 0.8511681,
+      "metadata": {
+        "text": "core_product_name: cast iron pipe",
+        "raw_product_name": "PIPE CAST IRON",
+        "list_of_product_ids": "7576,7251,11128,11130,7830,14420,14532,15940,16307,23714,39752,39929",
+        "core_id": 1658.0
+      }
+    },
+    {
+      "id": "variant-656a3a9a-c5a4-5f97-a8e6-8f208083dcbb",
+      "score": 0.8509879,
+      "metadata": {
+        "text": "core_product_name: welding receptacle",
+        "raw_product_name": "WELDING RECEPTACLES",
+        "list_of_product_ids": "19666,19656,19638,27341",
+        "core_id": 2460.0
+      }
+    },
+    {
+      "id": "variant-7cfebded-b78b-5dff-b574-85a8c89bc044",
+      "score": 0.85073876,
+      "metadata": {
+        "text": "core_product_name: pipe alloy cast iron",
+        "raw_product_name": "PIPE ALLOY CAST IRON",
+        "list_of_product_ids": "7609,7284,7835,7837,33434",
+        "core_id": 1657.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.8507363,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-f0c36a3d-119d-5b25-8f28-08168a4fd2ac",
+      "score": 0.8506921,
+      "metadata": {
+        "text": "core_product_name: plate",
+        "raw_product_name": "PLATES AND ROLLED SECTION",
+        "list_of_product_ids": "14139,18375,18350,22846,38280,35200,35272",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-95725655-b9d5-5abd-b826-0ad218cf768a",
+      "score": 0.8505554,
+      "metadata": {
+        "text": "core_product_name: instrument panel",
+        "raw_product_name": "INSTRUMENT PANEL",
+        "list_of_product_ids": "13720,14806,14814,14824,21097,22773,36101",
+        "core_id": 1256.0
+      }
+    },
+    {
+      "id": "variant-af149d34-c1eb-5906-825a-2aac4b7ac6fc",
+      "score": 0.8505255,
+      "metadata": {
+        "text": "core_product_name: section | material: Stainless Steel",
+        "raw_product_name": "STAINLESS STEEL SECTIONS",
+        "list_of_product_ids": "17974,17973,17975,17972,18646",
+        "core_id": 100.0
+      }
+    },
+    {
+      "id": "variant-bf41f846-647e-583b-a372-b0ffa5764732",
+      "score": 0.85048467,
+      "metadata": {
+        "text": "core_product_name: welded heat exchanger | construction_features: plates",
+        "raw_product_name": "HEAT EXCHANGER( PLATES-WELDED)",
+        "list_of_product_ids": "6673,5844,12279,8005,23196,37895,38424",
+        "core_id": 1111.0
+      }
+    },
+    {
+      "id": "variant-faf7c8c7-477e-5515-90ea-c2238bf9e1b1",
+      "score": 0.85045546,
+      "metadata": {
+        "text": "core_product_name: electro forged grating",
+        "raw_product_name": "ELECTRO FORGED GRATINGS",
+        "list_of_product_ids": "13879,19399,17333,17488,17487,17480,17494,17492,19432,19431,19442,19900,19988,21839,22667",
+        "core_id": 717.0
+      }
+    },
+    {
+      "id": "variant-5b452ea9-dd5f-5e3b-bde6-d56b975fbc36",
+      "score": 0.8503824,
+      "metadata": {
+        "text": "core_product_name: fabricated fitting | material: Plate | construction_features: Cladded",
+        "raw_product_name": "FITTINGS FABRICATED FROM PLATE - CLADDED",
+        "list_of_product_ids": "6326,5497,11561,24593,34020,34019,36846",
+        "core_id": 874.0
+      }
+    },
+    {
+      "id": "variant-ce4a0c38-7795-57e5-b9cc-098e4d1cb8ad",
+      "score": 0.85022783,
+      "metadata": {
+        "text": "core_product_name: plate | material: SS (Stainless Steel)",
+        "raw_product_name": "SS PLATE",
+        "list_of_product_ids": "19847,19830,19829,19908,20410,20652",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-f0f0f159-c9f0-57bd-89ee-9689d390c903",
+      "score": 0.85009634,
+      "metadata": {
+        "text": "core_product_name: calibration",
+        "raw_product_name": "INSTRUMENTS CALIBRATION",
+        "list_of_product_ids": "24237,23794,23833,23950,23799,26879",
+        "core_id": 1265.0
+      }
+    },
+    {
+      "id": "variant-63f28b5e-8d64-503f-938b-d41f4b31f2fd",
+      "score": 0.85007554,
+      "metadata": {
+        "text": "core_product_name: industrial receptacle",
+        "raw_product_name": "INDUSTRIAL RECEPTACLE",
+        "list_of_product_ids": "136,891,479,414,813",
+        "core_id": 1235.0
+      }
+    }
+  ]
+}

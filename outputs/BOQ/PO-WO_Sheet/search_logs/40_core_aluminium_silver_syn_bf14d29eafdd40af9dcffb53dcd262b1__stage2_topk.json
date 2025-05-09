@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: aluminium silver synthetic enamel paint | size: quantity: 20 ltrs | feature_or_specifications: container: tin",
+  "retrieval_results": [
+    {
+      "id": "variant-0d36c74f-f1d5-5e9d-a811-76f62093a877",
+      "score": 0.87089753,
+      "metadata": {
+        "text": "core_product_name: synthetic painting work | material: Enamel | special_attributes: For Building Works",
+        "raw_product_name": "PAINTING WORKS - SYNTHETIC ENAMEL (FOR BUILDING WORKS)",
+        "list_of_product_ids": "6353,5524,12197,12544,12554,14309,16294,16293,16292,22318,30747,30773,30812,28834,28832,28830,28828,28823,31890,34336,35226,35227,35228,35267,35337,35369,35343,35406,35364",
+        "core_id": 1631.0
+      }
+    },
+    {
+      "id": "variant-61ed1a5a-d988-5f1a-b288-7fc04abf584a",
+      "score": 0.8599704,
+      "metadata": {
+        "text": "core_product_name: paint | material: Acrylic Emulsion",
+        "raw_product_name": "ACRYLIC EMULSION Paint",
+        "list_of_product_ids": "7041,7368,11500,12195,15679,14311,18879,18925,22556,30744,30769,30808,31893,34033,34242",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-04253410-e270-5f7e-b389-5683411f6454",
+      "score": 0.8574868,
+      "metadata": {
+        "text": "core_product_name: stove enamel paint",
+        "raw_product_name": "STOVE ENAMEL PAINT",
+        "list_of_product_ids": "22316,22317,28623,28822,28833,28831,28829,28827,35327,35340,35346,35367,35372,35409",
+        "core_id": 2120.0
+      }
+    },
+    {
+      "id": "variant-76a3b279-5fd8-543f-ba01-801914162ba6",
+      "score": 0.8571959,
+      "metadata": {
+        "text": "core_product_name: structural | material: Aluminium",
+        "raw_product_name": "STRUCTURAL ALUMINIUM",
+        "list_of_product_ids": "234,572,603,826,686",
+        "core_id": 2134.0
+      }
+    },
+    {
+      "id": "variant-33525379-9060-5b76-8e53-8f90b0e2a756",
+      "score": 0.85390556,
+      "metadata": {
+        "text": "core_product_name: surface texture paint | operating_conditions: Interior",
+        "raw_product_name": "SURFACE TEXTURE PAINT(INTERIOR)",
+        "list_of_product_ids": "200,842,008,020,714",
+        "core_id": 2154.0
+      }
+    },
+    {
+      "id": "variant-d179beb7-8ae9-5a78-a4c4-2d411dc27fee",
+      "score": 0.85380745,
+      "metadata": {
+        "text": "core_product_name: emulsion paint | material: Plastic",
+        "raw_product_name": "Plastic Emulsion Paint",
+        "list_of_product_ids": "13444,14315,14462,30751,30777,30816,31898,35640,35639,35641,35642,35643",
+        "core_id": 1833.0
+      }
+    },
+    {
+      "id": "variant-b0d9c4df-3690-59a3-8c9a-dfab3097ac82",
+      "score": 0.8537521,
+      "metadata": {
+        "text": "core_product_name: based paint | material: Polymer",
+        "raw_product_name": "POLYMER BASED PAINT",
+        "list_of_product_ids": "138,272,388,622,463",
+        "core_id": 327.0
+      }
+    },
+    {
+      "id": "variant-f2d4af06-494c-576d-904c-5608ebb84565",
+      "score": 0.85332656,
+      "metadata": {
+        "text": "core_product_name: section | material: Aluminum",
+        "raw_product_name": "ALUMINUM SECTION",
+        "list_of_product_ids": "20555,20518,20605,20596,20682,20740,38548,39312",
+        "core_id": 100.0
+      }
+    },
+    {
+      "id": "variant-014c7bb6-6ec5-54af-848e-7964ab04ac83",
+      "score": 0.8528473,
+      "metadata": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "PAINTS (STOCKIST/TRADERS)",
+        "list_of_product_ids": "2,457,824,577",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-57fecfed-c79f-5acd-b247-15bf21cbd5a3",
+      "score": 0.8528275,
+      "metadata": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "Paints",
+        "list_of_product_ids": "7573,7248,10288,11486,7766,12146,12193,12340,12341,14307,16998,17021,17015,18878,18924,24661,24663,24684,24681,24678,24676,24675,24672,24697,24690,24694,24700,24725,24723,24722,24729,30771,24738,15680,15678,15677,30810,25163,25264,25278,25308,25299,25345,25552,25781,26145,26116,26220,25680,31891,30742,34244,38228,38229,38230,38231,38232,38233,35616,35617,35618,35619,35622,35703,35698,35707,35785,35816,35817,36023",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-ae413c56-b2e1-58fc-b7c0-83629b95ba1c",
+      "score": 0.8527362,
+      "metadata": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "paints",
+        "list_of_product_ids": "8191",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-0e0c90c9-780c-50d5-a034-058ce6617e37",
+      "score": 0.8521251,
+      "metadata": {
+        "text": "core_product_name: painting",
+        "raw_product_name": "PAINTING",
+        "list_of_product_ids": "239,702,397,227,813",
+        "core_id": 1625.0
+      }
+    },
+    {
+      "id": "variant-e073d2ae-f2d1-5e74-9d31-5194d6319446",
+      "score": 0.8520153,
+      "metadata": {
+        "text": "core_product_name: structural painting work",
+        "raw_product_name": "PAINTING WORK-STRUCTURAL",
+        "list_of_product_ids": "1,658,927,816",
+        "core_id": 1624.0
+      }
+    },
+    {
+      "id": "variant-dc61bb4b-3a37-5c73-9e84-36303b19eb2d",
+      "score": 0.85181934,
+      "metadata": {
+        "text": "core_product_name: based paint | material: Cement",
+        "raw_product_name": "CEMENT BASED PAINT",
+        "list_of_product_ids": "35632,35633,35634,35631,35670",
+        "core_id": 327.0
+      }
+    },
+    {
+      "id": "variant-83351410-76f3-5cb0-86b0-0ae6f6887ba6",
+      "score": 0.8511494,
+      "metadata": {
+        "text": "core_product_name: surface texture paint | operating_conditions: exterior",
+        "raw_product_name": "SURFACE TEXTURE PAINT(EXTERIOR)",
+        "list_of_product_ids": "200,832,007,920,715",
+        "core_id": 2154.0
+      }
+    },
+    {
+      "id": "variant-71cb628a-0827-5450-965c-f430bca859f6",
+      "score": 0.85095614,
+      "metadata": {
+        "text": "core_product_name: chromatography | material: Aluminium Oxide",
+        "raw_product_name": "ALUMINIUM OXIDE CHROMATOGRAPHY",
+        "list_of_product_ids": "949,295,929,775",
+        "core_id": 98.0
+      }
+    },
+    {
+      "id": "variant-facb57ea-8c2b-5937-b0a2-ddaa4390d293",
+      "score": 0.850845,
+      "metadata": {
+        "text": "core_product_name: works painting | material: Coaltar Enamel",
+        "raw_product_name": "PAINTING WORKS - COALTAR ENAMEL",
+        "list_of_product_ids": "17460,17450,18360,18345,18514",
+        "core_id": 1626.0
+      }
+    },
+    {
+      "id": "variant-053579c3-3498-5b60-8344-1f2872278138",
+      "score": 0.85045886,
+      "metadata": {
+        "text": "core_product_name: painting tank",
+        "raw_product_name": "TANK - PAINTING WORK",
+        "list_of_product_ids": "168,882,781,434,496",
+        "core_id": 2198.0
+      }
+    },
+    {
+      "id": "variant-f04964aa-985c-5fd7-9acd-379ec435e792",
+      "score": 0.84975994,
+      "metadata": {
+        "text": "core_product_name: plate | material: Aluminium",
+        "raw_product_name": "ALUMINIUM PLATE",
+        "list_of_product_ids": "234,562,603,726,687",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-85595b96-8efb-5b9b-b2ef-1814c72f9b21",
+      "score": 0.8490488,
+      "metadata": {
+        "text": "core_product_name: finned tube | material: Aluminium",
+        "raw_product_name": "TUBE - ALUMINIUM FINNED",
+        "list_of_product_ids": "6063,5155,10988,10989,8492,17554,23035,23477,24438,23469,33845",
+        "core_id": 2281.0
+      }
+    },
+    {
+      "id": "variant-27834032-9ff1-56f1-aa48-bbc29b08fc65",
+      "score": 0.84880435,
+      "metadata": {
+        "text": "core_product_name: bitumastic paint | protection_features: Anti-corrosive",
+        "raw_product_name": "ANTI CORROSIVE BITUMASTIC PAINT",
+        "list_of_product_ids": "15685,15682,15683,30758,30784,30823,27989,15684,31895",
+        "core_id": 122.0
+      }
+    },
+    {
+      "id": "variant-5a21e89e-f2e2-5d8c-bee4-edcf5c008bbb",
+      "score": 0.8487764,
+      "metadata": {
+        "text": "core_product_name: painting work | material: Plastic or Acrylic Emulsion | material: Distemper | operating_conditions: Internal and External",
+        "raw_product_name": "PAINTING WORKS - PLASTIC/ ACRYLIC EMULSION (INTERNAL AND EXTERNAL), DISTEMPER ETC",
+        "list_of_product_ids": "5523,6352,11006,8190,12198,12538,12543,12553,14308,30746,30772,30811,15723,15706,31901,34117,34335",
+        "core_id": 1630.0
+      }
+    },
+    {
+      "id": "variant-d021e903-f730-529b-945d-e9a1406228be",
+      "score": 0.8475705,
+      "metadata": {
+        "text": "core_product_name: construction chemical",
+        "raw_product_name": "CONSTRUCTION CHEMICALS",
+        "list_of_product_ids": "15531,13971,15530,15944,17467,22627,23888,15529,15528,35652",
+        "core_id": 444.0
+      }
+    },
+    {
+      "id": "variant-151ce4f6-5469-579f-8545-47358a95c4ad",
+      "score": 0.847252,
+      "metadata": {
+        "text": "core_product_name: flange | material: Alloy 20",
+        "raw_product_name": "FLANGE- ALLOY 20",
+        "list_of_product_ids": "176,491,764,718,665",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-b57c6b0f-ccc6-52ab-a2a5-e54fa1ba3af2",
+      "score": 0.84705454,
+      "metadata": {
+        "text": "core_product_name: lime storage system",
+        "raw_product_name": "LIME STORAGE SYSTEM",
+        "list_of_product_ids": "24203,24200,24201,28697",
+        "core_id": 1359.0
+      }
+    },
+    {
+      "id": "variant-308e32cc-e64d-5e44-958a-db6c0113273f",
+      "score": 0.8466959,
+      "metadata": {
+        "text": "core_product_name: adhesive | material: Aluminium",
+        "raw_product_name": "ALUMINIUM WORK - ADHESIVE",
+        "list_of_product_ids": "15588,15916,19655,16974,37009,24159",
+        "core_id": 99.0
+      }
+    },
+    {
+      "id": "variant-8ff28017-0264-5e36-a0cf-4da8ef899bf9",
+      "score": 0.84638727,
+      "metadata": {
+        "text": "core_product_name: liner",
+        "raw_product_name": "LINER",
+        "list_of_product_ids": "23255,23259,23254,33433,33436,39416",
+        "core_id": 1104.0
+      }
+    },
+    {
+      "id": "variant-aba41a48-4503-5de2-9937-02046b4125aa",
+      "score": 0.84593695,
+      "metadata": {
+        "text": "core_product_name: concentrate | material: Alcohol",
+        "raw_product_name": "CONCENTRATE (ALCOHOL)",
+        "list_of_product_ids": "1,659,527,818",
+        "core_id": 425.0
+      }
+    },
+    {
+      "id": "variant-2c7b6d1d-f4b5-57ea-8948-872aec63db91",
+      "score": 0.8457352,
+      "metadata": {
+        "text": "core_product_name: cast product | material: Aluminium",
+        "raw_product_name": "CAST ALUMINIUM",
+        "list_of_product_ids": "249,682,496,726,776",
+        "core_id": 305.0
+      }
+    },
+    {
+      "id": "variant-8abb8013-7674-5e8d-b621-700c9475540b",
+      "score": 0.8456813,
+      "metadata": {
+        "text": "core_product_name: synthetic primer",
+        "raw_product_name": "SYNTHETIC PRIMER",
+        "list_of_product_ids": "17461,17451,18361,18346,18513",
+        "core_id": 2179.0
+      }
+    }
+  ]
+}

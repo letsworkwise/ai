@@ -1,0 +1,604 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.87105584,
+      "text": "core_product_name: magnetic proximity switch",
+      "core_id": 1800.0,
+      "raw_product_name": "PROXIMITY SWITCHES (MAGNETIC)",
+      "list_of_product_ids": [
+        "19092",
+        "19105",
+        "19088",
+        "36748",
+        "38451",
+        "36718"
+      ]
+    },
+    {
+      "retrieval_score": 0.87073475,
+      "text": "core_product_name: flow switch | type_or_class: Electrical",
+      "core_id": 939.0,
+      "raw_product_name": "FLOW SWITCHES (ELECTRICAL)",
+      "list_of_product_ids": [
+        "10080",
+        "9559",
+        "9519",
+        "12077",
+        "15127",
+        "15135",
+        "15143",
+        "17313"
+      ]
+    },
+    {
+      "retrieval_score": 0.87059975,
+      "text": "core_product_name: flow switch",
+      "core_id": 939.0,
+      "raw_product_name": "FLOW SWITCH",
+      "list_of_product_ids": [
+        "9557",
+        "9517",
+        "9851",
+        "13395",
+        "18227"
+      ]
+    },
+    {
+      "retrieval_score": 0.86986375,
+      "text": "core_product_name: magnetic flow meter",
+      "core_id": 1421.0,
+      "raw_product_name": "MAGNETIC FLOW METERS",
+      "list_of_product_ids": [
+        "5741",
+        "6571",
+        "11580",
+        "11586",
+        "11691",
+        "10064",
+        "11682",
+        "11808",
+        "10094",
+        "10124",
+        "10108",
+        "10571",
+        "11707",
+        "11872",
+        "12210",
+        "13112",
+        "13385",
+        "13396",
+        "18228",
+        "18264",
+        "18885",
+        "18931",
+        "32952",
+        "36224",
+        "36376"
+      ]
+    },
+    {
+      "retrieval_score": 0.86285853,
+      "text": "core_product_name: flow switch | type_or_class: Pneumatic",
+      "core_id": 939.0,
+      "raw_product_name": "FLOW SWITCHES (PNEUMATIC)",
+      "list_of_product_ids": [
+        "10079",
+        "9558",
+        "9518",
+        "12076",
+        "12886",
+        "15134",
+        "15142",
+        "17312"
+      ]
+    },
+    {
+      "retrieval_score": 0.8617704,
+      "text": "core_product_name: magnetic liquid level indicator",
+      "core_id": 1423.0,
+      "raw_product_name": "MAGNETIC LIQUID LEVEL INDICATOR",
+      "list_of_product_ids": [
+        "218",
+        "652",
+        "186",
+        "428",
+        "600"
+      ]
+    },
+    {
+      "retrieval_score": 0.8573128,
+      "text": "core_product_name: fluid power equipment",
+      "core_id": 949.0,
+      "raw_product_name": "FLUID POWER EQUIPMENT",
+      "list_of_product_ids": [
+        "1",
+        "364",
+        "936",
+        "946"
+      ]
+    },
+    {
+      "retrieval_score": 0.8568747,
+      "text": "core_product_name: magnetic level instrument",
+      "core_id": 1422.0,
+      "raw_product_name": "MAGNETIC LEVEL INSTRUMENTS",
+      "list_of_product_ids": [
+        "6583",
+        "5753",
+        "11811",
+        "11274",
+        "10573",
+        "10581",
+        "10196",
+        "10669",
+        "8393",
+        "11949",
+        "11948",
+        "12069",
+        "12219",
+        "12239",
+        "12778",
+        "12834",
+        "12833",
+        "12842",
+        "18396",
+        "22199"
+      ]
+    },
+    {
+      "retrieval_score": 0.8563075,
+      "text": "core_product_name: switch | material: Mercury",
+      "core_id": 603.0,
+      "raw_product_name": "MERCURY SWITCHES",
+      "list_of_product_ids": [
+        "1",
+        "642",
+        "516",
+        "474"
+      ]
+    },
+    {
+      "retrieval_score": 0.85594016,
+      "text": "core_product_name: horizontal centrifugal pump | operating_conditions: water service",
+      "core_id": 1142.0,
+      "raw_product_name": "HORIZONTAL CENTRIFUGAL PUMP WATER SERVICE",
+      "list_of_product_ids": [
+        "8690",
+        "13595",
+        "18706",
+        "19776",
+        "24105",
+        "22206",
+        "37242",
+        "37243",
+        "37244",
+        "37245",
+        "37718"
+      ]
+    },
+    {
+      "retrieval_score": 0.8527414,
+      "text": "core_product_name: micro switch",
+      "core_id": 1472.0,
+      "raw_product_name": "MICRO SWITCHES",
+      "list_of_product_ids": [
+        "164",
+        "261",
+        "647",
+        "516",
+        "624"
+      ]
+    },
+    {
+      "retrieval_score": 0.85265756,
+      "text": "core_product_name: flow meter",
+      "core_id": 938.0,
+      "raw_product_name": "FLOW METER",
+      "list_of_product_ids": [
+        "9516",
+        "9556",
+        "20013",
+        "20023",
+        "20018",
+        "36586"
+      ]
+    },
+    {
+      "retrieval_score": 0.8521488,
+      "text": "core_product_name: float level switch",
+      "core_id": 1339.0,
+      "raw_product_name": "LEVEL SWITCHES(FLOAT)",
+      "list_of_product_ids": [
+        "17125",
+        "19898",
+        "31745",
+        "27176"
+      ]
+    },
+    {
+      "retrieval_score": 0.8517937,
+      "text": "core_product_name: proximity switch | type_or_class: Inductive",
+      "core_id": 1799.0,
+      "raw_product_name": "PROXIMITY SWITCHES (INDUCTIVE)",
+      "list_of_product_ids": [
+        "19091",
+        "19106",
+        "19087",
+        "36749",
+        "38450",
+        "36719"
+      ]
+    },
+    {
+      "retrieval_score": 0.8513194,
+      "text": "core_product_name: pressure switch",
+      "core_id": 1777.0,
+      "raw_product_name": "PRESSURE SWITCHES",
+      "list_of_product_ids": [
+        "6591",
+        "5761",
+        "10082",
+        "10084",
+        "10628",
+        "7944",
+        "7946",
+        "7948",
+        "9043",
+        "12721",
+        "12730",
+        "12724",
+        "12726",
+        "12900",
+        "12905",
+        "16623",
+        "16824",
+        "19378",
+        "18142",
+        "18406",
+        "18882",
+        "18928",
+        "30690",
+        "31309",
+        "37434",
+        "37435",
+        "36690",
+        "35676",
+        "39387"
+      ]
+    },
+    {
+      "retrieval_score": 0.85097045,
+      "text": "core_product_name: industrial water tube boiler | size_or_capacity: >25 TPH (Ton Per Hour)",
+      "core_id": 220.0,
+      "raw_product_name": "BOILER - INDUSTRIAL WATER TUBE >25TPH",
+      "list_of_product_ids": [
+        "5229",
+        "6050",
+        "9005",
+        "17616",
+        "24182",
+        "22806"
+      ]
+    },
+    {
+      "retrieval_score": 0.850172,
+      "text": "core_product_name: variable area flow meter",
+      "core_id": 2382.0,
+      "raw_product_name": "VARIABLE AREA FLOW METERS(I,T)",
+      "list_of_product_ids": [
+        "6570",
+        "5740",
+        "11581",
+        "11587",
+        "11595",
+        "11652",
+        "10063",
+        "11685",
+        "11694",
+        "11813",
+        "11827",
+        "10570",
+        "11710",
+        "18398",
+        "30543"
+      ]
+    },
+    {
+      "retrieval_score": 0.849991,
+      "text": "core_product_name: magnetic oil level gauge",
+      "core_id": 1424.0,
+      "raw_product_name": "MAGNETIC OIL LEVEL GAUGE",
+      "list_of_product_ids": [
+        "6465",
+        "5636",
+        "10160",
+        "12891",
+        "26083"
+      ]
+    },
+    {
+      "retrieval_score": 0.84981376,
+      "text": "core_product_name: flushing apparatus",
+      "core_id": 958.0,
+      "raw_product_name": "FLUSHING APPARATUS",
+      "list_of_product_ids": [
+        "143",
+        "601",
+        "444",
+        "714",
+        "482"
+      ]
+    },
+    {
+      "retrieval_score": 0.84939283,
+      "text": "core_product_name: level switch | type_or_class: Displacer or Float",
+      "core_id": 1337.0,
+      "raw_product_name": "LEVEL SWITCHES(DISPLACER/FLOAT)",
+      "list_of_product_ids": [
+        "6589",
+        "5759",
+        "11661",
+        "11692",
+        "11683",
+        "11810",
+        "11310",
+        "10095",
+        "10109",
+        "10550",
+        "10623",
+        "11708",
+        "7943",
+        "7945",
+        "7949",
+        "7947",
+        "8395",
+        "12074",
+        "12217",
+        "12813",
+        "12814",
+        "14200",
+        "16823",
+        "18395",
+        "38275",
+        "36310",
+        "36162"
+      ]
+    },
+    {
+      "retrieval_score": 0.8492885,
+      "text": "core_product_name: flow transmitter",
+      "core_id": 942.0,
+      "raw_product_name": "FLOW TRANSMITTER",
+      "list_of_product_ids": [
+        "134",
+        "391",
+        "821",
+        "036",
+        "513"
+      ]
+    },
+    {
+      "retrieval_score": 0.8491968,
+      "text": "core_product_name: fluid coupling",
+      "core_id": 948.0,
+      "raw_product_name": "Fluid Coupling",
+      "list_of_product_ids": [
+        "7541",
+        "7215",
+        "9733",
+        "16462"
+      ]
+    },
+    {
+      "retrieval_score": 0.84899175,
+      "text": "core_product_name: turbine meter | operating_conditions: liquid services",
+      "core_id": 2295.0,
+      "raw_product_name": "TURBINE METER – LIQUID SERVICES",
+      "list_of_product_ids": [
+        "14192"
+      ]
+    },
+    {
+      "retrieval_score": 0.84885985,
+      "text": "core_product_name: variable speed fluid coupling",
+      "core_id": 947.0,
+      "raw_product_name": "FLUID COUPLING (VARIABLE SPEED)",
+      "list_of_product_ids": [
+        "9",
+        "884",
+        "989",
+        "418",
+        "747"
+      ]
+    },
+    {
+      "retrieval_score": 0.848489,
+      "text": "core_product_name: differential pressure switch",
+      "core_id": 586.0,
+      "raw_product_name": "DIFFERENTIAL PRESSURE SWITCHES",
+      "list_of_product_ids": [
+        "10086",
+        "10087",
+        "10092",
+        "10093",
+        "10236",
+        "12720",
+        "12722",
+        "12731",
+        "12901",
+        "12906",
+        "15173",
+        "16825",
+        "18164",
+        "23111",
+        "37046",
+        "35677"
+      ]
+    },
+    {
+      "retrieval_score": 0.8484107,
+      "text": "core_product_name: target flowmeter",
+      "core_id": 2207.0,
+      "raw_product_name": "TARGET FLOWMETERS",
+      "list_of_product_ids": [
+        "65",
+        "755",
+        "745"
+      ]
+    },
+    {
+      "retrieval_score": 0.84836286,
+      "text": "core_product_name: temperature switch",
+      "core_id": 2224.0,
+      "raw_product_name": "TEMPERATURE SWITCHES",
+      "list_of_product_ids": [
+        "10252",
+        "10257",
+        "10271",
+        "10272",
+        "10274",
+        "10279",
+        "10282",
+        "10286",
+        "10285",
+        "9993",
+        "10028",
+        "10083",
+        "10085",
+        "10222",
+        "10241",
+        "10246",
+        "12732",
+        "12902",
+        "12907",
+        "36536",
+        "16622",
+        "16826",
+        "17069",
+        "17288",
+        "18163",
+        "23112",
+        "37681",
+        "36620",
+        "35672",
+        "35668",
+        "39389"
+      ]
+    },
+    {
+      "retrieval_score": 0.84827703,
+      "text": "core_product_name: pressure vessel | material: SS (Stainless Steel) | size_or_capacity: up to 25mm",
+      "core_id": 1779.0,
+      "raw_product_name": "PRESSURE VESSEL-SS (UP TO 25MM)",
+      "list_of_product_ids": [
+        "6636",
+        "5806",
+        "10972",
+        "10968",
+        "10978",
+        "11016",
+        "12280",
+        "11108",
+        "11103",
+        "11669",
+        "21893",
+        "11504",
+        "8506",
+        "8534",
+        "8759",
+        "9640",
+        "9676",
+        "12050",
+        "12136",
+        "12596",
+        "12992",
+        "16161",
+        "16484",
+        "16937",
+        "17399",
+        "17392",
+        "17592",
+        "21842",
+        "23755",
+        "19745",
+        "20966",
+        "21812",
+        "21798",
+        "21791",
+        "21789",
+        "21776",
+        "21848",
+        "21847",
+        "21844",
+        "21841",
+        "21840",
+        "21837",
+        "21835",
+        "21914",
+        "21913",
+        "21897",
+        "21890",
+        "21931",
+        "21930",
+        "21937",
+        "21933",
+        "21967",
+        "21998",
+        "21992",
+        "21991",
+        "21977",
+        "21976",
+        "21975",
+        "21972",
+        "23706",
+        "23318",
+        "36758",
+        "38170",
+        "38300",
+        "38062",
+        "38099",
+        "38110",
+        "37735",
+        "37751",
+        "39448",
+        "39498"
+      ]
+    },
+    {
+      "retrieval_score": 0.8480481,
+      "text": "core_product_name: water maker",
+      "core_id": 2440.0,
+      "raw_product_name": "WATER MAKER",
+      "list_of_product_ids": [
+        "38441",
+        "38442",
+        "38447",
+        "38212",
+        "38213",
+        "38415",
+        "38417"
+      ]
+    },
+    {
+      "retrieval_score": 0.84803194,
+      "text": "core_product_name: water cut meter",
+      "core_id": 2436.0,
+      "raw_product_name": "WATER CUT METER",
+      "list_of_product_ids": [
+        "14093",
+        "15100",
+        "17080",
+        "19190",
+        "19478",
+        "36294",
+        "36343",
+        "36460",
+        "39580",
+        "40088",
+        "40323",
+        "40328",
+        "40330"
+      ]
+    }
+  ]
+}

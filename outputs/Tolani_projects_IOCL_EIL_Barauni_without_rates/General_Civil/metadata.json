@@ -1,0 +1,14 @@
+{
+  "file_path": "/home/student2/Documents/GitHub/1st_AI_Project_Kothari/boq_extraction_2/pipeline_copy_2/inputs/Tolani projects IOCL EIL Barauni without rates.xlsx",
+  "sheet_name": "General Civil",
+  "output_folder": "outputs/Tolani_projects_IOCL_EIL_Barauni_without_rates/General_Civil",
+  "schedule_path": "outputs/Tolani_projects_IOCL_EIL_Barauni_without_rates/General_Civil/schedule_only.xlsx",
+  "context_md": "Sl. No. | PART NO | ITEM NO | DESCRIPTION | QTY | UOM | RATE | AMOUNT | TPPL Rate | Amount\n649 | 0 | 01GC | GENERAL CIVIL |  |  |  |  |  | \n650 | 0 | 01GC.5 | SITE GRADING & ROCK CUTTING FOR SITE GRADING |  |  |  |  |  | ",
+  "header_md": "Sl. No. | PART NO | ITEM NO | DESCRIPTION | QTY | UOM | RATE | AMOUNT | TPPL Rate | Amount",
+  "schedule_start_idx": 1,
+  "max_col_idx": 10,
+  "tokens_used_ctx": [
+    2032,
+    134
+  ]
+}

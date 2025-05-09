@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: grooved equal tee | size: tee size: 150 NB",
+  "retrieval_results": [
+    {
+      "id": "variant-663cf76d-ffc4-5b4c-934a-31949f5c06be",
+      "score": 0.86776507,
+      "metadata": {
+        "text": "core_product_name: tee fitting",
+        "raw_product_name": "FITTINGS –TEES",
+        "list_of_product_ids": "14267,14693,14668,14710,14903,14915,15996,16049,18892,19403,18960,19725,19800,19793,20062,20171,20936,21919,22661,22656,22915,23197,27761,27751,27741,27731,27721,27780,37063,36444,36528",
+        "core_id": 881.0
+      }
+    },
+    {
+      "id": "variant-b8c4f5e0-8923-57e8-b479-e98457d37dd1",
+      "score": 0.85692257,
+      "metadata": {
+        "text": "core_product_name: unequal tee",
+        "raw_product_name": "UNEQUAL TEE",
+        "list_of_product_ids": "15470,27764,27754,27744,27734,27724,27777",
+        "core_id": 2320.0
+      }
+    },
+    {
+      "id": "variant-7200274a-d707-5227-ac1e-143a15e80f5e",
+      "score": 0.8546347,
+      "metadata": {
+        "text": "core_product_name: barred tee",
+        "raw_product_name": "BARRED TEE",
+        "list_of_product_ids": "14187,22417,27760,27750,27740,27730,27720,27781,36527",
+        "core_id": 175.0
+      }
+    },
+    {
+      "id": "variant-0ac14aa8-88e6-5346-8d34-683abe9ee02e",
+      "score": 0.851761,
+      "metadata": {
+        "text": "core_product_name: flow tee",
+        "raw_product_name": "FLOW TEE",
+        "list_of_product_ids": "5371,6067,11152,11151,10737,11283,10560,12908,15980,17555,27536,27759,27749,27739,27729,27719,27782,36526",
+        "core_id": 940.0
+      }
+    },
+    {
+      "id": "variant-c054d8e4-1e8c-5ea7-b013-ef07cbeba8a2",
+      "score": 0.84478974,
+      "metadata": {
+        "text": "core_product_name: split tee",
+        "raw_product_name": "SPLIT TEE",
+        "list_of_product_ids": "14008,14586,27763,27753,27743,27733,27723,27778,36529",
+        "core_id": 2084.0
+      }
+    },
+    {
+      "id": "variant-c4dd5da8-ce81-5c61-9d83-f5bcb7ada524",
+      "score": 0.84439796,
+      "metadata": {
+        "text": "core_product_name: scrapper tee",
+        "raw_product_name": "SCRAPPER TEES",
+        "list_of_product_ids": "13878,14911,15978,16124,17264,17263,17262,17550,18295,27762,27752,27742,27732,27722,27779,34727,34729,34855",
+        "core_id": 1975.0
+      }
+    },
+    {
+      "id": "variant-61f8572e-efe3-5cec-9e1a-f25b5d3308a6",
+      "score": 0.84345514,
+      "metadata": {
+        "text": "core_product_name: fitting",
+        "raw_product_name": "FITTINGS",
+        "list_of_product_ids": "6290,5461,11537,7894,11072,11094,11098,11099,11127,11129,10446,10452,11402,8101,8103,8105,7876,7878,7880,7882,7883,7875,7877,7879,8095,8018,8097,8099,8094,8096,8098,8100,8102,8104,8106,8130,9273,9274,8824,8107,8108,12258,12679,12666,12683,12688,13310,13317,13403,14515,14568,15748,16005,16058,16446,16530,16614,19374,19368,19267,19252,19261,17541,19356,19736,20066,21742,21303,19811,19277,16579,24581,30951,30637,30687,33435,37262,37014,37026,35746,36881,36884",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-dc892e41-60f1-5a16-a1bd-f106f106c78b",
+      "score": 0.8432891,
+      "metadata": {
+        "text": "core_product_name: as fitted drawing",
+        "raw_product_name": "AS FITTED DRAWING",
+        "list_of_product_ids": "295,042,928,129,280",
+        "core_id": 131.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.84293044,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    },
+    {
+      "id": "variant-3efeda5d-6e70-51e8-8f2e-ad8a9436822e",
+      "score": 0.83996415,
+      "metadata": {
+        "text": "core_product_name: bend",
+        "raw_product_name": "BENDS",
+        "list_of_product_ids": "219,382,194,421,936",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-223a653f-ce26-546e-9630-21d058f384c7",
+      "score": 0.83799934,
+      "metadata": {
+        "text": "core_product_name: grating",
+        "raw_product_name": "GRATINGS",
+        "list_of_product_ids": "218,522,185,428,606",
+        "core_id": 1068.0
+      }
+    },
+    {
+      "id": "variant-f126676e-a62f-52a6-ba06-b09e7951e71e",
+      "score": 0.8369613,
+      "metadata": {
+        "text": "core_product_name: forged fitting",
+        "raw_product_name": "FORGED FITTINGS",
+        "list_of_product_ids": "13660,22252,24586,36933",
+        "core_id": 972.0
+      }
+    },
+    {
+      "id": "variant-9aa36f08-e097-54b1-94fe-8359583782f8",
+      "score": 0.8365189,
+      "metadata": {
+        "text": "core_product_name: orifice fitting",
+        "raw_product_name": "ORIFICE - FITTINGS",
+        "list_of_product_ids": "36537,36541,36539,36546",
+        "core_id": 1602.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8358682,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-6caf8017-d55b-5441-bf5f-7eaed4cb420b",
+      "score": 0.83539337,
+      "metadata": {
+        "text": "core_product_name: grout",
+        "raw_product_name": "GROUT",
+        "list_of_product_ids": "13748,16708,16707,19125,22869,33348,38480,35419,35432",
+        "core_id": 1078.0
+      }
+    },
+    {
+      "id": "variant-578b44d5-4ccd-58bf-bd00-e0a7f89f00d6",
+      "score": 0.834879,
+      "metadata": {
+        "text": "core_product_name: grass-jointed tile",
+        "raw_product_name": "GRASS-JOINTED TILES",
+        "list_of_product_ids": "9534,9543,14436,14506,14508,20240,23698,35256,35255",
+        "core_id": 1067.0
+      }
+    },
+    {
+      "id": "variant-f2e4daa9-7a7d-5b46-ace7-d3f984fd5fee",
+      "score": 0.8343625,
+      "metadata": {
+        "text": "core_product_name: kerbing",
+        "raw_product_name": "KERBING",
+        "list_of_product_ids": "20537,20575,20615,20617,20664,20722",
+        "core_id": 1312.0
+      }
+    },
+    {
+      "id": "variant-3af49486-93ab-5254-a588-fea4e3345951",
+      "score": 0.83433187,
+      "metadata": {
+        "text": "core_product_name: needle valve",
+        "raw_product_name": "VALVE NEEDLE",
+        "list_of_product_ids": "5434,6265,8184,8167,8171,8152,8182,8183,8181,8599,18083,18084,18086,18307,30828,37284,36451",
+        "core_id": 1543.0
+      }
+    },
+    {
+      "id": "variant-123f81c9-bb37-5180-9d3f-25fcda640179",
+      "score": 0.83405674,
+      "metadata": {
+        "text": "core_product_name: gear",
+        "raw_product_name": "GEARS",
+        "list_of_product_ids": "23954,23955,24993,25023",
+        "core_id": 1045.0
+      }
+    },
+    {
+      "id": "variant-1b7571e9-3f95-5cec-879a-0f96d023f242",
+      "score": 0.83402133,
+      "metadata": {
+        "text": "core_product_name: large bellow | material: Elastomer",
+        "raw_product_name": "ELASTOMER LARGE BELLOW",
+        "list_of_product_ids": "1,382,321,736",
+        "core_id": 680.0
+      }
+    },
+    {
+      "id": "variant-10dc0a41-9ee6-56ed-9d8e-405a29cccb61",
+      "score": 0.8339887,
+      "metadata": {
+        "text": "core_product_name: studded tube",
+        "raw_product_name": "TUBE-STUDDED",
+        "list_of_product_ids": "5,991,517,017,614",
+        "core_id": 2285.0
+      }
+    },
+    {
+      "id": "variant-2e84cef9-327a-515b-8b9e-5d2b777c59cb",
+      "score": 0.83397555,
+      "metadata": {
+        "text": "core_product_name: elbowlet",
+        "raw_product_name": "ELBOWLET",
+        "list_of_product_ids": "14395,14719,14722,14725,19815,22922",
+        "core_id": 681.0
+      }
+    },
+    {
+      "id": "variant-74503a1f-fa22-5c08-ac97-9f8dba31f1f4",
+      "score": 0.8339396,
+      "metadata": {
+        "text": "core_product_name: conduit fitting",
+        "raw_product_name": "FITTINGS (CONDUIT)",
+        "list_of_product_ids": "165,391,654,021,574",
+        "core_id": 870.0
+      }
+    },
+    {
+      "id": "variant-fc11023f-6aa9-5a2a-9ffa-b1e3abd66cf0",
+      "score": 0.8331615,
+      "metadata": {
+        "text": "core_product_name: craft",
+        "raw_product_name": "SURVIVAL CRAFT",
+        "list_of_product_ids": "188,592,806,237,502",
+        "core_id": 2164.0
+      }
+    },
+    {
+      "id": "variant-cd6ddf57-09e6-5454-8210-336cd5415241",
+      "score": 0.8329401,
+      "metadata": {
+        "text": "core_product_name: geotextile",
+        "raw_product_name": "GEO TEXTILE",
+        "list_of_product_ids": "2,416,128,694",
+        "core_id": 1050.0
+      }
+    },
+    {
+      "id": "variant-9ab89513-d45f-5b41-a6ca-41ece6c44144",
+      "score": 0.8329176,
+      "metadata": {
+        "text": "core_product_name: tile",
+        "raw_product_name": "TILES",
+        "list_of_product_ids": "16686,16685,16749,16748,27035,39313,34417,35274,35320,35331,35335",
+        "core_id": 2.0
+      }
+    },
+    {
+      "id": "variant-8d00b73b-5dbc-5a15-9977-16b46a2060ab",
+      "score": 0.8328629,
+      "metadata": {
+        "text": "core_product_name: valve fitting",
+        "raw_product_name": "VALVES FITTING",
+        "list_of_product_ids": "8612",
+        "core_id": 2379.0
+      }
+    },
+    {
+      "id": "variant-f23555b4-6776-5418-b12f-82367d57d9b5",
+      "score": 0.8328368,
+      "metadata": {
+        "text": "core_product_name: fitting | type_or_class: ERMETO",
+        "raw_product_name": "ERMETO FITTINGS",
+        "list_of_product_ids": "254,072,567,926,699",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-b6cc49f4-1485-53a1-a1a7-68d77a587995",
+      "score": 0.8328024,
+      "metadata": {
+        "text": "core_product_name: gallery",
+        "raw_product_name": "CONVEYER GALLERIES",
+        "list_of_product_ids": "210,412,104,227,102",
+        "core_id": 473.0
+      }
+    },
+    {
+      "id": "variant-c184836f-fc8c-5421-96c9-57703770e0df",
+      "score": 0.8324816,
+      "metadata": {
+        "text": "core_product_name: thermocouple",
+        "raw_product_name": "THERMOCOUPLES",
+        "list_of_product_ids": "6546,5717,16564,17217,24281,36622",
+        "core_id": 2246.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "query": "core_product_name: structural for supporting pipes",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: structural tube | material: Steel",
+        "raw_product_name": "STRUCTURAL STEEL TUBE",
+        "list_of_product_ids": [
+          "18839",
+          "19006",
+          "18827",
+          "35224",
+          "35225",
+          "35223"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: structural | material: Aluminium",
+        "raw_product_name": "STRUCTURAL ALUMINIUM",
+        "list_of_product_ids": [
+          "234",
+          "572",
+          "603",
+          "826",
+          "686"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: support structure",
+        "raw_product_name": "GANTRY AND EQUIPMENT SUPPORT STRUCTURE",
+        "list_of_product_ids": [
+          "17432",
+          "17331",
+          "17332",
+          "17347",
+          "17351",
+          "17358",
+          "17370",
+          "17376",
+          "17382",
+          "17400",
+          "17423",
+          "17424",
+          "17442",
+          "17449",
+          "17454",
+          "17521",
+          "17519",
+          "17648",
+          "17655",
+          "17706",
+          "17693",
+          "18666",
+          "17537",
+          "17710",
+          "32192",
+          "35981",
+          "35988"
+        ]
+      }
+    }
+  ]
+}

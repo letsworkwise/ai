@@ -1,0 +1,75 @@
+{
+  "query": "core_product_name: ladder type cable tray horizontal bend | size: width: 150mm | feature_or_specifications: bend angle: 90 degree, type: ladder, feature: shall be decided as per detail engineering",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: ladder cable tray | acronymed_core_product_name: gi (galvanized iron) cable trays | material: GI (Galvanized Iron) | accessories_or_attachments: Accessories | type_or_class: Ladder",
+        "raw_product_name": "GI CABLE TRAYS AND ACCESSORIES (LADDER TYPE)",
+        "list_of_product_ids": [
+          "7300",
+          "7348",
+          "7898",
+          "16218",
+          "16242",
+          "16233",
+          "16262",
+          "16774",
+          "16809",
+          "16865",
+          "17490",
+          "20192",
+          "16861"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: long radius bend",
+        "raw_product_name": "LONG RADIUS BENDS",
+        "list_of_product_ids": [
+          "6202",
+          "5370",
+          "11212",
+          "19493",
+          "30761",
+          "30763",
+          "30764",
+          "30590",
+          "37861",
+          "37394",
+          "39923",
+          "40028",
+          "40092",
+          "40121"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: bend",
+        "raw_product_name": "BENDS",
+        "list_of_product_ids": [
+          "219",
+          "382",
+          "194",
+          "421",
+          "936"
+        ]
+      }
+    }
+  ]
+}

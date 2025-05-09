@@ -1,0 +1,54 @@
+{
+  "query": "core_product_name: np3 hume pipes | size: diameter: 100 mm | feature_or_specifications: standard: indian standard 459",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: hume pipe",
+        "raw_product_name": "HUME PIPE",
+        "list_of_product_ids": [
+          "21849",
+          "21850",
+          "22133",
+          "22272"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: large-diameter pipe",
+        "raw_product_name": "Large-diameter pipe",
+        "list_of_product_ids": [
+          "758",
+          "772",
+          "628",
+          "028"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Size & Capacity"
+      ],
+      "match_details": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": [
+          "758",
+          "872",
+          "638",
+          "029"
+        ]
+      }
+    }
+  ]
+}

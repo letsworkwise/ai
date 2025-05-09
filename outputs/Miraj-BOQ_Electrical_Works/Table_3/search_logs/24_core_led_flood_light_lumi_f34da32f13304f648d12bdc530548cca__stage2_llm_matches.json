@@ -1,0 +1,68 @@
+{
+  "query": "core_product_name: led flood light luminaire | size: system power consumption: not more than 150W, colour temperature: 5700-6500K | feature_or_specifications: mounting: wall or parapet, light output: cool white, driver: built in constant current electronic, protection: IP-66, housing: powder coated high pressure die cast aluminium, driver compartment: separate, heat sink: aluminium extrusion, feature: glare free light output",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: video wall | material: LED (Light Emitting Diode)",
+        "raw_product_name": "Video Walls (LED)",
+        "list_of_product_ids": [
+          "7078",
+          "7405",
+          "18019",
+          "18418",
+          "18417"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": [
+          "13606",
+          "16555",
+          "16546",
+          "16591",
+          "16576",
+          "17657",
+          "17650",
+          "17702",
+          "17682",
+          "18058",
+          "20306",
+          "20834",
+          "21315",
+          "22108",
+          "23384",
+          "35044"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: non flame proof light fixture | protection_features: Non Flame Proof",
+        "raw_product_name": "LIGHT FIXTURE (NON FLAME PROOF)",
+        "list_of_product_ids": [
+          "7066",
+          "7393",
+          "10175",
+          "10185",
+          "10178"
+        ]
+      }
+    }
+  ]
+}

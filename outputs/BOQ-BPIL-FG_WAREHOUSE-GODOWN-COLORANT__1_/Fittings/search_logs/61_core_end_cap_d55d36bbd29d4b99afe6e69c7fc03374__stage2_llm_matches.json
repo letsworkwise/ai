@@ -1,0 +1,74 @@
+{
+  "query": "core_product_name: end cap | size: cap size: 80 NB",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: end cap",
+        "raw_product_name": "END CAP",
+        "list_of_product_ids": [
+          "15480"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cap",
+        "raw_product_name": "CAP",
+        "list_of_product_ids": [
+          "13736",
+          "14905",
+          "16051",
+          "19802",
+          "20063",
+          "22663",
+          "22658",
+          "22917",
+          "19405",
+          "37064",
+          "36445"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: pipe cap | material: A S (Alloy Steel)",
+        "raw_product_name": "FITTINGS PIPE CAP (A S)",
+        "list_of_product_ids": [
+          "6328",
+          "5499",
+          "10386",
+          "11292",
+          "8083",
+          "13134",
+          "15993",
+          "19735",
+          "24596",
+          "34143",
+          "34144",
+          "34145",
+          "34168",
+          "34169",
+          "34173",
+          "34172",
+          "34171",
+          "34170",
+          "36851",
+          "40054"
+        ]
+      }
+    }
+  ]
+}

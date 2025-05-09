@@ -1,0 +1,431 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.85999,
+      "text": "core_product_name: welding electrode",
+      "core_id": 2459.0,
+      "raw_product_name": "WELDING ELECTRODES",
+      "list_of_product_ids": [
+        "19553",
+        "19560",
+        "19542",
+        "19537",
+        "19528",
+        "19517",
+        "19630",
+        "38577"
+      ]
+    },
+    {
+      "retrieval_score": 0.85934705,
+      "text": "core_product_name: earthing material",
+      "core_id": 672.0,
+      "raw_product_name": "EARTHING MATERIALS",
+      "list_of_product_ids": [
+        "378",
+        "733",
+        "788",
+        "037",
+        "898"
+      ]
+    },
+    {
+      "retrieval_score": 0.85747504,
+      "text": "core_product_name: instrumentation earthing",
+      "core_id": 1263.0,
+      "raw_product_name": "INSTRUMENTATION EARTHING",
+      "list_of_product_ids": [
+        "13420"
+      ]
+    },
+    {
+      "retrieval_score": 0.8563963,
+      "text": "core_product_name: fitting | material: Cast Iron (CI)",
+      "core_id": 273.0,
+      "raw_product_name": "FITTINGS -CAST IRON (CI)",
+      "list_of_product_ids": [
+        "7618",
+        "7292",
+        "7881",
+        "15941",
+        "16290",
+        "16308",
+        "34586",
+        "35732",
+        "35733"
+      ]
+    },
+    {
+      "retrieval_score": 0.8549155,
+      "text": "core_product_name: electrode",
+      "core_id": 718.0,
+      "raw_product_name": "ELECTRODE",
+      "list_of_product_ids": [
+        "21773",
+        "21781",
+        "21777",
+        "26028",
+        "26689",
+        "32986",
+        "33019",
+        "33173",
+        "33240",
+        "33540",
+        "33612",
+        "35900"
+      ]
+    },
+    {
+      "retrieval_score": 0.8532504,
+      "text": "core_product_name: soldering station",
+      "core_id": 2064.0,
+      "raw_product_name": "SOLDERING STATION",
+      "list_of_product_ids": [
+        "154",
+        "291",
+        "875",
+        "238",
+        "511"
+      ]
+    },
+    {
+      "retrieval_score": 0.85246,
+      "text": "core_product_name: plate | material: Cast Iron",
+      "core_id": 87.0,
+      "raw_product_name": "CAST IRON PLATE",
+      "list_of_product_ids": [
+        "399",
+        "713",
+        "996",
+        "039",
+        "973"
+      ]
+    },
+    {
+      "retrieval_score": 0.85079765,
+      "text": "core_product_name: casting | material: Stainless Steel",
+      "core_id": 91.0,
+      "raw_product_name": "STAINLESS STEEL CASTING",
+      "list_of_product_ids": [
+        "249",
+        "622",
+        "495",
+        "926",
+        "779"
+      ]
+    },
+    {
+      "retrieval_score": 0.85016334,
+      "text": "core_product_name: electrical measuring instrument",
+      "core_id": 709.0,
+      "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+      "list_of_product_ids": [
+        "24296",
+        "20768",
+        "20767",
+        "24283"
+      ]
+    },
+    {
+      "retrieval_score": 0.85013515,
+      "text": "core_product_name: electrical-instrumentation work",
+      "core_id": 711.0,
+      "raw_product_name": "ELECTRICAL-INSTRUMENTATION WORKS",
+      "list_of_product_ids": [
+        "36860",
+        "36857",
+        "36888",
+        "36892"
+      ]
+    },
+    {
+      "retrieval_score": 0.84993315,
+      "text": "core_product_name: casting | material: Cast Iron",
+      "core_id": 91.0,
+      "raw_product_name": "CASTING -CAST IRON",
+      "list_of_product_ids": [
+        "21885",
+        "21883",
+        "24612",
+        "39753",
+        "39842",
+        "39868",
+        "39927",
+        "40032"
+      ]
+    },
+    {
+      "retrieval_score": 0.8491272,
+      "text": "core_product_name: electrical strip",
+      "core_id": 714.0,
+      "raw_product_name": "ELECTRICAL STRIPS",
+      "list_of_product_ids": [
+        "211",
+        "512",
+        "115",
+        "528",
+        "461"
+      ]
+    },
+    {
+      "retrieval_score": 0.8491121,
+      "text": "core_product_name: plate | material: Stainless Steel",
+      "core_id": 87.0,
+      "raw_product_name": "STAINLESS STEEL PLATE",
+      "list_of_product_ids": [
+        "29507",
+        "29508",
+        "29506",
+        "29509",
+        "29511",
+        "29510",
+        "29535",
+        "32724"
+      ]
+    },
+    {
+      "retrieval_score": 0.8489183,
+      "text": "core_product_name: equipment insulation",
+      "core_id": 761.0,
+      "raw_product_name": "EQUIPMENT INSULATION WORKS",
+      "list_of_product_ids": [
+        "358",
+        "293",
+        "583",
+        "235",
+        "880"
+      ]
+    },
+    {
+      "retrieval_score": 0.84812385,
+      "text": "core_product_name: insulation material",
+      "core_id": 1274.0,
+      "raw_product_name": "INSULATION MATERIAL",
+      "list_of_product_ids": [
+        "10251",
+        "10256",
+        "10261",
+        "10266",
+        "10273",
+        "10278",
+        "10281",
+        "7088",
+        "7415",
+        "10172",
+        "10221",
+        "10226",
+        "10230",
+        "10234",
+        "10240",
+        "10245",
+        "11862",
+        "13008",
+        "38431",
+        "33383"
+      ]
+    },
+    {
+      "retrieval_score": 0.84807813,
+      "text": "core_product_name: electric block",
+      "core_id": 682.0,
+      "raw_product_name": "ELECTRIC BLOCK",
+      "list_of_product_ids": [
+        "196",
+        "271",
+        "962",
+        "627",
+        "101"
+      ]
+    },
+    {
+      "retrieval_score": 0.8479289,
+      "text": "core_product_name: corrosion voltmeter",
+      "core_id": 494.0,
+      "raw_product_name": "CORROSION VOLTMETER",
+      "list_of_product_ids": [
+        "1",
+        "410",
+        "114",
+        "945"
+      ]
+    },
+    {
+      "retrieval_score": 0.84767324,
+      "text": "core_product_name: welded structural item",
+      "core_id": 2136.0,
+      "raw_product_name": "STRUCTURAL ITEM (WELDED)",
+      "list_of_product_ids": [
+        "173",
+        "361",
+        "733",
+        "427",
+        "923"
+      ]
+    },
+    {
+      "retrieval_score": 0.8476176,
+      "text": "core_product_name: industrial receptacle",
+      "core_id": 1235.0,
+      "raw_product_name": "INDUSTRIAL RECEPTACLE",
+      "list_of_product_ids": [
+        "136",
+        "891",
+        "479",
+        "414",
+        "813"
+      ]
+    },
+    {
+      "retrieval_score": 0.84733313,
+      "text": "core_product_name: welding receptacle",
+      "core_id": 2460.0,
+      "raw_product_name": "WELDING RECEPTACLES",
+      "list_of_product_ids": [
+        "19666",
+        "19656",
+        "19638",
+        "27341"
+      ]
+    },
+    {
+      "retrieval_score": 0.84702235,
+      "text": "core_product_name: electrical item",
+      "core_id": 713.0,
+      "raw_product_name": "ELECTRICALS ITEMS",
+      "list_of_product_ids": [
+        "240",
+        "232",
+        "403",
+        "028",
+        "576"
+      ]
+    },
+    {
+      "retrieval_score": 0.84689456,
+      "text": "core_product_name: desoldering station",
+      "core_id": 575.0,
+      "raw_product_name": "DESOLDERING STATION",
+      "list_of_product_ids": [
+        "154",
+        "301",
+        "875",
+        "338",
+        "513"
+      ]
+    },
+    {
+      "retrieval_score": 0.8467473,
+      "text": "core_product_name: earthing welding clamp | type_or_class: C Clamp",
+      "core_id": 671.0,
+      "raw_product_name": "EARTHING CLAMP WELDING -C CLAMP",
+      "list_of_product_ids": [
+        "32850",
+        "32852",
+        "33002",
+        "33035",
+        "33189",
+        "33254",
+        "33557",
+        "33628",
+        "35917"
+      ]
+    },
+    {
+      "retrieval_score": 0.84662086,
+      "text": "core_product_name: earthing wire | material: GI (Galvanized Iron)",
+      "core_id": 1053.0,
+      "raw_product_name": "GI EARTHING WIRE",
+      "list_of_product_ids": [
+        "13437"
+      ]
+    },
+    {
+      "retrieval_score": 0.84654534,
+      "text": "core_product_name: boiler structure",
+      "core_id": 224.0,
+      "raw_product_name": "BOILER STRUCTURES",
+      "list_of_product_ids": [
+        "22984",
+        "22978",
+        "22977",
+        "23378"
+      ]
+    },
+    {
+      "retrieval_score": 0.8462651,
+      "text": "core_product_name: plate",
+      "core_id": 87.0,
+      "raw_product_name": "PLATES AND ROLLED SECTION",
+      "list_of_product_ids": [
+        "14139",
+        "18375",
+        "18350",
+        "22846",
+        "38280",
+        "35200",
+        "35272"
+      ]
+    },
+    {
+      "retrieval_score": 0.8462388,
+      "text": "core_product_name: electrical contact",
+      "core_id": 705.0,
+      "raw_product_name": "ELECTRICAL CONTACTS",
+      "list_of_product_ids": [
+        "211",
+        "562",
+        "115",
+        "228",
+        "503"
+      ]
+    },
+    {
+      "retrieval_score": 0.84608144,
+      "text": "core_product_name: instrumentation fitting",
+      "core_id": 1264.0,
+      "raw_product_name": "INSTRUMENTATION FITTINGS",
+      "list_of_product_ids": [
+        "14372",
+        "17508",
+        "17507",
+        "17506",
+        "17505",
+        "17504",
+        "17501",
+        "17500",
+        "17496",
+        "17958",
+        "17960"
+      ]
+    },
+    {
+      "retrieval_score": 0.8460774,
+      "text": "core_product_name: fitting | standards_and_approvals: IS (Indian Standards)-1239",
+      "core_id": 273.0,
+      "raw_product_name": "FITTINGS TO IS-1239",
+      "list_of_product_ids": [
+        "14270",
+        "14771",
+        "33994",
+        "33993",
+        "33992",
+        "33991",
+        "33990"
+      ]
+    },
+    {
+      "retrieval_score": 0.8460382,
+      "text": "core_product_name: plate | material: SS (Stainless Steel)",
+      "core_id": 87.0,
+      "raw_product_name": "SS PLATE",
+      "list_of_product_ids": [
+        "19847",
+        "19830",
+        "19829",
+        "19908",
+        "20410",
+        "20652"
+      ]
+    }
+  ]
+}

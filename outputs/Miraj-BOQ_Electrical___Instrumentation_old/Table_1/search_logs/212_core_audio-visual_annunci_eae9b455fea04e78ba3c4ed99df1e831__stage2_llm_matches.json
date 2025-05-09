@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: audio-visual annunciation panel | feature_or_specifications: location: lpg pump house, integration: all level switches of msvs(mounded storage vessels), feature: single common panel for all level switches",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: annunciation panel",
+        "raw_product_name": "ANNUNCIATION PANELS",
+        "list_of_product_ids": [
+          "14179",
+          "18854",
+          "18912",
+          "23154"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: annunciation system",
+        "raw_product_name": "ANNUNCIATION SYSTEM",
+        "list_of_product_ids": [
+          "197",
+          "191",
+          "971",
+          "727",
+          "089"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: instrument panel",
+        "raw_product_name": "INSTRUMENT PANEL",
+        "list_of_product_ids": [
+          "13720",
+          "14806",
+          "14814",
+          "14824",
+          "21097",
+          "22773",
+          "36101"
+        ]
+      }
+    }
+  ]
+}

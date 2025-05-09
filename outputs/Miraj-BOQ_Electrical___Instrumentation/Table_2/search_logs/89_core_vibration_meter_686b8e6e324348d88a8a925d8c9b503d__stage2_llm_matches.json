@@ -1,0 +1,55 @@
+{
+  "query": "core_product_name: vibration meter",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: vibration monitoring system",
+        "raw_product_name": "VIBRATION MONITORING SYSTEMS",
+        "list_of_product_ids": [
+          "19391",
+          "19393",
+          "19561",
+          "20393",
+          "20654",
+          "37685"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: vibration sensor",
+        "raw_product_name": "VIBRATION SENSORS",
+        "list_of_product_ids": [
+          "1",
+          "410",
+          "523",
+          "189"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: vibration transmitter",
+        "raw_product_name": "VIBRATION TRANSMITTERS",
+        "list_of_product_ids": [
+          "1",
+          "410",
+          "823",
+          "190"
+        ]
+      }
+    }
+  ]
+}

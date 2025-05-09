@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: day tank | size: tank capacity: 990 L (990 litres) | feature_or_specifications: mounting: elevated steel structure, application: gravity flow of fuel to DG sets",
+  "retrieval_results": [
+    {
+      "id": "variant-5f07eb39-d2d8-57c5-8d17-e9a296199a94",
+      "score": 0.8441053,
+      "metadata": {
+        "text": "core_product_name: site fabricated storage tank",
+        "raw_product_name": "SITE FABRICATED STORAGE TANKS",
+        "list_of_product_ids": "1,395,423,053",
+        "core_id": 2038.0
+      }
+    },
+    {
+      "id": "variant-1186d7ad-c268-5e27-872f-1f5ecf8a3d13",
+      "score": 0.8415547,
+      "metadata": {
+        "text": "core_product_name: storage tank",
+        "raw_product_name": "STORAGE TANK",
+        "list_of_product_ids": "20109,20123,20708,37075,35997,36142,36153,36284,36290,36303",
+        "core_id": 1376.0
+      }
+    },
+    {
+      "id": "variant-15585739-cb35-5050-94db-9b124ee7c772",
+      "score": 0.84006053,
+      "metadata": {
+        "text": "core_product_name: diesel generating set",
+        "raw_product_name": "DIESEL GENERATING SET",
+        "list_of_product_ids": "19330,19331,19332,19339,19615,24361,24360,26864,39715,39840,39911",
+        "core_id": 584.0
+      }
+    },
+    {
+      "id": "variant-b707a80a-d66c-5b5f-8be7-ce761b68fa83",
+      "score": 0.83864707,
+      "metadata": {
+        "text": "core_product_name: settling tank",
+        "raw_product_name": "SETTLING TANK",
+        "list_of_product_ids": "143,621,445,814,495",
+        "core_id": 2000.0
+      }
+    },
+    {
+      "id": "variant-248f2090-57dd-54ea-9a64-b78c3b79c297",
+      "score": 0.83709556,
+      "metadata": {
+        "text": "core_product_name: galvanized structure | material: Steel",
+        "raw_product_name": "GALVANIZED STEEL STRUCTURES",
+        "list_of_product_ids": "13697,16818,16886,16869,17140,18104,18096,22747",
+        "core_id": 1011.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.83657336,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-269e457b-4919-55be-a1a4-a830df6229e6",
+      "score": 0.83593434,
+      "metadata": {
+        "text": "core_product_name: water storage tank",
+        "raw_product_name": "WATER STORAGE TANK",
+        "list_of_product_ids": "157,901,585,615,871",
+        "core_id": 2451.0
+      }
+    },
+    {
+      "id": "variant-7fbf3cec-6462-58ed-9e53-ad251c55f0d2",
+      "score": 0.8347127,
+      "metadata": {
+        "text": "core_product_name: fabrication and erection tank",
+        "raw_product_name": "TANK- FABRICATION & ERECTION",
+        "list_of_product_ids": "15608,15601,15609,15603,15740,15607,16536,34495,35835,35842,36083",
+        "core_id": 2206.0
+      }
+    },
+    {
+      "id": "variant-19d97951-bdf6-5c19-ac99-9a0583e7490a",
+      "score": 0.8326489,
+      "metadata": {
+        "text": "core_product_name: surge tank",
+        "raw_product_name": "Surge Tanks",
+        "list_of_product_ids": "7096,7423,11864,14457,14494,39468,39470",
+        "core_id": 2196.0
+      }
+    },
+    {
+      "id": "variant-ab6fb6ed-859d-5a8f-96b5-b82dbe88eb88",
+      "score": 0.8324002,
+      "metadata": {
+        "text": "core_product_name: pressure vessel tank",
+        "raw_product_name": "Pressure Vessel Tanks",
+        "list_of_product_ids": "19117,13874,19110,19095,17356,22231,22504,22501,22555,23201,19202,19192",
+        "core_id": 1842.0
+      }
+    },
+    {
+      "id": "variant-85f30284-91c5-5c11-847c-87fc8cf4382c",
+      "score": 0.8318768,
+      "metadata": {
+        "text": "core_product_name: diesel engine",
+        "raw_product_name": "SHIP REPAIR - DIESEL ENGINE",
+        "list_of_product_ids": "29474,29300,29297,29296,29294",
+        "core_id": 587.0
+      }
+    },
+    {
+      "id": "variant-e8711b02-f227-56cf-89e4-fe3169669830",
+      "score": 0.83153015,
+      "metadata": {
+        "text": "core_product_name: lattice structure | material: Galvanized Steel",
+        "raw_product_name": "GALVANIZED STEEL STRUCTURES- LATTICE",
+        "list_of_product_ids": "21292,21290,21283,21279,21265,21263,21311,21295,27932",
+        "core_id": 1012.0
+      }
+    },
+    {
+      "id": "variant-a8790716-a267-5687-88c4-53e0c419a6cb",
+      "score": 0.83115387,
+      "metadata": {
+        "text": "core_product_name: gas dehydration unit",
+        "raw_product_name": "GAS DEHYDRATION UNIT",
+        "list_of_product_ids": "13709,16123,38166,38168,36671,38151",
+        "core_id": 1025.0
+      }
+    },
+    {
+      "id": "variant-a6cc56e6-ddcb-55f4-99f9-dcd15b9c0bac",
+      "score": 0.830736,
+      "metadata": {
+        "text": "core_product_name: shop fabricated tank",
+        "raw_product_name": "SHOP FABRICATED TANK",
+        "list_of_product_ids": "7037,7364,11705,11497,12044,12854,13001,13072,15859,17343,22796,26143,37268,37271,37276,37278",
+        "core_id": 2018.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.83058673,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-264dbf59-32e9-5b3f-8f2f-ff8fd311b4c0",
+      "score": 0.82973665,
+      "metadata": {
+        "text": "core_product_name: resilient mounting",
+        "raw_product_name": "RESILIENT MOUNTINGS",
+        "list_of_product_ids": "22948,22951,22952,28652",
+        "core_id": 1900.0
+      }
+    },
+    {
+      "id": "variant-157884b9-3ab5-51ae-b3f9-904ad08fbb26",
+      "score": 0.82959324,
+      "metadata": {
+        "text": "core_product_name: plate | material: Steel",
+        "raw_product_name": "STEEL PLATE",
+        "list_of_product_ids": "15457,15466,14057,15473,15475,15478,15836,19346,18374,18349,19348,21285,22300,22845,21288,22303,26241,29274,29273,29270,38270,38278,36661,36651,37396",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-a6103f7d-434d-59c3-b0c8-a5ad206ecb93",
+      "score": 0.82941115,
+      "metadata": {
+        "text": "core_product_name: gas metering system | special_attributes: dual chamber orifice",
+        "raw_product_name": "GAS METERING SYSTEM -DUAL CHAMBR ORIFICE",
+        "list_of_product_ids": "6614,5784,38506,38496",
+        "core_id": 1031.0
+      }
+    },
+    {
+      "id": "variant-b08f61d2-026c-567b-80fb-92881d8ff8f7",
+      "score": 0.82894194,
+      "metadata": {
+        "text": "core_product_name: boiler structure",
+        "raw_product_name": "BOILER STRUCTURES",
+        "list_of_product_ids": "22984,22978,22977,23378",
+        "core_id": 224.0
+      }
+    },
+    {
+      "id": "variant-f733ad3f-528f-5638-b3b0-5fea67d5c4fc",
+      "score": 0.8287247,
+      "metadata": {
+        "text": "core_product_name: gas engine",
+        "raw_product_name": "GAS ENGINES",
+        "list_of_product_ids": "19281,19275,20424,20399,20491,20450,36674",
+        "core_id": 1029.0
+      }
+    },
+    {
+      "id": "variant-8ae46d5f-845a-5711-a2a8-dbd69d20865b",
+      "score": 0.828658,
+      "metadata": {
+        "text": "core_product_name: density or specific gravity analyser | special_attributes: vibrating cylinder",
+        "raw_product_name": "ANALYSER-DENSITY/SP GRAVTY (VIB CYLINDR)",
+        "list_of_product_ids": "6560,5730,11818,11313,29882,35610,35614,36242,36395",
+        "core_id": 109.0
+      }
+    },
+    {
+      "id": "variant-4a0320ce-349d-56b6-83d6-e53be458a6de",
+      "score": 0.8286213,
+      "metadata": {
+        "text": "core_product_name: tank insulation",
+        "raw_product_name": "TANK INSULATION",
+        "list_of_product_ids": "1,663,716,640",
+        "core_id": 2201.0
+      }
+    },
+    {
+      "id": "variant-f513e1e0-8fc9-5237-9a35-e7fed3e9bcf0",
+      "score": 0.82856685,
+      "metadata": {
+        "text": "core_product_name: plate | material: Alloy Steel",
+        "raw_product_name": "ALLOY STEEL PLATE",
+        "list_of_product_ids": "9970,9972,9973,9974,10276,9982,9984,9983,9985,10284,10224,10237,9969,18238,29974,29978,29981,32136,32165,32190,32194,32191,35709,35710,35711",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-97c47e7e-d6e0-5d36-80a4-01f0fe6e1f26",
+      "score": 0.82844996,
+      "metadata": {
+        "text": "core_product_name: heat exchanger | construction_features: plates-gasketted",
+        "raw_product_name": "HEAT EXCHANGER (PLATES-GASKETTED)",
+        "list_of_product_ids": "6669,5840,12278,8820,8817,8821,23059,37943,37962,37991,38013,38043,38348,38369,37896,38404,38423",
+        "core_id": 1110.0
+      }
+    },
+    {
+      "id": "variant-ffb09cea-650c-5da0-8837-2e39ba2b060a",
+      "score": 0.8282284,
+      "metadata": {
+        "text": "core_product_name: structural steel",
+        "raw_product_name": "STRUCTURAL STEEL",
+        "list_of_product_ids": "9524,9544,13038,14422,15849,17276,17978,17977,17976,17979,31114,31137,31138,25221,31005,31007,31030,31053,31055,31056,31057,31061,31065",
+        "core_id": 2137.0
+      }
+    },
+    {
+      "id": "variant-e0478912-c934-59e6-9c1e-16962d2b34e5",
+      "score": 0.8277838,
+      "metadata": {
+        "text": "core_product_name: nitrogen receiver tank",
+        "raw_product_name": "NITROGEN RECEIVER TANK",
+        "list_of_product_ids": "15712,15715,15714,15789,15820,15901,16011,16047,16180,16568,16874,33334",
+        "core_id": 1549.0
+      }
+    },
+    {
+      "id": "variant-db4f66d9-8c82-5bfd-a718-c8bf9d709ba0",
+      "score": 0.8277478,
+      "metadata": {
+        "text": "core_product_name: deoxygenation tower",
+        "raw_product_name": "Water Deoxygenation Tower",
+        "list_of_product_ids": "1,807,727,930",
+        "core_id": 2489.0
+      }
+    },
+    {
+      "id": "variant-14963bd7-11d0-5b8f-9623-ab0e7e8d32d3",
+      "score": 0.82768196,
+      "metadata": {
+        "text": "core_product_name: air floatation unit",
+        "raw_product_name": "AIR FLOATATION UNIT",
+        "list_of_product_ids": "7325,18037,7014,18201",
+        "core_id": 68.0
+      }
+    },
+    {
+      "id": "variant-49123560-ea61-5cc9-8cba-948cd6479642",
+      "score": 0.8276332,
+      "metadata": {
+        "text": "core_product_name: chemical storage and dosing system",
+        "raw_product_name": "CHEMICAL STORAGE & DOSING SYSTEM",
+        "list_of_product_ids": "7053,7380,17865,18358,21023,21294,21252,21316,37071,37082,39187,39201",
+        "core_id": 344.0
+      }
+    },
+    {
+      "id": "variant-bd12fb43-9457-50e1-a5dc-336e49c64273",
+      "score": 0.82747704,
+      "metadata": {
+        "text": "core_product_name: diesel engine | material: Diesel",
+        "raw_product_name": "DIESEL ENGINE",
+        "list_of_product_ids": "5929,6758,9157,9179,9186,12065,12352,17023,18042,18173,18745,23643,31968,37415,36856,35964,37405",
+        "core_id": 587.0
+      }
+    }
+  ]
+}

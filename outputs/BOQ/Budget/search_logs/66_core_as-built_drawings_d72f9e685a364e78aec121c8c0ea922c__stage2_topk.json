@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: as-built drawings | size: sets: 4 blue prints, 1 original tracings, cds | feature_or_specifications: software: autocad",
+  "retrieval_results": [
+    {
+      "id": "variant-dc892e41-60f1-5a16-a1bd-f106f106c78b",
+      "score": 0.86821467,
+      "metadata": {
+        "text": "core_product_name: as fitted drawing",
+        "raw_product_name": "AS FITTED DRAWING",
+        "list_of_product_ids": "295,042,928,129,280",
+        "core_id": 131.0
+      }
+    },
+    {
+      "id": "variant-8c05e1d5-5c56-5bdd-b901-0e28b7ae1a95",
+      "score": 0.85953313,
+      "metadata": {
+        "text": "core_product_name: of various drawings digitization",
+        "raw_product_name": "DIGITIZATION OF VARIOUS DRAWINGS",
+        "list_of_product_ids": "1,961,319,614",
+        "core_id": 593.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.85380507,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.8510339,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-5efbfc9f-bc75-5353-9be4-8456266d9a3b",
+      "score": 0.84636146,
+      "metadata": {
+        "text": "core_product_name: column | material: CS (Carbon Steel) | construction_features: site fabricated",
+        "raw_product_name": "COLUMN-CS SITE FABRICATED",
+        "list_of_product_ids": "6687,5858,9697,12010,12167,12592,13093,23509,37860,37727,37743",
+        "core_id": 392.0
+      }
+    },
+    {
+      "id": "variant-7cc5ca9a-c9fd-5cb7-8b41-1167a6d57856",
+      "score": 0.8453334,
+      "metadata": {
+        "text": "core_product_name: turbine generator set",
+        "raw_product_name": "TURBINE GENERATOR SET",
+        "list_of_product_ids": "9481,9594,14798,24321,37420,36130,37401",
+        "core_id": 2290.0
+      }
+    },
+    {
+      "id": "variant-0f65ae9a-96f2-5688-a949-d7158ab2dd48",
+      "score": 0.84352684,
+      "metadata": {
+        "text": "core_product_name: quick connect fitting | construction_features: quick connect | construction_features: quick connect",
+        "raw_product_name": "FITTINGS-QUICK CONNECT BODY & STEM",
+        "list_of_product_ids": "229,102,291,128,622",
+        "core_id": 883.0
+      }
+    },
+    {
+      "id": "variant-15585739-cb35-5050-94db-9b124ee7c772",
+      "score": 0.842857,
+      "metadata": {
+        "text": "core_product_name: diesel generating set",
+        "raw_product_name": "DIESEL GENERATING SET",
+        "list_of_product_ids": "19330,19331,19332,19339,19615,24361,24360,26864,39715,39840,39911",
+        "core_id": 584.0
+      }
+    },
+    {
+      "id": "variant-8b1fcf86-0360-56b1-afdd-ddf65f5bc982",
+      "score": 0.8417519,
+      "metadata": {
+        "text": "core_product_name: primary structure | accessories_or_attachments: Fabrication | accessories_or_attachments: Supply",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE (FABRICATION & SUPPLY)",
+        "list_of_product_ids": "237,742,105,321,052",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-d3184bd5-867c-5333-aa27-0d8d3f250563",
+      "score": 0.84020454,
+      "metadata": {
+        "text": "core_product_name: computer software",
+        "raw_product_name": "COMPUTER SOFTWARE",
+        "list_of_product_ids": "193,121,931,327,257",
+        "core_id": 423.0
+      }
+    },
+    {
+      "id": "variant-27f5ab93-f595-5d15-a84a-3eae7caa9b6f",
+      "score": 0.83943695,
+      "metadata": {
+        "text": "core_product_name: fitting | material: CS (Carbon Steel) | construction_features: Welded",
+        "raw_product_name": "FITTINGS – CS WELDED",
+        "list_of_product_ids": "14261,15969,19407,19803,19789,20138,22664,37083,37096",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-6bca7696-192a-536e-b271-e5ab2c2c87d2",
+      "score": 0.83893895,
+      "metadata": {
+        "text": "core_product_name: shop fabricated structure",
+        "raw_product_name": "SHOP FABRICATED STRUCTURE",
+        "list_of_product_ids": "13919,14580,14581,14584,14585,14599,14600,18880,18926,18986,19917,19921,19982,20001,20882,20913,20903,20960,21004,22025,22903",
+        "core_id": 2015.0
+      }
+    },
+    {
+      "id": "variant-bc4bdf0d-5ea4-54b0-b9ae-c7ba8ea12df4",
+      "score": 0.8387316,
+      "metadata": {
+        "text": "core_product_name: pre-fabricated structural steel",
+        "raw_product_name": "PRE-FABRICATED STRUCTURAL STEEL",
+        "list_of_product_ids": "30025,30048,30051,30213,30507,37877",
+        "core_id": 1755.0
+      }
+    },
+    {
+      "id": "variant-40f5e806-4a91-59d6-8fea-bf521847066a",
+      "score": 0.8382528,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: Forged",
+        "raw_product_name": "VALVE CHECK FORGED",
+        "list_of_product_ids": "6231,5400,11625,11641,11223,11242,11255,9246,11448,9262,8280,8383,8555,8649,8626,9412,9451,9253,9166,9343,12098,12493,12572,12656,13266,13360,19382,19390,17623,17908,18030,19711,19860,31813,36763,32701",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-f738e894-86c9-56df-9ce8-d404ffa6bc11",
+      "score": 0.8382416,
+      "metadata": {
+        "text": "core_product_name: support structure",
+        "raw_product_name": "GANTRY AND EQUIPMENT SUPPORT STRUCTURE",
+        "list_of_product_ids": "17432,17331,17332,17347,17351,17358,17370,17376,17382,17400,17423,17424,17442,17449,17454,17521,17519,17648,17655,17706,17693,18666,17537,17710,32192,35981,35988",
+        "core_id": 127.0
+      }
+    },
+    {
+      "id": "variant-72ab6ca5-eb8c-5cc2-b4b6-bfaa08f6e972",
+      "score": 0.8379006,
+      "metadata": {
+        "text": "core_product_name: furniture",
+        "raw_product_name": "FURNITURE",
+        "list_of_product_ids": "5947,6776,12883,19413,19418,39318",
+        "core_id": 987.0
+      }
+    },
+    {
+      "id": "variant-fc11023f-6aa9-5a2a-9ffa-b1e3abd66cf0",
+      "score": 0.8375728,
+      "metadata": {
+        "text": "core_product_name: craft",
+        "raw_product_name": "SURVIVAL CRAFT",
+        "list_of_product_ids": "188,592,806,237,502",
+        "core_id": 2164.0
+      }
+    },
+    {
+      "id": "variant-816a30a2-8f2e-5f97-adc9-aa871f3d496e",
+      "score": 0.8375191,
+      "metadata": {
+        "text": "core_product_name: automatic sampler",
+        "raw_product_name": "AUTOMATIC SAMPLER",
+        "list_of_product_ids": "20254,20346,20482,20475,20663,20721",
+        "core_id": 142.0
+      }
+    },
+    {
+      "id": "variant-613d8036-5c31-5d46-8940-59c45858fe7a",
+      "score": 0.8374288,
+      "metadata": {
+        "text": "core_product_name: automatic sampler",
+        "raw_product_name": "AUTOMATIC GAS SAMPLER",
+        "list_of_product_ids": "6,525,569,635,690",
+        "core_id": 142.0
+      }
+    },
+    {
+      "id": "variant-bde35e43-a847-596a-bcdb-70b022fe3390",
+      "score": 0.83720136,
+      "metadata": {
+        "text": "core_product_name: primary structure",
+        "raw_product_name": "PRIMARY STRUCTURES",
+        "list_of_product_ids": "237,872,378,828,073",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-ef8ec643-5d1b-5f0e-bc3e-ca18124239c2",
+      "score": 0.8371833,
+      "metadata": {
+        "text": "core_product_name: disc",
+        "raw_product_name": "DISC",
+        "list_of_product_ids": "20135,20446,20421,20468,20509,20643",
+        "core_id": 594.0
+      }
+    },
+    {
+      "id": "variant-85f62663-258c-5c91-88e6-b92608f40aa0",
+      "score": 0.83707786,
+      "metadata": {
+        "text": "core_product_name: fabricated fitting | material: C.S. (Carbon Steel) | construction_features: fabricated from plate",
+        "raw_product_name": "FITTINGS FABRICATED FROM PLATE - C.S.",
+        "list_of_product_ids": "6322,5493,11570,9301,9322,9402,9422,9433,9444,9459,9461,9316,9327,9332,12771,12738,12753,12762,12780,12808,13132,13212,8092,13350,13355,13357,13359,13368,13379,17662,24590,36844,36572,33995,34683",
+        "core_id": 874.0
+      }
+    },
+    {
+      "id": "variant-1a66bd63-f707-5c2d-8c67-89b606eaa44c",
+      "score": 0.83687574,
+      "metadata": {
+        "text": "core_product_name: wood",
+        "raw_product_name": "HARDWOODS",
+        "list_of_product_ids": "199,581,995,528,417",
+        "core_id": 1096.0
+      }
+    },
+    {
+      "id": "variant-0cd6a304-ead2-5deb-91e8-b4c74619be10",
+      "score": 0.8362942,
+      "metadata": {
+        "text": "core_product_name: drive arrangement",
+        "raw_product_name": "DRIVE ARRANGEMENT FOR CLINKER GRINDER",
+        "list_of_product_ids": "1,344,114,445",
+        "core_id": 624.0
+      }
+    },
+    {
+      "id": "variant-609edfbd-89e0-52cb-b582-68a08c0c3395",
+      "score": 0.8358823,
+      "metadata": {
+        "text": "core_product_name: blending automation system",
+        "raw_product_name": "BLENDING AUTOMATION SYSTEMS",
+        "list_of_product_ids": "6624,5794,10072,29686,30479,32961,36099",
+        "core_id": 210.0
+      }
+    },
+    {
+      "id": "variant-61f8572e-efe3-5cec-9e1a-f25b5d3308a6",
+      "score": 0.8357338,
+      "metadata": {
+        "text": "core_product_name: fitting",
+        "raw_product_name": "FITTINGS",
+        "list_of_product_ids": "6290,5461,11537,7894,11072,11094,11098,11099,11127,11129,10446,10452,11402,8101,8103,8105,7876,7878,7880,7882,7883,7875,7877,7879,8095,8018,8097,8099,8094,8096,8098,8100,8102,8104,8106,8130,9273,9274,8824,8107,8108,12258,12679,12666,12683,12688,13310,13317,13403,14515,14568,15748,16005,16058,16446,16530,16614,19374,19368,19267,19252,19261,17541,19356,19736,20066,21742,21303,19811,19277,16579,24581,30951,30637,30687,33435,37262,37014,37026,35746,36881,36884",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-e073d2ae-f2d1-5e74-9d31-5194d6319446",
+      "score": 0.83563185,
+      "metadata": {
+        "text": "core_product_name: structural painting work",
+        "raw_product_name": "PAINTING WORK-STRUCTURAL",
+        "list_of_product_ids": "1,658,927,816",
+        "core_id": 1624.0
+      }
+    },
+    {
+      "id": "variant-3a78a9d5-f452-5d16-b328-9de3058b685e",
+      "score": 0.83521473,
+      "metadata": {
+        "text": "core_product_name: fabricated duct",
+        "raw_product_name": "FABRICATED DUCT",
+        "list_of_product_ids": "1,397,437,260",
+        "core_id": 787.0
+      }
+    },
+    {
+      "id": "variant-72de64a6-d371-5bb1-a8f0-04968b9352b6",
+      "score": 0.8350017,
+      "metadata": {
+        "text": "core_product_name: modularisation package",
+        "raw_product_name": "MODULARISATION PACKAGE",
+        "list_of_product_ids": "5978,5150,22801,17387",
+        "core_id": 1496.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.8347713,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    }
+  ]
+}

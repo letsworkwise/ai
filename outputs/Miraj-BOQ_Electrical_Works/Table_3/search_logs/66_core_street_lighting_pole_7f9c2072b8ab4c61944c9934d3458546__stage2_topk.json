@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: street lighting pole | size: height above ground: 9 mtr, ms rod length: 3 mtr, ms rod diameter: 40 mm, gi pipe length: 2 mtr, gi pipe diameter: 50 mm | feature_or_specifications: type: single arm swaged tubular, material: galvanized steel, includes: foundation, pipe-reducer, fixing-bracket, weather proof junction box, fixing brackets, 25x3mm gi (galvanized iron) flat, dp (double pole) 6a mcb (miniature circuit breaker), 1.5sq.mm frls (flame retardant low smoke) copper wire, base plate, foundation bolts, nuts, 150w led street lighting fixture, ip-65 (ingress protection 65), frp (fiber reinforced plastic) junction box, suitable for termination of 2nos. of 4cx35sq.mm al. (aluminum) armoured cable",
+  "retrieval_results": [
+    {
+      "id": "variant-4fb06b11-26b4-5061-9d90-55082e9f8959",
+      "score": 0.87127215,
+      "metadata": {
+        "text": "core_product_name: street light pole",
+        "raw_product_name": "STREET LIGHT POLES",
+        "list_of_product_ids": "241,872,418,827,640",
+        "core_id": 2127.0
+      }
+    },
+    {
+      "id": "variant-94f0b75a-b8d8-5fb4-9863-864b99a3a23a",
+      "score": 0.85724217,
+      "metadata": {
+        "text": "core_product_name: solar street lighting",
+        "raw_product_name": "SOLAR STREET LIGHTING",
+        "list_of_product_ids": "13982,17713,17709,17767,18696,37006,34978,35048",
+        "core_id": 2059.0
+      }
+    },
+    {
+      "id": "variant-cf977c7c-e368-56f7-9ce9-23eb8659bb38",
+      "score": 0.8524652,
+      "metadata": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": "13606,16555,16546,16591,16576,17657,17650,17702,17682,18058,20306,20834,21315,22108,23384,35044",
+        "core_id": 1006.0
+      }
+    },
+    {
+      "id": "variant-5ce39e66-51d3-5c8d-8399-07e58423611b",
+      "score": 0.8513311,
+      "metadata": {
+        "text": "core_product_name: tube light fixture",
+        "raw_product_name": "TUBE LIGHT FIXTURES",
+        "list_of_product_ids": "139,811,494,021,021",
+        "core_id": 2282.0
+      }
+    },
+    {
+      "id": "variant-e86062e6-2903-51eb-9c92-a29d8a2c92b5",
+      "score": 0.8478275,
+      "metadata": {
+        "text": "core_product_name: fluorescent lighting fixture",
+        "raw_product_name": "FLUORESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19025,19023,19021,19019,19164",
+        "core_id": 951.0
+      }
+    },
+    {
+      "id": "variant-eb58eb3c-f1fc-59ff-ba71-ccf7d770f771",
+      "score": 0.8475364,
+      "metadata": {
+        "text": "core_product_name: incandescent lighting fixture",
+        "raw_product_name": "INCANDESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19026,19024,19022,19020,19163",
+        "core_id": 1228.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.8454455,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-1a654752-870e-5c3a-958f-e8464036d7ab",
+      "score": 0.8451563,
+      "metadata": {
+        "text": "core_product_name: lighting transformer",
+        "raw_product_name": "LIGHTING TRANSFORMERS",
+        "list_of_product_ids": "17731,17727,18659,19486,35388",
+        "core_id": 635.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.84485066,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-5494b5cf-dd85-5ba3-8e04-f9af993e12bc",
+      "score": 0.84454376,
+      "metadata": {
+        "text": "core_product_name: wire rod",
+        "raw_product_name": "WIRE ROD",
+        "list_of_product_ids": "29421,29438,29455,29491,29518,29554,29901,30335,31103,31350,29585,31554,29867,30368,31121,31587,30804,31366,31701,36865,29617,30924,25357,25360,25356,25424,30392,30524,31159,25466,25452,25438,25480,29643,30040,25503,25517,25530,36874,30936,25545,25560,25574,25588,25630,25616,25602,25658,25644,25672,25689,25704,25718,25760,25746,25774,25732,25803,25790,25839,25853,25817,31178,31402,31821,25891,25876,31875,25920,25906,30412,30562,25951,31856,25990,26095,29664,30583,26133,26108,30074,31419,26192,26169,26258,26288,26320,31432,31724,26343,26368,30095,30607,30980,26392,26407,26420,26455,26503,26480,26612,26554,26520,26586,31610,26635,26658,30449,26739,26716,26764,26807,26844,29707,30118,26927,26962,30634,30998,26990,27021,30470,27143,30143,27200,27223,27247,29733,30166,31211,27275,27304,31023,27327,27379,31632,27406,27459,27571,30183,31237,27599,29756,27628,27654,27700,27832,27866,27879,27949,27980,30208,30684,31038,28014,29786,31466,28050,28088,28124,31246,31659,28170,28315,30500,30229,28338,28372,28403,30256,28431,28484,28534,30645,28566,28633,28671,28714,29813,31278,30711,31492,28740,28877,28843,28901,28925,29841,30279,31501,28958,28989,31306,31668,29002,29037,30735,29053,29086,30290,29121,31086,31329,31537,29153,29177,29202,29215,29309,29341,29365,29389,30327,31920,31930,31966,31989,32010,32037,32067,32076,32104,32129,32159,32188,32218,32269,32246,32230,32290,32324,32349,32362,32399,32388,32426,32448,32470,32527,32552,32564,32578,32600,32632,37241,32675,32692,32651,32714,32748,32795,32838,32868,32929,32906,32979,33066,33085,33118,33167,33144,33235,33301,33321,33372,33413,33489,33533,33594,33666,33706,33736,33755,33778,33807,33867,33841,33891,33938,33976,34060,34110,34080,34137,34161,34237,34215,34275,34304,34193,34369,34398,34437,34459,34481,34516,34537,34561,34618,34667,34720,34751,34771,34818,34798,34845,34873,34897,34949,35037,35072,35094,35116,35138,35181",
+        "core_id": 2477.0
+      }
+    },
+    {
+      "id": "variant-f66091af-76fc-50e7-a5df-3e52eddbd562",
+      "score": 0.8441592,
+      "metadata": {
+        "text": "core_product_name: lighting wire | type_or_class: Fire Retardant",
+        "raw_product_name": "LIGHTING WIRES FIRE RETARDANT TYPE",
+        "list_of_product_ids": "1,360,714,791",
+        "core_id": 1355.0
+      }
+    },
+    {
+      "id": "variant-74d303aa-2799-5e8d-8b8a-412a8da4a4f2",
+      "score": 0.84392166,
+      "metadata": {
+        "text": "core_product_name: electrical spare",
+        "raw_product_name": "ELECTRICAL SPARES",
+        "list_of_product_ids": "207,782,077,728,462",
+        "core_id": 710.0
+      }
+    },
+    {
+      "id": "variant-5722049a-a798-5b88-81b3-11aec368d8cc",
+      "score": 0.8438327,
+      "metadata": {
+        "text": "core_product_name: lighting mast",
+        "raw_product_name": "Lighting Masts",
+        "list_of_product_ids": "15628,24242,15727,15629",
+        "core_id": 1363.0
+      }
+    },
+    {
+      "id": "variant-0bf51e3d-fa9b-53e0-8154-35e104f448de",
+      "score": 0.84370965,
+      "metadata": {
+        "text": "core_product_name: lighting mast",
+        "raw_product_name": "LIGHTING MAST",
+        "list_of_product_ids": "17348,17346,17338,17520,17538,18673,17707,32167,32166,32193,35983,35989",
+        "core_id": 1363.0
+      }
+    },
+    {
+      "id": "variant-f54c914d-9cf4-5252-893a-012bf8e07ce1",
+      "score": 0.8433979,
+      "metadata": {
+        "text": "core_product_name: electric tube",
+        "raw_product_name": "ELECTRIC TUBES",
+        "list_of_product_ids": "20835,20804,20802,28500",
+        "core_id": 699.0
+      }
+    },
+    {
+      "id": "variant-d3918fb3-1dcf-5330-9bbe-6452020c252d",
+      "score": 0.8432919,
+      "metadata": {
+        "text": "core_product_name: plumbing fitting and fixture",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+        "list_of_product_ids": "6364,5535,7874,12489,12648,12649,34680,34681",
+        "core_id": 1961.0
+      }
+    },
+    {
+      "id": "variant-87a566b6-5a86-509b-86ac-e597dd349665",
+      "score": 0.8428656,
+      "metadata": {
+        "text": "core_product_name: welded structural item",
+        "raw_product_name": "STRUCTURAL ITEM (WELDED)",
+        "list_of_product_ids": "173,361,733,427,923",
+        "core_id": 2136.0
+      }
+    },
+    {
+      "id": "variant-067779a2-122f-53f1-9469-d03371626e54",
+      "score": 0.84275943,
+      "metadata": {
+        "text": "core_product_name: pipe insulation",
+        "raw_product_name": "PIPE INSULATION",
+        "list_of_product_ids": "13921,16092,16635,16633,18103,23466,23458,34600",
+        "core_id": 1662.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.842553,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-e7c3a8c8-2d49-5297-bb93-4f2e288fa355",
+      "score": 0.8423835,
+      "metadata": {
+        "text": "core_product_name: panel tube light",
+        "raw_product_name": "PANEL TUBE LIGHT",
+        "list_of_product_ids": "19668,19677,19680,19684,24243",
+        "core_id": 1636.0
+      }
+    },
+    {
+      "id": "variant-61dd7c63-23bb-5778-9571-2bd66ccc4a00",
+      "score": 0.84237826,
+      "metadata": {
+        "text": "core_product_name: strobe",
+        "raw_product_name": "STROBE",
+        "list_of_product_ids": "8899,8903,9848,9857,9866,8935,9078,9139",
+        "core_id": 2130.0
+      }
+    },
+    {
+      "id": "variant-28ec42bf-d339-5320-a74e-954d0df9085c",
+      "score": 0.8413167,
+      "metadata": {
+        "text": "core_product_name: emergency lighting system",
+        "raw_product_name": "EMERGENCY LIGHTING SYSTEM",
+        "list_of_product_ids": "3,216,232,163",
+        "core_id": 740.0
+      }
+    },
+    {
+      "id": "variant-3bb64163-5110-5389-8fd5-ba5999183039",
+      "score": 0.84122056,
+      "metadata": {
+        "text": "core_product_name: electric lamp",
+        "raw_product_name": "ELECTRIC LAMPS",
+        "list_of_product_ids": "20801,20836,20803,28495",
+        "core_id": 695.0
+      }
+    },
+    {
+      "id": "variant-04557174-00a9-5154-8b28-71d131bdaca2",
+      "score": 0.84106374,
+      "metadata": {
+        "text": "core_product_name: lighting and power distribution panel",
+        "raw_product_name": "Lighting & Power Distribution Panel",
+        "list_of_product_ids": "18723,18718,18735,18734,18733,19012,18997,18728,19000,38293,35861,38156",
+        "core_id": 1413.0
+      }
+    },
+    {
+      "id": "variant-1e8d51c0-00b6-5a2d-b9bf-ce4688cb5af2",
+      "score": 0.8409852,
+      "metadata": {
+        "text": "core_product_name: electrical contact",
+        "raw_product_name": "ELECTRICAL CONTACTS",
+        "list_of_product_ids": "211,562,115,228,503",
+        "core_id": 705.0
+      }
+    },
+    {
+      "id": "variant-15ca187e-cd07-5d26-97a3-bc3253a37314",
+      "score": 0.8405672,
+      "metadata": {
+        "text": "core_product_name: commercial wire",
+        "raw_product_name": "COMMERCIAL WIRE",
+        "list_of_product_ids": "20790,20807,21174,21177,28616,20809",
+        "core_id": 403.0
+      }
+    },
+    {
+      "id": "variant-5f6025f4-d869-56e7-bced-6488b91fa952",
+      "score": 0.8403461,
+      "metadata": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": "6444,5614,11000,12263,12344,15781,23866,24503",
+        "core_id": 282.0
+      }
+    },
+    {
+      "id": "variant-5c538932-61bc-544a-8e03-a60714eafe3a",
+      "score": 0.8401812,
+      "metadata": {
+        "text": "core_product_name: electrical strip",
+        "raw_product_name": "ELECTRICAL STRIPS",
+        "list_of_product_ids": "211,512,115,528,461",
+        "core_id": 714.0
+      }
+    },
+    {
+      "id": "variant-b8c1b5fb-ac08-557d-b8f3-976ba810e6ab",
+      "score": 0.8401715,
+      "metadata": {
+        "text": "core_product_name: electrical repair",
+        "raw_product_name": "SHIP REPAIR (ELECTRICAL WORK)",
+        "list_of_product_ids": "23965,24298,23966,24724,24966,36009",
+        "core_id": 2009.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.83990806,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    }
+  ]
+}

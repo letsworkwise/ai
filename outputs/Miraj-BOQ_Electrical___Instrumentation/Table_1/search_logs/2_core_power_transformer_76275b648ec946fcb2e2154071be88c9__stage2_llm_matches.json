@@ -1,0 +1,71 @@
+{
+  "query": "core_product_name: power transformer | size: capacity: 500 KVA, primary voltage: 11 KV, secondary voltage: 433 V | feature_or_specifications: vector group: dyn11, cooling type: an (air natural), feature: off load tap changer, feature: complete with all accessories, standard: as per attached specifications & ds (data sheet)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: power transformer",
+        "raw_product_name": "POWER TRANSFORMER",
+        "list_of_product_ids": [
+          "16988",
+          "16987",
+          "16984",
+          "16983",
+          "17024",
+          "17038",
+          "17019",
+          "17013",
+          "17198",
+          "17177",
+          "17171",
+          "17163",
+          "17258",
+          "17247",
+          "17246",
+          "17240",
+          "17229",
+          "17220",
+          "35402",
+          "35820",
+          "35963"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: power transformer | type_or_class: Oil Type | size_or_capacity: 33 or 6.6 kV",
+        "raw_product_name": "POWER TRANSFORMER (OIL TYPE) (33/6.6 kV)",
+        "list_of_product_ids": [
+          "1",
+          "385",
+          "923",
+          "137"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: power transformer | acronymed_core_product_name: ICT (Interconnecting Transformer) | size_or_capacity: 400KV | type_or_class: ICT (Interconnecting Transformer)",
+        "raw_product_name": "POWER TRANSFORMER 400KV ICT",
+        "list_of_product_ids": [
+          "35814",
+          "35813",
+          "35818",
+          "35877"
+        ]
+      }
+    }
+  ]
+}

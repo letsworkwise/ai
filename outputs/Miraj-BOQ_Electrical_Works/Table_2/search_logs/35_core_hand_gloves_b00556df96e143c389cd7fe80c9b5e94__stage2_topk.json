@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: hand gloves | feature_or_specifications: voltage: 11000 v and 6600 v, test: box test in accordance with iec(international electrotechnical commission) 61482-1-2, atpv(arc thermal performance value) test in accordance with iec(international electrotechnical commission) 61482-1-1, din(deutsches institut für normung) en 388, din(deutsches institut für normung) en 407, direct incident energy (class 2): 423 kj / m2, extended direct incident energy (eio) (class 2): 1050 ... 1390 kj / m2, atpv(arc thermal performance value): 32.8 cal / cm2",
+  "retrieval_results": [
+    {
+      "id": "variant-05c9db43-5c4d-52ba-ab45-526ce58a2d3e",
+      "score": 0.85538894,
+      "metadata": {
+        "text": "core_product_name: thermal insulation",
+        "raw_product_name": "Thermal Insulation",
+        "list_of_product_ids": "7572,7247,11774,11775,7759,7755,7757,9770,12863,13002,13009,16997,17020,17014,34601",
+        "core_id": 2305.0
+      }
+    },
+    {
+      "id": "variant-598dda8e-d847-500f-9600-28eb3ee8c35c",
+      "score": 0.85523385,
+      "metadata": {
+        "text": "core_product_name: hand glove | material: Rubber",
+        "raw_product_name": "Rubber Hand Gloves",
+        "list_of_product_ids": "14348,14349,14344,37470",
+        "core_id": 1946.0
+      }
+    },
+    {
+      "id": "variant-59caacf0-2771-53a3-844e-b2c03e89997d",
+      "score": 0.8551986,
+      "metadata": {
+        "text": "core_product_name: special temperature element",
+        "raw_product_name": "SPECIAL TEMPERATURE ELEMENTS",
+        "list_of_product_ids": "6548,5719,10143,11458,11891,12796,31357,31333,35160,35199,35204,35212",
+        "core_id": 2078.0
+      }
+    },
+    {
+      "id": "variant-f33d0a7e-0b00-525a-89f2-33ee968fb551",
+      "score": 0.8544772,
+      "metadata": {
+        "text": "core_product_name: winding temperature indicator",
+        "raw_product_name": "WINDING TEMPERATURE INDICATOR",
+        "list_of_product_ids": "6473,5644,15948,16112",
+        "core_id": 2474.0
+      }
+    },
+    {
+      "id": "variant-dccb1b8c-ce03-5353-8d7f-1894add2f041",
+      "score": 0.8533449,
+      "metadata": {
+        "text": "core_product_name: equipment insulation",
+        "raw_product_name": "EQUIPMENT INSULATION WORKS",
+        "list_of_product_ids": "358,293,583,235,880",
+        "core_id": 761.0
+      }
+    },
+    {
+      "id": "variant-1fe6caaa-8193-5668-9fe1-01bba48a41b8",
+      "score": 0.8524091,
+      "metadata": {
+        "text": "core_product_name: heating element",
+        "raw_product_name": "HEATING ELEMENT",
+        "list_of_product_ids": "214,212,142,627,045",
+        "core_id": 1117.0
+      }
+    },
+    {
+      "id": "variant-1e8d51c0-00b6-5a2d-b9bf-ce4688cb5af2",
+      "score": 0.8516813,
+      "metadata": {
+        "text": "core_product_name: electrical contact",
+        "raw_product_name": "ELECTRICAL CONTACTS",
+        "list_of_product_ids": "211,562,115,228,503",
+        "core_id": 705.0
+      }
+    },
+    {
+      "id": "variant-e33d959e-aef0-5a19-90ca-d9350c950195",
+      "score": 0.8512118,
+      "metadata": {
+        "text": "core_product_name: low temperature glove | material: Rubber",
+        "raw_product_name": "Low Temperature Rubber Gloves",
+        "list_of_product_ids": "1,546,414,338",
+        "core_id": 1417.0
+      }
+    },
+    {
+      "id": "variant-d57d54de-f40c-539e-8057-478b97a834b0",
+      "score": 0.85100645,
+      "metadata": {
+        "text": "core_product_name: thermal relief valve",
+        "raw_product_name": "THERMAL RELIEF VALVE",
+        "list_of_product_ids": "14016,15348,15353,15358,22349,36633,37438,37439,34694,34696,34698,34700",
+        "core_id": 2242.0
+      }
+    },
+    {
+      "id": "variant-b8253929-c920-5130-9b6e-7e7371c7d50b",
+      "score": 0.8505371,
+      "metadata": {
+        "text": "core_product_name: skin type resistance temperature detector",
+        "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR(SKIN TYPE)",
+        "list_of_product_ids": "182,021,821,418,562",
+        "core_id": 1903.0
+      }
+    },
+    {
+      "id": "variant-58f7f950-a885-5f94-a678-9ffcb756d242",
+      "score": 0.85049456,
+      "metadata": {
+        "text": "core_product_name: temperature element",
+        "raw_product_name": "TEMPERATURE ELEMENT",
+        "list_of_product_ids": "15482,15465,14003,15304,15311,17794,17180,16563,37414,37413,34379",
+        "core_id": 2221.0
+      }
+    },
+    {
+      "id": "variant-ba3d7620-8f6f-5c5a-bdc1-21d5c6b75b6f",
+      "score": 0.84999305,
+      "metadata": {
+        "text": "core_product_name: insulation material",
+        "raw_product_name": "INSULATION MATERIAL",
+        "list_of_product_ids": "10251,10256,10261,10266,10273,10278,10281,7088,7415,10172,10221,10226,10230,10234,10240,10245,11862,13008,38431,33383",
+        "core_id": 1274.0
+      }
+    },
+    {
+      "id": "variant-0efb7545-ace8-5231-a7a1-6342569f67d0",
+      "score": 0.849336,
+      "metadata": {
+        "text": "core_product_name: thermal detector",
+        "raw_product_name": "THERMAL DETECTORS",
+        "list_of_product_ids": "14012,14939,18003,18002,37766,37771,37776,37792,37802,37807",
+        "core_id": 2239.0
+      }
+    },
+    {
+      "id": "variant-7b84b9d7-6c76-5b4d-9aaf-d57ecafe4b91",
+      "score": 0.8488905,
+      "metadata": {
+        "text": "core_product_name: electrical-instrumentation work",
+        "raw_product_name": "ELECTRICAL-INSTRUMENTATION WORKS",
+        "list_of_product_ids": "36860,36857,36888,36892",
+        "core_id": 711.0
+      }
+    },
+    {
+      "id": "variant-35c0b277-6a3b-5856-9c86-096972d7c0d3",
+      "score": 0.84866244,
+      "metadata": {
+        "text": "core_product_name: temperature transmitter",
+        "raw_product_name": "TEMPERATURE TRANSMITTER",
+        "list_of_product_ids": "13422,36532,15082,15245,15259,15305,15312,17117,17116,17115,17114,18212,36177,36325,36511",
+        "core_id": 2226.0
+      }
+    },
+    {
+      "id": "variant-65e4b5c0-874a-5fb2-b108-70a12f290192",
+      "score": 0.84840995,
+      "metadata": {
+        "text": "core_product_name: hand control valve",
+        "raw_product_name": "Hand Control Valves",
+        "list_of_product_ids": "18259,18261,18258,18595,18636,18260,36509",
+        "core_id": 1212.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.8481598,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-20f15485-288d-5d93-8a32-9148a5355652",
+      "score": 0.8475457,
+      "metadata": {
+        "text": "core_product_name: calorific value analyzer",
+        "raw_product_name": "CALORIFIC VALUE ANALYZER",
+        "list_of_product_ids": "18975,18991,18970,37760",
+        "core_id": 292.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.8475415,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-1ba33b0e-5eaa-56d1-ae14-925bc633fcfa",
+      "score": 0.84750813,
+      "metadata": {
+        "text": "core_product_name: duct insulation",
+        "raw_product_name": "DUCT INSULATION",
+        "list_of_product_ids": "13749,16142,22567,22558,37316",
+        "core_id": 639.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.8474484,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-7814a15e-f459-5171-ad0d-85c2c2e22957",
+      "score": 0.84711665,
+      "metadata": {
+        "text": "core_product_name: handglove | material: Cotton",
+        "raw_product_name": "COTTON HANGLOVES",
+        "list_of_product_ids": "32885,32894,33008,33040,33194,33259,33561,33632,35921",
+        "core_id": 498.0
+      }
+    },
+    {
+      "id": "variant-818e7d99-2e76-50e3-ae9d-2d7e5a8b0eb1",
+      "score": 0.8469811,
+      "metadata": {
+        "text": "core_product_name: insulating refractory castable",
+        "raw_product_name": "INSULATING REFRACTORY CASTABLE",
+        "list_of_product_ids": "6140,5310,10463,8833,8836,8850,8866,9621,9629,9662,9667,9658,9802,13156,24310",
+        "core_id": 1271.0
+      }
+    },
+    {
+      "id": "variant-30ba7b7c-4349-5ae1-b9ed-81ec0b2af986",
+      "score": 0.8468142,
+      "metadata": {
+        "text": "core_product_name: high voltage capacitor | size_or_capacity: High Voltage",
+        "raw_product_name": "CAPACITORS-HIGH VOLTAGE",
+        "list_of_product_ids": "6427,5597,10503,10567,11340,12080",
+        "core_id": 295.0
+      }
+    },
+    {
+      "id": "variant-fa9f8ed7-2f4d-56d8-8db2-ddfc1250d2ed",
+      "score": 0.84667444,
+      "metadata": {
+        "text": "core_product_name: insulation",
+        "raw_product_name": "INSULATION WORK",
+        "list_of_product_ids": "7089,7416,11863,19372,39269,39319,39323,39417",
+        "core_id": 404.0
+      }
+    },
+    {
+      "id": "variant-aad7fdec-a20c-58ad-9b20-91b9859c779a",
+      "score": 0.8466238,
+      "metadata": {
+        "text": "core_product_name: resistance temperature detector",
+        "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR",
+        "list_of_product_ids": "17218,17213,21738,27914,36623",
+        "core_id": 1901.0
+      }
+    },
+    {
+      "id": "variant-9d7cef58-0c34-5334-a173-1eaa8b262868",
+      "score": 0.8465387,
+      "metadata": {
+        "text": "core_product_name: extra high voltage cable | size_or_capacity: Extra High Voltage",
+        "raw_product_name": "CABLES - EXTRA HIGH VOLTAGE",
+        "list_of_product_ids": "6425,5595,10504,10183,14821,23994,23863",
+        "core_id": 288.0
+      }
+    },
+    {
+      "id": "variant-621e820c-97eb-5eee-b6a5-cc212c11ea20",
+      "score": 0.84648836,
+      "metadata": {
+        "text": "core_product_name: protective clothing | operating_conditions: Low Temperature",
+        "raw_product_name": "Low Temperature Protective Clothing",
+        "list_of_product_ids": "14339",
+        "core_id": 1416.0
+      }
+    },
+    {
+      "id": "variant-3ce73ff4-e68b-5cbf-b95e-8d29109fe9a2",
+      "score": 0.846394,
+      "metadata": {
+        "text": "core_product_name: infrared radiation pyrometer",
+        "raw_product_name": "INFRARED RADIATION PYROMETER",
+        "list_of_product_ids": "18861,18860,18909,18959,18964,18957,37674,37481",
+        "core_id": 1239.0
+      }
+    },
+    {
+      "id": "variant-a8b438ed-3029-5f57-89ba-e704827efb4f",
+      "score": 0.8462772,
+      "metadata": {
+        "text": "core_product_name: disc insulator",
+        "raw_product_name": "DISC INSULATOR",
+        "list_of_product_ids": "13672,18325,34245,34880,34904",
+        "core_id": 596.0
+      }
+    }
+  ]
+}

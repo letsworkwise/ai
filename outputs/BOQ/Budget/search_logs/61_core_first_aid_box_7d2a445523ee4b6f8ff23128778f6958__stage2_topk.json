@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: first aid box | feature_or_specifications: feature: complete with all standard first aid materials",
+  "retrieval_results": [
+    {
+      "id": "variant-ab0f7f66-884a-59ff-8f43-6ec9ce643eeb",
+      "score": 0.8924553,
+      "metadata": {
+        "text": "core_product_name: first aid box",
+        "raw_product_name": "First Aid Box",
+        "list_of_product_ids": "14350,14343,14347,14357,16793",
+        "core_id": 1000.0
+      }
+    },
+    {
+      "id": "variant-a4d00068-9941-575f-92b1-886f508c324b",
+      "score": 0.8814612,
+      "metadata": {
+        "text": "core_product_name: first aid kit",
+        "raw_product_name": "FIRST AID KITS",
+        "list_of_product_ids": "2,108,828,543",
+        "core_id": 867.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.86199045,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-8b1fcf86-0360-56b1-afdd-ddf65f5bc982",
+      "score": 0.8590941,
+      "metadata": {
+        "text": "core_product_name: primary structure | accessories_or_attachments: Fabrication | accessories_or_attachments: Supply",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE (FABRICATION & SUPPLY)",
+        "list_of_product_ids": "237,742,105,321,052",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-501f4268-336a-5e01-af3e-8edf7d0a9e1c",
+      "score": 0.85693955,
+      "metadata": {
+        "text": "core_product_name: fire proofing material | protection_features: Fireproof",
+        "raw_product_name": "FIRE PROOFING MATERIAL",
+        "list_of_product_ids": "38658,38561,38562,38566",
+        "core_id": 856.0
+      }
+    },
+    {
+      "id": "variant-c078d442-499e-5fef-af59-18af5b47f64b",
+      "score": 0.8541526,
+      "metadata": {
+        "text": "core_product_name: flame proof junction box | protection_features: Flame proof",
+        "raw_product_name": "JUNCTION BOXES (FLAME PROOF)",
+        "list_of_product_ids": "6417,5587,11078,11075,10304,11324,10578,10585,10555,10601,10686,8207,8208,8402,15922,16008,16029,16025,26747,26746,33512,35769",
+        "core_id": 1315.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.85410404,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-30453020-7b88-55b3-8cef-647ee7ab265c",
+      "score": 0.85241044,
+      "metadata": {
+        "text": "core_product_name: breathing equipment",
+        "raw_product_name": "BREATHING EQUIPMENT",
+        "list_of_product_ids": "188,191,880,228,060",
+        "core_id": 247.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.851718,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-d7b9fb1b-d270-58cf-af80-3bb761ca442c",
+      "score": 0.8510953,
+      "metadata": {
+        "text": "core_product_name: general cleaning",
+        "raw_product_name": "GENERAL CLEANING & GRASS CUTTING",
+        "list_of_product_ids": "2,421,526,884",
+        "core_id": 1046.0
+      }
+    },
+    {
+      "id": "variant-1846165d-94ac-545a-9db9-7ba2bf3324b9",
+      "score": 0.850307,
+      "metadata": {
+        "text": "core_product_name: safety coverall | material: Dangri | special_attributes: Orange",
+        "raw_product_name": "ORANGE SAFETY DANGRI COVERALL",
+        "list_of_product_ids": "32880,32884,33004,33037,33191,33256,33558,33629,35918",
+        "core_id": 1600.0
+      }
+    },
+    {
+      "id": "variant-6f51bba4-79b9-5d92-928d-652b82cce02e",
+      "score": 0.849673,
+      "metadata": {
+        "text": "core_product_name: flameproof equipment | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF EQUIPMENT",
+        "list_of_product_ids": "13446,13447,13448,13449,13450,13473,13477",
+        "core_id": 894.0
+      }
+    },
+    {
+      "id": "variant-24a00485-d61a-5fd6-a97d-83ffb4fd86d5",
+      "score": 0.84881264,
+      "metadata": {
+        "text": "core_product_name: quick opening closure | accessories_or_attachments: filter or separator",
+        "raw_product_name": "QUICK OPENING CLOSURE(FILTER/SEPARATOR)",
+        "list_of_product_ids": "5252,6086,11483,8747,16146,23562,24407,24405,36604",
+        "core_id": 1849.0
+      }
+    },
+    {
+      "id": "variant-456432a9-ab05-55ad-9b92-0bf762831942",
+      "score": 0.84822327,
+      "metadata": {
+        "text": "core_product_name: fire fighting accessory",
+        "raw_product_name": "FIRE FIGHTING ACCESSORIES",
+        "list_of_product_ids": "16168,16173,16277,16274,16273,16272,16271,16266,21064,21057,34088",
+        "core_id": 845.0
+      }
+    },
+    {
+      "id": "variant-2e3d59d0-0fcf-57ff-9987-eff1845efa33",
+      "score": 0.8479779,
+      "metadata": {
+        "text": "core_product_name: primer",
+        "raw_product_name": "Primer",
+        "list_of_product_ids": "7042,7369,11501,12196,14306,22314,30745,30770,30809,31892,29240,29239,29238,29237,34034,34243",
+        "core_id": 1841.0
+      }
+    },
+    {
+      "id": "variant-81340cbc-b282-5f41-b0bc-23b4e381edee",
+      "score": 0.84795,
+      "metadata": {
+        "text": "core_product_name: emergency vent",
+        "raw_product_name": "EMERGENCY VENT",
+        "list_of_product_ids": "1,392,415,189",
+        "core_id": 742.0
+      }
+    },
+    {
+      "id": "variant-4b4df1ea-85d6-5265-bf06-d0f980c5cd30",
+      "score": 0.8478893,
+      "metadata": {
+        "text": "core_product_name: fire rated ventilator | protection_features: Fire rated",
+        "raw_product_name": "DOORS/ WINDOWS/ VENTILATORS - FIRE RATED",
+        "list_of_product_ids": "6345,5516,9772,12505,12510,12512,12511,20154,38882,38987,39041,39110,39140,39641,39675,39746,39786,40001",
+        "core_id": 617.0
+      }
+    },
+    {
+      "id": "variant-7a81ebd3-21d8-54a3-a240-c819d8c11843",
+      "score": 0.84766316,
+      "metadata": {
+        "text": "core_product_name: quick opening end closure",
+        "raw_product_name": "QUICK OPENING END CLOSURE",
+        "list_of_product_ids": "15436,18787,22338,36605,34856",
+        "core_id": 1851.0
+      }
+    },
+    {
+      "id": "variant-40f5e806-4a91-59d6-8fea-bf521847066a",
+      "score": 0.8470296,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: Forged",
+        "raw_product_name": "VALVE CHECK FORGED",
+        "list_of_product_ids": "6231,5400,11625,11641,11223,11242,11255,9246,11448,9262,8280,8383,8555,8649,8626,9412,9451,9253,9166,9343,12098,12493,12572,12656,13266,13360,19382,19390,17623,17908,18030,19711,19860,31813,36763,32701",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-bde35e43-a847-596a-bcdb-70b022fe3390",
+      "score": 0.8468055,
+      "metadata": {
+        "text": "core_product_name: primary structure",
+        "raw_product_name": "PRIMARY STRUCTURES",
+        "list_of_product_ids": "237,872,378,828,073",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-ba3d7620-8f6f-5c5a-bdc1-21d5c6b75b6f",
+      "score": 0.84652764,
+      "metadata": {
+        "text": "core_product_name: insulation material",
+        "raw_product_name": "INSULATION MATERIAL",
+        "list_of_product_ids": "10251,10256,10261,10266,10273,10278,10281,7088,7415,10172,10221,10226,10230,10234,10240,10245,11862,13008,38431,33383",
+        "core_id": 1274.0
+      }
+    },
+    {
+      "id": "variant-36daeb46-d02d-5b1b-99c2-049c965175c7",
+      "score": 0.84618527,
+      "metadata": {
+        "text": "core_product_name: hose box",
+        "raw_product_name": "HOSE BOX",
+        "list_of_product_ids": "8889,8912,9824,9829,9834,9839",
+        "core_id": 1144.0
+      }
+    },
+    {
+      "id": "variant-1ab3bbc1-7237-500d-90d8-27f6498da945",
+      "score": 0.8461331,
+      "metadata": {
+        "text": "core_product_name: equipment",
+        "raw_product_name": "CONTROL ROOM EQUIPMENT",
+        "list_of_product_ids": "14034,14815,17256,21098",
+        "core_id": 460.0
+      }
+    },
+    {
+      "id": "variant-bbad95d9-b94a-500e-b33a-e10ab8250567",
+      "score": 0.84610504,
+      "metadata": {
+        "text": "core_product_name: safety relief valve",
+        "raw_product_name": "Safety Relief Valve",
+        "list_of_product_ids": "7520,7194,10321,9958,12013,12014,12015,12091,12784,12758,12775,17529,18043,22348,36631,34693,34695,34697,34699,35702,36144,36151,39885",
+        "core_id": 2181.0
+      }
+    },
+    {
+      "id": "variant-0e38d324-5ee1-5f75-abc1-ddab924f87fc",
+      "score": 0.84597665,
+      "metadata": {
+        "text": "core_product_name: stretcher",
+        "raw_product_name": "STRETCHER",
+        "list_of_product_ids": "18818,28058,18800,39316",
+        "core_id": 2126.0
+      }
+    },
+    {
+      "id": "variant-95648999-c319-51e0-b255-72a38aa25e7e",
+      "score": 0.84576577,
+      "metadata": {
+        "text": "core_product_name: fire fighting equipment",
+        "raw_product_name": "FIRE FIGHTING EQUIPMENT",
+        "list_of_product_ids": "19962,21484,21482,21480,24379,26862,19964,37442,37440,37441,37443,37444,34995",
+        "core_id": 846.0
+      }
+    },
+    {
+      "id": "variant-e347766e-6881-5dd1-8b9f-977c33db82e9",
+      "score": 0.8454811,
+      "metadata": {
+        "text": "core_product_name: main column | type_or_class: Plus and Box",
+        "raw_product_name": "MAIN COLUMNS (PLUS AND BOX)",
+        "list_of_product_ids": "20898,20976,21907,22020,22087,22118",
+        "core_id": 1426.0
+      }
+    },
+    {
+      "id": "variant-139c06bb-2371-5b83-a232-eec546aad008",
+      "score": 0.8454668,
+      "metadata": {
+        "text": "core_product_name: resuscitator",
+        "raw_product_name": "RESUSCITATOR",
+        "list_of_product_ids": "14351,14341,14346,14356",
+        "core_id": 1905.0
+      }
+    },
+    {
+      "id": "variant-cbe0500f-7d01-5cbf-84c0-579b2a7af5d7",
+      "score": 0.84538096,
+      "metadata": {
+        "text": "core_product_name: material | acronymed_core_product_name: ets material",
+        "raw_product_name": "ETS MATERIAL",
+        "list_of_product_ids": "139,563,828,136,667",
+        "core_id": 353.0
+      }
+    },
+    {
+      "id": "variant-f738e894-86c9-56df-9ce8-d404ffa6bc11",
+      "score": 0.845344,
+      "metadata": {
+        "text": "core_product_name: support structure",
+        "raw_product_name": "GANTRY AND EQUIPMENT SUPPORT STRUCTURE",
+        "list_of_product_ids": "17432,17331,17332,17347,17351,17358,17370,17376,17382,17400,17423,17424,17442,17449,17454,17521,17519,17648,17655,17706,17693,18666,17537,17710,32192,35981,35988",
+        "core_id": 127.0
+      }
+    }
+  ]
+}

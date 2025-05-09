@@ -1,0 +1,61 @@
+{
+  "query": "core_product_name: electric siren | feature_or_specifications: location: pump house, pmcc (power and motor control center), security room, accessories: siren controller, necessary equipment, components, support for siren and panel, as per tender document",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "type_or_class",
+        "Size & Capacity"
+      ],
+      "match_details": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: PMCC (Power Motor Control Center) switchgear panel | size_or_capacity: 415V | type_or_class: PMCC (Power Motor Control Center)",
+        "raw_product_name": "415V SWITCHGEAR PANEL (PMCC)",
+        "list_of_product_ids": [
+          "15388",
+          "14161",
+          "14610",
+          "17705",
+          "17688",
+          "38510"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: PMCC (Power Motor Control Center) switchgear panel | type_or_class: PMCC (Power Motor Control Center)",
+        "raw_product_name": "SWITCHGEAR PANEL (PMCC)",
+        "list_of_product_ids": [
+          "1",
+          "397",
+          "014",
+          "627"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: power cum motor control centre | acronymed_core_product_name: pmcc (power cum motor control centre)",
+        "raw_product_name": "POWER CUM MOTOR CONTROL CENTRE (PMCC)",
+        "list_of_product_ids": [
+          "1",
+          "380",
+          "914",
+          "620"
+        ]
+      }
+    }
+  ]
+}

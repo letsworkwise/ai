@@ -1,0 +1,59 @@
+{
+  "query": "core_product_name: earth pit | size: length: 4 mtr, diameter: 100 mm | feature_or_specifications: type: maintenance free (chemical), suitable for: rocky area, included parts: all parts including required hardware for earth pit, standard: indian standard 3043, installation: embedded vertically or inclined up to 30 degree from vertical, connection: ms(mild steel) flat to each electrode through ms links by bolted joints, included: enable isolation of the electrode for testing purposes, included: excavation, restoration and removal extra earth/rock, included: required test link for checking earth connectivity, specification: as per specification,Attachment-29  LPG.ENG.117.06.03.2001, standard: indian standard, included: supply of commissioning and 2 years o&m spares",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: electrode",
+        "raw_product_name": "ELECTRODE",
+        "list_of_product_ids": [
+          "21773",
+          "21781",
+          "21777",
+          "26028",
+          "26689",
+          "32986",
+          "33019",
+          "33173",
+          "33240",
+          "33540",
+          "33612",
+          "35900"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: earthing material",
+        "raw_product_name": "EARTHING MATERIALS",
+        "list_of_product_ids": [
+          "378",
+          "733",
+          "788",
+          "037",
+          "898"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: instrumentation earthing",
+        "raw_product_name": "INSTRUMENTATION EARTHING",
+        "list_of_product_ids": [
+          "13420"
+        ]
+      }
+    }
+  ]
+}

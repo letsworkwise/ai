@@ -1,0 +1,75 @@
+{
+  "query": "core_product_name: smart type grounding unit | feature_or_specifications: protection: flameproof, weatherproof, indicator: one green indicating lamp, output: dual, application: safety earthing of tank trucks, interlocking signal: plc (programmable logic controller), completeness: all as per specifications",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: patch cable | acronymed_core_product_name: plc (programmable logic controller) patch cable | type_or_class: PLC (Programmable Logic Controller) Patch",
+        "raw_product_name": "PLC PATCH CABLES",
+        "list_of_product_ids": [
+          "13796",
+          "18811",
+          "20179",
+          "24065",
+          "23917"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: programmable logic controller | acronymed_core_product_name: plc subsystem",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER (PLC SUBSYSTEM)",
+        "list_of_product_ids": [
+          "13889",
+          "15107",
+          "20015",
+          "20010",
+          "36350",
+          "37195",
+          "36201"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: programmable logic controller",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLERS",
+        "list_of_product_ids": [
+          "6565",
+          "5735",
+          "11164",
+          "10154",
+          "11376",
+          "9379",
+          "9159",
+          "9221",
+          "11902",
+          "12182",
+          "36522",
+          "17895",
+          "18871",
+          "18916",
+          "29683",
+          "30474",
+          "38193",
+          "36169",
+          "36317"
+        ]
+      }
+    }
+  ]
+}

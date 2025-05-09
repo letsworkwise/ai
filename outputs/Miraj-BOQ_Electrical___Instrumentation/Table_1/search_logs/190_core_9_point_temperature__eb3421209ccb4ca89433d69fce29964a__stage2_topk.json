@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: 9 point temperature probe | size: points: 9 | feature_or_specifications: interface: radar & servo",
+  "retrieval_results": [
+    {
+      "id": "variant-81654678-5e37-56b6-a4c2-b32410d87659",
+      "score": 0.85362536,
+      "metadata": {
+        "text": "core_product_name: infrared temperature measurement system",
+        "raw_product_name": "INFRARED TEMP MEASUREMENT SYSTEM",
+        "list_of_product_ids": "6598,5768,10909,11112",
+        "core_id": 1243.0
+      }
+    },
+    {
+      "id": "variant-086d7fe9-d9ca-5135-8525-0b804f5e02ae",
+      "score": 0.85101086,
+      "metadata": {
+        "text": "core_product_name: temperature scanner",
+        "raw_product_name": "TEMPERATURE SCANNER",
+        "list_of_product_ids": "164,011,640,216,506",
+        "core_id": 2225.0
+      }
+    },
+    {
+      "id": "variant-35c0b277-6a3b-5856-9c86-096972d7c0d3",
+      "score": 0.8471599,
+      "metadata": {
+        "text": "core_product_name: temperature transmitter",
+        "raw_product_name": "TEMPERATURE TRANSMITTER",
+        "list_of_product_ids": "13422,36532,15082,15245,15259,15305,15312,17117,17116,17115,17114,18212,36177,36325,36511",
+        "core_id": 2226.0
+      }
+    },
+    {
+      "id": "variant-f33d0a7e-0b00-525a-89f2-33ee968fb551",
+      "score": 0.8466714,
+      "metadata": {
+        "text": "core_product_name: winding temperature indicator",
+        "raw_product_name": "WINDING TEMPERATURE INDICATOR",
+        "list_of_product_ids": "6473,5644,15948,16112",
+        "core_id": 2474.0
+      }
+    },
+    {
+      "id": "variant-f137bdce-af71-511f-9954-636b434a08d5",
+      "score": 0.84613454,
+      "metadata": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPARETURE GAUGE",
+        "list_of_product_ids": "13992,36535,17284,17283,17282,23171,35667,35957,35960,35972,37406",
+        "core_id": 2222.0
+      }
+    },
+    {
+      "id": "variant-f36f9a26-b202-54c5-b8bf-b0bf8137e3a4",
+      "score": 0.84585285,
+      "metadata": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPERATURE GAUGES",
+        "list_of_product_ids": "19536,19516,27065,37528,35959,35961,37407",
+        "core_id": 2222.0
+      }
+    },
+    {
+      "id": "variant-3ce73ff4-e68b-5cbf-b95e-8d29109fe9a2",
+      "score": 0.8458039,
+      "metadata": {
+        "text": "core_product_name: infrared radiation pyrometer",
+        "raw_product_name": "INFRARED RADIATION PYROMETER",
+        "list_of_product_ids": "18861,18860,18909,18959,18964,18957,37674,37481",
+        "core_id": 1239.0
+      }
+    },
+    {
+      "id": "variant-67245391-dc3c-5e74-b4e4-ea803165dcdd",
+      "score": 0.8457234,
+      "metadata": {
+        "text": "core_product_name: radar level transmitter",
+        "raw_product_name": "RADAR LEVEL TRANSMITTERS",
+        "list_of_product_ids": "13803,15081,15246,15260,23177,37424,36176,36324",
+        "core_id": 1852.0
+      }
+    },
+    {
+      "id": "variant-aad7fdec-a20c-58ad-9b20-91b9859c779a",
+      "score": 0.84533685,
+      "metadata": {
+        "text": "core_product_name: resistance temperature detector",
+        "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR",
+        "list_of_product_ids": "17218,17213,21738,27914,36623",
+        "core_id": 1901.0
+      }
+    },
+    {
+      "id": "variant-11837de1-613c-5488-90f2-115e8f26cf3b",
+      "score": 0.8449187,
+      "metadata": {
+        "text": "core_product_name: guided wave level instrument | type_or_class: Radar",
+        "raw_product_name": "SPL. LEVEL INSTRUMENTS-GUIDED WAVE RADAR",
+        "list_of_product_ids": "6584,5754,11684,11693,11812,11275,10099,10113,11709,12071,13219,18397,35433",
+        "core_id": 2083.0
+      }
+    },
+    {
+      "id": "variant-1753975e-a34d-5e05-ae9b-605d2cabd148",
+      "score": 0.84444594,
+      "metadata": {
+        "text": "core_product_name: level instrument | type_or_class: Radar Type",
+        "raw_product_name": "LEVEL INSTRUMENTS (RADAR TYPE)",
+        "list_of_product_ids": "9487,9587,12075,14687,14707,14801,15021,15024,15103,15239,15253,36197,36346",
+        "core_id": 1335.0
+      }
+    },
+    {
+      "id": "variant-324f0818-8b09-5550-b916-e03172d8bfbd",
+      "score": 0.8438057,
+      "metadata": {
+        "text": "core_product_name: speed pick up sensor",
+        "raw_product_name": "SPEED PICK UP SENSOR",
+        "list_of_product_ids": "163,791,643,616,466",
+        "core_id": 2081.0
+      }
+    },
+    {
+      "id": "variant-a595b92c-c451-5f5b-a7d2-c3960b5cbbce",
+      "score": 0.8437672,
+      "metadata": {
+        "text": "core_product_name: temperature recorder",
+        "raw_product_name": "TEMPERATURE RECORDERS",
+        "list_of_product_ids": "6620,5790,10045,10155,11903,12893,12892",
+        "core_id": 2223.0
+      }
+    },
+    {
+      "id": "variant-c3f94d78-6d8f-5bf3-81aa-721e2dbc6033",
+      "score": 0.8434373,
+      "metadata": {
+        "text": "core_product_name: radar level indicator | type_or_class: Radar Type",
+        "raw_product_name": "LEVEL INDICATORS (RADAR TYPE)",
+        "list_of_product_ids": "13979,15091,15133,15141,15149,15250,15263,36108,36186,36334",
+        "core_id": 1333.0
+      }
+    },
+    {
+      "id": "variant-58f7f950-a885-5f94-a678-9ffcb756d242",
+      "score": 0.8430317,
+      "metadata": {
+        "text": "core_product_name: temperature element",
+        "raw_product_name": "TEMPERATURE ELEMENT",
+        "list_of_product_ids": "15482,15465,14003,15304,15311,17794,17180,16563,37414,37413,34379",
+        "core_id": 2221.0
+      }
+    },
+    {
+      "id": "variant-b8253929-c920-5130-9b6e-7e7371c7d50b",
+      "score": 0.84292495,
+      "metadata": {
+        "text": "core_product_name: skin type resistance temperature detector",
+        "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR(SKIN TYPE)",
+        "list_of_product_ids": "182,021,821,418,562",
+        "core_id": 1903.0
+      }
+    },
+    {
+      "id": "variant-3e56e920-9278-5fe1-a379-e389cf4364f8",
+      "score": 0.842252,
+      "metadata": {
+        "text": "core_product_name: heat tracing system",
+        "raw_product_name": "HEAT TRACING SYSTEM",
+        "list_of_product_ids": "17441,17440,36617,27796,35888,35941",
+        "core_id": 1113.0
+      }
+    },
+    {
+      "id": "variant-e26ec213-d88e-51b9-bc11-86ce46c292a2",
+      "score": 0.8420163,
+      "metadata": {
+        "text": "core_product_name: temperature element | accessories_or_attachments: thermowell",
+        "raw_product_name": "TEMP.ELEMENTS,THERMOWELLS",
+        "list_of_product_ids": "6545,5716,10122,11461,11870,12777,12794,12797,12803,12805,12798,13205,13235,13394,17145,17178,17216,18226,31359,29846,36584,34380,35197,35202,35213,35974,36271,36424",
+        "core_id": 2221.0
+      }
+    },
+    {
+      "id": "variant-86b7fc98-7361-5489-9af1-070a461775ff",
+      "score": 0.8420094,
+      "metadata": {
+        "text": "core_product_name: level sensor",
+        "raw_product_name": "LEVEL SENSOR",
+        "list_of_product_ids": "19121,19128,19133,38465",
+        "core_id": 1336.0
+      }
+    },
+    {
+      "id": "variant-6b7311ab-4db0-5323-b993-9b941b27e8de",
+      "score": 0.84200644,
+      "metadata": {
+        "text": "core_product_name: resistance temperature detector | accessories_or_attachments: Thermowell",
+        "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR(THERMOWELL)",
+        "list_of_product_ids": "182,131,856,318,203",
+        "core_id": 1901.0
+      }
+    },
+    {
+      "id": "variant-0efb7545-ace8-5231-a7a1-6342569f67d0",
+      "score": 0.84130657,
+      "metadata": {
+        "text": "core_product_name: thermal detector",
+        "raw_product_name": "THERMAL DETECTORS",
+        "list_of_product_ids": "14012,14939,18003,18002,37766,37771,37776,37792,37802,37807",
+        "core_id": 2239.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.8409855,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-c184836f-fc8c-5421-96c9-57703770e0df",
+      "score": 0.84095037,
+      "metadata": {
+        "text": "core_product_name: thermocouple",
+        "raw_product_name": "THERMOCOUPLES",
+        "list_of_product_ids": "6546,5717,16564,17217,24281,36622",
+        "core_id": 2246.0
+      }
+    },
+    {
+      "id": "variant-59caacf0-2771-53a3-844e-b2c03e89997d",
+      "score": 0.8407087,
+      "metadata": {
+        "text": "core_product_name: special temperature element",
+        "raw_product_name": "SPECIAL TEMPERATURE ELEMENTS",
+        "list_of_product_ids": "6548,5719,10143,11458,11891,12796,31357,31333,35160,35199,35204,35212",
+        "core_id": 2078.0
+      }
+    },
+    {
+      "id": "variant-7362b679-6bbf-5f44-9fd3-bae2302852aa",
+      "score": 0.8404195,
+      "metadata": {
+        "text": "core_product_name: temperature instrument | operating_conditions: Temperature (T) (Temperature)",
+        "raw_product_name": "Temperature (T) Instruments",
+        "list_of_product_ids": "5973,6802,6801,6809,10712,6810,10714,10717,6950,7001,7623,9979,10722,7627,10736,10741,10658,10710",
+        "core_id": 2301.0
+      }
+    },
+    {
+      "id": "variant-60cc1389-d2d7-5796-b91e-9be0cfc16c55",
+      "score": 0.84010965,
+      "metadata": {
+        "text": "core_product_name: instrumentation fitting",
+        "raw_product_name": "INSTRUMENTATION FITTINGS",
+        "list_of_product_ids": "14372,17508,17507,17506,17505,17504,17501,17500,17496,17958,17960",
+        "core_id": 1264.0
+      }
+    },
+    {
+      "id": "variant-f0f0f159-c9f0-57bd-89ee-9689d390c903",
+      "score": 0.8392296,
+      "metadata": {
+        "text": "core_product_name: calibration",
+        "raw_product_name": "INSTRUMENTS CALIBRATION",
+        "list_of_product_ids": "24237,23794,23833,23950,23799,26879",
+        "core_id": 1265.0
+      }
+    },
+    {
+      "id": "variant-04915d72-1aa1-5772-8f24-c7256b326974",
+      "score": 0.8392253,
+      "metadata": {
+        "text": "core_product_name: distance sensor",
+        "raw_product_name": "DISTANCE SENSOR",
+        "list_of_product_ids": "19120,19127,19134,38464",
+        "core_id": 602.0
+      }
+    },
+    {
+      "id": "variant-a32d8296-ea3c-51d4-95de-73a3824167db",
+      "score": 0.83912754,
+      "metadata": {
+        "text": "core_product_name: measurement system",
+        "raw_product_name": "MEASUREMENT SYSTEM",
+        "list_of_product_ids": "188,511,884,918,973",
+        "core_id": 1451.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.8391049,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    }
+  ]
+}

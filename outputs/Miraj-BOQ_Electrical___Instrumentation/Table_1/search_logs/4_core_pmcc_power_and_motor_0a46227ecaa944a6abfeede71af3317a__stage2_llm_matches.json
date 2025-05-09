@@ -1,0 +1,62 @@
+{
+  "query": "core_product_name: pmcc (power and motor control center) | acronymed_core_product_name: pmcc | size: voltage: 415 V, phases: 3 phase, wires: 4 wire, frequency: 50 Hz, current: 800 A, short circuit withstand: 50 KA for 1 second | feature_or_specifications: type: double front fully draw out, feature: acbs (air circuit breakers), feature: cts/pts (current transformers/potential transformers), feature: relays, feature: indicating lamps, standard: as per attached slds (single line diagrams), specifications & ds (data sheet)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: power cum motor control centre | acronymed_core_product_name: pmcc (power cum motor control centre)",
+        "raw_product_name": "POWER CUM MOTOR CONTROL CENTRE (PMCC)",
+        "list_of_product_ids": [
+          "1",
+          "380",
+          "914",
+          "620"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "acronymed_core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: PMCC (Power Motor Control Center) switchgear panel | type_or_class: PMCC (Power Motor Control Center)",
+        "raw_product_name": "SWITCHGEAR PANEL (PMCC)",
+        "list_of_product_ids": [
+          "1",
+          "397",
+          "014",
+          "627"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "acronymed_core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: drawout switchboard | acronymed_core_product_name: M.V. (Medium Voltage) MCC (Motor Control Center) or PCC (Power Control Center) or PMCC (Power Motor Control Center) switchboard | type_or_class: M.V. (Medium Voltage) | type_or_class: MCC (Motor Control Center) | type_or_class: PCC (Power Control Center) | type_or_class: PMCC (Power Motor Control Center)",
+        "raw_product_name": "SWITCHBOARD-M.V.-MCC/PCC/PMCC-DRAWOUT",
+        "list_of_product_ids": [
+          "6388",
+          "5559",
+          "11010",
+          "10537",
+          "14619",
+          "24432",
+          "24431",
+          "24430",
+          "24429",
+          "24428"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "query": "core_product_name: led fixture | feature_or_specifications: type: industrial, mounting: conduit or surface or suspended, driver: integral, design: aesthetically designed for switchgear or equipment room or stair case or corridors",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": [
+          "13606",
+          "16555",
+          "16546",
+          "16591",
+          "16576",
+          "17657",
+          "17650",
+          "17702",
+          "17682",
+          "18058",
+          "20306",
+          "20834",
+          "21315",
+          "22108",
+          "23384",
+          "35044"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: incandescent lighting fixture",
+        "raw_product_name": "INCANDESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": [
+          "19026",
+          "19024",
+          "19022",
+          "19020",
+          "19163"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: tube light fixture",
+        "raw_product_name": "TUBE LIGHT FIXTURES",
+        "list_of_product_ids": [
+          "139",
+          "811",
+          "494",
+          "021",
+          "021"
+        ]
+      }
+    }
+  ]
+}

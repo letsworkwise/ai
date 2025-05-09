@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: fuel fitting | feature_or_specifications: type: bends, type: valves, type: flanges",
+  "retrieval_results": [
+    {
+      "id": "variant-8d00b73b-5dbc-5a15-9977-16b46a2060ab",
+      "score": 0.8758829,
+      "metadata": {
+        "text": "core_product_name: valve fitting",
+        "raw_product_name": "VALVES FITTING",
+        "list_of_product_ids": "8612",
+        "core_id": 2379.0
+      }
+    },
+    {
+      "id": "variant-31a63a03-e3b0-5171-8ec3-c5e3e1658862",
+      "score": 0.8699455,
+      "metadata": {
+        "text": "core_product_name: flange | material: Carbon steel | construction_features: Raised Face (RF)",
+        "raw_product_name": "Carbon steel Flange (RF)",
+        "list_of_product_ids": "68,157,318",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-79e34a67-ef11-56c8-9cb0-0ea71ddda0de",
+      "score": 0.86918694,
+      "metadata": {
+        "text": "core_product_name: flange",
+        "raw_product_name": "FLANGES",
+        "list_of_product_ids": "5445,6068,6902,9990,9987,11093,11095,40331,40332,10738,11699,10739,11251,10740,10742,10165,36909,11403,6908,6900,6925,6929,6933,6927,6931,7714,7715,9313,8791,8792,8794,8790,8823,8793,8880,12380,13051,13319,15743,16378,16613,16580,24554,18182,18206,29472,36906,18894,18938,20065,19843,7713,36873,30636,30688,37305,36934,32262,36591,37264,36864,35744,35743,36525",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-40f5e806-4a91-59d6-8fea-bf521847066a",
+      "score": 0.8668407,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: Forged",
+        "raw_product_name": "VALVE CHECK FORGED",
+        "list_of_product_ids": "6231,5400,11625,11641,11223,11242,11255,9246,11448,9262,8280,8383,8555,8649,8626,9412,9451,9253,9166,9343,12098,12493,12572,12656,13266,13360,19382,19390,17623,17908,18030,19711,19860,31813,36763,32701",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-c2575402-74ce-51a4-ab7c-c62438f04a20",
+      "score": 0.8663196,
+      "metadata": {
+        "text": "core_product_name: forged pipe flange | construction_features: forged",
+        "raw_product_name": "FORGED PIPE FLANGES",
+        "list_of_product_ids": "8772",
+        "core_id": 977.0
+      }
+    },
+    {
+      "id": "variant-bd51c8cc-0201-5837-b40f-7577be83de1b",
+      "score": 0.86589766,
+      "metadata": {
+        "text": "core_product_name: oval flange | type_or_class: Oval",
+        "raw_product_name": "FLANGE-OVAL",
+        "list_of_product_ids": "175,681,756,718,670",
+        "core_id": 903.0
+      }
+    },
+    {
+      "id": "variant-27f5ab93-f595-5d15-a84a-3eae7caa9b6f",
+      "score": 0.86534417,
+      "metadata": {
+        "text": "core_product_name: fitting | material: CS (Carbon Steel) | construction_features: Welded",
+        "raw_product_name": "FITTINGS – CS WELDED",
+        "list_of_product_ids": "14261,15969,19407,19803,19789,20138,22664,37083,37096",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-f23555b4-6776-5418-b12f-82367d57d9b5",
+      "score": 0.86341393,
+      "metadata": {
+        "text": "core_product_name: fitting | type_or_class: ERMETO",
+        "raw_product_name": "ERMETO FITTINGS",
+        "list_of_product_ids": "254,072,567,926,699",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-0f65ae9a-96f2-5688-a949-d7158ab2dd48",
+      "score": 0.86283225,
+      "metadata": {
+        "text": "core_product_name: quick connect fitting | construction_features: quick connect | construction_features: quick connect",
+        "raw_product_name": "FITTINGS-QUICK CONNECT BODY & STEM",
+        "list_of_product_ids": "229,102,291,128,622",
+        "core_id": 883.0
+      }
+    },
+    {
+      "id": "variant-51099c41-aa43-5333-9366-8cb60cfc4c26",
+      "score": 0.86261725,
+      "metadata": {
+        "text": "core_product_name: flange | material: Incoloy",
+        "raw_product_name": "FLANGES (INCOLOY)",
+        "list_of_product_ids": "20905,24572,24650,37037",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-f9d0f089-635a-5d99-871b-36ab7568eaca",
+      "score": 0.86211556,
+      "metadata": {
+        "text": "core_product_name: cross fitting | special_attributes: Seamless (pipes)",
+        "raw_product_name": "FIITINGS CROSS-FROM SEAMLESS PIPES",
+        "list_of_product_ids": "6319,5490,11288,33988,33987,33986",
+        "core_id": 822.0
+      }
+    },
+    {
+      "id": "variant-27d39f8f-5c88-5af7-a7c1-b8ebd1346284",
+      "score": 0.86211264,
+      "metadata": {
+        "text": "core_product_name: gate valve | construction_features: Forged",
+        "raw_product_name": "VALVE GATE FORGED",
+        "list_of_product_ids": "6215,5384,10997,11616,11636,11221,11239,11252,11276,11397,11437,9259,8278,8376,8550,8641,8617,9409,9434,9450,9249,9168,9245,9339,11977,12023,12041,12032,12096,12491,12570,12654,13254,19380,19388,17620,17816,17909,18302,18032,19708,19859,31810,31714,32699,35523",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-8b17e0b9-66f6-5d0e-86c3-90233954cdce",
+      "score": 0.8620959,
+      "metadata": {
+        "text": "core_product_name: pipe fitting",
+        "raw_product_name": "PIPE FITTINGS",
+        "list_of_product_ids": "22332,22331,22330,23352,23353,24583,36871,30825,36882,37027,28815,37304,36590,33279,33280,33281,37015,37157,36862,35736,35737,35738,35739,35740,35741,35742,36885,36524",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-47c89fc0-e1e3-562c-a03f-09ce7a7b8a5c",
+      "score": 0.861888,
+      "metadata": {
+        "text": "core_product_name: special valve | type_or_class: Category",
+        "raw_product_name": "VALVE SPECIAL CATEGORY",
+        "list_of_product_ids": "6271,5440,11271,7833,7842,8652,8705,12327,12573,12658,13276,15007,15035,15039,15015,15030,15045,18316,18314",
+        "core_id": 2374.0
+      }
+    },
+    {
+      "id": "variant-7abf6a23-caeb-58fb-9988-2238d2b1f272",
+      "score": 0.8617709,
+      "metadata": {
+        "text": "core_product_name: flange | material: Ferrous",
+        "raw_product_name": "FERROUS FLANGES",
+        "list_of_product_ids": "23432,23431,23430,23429,24574,24648,26898,26900,26897,26896,37030",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.86172247,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    },
+    {
+      "id": "variant-9b25b784-a1a1-5ce1-9130-4075d704d02b",
+      "score": 0.86165184,
+      "metadata": {
+        "text": "core_product_name: globe valve | construction_features: forged",
+        "raw_product_name": "VALVE GLOBE FORGED",
+        "list_of_product_ids": "6222,5391,11621,11639,11241,11254,11278,8279,8380,8554,8644,8621,9386,9428,9410,9452,9251,9165,9247,9341,11976,12097,12492,12571,13261,13361,19389,17622,17817,17907,18303,18031,19861,31811,19381,32700,36762,35556",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-3c2764ee-aa30-543d-a40c-c88880dfc5c5",
+      "score": 0.8611373,
+      "metadata": {
+        "text": "core_product_name: inlet feed device | type_or_class: Vane Type",
+        "raw_product_name": "INLET FEED DEVICE (VANE TYPE)",
+        "list_of_product_ids": "6190,5358,10851,8980,9126,24348,24349,19942",
+        "core_id": 1245.0
+      }
+    },
+    {
+      "id": "variant-70fc9b81-eb6e-54f7-a50d-8cffb4b96674",
+      "score": 0.86089385,
+      "metadata": {
+        "text": "core_product_name: weld neck flange | construction_features: weld neck",
+        "raw_product_name": "FLANGE-WELD NECK",
+        "list_of_product_ids": "9902,9903,9908,9916,9917,9918,9919,17534,17651,24561",
+        "core_id": 904.0
+      }
+    },
+    {
+      "id": "variant-eeb660c0-1de4-5207-b587-e52eaa01d4df",
+      "score": 0.8607082,
+      "metadata": {
+        "text": "core_product_name: conventional valve | type_or_class: Check",
+        "raw_product_name": "CONVENTIONAL VALVES (CHECK)",
+        "list_of_product_ids": "7289,7615,11053,11056,11139,7856,30846,30856,30860,30863,30866,30868",
+        "core_id": 471.0
+      }
+    },
+    {
+      "id": "variant-d3918fb3-1dcf-5330-9bbe-6452020c252d",
+      "score": 0.8605984,
+      "metadata": {
+        "text": "core_product_name: plumbing fitting and fixture",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+        "list_of_product_ids": "6364,5535,7874,12489,12648,12649,34680,34681",
+        "core_id": 1961.0
+      }
+    },
+    {
+      "id": "variant-27f3d003-0b9b-5483-a8ba-373538a6d09b",
+      "score": 0.86053604,
+      "metadata": {
+        "text": "core_product_name: flange | material: Carbon Steel",
+        "raw_product_name": "FLANGE- CARBON STEEL",
+        "list_of_product_ids": "6273,5442,11592,11400,7751,9314,9323,8440,8447,8472,8450,8463,9392,8779,9231,9232,9235,9310,9317,9344,12306,12342,12387,12469,12766,12759,12779,12874,12884,12870,12887,12894,12921,12928,12932,12936,12944,12952,12897,12904,12911,12931,12940,12948,13370,13377,15999,17005,17518,17911,18401,18895,18939,19832,21671,21654,21699,21732",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-383781f7-59ee-5d5b-8a29-cf16569a65fc",
+      "score": 0.8601937,
+      "metadata": {
+        "text": "core_product_name: welded fitting",
+        "raw_product_name": "FITTINGS – AS WELDED",
+        "list_of_product_ids": "14259,15973,19406,19805,19790,20139,22666,37085,37098",
+        "core_id": 878.0
+      }
+    },
+    {
+      "id": "variant-ee996d4f-d22a-5a9e-8af4-7f7c452f3c67",
+      "score": 0.8598193,
+      "metadata": {
+        "text": "core_product_name: blowdown valve | type_or_class: Straight or Angle Pattern",
+        "raw_product_name": "VALVE- BLOWDOWN (Straight/Angle Pattern)",
+        "list_of_product_ids": "6228,5397,11539,11545,11542,11473,8337,17642,18315,22717",
+        "core_id": 2376.0
+      }
+    },
+    {
+      "id": "variant-4d90c084-11dd-5309-a710-bba18baf4ab9",
+      "score": 0.85979885,
+      "metadata": {
+        "text": "core_product_name: check valve | material: Cast",
+        "raw_product_name": "VALVE CHECK CAST",
+        "list_of_product_ids": "6229,5398,29399,11623,11640,11225,11237,11247,11279,11282,11259,11446,11431,6853,6858,6863,6873,6878,6883,6888,6893,6898,7697,7698,7699,7700,7701,7702,7703,7704,7705,7706,7707,7708,7866,9261,9387,9411,9407,9162,9252,9163,9175,9244,9342,12330,12429,12568,12548,12652,13364,13375,13381,6868,19359,16650,19409,18053,18383,19710,33375",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-7acdf0da-7477-5fa4-be80-59c2a3503b41",
+      "score": 0.8596569,
+      "metadata": {
+        "text": "core_product_name: flange | material: CS (Carbon Steel)",
+        "raw_product_name": "FLANGE (CS)",
+        "list_of_product_ids": "20206,20212,20295,20269,20322,20364,24569,25826,37252",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-b08f8763-87d3-5136-a6d0-f8e112b85154",
+      "score": 0.85942554,
+      "metadata": {
+        "text": "core_product_name: flange | material: Exotic",
+        "raw_product_name": "FLANGES-EXOTIC",
+        "list_of_product_ids": "6276,5446,10701,8782,12877,12873,12890,12896,12924,12939,12947,12955,12899,12943,12951,21701,24555",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-8f6f91bf-b977-5254-b6f7-c761bf9f45a8",
+      "score": 0.8592371,
+      "metadata": {
+        "text": "core_product_name: orifice flange",
+        "raw_product_name": "ORIFICE - FLANGES",
+        "list_of_product_ids": "340,383,406,334,035",
+        "core_id": 1601.0
+      }
+    },
+    {
+      "id": "variant-2f18490d-3e94-559d-8612-8a3ac4904980",
+      "score": 0.8590577,
+      "metadata": {
+        "text": "core_product_name: stop check valve | type_or_class: Y type",
+        "raw_product_name": "STOP CHECK VALVES (Y TYPE)",
+        "list_of_product_ids": "14060,15006,15014,22370,31565,37166",
+        "core_id": 2116.0
+      }
+    },
+    {
+      "id": "variant-870a4f20-41ec-5310-886a-4b885369423e",
+      "score": 0.8590076,
+      "metadata": {
+        "text": "core_product_name: butt weld pipe flange | construction_features: Butt Weld | construction_features: Pipe",
+        "raw_product_name": "Butt Weld Pipe Flanges",
+        "list_of_product_ids": "7596,7271,8017,24560",
+        "core_id": 274.0
+      }
+    }
+  ]
+}

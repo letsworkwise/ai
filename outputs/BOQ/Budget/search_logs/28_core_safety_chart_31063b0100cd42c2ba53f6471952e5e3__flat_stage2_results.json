@@ -1,0 +1,528 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8830919,
+      "text": "core_product_name: safety valve",
+      "core_id": 1950.0,
+      "raw_product_name": "SAFETY VALVES",
+      "list_of_product_ids": [
+        "14389",
+        "14381",
+        "14554",
+        "15199",
+        "15333"
+      ]
+    },
+    {
+      "retrieval_score": 0.881688,
+      "text": "core_product_name: safety relief valve",
+      "core_id": 2181.0,
+      "raw_product_name": "Safety Relief Valve",
+      "list_of_product_ids": [
+        "7520",
+        "7194",
+        "10321",
+        "9958",
+        "12013",
+        "12014",
+        "12015",
+        "12091",
+        "12784",
+        "12758",
+        "12775",
+        "17529",
+        "18043",
+        "22348",
+        "36631",
+        "34693",
+        "34695",
+        "34697",
+        "34699",
+        "35702",
+        "36144",
+        "36151",
+        "39885"
+      ]
+    },
+    {
+      "retrieval_score": 0.8807175,
+      "text": "core_product_name: lighting and power panel | operating_conditions: Safe Area",
+      "core_id": 1351.0,
+      "raw_product_name": "LIGHTING & POWER PANELS (SAFE AREA)",
+      "list_of_product_ids": [
+        "5631",
+        "6460",
+        "10307",
+        "11363",
+        "9150",
+        "9362",
+        "11943",
+        "24828",
+        "24816",
+        "24931",
+        "24942",
+        "19386",
+        "38289"
+      ]
+    },
+    {
+      "retrieval_score": 0.880319,
+      "text": "core_product_name: safety shoe",
+      "core_id": 1951.0,
+      "raw_product_name": "SAFTY SHOES",
+      "list_of_product_ids": [
+        "32882",
+        "32883",
+        "33005",
+        "33038",
+        "33192",
+        "36664",
+        "33257",
+        "33560",
+        "33631",
+        "35919"
+      ]
+    },
+    {
+      "retrieval_score": 0.8781012,
+      "text": "core_product_name: safety valve | type_or_class: Spring Type",
+      "core_id": 1950.0,
+      "raw_product_name": "SAFETY VALVES(SPRING TYPE)",
+      "list_of_product_ids": [
+        "7610",
+        "7285",
+        "11131",
+        "11825",
+        "7847"
+      ]
+    },
+    {
+      "retrieval_score": 0.87726855,
+      "text": "core_product_name: safety helmet",
+      "core_id": 1947.0,
+      "raw_product_name": "SAFETY HELMET",
+      "list_of_product_ids": [
+        "21456",
+        "21455",
+        "27053",
+        "33007",
+        "33039",
+        "33193",
+        "36662",
+        "33258",
+        "33559",
+        "33630",
+        "37471",
+        "35920"
+      ]
+    },
+    {
+      "retrieval_score": 0.87696886,
+      "text": "core_product_name: safety valve | operating_conditions: boiler service",
+      "core_id": 1950.0,
+      "raw_product_name": "SAFETY VALVES BOILER SERVICE",
+      "list_of_product_ids": [
+        "6504",
+        "5675",
+        "10198",
+        "8345",
+        "17586",
+        "21314",
+        "27548",
+        "28764",
+        "28766",
+        "28765",
+        "28811",
+        "36263",
+        "36416"
+      ]
+    },
+    {
+      "retrieval_score": 0.8761958,
+      "text": "core_product_name: intrinsic safety barrier",
+      "core_id": 1289.0,
+      "raw_product_name": "INTRINSIC SAFETY BARRIERS",
+      "list_of_product_ids": [
+        "137",
+        "582",
+        "030",
+        "823",
+        "683"
+      ]
+    },
+    {
+      "retrieval_score": 0.8761633,
+      "text": "core_product_name: cathodic protection system",
+      "core_id": 503.0,
+      "raw_product_name": "Cathodic Protection System",
+      "list_of_product_ids": [
+        "18681",
+        "19166",
+        "21519",
+        "18680",
+        "36550"
+      ]
+    },
+    {
+      "retrieval_score": 0.8759613,
+      "text": "core_product_name: accessory lighting fixture | protection_features: Non Hazardous",
+      "core_id": 1352.0,
+      "raw_product_name": "LIGHTING FIXTURE & ACCESORY-NON HZARDOUS",
+      "list_of_product_ids": [
+        "5630",
+        "6459",
+        "10568",
+        "10188",
+        "10179",
+        "19512",
+        "19508",
+        "19540",
+        "26082"
+      ]
+    },
+    {
+      "retrieval_score": 0.8759191,
+      "text": "core_product_name: safety coverall | material: Dangri | special_attributes: Orange",
+      "core_id": 1600.0,
+      "raw_product_name": "ORANGE SAFETY DANGRI COVERALL",
+      "list_of_product_ids": [
+        "32880",
+        "32884",
+        "33004",
+        "33037",
+        "33191",
+        "33256",
+        "33558",
+        "33629",
+        "35918"
+      ]
+    },
+    {
+      "retrieval_score": 0.87530917,
+      "text": "core_product_name: safety goggle",
+      "core_id": 1948.0,
+      "raw_product_name": "SAFETY GOGGLES",
+      "list_of_product_ids": [
+        "32936",
+        "32937",
+        "33006",
+        "33044",
+        "33198",
+        "36663",
+        "33263",
+        "33563",
+        "33636",
+        "35925"
+      ]
+    },
+    {
+      "retrieval_score": 0.8748486,
+      "text": "core_product_name: fire proofing material | protection_features: Fireproof",
+      "core_id": 856.0,
+      "raw_product_name": "FIRE PROOFING MATERIAL",
+      "list_of_product_ids": [
+        "38658",
+        "38561",
+        "38562",
+        "38566"
+      ]
+    },
+    {
+      "retrieval_score": 0.874427,
+      "text": "core_product_name: product quality analyser system",
+      "core_id": 1792.0,
+      "raw_product_name": "PRODUCT QUALITY ANALYSER SYSTEMS",
+      "list_of_product_ids": [
+        "6524",
+        "5695",
+        "10052",
+        "11185",
+        "10133",
+        "11881"
+      ]
+    },
+    {
+      "retrieval_score": 0.87205833,
+      "text": "core_product_name: check valve | material: Cast",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK CAST",
+      "list_of_product_ids": [
+        "6229",
+        "5398",
+        "29399",
+        "11623",
+        "11640",
+        "11225",
+        "11237",
+        "11247",
+        "11279",
+        "11282",
+        "11259",
+        "11446",
+        "11431",
+        "6853",
+        "6858",
+        "6863",
+        "6873",
+        "6878",
+        "6883",
+        "6888",
+        "6893",
+        "6898",
+        "7697",
+        "7698",
+        "7699",
+        "7700",
+        "7701",
+        "7702",
+        "7703",
+        "7704",
+        "7705",
+        "7706",
+        "7707",
+        "7708",
+        "7866",
+        "9261",
+        "9387",
+        "9411",
+        "9407",
+        "9162",
+        "9252",
+        "9163",
+        "9175",
+        "9244",
+        "9342",
+        "12330",
+        "12429",
+        "12568",
+        "12548",
+        "12652",
+        "13364",
+        "13375",
+        "13381",
+        "6868",
+        "19359",
+        "16650",
+        "19409",
+        "18053",
+        "18383",
+        "19710",
+        "33375"
+      ]
+    },
+    {
+      "retrieval_score": 0.8718995,
+      "text": "core_product_name: primary structure | construction_features: bolted",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+      "list_of_product_ids": [
+        "20000",
+        "19997",
+        "20035",
+        "21038",
+        "21002",
+        "21083",
+        "21901",
+        "22017",
+        "22116",
+        "22826",
+        "22992"
+      ]
+    },
+    {
+      "retrieval_score": 0.87139726,
+      "text": "core_product_name: cathodic protection agency",
+      "core_id": 314.0,
+      "raw_product_name": "CATHODIC PROTECTION AGENCIES",
+      "list_of_product_ids": [
+        "13890"
+      ]
+    },
+    {
+      "retrieval_score": 0.8713806,
+      "text": "core_product_name: alarm card",
+      "core_id": 83.0,
+      "raw_product_name": "ALARM CARDS",
+      "list_of_product_ids": [
+        "14173",
+        "15213",
+        "20875",
+        "22617"
+      ]
+    },
+    {
+      "retrieval_score": 0.8712077,
+      "text": "core_product_name: internal wall | protection_features: fireproof",
+      "core_id": 1288.0,
+      "raw_product_name": "INTERNAL FIRE WALL",
+      "list_of_product_ids": [
+        "19216",
+        "28252",
+        "39669",
+        "39674",
+        "39745",
+        "39812",
+        "39784",
+        "39913"
+      ]
+    },
+    {
+      "retrieval_score": 0.87084866,
+      "text": "core_product_name: fire safe valve | protection_features: fireproof",
+      "core_id": 857.0,
+      "raw_product_name": "FIRE SAFE VALVE",
+      "list_of_product_ids": [
+        "14252",
+        "22821",
+        "37280",
+        "39855",
+        "39936",
+        "40213",
+        "40304"
+      ]
+    },
+    {
+      "retrieval_score": 0.8701999,
+      "text": "core_product_name: humidity indicating card",
+      "core_id": 1183.0,
+      "raw_product_name": "HUMIDITY INDICATING CARDS",
+      "list_of_product_ids": [
+        "949",
+        "995",
+        "799",
+        "782"
+      ]
+    },
+    {
+      "retrieval_score": 0.86964375,
+      "text": "core_product_name: coupling device",
+      "core_id": 499.0,
+      "raw_product_name": "COUPLING DEVICE",
+      "list_of_product_ids": [
+        "18582",
+        "18579",
+        "18578",
+        "18637"
+      ]
+    },
+    {
+      "retrieval_score": 0.8695371,
+      "text": "core_product_name: flameproof equipment | protection_features: Flameproof",
+      "core_id": 894.0,
+      "raw_product_name": "FLAMEPROOF EQUIPMENT",
+      "list_of_product_ids": [
+        "13446",
+        "13447",
+        "13448",
+        "13449",
+        "13450",
+        "13473",
+        "13477"
+      ]
+    },
+    {
+      "retrieval_score": 0.86931694,
+      "text": "core_product_name: safety shower and eye washer",
+      "core_id": 1949.0,
+      "raw_product_name": "SAFETY SHOWER & EYE WASHER",
+      "list_of_product_ids": [
+        "6023",
+        "5202",
+        "8477",
+        "8478",
+        "18843",
+        "36920"
+      ]
+    },
+    {
+      "retrieval_score": 0.86927867,
+      "text": "core_product_name: electrical contact",
+      "core_id": 705.0,
+      "raw_product_name": "ELECTRICAL CONTACTS",
+      "list_of_product_ids": [
+        "211",
+        "562",
+        "115",
+        "228",
+        "503"
+      ]
+    },
+    {
+      "retrieval_score": 0.8691207,
+      "text": "core_product_name: surge protection device",
+      "core_id": 2156.0,
+      "raw_product_name": "SURG PROTECTION DEVICES",
+      "list_of_product_ids": [
+        "5954",
+        "6782",
+        "12132",
+        "14671",
+        "14679",
+        "18191",
+        "20174",
+        "36159"
+      ]
+    },
+    {
+      "retrieval_score": 0.8690715,
+      "text": "core_product_name: control cable | protection_features: Fire Survival",
+      "core_id": 4.0,
+      "raw_product_name": "CONTROL CABLE - FIRE SURVIVAL",
+      "list_of_product_ids": [
+        "6424",
+        "5594",
+        "10194",
+        "10666",
+        "11369",
+        "11371",
+        "12120",
+        "13290",
+        "15814",
+        "17323",
+        "17783",
+        "23993",
+        "23862"
+      ]
+    },
+    {
+      "retrieval_score": 0.86900866,
+      "text": "core_product_name: at site material handling and transportation",
+      "core_id": 1445.0,
+      "raw_product_name": "MATERIAL HANDLING AND TRANSPORTATION AT SITE",
+      "list_of_product_ids": [
+        "35825",
+        "35831",
+        "35840",
+        "35879",
+        "36082",
+        "40091"
+      ]
+    },
+    {
+      "retrieval_score": 0.8689844,
+      "text": "core_product_name: gate",
+      "core_id": 1042.0,
+      "raw_product_name": "GATES",
+      "list_of_product_ids": [
+        "137",
+        "191",
+        "954",
+        "523",
+        "241"
+      ]
+    },
+    {
+      "retrieval_score": 0.86885905,
+      "text": "core_product_name: measurement system",
+      "core_id": 1451.0,
+      "raw_product_name": "MEASUREMENT SYSTEM",
+      "list_of_product_ids": [
+        "188",
+        "511",
+        "884",
+        "918",
+        "973"
+      ]
+    }
+  ]
+}

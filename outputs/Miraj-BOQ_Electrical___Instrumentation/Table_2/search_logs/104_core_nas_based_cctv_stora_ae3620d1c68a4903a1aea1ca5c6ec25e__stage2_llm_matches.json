@@ -1,0 +1,53 @@
+{
+  "query": "core_product_name: nas based cctv storage array | acronymed_core_product_name: nas cctv storage array | size: storage: cumulative 220 TB minimum, ssd: 1TB, internal memory: 32 GB DDR3 ECC or better, hard disk: min. 90 days recording, monitor: min 21\" widescreen LED | feature_or_specifications: for: network server, throughput: 350 Mbps or 120 streams, processor: intel xeon E3-1276 v3 or better, operating system: microsoft windows server 2012, RAID: RAID 6 for HDD redundancy, NVR: UL (underwriters laboratories) listed, power supply: internal, redundant, accessories: dual redundant network video recorder (NVR) server, KVM switch",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: data storage system",
+        "raw_product_name": "Data storage system",
+        "list_of_product_ids": [
+          "7084",
+          "7411",
+          "18425",
+          "18424"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: server",
+        "raw_product_name": "SERVERS",
+        "list_of_product_ids": [
+          "13899",
+          "15300",
+          "15302",
+          "18836"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: recorder",
+        "raw_product_name": "RECORDERS",
+        "list_of_product_ids": [
+          "13825",
+          "15211",
+          "20871",
+          "36627"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "sheet_name": "Table 2",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "4.2.2 | Supply of Terminal Automation Software for Operator Stations with dongle/key, licenses, media, documentation etc., complete as per specifications /  documents. TAS is the front end for all sub systems, hence below subsystems shall be interfaced with TAS for Monitoring, Logging, Reporting and Controls-Interlocks etc. System Interfaces: (Based on functional requirement for interfacing of the available sub systems at the Locations).System stated below with TAS & its commissioning with TAS for Alarms,archiving & events logging - SAP for TAS (TT & packed truck loading & unloading & sub systems covered in the work) - MCC, VFD, DG Sets, UPS  etc. Interface - PLC  & ESD ROV etc. - TFMS Interface including SAP - SAP-TFMS Interface - PAGA Interface - FAS Interface, - Fire Fighting System, - CCTV systems - DV Operational Panel - GMS Repeater Panel",
+      "core_product_name": "terminal automation software",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: operator stations, feature: dongle/key, feature: licenses, feature: media, feature: documentation, feature: system interfaces for monitoring, logging, reporting, controls-interlocks, feature: interface with SAP (systems, TT & packed truck loading & unloading), MCC (motor control center), VFD (variable frequency drive), DG sets (diesel generator sets), UPS (uninterruptible power supply), PLC (programmable logic controller), ESD (emergency shutdown), ROV (remote operated valve), TFMS (tank farm management system), PAGA (public address and general alarm), FAS (fire alarm system), fire fighting system, CCTV (closed circuit television) systems, DV operational panel, GMS (gas monitoring system) repeater panel, feature: alarms, archiving, events logging",
+      "quantity": "1.0",
+      "unit": "Lot"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "4.2.3 | Supply  of SCADA Software with 100%  spare tags alongwith dongle/key, licenses, media, documentation etc. complete as per specifications /  documents.",
+      "core_product_name": "scada software",
+      "acronymed_core_product_name": "scada software",
+      "size": "",
+      "feature_or_specifications": "feature: 100% spare tags, feature: dongle/key, feature: licenses, feature: media, feature: documentation",
+      "quantity": "1.0",
+      "unit": "Lot"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "4.2.4 | Supply  of Operator Interface Console Computer (OIC)/EWS  with 22\" colour LED monitor , standard keyboard etc. complete as per specifications and tender drawing: -CAROUSAL -EWS/OWS -GMS -WEIGH BRIDGE -CYLINDER INVENTORY",
+      "core_product_name": "operator interface console computer",
+      "acronymed_core_product_name": "oic",
+      "size": "monitor size: 22 inch",
+      "feature_or_specifications": "feature: colour led monitor, feature: standard keyboard, feature: carousal, feature: ews (engineering workstation)/ows (operator workstation), feature: gms (gas monitoring system), feature: weigh bridge, feature: cylinder inventory",
+      "quantity": "5.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "4.2.5 | Supply of computer with 22\" LED colour monitor, standard keyboard for SAP terminal for generating  printing invoice, complete as per specifications.",
+      "core_product_name": "computer",
+      "acronymed_core_product_name": "",
+      "size": "monitor size: 22 inch",
+      "feature_or_specifications": "feature: led colour monitor, feature: standard keyboard, feature: for sap terminal, feature: for generating printing invoice",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "4.2.6 | Supply of 24 port Redundant Managed L2 Ethernet Switch (10/100/1000 MBPS)  for connecting LED Display etc. complete as per specification.   [Number of Port shall be as per site Requirment with 20% spare ports]",
+      "core_product_name": "ethernet switch",
+      "acronymed_core_product_name": "",
+      "size": "number of ports: 24",
+      "feature_or_specifications": "feature: redundant, feature: managed, feature: l2, feature: 10/100/1000 mbps, feature: for connecting led display, feature: 20% spare ports",
+      "quantity": "4.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "4.2.7 | Supply of color laser printer of approved make (latest model with added feature is also acceptable) complete as per specifications. A- 4 size @ Security Room.",
+      "core_product_name": "color laser printer",
+      "acronymed_core_product_name": "",
+      "size": "paper size: a-4",
+      "feature_or_specifications": "feature: approved make, feature: latest model, feature: added feature acceptable, location: security room",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "4.2.8 | Supply  of color laser printer of approved make (latest model with added feature is also acceptable) complete as per specifications. A- 3 size @ Central Monitoring Hub (CMH.",
+      "core_product_name": "color laser printer",
+      "acronymed_core_product_name": "",
+      "size": "paper size: a-3",
+      "feature_or_specifications": "feature: approved make, feature: latest model, feature: added feature acceptable, location: central monitoring hub (cmh)",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "4.2.9 | Supply of heavy duty high speed dot matrix network printer  with minimum 550 CPS  at 10 CPI for invoice printing in 01 Nos Security room & 01 Nos in CHM Room,  complete as per specifications and tender document.",
+      "core_product_name": "dot matrix network printer",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: heavy duty, feature: high speed, speed: minimum 550 cps (characters per second), pitch: 10 cpi (characters per inch), feature: for invoice printing, location: security room and chm room",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "2010-02-04 00:00:00 | Supply of GSM modem for auto SMS for transmission after each stage of loading process for ESD as per specification.",
+      "core_product_name": "gsm modem",
+      "acronymed_core_product_name": "gsm modem",
+      "size": "",
+      "feature_or_specifications": "feature: auto sms for transmission after each stage of loading process, feature: for esd (emergency shutdown)",
+      "quantity": "2.0",
+      "unit": "Lot"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "2011-02-04 00:00:00 | Supply of 65\" LED monitor of reputated make to be installed at driver rest room for display of safety videos & slogans.",
+      "core_product_name": "led monitor",
+      "acronymed_core_product_name": "",
+      "size": "screen size: 65 inch",
+      "feature_or_specifications": "feature: reputed make, location: driver rest room, feature: for display of safety videos & slogans",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "2012-02-04 00:00:00 | Supply of 55\" LED monitor of reputated make to be installed at admistrative building Lobby area for plant & safety monitoring & instruction shall be in scope. Scope also includes interfacing with OIC, PAGA & TAS server including cable supply,laying and termination as needed.",
+      "core_product_name": "led monitor",
+      "acronymed_core_product_name": "",
+      "size": "screen size: 55 inch",
+      "feature_or_specifications": "feature: reputed make, location: administrative building lobby area, feature: for plant & safety monitoring, feature: interfacing with oic (operator interface console), paga (public address and general alarm), tas (terminal automation software) server, feature: cable supply, laying and termination",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "2013-02-04 00:00:00 | Supply of UPS  Power Distribution Panel for  powering PLC Panel, ESD System Panel, LRCS,   OIC & EWS stations, TFMS System, TTES, Bay Instruments , Tank Farm Instruments , CCTV system ,  local control panels, Fire Detection System,fire alarm panels, Access control system, pnuematic, header line instruments and other TAS equipments where UPS  power are required for smooth un- interrupted operation  as per OEMs recommendation.  Miscellaneous Instrumentation  comprising of suitable MCCBs for Isolation etc to be provided. The panel shall be complete in all respects with necessary indication lamps for powering, necessary control wiring voltmeter, ammeter etc & as per specifications and tender document. Note: Minimum 20% spare power points to be made available for future use.",
+      "core_product_name": "ups power distribution panel",
+      "acronymed_core_product_name": "ups power distribution panel",
+      "size": "",
+      "feature_or_specifications": "feature: for powering plc (programmable logic controller) panel, esd (emergency shutdown) system panel, lrcs, oic (operator interface console) & ews (engineering workstation) stations, tfms (tank farm management system) system, ttes, bay instruments, tank farm instruments, cctv (closed circuit television) system, local control panels, fire detection system, fire alarm panels, access control system, pneumatic, header line instruments, tas (terminal automation software) equipments, feature: for uninterrupted operation, feature: as per oem recommendation, feature: suitable mccbs (molded case circuit breakers) for isolation, feature: indication lamps, feature: control wiring, voltmeter, ammeter, feature: minimum 20% spare power points",
+      "quantity": "1.0",
+      "unit": "Lot"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "2014-02-04 00:00:00 | Supply  of Open desk operator consoles in CMH room: -CAROUSAL -SAP -ACS -EWS/OWS -TFMS -GMS -CCTV Supply  of Open desk operator consoles in Security Room: -WEIGH BRIDGE -CYLINDER INVETORY -CCTV Each console will consists of nessary electrical wirring, 2 Nos. Sockets, 2 Nos. buttons, MCBs as required, LIght, Louvers & FAN number as required.)",
+      "core_product_name": "open desk operator console",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "location: cmh (central monitoring hub) room, feature: carousal, sap (systems, applications, and products), acs (access control system), ews (engineering workstation)/ows (operator workstation), tfms (tank farm management system), gms (gas monitoring system), cctv (closed circuit television), location: security room, feature: weigh bridge, cylinder inventory, cctv, feature: electrical wiring, sockets: 2 nos., buttons: 2 nos., mcbs (miniature circuit breakers) as required, light, louvers, fan number as required",
+      "quantity": "10.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "2015-02-04 00:00:00 | Supply of Computer chairs (Make: Godrej or equivalent) - -03 Nos for Central Monitoring Hub (CMH) -02 Nos for Security Room",
+      "core_product_name": "computer chair",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "manufacturer: godrej or equivalent, quantity for cmh: 3 nos., quantity for security room: 2 nos.",
+      "quantity": "5.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "2016-02-04 00:00:00 | Supply of  Table (Make: Godrej or equivalent) for printer  in security room/ Central Monitoring Hub (CMH) - 1 nos. for security room (main gate) & 1no.in CMH Room.",
+      "core_product_name": "table",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "manufacturer: godrej or equivalent, location: security room (main gate), location: cmh (central monitoring hub) room, for printer",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "SECURITY GATES  & TRUCK PARKING AREA",
+      "full_product_description": "5.1 | Supply  of electrically operated barrier gates(boom length to sute the site requirement, approx. 4 mtr.) with  detection mechanism, manual bypass control with EX-proof motor, Exproof Traffic lamp & electronics etc. with configurable closing & opening time  with sensors for detection of vehicle crossing the barrier etc. complete with supporting structure, fittings, cable supports complete as per specification. The gates are required for  Security Entry and exit at licence area. 1 set. for packed truck Entry (4 m), 1 set for packed truck Exit (4 m).",
+      "core_product_name": "electrically operated barrier gate",
+      "acronymed_core_product_name": "",
+      "size": "boom length: approx. 4 m",
+      "feature_or_specifications": "feature: detection mechanism, feature: manual bypass control, feature: ex-proof (explosion proof) motor, feature: exproof traffic lamp, feature: electronics, feature: configurable closing & opening time, feature: sensors for detection of vehicle crossing, feature: supporting structure, fittings, cable supports, location: security entry and exit at licence area, packed truck entry and exit",
+      "quantity": "2.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "SECURITY GATES  & TRUCK PARKING AREA",
+      "full_product_description": "5.2 | Supply  of electrically operated barrier gates(boom length to sute the site requirement, approx. 7 mtr.) with  detection mechanism, manual bypass control with EX-proof motor, Exproof Traffic lamp & electronics etc. with configurable closing & opening time  with sensors for detection of vehicle crossing the barrier etc. complete with supporting structure, fittings, cable supports complete as per specification. The gates are required for  Security Entry and exit at licence area. 1 no. at bulk truck Entry/EXIT (7 m).",
+      "core_product_name": "electrically operated barrier gate",
+      "acronymed_core_product_name": "",
+      "size": "boom length: approx. 7 m",
+      "feature_or_specifications": "feature: detection mechanism, feature: manual bypass control, feature: ex-proof (explosion proof) motor, feature: exproof traffic lamp, feature: electronics, feature: configurable closing & opening time, feature: sensors for detection of vehicle crossing, feature: supporting structure, fittings, cable supports, location: security entry and exit at licence area, bulk truck entry/exit",
+      "quantity": "1.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.1 | Supply of Biometric fingerprint cum contactless type smart card reader (entry side, inside Central Monitoring Hub (CMH))   along with ectromagnetic door lock 600 lb, panic bar for fire exit doors, door position magnetic contact with buzzer as per specifications. One more magnetic latch along with push button  shall be provided for emergency exit door, Main security room.",
+      "core_product_name": "biometric fingerprint cum contactless type smart card reader",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "location: entry side, inside central monitoring hub (cmh), feature: electromagnetic door lock 600 lb, feature: panic bar for fire exit doors, feature: door position magnetic contact with buzzer, feature: magnetic latch with push button for emergency exit door, main security room",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.2 | Supply of Biometric fingerprint cum contactless type smart card reader (Outdoor) along with accessories including controller, software and programming kit as per specification. (Entry & Exit both side)",
+      "core_product_name": "biometric fingerprint cum contactless type smart card reader",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "location: outdoor, feature: accessories including controller, software, programming kit, entry & exit both side",
+      "quantity": "3.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.3 | Supply of Access Control System Software for setup, configuration, operation, events, history and archiving, alarm monitoring, recording, printing, time and attendance etc. complete as per specification and tender specifications including ESD input from PLC.",
+      "core_product_name": "access control system software",
+      "acronymed_core_product_name": "acs software",
+      "size": "",
+      "feature_or_specifications": "feature: setup, configuration, operation, events, history, archiving, alarm monitoring, recording, printing, time and attendance, feature: esd (emergency shutdown) input from plc (programmable logic controller)",
+      "quantity": "1.0",
+      "unit": "LS"
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.4 | Supply of Visitor Management Software complete as per specificationand tender specifications.",
+      "core_product_name": "visitor management software",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.5 | Supply of ACS server computer with 22\"color led monitor , standard keyboard, video camera loaded with ACS software for CMH room etc. complete as per specifications.",
+      "core_product_name": "acs server computer",
+      "acronymed_core_product_name": "acs server computer",
+      "size": "monitor size: 22 inch",
+      "feature_or_specifications": "feature: color led monitor, feature: standard keyboard, feature: video camera, feature: loaded with acs (access control system) software, location: cmh (central monitoring hub) room",
+      "quantity": "1.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.6 | Supply of Client Computer of ACS / Visitor Management with 22\"color led monitor, standardkeyboard, OS, Antivirus, video camera etc including installation of ACS software for ID badging & issuing of Visitor pass at security Room  etc. complete as per specifications.",
+      "core_product_name": "client computer",
+      "acronymed_core_product_name": "",
+      "size": "monitor size: 22 inch",
+      "feature_or_specifications": "feature: for acs (access control system) / visitor management, feature: color led monitor, feature: standard keyboard, feature: os (operating system), feature: antivirus, feature: video camera, feature: installation of acs software for id badging & issuing of visitor pass, location: security room",
+      "quantity": "1.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.7 | Supply of the multizone door frame metallic detector as per specification.",
+      "core_product_name": "multizone door frame metallic detector",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.8 | Supply of smart cards for Biometric fingerprint cum contactless type smart card reader as per the specification and tender document.",
+      "core_product_name": "smart card",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "for biometric fingerprint cum contactless type smart card reader",
+      "quantity": "50.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "ACCESS CONTROL  SYSTEM:",
+      "full_product_description": "6.9 | Supply of half height turnstile (tripod) as per specification.",
+      "core_product_name": "half height turnstile",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: tripod",
+      "quantity": "3.0",
+      "unit": "Nos."
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      0,
+      29
+    ],
+    "original_rows": [
+      {
+        "0": "4.2.2",
+        "1": "Supply of Terminal Automation Software for Operator Stations with dongle/key, licenses, media, documentation etc., complete as per specifications /  documents. TAS is the front end for all sub systems, hence below subsystems shall be interfaced with TAS for Monitoring, Logging, Reporting and Controls-Interlocks etc. System Interfaces: (Based on functional requirement for interfacing of the available sub systems at the Locations).System stated below with TAS & its commissioning with TAS for Alarms,archiving & events logging - SAP for TAS (TT & packed truck loading & unloading & sub systems covered in the work) - MCC, VFD, DG Sets, UPS  etc. Interface - PLC  & ESD ROV etc. - TFMS Interface including SAP - SAP-TFMS Interface - PAGA Interface - FAS Interface, - Fire Fighting System, - CCTV systems - DV Operational Panel - GMS Repeater Panel",
+        "2": "Lot",
+        "3": 1.0
+      },
+      {
+        "0": "4.2.3",
+        "1": "Supply  of SCADA Software with 100%  spare tags alongwith dongle/key, licenses, media, documentation etc. complete as per specifications /  documents.",
+        "2": "Lot",
+        "3": 1.0
+      },
+      {
+        "0": "4.2.4",
+        "1": "Supply  of Operator Interface Console Computer (OIC)/EWS  with 22\" colour LED monitor , standard keyboard etc. complete as per specifications and tender drawing: -CAROUSAL -EWS/OWS -GMS -WEIGH BRIDGE -CYLINDER INVENTORY",
+        "2": "Nos.",
+        "3": 5.0
+      },
+      {
+        "0": "4.2.5",
+        "1": "Supply of computer with 22\" LED colour monitor, standard keyboard for SAP terminal for generating  printing invoice, complete as per specifications.",
+        "2": "Nos.",
+        "3": 1.0
+      },
+      {
+        "0": "4.2.6",
+        "1": "Supply of 24 port Redundant Managed L2 Ethernet Switch (10/100/1000 MBPS)  for connecting LED Display etc. complete as per specification.   [Number of Port shall be as per site Requirment with 20% spare ports]",
+        "2": "Set",
+        "3": 4.0
+      },
+      {
+        "0": "4.2.7",
+        "1": "Supply of color laser printer of approved make (latest model with added feature is also acceptable) complete as per specifications. A- 4 size @ Security Room.",
+        "2": "Nos.",
+        "3": 1.0
+      },
+      {
+        "0": "4.2.8",
+        "1": "Supply  of color laser printer of approved make (latest model with added feature is also acceptable) complete as per specifications. A- 3 size @ Central Monitoring Hub (CMH.",
+        "2": "Nos.",
+        "3": 1.0
+      },
+      {
+        "0": "4.2.9",
+        "1": "Supply of heavy duty high speed dot matrix network printer  with minimum 550 CPS  at 10 CPI for invoice printing in 01 Nos Security room & 01 Nos in CHM Room,  complete as per specifications and tender document.",
+        "2": "Nos.",
+        "3": 2.0
+      },
+      {
+        "0": "2010-02-04 00:00:00",
+        "1": "Supply of GSM modem for auto SMS for transmission after each stage of loading process for ESD as per specification.",
+        "2": "Lot",
+        "3": 2.0
+      },
+      {
+        "0": "2011-02-04 00:00:00",
+        "1": "Supply of 65\" LED monitor of reputated make to be installed at driver rest room for display of safety videos & slogans.",
+        "2": "Nos.",
+        "3": 1.0
+      },
+      {
+        "0": "2012-02-04 00:00:00",
+        "1": "Supply of 55\" LED monitor of reputated make to be installed at admistrative building Lobby area for plant & safety monitoring & instruction shall be in scope. Scope also includes interfacing with OIC, PAGA & TAS server including cable supply,laying and termination as needed.",
+        "2": "Nos.",
+        "3": 1.0
+      },
+      {
+        "0": "2013-02-04 00:00:00",
+        "1": "Supply of UPS  Power Distribution Panel for  powering PLC Panel, ESD System Panel, LRCS,   OIC & EWS stations, TFMS System, TTES, Bay Instruments , Tank Farm Instruments , CCTV system ,  local control panels, Fire Detection System,fire alarm panels, Access control system, pnuematic, header line instruments and other TAS equipments where UPS  power are required for smooth un- interrupted operation  as per OEMs recommendation.  Miscellaneous Instrumentation  comprising of suitable MCCBs for Isolation etc to be provided. The panel shall be complete in all respects with necessary indication lamps for powering, necessary control wiring voltmeter, ammeter etc & as per specifications and tender document. Note: Minimum 20% spare power points to be made available for future use.",
+        "2": "Lot",
+        "3": 1.0
+      },
+      {
+        "0": "2014-02-04 00:00:00",
+        "1": "Supply  of Open desk operator consoles in CMH room: -CAROUSAL -SAP -ACS -EWS/OWS -TFMS -GMS -CCTV Supply  of Open desk operator consoles in Security Room: -WEIGH BRIDGE -CYLINDER INVETORY -CCTV Each console will consists of nessary electrical wirring, 2 Nos. Sockets, 2 Nos. buttons, MCBs as required, LIght, Louvers & FAN number as required.)",
+        "2": "Nos.",
+        "3": 10.0
+      },
+      {
+        "0": "2015-02-04 00:00:00",
+        "1": "Supply of Computer chairs (Make: Godrej or equivalent) - -03 Nos for Central Monitoring Hub (CMH) -02 Nos for Security Room",
+        "2": "Nos.",
+        "3": 5.0
+      },
+      {
+        "0": "2016-02-04 00:00:00",
+        "1": "Supply of  Table (Make: Godrej or equivalent) for printer  in security room/ Central Monitoring Hub (CMH) - 1 nos. for security room (main gate) & 1no.in CMH Room.",
+        "2": "Nos.",
+        "3": 2.0
+      },
+      {
+        "0": "5",
+        "1": "SECURITY GATES  & TRUCK PARKING AREA",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "5.1",
+        "1": "Supply  of electrically operated barrier gates(boom length to sute the site requirement, approx. 4 mtr.) with  detection mechanism, manual bypass control with EX-proof motor, Exproof Traffic lamp & electronics etc. with configurable closing & opening time  with sensors for detection of vehicle crossing the barrier etc. complete with supporting structure, fittings, cable supports complete as per specification. The gates are required for  Security Entry and exit at licence area. 1 set. for packed truck Entry (4 m), 1 set for packed truck Exit (4 m).",
+        "2": "Set",
+        "3": 2.0
+      },
+      {
+        "0": "5.2",
+        "1": "Supply  of electrically operated barrier gates(boom length to sute the site requirement, approx. 7 mtr.) with  detection mechanism, manual bypass control with EX-proof motor, Exproof Traffic lamp & electronics etc. with configurable closing & opening time  with sensors for detection of vehicle crossing the barrier etc. complete with supporting structure, fittings, cable supports complete as per specification. The gates are required for  Security Entry and exit at licence area. 1 no. at bulk truck Entry/EXIT (7 m).",
+        "2": "Set",
+        "3": 1.0
+      },
+      {
+        "0": "6",
+        "1": "ACCESS CONTROL  SYSTEM:",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "6.1",
+        "1": "Supply of Biometric fingerprint cum contactless type smart card reader (entry side, inside Central Monitoring Hub (CMH))   along with ectromagnetic door lock 600 lb, panic bar for fire exit doors, door position magnetic contact with buzzer as per specifications. One more magnetic latch along with push button  shall be provided for emergency exit door, Main security room.",
+        "2": "Nos.",
+        "3": 1.0
+      },
+      {
+        "0": "6.2",
+        "1": "Supply of Biometric fingerprint cum contactless type smart card reader (Outdoor) along with accessories including controller, software and programming kit as per specification. (Entry & Exit both side)",
+        "2": "Nos.",
+        "3": 3.0
+      },
+      {
+        "0": "6.3",
+        "1": "Supply of Access Control System Software for setup, configuration, operation, events, history and archiving, alarm monitoring, recording, printing, time and attendance etc. complete as per specification and tender specifications including ESD input from PLC.",
+        "2": "LS",
+        "3": 1.0
+      },
+      {
+        "0": "6.4",
+        "1": "Supply of Visitor Management Software complete as per specificationand tender specifications.",
+        "2": "Set",
+        "3": 1.0
+      },
+      {
+        "0": "6.5",
+        "1": "Supply of ACS server computer with 22\"color led monitor , standard keyboard, video camera loaded with ACS software for CMH room etc. complete as per specifications.",
+        "2": "Set",
+        "3": 1.0
+      },
+      {
+        "0": "6.6",
+        "1": "Supply of Client Computer of ACS / Visitor Management with 22\"color led monitor, standardkeyboard, OS, Antivirus, video camera etc including installation of ACS software for ID badging & issuing of Visitor pass at security Room  etc. complete as per specifications.",
+        "2": "Set",
+        "3": 1.0
+      },
+      {
+        "0": "6.7",
+        "1": "Supply of the multizone door frame metallic detector as per specification.",
+        "2": "Nos.",
+        "3": 2.0
+      },
+      {
+        "0": "6.8",
+        "1": "Supply of smart cards for Biometric fingerprint cum contactless type smart card reader as per the specification and tender document.",
+        "2": "Nos.",
+        "3": 50.0
+      },
+      {
+        "0": "6.9",
+        "1": "Supply of half height turnstile (tripod) as per specification.",
+        "2": "Nos.",
+        "3": 3.0
+      },
+      {
+        "0": "6.1",
+        "1": "Supply of SS 304 guiding rail as per specification.",
+        "2": "RM",
+        "3": 30.0
+      },
+      {
+        "0": "7",
+        "1": "WEIGHING BRIDGE SYSTEM",
+        "2": NaN,
+        "3": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 3797,
+    "completion_tokens": 5630
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "query": "core_product_name: armoured aluminium conductor cable | size: voltage grade: 11 kV(UE), cores: 3C, conductor size: 240 sqmm | feature_or_specifications: insulation: xlpe (cross-linked polyethylene), sheath: pvc (polyvinyl chloride), type: armoured, conductor material: aluminium, standard: is 1554 (part-i), is 7098 part i, is 1225-latest version, feature: sealed properly with pvc caps",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "Size & Capacity"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable | size_or_capacity: 11KV (11 kiloVolt) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "11KV CABLE XLPE",
+        "list_of_product_ids": [
+          "23938",
+          "24087",
+          "21515",
+          "27081"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "acronymed_core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable | acronymed_core_product_name: ht (high tension) cable | size_or_capacity: up to 11kV | type_or_class: HT (High Tension) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "HT (up to 11kV) cable XLPE",
+        "list_of_product_ids": [
+          "13659",
+          "14787",
+          "14826",
+          "15794",
+          "16794",
+          "20058",
+          "20143",
+          "24054",
+          "23905"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "XLPE CABLE",
+        "list_of_product_ids": [
+          "23937",
+          "24086",
+          "21510",
+          "27082"
+        ]
+      }
+    }
+  ]
+}

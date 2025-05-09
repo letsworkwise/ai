@@ -1,0 +1,50 @@
+{
+  "query": "core_product_name: digital meggar | feature_or_specifications: make: FLUKE or YAKOGAWA",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: megger (megohmmeter) instrument",
+        "raw_product_name": "MEGGER INSTRUMENT",
+        "list_of_product_ids": [
+          "166",
+          "191",
+          "659",
+          "627",
+          "346"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: digital indicator",
+        "raw_product_name": "DIGITAL INDICATOR",
+        "list_of_product_ids": [
+          "1",
+          "365",
+          "123",
+          "180"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: digital storage oscilloscope",
+        "raw_product_name": "DIGITAL STORAGE OSCILLOSCOPE",
+        "list_of_product_ids": [
+          "1",
+          "543",
+          "418",
+          "782"
+        ]
+      }
+    }
+  ]
+}

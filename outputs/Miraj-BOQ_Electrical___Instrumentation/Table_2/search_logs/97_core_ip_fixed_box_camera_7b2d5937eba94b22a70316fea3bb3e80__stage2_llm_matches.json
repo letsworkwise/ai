@@ -1,0 +1,48 @@
+{
+  "query": "core_product_name: ip fixed box camera | size: lens: 8MP, sensor: 1/2.5'' or better, varifocal lens: 2.8 to 8.5mm, resolution: 4k, sd card: 32GB | feature_or_specifications: listing: UL (underwriters laboratories), sensor: progressive scan CMOS, WDR, streaming: multi streaming, compression: H.264, power: PoE, DC12V/AC24V, rating: IP67, protocol: ONVIF, accessories: pole mount accessories",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: string monitoring box",
+        "raw_product_name": "STRING MONITORING BOX",
+        "list_of_product_ids": [
+          "22531",
+          "22583",
+          "22847",
+          "22835"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: equipment",
+        "raw_product_name": "CONTROL ROOM EQUIPMENT",
+        "list_of_product_ids": [
+          "14034",
+          "14815",
+          "17256",
+          "21098"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": [
+          "211",
+          "642",
+          "116",
+          "227",
+          "423"
+        ]
+      }
+    }
+  ]
+}

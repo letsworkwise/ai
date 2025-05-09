@@ -1,0 +1,69 @@
+{
+  "query": "core_product_name: gi(galvanized iron) strip | size: strip size: 75 x 6 mm",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flat | acronymed_core_product_name: g. i. flat (galvanized iron flat) | material: Galvanized Iron",
+        "raw_product_name": "GALVANIZED IRON FLAT (G. I. FLAT)",
+        "list_of_product_ids": [
+          "17147",
+          "17136",
+          "17122",
+          "17130",
+          "17127",
+          "17157",
+          "17158",
+          "27365",
+          "28915",
+          "35812"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: perforated cable tray | acronymed_core_product_name: gi (galvanized iron) cable tray | material: GI (Galvanized Iron) | accessories_or_attachments: Accessories | type_or_class: Perforated",
+        "raw_product_name": "GI CABLE TRAYS AND ACCESSORIES (PERFORATED TYPE)",
+        "list_of_product_ids": [
+          "7301",
+          "7349",
+          "7899",
+          "17491",
+          "26434"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: ladder cable tray | acronymed_core_product_name: gi (galvanized iron) cable trays | material: GI (Galvanized Iron) | accessories_or_attachments: Accessories | type_or_class: Ladder",
+        "raw_product_name": "GI CABLE TRAYS AND ACCESSORIES (LADDER TYPE)",
+        "list_of_product_ids": [
+          "7300",
+          "7348",
+          "7898",
+          "16218",
+          "16242",
+          "16233",
+          "16262",
+          "16774",
+          "16809",
+          "16865",
+          "17490",
+          "20192",
+          "16861"
+        ]
+      }
+    }
+  ]
+}

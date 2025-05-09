@@ -1,0 +1,98 @@
+{
+  "sheet_name": "General Civil",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)",
+      "full_product_description": "Supplying and laying in position PVC pipes conforming to IS:4985 Class - I for cable crossings, including cutting the pipe if necessary, lowering, laying in position to proper levels, slopes ,providing proper jointing as per code requirements or manufacturers recommendations, sealing the open ends of pipes with  removable type PVC cap (Sealing cap will be paid separately under relevant items)etc. all complete as per drawings, specifications and directions of Engineer-in-Charge. For following NOMINAL OUTSIDE PIPE DIA (MM) Pipe Class   PVC   Nominal outside pipe dia.   160 mm (ITEM NO: 01GC.9.2.1V2)",
+      "core_product_name": "pvc pipe",
+      "acronymed_core_product_name": "",
+      "size": "nominal outside pipe diameter: 160 mm",
+      "feature_or_specifications": "material: pvc, conforms to IS:4985, class: I, for cable crossings, includes cutting, lowering, laying, providing proper jointing as per code/manufacturer, sealing open ends with removable type pvc cap (cap paid separately), as per drawings/specifications/directions",
+      "quantity": "60.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)",
+      "full_product_description": "Supplying and fixing in the encasement concrete, cable crossing indicator, made out of 6mm thick MS circular of dia. 150mm welded to 16mm dia. MS Rod of approximately 1.0M length, painted with 2 coats of approved enamel paint over a coat of red oxide primer etc. complete. (All materials in contractor's scope of supply). (ITEM NO: 01GC.9.3)",
+      "core_product_name": "cable crossing indicator",
+      "acronymed_core_product_name": "",
+      "size": "circular diameter: 150 mm, rod diameter: 16 mm, rod length: 1.0 m, thickness: 6 mm",
+      "feature_or_specifications": "material: ms(mild steel), finish: 2 coats approved enamel paint over red oxide primer, all materials in contractor's scope of supply",
+      "quantity": "1.0",
+      "unit": "each"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      10,
+      14
+    ],
+    "original_rows": [
+      {
+        "0": 659,
+        "1": 0,
+        "2": "01GC.9.2",
+        "3": "Supplying and laying in position PVC pipes conforming to IS:4985 Class - I for cable crossings, including cutting the pipe if necessary, lowering, laying in position to proper levels, slopes ,providing proper jointing as per code requirements or manufacturers recommendations, sealing the open ends of pipes with  removable type PVC cap (Sealing cap will be paid separately under relevant items)etc. all complete as per drawings, specifications and directions of Engineer-in-Charge. For following NOMINAL OUTSIDE PIPE DIA (MM)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 660,
+        "1": 0,
+        "2": "01GC.9.2.1V2",
+        "3": "Pipe Class   PVC   Nominal outside pipe dia.   160 mm",
+        "4": 60.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 661,
+        "1": 0,
+        "2": "01GC.9.3",
+        "3": "Supplying and fixing in the encasement concrete, cable crossing indicator, made out of 6mm thick MS circular of dia. 150mm welded to 16mm dia. MS Rod of approximately 1.0M length, painted with 2 coats of approved enamel paint over a coat of red oxide primer etc. complete. (All materials in contractor's scope of supply).",
+        "4": 1.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 662,
+        "1": 0,
+        "2": "01GC.9.6",
+        "3": "Supplying and Providing removable type PVC Cap at the open end of pipe all complete etc. as per drawings, standards, specifications and directions of Engineer-in-charge for following nominal outside pipe dia. (mm)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 663,
+        "1": 0,
+        "2": "01GC.9.6.1V1",
+        "3": "Outer dia. of pipe   160 mm",
+        "4": 4.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2660,
+    "completion_tokens": 806
+  }
+}

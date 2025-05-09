@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: pvc(polyvinyl chloride) pipes | size: diameter: 200 mm | feature_or_specifications: duty: medium",
+  "retrieval_results": [
+    {
+      "id": "variant-4768fdd4-2359-5702-b815-a2e57c32cc3d",
+      "score": 0.8855942,
+      "metadata": {
+        "text": "core_product_name: pvc (polyvinyl chloride) pipe",
+        "raw_product_name": "PVC Pipe",
+        "list_of_product_ids": "14387,14545,16303,16718,16711,18505,22900,27371,35734,35735",
+        "core_id": 1824.0
+      }
+    },
+    {
+      "id": "variant-f8a1ee85-e2d7-59eb-a075-771e231186d7",
+      "score": 0.8843897,
+      "metadata": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC Conduit",
+        "list_of_product_ids": "16287,17401,21575,16288",
+        "core_id": 442.0
+      }
+    },
+    {
+      "id": "variant-0c89508d-0dbf-50ac-b11c-f1fdbb37cb9f",
+      "score": 0.8788613,
+      "metadata": {
+        "text": "core_product_name: tube | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC TUBE",
+        "list_of_product_ids": "223,352,233,327,804",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-fe38cd61-738a-5cc9-a038-d121d7f1974e",
+      "score": 0.876716,
+      "metadata": {
+        "text": "core_product_name: rigid rigid polyvinyl chloride (PVC) conduit pipe | material: Polyvinyl Chloride (PVC)",
+        "raw_product_name": "RIGID PVC CONDUIT PIPE",
+        "list_of_product_ids": "20551,20515,20592,20631,20685,20743",
+        "core_id": 1910.0
+      }
+    },
+    {
+      "id": "variant-76f2380b-e820-5790-96f0-0815dbd8e1a4",
+      "score": 0.8762813,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper | construction_features: PVC (Polyvinyl Chloride) coated",
+        "raw_product_name": "COPPER TUBE (PVC COATED)",
+        "list_of_product_ids": "16380,16442,16464,16437",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-731a2417-b478-5c08-b7a2-e9757c4e5536",
+      "score": 0.87419385,
+      "metadata": {
+        "text": "core_product_name: fitting | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC Pipe Fittings",
+        "list_of_product_ids": "13913,16304,16719,22337,22901",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-7930aac4-4837-5a2d-9160-b0e71f7b6da1",
+      "score": 0.87120014,
+      "metadata": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride) | accessories_or_attachments: accessories",
+        "raw_product_name": "PVC Conduit and accessories",
+        "list_of_product_ids": "7222,7548,10494,10502",
+        "core_id": 442.0
+      }
+    },
+    {
+      "id": "variant-10c606a9-33db-5bb2-a87f-18c04f2a5b5d",
+      "score": 0.86984944,
+      "metadata": {
+        "text": "core_product_name: cpvc (chlorinated polyvinyl chloride) pipe",
+        "raw_product_name": "CPVC Pipe",
+        "list_of_product_ids": "16672,16668,16720,16712,16679,16727,27073,38432,35205",
+        "core_id": 506.0
+      }
+    },
+    {
+      "id": "variant-25064e37-54fa-5ed5-b3a6-fd5535e931b2",
+      "score": 0.8654554,
+      "metadata": {
+        "text": "core_product_name: water stop | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC WATER STOPS",
+        "list_of_product_ids": "18271,18273,18548,37428",
+        "core_id": 1826.0
+      }
+    },
+    {
+      "id": "variant-2c3cc1c4-6df3-5856-b641-bb8663a9e714",
+      "score": 0.86492616,
+      "metadata": {
+        "text": "core_product_name: water tank | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC WATER TANK",
+        "list_of_product_ids": "156,051,589,015,905",
+        "core_id": 1828.0
+      }
+    },
+    {
+      "id": "variant-a67cdf27-c99f-5eb6-9f3a-62a992bb7a83",
+      "score": 0.8647111,
+      "metadata": {
+        "text": "core_product_name: rain water pipe (polyvinyl chloride)",
+        "raw_product_name": "PVC RAIN WATER",
+        "list_of_product_ids": "13445,13497,14536,14544,14546,35723,35724,35725,35731",
+        "core_id": 1825.0
+      }
+    },
+    {
+      "id": "variant-bb001d38-b128-522d-9d87-0b59ec1edf02",
+      "score": 0.8643715,
+      "metadata": {
+        "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+        "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+        "list_of_product_ids": "140,901,478,121,282",
+        "core_id": 313.0
+      }
+    },
+    {
+      "id": "variant-921a72d2-68fb-54d7-821d-995601344d9f",
+      "score": 0.863731,
+      "metadata": {
+        "text": "core_product_name: tape | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC TAPE",
+        "list_of_product_ids": "20688,20548,20512,20595,20589,20746",
+        "core_id": 815.0
+      }
+    },
+    {
+      "id": "variant-c61c3687-035c-50f1-a184-70194e77bd52",
+      "score": 0.86091775,
+      "metadata": {
+        "text": "core_product_name: pvc pipe | accessories_or_attachments: fittings | type_or_class: cable conduit",
+        "raw_product_name": "PVC PIPES AND FITTINGS (CABLE CONDUITS)",
+        "list_of_product_ids": "16289,16286,16284,16283,16291,27072,34651,35164",
+        "core_id": 1823.0
+      }
+    },
+    {
+      "id": "variant-6732f056-36dc-5925-8124-8d41e0b618e8",
+      "score": 0.8585665,
+      "metadata": {
+        "text": "core_product_name: ball valve | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "VALVE BALL (PVC)",
+        "list_of_product_ids": "20196,20290,20267,20318,20339,20360,35455",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-a4fc46d1-dd28-5aaf-b76e-a54ecabd041e",
+      "score": 0.85754347,
+      "metadata": {
+        "text": "core_product_name: handrail | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC HANDRAIL",
+        "list_of_product_ids": "20552,20516,20593,20630,20684,20742,37427",
+        "core_id": 1822.0
+      }
+    },
+    {
+      "id": "variant-7a47b8db-ee25-518f-9ee3-4b13bf063bda",
+      "score": 0.85718703,
+      "metadata": {
+        "text": "core_product_name: large-diameter pipe",
+        "raw_product_name": "Large-diameter pipe",
+        "list_of_product_ids": "758,772,628,028",
+        "core_id": 1410.0
+      }
+    },
+    {
+      "id": "variant-94afc0d1-e0c4-562d-b6d3-a66d8aa3ea57",
+      "score": 0.8570093,
+      "metadata": {
+        "text": "core_product_name: conduit pipe",
+        "raw_product_name": "CONDUIT PIPE",
+        "list_of_product_ids": "222,962,229,728,617",
+        "core_id": 440.0
+      }
+    },
+    {
+      "id": "variant-c1595de7-9673-5e8f-846d-3386450520fc",
+      "score": 0.85613817,
+      "metadata": {
+        "text": "core_product_name: power cable | size_or_capacity: medium voltage | material: PVC (Polyvinyl Chloride) or XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES-MEDIUM VOLTAGE-POWER-PVC/XLPE",
+        "list_of_product_ids": "8987,9004,10662,9469,9472,9476,9356,9366,9382,9393,9454,9191,9197,9193,9199,9203,9206,9209,9295,9359,9369,9373,15970,19317,19309,19311,17781,19314,16908,24041,23892,26973,27004,27003,19310,38593,38753,38647,36581,38619,38702,38779,38727,38870,38838,38912,38938,38674,38975,39002,39030,39066,39098,39128,39176,39215,39257,39299,39335,39371,39400,39430,39481,39536,39563,39601,39625,39653,39687,39727,39797,39825,39896",
+        "core_id": 3.0
+      }
+    },
+    {
+      "id": "variant-95b90083-1f6a-5896-9644-118865f8e8ca",
+      "score": 0.8549634,
+      "metadata": {
+        "text": "core_product_name: cpvc (chlorinated polyvinyl chloride) pipe | acronymed_core_product_name: cpvc pipe | material: CPVC (Chlorinated Polyvinyl Chloride)",
+        "raw_product_name": "CPVC PIPES & FITTINGS",
+        "list_of_product_ids": "16721,16638,16636,16713,16680,16728,27992,38433,35206",
+        "core_id": 506.0
+      }
+    },
+    {
+      "id": "variant-cd2ce7ac-ec78-5067-9682-9b78a83ccfbb",
+      "score": 0.85454327,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | acronymed_core_product_name: upvc (unplasticized polyvinyl chloride) pipe fitting | material: UPVC (Unplasticized Polyvinyl Chloride)",
+        "raw_product_name": "UPVC PIPE FITTING",
+        "list_of_product_ids": "15515,15516,15934,27366",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-4dd90f9e-4a1a-51a9-85b8-5801fa7498c6",
+      "score": 0.85334796,
+      "metadata": {
+        "text": "core_product_name: control cable | size_or_capacity: 1100 Volts | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "1100 VOLTS GRADE PVC CONTROL CABLES",
+        "list_of_product_ids": "23936,24085,21514,28591",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.85333514,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    },
+    {
+      "id": "variant-2d86eccf-fb2d-58f7-b0ec-42bc6ba1a1dd",
+      "score": 0.8532541,
+      "metadata": {
+        "text": "core_product_name: drift eliminator | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "DRIFT ELIMINATOR-PVC",
+        "list_of_product_ids": "233,692,337,023,372",
+        "core_id": 627.0
+      }
+    },
+    {
+      "id": "variant-1570567c-1ac6-5c6a-a11a-20c3425371b1",
+      "score": 0.8525256,
+      "metadata": {
+        "text": "core_product_name: tile | material: PVC (Polyvinyl Chloride) | type_or_class: tile or roll",
+        "raw_product_name": "FLOOR FINISHING - PVC TILES/ROLLS",
+        "list_of_product_ids": "6334,5505,11356,16744",
+        "core_id": 2.0
+      }
+    },
+    {
+      "id": "variant-8b17e0b9-66f6-5d0e-86c3-90233954cdce",
+      "score": 0.8522707,
+      "metadata": {
+        "text": "core_product_name: pipe fitting",
+        "raw_product_name": "PIPE FITTINGS",
+        "list_of_product_ids": "22332,22331,22330,23352,23353,24583,36871,30825,36882,37027,28815,37304,36590,33279,33280,33281,37015,37157,36862,35736,35737,35738,35739,35740,35741,35742,36885,36524",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-ee98ad6b-79c8-5d80-8b94-93abaa4ba33d",
+      "score": 0.8518787,
+      "metadata": {
+        "text": "core_product_name: cladded pipe",
+        "raw_product_name": "CLADDED PIPE",
+        "list_of_product_ids": "6295,5466,11562,7764,7783,7799,13030,13031",
+        "core_id": 359.0
+      }
+    },
+    {
+      "id": "variant-03e402f0-7744-5547-9fec-27b77a0dca46",
+      "score": 0.8507561,
+      "metadata": {
+        "text": "core_product_name: upvc (unplasticized polyvinyl chloride) pipe | acronymed_core_product_name: upvc pipe | material: UPVC (Unplasticized Polyvinyl Chloride)",
+        "raw_product_name": "UPVC Pipe",
+        "list_of_product_ids": "7537,7211,7752,7753,16305",
+        "core_id": 2326.0
+      }
+    },
+    {
+      "id": "variant-658c36eb-5400-5ea4-9ce8-e1dc6088296f",
+      "score": 0.8502901,
+      "metadata": {
+        "text": "core_product_name: shutdown valve | material: CPVC (Chlorinated Polyvinyl Chloride)",
+        "raw_product_name": "VALVES SHUTDOWN (CPVC)",
+        "list_of_product_ids": "20198,20291,20268,20319,20338,20361",
+        "core_id": 2381.0
+      }
+    },
+    {
+      "id": "variant-74503a1f-fa22-5c08-ac97-9f8dba31f1f4",
+      "score": 0.8498709,
+      "metadata": {
+        "text": "core_product_name: conduit fitting",
+        "raw_product_name": "FITTINGS (CONDUIT)",
+        "list_of_product_ids": "165,391,654,021,574",
+        "core_id": 870.0
+      }
+    }
+  ]
+}

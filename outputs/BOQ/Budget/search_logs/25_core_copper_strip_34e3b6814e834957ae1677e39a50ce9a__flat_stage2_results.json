@@ -1,0 +1,442 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.87191945,
+      "text": "core_product_name: electrical strip",
+      "core_id": 714.0,
+      "raw_product_name": "ELECTRICAL STRIPS",
+      "list_of_product_ids": [
+        "211",
+        "512",
+        "115",
+        "528",
+        "461"
+      ]
+    },
+    {
+      "retrieval_score": 0.86938,
+      "text": "core_product_name: seal | material: Copper",
+      "core_id": 487.0,
+      "raw_product_name": "COPPER SEAL",
+      "list_of_product_ids": [
+        "214",
+        "332",
+        "143",
+        "227",
+        "055"
+      ]
+    },
+    {
+      "retrieval_score": 0.8674229,
+      "text": "core_product_name: solid conductor | material: Copper",
+      "core_id": 2063.0,
+      "raw_product_name": "SOLID COPPER CONDUCTOR",
+      "list_of_product_ids": [
+        "180",
+        "781",
+        "807",
+        "918",
+        "591"
+      ]
+    },
+    {
+      "retrieval_score": 0.8652667,
+      "text": "core_product_name: electric wire | material: Copper",
+      "core_id": 688.0,
+      "raw_product_name": "ELECTRIC COPPER WIRE",
+      "list_of_product_ids": [
+        "211",
+        "542",
+        "115",
+        "028",
+        "492"
+      ]
+    },
+    {
+      "retrieval_score": 0.8648484,
+      "text": "core_product_name: flexible wire | material: Copper",
+      "core_id": 912.0,
+      "raw_product_name": "FLEXIBLE COPPER WIRES",
+      "list_of_product_ids": [
+        "136",
+        "081",
+        "478",
+        "520",
+        "094"
+      ]
+    },
+    {
+      "retrieval_score": 0.8647644,
+      "text": "core_product_name: terminal strip",
+      "core_id": 2231.0,
+      "raw_product_name": "TERMINAL STRIPS",
+      "list_of_product_ids": [
+        "1",
+        "400",
+        "220",
+        "181"
+      ]
+    },
+    {
+      "retrieval_score": 0.8638547,
+      "text": "core_product_name: cable | material: Copper",
+      "core_id": 1.0,
+      "raw_product_name": "CABLE -COPPER",
+      "list_of_product_ids": [
+        "32910",
+        "32911",
+        "33009",
+        "33041",
+        "33195",
+        "33260",
+        "33562",
+        "33633",
+        "35922"
+      ]
+    },
+    {
+      "retrieval_score": 0.86338913,
+      "text": "core_product_name: tube | material: Copper and Alloys",
+      "core_id": 88.0,
+      "raw_product_name": "TUBE COPPER AND ALLOYS",
+      "list_of_product_ids": [
+        "6308",
+        "5479",
+        "8815",
+        "8816",
+        "31806"
+      ]
+    },
+    {
+      "retrieval_score": 0.86319786,
+      "text": "core_product_name: copper pipe",
+      "core_id": 486.0,
+      "raw_product_name": "COPPER PIPE",
+      "list_of_product_ids": [
+        "757",
+        "172",
+        "467",
+        "754"
+      ]
+    },
+    {
+      "retrieval_score": 0.85746205,
+      "text": "core_product_name: tube | material: Copper | construction_features: Coated | construction_features: Bare",
+      "core_id": 88.0,
+      "raw_product_name": "COPPER TUBES(COATED,BARE)",
+      "list_of_product_ids": [
+        "6",
+        "487",
+        "565",
+        "818",
+        "967"
+      ]
+    },
+    {
+      "retrieval_score": 0.8573605,
+      "text": "core_product_name: strip heater",
+      "core_id": 2131.0,
+      "raw_product_name": "STRIP HEATER",
+      "list_of_product_ids": [
+        "1",
+        "552",
+        "014",
+        "072"
+      ]
+    },
+    {
+      "retrieval_score": 0.8532532,
+      "text": "core_product_name: pipe fitting | material: Cu-Ni (Copper-Nickel)",
+      "core_id": 182.0,
+      "raw_product_name": "PIPE FITTINGS (Cu-Ni)",
+      "list_of_product_ids": [
+        "17041",
+        "17050",
+        "17161",
+        "33716",
+        "34064",
+        "34114"
+      ]
+    },
+    {
+      "retrieval_score": 0.85015273,
+      "text": "core_product_name: tube | material: Copper | construction_features: PVC (Polyvinyl Chloride) coated",
+      "core_id": 88.0,
+      "raw_product_name": "COPPER TUBE (PVC COATED)",
+      "list_of_product_ids": [
+        "16380",
+        "16442",
+        "16464",
+        "16437"
+      ]
+    },
+    {
+      "retrieval_score": 0.84921336,
+      "text": "core_product_name: rod | material: TUNGUSTEN",
+      "core_id": 2297.0,
+      "raw_product_name": "TUNGUSTEN ROD",
+      "list_of_product_ids": [
+        "32956",
+        "32957",
+        "33017",
+        "33204",
+        "33269",
+        "33571",
+        "33642",
+        "35931"
+      ]
+    },
+    {
+      "retrieval_score": 0.84877706,
+      "text": "core_product_name: tube | material: Alloy Steel",
+      "core_id": 88.0,
+      "raw_product_name": "ALLOY STEEL TUBES",
+      "list_of_product_ids": [
+        "14174",
+        "14880",
+        "29977",
+        "29980",
+        "29975"
+      ]
+    },
+    {
+      "retrieval_score": 0.8473863,
+      "text": "core_product_name: cu-ni (copper-nickel) pipe",
+      "core_id": 1681.0,
+      "raw_product_name": "PIPES (CU-NI)",
+      "list_of_product_ids": [
+        "13933",
+        "16999",
+        "33601",
+        "33715"
+      ]
+    },
+    {
+      "retrieval_score": 0.84736216,
+      "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+      "core_id": 313.0,
+      "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+      "list_of_product_ids": [
+        "140",
+        "901",
+        "478",
+        "121",
+        "282"
+      ]
+    },
+    {
+      "retrieval_score": 0.8470197,
+      "text": "core_product_name: conduit fitting",
+      "core_id": 870.0,
+      "raw_product_name": "FITTINGS (CONDUIT)",
+      "list_of_product_ids": [
+        "165",
+        "391",
+        "654",
+        "021",
+        "574"
+      ]
+    },
+    {
+      "retrieval_score": 0.84649694,
+      "text": "core_product_name: cone meter",
+      "core_id": 548.0,
+      "raw_product_name": "Cone Meter",
+      "list_of_product_ids": [
+        "1",
+        "860",
+        "527",
+        "441"
+      ]
+    },
+    {
+      "retrieval_score": 0.8461877,
+      "text": "core_product_name: condenser bushing",
+      "core_id": 433.0,
+      "raw_product_name": "CONDENSER BUSHING",
+      "list_of_product_ids": [
+        "1",
+        "396",
+        "114",
+        "860"
+      ]
+    },
+    {
+      "retrieval_score": 0.84553653,
+      "text": "core_product_name: conduit accessory",
+      "core_id": 439.0,
+      "raw_product_name": "CONDUIT ACCESSORIES",
+      "list_of_product_ids": [
+        "20550",
+        "20514",
+        "20591",
+        "20632",
+        "20686",
+        "20744"
+      ]
+    },
+    {
+      "retrieval_score": 0.84515905,
+      "text": "core_product_name: chipping",
+      "core_id": 347.0,
+      "raw_product_name": "CHIPPING",
+      "list_of_product_ids": [
+        "239",
+        "692",
+        "397",
+        "328",
+        "692"
+      ]
+    },
+    {
+      "retrieval_score": 0.8443273,
+      "text": "core_product_name: thermocouple wire",
+      "core_id": 2243.0,
+      "raw_product_name": "THERMOCOUPLE WIRE",
+      "list_of_product_ids": [
+        "220",
+        "072",
+        "203",
+        "322",
+        "053"
+      ]
+    },
+    {
+      "retrieval_score": 0.84414655,
+      "text": "core_product_name: rope | material: Polypropylene",
+      "core_id": 1434.0,
+      "raw_product_name": "ROPE(POLYPROPYLENE)",
+      "list_of_product_ids": [
+        "19931",
+        "19928",
+        "19925",
+        "19923",
+        "28352"
+      ]
+    },
+    {
+      "retrieval_score": 0.84384304,
+      "text": "core_product_name: expansion bellow | material: Metallic",
+      "core_id": 1526.0,
+      "raw_product_name": "Mettalic Expansion Bellows",
+      "list_of_product_ids": [
+        "13753",
+        "22100",
+        "23437",
+        "23436",
+        "32732"
+      ]
+    },
+    {
+      "retrieval_score": 0.8435749,
+      "text": "core_product_name: tubing",
+      "core_id": 2099.0,
+      "raw_product_name": "TUBINGS",
+      "list_of_product_ids": [
+        "14396",
+        "14566",
+        "22505",
+        "35747"
+      ]
+    },
+    {
+      "retrieval_score": 0.84353095,
+      "text": "core_product_name: coil | material: Steel",
+      "core_id": 1722.0,
+      "raw_product_name": "STEEL COILS",
+      "list_of_product_ids": [
+        "13492",
+        "13561",
+        "15838",
+        "17835",
+        "18367",
+        "21289",
+        "21286",
+        "22539",
+        "38279",
+        "35273",
+        "38265"
+      ]
+    },
+    {
+      "retrieval_score": 0.8430546,
+      "text": "core_product_name: fitting | material: CP (Chrome Plated) Brass",
+      "core_id": 273.0,
+      "raw_product_name": "CP BRASS FITTINGS",
+      "list_of_product_ids": [
+        "20526",
+        "20570",
+        "20604",
+        "20563",
+        "20674",
+        "20732",
+        "33416"
+      ]
+    },
+    {
+      "retrieval_score": 0.84297216,
+      "text": "core_product_name: wire | material: Stainless Steel",
+      "core_id": 313.0,
+      "raw_product_name": "STAINLESS STEEL WIRES",
+      "list_of_product_ids": [
+        "38751",
+        "38836",
+        "38672",
+        "38591",
+        "38536",
+        "38617",
+        "38538",
+        "38777",
+        "38700",
+        "38725",
+        "38645",
+        "38868",
+        "38910",
+        "38936",
+        "38973",
+        "39000",
+        "38957",
+        "39028",
+        "39096",
+        "39062",
+        "39126",
+        "39174",
+        "39227",
+        "39255",
+        "39297",
+        "39347",
+        "39383",
+        "39412",
+        "39442",
+        "39458",
+        "39493",
+        "39548",
+        "39575",
+        "39613",
+        "39637",
+        "39665",
+        "39699",
+        "39739",
+        "39809",
+        "39837",
+        "39908"
+      ]
+    },
+    {
+      "retrieval_score": 0.8428798,
+      "text": "core_product_name: measuring tape",
+      "core_id": 1452.0,
+      "raw_product_name": "MEASURING TAPE",
+      "list_of_product_ids": [
+        "32949",
+        "32950",
+        "33014",
+        "33201",
+        "33266",
+        "33568",
+        "33639",
+        "35928"
+      ]
+    }
+  ]
+}

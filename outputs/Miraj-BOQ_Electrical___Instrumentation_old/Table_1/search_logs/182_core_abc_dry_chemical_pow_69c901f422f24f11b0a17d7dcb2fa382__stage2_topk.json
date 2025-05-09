@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: abc dry chemical powder fire extinguisher | acronymed_core_product_name: dcp fire extinguisher | size: capacity: 5 kg | feature_or_specifications: included: fixing bracket",
+  "retrieval_results": [
+    {
+      "id": "variant-346ec0c5-f2d4-55ca-ab65-3528ea02f007",
+      "score": 0.886233,
+      "metadata": {
+        "text": "core_product_name: auto extinguishing system | acronymed_core_product_name: dcp extinguishing system | type_or_class: DCP (Dry Chemical Powder)",
+        "raw_product_name": "AUTO DCP EXTINGUISHING SYSTEM",
+        "list_of_product_ids": "6037,5216,8485,24224",
+        "core_id": 140.0
+      }
+    },
+    {
+      "id": "variant-b4826ee7-1568-5ebb-abb9-751c2c223db9",
+      "score": 0.8505025,
+      "metadata": {
+        "text": "core_product_name: fire extinguisher chemical | type_or_class: Compound",
+        "raw_product_name": "FIRE EXTINGUISHER CHEMICALS & COMPOUNDS",
+        "list_of_product_ids": "21879,24388,26859,21880",
+        "core_id": 843.0
+      }
+    },
+    {
+      "id": "variant-456432a9-ab05-55ad-9b92-0bf762831942",
+      "score": 0.8480871,
+      "metadata": {
+        "text": "core_product_name: fire fighting accessory",
+        "raw_product_name": "FIRE FIGHTING ACCESSORIES",
+        "list_of_product_ids": "16168,16173,16277,16274,16273,16272,16271,16266,21064,21057,34088",
+        "core_id": 845.0
+      }
+    },
+    {
+      "id": "variant-6c44a355-32b7-537d-902f-7c52b25ea550",
+      "score": 0.84639627,
+      "metadata": {
+        "text": "core_product_name: portable fire extinguisher",
+        "raw_product_name": "Portable Fire Extinguishers",
+        "list_of_product_ids": "7103,7430,8261,15762,16407,18427,23511,38383,37506",
+        "core_id": 1837.0
+      }
+    },
+    {
+      "id": "variant-8e238322-e844-5ec2-a32f-e40f24845265",
+      "score": 0.8455245,
+      "metadata": {
+        "text": "core_product_name: dry chemical powder",
+        "raw_product_name": "DRY CHEMICAL POWDER",
+        "list_of_product_ids": "16630,16641,16629,16628,16627",
+        "core_id": 630.0
+      }
+    },
+    {
+      "id": "variant-76bf5b08-5efd-500b-96ff-41bc9f28d50f",
+      "score": 0.84523696,
+      "metadata": {
+        "text": "core_product_name: fire extinguisher",
+        "raw_product_name": "FIRE EXTINGUISHERS",
+        "list_of_product_ids": "6022,5201,8260,8312,8475,8924,9065,14404,15759,16244,16252,16390,19167,18179,19188,19455,19461,19522,19531,19550,19557,21036,21063,21214,21458,23513,21470,20756,19568,19165,28059,36560,36561,36559,36558,37456,33787,34087,34954,34965,34984,35003,35021",
+        "core_id": 854.0
+      }
+    },
+    {
+      "id": "variant-5b97d8f2-9975-5bd1-ab15-a1837c274e41",
+      "score": 0.8450226,
+      "metadata": {
+        "text": "core_product_name: trolley mounted fire extinguisher | acronymed_core_product_name: CAF (Compressed Air Foam) fire extinguisher | type_or_class: Water Mist | type_or_class: CAF (Compressed Air Foam)",
+        "raw_product_name": "WATER MIST & CAF FIRE EXTINGUISHER TROLLEY MOUNTED",
+        "list_of_product_ids": "189,542,806,418,910",
+        "core_id": 2442.0
+      }
+    },
+    {
+      "id": "variant-95648999-c319-51e0-b255-72a38aa25e7e",
+      "score": 0.84106654,
+      "metadata": {
+        "text": "core_product_name: fire fighting equipment",
+        "raw_product_name": "FIRE FIGHTING EQUIPMENT",
+        "list_of_product_ids": "19962,21484,21482,21480,24379,26862,19964,37442,37440,37441,37443,37444,34995",
+        "core_id": 846.0
+      }
+    },
+    {
+      "id": "variant-c5c5fb65-0222-5684-9d03-649a820478eb",
+      "score": 0.8397451,
+      "metadata": {
+        "text": "core_product_name: trolley mounted fire fighting equipment",
+        "raw_product_name": "TROLLEY MOUNTED FIRE FIGHTING EQUIPMENT",
+        "list_of_product_ids": "23845,23848,23851,23852,23853,23838,23841,23843,28422,23835",
+        "core_id": 2277.0
+      }
+    },
+    {
+      "id": "variant-856d998c-a78b-5820-b216-6e2b95fbd990",
+      "score": 0.8391968,
+      "metadata": {
+        "text": "core_product_name: chasis mounted fire fighting equipment",
+        "raw_product_name": "CHASIS MOUNTED FIRE FIGHTING EQUIPMENT",
+        "list_of_product_ids": "6031,5210,8315,8484,8482,15598,15599,15602,23855,19414",
+        "core_id": 339.0
+      }
+    },
+    {
+      "id": "variant-fd2d06b4-51d4-5792-ac68-2d6ad3718d70",
+      "score": 0.8381482,
+      "metadata": {
+        "text": "core_product_name: trailer mounted fire fighting equipment",
+        "raw_product_name": "TRAILER MOUNTED FIRE FIGHTING EQUIPMENT",
+        "list_of_product_ids": "6030,5209,8292,8483,8481,23844,23847,23850,23837,23516",
+        "core_id": 2265.0
+      }
+    },
+    {
+      "id": "variant-fb879217-9876-5ce0-86f6-605e1593cb4e",
+      "score": 0.83792776,
+      "metadata": {
+        "text": "core_product_name: diaphragm closure",
+        "raw_product_name": "DIAPHRAGM CLOSURE",
+        "list_of_product_ids": "19131,19138,19139,38481",
+        "core_id": 583.0
+      }
+    },
+    {
+      "id": "variant-197a7aed-33a2-54d3-ba46-f3c171b8d998",
+      "score": 0.8361939,
+      "metadata": {
+        "text": "core_product_name: fan | acronymed_core_product_name: FD (Fire Damper) fan",
+        "raw_product_name": "LOS FOR FD FANS",
+        "list_of_product_ids": "21338,21335,21331,21364,27099",
+        "core_id": 798.0
+      }
+    },
+    {
+      "id": "variant-a17fd78e-0a80-5e83-8bfc-b675b3dda993",
+      "score": 0.8360921,
+      "metadata": {
+        "text": "core_product_name: refilling service fire extinguisher",
+        "raw_product_name": "FIRE EXTINGUISHER REFILLING SERVICE",
+        "list_of_product_ids": "22319,22315,22312,27052",
+        "core_id": 853.0
+      }
+    },
+    {
+      "id": "variant-a7b1313a-d223-53a3-989a-dcdac155350f",
+      "score": 0.8355989,
+      "metadata": {
+        "text": "core_product_name: set | acronymed_core_product_name: d p set (developer cleaner penetrant) | type_or_class: Developer Cleaner Penetrant",
+        "raw_product_name": "D P SET (DEVLOPER CLEANER PENETRANT)",
+        "list_of_product_ids": "32798,32799,32992,33026,33179,33244,33546,33618,35906",
+        "core_id": 555.0
+      }
+    },
+    {
+      "id": "variant-daf01be2-4034-5588-bc5d-1ce881dcd7a8",
+      "score": 0.8355801,
+      "metadata": {
+        "text": "core_product_name: portable mounted fire pump",
+        "raw_product_name": "PORTABLE MOUNTED FIRE PUMP",
+        "list_of_product_ids": "169,951,698,627,535",
+        "core_id": 1727.0
+      }
+    },
+    {
+      "id": "variant-7864b016-9b36-5d61-8051-84be2cb1ae9d",
+      "score": 0.8348926,
+      "metadata": {
+        "text": "core_product_name: fire bucket",
+        "raw_product_name": "FIRE BUCKET",
+        "list_of_product_ids": "19466,19467,19465,19463,19523,19530,19551,19558",
+        "core_id": 841.0
+      }
+    },
+    {
+      "id": "variant-501f4268-336a-5e01-af3e-8edf7d0a9e1c",
+      "score": 0.83465844,
+      "metadata": {
+        "text": "core_product_name: fire proofing material | protection_features: Fireproof",
+        "raw_product_name": "FIRE PROOFING MATERIAL",
+        "list_of_product_ids": "38658,38561,38562,38566",
+        "core_id": 856.0
+      }
+    },
+    {
+      "id": "variant-289ef865-6009-5fbb-89b6-1e6bb8912843",
+      "score": 0.83435714,
+      "metadata": {
+        "text": "core_product_name: fire damper",
+        "raw_product_name": "FIRE DAMPERS",
+        "list_of_product_ids": "15564,15556,14240,15544",
+        "core_id": 840.0
+      }
+    },
+    {
+      "id": "variant-dc67092d-c747-58a3-9b64-a36fa7d1d5e6",
+      "score": 0.83434874,
+      "metadata": {
+        "text": "core_product_name: bracing",
+        "raw_product_name": "BRACING",
+        "list_of_product_ids": "20880,20863,20902,21910,21951,22023,22088,22121",
+        "core_id": 239.0
+      }
+    },
+    {
+      "id": "variant-ca2bafe6-22b6-5230-b196-6b0dda111306",
+      "score": 0.8332029,
+      "metadata": {
+        "text": "core_product_name: compressed breathing apparatus",
+        "raw_product_name": "BREATHING APPARATUS - COMPRESSED",
+        "list_of_product_ids": "24212,24216,26883,37472",
+        "core_id": 243.0
+      }
+    },
+    {
+      "id": "variant-61a25548-383b-5b43-b6f5-a3fe1adbb579",
+      "score": 0.83263355,
+      "metadata": {
+        "text": "core_product_name: fire protection system | accessories_or_attachments: Valves and Accessories",
+        "raw_product_name": "FIRE PROTECTION SYSTEM (VALVES & ACC.)",
+        "list_of_product_ids": "6603,5773,10731,7858,35221",
+        "core_id": 858.0
+      }
+    },
+    {
+      "id": "variant-69cf08ad-26e4-5455-b8ce-359f6dd1a98b",
+      "score": 0.8321828,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: dcs (distributed control system) patch cable | type_or_class: DCS (Distributed Control System) Patch",
+        "raw_product_name": "DCS PATCH CABLES",
+        "list_of_product_ids": "13601,18810,20177,24053,23904",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-9f12db3a-d558-5048-99fd-1f32e72e310b",
+      "score": 0.8321075,
+      "metadata": {
+        "text": "core_product_name: fire fighting pump",
+        "raw_product_name": "FIRE FIGHTING PUMP",
+        "list_of_product_ids": "19963,19961,21483,21481,21479,24378,26863",
+        "core_id": 847.0
+      }
+    },
+    {
+      "id": "variant-9988271a-59ee-57cb-9616-702a2cea2636",
+      "score": 0.8320117,
+      "metadata": {
+        "text": "core_product_name: spray nozzle | type_or_class: Fire Fighting",
+        "raw_product_name": "SPRAY NOZZLE- FIRE FIGHTING",
+        "list_of_product_ids": "6036,5215,8013,8012,8262,8263,8294,8738,8923,8927,8929,8958,9064,9069,9072,9104,9145,19631,24003,21213,19986,36157",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-6f51bba4-79b9-5d92-928d-652b82cce02e",
+      "score": 0.8318846,
+      "metadata": {
+        "text": "core_product_name: flameproof equipment | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF EQUIPMENT",
+        "list_of_product_ids": "13446,13447,13448,13449,13450,13473,13477",
+        "core_id": 894.0
+      }
+    },
+    {
+      "id": "variant-3ddc3bca-68aa-59de-bad1-3710e64d9b3e",
+      "score": 0.8313114,
+      "metadata": {
+        "text": "core_product_name: fixed switch board | mounting_or_installation: for package equipments | protection_features: flame proof",
+        "raw_product_name": "SWITCH BOARD FIXED FOR PACKAGE EQUIPMENTS FLAME PROOF",
+        "list_of_product_ids": "13973,14603,14849,19440,20280,22864,35781",
+        "core_id": 2168.0
+      }
+    },
+    {
+      "id": "variant-95f74893-d69d-504d-9c31-33cbdcb88ed4",
+      "score": 0.8311334,
+      "metadata": {
+        "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+        "raw_product_name": "DCDB",
+        "list_of_product_ids": "15387,13587,14607,14780,19662,21388,36160",
+        "core_id": 559.0
+      }
+    },
+    {
+      "id": "variant-dd725dee-67a2-56b7-aa3c-f6e233946ece",
+      "score": 0.83109456,
+      "metadata": {
+        "text": "core_product_name: automatic power factor correction panel | acronymed_core_product_name: apfc panel",
+        "raw_product_name": "APFC PANEL",
+        "list_of_product_ids": "14207,14608,14633,36913,24833,24821,24947,33479,33501,33677",
+        "core_id": 125.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.8304425,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    }
+  ]
+}

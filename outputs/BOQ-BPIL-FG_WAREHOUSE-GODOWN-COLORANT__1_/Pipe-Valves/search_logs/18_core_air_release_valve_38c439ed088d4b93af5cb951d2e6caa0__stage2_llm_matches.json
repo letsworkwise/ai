@@ -1,0 +1,58 @@
+{
+  "query": "core_product_name: air release valve | feature_or_specifications: set: with valve and eccentric, make: zoloto",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: air release valve",
+        "raw_product_name": "Air Release Valve",
+        "list_of_product_ids": [
+          "7489",
+          "7164",
+          "11511",
+          "23526",
+          "31193",
+          "31194",
+          "31195",
+          "39759",
+          "40031"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: foot or air valve",
+        "raw_product_name": "VALVE FOOT/AIR",
+        "list_of_product_ids": [
+          "6266",
+          "5435",
+          "10732",
+          "10434",
+          "7873",
+          "7872"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: air intake valve",
+        "raw_product_name": "AIR INTAKE VALVE",
+        "list_of_product_ids": [
+          "14517",
+          "14522",
+          "14527",
+          "14753"
+        ]
+      }
+    }
+  ]
+}

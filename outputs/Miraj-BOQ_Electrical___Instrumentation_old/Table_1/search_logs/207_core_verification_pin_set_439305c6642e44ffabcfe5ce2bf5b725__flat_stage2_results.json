@@ -1,0 +1,578 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8786826,
+      "text": "core_product_name: pin insulator",
+      "core_id": 1656.0,
+      "raw_product_name": "PIN INSULATOR",
+      "list_of_product_ids": [
+        "1",
+        "390",
+        "518",
+        "323"
+      ]
+    },
+    {
+      "retrieval_score": 0.8730394,
+      "text": "core_product_name: pin brazing",
+      "core_id": 1655.0,
+      "raw_product_name": "PINBRAZING",
+      "list_of_product_ids": [
+        "1",
+        "391",
+        "436",
+        "669"
+      ]
+    },
+    {
+      "retrieval_score": 0.8712048,
+      "text": "core_product_name: key",
+      "core_id": 90.0,
+      "raw_product_name": "ALLEN KEY",
+      "list_of_product_ids": [
+        "32912",
+        "32913",
+        "33011",
+        "33043",
+        "33197",
+        "33262",
+        "33565",
+        "33635",
+        "35924"
+      ]
+    },
+    {
+      "retrieval_score": 0.87092644,
+      "text": "core_product_name: check valve",
+      "core_id": 340.0,
+      "raw_product_name": "CHECK VALVE",
+      "list_of_product_ids": [
+        "6225",
+        "5394",
+        "24446",
+        "10946",
+        "11136",
+        "11142",
+        "10403",
+        "10322",
+        "10445",
+        "11393",
+        "11355",
+        "9037",
+        "7852",
+        "8165",
+        "9479",
+        "8154",
+        "8787",
+        "8919",
+        "9059",
+        "12376",
+        "12496",
+        "12659",
+        "13243",
+        "15488",
+        "17533",
+        "17829",
+        "22546",
+        "21271",
+        "30830",
+        "37286"
+      ]
+    },
+    {
+      "retrieval_score": 0.87067825,
+      "text": "core_product_name: check valve",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK AS",
+      "list_of_product_ids": [
+        "8730",
+        "14043",
+        "22653",
+        "23060",
+        "37165",
+        "37120",
+        "37131",
+        "37143",
+        "37188",
+        "37176",
+        "37212"
+      ]
+    },
+    {
+      "retrieval_score": 0.87064064,
+      "text": "core_product_name: addressable detector",
+      "core_id": 47.0,
+      "raw_product_name": "ADDRESSABLE DETECTOR",
+      "list_of_product_ids": [
+        "37763",
+        "37768",
+        "37773",
+        "37779",
+        "37789",
+        "37758"
+      ]
+    },
+    {
+      "retrieval_score": 0.86978656,
+      "text": "core_product_name: control",
+      "core_id": 1412.0,
+      "raw_product_name": "Level Controls",
+      "list_of_product_ids": [
+        "17068",
+        "17088",
+        "17067",
+        "28601"
+      ]
+    },
+    {
+      "retrieval_score": 0.86762494,
+      "text": "core_product_name: turbine generator set",
+      "core_id": 2290.0,
+      "raw_product_name": "TURBINE GENERATOR SET",
+      "list_of_product_ids": [
+        "9481",
+        "9594",
+        "14798",
+        "24321",
+        "37420",
+        "36130",
+        "37401"
+      ]
+    },
+    {
+      "retrieval_score": 0.86701626,
+      "text": "core_product_name: detector",
+      "core_id": 579.0,
+      "raw_product_name": "DETECTOR",
+      "list_of_product_ids": [
+        "8900",
+        "8902",
+        "9849",
+        "9858",
+        "9867",
+        "18250",
+        "18249",
+        "18248",
+        "36841",
+        "36225",
+        "36377"
+      ]
+    },
+    {
+      "retrieval_score": 0.8659306,
+      "text": "core_product_name: access control system",
+      "core_id": 30.0,
+      "raw_product_name": "ACCESS CONTROL SYSTEM",
+      "list_of_product_ids": [
+        "6601",
+        "5771",
+        "10891",
+        "10915",
+        "11070",
+        "10890",
+        "10892",
+        "19260",
+        "19270",
+        "34967",
+        "34987",
+        "35018"
+      ]
+    },
+    {
+      "retrieval_score": 0.8657074,
+      "text": "core_product_name: chipping",
+      "core_id": 347.0,
+      "raw_product_name": "CHIPPING",
+      "list_of_product_ids": [
+        "239",
+        "692",
+        "397",
+        "328",
+        "692"
+      ]
+    },
+    {
+      "retrieval_score": 0.8654373,
+      "text": "core_product_name: pad lock",
+      "core_id": 1619.0,
+      "raw_product_name": "PAD LOCKS",
+      "list_of_product_ids": [
+        "201",
+        "142",
+        "010",
+        "420",
+        "710"
+      ]
+    },
+    {
+      "retrieval_score": 0.8651011,
+      "text": "core_product_name: lock",
+      "core_id": 1379.0,
+      "raw_product_name": "LOCKS",
+      "list_of_product_ids": [
+        "13622",
+        "17251",
+        "20004",
+        "20045",
+        "20112"
+      ]
+    },
+    {
+      "retrieval_score": 0.86498266,
+      "text": "core_product_name: gate",
+      "core_id": 1042.0,
+      "raw_product_name": "GATES",
+      "list_of_product_ids": [
+        "137",
+        "191",
+        "954",
+        "523",
+        "241"
+      ]
+    },
+    {
+      "retrieval_score": 0.86416054,
+      "text": "core_product_name: tap",
+      "core_id": 805.0,
+      "raw_product_name": "FAUCETS & TAPS",
+      "list_of_product_ids": [
+        "1",
+        "420",
+        "422",
+        "905"
+      ]
+    },
+    {
+      "retrieval_score": 0.86403364,
+      "text": "core_product_name: fitting",
+      "core_id": 273.0,
+      "raw_product_name": "FITTINGS",
+      "list_of_product_ids": [
+        "6290",
+        "5461",
+        "11537",
+        "7894",
+        "11072",
+        "11094",
+        "11098",
+        "11099",
+        "11127",
+        "11129",
+        "10446",
+        "10452",
+        "11402",
+        "8101",
+        "8103",
+        "8105",
+        "7876",
+        "7878",
+        "7880",
+        "7882",
+        "7883",
+        "7875",
+        "7877",
+        "7879",
+        "8095",
+        "8018",
+        "8097",
+        "8099",
+        "8094",
+        "8096",
+        "8098",
+        "8100",
+        "8102",
+        "8104",
+        "8106",
+        "8130",
+        "9273",
+        "9274",
+        "8824",
+        "8107",
+        "8108",
+        "12258",
+        "12679",
+        "12666",
+        "12683",
+        "12688",
+        "13310",
+        "13317",
+        "13403",
+        "14515",
+        "14568",
+        "15748",
+        "16005",
+        "16058",
+        "16446",
+        "16530",
+        "16614",
+        "19374",
+        "19368",
+        "19267",
+        "19252",
+        "19261",
+        "17541",
+        "19356",
+        "19736",
+        "20066",
+        "21742",
+        "21303",
+        "19811",
+        "19277",
+        "16579",
+        "24581",
+        "30951",
+        "30637",
+        "30687",
+        "33435",
+        "37262",
+        "37014",
+        "37026",
+        "35746",
+        "36881",
+        "36884"
+      ]
+    },
+    {
+      "retrieval_score": 0.862651,
+      "text": "core_product_name: power supply",
+      "core_id": 250.0,
+      "raw_product_name": "BUIL POWER SUPPLY",
+      "list_of_product_ids": [
+        "5",
+        "937",
+        "676",
+        "612",
+        "114"
+      ]
+    },
+    {
+      "retrieval_score": 0.8625574,
+      "text": "core_product_name: calibration",
+      "core_id": 1265.0,
+      "raw_product_name": "INSTRUMENTS CALIBRATION",
+      "list_of_product_ids": [
+        "24237",
+        "23794",
+        "23833",
+        "23950",
+        "23799",
+        "26879"
+      ]
+    },
+    {
+      "retrieval_score": 0.86244375,
+      "text": "core_product_name: terminal block",
+      "core_id": 2228.0,
+      "raw_product_name": "TERMINAL BLOCKS",
+      "list_of_product_ids": [
+        "5940",
+        "6769",
+        "12287",
+        "11388",
+        "8256",
+        "9278",
+        "17855",
+        "18812"
+      ]
+    },
+    {
+      "retrieval_score": 0.86235344,
+      "text": "core_product_name: surge protection device",
+      "core_id": 2156.0,
+      "raw_product_name": "SURG PROTECTION DEVICES",
+      "list_of_product_ids": [
+        "5954",
+        "6782",
+        "12132",
+        "14671",
+        "14679",
+        "18191",
+        "20174",
+        "36159"
+      ]
+    },
+    {
+      "retrieval_score": 0.8623429,
+      "text": "core_product_name: interface device",
+      "core_id": 1280.0,
+      "raw_product_name": "INTERFACE DEVICES",
+      "list_of_product_ids": [
+        "6630",
+        "5800",
+        "11596",
+        "11597",
+        "10310",
+        "11701",
+        "11702",
+        "11703",
+        "12288",
+        "8405",
+        "13108",
+        "13117",
+        "21089",
+        "21081",
+        "21077",
+        "21070"
+      ]
+    },
+    {
+      "retrieval_score": 0.8622599,
+      "text": "core_product_name: coupling device",
+      "core_id": 499.0,
+      "raw_product_name": "COUPLING DEVICE",
+      "list_of_product_ids": [
+        "18582",
+        "18579",
+        "18578",
+        "18637"
+      ]
+    },
+    {
+      "retrieval_score": 0.86202896,
+      "text": "core_product_name: control panel",
+      "core_id": 453.0,
+      "raw_product_name": "CONTROL PANEL",
+      "list_of_product_ids": [
+        "7620",
+        "10723",
+        "10724",
+        "7294",
+        "11348",
+        "10704",
+        "10706",
+        "10708",
+        "10709",
+        "10705",
+        "10707",
+        "7889",
+        "8210",
+        "16017",
+        "16030",
+        "16028",
+        "36914",
+        "16897",
+        "18294",
+        "18873",
+        "18919",
+        "19439",
+        "20784",
+        "20783",
+        "21195",
+        "24829",
+        "24817",
+        "24932",
+        "24943",
+        "21198",
+        "36654",
+        "36677",
+        "33483",
+        "33678",
+        "35056"
+      ]
+    },
+    {
+      "retrieval_score": 0.86189985,
+      "text": "core_product_name: control switch",
+      "core_id": 462.0,
+      "raw_product_name": "CONTROL SWITCH",
+      "list_of_product_ids": [
+        "140",
+        "491",
+        "529",
+        "838",
+        "269"
+      ]
+    },
+    {
+      "retrieval_score": 0.86183214,
+      "text": "core_product_name: socket set spanner",
+      "core_id": 2049.0,
+      "raw_product_name": "SOCKET SET- SPPANER",
+      "list_of_product_ids": [
+        "37011",
+        "32816",
+        "32817",
+        "32997",
+        "33031",
+        "33184",
+        "33249",
+        "33551",
+        "33646",
+        "37293",
+        "35911"
+      ]
+    },
+    {
+      "retrieval_score": 0.86178064,
+      "text": "core_product_name: encoder",
+      "core_id": 744.0,
+      "raw_product_name": "ENCODER",
+      "list_of_product_ids": [
+        "19082",
+        "19099",
+        "19104",
+        "19089",
+        "19113",
+        "36721",
+        "38449",
+        "36751",
+        "38453"
+      ]
+    },
+    {
+      "retrieval_score": 0.8617399,
+      "text": "core_product_name: set | acronymed_core_product_name: d p set (developer cleaner penetrant) | type_or_class: Developer Cleaner Penetrant",
+      "core_id": 555.0,
+      "raw_product_name": "D P SET (DEVLOPER CLEANER PENETRANT)",
+      "list_of_product_ids": [
+        "32798",
+        "32799",
+        "32992",
+        "33026",
+        "33179",
+        "33244",
+        "33546",
+        "33618",
+        "35906"
+      ]
+    },
+    {
+      "retrieval_score": 0.8615848,
+      "text": "core_product_name: security search light system",
+      "core_id": 1989.0,
+      "raw_product_name": "SECURITY SEARCH LIGHT SYSTEM",
+      "list_of_product_ids": [
+        "7",
+        "065",
+        "739",
+        "211",
+        "726"
+      ]
+    },
+    {
+      "retrieval_score": 0.8613509,
+      "text": "core_product_name: indicator",
+      "core_id": 1233.0,
+      "raw_product_name": "PIG INDICATOR",
+      "list_of_product_ids": [
+        "17549",
+        "17543",
+        "18671",
+        "36724",
+        "34854"
+      ]
+    },
+    {
+      "retrieval_score": 0.8613485,
+      "text": "core_product_name: instrument pen",
+      "core_id": 1255.0,
+      "raw_product_name": "INSTRUMENT PEN",
+      "list_of_product_ids": [
+        "1",
+        "703",
+        "017",
+        "036"
+      ]
+    }
+  ]
+}

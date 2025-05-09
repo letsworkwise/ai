@@ -1,0 +1,52 @@
+{
+  "query": "core_product_name: end termination",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: quick opening end closure",
+        "raw_product_name": "QUICK OPENING END CLOSURE",
+        "list_of_product_ids": [
+          "15436",
+          "18787",
+          "22338",
+          "36605",
+          "34856"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: end cap",
+        "raw_product_name": "END CAP",
+        "list_of_product_ids": [
+          "15480"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: dyke end",
+        "raw_product_name": "DYKE END",
+        "list_of_product_ids": [
+          "143",
+          "631",
+          "446",
+          "014",
+          "497"
+        ]
+      }
+    }
+  ]
+}

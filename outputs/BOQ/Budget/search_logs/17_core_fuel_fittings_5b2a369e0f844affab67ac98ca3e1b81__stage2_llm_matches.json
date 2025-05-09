@@ -1,0 +1,62 @@
+{
+  "query": "core_product_name: fuel fittings | feature_or_specifications: feature: bends, valves, flanges",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flange | material: Carbon steel | construction_features: Raised Face (RF)",
+        "raw_product_name": "Carbon steel Flange (RF)",
+        "list_of_product_ids": [
+          "68",
+          "157",
+          "318"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flange | material: Ferrous",
+        "raw_product_name": "FERROUS FLANGES",
+        "list_of_product_ids": [
+          "23432",
+          "23431",
+          "23430",
+          "23429",
+          "24574",
+          "24648",
+          "26898",
+          "26900",
+          "26897",
+          "26896",
+          "37030"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flange | material: Incoloy",
+        "raw_product_name": "FLANGES (INCOLOY)",
+        "list_of_product_ids": [
+          "20905",
+          "24572",
+          "24650",
+          "37037"
+        ]
+      }
+    }
+  ]
+}

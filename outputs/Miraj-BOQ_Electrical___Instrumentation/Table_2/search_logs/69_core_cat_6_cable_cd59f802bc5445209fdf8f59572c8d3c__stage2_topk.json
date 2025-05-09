@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: cat 6 cable | feature_or_specifications: accessories: lugs, adapter, blank plate & patch cord etc as required is included",
+  "retrieval_results": [
+    {
+      "id": "variant-5babc915-714f-5eb2-8a79-0409ac5c2465",
+      "score": 0.89638937,
+      "metadata": {
+        "text": "core_product_name: cable lug | accessories_or_attachments: Lugs",
+        "raw_product_name": "CABLE – LUGS",
+        "list_of_product_ids": "13715,14861,18113,19564,20439,20413,20462,20503,24057,23908,32998,33032,33185,33250,33552,33624,35913",
+        "core_id": 280.0
+      }
+    },
+    {
+      "id": "variant-7e1f89f5-a582-5ff8-a6c1-b82b36bce769",
+      "score": 0.8725031,
+      "metadata": {
+        "text": "core_product_name: optical fibre cable | accessories_or_attachments: associated item",
+        "raw_product_name": "OPTICAL FIBRE CABLE & ASSOC.ITEM",
+        "list_of_product_ids": "6480,5651,10911,11309,11731,11946,19181,17780,19112,19562,23868,24032,26902,26901,19151,34333",
+        "core_id": 1597.0
+      }
+    },
+    {
+      "id": "variant-b29f45f6-c600-525a-969d-04357eb2ecc6",
+      "score": 0.86884844,
+      "metadata": {
+        "text": "core_product_name: cable tray | accessories_or_attachments: accessories",
+        "raw_product_name": "CABLE TRAYS & ACCESSORIES",
+        "list_of_product_ids": "14375,19396,19397,24231,19501,26433",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-1b38c2cd-48ae-5642-814d-205a8917dd9f",
+      "score": 0.86505157,
+      "metadata": {
+        "text": "core_product_name: cable lug",
+        "raw_product_name": "CABLE LUG",
+        "list_of_product_ids": "2,064,720,116",
+        "core_id": 280.0
+      }
+    },
+    {
+      "id": "variant-fd020e37-6f78-5f8a-a6b7-9c8e751b5e9c",
+      "score": 0.86320955,
+      "metadata": {
+        "text": "core_product_name: orifice plate | accessories_or_attachments: Flanges",
+        "raw_product_name": "ORIFICE PLATES & FLANGES",
+        "list_of_product_ids": "6540,5711,11161,10380,10551,10199,8333,8389,8452,12199,12725,12748,12746,13075,13400,13401,36538,19243,17296,17289,17656,17687,17680,21401,17219,24556,31187,36625,35156,36215,36367",
+        "core_id": 1603.0
+      }
+    },
+    {
+      "id": "variant-b01709f0-b149-5d60-a1c8-a044077fc7a8",
+      "score": 0.86133134,
+      "metadata": {
+        "text": "core_product_name: insulator | accessories_or_attachments: hardware accessories",
+        "raw_product_name": "INSULATOR & HARDWARE ACCESSORIES",
+        "list_of_product_ids": "18804,18813,18984,18992,18979,18981,18987,18980,18978,37519,37688,37714,37719",
+        "core_id": 1276.0
+      }
+    },
+    {
+      "id": "variant-b31ec759-2343-52fb-9225-fedc0abc68ed",
+      "score": 0.86133134,
+      "metadata": {
+        "text": "core_product_name: insulator | accessories_or_attachments: hardware accessories",
+        "raw_product_name": "INSULATOR AND HARDWARE ACCESSORIES",
+        "list_of_product_ids": "1,883,029,108",
+        "core_id": 1276.0
+      }
+    },
+    {
+      "id": "variant-8eacc00b-ac12-5620-9ec9-24342650e47a",
+      "score": 0.86044,
+      "metadata": {
+        "text": "core_product_name: electrical component | accessories_or_attachments: Accessories",
+        "raw_product_name": "ELECTRICAL COMPONENTS & ACCESSORIES",
+        "list_of_product_ids": "222,862,228,728,574",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-76a537fd-4820-56a7-88c5-8afdfe1b50c2",
+      "score": 0.8598815,
+      "metadata": {
+        "text": "core_product_name: tubular product | accessories_or_attachments: coils | accessories_or_attachments: panels",
+        "raw_product_name": "TUBULAR PRODUCT(COILS & PANELS)",
+        "list_of_product_ids": "213,822,109,428,548",
+        "core_id": 2292.0
+      }
+    },
+    {
+      "id": "variant-56098b22-03d9-5916-b833-4b7ac8b7d339",
+      "score": 0.85943234,
+      "metadata": {
+        "text": "core_product_name: control panel | accessories_or_attachments: accessories",
+        "raw_product_name": "CONTROL PANEL & ACCESSORIES",
+        "list_of_product_ids": "6599,5769,9463,8213,8215,8212,8214,9377,9156,9178,9378,9464,12191,8211,10743,31063,37694,37698,37703,37708,37712",
+        "core_id": 453.0
+      }
+    },
+    {
+      "id": "variant-64bca620-e696-5279-bab5-9065c12376ef",
+      "score": 0.8591529,
+      "metadata": {
+        "text": "core_product_name: structural steel | accessories_or_attachments: plates",
+        "raw_product_name": "Structural Steel (Including plates)",
+        "list_of_product_ids": "14076,20962,22587,40047",
+        "core_id": 2137.0
+      }
+    },
+    {
+      "id": "variant-4e0ba911-cbe0-52b3-9940-995ea28ba1f7",
+      "score": 0.8586641,
+      "metadata": {
+        "text": "core_product_name: electric light fitting | accessories_or_attachments: accessories",
+        "raw_product_name": "ELECTRIC LIGHT FITTINGS (COMM) & ACCESSORIES",
+        "list_of_product_ids": "208,382,083,728,502",
+        "core_id": 704.0
+      }
+    },
+    {
+      "id": "variant-c61c3687-035c-50f1-a184-70194e77bd52",
+      "score": 0.85802966,
+      "metadata": {
+        "text": "core_product_name: pvc pipe | accessories_or_attachments: fittings | type_or_class: cable conduit",
+        "raw_product_name": "PVC PIPES AND FITTINGS (CABLE CONDUITS)",
+        "list_of_product_ids": "16289,16286,16284,16283,16291,27072,34651,35164",
+        "core_id": 1823.0
+      }
+    },
+    {
+      "id": "variant-8b1fcf86-0360-56b1-afdd-ddf65f5bc982",
+      "score": 0.8574512,
+      "metadata": {
+        "text": "core_product_name: primary structure | accessories_or_attachments: Fabrication | accessories_or_attachments: Supply",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE (FABRICATION & SUPPLY)",
+        "list_of_product_ids": "237,742,105,321,052",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-bb96db43-a603-5b08-b082-1a787ab9db3c",
+      "score": 0.8574261,
+      "metadata": {
+        "text": "core_product_name: conduit accessory",
+        "raw_product_name": "CONDUIT ACCESSORIES",
+        "list_of_product_ids": "20550,20514,20591,20632,20686,20744",
+        "core_id": 439.0
+      }
+    },
+    {
+      "id": "variant-4fb8f41e-8a80-50dd-a9b8-63dfc9ef06fe",
+      "score": 0.85551417,
+      "metadata": {
+        "text": "core_product_name: wire | acronymed_core_product_name: cat 6 wire (category 6 wire) | type_or_class: CAT 6 (Category 6)",
+        "raw_product_name": "CAT 6 WIRE",
+        "list_of_product_ids": "20687,20549,20513,20590,20633,20745,21239",
+        "core_id": 313.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.85420215,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-805c6ee5-c8fd-5938-9ab1-0e14b40a0f4e",
+      "score": 0.8536013,
+      "metadata": {
+        "text": "core_product_name: belt | accessories_or_attachments: for conveyor",
+        "raw_product_name": "BELT FOR CONVEYOR",
+        "list_of_product_ids": "6120,5287,9645,9647,9646,9648",
+        "core_id": 195.0
+      }
+    },
+    {
+      "id": "variant-8cce22d7-af65-596d-a754-a07867aa107d",
+      "score": 0.8533281,
+      "metadata": {
+        "text": "core_product_name: stretcher | accessories_or_attachments: Blankets",
+        "raw_product_name": "Stretcher With Blankets",
+        "list_of_product_ids": "14353,14354,14337,14345",
+        "core_id": 2126.0
+      }
+    },
+    {
+      "id": "variant-24a00485-d61a-5fd6-a97d-83ffb4fd86d5",
+      "score": 0.8516598,
+      "metadata": {
+        "text": "core_product_name: quick opening closure | accessories_or_attachments: filter or separator",
+        "raw_product_name": "QUICK OPENING CLOSURE(FILTER/SEPARATOR)",
+        "list_of_product_ids": "5252,6086,11483,8747,16146,23562,24407,24405,36604",
+        "core_id": 1849.0
+      }
+    },
+    {
+      "id": "variant-a64f210f-8e6e-5798-86ae-8ba83cd224bf",
+      "score": 0.85150063,
+      "metadata": {
+        "text": "core_product_name: site fabricated cladding | accessories_or_attachments: column",
+        "raw_product_name": "COLUMN-CLAD SITE FABRICATED",
+        "list_of_product_ids": "6689,5860,9699,12168,13094,23576",
+        "core_id": 398.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.85061884,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-7930aac4-4837-5a2d-9160-b0e71f7b6da1",
+      "score": 0.8503393,
+      "metadata": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride) | accessories_or_attachments: accessories",
+        "raw_product_name": "PVC Conduit and accessories",
+        "list_of_product_ids": "7222,7548,10494,10502",
+        "core_id": 442.0
+      }
+    },
+    {
+      "id": "variant-323bf0e7-9d8f-5ea5-9cad-eb58b0ac6448",
+      "score": 0.8502392,
+      "metadata": {
+        "text": "core_product_name: special cable",
+        "raw_product_name": "SPECIAL CABLES",
+        "list_of_product_ids": "13989,14840,20102,20070,24071,23923",
+        "core_id": 2074.0
+      }
+    },
+    {
+      "id": "variant-7f090a1a-b828-5a18-86a5-0ef23d51283a",
+      "score": 0.8495611,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLE STOCKIST/TRADERS",
+        "list_of_product_ids": "2,467,924,680",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-a88868c3-e02b-556c-afb5-f9319567fc58",
+      "score": 0.84953856,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLES",
+        "list_of_product_ids": "15455,13721,24275,15161,16241,19098,23820,23814,21319,19315,23819,23822,24273,23829,20141,23831,24058,23836,23909,23839,23828,24685,24726,24844,24955,31590,31591,26436,26438,31740,33330",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-f7ae2aca-d67f-5ad5-be1e-6846aaf6f091",
+      "score": 0.8494202,
+      "metadata": {
+        "text": "core_product_name: contractor | accessories_or_attachments: Coil",
+        "raw_product_name": "CONTRACTOR & COIL - LK",
+        "list_of_product_ids": "1,398,314,623",
+        "core_id": 450.0
+      }
+    },
+    {
+      "id": "variant-1e84e4af-7d7e-5d97-adb2-330b0f9887b6",
+      "score": 0.84927684,
+      "metadata": {
+        "text": "core_product_name: hazardous lighting fixture | accessories_or_attachments: accessories",
+        "raw_product_name": "LIGHTING FIXTURE & ACCESSORIES-HAZARDOUS",
+        "list_of_product_ids": "6414,5584,10587,10557,10600,17341,17357,19480,19473,22850,35768,35810,35886,35864,35939,35950,36518",
+        "core_id": 1353.0
+      }
+    },
+    {
+      "id": "variant-31ff5fc7-dcdf-5099-90df-78cde63efb04",
+      "score": 0.8486262,
+      "metadata": {
+        "text": "core_product_name: air dryer | accessories_or_attachments: Package",
+        "raw_product_name": "AIR DRYER PACKAGE",
+        "list_of_product_ids": "19288,19294,20430,20405,20497,20456,33713",
+        "core_id": 61.0
+      }
+    },
+    {
+      "id": "variant-05a84004-6a4f-5ca8-ad5a-2de6290ce45f",
+      "score": 0.84853464,
+      "metadata": {
+        "text": "core_product_name: flexible board | accessories_or_attachments: for expansion joint",
+        "raw_product_name": "FLEXIBLE BOARD FOR EXPANSION JOINT",
+        "list_of_product_ids": "156,691,360,015,668",
+        "core_id": 911.0
+      }
+    }
+  ]
+}

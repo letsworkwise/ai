@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: client computer | size: monitor size: 22 inch | feature_or_specifications: feature: for acs (access control system) / visitor management, feature: color led monitor, feature: standard keyboard, feature: os (operating system), feature: antivirus, feature: video camera, feature: installation of acs software for id badging & issuing of visitor pass, location: security room",
+  "retrieval_results": [
+    {
+      "id": "variant-bd4d6706-bd3c-56dc-a608-1050f25b0d01",
+      "score": 0.85369617,
+      "metadata": {
+        "text": "core_product_name: access control system",
+        "raw_product_name": "ACCESS CONTROL SYSTEM",
+        "list_of_product_ids": "6601,5771,10891,10915,11070,10890,10892,19260,19270,34967,34987,35018",
+        "core_id": 30.0
+      }
+    },
+    {
+      "id": "variant-f0337ba8-6950-573f-8620-dd7b8c06adeb",
+      "score": 0.84721416,
+      "metadata": {
+        "text": "core_product_name: monitor",
+        "raw_product_name": "WATER MONITOR",
+        "list_of_product_ids": "6039,5218,9825,9830,9835,9840,8259,8296,8316,8739,9230,16411,24091,23518,37476",
+        "core_id": 2443.0
+      }
+    },
+    {
+      "id": "variant-5c0ed834-f6a7-520f-bb06-2d5857ac4b23",
+      "score": 0.8465072,
+      "metadata": {
+        "text": "core_product_name: access chamber",
+        "raw_product_name": "ACCESS CHAMBER",
+        "list_of_product_ids": "158,151,585,815,880",
+        "core_id": 26.0
+      }
+    },
+    {
+      "id": "variant-c1c7c951-de0a-5601-aa1a-b2d2fb7e1622",
+      "score": 0.84300256,
+      "metadata": {
+        "text": "core_product_name: security search light system",
+        "raw_product_name": "SECURITY SEARCH LIGHT SYSTEM",
+        "list_of_product_ids": "7,065,739,211,726",
+        "core_id": 1989.0
+      }
+    },
+    {
+      "id": "variant-c9536e29-6040-5b31-b6a1-431e7654733e",
+      "score": 0.84295,
+      "metadata": {
+        "text": "core_product_name: computer maintenance",
+        "raw_product_name": "COMPUTER MAINTENANCE",
+        "list_of_product_ids": "193,231,932,428,719",
+        "core_id": 422.0
+      }
+    },
+    {
+      "id": "variant-a6f3a592-88ba-56f4-9258-7043fb0c99c6",
+      "score": 0.8424552,
+      "metadata": {
+        "text": "core_product_name: large screen display",
+        "raw_product_name": "Large Screen Display",
+        "list_of_product_ids": "7076,7403,11853,11845",
+        "core_id": 1408.0
+      }
+    },
+    {
+      "id": "variant-45aa0eb4-ef89-569d-a4cd-a48ea550c418",
+      "score": 0.8420928,
+      "metadata": {
+        "text": "core_product_name: access floor system",
+        "raw_product_name": "ACCESS FLOOR SYSTEM",
+        "list_of_product_ids": "19257,28256,38565,38555,38556,38557,38559,39640,40151,40157",
+        "core_id": 29.0
+      }
+    },
+    {
+      "id": "variant-d3184bd5-867c-5333-aa27-0d8d3f250563",
+      "score": 0.84187204,
+      "metadata": {
+        "text": "core_product_name: computer software",
+        "raw_product_name": "COMPUTER SOFTWARE",
+        "list_of_product_ids": "193,121,931,327,257",
+        "core_id": 423.0
+      }
+    },
+    {
+      "id": "variant-571eec7a-6e40-518d-bc9e-aca92a0117a9",
+      "score": 0.84154457,
+      "metadata": {
+        "text": "core_product_name: remote controlled monitor",
+        "raw_product_name": "REMOTE CONTROLLED MONITORS",
+        "list_of_product_ids": "6042,5221,8319,24103,22791",
+        "core_id": 1896.0
+      }
+    },
+    {
+      "id": "variant-13734b5f-24ad-5003-ab44-046aa6dbd5ab",
+      "score": 0.8396092,
+      "metadata": {
+        "text": "core_product_name: ventilation system",
+        "raw_product_name": "VENTILATION SYSTEM",
+        "list_of_product_ids": "7062,7389,8497,8501,18414",
+        "core_id": 2389.0
+      }
+    },
+    {
+      "id": "variant-f5caed72-7869-557b-9294-522f8b133ecb",
+      "score": 0.8373291,
+      "metadata": {
+        "text": "core_product_name: video wall",
+        "raw_product_name": "Video wall",
+        "list_of_product_ids": "7081,7408,18012,18421,18416",
+        "core_id": 2418.0
+      }
+    },
+    {
+      "id": "variant-7dce4d21-d1e9-5d82-98f9-329565ede5d1",
+      "score": 0.83706075,
+      "metadata": {
+        "text": "core_product_name: fieldbus monitor",
+        "raw_product_name": "FIELDBUS MONITOR",
+        "list_of_product_ids": "5,948,677,710,076",
+        "core_id": 821.0
+      }
+    },
+    {
+      "id": "variant-0a9290b3-8ea7-59a2-a8d9-9ba99d3dbdaa",
+      "score": 0.8363364,
+      "metadata": {
+        "text": "core_product_name: machine monitoring system",
+        "raw_product_name": "MACHINE MONITORING SYSTEMS",
+        "list_of_product_ids": "6478,5649,12455,32772,38192",
+        "core_id": 1418.0
+      }
+    },
+    {
+      "id": "variant-bdbbab12-6b76-547e-b7a7-3c4a98d7f8b3",
+      "score": 0.83618116,
+      "metadata": {
+        "text": "core_product_name: computer training",
+        "raw_product_name": "COMPUTER TRAINING",
+        "list_of_product_ids": "193,251,932,627,256",
+        "core_id": 427.0
+      }
+    },
+    {
+      "id": "variant-d5f22237-3b02-5132-8e33-c60431d8970f",
+      "score": 0.8356325,
+      "metadata": {
+        "text": "core_product_name: visual indicator | acronymed_core_product_name: VIS (Visual Indicator) | accessories_or_attachments: for fan",
+        "raw_product_name": "VIS FOR FAN",
+        "list_of_product_ids": "215,572,155,527,094",
+        "core_id": 2408.0
+      }
+    },
+    {
+      "id": "variant-b92b24ea-bbb8-5d58-8045-cc88814eca42",
+      "score": 0.8355733,
+      "metadata": {
+        "text": "core_product_name: long range monitor",
+        "raw_product_name": "LONG RANGE MONITOR",
+        "list_of_product_ids": "6041,5220,9827,9832,9837,9842,8295,8318",
+        "core_id": 1382.0
+      }
+    },
+    {
+      "id": "variant-e0a0c3f3-f6c2-533b-a7b9-ea90d3d89ddd",
+      "score": 0.83482593,
+      "metadata": {
+        "text": "core_product_name: video conferencing",
+        "raw_product_name": "VIDEO CONFERENCING",
+        "list_of_product_ids": "213,892,139,028,585",
+        "core_id": 2405.0
+      }
+    },
+    {
+      "id": "variant-9d54fd87-21ea-5c1a-ae13-333a826234cd",
+      "score": 0.8346191,
+      "metadata": {
+        "text": "core_product_name: system panel",
+        "raw_product_name": "SYSTEM PANELS",
+        "list_of_product_ids": "1,413,621,099",
+        "core_id": 2180.0
+      }
+    },
+    {
+      "id": "variant-815cfa85-79ff-5a89-89e7-6398f6ad8f78",
+      "score": 0.8342852,
+      "metadata": {
+        "text": "core_product_name: control desk",
+        "raw_product_name": "CONTROL DESK",
+        "list_of_product_ids": "14011,17257,19417,19412,36643",
+        "core_id": 452.0
+      }
+    },
+    {
+      "id": "variant-05f6efc7-3b87-5c74-99c2-ccc3f3812e3c",
+      "score": 0.834248,
+      "metadata": {
+        "text": "core_product_name: ventilation and pressurisation system",
+        "raw_product_name": "VENTILATION & PRESSURISATION SYSTEM",
+        "list_of_product_ids": "7018,7338,10205,10822,24144,24146,22515,19672",
+        "core_id": 2387.0
+      }
+    },
+    {
+      "id": "variant-751ad058-fdfd-583d-9869-ca9671210d00",
+      "score": 0.834174,
+      "metadata": {
+        "text": "core_product_name: air conditioning",
+        "raw_product_name": "AIR CONDITIONING",
+        "list_of_product_ids": "21444,21434,21452,21450,21447,22930,22932,24988,26753",
+        "core_id": 67.0
+      }
+    },
+    {
+      "id": "variant-8b814fd7-106f-5fd3-a273-6c9340ea527b",
+      "score": 0.8339269,
+      "metadata": {
+        "text": "core_product_name: interior",
+        "raw_product_name": "CONTROL ROOM INTERIOR",
+        "list_of_product_ids": "19384,19379,28261,38713",
+        "core_id": 458.0
+      }
+    },
+    {
+      "id": "variant-362532a2-e112-5faa-8c15-f4f72229a291",
+      "score": 0.8338022,
+      "metadata": {
+        "text": "core_product_name: air conditioner",
+        "raw_product_name": "AIR CONDITIONERS",
+        "list_of_product_ids": "143,302,076,623,224",
+        "core_id": 55.0
+      }
+    },
+    {
+      "id": "variant-4a8a3f90-d371-5508-9851-ba87dc63c366",
+      "score": 0.83323354,
+      "metadata": {
+        "text": "core_product_name: ventilation",
+        "raw_product_name": "VENTILATION",
+        "list_of_product_ids": "21445,21453,21451,21448,22931,22933,24989,26752,21435,35895",
+        "core_id": 2385.0
+      }
+    },
+    {
+      "id": "variant-14542e88-d5ca-5174-962d-30c472127cf8",
+      "score": 0.8328575,
+      "metadata": {
+        "text": "core_product_name: corrosion monitor",
+        "raw_product_name": "CORROSION MONITORS",
+        "list_of_product_ids": "64,865,657",
+        "core_id": 490.0
+      }
+    },
+    {
+      "id": "variant-6acf83ce-edd4-5a01-87c4-5f88cdffa6ae",
+      "score": 0.8327589,
+      "metadata": {
+        "text": "core_product_name: telescopic access platform",
+        "raw_product_name": "TELESCOPIC ACCESS PLATFORM",
+        "list_of_product_ids": "61,805,351",
+        "core_id": 2216.0
+      }
+    },
+    {
+      "id": "variant-6eb36f6b-85fd-5920-b1c0-6c1600a32f9c",
+      "score": 0.8327291,
+      "metadata": {
+        "text": "core_product_name: control room",
+        "raw_product_name": "CONTROL ROOM",
+        "list_of_product_ids": "19383,19371,19373,23748",
+        "core_id": 457.0
+      }
+    },
+    {
+      "id": "variant-0b710dea-0307-51f6-a77b-222f52cab575",
+      "score": 0.83268386,
+      "metadata": {
+        "text": "core_product_name: laptop",
+        "raw_product_name": "LAPTOPS",
+        "list_of_product_ids": "142,481,529,918,835",
+        "core_id": 1320.0
+      }
+    },
+    {
+      "id": "variant-42e08f95-d7cd-57f5-ba2f-6871ab20420b",
+      "score": 0.83268255,
+      "metadata": {
+        "text": "core_product_name: control panel",
+        "raw_product_name": "CONTROL PANEL",
+        "list_of_product_ids": "7620,10723,10724,7294,11348,10704,10706,10708,10709,10705,10707,7889,8210,16017,16030,16028,36914,16897,18294,18873,18919,19439,20784,20783,21195,24829,24817,24932,24943,21198,36654,36677,33483,33678,35056",
+        "core_id": 453.0
+      }
+    },
+    {
+      "id": "variant-c3e31784-7a55-5e03-ad35-80ecbe477acc",
+      "score": 0.832642,
+      "metadata": {
+        "text": "core_product_name: central air conditioning system",
+        "raw_product_name": "AIR CONDITIONING SYSTEM - CENTRAL",
+        "list_of_product_ids": "6043,5222,10728,10729,10203,6949,10820,10882,8499,19674,19821,23220",
+        "core_id": 58.0
+      }
+    }
+  ]
+}

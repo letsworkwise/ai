@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: fire retardant cable coating compound | feature_or_specifications: fire rating: 2 hours, application: cable runs, class: b type",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire-retardant coating | protection_features: Fire-retardant",
+        "raw_product_name": "Fire-Retardant Coatings",
+        "list_of_product_ids": [
+          "15699",
+          "17472",
+          "27183",
+          "15891"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire sealing system | type_or_class: Type B",
+        "raw_product_name": "Fire sealing system Type B",
+        "list_of_product_ids": [
+          "731",
+          "273",
+          "277",
+          "979"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire sealing system | type_or_class: Type A",
+        "raw_product_name": "Fire sealing system Type A",
+        "list_of_product_ids": [
+          "11092",
+          "11091",
+          "7314",
+          "7315",
+          "7981"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "query": "core_product_name: red oxide paint",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "PAINTS (STOCKIST/TRADERS)",
+        "list_of_product_ids": [
+          "2",
+          "457",
+          "824",
+          "577"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "Paints",
+        "list_of_product_ids": [
+          "8191"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "paints",
+        "list_of_product_ids": [
+          "8191"
+        ]
+      }
+    }
+  ]
+}

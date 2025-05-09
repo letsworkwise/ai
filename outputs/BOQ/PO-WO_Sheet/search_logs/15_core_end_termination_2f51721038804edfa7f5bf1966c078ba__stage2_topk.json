@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: end termination | size: cores: 3, size: 2.5 sqmm",
+  "retrieval_results": [
+    {
+      "id": "variant-59dd3339-fe74-56b7-802a-213aacb4499a",
+      "score": 0.8682978,
+      "metadata": {
+        "text": "core_product_name: end cap",
+        "raw_product_name": "END CAP",
+        "list_of_product_ids": "15480",
+        "core_id": 745.0
+      }
+    },
+    {
+      "id": "variant-72eec985-31f4-579d-8d75-17ce3f807158",
+      "score": 0.86704975,
+      "metadata": {
+        "text": "core_product_name: terminal block",
+        "raw_product_name": "TERMINAL BLOCKS",
+        "list_of_product_ids": "5940,6769,12287,11388,8256,9278,17855,18812",
+        "core_id": 2228.0
+      }
+    },
+    {
+      "id": "variant-5f6025f4-d869-56e7-bced-6488b91fa952",
+      "score": 0.8660803,
+      "metadata": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": "6444,5614,11000,12263,12344,15781,23866,24503",
+        "core_id": 282.0
+      }
+    },
+    {
+      "id": "variant-ed6e94f3-a1b4-59a6-9312-3fb0f5ef657c",
+      "score": 0.86500126,
+      "metadata": {
+        "text": "core_product_name: dyke end",
+        "raw_product_name": "DYKE END",
+        "list_of_product_ids": "143,631,446,014,497",
+        "core_id": 648.0
+      }
+    },
+    {
+      "id": "variant-7a81ebd3-21d8-54a3-a240-c819d8c11843",
+      "score": 0.8645112,
+      "metadata": {
+        "text": "core_product_name: quick opening end closure",
+        "raw_product_name": "QUICK OPENING END CLOSURE",
+        "list_of_product_ids": "15436,18787,22338,36605,34856",
+        "core_id": 1851.0
+      }
+    },
+    {
+      "id": "variant-694e9b22-1590-52c8-9da7-95e6af8ae4f3",
+      "score": 0.86448044,
+      "metadata": {
+        "text": "core_product_name: terminal strip",
+        "raw_product_name": "TERMINAL STRIPS",
+        "list_of_product_ids": "1,400,220,181",
+        "core_id": 2231.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.8627199,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-bc08e481-a9ae-551e-9e13-ace49d85e974",
+      "score": 0.86129487,
+      "metadata": {
+        "text": "core_product_name: measurement",
+        "raw_product_name": "VIBRATION MEASUREMENT",
+        "list_of_product_ids": "242,652,426,624,269",
+        "core_id": 2401.0
+      }
+    },
+    {
+      "id": "variant-9112cf55-afe4-5090-8742-bea6260431fa",
+      "score": 0.86097807,
+      "metadata": {
+        "text": "core_product_name: tertiary separator",
+        "raw_product_name": "TERTIARY SEPARATOR",
+        "list_of_product_ids": "60,965,263",
+        "core_id": 2234.0
+      }
+    },
+    {
+      "id": "variant-2ce23efe-d588-56de-9aaa-187d700a65d1",
+      "score": 0.85901034,
+      "metadata": {
+        "text": "core_product_name: column tray | size_or_capacity: High Capacity",
+        "raw_product_name": "COLUMN TRAYS-HIGH CAPACITY",
+        "list_of_product_ids": "6,705,587,612,418",
+        "core_id": 393.0
+      }
+    },
+    {
+      "id": "variant-cf8f9c44-e119-50e6-83e3-cb62e3df7638",
+      "score": 0.85687476,
+      "metadata": {
+        "text": "core_product_name: stop valve",
+        "raw_product_name": "STOP VALVES",
+        "list_of_product_ids": "140,692,290,625,962",
+        "core_id": 2119.0
+      }
+    },
+    {
+      "id": "variant-2a4f0b0f-4c92-5ae6-91ef-927efdea3958",
+      "score": 0.8567685,
+      "metadata": {
+        "text": "core_product_name: starter",
+        "raw_product_name": "STARTERS",
+        "list_of_product_ids": "20786,20780,20781,21197,21194,27047",
+        "core_id": 608.0
+      }
+    },
+    {
+      "id": "variant-b0c2061a-aa8d-5939-97cc-7b5703645203",
+      "score": 0.8564328,
+      "metadata": {
+        "text": "core_product_name: terminal box",
+        "raw_product_name": "TERMINAL BOX",
+        "list_of_product_ids": "141,951,736,936,609",
+        "core_id": 2230.0
+      }
+    },
+    {
+      "id": "variant-fb879217-9876-5ce0-86f6-605e1593cb4e",
+      "score": 0.8558904,
+      "metadata": {
+        "text": "core_product_name: diaphragm closure",
+        "raw_product_name": "DIAPHRAGM CLOSURE",
+        "list_of_product_ids": "19131,19138,19139,38481",
+        "core_id": 583.0
+      }
+    },
+    {
+      "id": "variant-21ca9ad2-0734-5bb0-aa9d-b6f8636420ac",
+      "score": 0.8555365,
+      "metadata": {
+        "text": "core_product_name: water stopper",
+        "raw_product_name": "WATER BARS / WATER STOPPER",
+        "list_of_product_ids": "182,573,213,533,350",
+        "core_id": 2432.0
+      }
+    },
+    {
+      "id": "variant-96f0d271-0132-58b0-a5ff-30856e6f26b3",
+      "score": 0.8553491,
+      "metadata": {
+        "text": "core_product_name: semiconductor",
+        "raw_product_name": "SEMICONDUCTORS",
+        "list_of_product_ids": "1,642,716,476",
+        "core_id": 1994.0
+      }
+    },
+    {
+      "id": "variant-2db910c5-abe4-5192-a8f5-249c0cfd5fae",
+      "score": 0.85509217,
+      "metadata": {
+        "text": "core_product_name: column",
+        "raw_product_name": "MAIN COLUMN",
+        "list_of_product_ids": "20854,20877,21906,21953,22019,22117",
+        "core_id": 392.0
+      }
+    },
+    {
+      "id": "variant-93987a99-4ac7-592e-92b4-e5207d77fe5d",
+      "score": 0.8548961,
+      "metadata": {
+        "text": "core_product_name: small fabrication job",
+        "raw_product_name": "SMALL FABRICATION JOB",
+        "list_of_product_ids": "24981,24980,24979,26756",
+        "core_id": 2044.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.85460716,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-0939de9d-e669-5a1a-879c-881e137e2952",
+      "score": 0.85449183,
+      "metadata": {
+        "text": "core_product_name: busbar terminal block",
+        "raw_product_name": "BUSBAR TERMINAL BLOCK",
+        "list_of_product_ids": "59,416,770",
+        "core_id": 260.0
+      }
+    },
+    {
+      "id": "variant-0f33bdf2-9734-5993-8011-fb21b37344ae",
+      "score": 0.8541578,
+      "metadata": {
+        "text": "core_product_name: stopper plug | material: Foam",
+        "raw_product_name": "FOAM PLUGS AS STOPPERS",
+        "list_of_product_ids": "9498,9578,9781,24714",
+        "core_id": 969.0
+      }
+    },
+    {
+      "id": "variant-35bdbbe9-b7f3-5e25-bd6d-8692b3ca9a57",
+      "score": 0.8540204,
+      "metadata": {
+        "text": "core_product_name: reducing socket",
+        "raw_product_name": "REDUCING SOCKET",
+        "list_of_product_ids": "1,547,915,481",
+        "core_id": 1881.0
+      }
+    },
+    {
+      "id": "variant-64dd023c-4e0c-53f1-ae6a-c0cadf9b4ca1",
+      "score": 0.8539544,
+      "metadata": {
+        "text": "core_product_name: terminal bushing",
+        "raw_product_name": "TERMINAL BUSHING",
+        "list_of_product_ids": "1,399,814,467",
+        "core_id": 2232.0
+      }
+    },
+    {
+      "id": "variant-75fc4a7d-16dd-5d37-b75d-d45334ff303c",
+      "score": 0.8539042,
+      "metadata": {
+        "text": "core_product_name: vacuum interrupter",
+        "raw_product_name": "VACUUM INTERRUPTER",
+        "list_of_product_ids": "6472,5643,35849,35848",
+        "core_id": 2337.0
+      }
+    },
+    {
+      "id": "variant-699a43b0-7687-5c69-996f-3aebb9c05522",
+      "score": 0.85383886,
+      "metadata": {
+        "text": "core_product_name: disposal level transmitter",
+        "raw_product_name": "Disposal Level Transmitters",
+        "list_of_product_ids": "17087,17086,17996,17997,18641",
+        "core_id": 653.0
+      }
+    },
+    {
+      "id": "variant-8321ba21-81de-5b9c-8d12-abf70ef9f615",
+      "score": 0.8534124,
+      "metadata": {
+        "text": "core_product_name: stop check valve",
+        "raw_product_name": "STOP CHECK VALVES",
+        "list_of_product_ids": "6227,5396,11264,8388,13262,31812",
+        "core_id": 2116.0
+      }
+    },
+    {
+      "id": "variant-31e56e16-75ec-5412-b9e7-ad5eff1c84b3",
+      "score": 0.8531824,
+      "metadata": {
+        "text": "core_product_name: stop check valve",
+        "raw_product_name": "STOP CHECK VALVE",
+        "list_of_product_ids": "86,478,624",
+        "core_id": 2116.0
+      }
+    },
+    {
+      "id": "variant-a32d8296-ea3c-51d4-95de-73a3824167db",
+      "score": 0.85311186,
+      "metadata": {
+        "text": "core_product_name: measurement system",
+        "raw_product_name": "MEASUREMENT SYSTEM",
+        "list_of_product_ids": "188,511,884,918,973",
+        "core_id": 1451.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.853111,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-05c9db43-5c4d-52ba-ab45-526ce58a2d3e",
+      "score": 0.85297924,
+      "metadata": {
+        "text": "core_product_name: thermal insulation",
+        "raw_product_name": "Thermal Insulation",
+        "list_of_product_ids": "7572,7247,11774,11775,7759,7755,7757,9770,12863,13002,13009,16997,17020,17014,34601",
+        "core_id": 2305.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "query": "core_product_name: lighting transformer | size: capacity: 200kva, voltage: 415v/433v | feature_or_specifications: vector group: dyn1, cooling type: natural air cooled dry type, feature: as per attached specifications & ds (data sheet)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting transformer | type_or_class: Dry Type",
+        "raw_product_name": "DRY TYPE LIGHTING TRANSFORMERS",
+        "list_of_product_ids": [
+          "5632",
+          "6461",
+          "7931",
+          "15572",
+          "15561",
+          "15581",
+          "15616",
+          "15617",
+          "15583",
+          "15567",
+          "15611",
+          "15585",
+          "15622",
+          "15578",
+          "15559",
+          "18301",
+          "18872",
+          "18918"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting transformer",
+        "raw_product_name": "LIGHTING TRANSFORMERS",
+        "list_of_product_ids": [
+          "17731",
+          "17727",
+          "18659",
+          "19486",
+          "35388"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: transformer | acronymed_core_product_name: ltg (lighting) transformer | type_or_class: Lighting (LTG)",
+        "raw_product_name": "LTG TRANSFORMER",
+        "list_of_product_ids": [
+          "15651",
+          "13691",
+          "14629",
+          "15643",
+          "17750",
+          "18278",
+          "18296",
+          "23017",
+          "23136",
+          "35378"
+        ]
+      }
+    }
+  ]
+}

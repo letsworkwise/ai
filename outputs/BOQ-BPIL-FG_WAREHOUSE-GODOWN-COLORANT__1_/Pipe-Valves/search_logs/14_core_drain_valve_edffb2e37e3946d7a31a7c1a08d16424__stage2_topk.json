@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: drain valve | size: size: 25NB | feature_or_specifications: type: ball valve",
+  "retrieval_results": [
+    {
+      "id": "variant-3609deac-bc1d-5699-83b8-3df0b386bebd",
+      "score": 0.8779629,
+      "metadata": {
+        "text": "core_product_name: control valve | type_or_class: Ball",
+        "raw_product_name": "CONTROL VALVES- BALL",
+        "list_of_product_ids": "32610,32607,32698,35466,36137",
+        "core_id": 468.0
+      }
+    },
+    {
+      "id": "variant-f590f7a6-26f4-5ed2-9a50-e4a31d97fa97",
+      "score": 0.87670165,
+      "metadata": {
+        "text": "core_product_name: on-off valve | type_or_class: Ball",
+        "raw_product_name": "ON-OFF VALVES (BALL VALVES)",
+        "list_of_product_ids": "13829,23737,22525,25961,34320,39777,39940,40281,40273",
+        "core_id": 1594.0
+      }
+    },
+    {
+      "id": "variant-e250c010-85e4-5944-91ae-fde2f1037108",
+      "score": 0.8751041,
+      "metadata": {
+        "text": "core_product_name: ball valve | construction_features: metal seated",
+        "raw_product_name": "BALL VALVES (METAL SEATED)",
+        "list_of_product_ids": "8689",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-8383cdc4-4669-51eb-9ff6-98d97836179f",
+      "score": 0.87500393,
+      "metadata": {
+        "text": "core_product_name: ball valve | construction_features: metal seated",
+        "raw_product_name": "VALVE BALL (METEL SEATED)",
+        "list_of_product_ids": "7299,7347,8139,8144,22518,22650,37224,37225,37226,37228,37227,37232,35477",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-abbf2ea6-698f-53b7-9aa3-212f66f18d0e",
+      "score": 0.87446415,
+      "metadata": {
+        "text": "core_product_name: ball valve",
+        "raw_product_name": "VALVE BALL",
+        "list_of_product_ids": "6237,5406,11008,11005,29396,10351,10404,10409,11226,11395,9949,9951,9954,6846,6850,6855,6860,6865,6870,6875,6880,6885,6890,6895,7868,7869,8147,8156,8162,8141,8145,8150,8157,8598,8727,8789,12309,12569,12696,13281,9950,15595,17774,17756,17834,18076,18082,18089,18093,18095,18943,19750,19905,23740,22358,31567,30829,30836,30838,30842,30848,29302,36589,35452,35713,36452,39882,39941,40280,40272",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-4a623acd-c8c3-5901-be84-c39264196328",
+      "score": 0.8742174,
+      "metadata": {
+        "text": "core_product_name: ball valve",
+        "raw_product_name": "VALVE BALL AS",
+        "list_of_product_ids": "14020,23054,37162,37113,37126,37136,37148,37168,37180,37205",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-4062373c-a7af-5184-b5af-32d3b472f76f",
+      "score": 0.8717854,
+      "metadata": {
+        "text": "core_product_name: ball valve | construction_features: forged",
+        "raw_product_name": "VALVE BALL FORGED",
+        "list_of_product_ids": "140,222,209,935,458",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-c7705ca8-9e08-59c2-85e7-b01f6b79d8ef",
+      "score": 0.87022775,
+      "metadata": {
+        "text": "core_product_name: special control valve | type_or_class: Ball Control",
+        "raw_product_name": "SPECIAL CONTROL VALVES (BALL CONTROL)",
+        "list_of_product_ids": "6509,5680,6951,6954,8710,23766,28784,28783,28786,28785,34317,35467,36266,36419,39945,40006,40242,40285,40270",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-8fcbd664-dd9c-5ba2-b74b-c099d937e3e8",
+      "score": 0.86951965,
+      "metadata": {
+        "text": "core_product_name: ball valve | type_or_class: FS (Full Bore or Full Size)",
+        "raw_product_name": "VALVE BALL FS",
+        "list_of_product_ids": "8659",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-c5d8c1ee-6188-59f5-917e-d9b13fef3c37",
+      "score": 0.86934423,
+      "metadata": {
+        "text": "core_product_name: ball valve | material: Incoloy",
+        "raw_product_name": "BALL VALVE (INCOLLOY)",
+        "list_of_product_ids": "14183,14895,35470,35621",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-4d5e6e53-120c-5d65-8cd9-e3aa1fd0aae7",
+      "score": 0.86927265,
+      "metadata": {
+        "text": "core_product_name: ball valve | construction_features: soft seated",
+        "raw_product_name": "VALVE BALL (SOFT SEATED)",
+        "list_of_product_ids": "7298,7346,8138,22343,37219,37220,37221,37222,37215,37216,37217,37218,35476",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-524e8bc8-054a-5c18-9fc7-729fdd1281ff",
+      "score": 0.86783564,
+      "metadata": {
+        "text": "core_product_name: ball valve | protection_features: Fire Safe | construction_features: Forged",
+        "raw_product_name": "VALVE BALL - FIRE SAFE (FORGED)",
+        "list_of_product_ids": "6243,5412,11560,11419,7863,8146,8306,8682,13270,17679,23744,35459,39857,39939,40071,40212",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-ed37c0af-376b-5f16-aeea-adb4f0a76606",
+      "score": 0.86749864,
+      "metadata": {
+        "text": "core_product_name: bore ball valve | type_or_class: Full or Reduced Bore",
+        "raw_product_name": "FULL & REDUCED BORE BALL VALVE",
+        "list_of_product_ids": "1,368,835,461",
+        "core_id": 985.0
+      }
+    },
+    {
+      "id": "variant-dca3f895-fedd-56a0-84b8-9598344e852e",
+      "score": 0.8673311,
+      "metadata": {
+        "text": "core_product_name: isolation ball valve",
+        "raw_product_name": "ISOLATION BALL VALVE",
+        "list_of_product_ids": "137,713,547,237,397",
+        "core_id": 1298.0
+      }
+    },
+    {
+      "id": "variant-325b97bf-5fa7-5d4f-a962-b3ee52bdf6ec",
+      "score": 0.86685675,
+      "metadata": {
+        "text": "core_product_name: drain valve | type_or_class: 2-way",
+        "raw_product_name": "2-WAY DRAIN VALVES",
+        "list_of_product_ids": "8604,14150,22610,22890",
+        "core_id": 14.0
+      }
+    },
+    {
+      "id": "variant-efdb568d-496b-521d-a63d-9bc15877db87",
+      "score": 0.86604273,
+      "metadata": {
+        "text": "core_product_name: ball valve | material: CS (Carbon Steel) | type_or_class: NON NACE (Non-National Association of Corrosion Engineers)",
+        "raw_product_name": "BALL VALVE CS NON NACE",
+        "list_of_product_ids": "14185,14942,15072,15093,16600,16599,22520,16661,33098,33379,35474,36336,36188",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-145bf8a5-2999-5fbf-8101-fe9937866c4f",
+      "score": 0.8626488,
+      "metadata": {
+        "text": "core_product_name: full bore ball valve",
+        "raw_product_name": "FULL BORE BALL VALVE",
+        "list_of_product_ids": "13495,14676,14684,14870,14927,15073,15125,22526,34318,35460",
+        "core_id": 986.0
+      }
+    },
+    {
+      "id": "variant-e781b3c8-7fc2-56f0-a3b4-83a62f6bf096",
+      "score": 0.86181575,
+      "metadata": {
+        "text": "core_product_name: ball valve | material: CS (Carbon Steel)",
+        "raw_product_name": "VALVE BALL CS",
+        "list_of_product_ids": "11555,7094,7421,11646,11664,10311,10447,11307,8276,8299,8657,8672,12022,12040,12031,12372,12439,12506,13250,19448,19526,20025,20190,22397,37160,36771,37111,37124,37134,37146,35454,37167,37203,37179",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-bb9c9e0a-7e85-58f5-b2e6-8a51d54697e7",
+      "score": 0.8614192,
+      "metadata": {
+        "text": "core_product_name: ball valve | material: SS (Stainless Steel) | type_or_class: Non NACE (National Association of Corrosion Engineers)",
+        "raw_product_name": "BALL VALVE SS NON NACE",
+        "list_of_product_ids": "14184,15095,16843,22521,33506,35465,36190,36338",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-31cd092d-df2a-5214-ab04-415e47969930",
+      "score": 0.86111027,
+      "metadata": {
+        "text": "core_product_name: ball valve | material: CS (Carbon Steel) | standards_and_approvals: NACE (National Association of Corrosion Engineers)",
+        "raw_product_name": "BALL VALVE (CS NACE)",
+        "list_of_product_ids": "14392,14888,15092,15124,15734,15755,15751,15809,15803,15860,15844,15892,15911,15910,22519,32725,32729,32814,33097,33813,33896,35463,35996,36187,36335",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-47a10abd-6e0c-5d5b-bf9a-1068264e8ac1",
+      "score": 0.86106527,
+      "metadata": {
+        "text": "core_product_name: ball valve | material: CS (Carbon Steel) | operating_conditions: Subsea",
+        "raw_product_name": "BALL VALVES CS - SUBSEA",
+        "list_of_product_ids": "194,302,826,535,475",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-15650bfc-1af5-55f1-9fea-5f238cf07439",
+      "score": 0.8610336,
+      "metadata": {
+        "text": "core_product_name: ball valve | material: SS (Stainless Steel)",
+        "raw_product_name": "VALVE BALL SS",
+        "list_of_product_ids": "11556,7095,7422,11647,11665,10312,10448,11308,9467,9474,9478,8277,8300,8658,8673,12373,12440,12507,13251,18306,24272,19449,24274,19527,20024,20191,22398,37161,36772,37112,37125,37135,37147,37169,35453,37181,37204",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-aaa2f240-83fa-568b-858b-c84dbbeeaf1e",
+      "score": 0.86085147,
+      "metadata": {
+        "text": "core_product_name: ball valve | material: SS (Stainless Steel) | standards_and_approvals: NACE (National Association of Corrosion Engineers)",
+        "raw_product_name": "BALL VALVE SS NACE",
+        "list_of_product_ids": "14186,15094,16842,22522,33505,35464,36189,36337",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-50965ce0-da9f-5ccd-8e38-934aa3d27a7e",
+      "score": 0.86080337,
+      "metadata": {
+        "text": "core_product_name: reduced bore ball valve",
+        "raw_product_name": "REDUCED BORE BALL VALVE",
+        "list_of_product_ids": "13496,14677,14685,14871,14928,15074,15126,22527,34319,35462",
+        "core_id": 1878.0
+      }
+    },
+    {
+      "id": "variant-7baa03d1-2432-5de6-bac6-0e957298f462",
+      "score": 0.86025757,
+      "metadata": {
+        "text": "core_product_name: ball valve | protection_features: Non Fire Safe | type_or_class: CCS",
+        "raw_product_name": "VALVE BALL NON FIRE SAFE-CCS",
+        "list_of_product_ids": "6239,5408,11122,11627,11642,10428,11227,11267,11296,7859,7819,8281,8302,8553,8628,8661,8678,12310,12334,12432,12448,12495,12549,12963,13268,17582,17677,23741,21268,30056,36764,32808,33493,35485,36250,36403",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-b31c2418-e0d1-5055-9275-56401fa3128d",
+      "score": 0.85992175,
+      "metadata": {
+        "text": "core_product_name: ball valve | material: Non Ferrous",
+        "raw_product_name": "Non Ferrous Valves (Ball)",
+        "list_of_product_ids": "7512,7187,17850,18512,34247,34279,35478",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-0b364305-53f2-5a89-8156-099caaee315c",
+      "score": 0.8597808,
+      "metadata": {
+        "text": "core_product_name: ball valve | protection_features: fire safe | material: C.S (Carbon Steel) | type_or_class: Non NACE (National Association of Corrosion Engineers)",
+        "raw_product_name": "VALVE BALL FIRE SAFE-C.S NON NACE",
+        "list_of_product_ids": "16508,16512,16598,16583,16582,16575,16581,33495,35486,36361",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-40a5a151-0194-5961-8a52-d8d8718c51bd",
+      "score": 0.85936373,
+      "metadata": {
+        "text": "core_product_name: ball valve | standards_and_approvals: API 6D (American Petroleum Institute 6D) | construction_features: Metal Seat",
+        "raw_product_name": "VALVE BALL PIPE LINE (API6D/METAL SEAT)",
+        "list_of_product_ids": "6208,5377,11608,11121,11120,11238,11248,11294,8675,12379,31562,31709,30055,35489,36249,36402",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-ddfea348-a50f-5f61-8bcd-8b8fdb943271",
+      "score": 0.85869426,
+      "metadata": {
+        "text": "core_product_name: ball cryogenic valve | type_or_class: Ball | operating_conditions: Cryogenic",
+        "raw_product_name": "VALVE BALL CRYOGENIC",
+        "list_of_product_ids": "6238,5407,11266,8301,8677,13267,35473",
+        "core_id": 2340.0
+      }
+    },
+    {
+      "id": "variant-624ba7e4-dae5-5801-ac32-fc98eac6de2b",
+      "score": 0.8581631,
+      "metadata": {
+        "text": "core_product_name: safety valve | type_or_class: Spring Type",
+        "raw_product_name": "SAFETY VALVES(SPRING TYPE)",
+        "list_of_product_ids": "7610,7285,11131,11825,7847",
+        "core_id": 1950.0
+      }
+    }
+  ]
+}

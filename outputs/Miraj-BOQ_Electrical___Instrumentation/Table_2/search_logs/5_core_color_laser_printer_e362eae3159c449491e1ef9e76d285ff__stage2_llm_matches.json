@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: color laser printer | size: paper size: a-4 | feature_or_specifications: feature: approved make, feature: latest model, feature: added feature acceptable, location: security room",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: colour printer | type_or_class: LaserJet (Laser Jet)",
+        "raw_product_name": "LASERJET COLOUR PRINTER",
+        "list_of_product_ids": [
+          "191",
+          "561",
+          "915",
+          "726",
+          "940"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: printer",
+        "raw_product_name": "PRINTER",
+        "list_of_product_ids": [
+          "20435",
+          "20538",
+          "20577",
+          "20641",
+          "20698",
+          "20755"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: toner cartridge | accessories_or_attachments: computer printer",
+        "raw_product_name": "COMPUTER PRINTER- TONER CARTRIDGE",
+        "list_of_product_ids": [
+          "193",
+          "212",
+          "338",
+          "528",
+          "071"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8598742,
+      "text": "core_product_name: bucket",
+      "core_id": 734.0,
+      "raw_product_name": "ELEVATOR -BUCKET",
+      "list_of_product_ids": [
+        "6124",
+        "5291",
+        "9598",
+        "9720",
+        "9741",
+        "9736"
+      ]
+    },
+    {
+      "retrieval_score": 0.84893095,
+      "text": "core_product_name: bucket wheel excavator",
+      "core_id": 768.0,
+      "raw_product_name": "EXCAVATOR (BUCKET WHEEL)",
+      "list_of_product_ids": [
+        "6",
+        "175",
+        "534",
+        "623",
+        "283"
+      ]
+    },
+    {
+      "retrieval_score": 0.8479809,
+      "text": "core_product_name: sand blasting work",
+      "core_id": 1956.0,
+      "raw_product_name": "SAND BLASTING WORK",
+      "list_of_product_ids": [
+        "1",
+        "688",
+        "927",
+        "906"
+      ]
+    },
+    {
+      "retrieval_score": 0.8474315,
+      "text": "core_product_name: fire bucket",
+      "core_id": 841.0,
+      "raw_product_name": "FIRE BUCKET",
+      "list_of_product_ids": [
+        "19466",
+        "19467",
+        "19465",
+        "19463",
+        "19523",
+        "19530",
+        "19551",
+        "19558"
+      ]
+    },
+    {
+      "retrieval_score": 0.8455488,
+      "text": "core_product_name: buckstay",
+      "core_id": 248.0,
+      "raw_product_name": "BUCKSTAY",
+      "list_of_product_ids": [
+        "18985",
+        "18989",
+        "18976",
+        "19916",
+        "20879",
+        "20901",
+        "21909",
+        "22022",
+        "22120"
+      ]
+    },
+    {
+      "retrieval_score": 0.8410824,
+      "text": "core_product_name: condenser bushing",
+      "core_id": 433.0,
+      "raw_product_name": "CONDENSER BUSHING",
+      "list_of_product_ids": [
+        "1",
+        "396",
+        "114",
+        "860"
+      ]
+    },
+    {
+      "retrieval_score": 0.83817405,
+      "text": "core_product_name: rod | material: TUNGUSTEN",
+      "core_id": 2297.0,
+      "raw_product_name": "TUNGUSTEN ROD",
+      "list_of_product_ids": [
+        "32956",
+        "32957",
+        "33017",
+        "33204",
+        "33269",
+        "33571",
+        "33642",
+        "35931"
+      ]
+    },
+    {
+      "retrieval_score": 0.8380868,
+      "text": "core_product_name: sockolet",
+      "core_id": 2051.0,
+      "raw_product_name": "SOCKOLETS",
+      "list_of_product_ids": [
+        "14394",
+        "14718",
+        "14721",
+        "14724",
+        "19814",
+        "22921"
+      ]
+    },
+    {
+      "retrieval_score": 0.8374426,
+      "text": "core_product_name: terminal bushing",
+      "core_id": 2232.0,
+      "raw_product_name": "TERMINAL BUSHING",
+      "list_of_product_ids": [
+        "1",
+        "399",
+        "814",
+        "467"
+      ]
+    },
+    {
+      "retrieval_score": 0.8371132,
+      "text": "core_product_name: fabrication and supply buckstay",
+      "core_id": 249.0,
+      "raw_product_name": "BUCKSTAY (FABRICATION & SUPPLY)",
+      "list_of_product_ids": [
+        "210",
+        "512",
+        "105",
+        "028",
+        "065"
+      ]
+    },
+    {
+      "retrieval_score": 0.83596724,
+      "text": "core_product_name: stabiliser",
+      "core_id": 2013.0,
+      "raw_product_name": "SHIP STABILISER",
+      "list_of_product_ids": [
+        "26062",
+        "26056",
+        "26055",
+        "26678"
+      ]
+    },
+    {
+      "retrieval_score": 0.8357737,
+      "text": "core_product_name: fountain",
+      "core_id": 980.0,
+      "raw_product_name": "FOUNTAIN",
+      "list_of_product_ids": [
+        "14369",
+        "19868",
+        "19869",
+        "19870"
+      ]
+    },
+    {
+      "retrieval_score": 0.8357305,
+      "text": "core_product_name: suction manifold",
+      "core_id": 2148.0,
+      "raw_product_name": "SUCTION MANIFOLDS",
+      "list_of_product_ids": [
+        "210",
+        "862",
+        "138",
+        "127",
+        "792"
+      ]
+    },
+    {
+      "retrieval_score": 0.8357253,
+      "text": "core_product_name: electro-pneumatic positioner",
+      "core_id": 716.0,
+      "raw_product_name": "ELECTRO - PNEUMATIC POSITIONER",
+      "list_of_product_ids": [
+        "4",
+        "019",
+        "640",
+        "266"
+      ]
+    },
+    {
+      "retrieval_score": 0.83558667,
+      "text": "core_product_name: angle holder",
+      "core_id": 114.0,
+      "raw_product_name": "ANGLE OLDER",
+      "list_of_product_ids": [
+        "20489",
+        "20488",
+        "20545",
+        "20585",
+        "20636",
+        "20691",
+        "20749"
+      ]
+    },
+    {
+      "retrieval_score": 0.83528566,
+      "text": "core_product_name: socket",
+      "core_id": 2048.0,
+      "raw_product_name": "SOCKET",
+      "list_of_product_ids": [
+        "7559",
+        "7233",
+        "10501",
+        "22289",
+        "26077",
+        "26073",
+        "26072",
+        "36553",
+        "37010",
+        "37292",
+        "35869",
+        "35891",
+        "35944"
+      ]
+    },
+    {
+      "retrieval_score": 0.8352004,
+      "text": "core_product_name: steam trap | type_or_class: bucket or thermodynamic (TH.DYN) or thermostatic (TH.STAT) or float",
+      "core_id": 2110.0,
+      "raw_product_name": "STEAM TRAPS-BUCKET/TH.DYN/TH.STAT/FLOAT",
+      "list_of_product_ids": [
+        "6009",
+        "5188",
+        "10417",
+        "11477",
+        "11475",
+        "8385",
+        "8439",
+        "8573",
+        "8859",
+        "12840",
+        "22045",
+        "22694",
+        "23713",
+        "23685"
+      ]
+    },
+    {
+      "retrieval_score": 0.8351464,
+      "text": "core_product_name: flare stack",
+      "core_id": 906.0,
+      "raw_product_name": "FLARE STACK",
+      "list_of_product_ids": [
+        "7099",
+        "7426",
+        "11802",
+        "8321",
+        "8429"
+      ]
+    },
+    {
+      "retrieval_score": 0.8349069,
+      "text": "core_product_name: built up beam",
+      "core_id": 252.0,
+      "raw_product_name": "BUILT UP BEAM",
+      "list_of_product_ids": [
+        "20856",
+        "20878",
+        "20900",
+        "27079"
+      ]
+    },
+    {
+      "retrieval_score": 0.8348526,
+      "text": "core_product_name: spring hanger",
+      "core_id": 2188.0,
+      "raw_product_name": "Spring Hangers",
+      "list_of_product_ids": [
+        "7",
+        "540",
+        "721",
+        "421",
+        "956"
+      ]
+    },
+    {
+      "retrieval_score": 0.83478886,
+      "text": "core_product_name: dust collector",
+      "core_id": 645.0,
+      "raw_product_name": "DUST COLLECTOR",
+      "list_of_product_ids": [
+        "9887",
+        "9897",
+        "14442",
+        "14478"
+      ]
+    },
+    {
+      "retrieval_score": 0.83468485,
+      "text": "core_product_name: button holder",
+      "core_id": 262.0,
+      "raw_product_name": "BUTTON HOLDER",
+      "list_of_product_ids": [
+        "20487",
+        "20546",
+        "20586",
+        "20635",
+        "20690",
+        "20748"
+      ]
+    },
+    {
+      "retrieval_score": 0.83462816,
+      "text": "core_product_name: spring support",
+      "core_id": 2091.0,
+      "raw_product_name": "SPRING SUPPORTS",
+      "list_of_product_ids": [
+        "6004",
+        "5183",
+        "9701",
+        "9700",
+        "9702",
+        "9705",
+        "17354",
+        "18783",
+        "36942"
+      ]
+    },
+    {
+      "retrieval_score": 0.8346016,
+      "text": "core_product_name: soldering station",
+      "core_id": 2064.0,
+      "raw_product_name": "SOLDERING STATION",
+      "list_of_product_ids": [
+        "154",
+        "291",
+        "875",
+        "238",
+        "511"
+      ]
+    },
+    {
+      "retrieval_score": 0.83432484,
+      "text": "core_product_name: maintenance sanitary ware",
+      "core_id": 1958.0,
+      "raw_product_name": "SANITARY WARE MAINTENANCE",
+      "list_of_product_ids": [
+        "246",
+        "452",
+        "464",
+        "726",
+        "799"
+      ]
+    },
+    {
+      "retrieval_score": 0.834155,
+      "text": "core_product_name: stack system",
+      "core_id": 105.0,
+      "raw_product_name": "ANALYSE STACK SYSTEM",
+      "list_of_product_ids": [
+        "14177",
+        "15200",
+        "15201",
+        "18807",
+        "37857"
+      ]
+    },
+    {
+      "retrieval_score": 0.8337613,
+      "text": "core_product_name: precast drain",
+      "core_id": 1759.0,
+      "raw_product_name": "PRECAST DRAIN",
+      "list_of_product_ids": [
+        "15738",
+        "15756",
+        "15763",
+        "15770",
+        "15879"
+      ]
+    },
+    {
+      "retrieval_score": 0.83364105,
+      "text": "core_product_name: hydromix dust conditioner",
+      "core_id": 1209.0,
+      "raw_product_name": "HYDROMIX DUST CONDITIONER",
+      "list_of_product_ids": [
+        "13442",
+        "14450",
+        "14486",
+        "14534"
+      ]
+    },
+    {
+      "retrieval_score": 0.83325475,
+      "text": "core_product_name: bracing",
+      "core_id": 239.0,
+      "raw_product_name": "BRACING",
+      "list_of_product_ids": [
+        "20880",
+        "20863",
+        "20902",
+        "21910",
+        "21951",
+        "22023",
+        "22088",
+        "22121"
+      ]
+    },
+    {
+      "retrieval_score": 0.83324414,
+      "text": "core_product_name: water stopper",
+      "core_id": 2432.0,
+      "raw_product_name": "WATER BARS / WATER STOPPER",
+      "list_of_product_ids": [
+        "182",
+        "573",
+        "213",
+        "533",
+        "350"
+      ]
+    }
+  ]
+}

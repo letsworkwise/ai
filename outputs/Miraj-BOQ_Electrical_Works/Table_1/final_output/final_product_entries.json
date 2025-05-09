@@ -1,0 +1,823 @@
+{
+  "sheet_name": "Table 1",
+  "boq_context": "MIRAJ ENGINEERING SERVICES PVT. LTD. |  |  |  |  | \nBOQ-Supply for Electrical work of 2x800MW MEL Ph-II at Singrauli, Madhya Pradesh |  |  |  |  | ",
+  "header_rows": "Sl. No. | Items Description |  | UOM | Sub summary | QTY\n | Supply of following items |  |  |  | ",
+  "products_entries": [
+    {
+      "section_context_for_this_product_block": [
+        "A | UPS"
+      ],
+      "full_product_description": "1 | 5kVA Stand-Alone UPS with SCVS Bypass, battery bank (1X 100%) having 1hr backup along with it's mounting Stainless Steel rack, Battery isolation box & Intercell connectors suitable for batteries and along with required cable & cablibg accessories for UPS, battery bank, UPS ACDB.  (For Raw Water reservoir Control room) 5 KVA UPS DB shall have below feeders Incoming : 63 A DP MCCB : 2 nos Outgoing : 16A DP MCB (12 Nos) : 32A DP MCB (4 Nos) : 6A DP MCB (4 Nos)",
+      "core_product_name": "uninterruptible power supply",
+      "acronymed_core_product_name": "ups (uninterruptible power supply)",
+      "size": "capacity: 5 kVA, backup: 1 hr",
+      "feature_or_specifications": "bypass: scvs (static continuous voltage stabilizer), battery bank: 1x100%, mounting: stainless steel rack, accessories: battery isolation box, intercell connectors, required cable & cabling accessories for ups, battery bank, ups acdb, location: raw water reservoir control room, db feeders: incoming 63 a dp mccb 2 nos, outgoing 16a dp mcb 12 nos, 32a dp mcb 4 nos, 6a dp mcb 4 nos",
+      "quantity": "1.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "B | DC System 220 Volt (Battery Charger & Battery Bank)"
+      ],
+      "full_product_description": "1 | 50AH, 220V DC Battery (1x100%) & 25A Battery Charger (Dual Float cum boost battery charger) complete with Rack, accessories etc. &  220V DC distribution board. Intercoinnecting DC cable between battery, battery cherger, Battery isolation box and 220V DC distribuion board. 220V DCDB Incoming : 63 A DP MCCB : 1 nos Outgoing : 16A DP MCB (6 Nos) : 32A DP MCB (6 Nos)",
+      "core_product_name": "dc system",
+      "acronymed_core_product_name": "dc system",
+      "size": "battery capacity: 50AH, battery voltage: 220V, charger current: 25A",
+      "feature_or_specifications": "battery bank: 1x100%, charger type: dual float cum boost battery charger, includes: rack, accessories, 220v dc distribution board, interconnecting dc cable between battery, battery charger, battery isolation box and 220v dc distribution board, dcdb feeders: incoming 63 a dp mccb 1 nos, outgoing 16a dp mcb 6 nos, 32a dp mcb 6 nos",
+      "quantity": "1.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "1 | 11 KV (UE) Heat Shrinkable Indoor End Termination With Double Compression Gland | 1C x 400 sqmm AL",
+      "core_product_name": "heat shrinkable indoor end termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1C x 400 sqmm",
+      "feature_or_specifications": "voltage: 11 kv (ue), gland type: double compression, conductor material: aluminium",
+      "quantity": "270.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "2 | nan | 1C x 300 sqmm AL",
+      "core_product_name": "heat shrinkable indoor end termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1C x 300 sqmm",
+      "feature_or_specifications": "voltage: 11 kv (ue), gland type: double compression, conductor material: aluminium",
+      "quantity": "40.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "3 | nan | 3C x 240 sqmm AL",
+      "core_product_name": "heat shrinkable indoor end termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3C x 240 sqmm",
+      "feature_or_specifications": "voltage: 11 kv (ue), gland type: double compression, conductor material: aluminium",
+      "quantity": "150.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "4 | nan | 3C x 300 sqmm AL",
+      "core_product_name": "heat shrinkable indoor end termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3C x 300 sqmm",
+      "feature_or_specifications": "voltage: 11 kv (ue), gland type: double compression, conductor material: aluminium",
+      "quantity": "10.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "5 | 11 KV (UE) Heat Shrinkable Outdoor Straight Through Termination | 1C x 400 sqmm AL",
+      "core_product_name": "heat shrinkable outdoor straight through termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1C x 400 sqmm",
+      "feature_or_specifications": "voltage: 11 kv (ue), conductor material: aluminium",
+      "quantity": "160.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "6 | nan | 1C x 300 sqmm AL",
+      "core_product_name": "heat shrinkable outdoor straight through termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1C x 300 sqmm",
+      "feature_or_specifications": "voltage: 11 kv (ue), conductor material: aluminium",
+      "quantity": "30.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "7 | nan | 3C x 240 sqmm AL",
+      "core_product_name": "heat shrinkable outdoor straight through termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3C x 240 sqmm",
+      "feature_or_specifications": "voltage: 11 kv (ue), conductor material: aluminium",
+      "quantity": "90.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "8 | nan | 3C x 300 sqmm AL",
+      "core_product_name": "heat shrinkable outdoor straight through termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3C x 300 sqmm",
+      "feature_or_specifications": "voltage: 11 kv (ue), conductor material: aluminium",
+      "quantity": "6.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "9 | 6.6 KV (UE) Heat Shrinkable Indoor End Termination With Double Compression Gland | 1C x 185 sqmm AL",
+      "core_product_name": "heat shrinkable indoor end termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1C x 185 sqmm",
+      "feature_or_specifications": "voltage: 6.6 kv (ue), gland type: double compression, conductor material: aluminium",
+      "quantity": "24.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "10 | nan | 3C x 185 sqmm AL",
+      "core_product_name": "heat shrinkable indoor end termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3C x 185 sqmm",
+      "feature_or_specifications": "voltage: 6.6 kv (ue), gland type: double compression, conductor material: aluminium",
+      "quantity": "100.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "11 | nan | 3C x 300 sqmm AL",
+      "core_product_name": "heat shrinkable indoor end termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3C x 300 sqmm",
+      "feature_or_specifications": "voltage: 6.6 kv (ue), gland type: double compression, conductor material: aluminium",
+      "quantity": "20.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "12 | 6.6 KV (UE) Heat Shrinkable  Outdoor Straight Through Termination | 1C x 185 sqmm AL",
+      "core_product_name": "heat shrinkable outdoor straight through termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1C x 185 sqmm",
+      "feature_or_specifications": "voltage: 6.6 kv (ue), conductor material: aluminium",
+      "quantity": "2.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "13 | nan | 3C x 185 sqmm AL",
+      "core_product_name": "heat shrinkable outdoor straight through termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3C x 185 sqmm",
+      "feature_or_specifications": "voltage: 6.6 kv (ue), conductor material: aluminium",
+      "quantity": "76.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "14 | nan | 3C x 300 sqmm AL",
+      "core_product_name": "heat shrinkable outdoor straight through termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3C x 300 sqmm",
+      "feature_or_specifications": "voltage: 6.6 kv (ue), conductor material: aluminium",
+      "quantity": "2.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "15 | 11 KV (UE) Heat Shrinkable  Outdoor End Termination Kit for NGR | 1C x 300 sqmm AL",
+      "core_product_name": "heat shrinkable outdoor end termination kit",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1C x 300 sqmm",
+      "feature_or_specifications": "voltage: 11 kv (ue), application: ngr (neutral grounding resistor), conductor material: aluminium",
+      "quantity": "16.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "16 | 6.6 KV (UE) Heat Shrinkable  Outdoor End Termination Kit for NGR | 1C x 185 sqmm AL",
+      "core_product_name": "heat shrinkable outdoor end termination kit",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1C x 185 sqmm",
+      "feature_or_specifications": "voltage: 6.6 kv (ue), application: ngr (neutral grounding resistor), conductor material: aluminium",
+      "quantity": "24.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "C | 11 KV (UE) & 6.6 KV (UE) HT Cable Jointing & End Termination"
+      ],
+      "full_product_description": "17 | 19/33 KV (E)Heat Shrinkable Indoor End Termination With Double Compression Gland | 1C x 400 sqmm AL",
+      "core_product_name": "heat shrinkable indoor end termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1C x 400 sqmm",
+      "feature_or_specifications": "voltage: 19/33 kv (e), gland type: double compression, conductor material: aluminium",
+      "quantity": "6.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "D | Trefoil Cable Clamps (Material PVC)"
+      ],
+      "full_product_description": "1 | 11 KV (UE) grade, Aluminium conductor, XLPE insulated, FRLS PVC | 1Cx400 mm2 (Dia - 55mm)",
+      "core_product_name": "trefoil cable clamp",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1Cx400 mm2, diameter: 55mm",
+      "feature_or_specifications": "voltage: 11 kv (ue), conductor material: aluminium, insulation: xlpe (cross-linked polyethylene), sheath: frls (flame retardant low smoke) pvc (polyvinyl chloride), clamp material: pvc (polyvinyl chloride)",
+      "quantity": "12000.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "D | Trefoil Cable Clamps (Material PVC)"
+      ],
+      "full_product_description": "nan | sheathed armoured cables | 1Cx300 mm2 (Dia - 45mm)",
+      "core_product_name": "trefoil cable clamp",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1Cx300 mm2, diameter: 45mm",
+      "feature_or_specifications": "sheath: armoured, clamp material: pvc (polyvinyl chloride)",
+      "quantity": "2000.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "D | Trefoil Cable Clamps (Material PVC)"
+      ],
+      "full_product_description": "2 | 6.6 KV (UE) grade, Aluminium conductor, XLPE insulated, FRLS PVC sheathed armoured cables | 1Cx185 mm2 (Dia - 40mm)",
+      "core_product_name": "trefoil cable clamp",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1Cx185 mm2, diameter: 40mm",
+      "feature_or_specifications": "voltage: 6.6 kv (ue), conductor material: aluminium, insulation: xlpe (cross-linked polyethylene), sheath: frls (flame retardant low smoke) pvc (polyvinyl chloride), armoured, clamp material: pvc (polyvinyl chloride)",
+      "quantity": "20.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "D | Trefoil Cable Clamps (Material PVC)"
+      ],
+      "full_product_description": "3 | 1,1 KV (UE) grade, Aluminium conductor, XLPE insulated, FRLS PVC sheathed armoured cables | 1Cx630 mm2 (Dia - 45mm)",
+      "core_product_name": "trefoil cable clamp",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1Cx630 mm2, diameter: 45mm",
+      "feature_or_specifications": "voltage: 1.1 kv (ue), conductor material: aluminium, insulation: xlpe (cross-linked polyethylene), sheath: frls (flame retardant low smoke) pvc (polyvinyl chloride), armoured, clamp material: pvc (polyvinyl chloride)",
+      "quantity": "5000.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "D | Trefoil Cable Clamps (Material PVC)"
+      ],
+      "full_product_description": "4 | 1,1 KV (UE) grade, Aluminium conductor, XLPE insulated, FRLS PVC sheathed armoured cables | 1Cx400 mm2 (Dia - 65mm)",
+      "core_product_name": "trefoil cable clamp",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1Cx400 mm2, diameter: 65mm",
+      "feature_or_specifications": "voltage: 1.1 kv (ue), conductor material: aluminium, insulation: xlpe (cross-linked polyethylene), sheath: frls (flame retardant low smoke) pvc (polyvinyl chloride), armoured, clamp material: pvc (polyvinyl chloride)",
+      "quantity": "4000.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "1 | 1.1kV, 90 Deg.C rating, heavy duty power cables with stranded Copper conductor, extruded XLPE insulation, extruded PVC, FRLS inner sheath (Type-ST2), aluminium round wire armour for single core cables and galvanized steel strip /wire armour for Multi core cables, and extruded PVC, FR-LSH (Type-ST2) overall sheath. | 2Cx2.5 sqmm Cu",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2Cx2.5 sqmm",
+      "feature_or_specifications": "voltage: 1.1kv, temperature rating: 90 deg.c, cable type: heavy duty, conductor material: copper, insulation: xlpe (cross-linked polyethylene), inner sheath: frls (flame retardant low smoke) pvc (polyvinyl chloride) type-st2, armour: aluminium round wire (single core), galvanized steel strip/wire (multi core), overall sheath: fr-lsh (flame retardant low smoke halogen) pvc (polyvinyl chloride) type-st2",
+      "quantity": "500.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "2 | 3Cx2.5 sqmm Cu | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3Cx2.5 sqmm",
+      "feature_or_specifications": "conductor material: copper, kit type: termination kit",
+      "quantity": "3500.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "3 | 4Cx2.5 sqmm Cu | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 4Cx2.5 sqmm",
+      "feature_or_specifications": "conductor material: copper, kit type: termination kit",
+      "quantity": "20.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "4 | 2Cx4 sqmm Cu | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2Cx4 sqmm",
+      "feature_or_specifications": "conductor material: copper, kit type: termination kit",
+      "quantity": "120.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "5 | 3Cx4 sqmm Cu | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3Cx4 sqmm",
+      "feature_or_specifications": "conductor material: copper, kit type: termination kit",
+      "quantity": "100.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "6 | 4Cx4 sqmm Cu | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 4Cx4 sqmm",
+      "feature_or_specifications": "conductor material: copper, kit type: termination kit",
+      "quantity": "100.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "7 | 1.1kV, 90 Deg.C rating, heavy duty power cables with stranded Aluminium conductor, extruded XLPE insulation, extruded PVC, FRLS inner sheath (Type-ST2), aluminium round wire armour for single core cables and galvanized steel strip /wire armour for Multi core cables, and extruded PVC, FR-LSH (Type-ST2) overall sheath. | 1Cx630 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 1Cx630 sqmm",
+      "feature_or_specifications": "voltage: 1.1kv, temperature rating: 90 deg.c, cable type: heavy duty, conductor material: aluminium, insulation: xlpe (cross-linked polyethylene), inner sheath: frls (flame retardant low smoke) pvc (polyvinyl chloride) type-st2, armour: aluminium round wire (single core), galvanized steel strip/wire (multi core), overall sheath: fr-lsh (flame retardant low smoke halogen) pvc (polyvinyl chloride) type-st2, kit type: termination kit",
+      "quantity": "1100.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "8 | 2CX120 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2CX120 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "950.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "9 | 2CX16 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2CX16 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "250.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "10 | 2CX185 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2CX185 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "100.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "11 | 2CX35 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2CX35 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "80.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "12 | 2CX50 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2CX50 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "80.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "13 | 3.5CX50 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3.5CX50 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "50.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "14 | 3.5CX70 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3.5CX70 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "280.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "15 | 3.5CX95 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3.5CX95 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "400.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "16 | 3.5CX150 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3.5CX150 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "40.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "17 | 3.5CX185 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3.5CX185 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "80.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "18 | 3.5CX240 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3.5CX240 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "40.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "19 | 3.5CX300 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3.5CX300 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "160.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "20 | 3CX16 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3CX16 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "600.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "21 | 3CX35 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3CX35 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "1100.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "22 | 3CX50 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3CX50 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "40.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "23 | 3CX70 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3CX70 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "100.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "24 | 3CX95 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3CX95 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "150.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "25 | 3CX150 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3CX150 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "30.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "26 | 3CX185 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3CX185 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "50.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "27 | 3CX240 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3CX240 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "200.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "28 | 4CX16 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 4CX16 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "200.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "29 | 4CX35 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 4CX35 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "600.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "30 | 4Cx6 sqmm Al | Termination Kit",
+      "core_product_name": "power and control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 4Cx6 sqmm",
+      "feature_or_specifications": "conductor material: aluminium, kit type: termination kit",
+      "quantity": "40.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "31 | 1.1kV grade, 85 deg C rating, control cables with stranded copper conductors, PVC Insulation, extruded PVC, FRLS Inner sheath (Type- ST2), round wire/strip armour as specified elsewhere in the specification and extruded PVC, FRLSH overall sheath (Type-ST2). | 3Cx2.5 sqmm Cu | Termination Kit",
+      "core_product_name": "control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 3Cx2.5 sqmm",
+      "feature_or_specifications": "voltage: 1.1kv, temperature rating: 85 deg c, conductor material: copper, insulation: pvc (polyvinyl chloride), inner sheath: frls (flame retardant low smoke) pvc (polyvinyl chloride) type-st2, armour: round wire/strip, overall sheath: frlsh (flame retardant low smoke halogen) pvc (polyvinyl chloride) type-st2, kit type: termination kit",
+      "quantity": "100.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "32 | 5Cx2.5 sqmm Cu | Termination Kit",
+      "core_product_name": "control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 5Cx2.5 sqmm",
+      "feature_or_specifications": "conductor material: copper, kit type: termination kit",
+      "quantity": "3000.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "33 | 7Cx2.5 sqmm Cu | Termination Kit",
+      "core_product_name": "control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 7Cx2.5 sqmm",
+      "feature_or_specifications": "conductor material: copper, kit type: termination kit",
+      "quantity": "200.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "34 | 12Cx2.5 sqmm Cu | Termination Kit",
+      "core_product_name": "control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 12Cx2.5 sqmm",
+      "feature_or_specifications": "conductor material: copper, kit type: termination kit",
+      "quantity": "200.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "35 | 9Cx2.5 sqmm Cu | Termination Kit",
+      "core_product_name": "control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 9Cx2.5 sqmm",
+      "feature_or_specifications": "conductor material: copper, kit type: termination kit",
+      "quantity": "500.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "36 | 20Cx2.5 sqmm Cu | Termination Kit",
+      "core_product_name": "control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 20Cx2.5 sqmm",
+      "feature_or_specifications": "conductor material: copper, kit type: termination kit",
+      "quantity": "80.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "E | POWER & Control CABLE TERMINATION Including Glands, lugs, cable tags, Cable ferrules, Cable ties etc. as Cable Schedule"
+      ],
+      "full_product_description": "37 | 4Cx1.5 sqmm Cu | Termination Kit",
+      "core_product_name": "control cable termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 4Cx1.5 sqmm",
+      "feature_or_specifications": "conductor material: copper, kit type: termination kit",
+      "quantity": "100.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "F | OFC, Cat-6 Cable & Conduit Laying with Accessories (RJ245 termintion, Splicing etc)"
+      ],
+      "full_product_description": "1 | 50 MM PVC Conduit Laying",
+      "core_product_name": "pvc conduit laying",
+      "acronymed_core_product_name": "",
+      "size": "conduit size: 50 mm",
+      "feature_or_specifications": "material: pvc (polyvinyl chloride)",
+      "quantity": "5000.0",
+      "unit": "Meters"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "F | OFC, Cat-6 Cable & Conduit Laying with Accessories (RJ245 termintion, Splicing etc)"
+      ],
+      "full_product_description": "3 | Splicing/termination with Accessories",
+      "core_product_name": "splicing or termination",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "24.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "G | Base Frame & Cable Tray Supports System with Accessories as per attched General notes and details of GA & Tray Layout Drg's."
+      ],
+      "full_product_description": "1 | MS Steel Support Structure of Sizes (ISA 50x50x6/65x65x6, ISMC-75/100/125/150/200 and Insert plates Etc .)  Structures should be Red Oxide & GI Painted:",
+      "core_product_name": "ms steel support structure",
+      "acronymed_core_product_name": "",
+      "size": "isa size: 50x50x6 or 65x65x6, ismc size: 75 or 100 or 125 or 150 or 200",
+      "feature_or_specifications": "material: ms (mild steel), finish: red oxide & gi (galvanized iron) painted",
+      "quantity": "600.0",
+      "unit": "MT"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "G | Base Frame & Cable Tray Supports System with Accessories as per attched General notes and details of GA & Tray Layout Drg's."
+      ],
+      "full_product_description": "2 | Supply, Fabrication, Installation of 6mm checkered plate",
+      "core_product_name": "checkered plate supply fabrication installation",
+      "acronymed_core_product_name": "",
+      "size": "plate thickness: 6 mm",
+      "feature_or_specifications": "",
+      "quantity": "30.0",
+      "unit": "MT"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "H | Lightning Protection System"
+      ],
+      "full_product_description": "1 | 25x6mm GS Flat",
+      "core_product_name": "gs flat",
+      "acronymed_core_product_name": "",
+      "size": "flat size: 25x6 mm",
+      "feature_or_specifications": "material: gs (galvanized steel)",
+      "quantity": "4000.0",
+      "unit": "Meters"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "H | Lightning Protection System"
+      ],
+      "full_product_description": "2 | 1.5 Mtr long  AL Air Terminal on RCC Roof",
+      "core_product_name": "al air terminal",
+      "acronymed_core_product_name": "",
+      "size": "length: 1.5 mtr",
+      "feature_or_specifications": "material: al (aluminium), installation: on rcc (reinforced cement concrete) roof",
+      "quantity": "60.0",
+      "unit": "No's"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "H | Lightning Protection System"
+      ],
+      "full_product_description": "3 | VERTICAL AIR TERMINATION RODS 20 mm DIA, 1000 MM LONG GS",
+      "core_product_name": "vertical air termination rod",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 20 mm, length: 1000 mm",
+      "feature_or_specifications": "material: gs (galvanized steel)",
+      "quantity": "20.0",
+      "unit": "No's"
+    }
+  ]
+}

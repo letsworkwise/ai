@@ -1,0 +1,479 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.84255296,
+      "text": "core_product_name: interface device",
+      "core_id": 1280.0,
+      "raw_product_name": "INTERFACE DEVICES",
+      "list_of_product_ids": [
+        "6630",
+        "5800",
+        "11596",
+        "11597",
+        "10310",
+        "11701",
+        "11702",
+        "11703",
+        "12288",
+        "8405",
+        "13108",
+        "13117",
+        "21089",
+        "21081",
+        "21077",
+        "21070"
+      ]
+    },
+    {
+      "retrieval_score": 0.83476275,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLES",
+      "list_of_product_ids": [
+        "15455",
+        "13721",
+        "24275",
+        "15161",
+        "16241",
+        "19098",
+        "23820",
+        "23814",
+        "21319",
+        "19315",
+        "23819",
+        "23822",
+        "24273",
+        "23829",
+        "20141",
+        "23831",
+        "24058",
+        "23836",
+        "23909",
+        "23839",
+        "23828",
+        "24685",
+        "24726",
+        "24844",
+        "24955",
+        "31590",
+        "31591",
+        "26436",
+        "26438",
+        "31740",
+        "33330"
+      ]
+    },
+    {
+      "retrieval_score": 0.83465415,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLE STOCKIST/TRADERS",
+      "list_of_product_ids": [
+        "2",
+        "467",
+        "924",
+        "680"
+      ]
+    },
+    {
+      "retrieval_score": 0.83461565,
+      "text": "core_product_name: addressable detector",
+      "core_id": 47.0,
+      "raw_product_name": "ADDRESSABLE DETECTOR",
+      "list_of_product_ids": [
+        "37763",
+        "37768",
+        "37773",
+        "37779",
+        "37789",
+        "37758"
+      ]
+    },
+    {
+      "retrieval_score": 0.8334124,
+      "text": "core_product_name: equipment",
+      "core_id": 460.0,
+      "raw_product_name": "CONTROL ROOM EQUIPMENT",
+      "list_of_product_ids": [
+        "14034",
+        "14815",
+        "17256",
+        "21098"
+      ]
+    },
+    {
+      "retrieval_score": 0.8331045,
+      "text": "core_product_name: equipment insulation",
+      "core_id": 761.0,
+      "raw_product_name": "EQUIPMENT INSULATION WORKS",
+      "list_of_product_ids": [
+        "358",
+        "293",
+        "583",
+        "235",
+        "880"
+      ]
+    },
+    {
+      "retrieval_score": 0.83310276,
+      "text": "core_product_name: instrumentation fitting",
+      "core_id": 1264.0,
+      "raw_product_name": "INSTRUMENTATION FITTINGS",
+      "list_of_product_ids": [
+        "14372",
+        "17508",
+        "17507",
+        "17506",
+        "17505",
+        "17504",
+        "17501",
+        "17500",
+        "17496",
+        "17958",
+        "17960"
+      ]
+    },
+    {
+      "retrieval_score": 0.83301103,
+      "text": "core_product_name: tube light fixture",
+      "core_id": 2282.0,
+      "raw_product_name": "TUBE LIGHT FIXTURES",
+      "list_of_product_ids": [
+        "139",
+        "811",
+        "494",
+        "021",
+        "021"
+      ]
+    },
+    {
+      "retrieval_score": 0.832863,
+      "text": "core_product_name: surge protection device",
+      "core_id": 2156.0,
+      "raw_product_name": "SURG PROTECTION DEVICES",
+      "list_of_product_ids": [
+        "5954",
+        "6782",
+        "12132",
+        "14671",
+        "14679",
+        "18191",
+        "20174",
+        "36159"
+      ]
+    },
+    {
+      "retrieval_score": 0.83283085,
+      "text": "core_product_name: electrical accessory",
+      "core_id": 701.0,
+      "raw_product_name": "ELECTRICAL ACCESSORIES",
+      "list_of_product_ids": [
+        "211",
+        "632",
+        "705",
+        "121",
+        "165"
+      ]
+    },
+    {
+      "retrieval_score": 0.8328197,
+      "text": "core_product_name: electrical item",
+      "core_id": 713.0,
+      "raw_product_name": "ELECTRICALS ITEMS",
+      "list_of_product_ids": [
+        "240",
+        "232",
+        "403",
+        "028",
+        "576"
+      ]
+    },
+    {
+      "retrieval_score": 0.8324873,
+      "text": "core_product_name: detector",
+      "core_id": 579.0,
+      "raw_product_name": "DETECTOR",
+      "list_of_product_ids": [
+        "8900",
+        "8902",
+        "9849",
+        "9858",
+        "9867",
+        "18250",
+        "18249",
+        "18248",
+        "36841",
+        "36225",
+        "36377"
+      ]
+    },
+    {
+      "retrieval_score": 0.8324641,
+      "text": "core_product_name: optical fibre cable | accessories_or_attachments: associated item",
+      "core_id": 1597.0,
+      "raw_product_name": "OPTICAL FIBRE CABLE & ASSOC.ITEM",
+      "list_of_product_ids": [
+        "6480",
+        "5651",
+        "10911",
+        "11309",
+        "11731",
+        "11946",
+        "19181",
+        "17780",
+        "19112",
+        "19562",
+        "23868",
+        "24032",
+        "26902",
+        "26901",
+        "19151",
+        "34333"
+      ]
+    },
+    {
+      "retrieval_score": 0.8322628,
+      "text": "core_product_name: recorder",
+      "core_id": 1875.0,
+      "raw_product_name": "RECORDERS",
+      "list_of_product_ids": [
+        "13825",
+        "15211",
+        "20871",
+        "36627"
+      ]
+    },
+    {
+      "retrieval_score": 0.83210623,
+      "text": "core_product_name: ultrasonic flow meter",
+      "core_id": 2315.0,
+      "raw_product_name": "ULTRASONIC FLOW METER",
+      "list_of_product_ids": [
+        "6574",
+        "5744",
+        "11654",
+        "11727",
+        "11729",
+        "11728",
+        "11749",
+        "11922",
+        "13398",
+        "17968",
+        "18231",
+        "19176",
+        "38508",
+        "36840",
+        "35992",
+        "38498"
+      ]
+    },
+    {
+      "retrieval_score": 0.83195287,
+      "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+      "core_id": 1262.0,
+      "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+      "list_of_product_ids": [
+        "19885",
+        "19880",
+        "24078",
+        "23930",
+        "27348"
+      ]
+    },
+    {
+      "retrieval_score": 0.8318438,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    },
+    {
+      "retrieval_score": 0.83141774,
+      "text": "core_product_name: special cable",
+      "core_id": 2074.0,
+      "raw_product_name": "SPECIAL CABLES",
+      "list_of_product_ids": [
+        "13989",
+        "14840",
+        "20102",
+        "20070",
+        "24071",
+        "23923"
+      ]
+    },
+    {
+      "retrieval_score": 0.8312934,
+      "text": "core_product_name: millivolt meter",
+      "core_id": 1477.0,
+      "raw_product_name": "MILLIVOLT METER",
+      "list_of_product_ids": [
+        "219",
+        "972",
+        "203",
+        "128",
+        "609"
+      ]
+    },
+    {
+      "retrieval_score": 0.8311137,
+      "text": "core_product_name: thermal detector",
+      "core_id": 2239.0,
+      "raw_product_name": "THERMAL DETECTORS",
+      "list_of_product_ids": [
+        "14012",
+        "14939",
+        "18003",
+        "18002",
+        "37766",
+        "37771",
+        "37776",
+        "37792",
+        "37802",
+        "37807"
+      ]
+    },
+    {
+      "retrieval_score": 0.83107543,
+      "text": "core_product_name: miniature type hardwire console item",
+      "core_id": 1480.0,
+      "raw_product_name": "MINIATURE TYPE HARDWIRE CONSOLE ITEMS",
+      "list_of_product_ids": [
+        "5935",
+        "6764",
+        "10918",
+        "10920",
+        "10919"
+      ]
+    },
+    {
+      "retrieval_score": 0.83106357,
+      "text": "core_product_name: insulator | accessories_or_attachments: hardware accessories",
+      "core_id": 1276.0,
+      "raw_product_name": "INSULATOR & HARDWARE ACCESSORIES",
+      "list_of_product_ids": [
+        "18804",
+        "18813",
+        "18984",
+        "18992",
+        "18979",
+        "18981",
+        "18987",
+        "18980",
+        "18978",
+        "37519",
+        "37688",
+        "37714",
+        "37719"
+      ]
+    },
+    {
+      "retrieval_score": 0.83106357,
+      "text": "core_product_name: insulator | accessories_or_attachments: hardware accessories",
+      "core_id": 1276.0,
+      "raw_product_name": "INSULATOR AND HARDWARE ACCESSORIES",
+      "list_of_product_ids": [
+        "1",
+        "883",
+        "029",
+        "108"
+      ]
+    },
+    {
+      "retrieval_score": 0.83103365,
+      "text": "core_product_name: measurement",
+      "core_id": 2401.0,
+      "raw_product_name": "VIBRATION MEASUREMENT",
+      "list_of_product_ids": [
+        "242",
+        "652",
+        "426",
+        "624",
+        "269"
+      ]
+    },
+    {
+      "retrieval_score": 0.8309869,
+      "text": "core_product_name: infrared temperature measurement system",
+      "core_id": 1243.0,
+      "raw_product_name": "INFRARED TEMP MEASUREMENT SYSTEM",
+      "list_of_product_ids": [
+        "6598",
+        "5768",
+        "10909",
+        "11112"
+      ]
+    },
+    {
+      "retrieval_score": 0.8309373,
+      "text": "core_product_name: electrical measuring instrument",
+      "core_id": 709.0,
+      "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+      "list_of_product_ids": [
+        "24296",
+        "20768",
+        "20767",
+        "24283"
+      ]
+    },
+    {
+      "retrieval_score": 0.8303576,
+      "text": "core_product_name: network component",
+      "core_id": 1544.0,
+      "raw_product_name": "NETWORK COMPONENTS",
+      "list_of_product_ids": [
+        "137",
+        "882",
+        "017",
+        "621",
+        "241"
+      ]
+    },
+    {
+      "retrieval_score": 0.8303499,
+      "text": "core_product_name: infrared radiation pyrometer",
+      "core_id": 1239.0,
+      "raw_product_name": "INFRARED RADIATION PYROMETER",
+      "list_of_product_ids": [
+        "18861",
+        "18860",
+        "18909",
+        "18959",
+        "18964",
+        "18957",
+        "37674",
+        "37481"
+      ]
+    },
+    {
+      "retrieval_score": 0.8300597,
+      "text": "core_product_name: coupling device",
+      "core_id": 499.0,
+      "raw_product_name": "COUPLING DEVICE",
+      "list_of_product_ids": [
+        "18582",
+        "18579",
+        "18578",
+        "18637"
+      ]
+    },
+    {
+      "retrieval_score": 0.8300267,
+      "text": "core_product_name: compensating cable",
+      "core_id": 407.0,
+      "raw_product_name": "COMPENSATING CABLE",
+      "list_of_product_ids": [
+        "24082",
+        "21244",
+        "21234",
+        "23933",
+        "28345"
+      ]
+    }
+  ]
+}

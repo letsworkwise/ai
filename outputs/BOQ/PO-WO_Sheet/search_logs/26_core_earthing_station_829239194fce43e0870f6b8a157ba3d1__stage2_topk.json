@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: earthing station | size: inspection chamber: 400(L)x400(W)x450(D)mm, thickness: 150mm, ci(cast iron) pipe: 100mm id, thickness: 13mm, gi(galvanized iron) plate: 600x600x3mm | feature_or_specifications: feature: providing, installing, testing, commissioning, cover/lid: cast iron, frame: cast iron, pipe: cast iron, watering funnel: with wire mesh, mixture: salt & charcoal, bolts & nuts: m10, clamps: universal stainless steel",
+  "retrieval_results": [
+    {
+      "id": "variant-c877b74e-265d-5bd4-bb90-01b78c749417",
+      "score": 0.8665171,
+      "metadata": {
+        "text": "core_product_name: instrumentation earthing",
+        "raw_product_name": "INSTRUMENTATION EARTHING",
+        "list_of_product_ids": "13420",
+        "core_id": 1263.0
+      }
+    },
+    {
+      "id": "variant-71375a23-b4b8-5f79-9289-52ed93bee593",
+      "score": 0.86632144,
+      "metadata": {
+        "text": "core_product_name: fitting | material: Cast Iron (CI)",
+        "raw_product_name": "FITTINGS -CAST IRON (CI)",
+        "list_of_product_ids": "7618,7292,7881,15941,16290,16308,34586,35732,35733",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-a4af7647-e144-53ae-8ed6-61b5112af85e",
+      "score": 0.8658487,
+      "metadata": {
+        "text": "core_product_name: cast iron pipe",
+        "raw_product_name": "PIPE CAST IRON",
+        "list_of_product_ids": "7576,7251,11128,11130,7830,14420,14532,15940,16307,23714,39752,39929",
+        "core_id": 1658.0
+      }
+    },
+    {
+      "id": "variant-2c6d2fb0-4d65-53a0-9797-0709ec5bdacd",
+      "score": 0.8658089,
+      "metadata": {
+        "text": "core_product_name: earthing wire | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI EARTHING WIRE",
+        "list_of_product_ids": "13437",
+        "core_id": 1053.0
+      }
+    },
+    {
+      "id": "variant-7e2d6aa3-d1a8-5e98-bd8c-ce8cbb63daf6",
+      "score": 0.8642814,
+      "metadata": {
+        "text": "core_product_name: casting | material: Cast Iron",
+        "raw_product_name": "CASTING -CAST IRON",
+        "list_of_product_ids": "21885,21883,24612,39753,39842,39868,39927,40032",
+        "core_id": 91.0
+      }
+    },
+    {
+      "id": "variant-9cab3a59-4c3f-5408-9e1e-d68d6a3b5435",
+      "score": 0.8640414,
+      "metadata": {
+        "text": "core_product_name: earthing material",
+        "raw_product_name": "EARTHING MATERIALS",
+        "list_of_product_ids": "378,733,788,037,898",
+        "core_id": 672.0
+      }
+    },
+    {
+      "id": "variant-7cfebded-b78b-5dff-b574-85a8c89bc044",
+      "score": 0.8628017,
+      "metadata": {
+        "text": "core_product_name: pipe alloy cast iron",
+        "raw_product_name": "PIPE ALLOY CAST IRON",
+        "list_of_product_ids": "7609,7284,7835,7837,33434",
+        "core_id": 1657.0
+      }
+    },
+    {
+      "id": "variant-050f3a46-318d-52e8-96bb-a1996b61b938",
+      "score": 0.8627333,
+      "metadata": {
+        "text": "core_product_name: cast iron centrifugal pipe",
+        "raw_product_name": "CAST IRON CENTRIFUGAL PIPE",
+        "list_of_product_ids": "144,001,457,435,656",
+        "core_id": 304.0
+      }
+    },
+    {
+      "id": "variant-020bf4c5-a0d0-54ea-a3fd-b3a605cce2c8",
+      "score": 0.86179227,
+      "metadata": {
+        "text": "core_product_name: plate | material: Cast Iron",
+        "raw_product_name": "CAST IRON PLATE",
+        "list_of_product_ids": "399,713,996,039,973",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-e39317b3-3dc6-5bc0-978a-96d4f2a66c38",
+      "score": 0.86039114,
+      "metadata": {
+        "text": "core_product_name: casting | material: Stainless Steel",
+        "raw_product_name": "STAINLESS STEEL CASTING",
+        "list_of_product_ids": "249,622,495,926,779",
+        "core_id": 91.0
+      }
+    },
+    {
+      "id": "variant-99814b7f-a5a9-53b4-9918-db65f44c3ba0",
+      "score": 0.86037934,
+      "metadata": {
+        "text": "core_product_name: alloy cast iron pipe",
+        "raw_product_name": "ALLOY CAST IRON PIPE",
+        "list_of_product_ids": "9561,9521,14413,14415,14417,14424",
+        "core_id": 86.0
+      }
+    },
+    {
+      "id": "variant-cb60c123-5699-54ec-a71e-3a8bc891b611",
+      "score": 0.8590733,
+      "metadata": {
+        "text": "core_product_name: soldering station",
+        "raw_product_name": "SOLDERING STATION",
+        "list_of_product_ids": "154,291,875,238,511",
+        "core_id": 2064.0
+      }
+    },
+    {
+      "id": "variant-cf079358-169a-5baf-943d-cca385aae7e4",
+      "score": 0.8579659,
+      "metadata": {
+        "text": "core_product_name: casting | material: Steel",
+        "raw_product_name": "STEEL CASTING",
+        "list_of_product_ids": "24961,24958,26780,39754,39847,39875,39930,40008,40298",
+        "core_id": 91.0
+      }
+    },
+    {
+      "id": "variant-1c970bab-ac0f-5ea7-b0b2-e3743073ef71",
+      "score": 0.85517484,
+      "metadata": {
+        "text": "core_product_name: plug valve | material: CI (Cast Iron)",
+        "raw_product_name": "VALVE PLUG CI",
+        "list_of_product_ids": "14077,23666,23304,23289,23650,35583",
+        "core_id": 2366.0
+      }
+    },
+    {
+      "id": "variant-af149d34-c1eb-5906-825a-2aac4b7ac6fc",
+      "score": 0.85424656,
+      "metadata": {
+        "text": "core_product_name: section | material: Stainless Steel",
+        "raw_product_name": "STAINLESS STEEL SECTIONS",
+        "list_of_product_ids": "17974,17973,17975,17972,18646",
+        "core_id": 100.0
+      }
+    },
+    {
+      "id": "variant-5efbfc9f-bc75-5353-9be4-8456266d9a3b",
+      "score": 0.8539923,
+      "metadata": {
+        "text": "core_product_name: column | material: CS (Carbon Steel) | construction_features: site fabricated",
+        "raw_product_name": "COLUMN-CS SITE FABRICATED",
+        "list_of_product_ids": "6687,5858,9697,12010,12167,12592,13093,23509,37860,37727,37743",
+        "core_id": 392.0
+      }
+    },
+    {
+      "id": "variant-d3918fb3-1dcf-5330-9bbe-6452020c252d",
+      "score": 0.85392785,
+      "metadata": {
+        "text": "core_product_name: plumbing fitting and fixture",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+        "list_of_product_ids": "6364,5535,7874,12489,12648,12649,34680,34681",
+        "core_id": 1961.0
+      }
+    },
+    {
+      "id": "variant-ce2461e2-d6d8-57d0-ad2a-40ec63f58d20",
+      "score": 0.85387963,
+      "metadata": {
+        "text": "core_product_name: casting | material: Alloy Steel",
+        "raw_product_name": "ALLOY STEEL CASTING",
+        "list_of_product_ids": "249,632,496,026,778",
+        "core_id": 91.0
+      }
+    },
+    {
+      "id": "variant-af143920-ed7e-543d-b600-3804401a1d2d",
+      "score": 0.85262406,
+      "metadata": {
+        "text": "core_product_name: station carbon steel pipe | special_attributes: Seamless",
+        "raw_product_name": "STATION PIPING CARBON STEEL (SEAMLESS)",
+        "list_of_product_ids": "7074,7401,10597,10617,17574,24027,32044",
+        "core_id": 2111.0
+      }
+    },
+    {
+      "id": "variant-f07cffa0-83a6-5fb2-b30c-a08ba5705558",
+      "score": 0.8523248,
+      "metadata": {
+        "text": "core_product_name: feed water valve | material: Cast Steel",
+        "raw_product_name": "CAST STEEL VALVE-FEED WATER",
+        "list_of_product_ids": "39701,39704,39765,39849,39877,40068,40209,40301",
+        "core_id": 308.0
+      }
+    },
+    {
+      "id": "variant-1021c327-1f23-56c6-a5b2-2af09e1e62e1",
+      "score": 0.8520315,
+      "metadata": {
+        "text": "core_product_name: instrument tubing",
+        "raw_product_name": "INSTRUMENT TUBING",
+        "list_of_product_ids": "6476,5647,10324,10217,10680,10682,10685,12053,12684,12686,18270,18269,21301,37132",
+        "core_id": 1260.0
+      }
+    },
+    {
+      "id": "variant-60cc1389-d2d7-5796-b91e-9be0cfc16c55",
+      "score": 0.85193837,
+      "metadata": {
+        "text": "core_product_name: instrumentation fitting",
+        "raw_product_name": "INSTRUMENTATION FITTINGS",
+        "list_of_product_ids": "14372,17508,17507,17506,17505,17504,17501,17500,17496,17958,17960",
+        "core_id": 1264.0
+      }
+    },
+    {
+      "id": "variant-a64f210f-8e6e-5798-86ae-8ba83cd224bf",
+      "score": 0.85173064,
+      "metadata": {
+        "text": "core_product_name: site fabricated cladding | accessories_or_attachments: column",
+        "raw_product_name": "COLUMN-CLAD SITE FABRICATED",
+        "list_of_product_ids": "6689,5860,9699,12168,13094,23576",
+        "core_id": 398.0
+      }
+    },
+    {
+      "id": "variant-36941d1d-74c0-536c-b4d8-1570d8f5d4be",
+      "score": 0.85157293,
+      "metadata": {
+        "text": "core_product_name: gas welding equipment",
+        "raw_product_name": "GAS WELDING EQUIPMENT",
+        "list_of_product_ids": "218,672,187,028,061",
+        "core_id": 1036.0
+      }
+    },
+    {
+      "id": "variant-5b6e1aa3-93c9-5ab7-830a-5bd88e61ab8f",
+      "score": 0.8514539,
+      "metadata": {
+        "text": "core_product_name: globe valve | material: Cast Iron",
+        "raw_product_name": "VALVE GLOBE CAST IRON",
+        "list_of_product_ids": "7135,7462,11514,11981,17821,35559,39522,39870,40204",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-423d50a1-7603-5726-814f-99cd5c418a37",
+      "score": 0.8514341,
+      "metadata": {
+        "text": "core_product_name: stainless steel pipe",
+        "raw_product_name": "PIPE-STAINLESS STEEL",
+        "list_of_product_ids": "7575,7250,7806,8797,16076,16079,16087,16085,16081,16074,16810,16835,16834,16833,17696,18543,19848,24490,24499,29955,26146,26221,26230,29982,27714,29936,29956,32727,32728,36958,37086,37274,36869,36878,39858,39935,39998,40010,40081",
+        "core_id": 1674.0
+      }
+    },
+    {
+      "id": "variant-d69adfa3-0450-5ca4-941b-112665d0bb41",
+      "score": 0.8512507,
+      "metadata": {
+        "text": "core_product_name: gate valve | material: Cast Iron",
+        "raw_product_name": "VALVE GATE CAST IRON",
+        "list_of_product_ids": "7133,7460,11512,11979,17819,35528,39520,39843,39869,39928,40203",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-656a3a9a-c5a4-5f97-a8e6-8f208083dcbb",
+      "score": 0.8512319,
+      "metadata": {
+        "text": "core_product_name: welding receptacle",
+        "raw_product_name": "WELDING RECEPTACLES",
+        "list_of_product_ids": "19666,19656,19638,27341",
+        "core_id": 2460.0
+      }
+    },
+    {
+      "id": "variant-6f088eab-5dc0-5e03-8407-51e89e15fcd5",
+      "score": 0.85105973,
+      "metadata": {
+        "text": "core_product_name: galvanized steel pipe | material: Galvanized Steel",
+        "raw_product_name": "GALVANIZED STEEL STRUCTURES- PIPE",
+        "list_of_product_ids": "21293,21291,21284,21280,21266,21264,21296,21312,27931",
+        "core_id": 1014.0
+      }
+    },
+    {
+      "id": "variant-6c3737d4-39a0-5f0c-aeaf-89178b4d57df",
+      "score": 0.85090065,
+      "metadata": {
+        "text": "core_product_name: plate | material: Stainless Steel",
+        "raw_product_name": "STAINLESS STEEL PLATE",
+        "list_of_product_ids": "29507,29508,29506,29509,29511,29510,29535,32724",
+        "core_id": 87.0
+      }
+    }
+  ]
+}

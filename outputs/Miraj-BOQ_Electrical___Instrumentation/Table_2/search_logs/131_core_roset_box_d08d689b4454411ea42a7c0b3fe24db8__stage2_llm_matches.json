@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: roset box | feature_or_specifications: voice tag: included, face plate: included",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: marking plate",
+        "raw_product_name": "MARKING PLATE",
+        "list_of_product_ids": [
+          "1",
+          "542",
+          "818",
+          "339"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: switch plate",
+        "raw_product_name": "SWITCH PLATE",
+        "list_of_product_ids": [
+          "20511",
+          "20547",
+          "20587",
+          "20634",
+          "20689",
+          "20747"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: plate valve",
+        "raw_product_name": "PLATE VALVE",
+        "list_of_product_ids": [
+          "137",
+          "941",
+          "445",
+          "914",
+          "496"
+        ]
+      }
+    }
+  ]
+}

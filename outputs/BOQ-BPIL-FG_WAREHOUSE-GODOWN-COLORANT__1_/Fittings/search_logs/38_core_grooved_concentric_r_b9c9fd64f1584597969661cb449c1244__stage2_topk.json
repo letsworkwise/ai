@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: grooved concentric reducer | size: reducer size: 150 x 50 NB",
+  "retrieval_results": [
+    {
+      "id": "variant-7ac33587-ed2a-5558-a77f-e7e94b7bea10",
+      "score": 0.86406267,
+      "metadata": {
+        "text": "core_product_name: reducer fitting",
+        "raw_product_name": "FITTINGS –REDUCER",
+        "list_of_product_ids": "14266,14694,14669,14711,14904,14916,15997,16050,18893,19404,18961,19724,19801,19794,20061,20172,20937,21920,22662,22657,22916,23198,27768,27758,27748,27738,27728,27774,37066,36449",
+        "core_id": 879.0
+      }
+    },
+    {
+      "id": "variant-bcd40519-0040-5b3c-840e-6fbad51e5e99",
+      "score": 0.8581281,
+      "metadata": {
+        "text": "core_product_name: gear reducer",
+        "raw_product_name": "Gear Reducer",
+        "list_of_product_ids": "7533,7207,9725,27767,27757,27747,27737,27727,27772",
+        "core_id": 1082.0
+      }
+    },
+    {
+      "id": "variant-7d01faaf-1c91-53b8-af60-366b4bc3cea8",
+      "score": 0.85625,
+      "metadata": {
+        "text": "core_product_name: reduced flange",
+        "raw_product_name": "REDUCED FLANGE",
+        "list_of_product_ids": "15468,15474,15476,15477",
+        "core_id": 1879.0
+      }
+    },
+    {
+      "id": "variant-35bdbbe9-b7f3-5e25-bd6d-8692b3ca9a57",
+      "score": 0.8524939,
+      "metadata": {
+        "text": "core_product_name: reducing socket",
+        "raw_product_name": "REDUCING SOCKET",
+        "list_of_product_ids": "1,547,915,481",
+        "core_id": 1881.0
+      }
+    },
+    {
+      "id": "variant-3aab3c1a-b3e9-52c8-bf7e-0d99674edf84",
+      "score": 0.8480029,
+      "metadata": {
+        "text": "core_product_name: geared coupling | size_or_capacity: below 50 kW (kilowatt)",
+        "raw_product_name": "Geared Coupling(below 50 kW)",
+        "list_of_product_ids": "7030,7358,10523,10533,9730,18765,18775",
+        "core_id": 1083.0
+      }
+    },
+    {
+      "id": "variant-50965ce0-da9f-5ccd-8e38-934aa3d27a7e",
+      "score": 0.8478155,
+      "metadata": {
+        "text": "core_product_name: reduced bore ball valve",
+        "raw_product_name": "REDUCED BORE BALL VALVE",
+        "list_of_product_ids": "13496,14677,14685,14871,14928,15074,15126,22527,34319,35462",
+        "core_id": 1878.0
+      }
+    },
+    {
+      "id": "variant-223a653f-ce26-546e-9630-21d058f384c7",
+      "score": 0.8470179,
+      "metadata": {
+        "text": "core_product_name: grating",
+        "raw_product_name": "GRATINGS",
+        "list_of_product_ids": "218,522,185,428,606",
+        "core_id": 1068.0
+      }
+    },
+    {
+      "id": "variant-b5e87529-625e-552b-b6df-173a5d45618c",
+      "score": 0.843697,
+      "metadata": {
+        "text": "core_product_name: restriction orifice",
+        "raw_product_name": "RESTRICTION ORIFICE",
+        "list_of_product_ids": "8334,14373,14625,14845,14897,17138,17297,17291,17290,17795,18034,19640,10652,21402,22350,36216,36368",
+        "core_id": 1904.0
+      }
+    },
+    {
+      "id": "variant-e0d4f4c7-a28c-568e-892e-f4bd7c857efd",
+      "score": 0.8430358,
+      "metadata": {
+        "text": "core_product_name: geared coupling | size_or_capacity: 50 kW and above",
+        "raw_product_name": "Geared Coupling(50 kW and above)",
+        "list_of_product_ids": "7046,7373,9729,18764,18774",
+        "core_id": 1083.0
+      }
+    },
+    {
+      "id": "variant-ef59ecb0-320a-5cea-b154-4ba76cf39f9e",
+      "score": 0.8430091,
+      "metadata": {
+        "text": "core_product_name: brush | material: Carbon",
+        "raw_product_name": "CARBON BRUSHES",
+        "list_of_product_ids": "242,252,422,726,882",
+        "core_id": 302.0
+      }
+    },
+    {
+      "id": "variant-59191729-a9c1-556f-8830-f0b597cd9727",
+      "score": 0.8425573,
+      "metadata": {
+        "text": "core_product_name: pressure reducing valve",
+        "raw_product_name": "PRESSURE REDUCING VALVE",
+        "list_of_product_ids": "9998,10023,10223,13173,13389,17852,17906,17904,18046,22681,23085,23331,36634,40239",
+        "core_id": 1774.0
+      }
+    },
+    {
+      "id": "variant-394c913a-7df6-58fb-8df6-1b3a2be3e898",
+      "score": 0.84228027,
+      "metadata": {
+        "text": "core_product_name: compressure expander",
+        "raw_product_name": "COMPRESSURE-EXPANDER(PRO)",
+        "list_of_product_ids": "5922,6751,18905,18949,27030",
+        "core_id": 418.0
+      }
+    },
+    {
+      "id": "variant-8dd858bd-d4e3-5c0d-9c0d-676e67b7e742",
+      "score": 0.8410787,
+      "metadata": {
+        "text": "core_product_name: condenser bushing",
+        "raw_product_name": "CONDENSER BUSHING",
+        "list_of_product_ids": "1,396,114,860",
+        "core_id": 433.0
+      }
+    },
+    {
+      "id": "variant-6c3b9e41-59cd-559e-b95a-a9a70299457f",
+      "score": 0.8399683,
+      "metadata": {
+        "text": "core_product_name: condenser",
+        "raw_product_name": "CONDENSER",
+        "list_of_product_ids": "1,395,321,584",
+        "core_id": 430.0
+      }
+    },
+    {
+      "id": "variant-298f2c6e-2bc0-5c2f-b94c-30f82a72d824",
+      "score": 0.83981866,
+      "metadata": {
+        "text": "core_product_name: nozzle",
+        "raw_product_name": "NOZZLE",
+        "list_of_product_ids": "24248,24222,22342,22340,22766,22794,26877",
+        "core_id": 1547.0
+      }
+    },
+    {
+      "id": "variant-98067bbb-4784-566b-8aeb-e1d6319cefcf",
+      "score": 0.8393542,
+      "metadata": {
+        "text": "core_product_name: compressor",
+        "raw_product_name": "FUEL GAS CONDITIONING AND COMPRESSORS",
+        "list_of_product_ids": "7052,7379,38809,40034",
+        "core_id": 28.0
+      }
+    },
+    {
+      "id": "variant-05356678-9749-588a-b5bb-c4d0c1d23c54",
+      "score": 0.83910465,
+      "metadata": {
+        "text": "core_product_name: compressor",
+        "raw_product_name": "COMPRESSOR",
+        "list_of_product_ids": "23442,23440,23441,26081,26068,26066,26065,26064,26675,26067",
+        "core_id": 28.0
+      }
+    },
+    {
+      "id": "variant-5780dfa2-e8a9-53f9-9190-5eee6ee30fc8",
+      "score": 0.83875304,
+      "metadata": {
+        "text": "core_product_name: gearbox | size_or_capacity: below 50 kW (kilowatt)",
+        "raw_product_name": "Gearbox (below 50 kW)",
+        "list_of_product_ids": "7022,7342,10518,10522,10527,10530,10520,10526,10528,10532,9728,22162",
+        "core_id": 1048.0
+      }
+    },
+    {
+      "id": "variant-59ac4f56-1976-594c-822f-0b73e0a71a85",
+      "score": 0.83864415,
+      "metadata": {
+        "text": "core_product_name: compressed air trap",
+        "raw_product_name": "Trap - Compressed Air",
+        "list_of_product_ids": "14391,22212,22208,23172,23505,39871,40036,40311",
+        "core_id": 2310.0
+      }
+    },
+    {
+      "id": "variant-4c222ab6-19ed-5759-af5f-4806d95457bc",
+      "score": 0.83833176,
+      "metadata": {
+        "text": "core_product_name: crystallizer",
+        "raw_product_name": "CRYSTALLIZERS",
+        "list_of_product_ids": "6,159,532,937,701",
+        "core_id": 531.0
+      }
+    },
+    {
+      "id": "variant-ba94f96a-8bed-5c2b-8d97-508f990dd0e3",
+      "score": 0.83814347,
+      "metadata": {
+        "text": "core_product_name: diffuser",
+        "raw_product_name": "DIFFUSERS",
+        "list_of_product_ids": "15543,15555,13642,15563",
+        "core_id": 588.0
+      }
+    },
+    {
+      "id": "variant-09a3b3f2-09d5-5fdc-b67e-5ebaf7119593",
+      "score": 0.83775645,
+      "metadata": {
+        "text": "core_product_name: binocular",
+        "raw_product_name": "BINOCULAR",
+        "list_of_product_ids": "259,312,592,926,698",
+        "core_id": 203.0
+      }
+    },
+    {
+      "id": "variant-ca2bafe6-22b6-5230-b196-6b0dda111306",
+      "score": 0.8377395,
+      "metadata": {
+        "text": "core_product_name: compressed breathing apparatus",
+        "raw_product_name": "BREATHING APPARATUS - COMPRESSED",
+        "list_of_product_ids": "24212,24216,26883,37472",
+        "core_id": 243.0
+      }
+    },
+    {
+      "id": "variant-ee119e4c-7365-54e9-89ff-79505457d5a0",
+      "score": 0.8375324,
+      "metadata": {
+        "text": "core_product_name: reciprocating compressor",
+        "raw_product_name": "COMPRESSURE-RECIPRO(PIANS)",
+        "list_of_product_ids": "5909,6738,11567,11220,9439,18906,18948,19716,37676",
+        "core_id": 415.0
+      }
+    },
+    {
+      "id": "variant-a292b3a6-7630-59d2-914c-43936b207299",
+      "score": 0.83740205,
+      "metadata": {
+        "text": "core_product_name: rotary compressor",
+        "raw_product_name": "COMPRESSURE ROTARY",
+        "list_of_product_ids": "221,772,217,522,266",
+        "core_id": 416.0
+      }
+    },
+    {
+      "id": "variant-93987a99-4ac7-592e-92b4-e5207d77fe5d",
+      "score": 0.83725643,
+      "metadata": {
+        "text": "core_product_name: small fabrication job",
+        "raw_product_name": "SMALL FABRICATION JOB",
+        "list_of_product_ids": "24981,24980,24979,26756",
+        "core_id": 2044.0
+      }
+    },
+    {
+      "id": "variant-92f9e4dd-f962-51ec-8d59-b6138a3feaff",
+      "score": 0.83723795,
+      "metadata": {
+        "text": "core_product_name: shrink sleeve",
+        "raw_product_name": "SHRINK SLEEVES",
+        "list_of_product_ids": "184,551,848,818,454",
+        "core_id": 2019.0
+      }
+    },
+    {
+      "id": "variant-6caf8017-d55b-5441-bf5f-7eaed4cb420b",
+      "score": 0.8372293,
+      "metadata": {
+        "text": "core_product_name: grout",
+        "raw_product_name": "GROUT",
+        "list_of_product_ids": "13748,16708,16707,19125,22869,33348,38480,35419,35432",
+        "core_id": 1078.0
+      }
+    },
+    {
+      "id": "variant-2f93d8f7-a73a-5975-bf77-9375f12bceaf",
+      "score": 0.8372021,
+      "metadata": {
+        "text": "core_product_name: geared motor | size_or_capacity: below 5 kW",
+        "raw_product_name": "Geared Motor(below 5 kW)",
+        "list_of_product_ids": "7027,7355,10478,10515,10519,10531,10521,10808,10806,35411",
+        "core_id": 1084.0
+      }
+    },
+    {
+      "id": "variant-808cb5c1-0ad0-5acd-a87d-fc7689db9ddd",
+      "score": 0.83714765,
+      "metadata": {
+        "text": "core_product_name: tube suppression system",
+        "raw_product_name": "TUBE SUPPRESSION SYSTEM",
+        "list_of_product_ids": "3,247,232,473",
+        "core_id": 2284.0
+      }
+    }
+  ]
+}

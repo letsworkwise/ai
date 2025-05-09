@@ -1,0 +1,466 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.88983256,
+      "text": "core_product_name: power distribution board | acronymed_core_product_name: pdb (power distribution board)",
+      "core_id": 1743.0,
+      "raw_product_name": "POWER DISTRIBUTION BOARD (PDB)",
+      "list_of_product_ids": [
+        "13892",
+        "14644",
+        "14778",
+        "14809",
+        "17930",
+        "17917",
+        "17892",
+        "17949",
+        "17939",
+        "18026",
+        "18008",
+        "18049",
+        "20762",
+        "20761",
+        "27494"
+      ]
+    },
+    {
+      "retrieval_score": 0.88896513,
+      "text": "core_product_name: distributed digital control, monitoring information system | acronymed_core_product_name: ddcmis",
+      "core_id": 605.0,
+      "raw_product_name": "DISTRIBUTED DIGITAL CONTROL,MONITORING INFORMATION SYSTEM(DDCMIS)",
+      "list_of_product_ids": [
+        "1",
+        "361",
+        "820",
+        "927"
+      ]
+    },
+    {
+      "retrieval_score": 0.87746626,
+      "text": "core_product_name: programmable logic controller | acronymed_core_product_name: plc subsystem",
+      "core_id": 1794.0,
+      "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER (PLC SUBSYSTEM)",
+      "list_of_product_ids": [
+        "13889",
+        "15107",
+        "20015",
+        "20010",
+        "36350",
+        "37195",
+        "36201"
+      ]
+    },
+    {
+      "retrieval_score": 0.87630576,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (pdb (power distribution board))",
+      "core_id": 20.0,
+      "raw_product_name": "A.C. DISTRIBUTION BOARD (PDB)",
+      "list_of_product_ids": [
+        "14164",
+        "14792",
+        "14811",
+        "19308"
+      ]
+    },
+    {
+      "retrieval_score": 0.87627614,
+      "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+      "core_id": 559.0,
+      "raw_product_name": "DCDB",
+      "list_of_product_ids": [
+        "15387",
+        "13587",
+        "14607",
+        "14780",
+        "19662",
+        "21388",
+        "36160"
+      ]
+    },
+    {
+      "retrieval_score": 0.8760607,
+      "text": "core_product_name: automatic power factor correction panel | acronymed_core_product_name: apfc panel",
+      "core_id": 125.0,
+      "raw_product_name": "APFC PANEL",
+      "list_of_product_ids": [
+        "14207",
+        "14608",
+        "14633",
+        "36913",
+        "24833",
+        "24821",
+        "24947",
+        "33479",
+        "33501",
+        "33677"
+      ]
+    },
+    {
+      "retrieval_score": 0.87584966,
+      "text": "core_product_name: tank | acronymed_core_product_name: tank (CBD) | type_or_class: CBD",
+      "core_id": 2205.0,
+      "raw_product_name": "TANK(CBD)",
+      "list_of_product_ids": [
+        "21067",
+        "21116",
+        "21123",
+        "21143",
+        "21109",
+        "21217",
+        "21711",
+        "35682"
+      ]
+    },
+    {
+      "retrieval_score": 0.8726687,
+      "text": "core_product_name: site fabricated column | acronymed_core_product_name: las (level alarm system) column",
+      "core_id": 396.0,
+      "raw_product_name": "COLUMN-LAS SITE FABRICATED",
+      "list_of_product_ids": [
+        "6688",
+        "5859",
+        "9698",
+        "23521"
+      ]
+    },
+    {
+      "retrieval_score": 0.8716971,
+      "text": "core_product_name: component | acronymed_core_product_name: ff (foundation fieldbus) component | type_or_class: Foundation Fieldbus",
+      "core_id": 270.0,
+      "raw_product_name": "FF( FOUNDATION FIELDBUS) COMPONENTS",
+      "list_of_product_ids": [
+        "140",
+        "172",
+        "030",
+        "723",
+        "680"
+      ]
+    },
+    {
+      "retrieval_score": 0.87053406,
+      "text": "core_product_name: supervisory control and data acquisition system | acronymed_core_product_name: SCADA SYSTEMS",
+      "core_id": 1969.0,
+      "raw_product_name": "SCADA SYSTEMS",
+      "list_of_product_ids": [
+        "6625",
+        "5795",
+        "10073",
+        "11202",
+        "10804",
+        "10871",
+        "10873",
+        "11374",
+        "11377",
+        "30049",
+        "29687",
+        "27063",
+        "30480",
+        "38273",
+        "32770",
+        "36655",
+        "36679",
+        "36002",
+        "36005",
+        "36004",
+        "36003",
+        "36001",
+        "36245",
+        "36398",
+        "36523"
+      ]
+    },
+    {
+      "retrieval_score": 0.87052304,
+      "text": "core_product_name: system panel",
+      "core_id": 2180.0,
+      "raw_product_name": "SYSTEM PANELS",
+      "list_of_product_ids": [
+        "1",
+        "413",
+        "621",
+        "099"
+      ]
+    },
+    {
+      "retrieval_score": 0.8703131,
+      "text": "core_product_name: substation automation system | acronymed_core_product_name: sas system",
+      "core_id": 1963.0,
+      "raw_product_name": "SAS System",
+      "list_of_product_ids": [
+        "7566",
+        "7240",
+        "11203",
+        "10872",
+        "10874",
+        "11375"
+      ]
+    },
+    {
+      "retrieval_score": 0.86994964,
+      "text": "core_product_name: system package | acronymed_core_product_name: h v system package",
+      "core_id": 1089.0,
+      "raw_product_name": "H V SYSTEM PACKAGE",
+      "list_of_product_ids": [
+        "6393",
+        "5564",
+        "10763",
+        "24478",
+        "24477",
+        "24476"
+      ]
+    },
+    {
+      "retrieval_score": 0.86962366,
+      "text": "core_product_name: tank | acronymed_core_product_name: tank (IBD) | type_or_class: IBD (Inlet Buffer Drum)",
+      "core_id": 2205.0,
+      "raw_product_name": "TANK(IBD)",
+      "list_of_product_ids": [
+        "21066",
+        "21115",
+        "21124",
+        "21141",
+        "21108",
+        "21216",
+        "21709",
+        "35683"
+      ]
+    },
+    {
+      "retrieval_score": 0.8696161,
+      "text": "core_product_name: weather monitoring system | acronymed_core_product_name: wms (weather monitoring system)",
+      "core_id": 2488.0,
+      "raw_product_name": "Weather Monitoring System (WMS)",
+      "list_of_product_ids": [
+        "18274",
+        "18546",
+        "18594",
+        "18593"
+      ]
+    },
+    {
+      "retrieval_score": 0.8685003,
+      "text": "core_product_name: central processing unit | acronymed_core_product_name: cpu unit",
+      "core_id": 505.0,
+      "raw_product_name": "CPU UNITS",
+      "list_of_product_ids": [
+        "192",
+        "651",
+        "410",
+        "722",
+        "373"
+      ]
+    },
+    {
+      "retrieval_score": 0.86724895,
+      "text": "core_product_name: control panel | acronymed_core_product_name: control panel flp (flameproof) | protection_features: Flameproof",
+      "core_id": 453.0,
+      "raw_product_name": "CONTROL PANEL FLP",
+      "list_of_product_ids": [
+        "14206",
+        "14604",
+        "14850",
+        "36916",
+        "22865",
+        "24832",
+        "24820",
+        "24935",
+        "24946",
+        "33487",
+        "33681",
+        "35782"
+      ]
+    },
+    {
+      "retrieval_score": 0.8666193,
+      "text": "core_product_name: control panel instrument | acronymed_core_product_name: paga (public address and general alarm) control panel instrument",
+      "core_id": 1622.0,
+      "raw_product_name": "PAGA CONTROL PANEL INSTRUMENT",
+      "list_of_product_ids": [
+        "19367",
+        "24919",
+        "19365",
+        "38960",
+        "39551",
+        "39915"
+      ]
+    },
+    {
+      "retrieval_score": 0.86656713,
+      "text": "core_product_name: input/output converter | acronymed_core_product_name: i/p converter",
+      "core_id": 1221.0,
+      "raw_product_name": "I/P CONVERTERS",
+      "list_of_product_ids": [
+        "13678",
+        "14948",
+        "14949",
+        "15078",
+        "15105",
+        "15307",
+        "15315",
+        "17477",
+        "20895",
+        "23179",
+        "36199",
+        "36348"
+      ]
+    },
+    {
+      "retrieval_score": 0.86624825,
+      "text": "core_product_name: input convertor | acronymed_core_product_name: i/p convertor",
+      "core_id": 1222.0,
+      "raw_product_name": "I/P CONVERTOR",
+      "list_of_product_ids": [
+        "1",
+        "542",
+        "023",
+        "681"
+      ]
+    },
+    {
+      "retrieval_score": 0.8659913,
+      "text": "core_product_name: addressable auto fire detection system | acronymed_core_product_name: afds (addressable auto fire detection system)",
+      "core_id": 46.0,
+      "raw_product_name": "ADDRESSABLE AUTO FIRE DETECTION SYSTEM (AFDS)",
+      "list_of_product_ids": [
+        "24385",
+        "24384",
+        "24383",
+        "24382",
+        "26861",
+        "34990"
+      ]
+    },
+    {
+      "retrieval_score": 0.86592084,
+      "text": "core_product_name: auxiliary column | acronymed_core_product_name: aux. column",
+      "core_id": 147.0,
+      "raw_product_name": "AUX. COLUMN",
+      "list_of_product_ids": [
+        "20899",
+        "20876",
+        "21908",
+        "21952",
+        "22021",
+        "22119",
+        "20853"
+      ]
+    },
+    {
+      "retrieval_score": 0.86546737,
+      "text": "core_product_name: instrument panel",
+      "core_id": 1256.0,
+      "raw_product_name": "INSTRUMENT PANEL",
+      "list_of_product_ids": [
+        "13720",
+        "14806",
+        "14814",
+        "14824",
+        "21097",
+        "22773",
+        "36101"
+      ]
+    },
+    {
+      "retrieval_score": 0.86491483,
+      "text": "core_product_name: lt (low tension) control panel | acronymed_core_product_name: vfd (variable frequency drive) control panel | type_or_class: VFD (Variable Frequency Drive)",
+      "core_id": 1401.0,
+      "raw_product_name": "LT VFD Control Panel",
+      "list_of_product_ids": [
+        "7621",
+        "7295",
+        "7890",
+        "24830",
+        "24818",
+        "24933",
+        "24944"
+      ]
+    },
+    {
+      "retrieval_score": 0.8642752,
+      "text": "core_product_name: management system",
+      "core_id": 2200.0,
+      "raw_product_name": "TANK FARM MANAGEMENT SYSTEM",
+      "list_of_product_ids": [
+        "6585",
+        "5755",
+        "11689",
+        "11698",
+        "10102",
+        "10116",
+        "11714",
+        "13223",
+        "21062",
+        "35434"
+      ]
+    },
+    {
+      "retrieval_score": 0.86399907,
+      "text": "core_product_name: cathodic protection system | acronymed_core_product_name: cp system",
+      "core_id": 503.0,
+      "raw_product_name": "CP SYSTEM",
+      "list_of_product_ids": [
+        "15360",
+        "15379",
+        "15381",
+        "15383",
+        "18186",
+        "19518",
+        "40163",
+        "40168",
+        "40190",
+        "40238",
+        "40233"
+      ]
+    },
+    {
+      "retrieval_score": 0.8639478,
+      "text": "core_product_name: public address system | acronymed_core_product_name: pa system",
+      "core_id": 1620.0,
+      "raw_product_name": "PA SYSTEM",
+      "list_of_product_ids": [
+        "13866",
+        "24268",
+        "21000",
+        "31192",
+        "34985"
+      ]
+    },
+    {
+      "retrieval_score": 0.8638472,
+      "text": "core_product_name: technological control system",
+      "core_id": 2209.0,
+      "raw_product_name": "TECHNOLOGICAL CONTROL SYSTEM",
+      "list_of_product_ids": [
+        "236",
+        "112",
+        "356",
+        "823",
+        "584"
+      ]
+    },
+    {
+      "retrieval_score": 0.8637489,
+      "text": "core_product_name: inside panel | acronymed_core_product_name: mcb (miniature circuit breaker) panel | type_or_class: Flush type only",
+      "core_id": 1448.0,
+      "raw_product_name": "MCB Inside Panels (Flush type only)",
+      "list_of_product_ids": [
+        "1",
+        "371",
+        "214",
+        "885"
+      ]
+    },
+    {
+      "retrieval_score": 0.8634933,
+      "text": "core_product_name: biochemical oxygen demand analyzer | acronymed_core_product_name: bod analyzer",
+      "core_id": 215.0,
+      "raw_product_name": "BOD ANALYZER",
+      "list_of_product_ids": [
+        "1",
+        "425",
+        "323",
+        "186"
+      ]
+    }
+  ]
+}

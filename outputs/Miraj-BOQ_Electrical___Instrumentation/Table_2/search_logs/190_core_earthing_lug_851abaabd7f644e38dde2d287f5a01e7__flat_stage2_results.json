@@ -1,0 +1,582 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8693405,
+      "text": "core_product_name: cable lug",
+      "core_id": 280.0,
+      "raw_product_name": "CABLE LUG",
+      "list_of_product_ids": [
+        "2",
+        "064",
+        "720",
+        "116"
+      ]
+    },
+    {
+      "retrieval_score": 0.868781,
+      "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride)",
+      "core_id": 442.0,
+      "raw_product_name": "PVC Conduit",
+      "list_of_product_ids": [
+        "16287",
+        "17401",
+        "21575",
+        "16288"
+      ]
+    },
+    {
+      "retrieval_score": 0.86492604,
+      "text": "core_product_name: tube | material: PVC (Polyvinyl Chloride)",
+      "core_id": 88.0,
+      "raw_product_name": "PVC TUBE",
+      "list_of_product_ids": [
+        "223",
+        "352",
+        "233",
+        "327",
+        "804"
+      ]
+    },
+    {
+      "retrieval_score": 0.86447316,
+      "text": "core_product_name: fitting | material: PVC (Polyvinyl Chloride)",
+      "core_id": 273.0,
+      "raw_product_name": "PVC Pipe Fittings",
+      "list_of_product_ids": [
+        "13913",
+        "16304",
+        "16719",
+        "22337",
+        "22901"
+      ]
+    },
+    {
+      "retrieval_score": 0.86360353,
+      "text": "core_product_name: pvc (polyvinyl chloride) pipe",
+      "core_id": 1824.0,
+      "raw_product_name": "PVC Pipe",
+      "list_of_product_ids": [
+        "14387",
+        "14545",
+        "16303",
+        "16718",
+        "16711",
+        "18505",
+        "22900",
+        "27371",
+        "35734",
+        "35735"
+      ]
+    },
+    {
+      "retrieval_score": 0.863559,
+      "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+      "core_id": 313.0,
+      "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+      "list_of_product_ids": [
+        "140",
+        "901",
+        "478",
+        "121",
+        "282"
+      ]
+    },
+    {
+      "retrieval_score": 0.86149246,
+      "text": "core_product_name: control cable | size_or_capacity: 1100 Volts | material: PVC (Polyvinyl Chloride)",
+      "core_id": 4.0,
+      "raw_product_name": "1100 VOLTS GRADE PVC CONTROL CABLES",
+      "list_of_product_ids": [
+        "23936",
+        "24085",
+        "21514",
+        "28591"
+      ]
+    },
+    {
+      "retrieval_score": 0.86106646,
+      "text": "core_product_name: earthing material",
+      "core_id": 672.0,
+      "raw_product_name": "EARTHING MATERIALS",
+      "list_of_product_ids": [
+        "378",
+        "733",
+        "788",
+        "037",
+        "898"
+      ]
+    },
+    {
+      "retrieval_score": 0.8603041,
+      "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride) | accessories_or_attachments: accessories",
+      "core_id": 442.0,
+      "raw_product_name": "PVC Conduit and accessories",
+      "list_of_product_ids": [
+        "7222",
+        "7548",
+        "10494",
+        "10502"
+      ]
+    },
+    {
+      "retrieval_score": 0.85807604,
+      "text": "core_product_name: tube | material: Copper | construction_features: PVC (Polyvinyl Chloride) coated",
+      "core_id": 88.0,
+      "raw_product_name": "COPPER TUBE (PVC COATED)",
+      "list_of_product_ids": [
+        "16380",
+        "16442",
+        "16464",
+        "16437"
+      ]
+    },
+    {
+      "retrieval_score": 0.8563535,
+      "text": "core_product_name: control cable | material: PVC (Polyvinyl Chloride) | material: XLPE (Cross-Linked Polyethylene)",
+      "core_id": 4.0,
+      "raw_product_name": "CABLES:CONTROL-PVC/XLPE",
+      "list_of_product_ids": [
+        "6422",
+        "5592",
+        "10193",
+        "11360",
+        "10665",
+        "11368",
+        "11745",
+        "12088",
+        "12118",
+        "13289",
+        "13295",
+        "16038",
+        "16281",
+        "17782",
+        "23991",
+        "23860",
+        "40317"
+      ]
+    },
+    {
+      "retrieval_score": 0.8556817,
+      "text": "core_product_name: cable | material: Rubber",
+      "core_id": 1.0,
+      "raw_product_name": "RUBBER CABLES",
+      "list_of_product_ids": [
+        "38749",
+        "38955",
+        "38670",
+        "38589",
+        "38533",
+        "38534",
+        "38615",
+        "38698",
+        "38775",
+        "38723",
+        "38643",
+        "38834",
+        "38866",
+        "38908",
+        "38934",
+        "38971",
+        "38998",
+        "39026",
+        "39060",
+        "39094",
+        "39124",
+        "39172",
+        "39225",
+        "39253",
+        "39295",
+        "39345",
+        "39381",
+        "39410",
+        "39440",
+        "39456",
+        "39491",
+        "39546",
+        "39573",
+        "39611",
+        "39635",
+        "39663",
+        "39697",
+        "39737",
+        "39807",
+        "39835",
+        "39906"
+      ]
+    },
+    {
+      "retrieval_score": 0.85547036,
+      "text": "core_product_name: tubing",
+      "core_id": 2099.0,
+      "raw_product_name": "TUBINGS",
+      "list_of_product_ids": [
+        "14396",
+        "14566",
+        "22505",
+        "35747"
+      ]
+    },
+    {
+      "retrieval_score": 0.85543126,
+      "text": "core_product_name: power cable | size_or_capacity: medium voltage | material: PVC (Polyvinyl Chloride) or XLPE (Cross-Linked Polyethylene)",
+      "core_id": 3.0,
+      "raw_product_name": "CABLES-MEDIUM VOLTAGE-POWER-PVC/XLPE",
+      "list_of_product_ids": [
+        "8987",
+        "9004",
+        "10662",
+        "9469",
+        "9472",
+        "9476",
+        "9356",
+        "9366",
+        "9382",
+        "9393",
+        "9454",
+        "9191",
+        "9197",
+        "9193",
+        "9199",
+        "9203",
+        "9206",
+        "9209",
+        "9295",
+        "9359",
+        "9369",
+        "9373",
+        "15970",
+        "19317",
+        "19309",
+        "19311",
+        "17781",
+        "19314",
+        "16908",
+        "24041",
+        "23892",
+        "26973",
+        "27004",
+        "27003",
+        "19310",
+        "38593",
+        "38753",
+        "38647",
+        "36581",
+        "38619",
+        "38702",
+        "38779",
+        "38727",
+        "38870",
+        "38838",
+        "38912",
+        "38938",
+        "38674",
+        "38975",
+        "39002",
+        "39030",
+        "39066",
+        "39098",
+        "39128",
+        "39176",
+        "39215",
+        "39257",
+        "39299",
+        "39335",
+        "39371",
+        "39400",
+        "39430",
+        "39481",
+        "39536",
+        "39563",
+        "39601",
+        "39625",
+        "39653",
+        "39687",
+        "39727",
+        "39797",
+        "39825",
+        "39896"
+      ]
+    },
+    {
+      "retrieval_score": 0.85534525,
+      "text": "core_product_name: welding cable",
+      "core_id": 2458.0,
+      "raw_product_name": "WELDING CABLE",
+      "list_of_product_ids": [
+        "32845",
+        "32846",
+        "33000",
+        "33033",
+        "33187",
+        "33252",
+        "33555",
+        "33626",
+        "35915"
+      ]
+    },
+    {
+      "retrieval_score": 0.8532562,
+      "text": "core_product_name: cable lug | accessories_or_attachments: Lugs",
+      "core_id": 280.0,
+      "raw_product_name": "CABLE – LUGS",
+      "list_of_product_ids": [
+        "13715",
+        "14861",
+        "18113",
+        "19564",
+        "20439",
+        "20413",
+        "20462",
+        "20503",
+        "24057",
+        "23908",
+        "32998",
+        "33032",
+        "33185",
+        "33250",
+        "33552",
+        "33624",
+        "35913"
+      ]
+    },
+    {
+      "retrieval_score": 0.85296077,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLE STOCKIST/TRADERS",
+      "list_of_product_ids": [
+        "2",
+        "467",
+        "924",
+        "680"
+      ]
+    },
+    {
+      "retrieval_score": 0.8526927,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLES",
+      "list_of_product_ids": [
+        "15455",
+        "13721",
+        "24275",
+        "15161",
+        "16241",
+        "19098",
+        "23820",
+        "23814",
+        "21319",
+        "19315",
+        "23819",
+        "23822",
+        "24273",
+        "23829",
+        "20141",
+        "23831",
+        "24058",
+        "23836",
+        "23909",
+        "23839",
+        "23828",
+        "24685",
+        "24726",
+        "24844",
+        "24955",
+        "31590",
+        "31591",
+        "26436",
+        "26438",
+        "31740",
+        "33330"
+      ]
+    },
+    {
+      "retrieval_score": 0.8526866,
+      "text": "core_product_name: cable gland",
+      "core_id": 278.0,
+      "raw_product_name": "CABLE GLANDS",
+      "list_of_product_ids": [
+        "5961",
+        "6789",
+        "8221",
+        "8217",
+        "10553",
+        "10605",
+        "8222",
+        "8223",
+        "12107",
+        "15811",
+        "15929",
+        "16012",
+        "16032",
+        "16026",
+        "17577",
+        "22860",
+        "26078",
+        "26074",
+        "26071",
+        "36606",
+        "33509",
+        "33510",
+        "35776",
+        "35866",
+        "39358"
+      ]
+    },
+    {
+      "retrieval_score": 0.85258234,
+      "text": "core_product_name: lining | material: Lead",
+      "core_id": 1367.0,
+      "raw_product_name": "LINING (LEAD)",
+      "list_of_product_ids": [
+        "61",
+        "665",
+        "336"
+      ]
+    },
+    {
+      "retrieval_score": 0.85258096,
+      "text": "core_product_name: power cable",
+      "core_id": 3.0,
+      "raw_product_name": "POWER CABLE",
+      "list_of_product_ids": [
+        "13440",
+        "14645",
+        "15813",
+        "29442",
+        "29447",
+        "29448",
+        "24045",
+        "23896",
+        "36583",
+        "36611",
+        "38139"
+      ]
+    },
+    {
+      "retrieval_score": 0.8524111,
+      "text": "core_product_name: compensating cable",
+      "core_id": 407.0,
+      "raw_product_name": "COMPENSATING CABLE",
+      "list_of_product_ids": [
+        "24082",
+        "21244",
+        "21234",
+        "23933",
+        "28345"
+      ]
+    },
+    {
+      "retrieval_score": 0.85211164,
+      "text": "core_product_name: instrumentation earthing",
+      "core_id": 1263.0,
+      "raw_product_name": "INSTRUMENTATION EARTHING",
+      "list_of_product_ids": [
+        "13420"
+      ]
+    },
+    {
+      "retrieval_score": 0.8517801,
+      "text": "core_product_name: lining | material: Rubber",
+      "core_id": 1367.0,
+      "raw_product_name": "LINING (RUBBER)",
+      "list_of_product_ids": [
+        "6167",
+        "5337",
+        "12267",
+        "12269",
+        "12265",
+        "12268",
+        "12480"
+      ]
+    },
+    {
+      "retrieval_score": 0.8516653,
+      "text": "core_product_name: pvc pipe | accessories_or_attachments: fittings | type_or_class: cable conduit",
+      "core_id": 1823.0,
+      "raw_product_name": "PVC PIPES AND FITTINGS (CABLE CONDUITS)",
+      "list_of_product_ids": [
+        "16289",
+        "16286",
+        "16284",
+        "16283",
+        "16291",
+        "27072",
+        "34651",
+        "35164"
+      ]
+    },
+    {
+      "retrieval_score": 0.85131305,
+      "text": "core_product_name: tape | material: PVC (Polyvinyl Chloride)",
+      "core_id": 815.0,
+      "raw_product_name": "PVC TAPE",
+      "list_of_product_ids": [
+        "20688",
+        "20548",
+        "20512",
+        "20595",
+        "20589",
+        "20746"
+      ]
+    },
+    {
+      "retrieval_score": 0.85100514,
+      "text": "core_product_name: electric cable reeling drum",
+      "core_id": 685.0,
+      "raw_product_name": "ELECTRIC CABLE REELING DRUM",
+      "list_of_product_ids": [
+        "274",
+        "892",
+        "751",
+        "127",
+        "488"
+      ]
+    },
+    {
+      "retrieval_score": 0.8507359,
+      "text": "core_product_name: conduit fitting",
+      "core_id": 870.0,
+      "raw_product_name": "FITTINGS (CONDUIT)",
+      "list_of_product_ids": [
+        "165",
+        "391",
+        "654",
+        "021",
+        "574"
+      ]
+    },
+    {
+      "retrieval_score": 0.850688,
+      "text": "core_product_name: cable | size_or_capacity: 33kV | material: XLPE (Cross-Linked Polyethylene)",
+      "core_id": 1.0,
+      "raw_product_name": "33kV cable XLPE",
+      "list_of_product_ids": [
+        "14154",
+        "15792",
+        "16795",
+        "20142",
+        "24052",
+        "20057",
+        "23903"
+      ]
+    },
+    {
+      "retrieval_score": 0.85063964,
+      "text": "core_product_name: rain water pipe (polyvinyl chloride)",
+      "core_id": 1825.0,
+      "raw_product_name": "PVC RAIN WATER",
+      "list_of_product_ids": [
+        "13445",
+        "13497",
+        "14536",
+        "14544",
+        "14546",
+        "35723",
+        "35724",
+        "35725",
+        "35731"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "query": "core_product_name: diesel",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: diesel engine | material: Diesel",
+        "raw_product_name": "DIESEL ENGINE",
+        "list_of_product_ids": [
+          "5929",
+          "6758",
+          "9157",
+          "9179",
+          "9186",
+          "12065",
+          "12352",
+          "17023",
+          "18042",
+          "18173",
+          "18745",
+          "23643",
+          "31968",
+          "37415",
+          "36856",
+          "35964",
+          "37405"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: diesel engine",
+        "raw_product_name": "SHIP REPAIR - DIESEL ENGINE",
+        "list_of_product_ids": [
+          "29474",
+          "29300",
+          "29297",
+          "29296",
+          "29294"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: diesel generating set",
+        "raw_product_name": "DIESEL GENERATING SET",
+        "list_of_product_ids": [
+          "19330",
+          "19331",
+          "19332",
+          "19339",
+          "19615",
+          "24361",
+          "24360",
+          "26864",
+          "39715",
+          "39840",
+          "39911"
+        ]
+      }
+    }
+  ]
+}

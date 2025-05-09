@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: frp(fiber reinforced plastic) ladder | size: type: a, length: 3 Mtr",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: product | acronymed_core_product_name: frp (fiber reinforced plastic) product | material: FRP (Fiber Reinforced Plastic)",
+        "raw_product_name": "FRP PRODUCTS",
+        "list_of_product_ids": [
+          "23392",
+          "24336",
+          "23463",
+          "23393",
+          "26889"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: ladder | material: Mild Steel (MS)",
+        "raw_product_name": "MILD STEEL LADDERS",
+        "list_of_product_ids": [
+          "274",
+          "932",
+          "750",
+          "927",
+          "490"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: ladder | material: Aluminium",
+        "raw_product_name": "ALUMINIUM LADDERS",
+        "list_of_product_ids": [
+          "274",
+          "922",
+          "751",
+          "027",
+          "487"
+        ]
+      }
+    }
+  ]
+}

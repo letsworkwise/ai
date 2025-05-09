@@ -1,0 +1,537 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8662524,
+      "text": "core_product_name: terminal automation system",
+      "core_id": 2229.0,
+      "raw_product_name": "TERMINAL AUTOMATION SYSTEM",
+      "list_of_product_ids": [
+        "6572",
+        "5742",
+        "10065",
+        "10150",
+        "11898",
+        "19578",
+        "30475"
+      ]
+    },
+    {
+      "retrieval_score": 0.84829444,
+      "text": "core_product_name: electrical terminal",
+      "core_id": 712.0,
+      "raw_product_name": "ELECTRICAL TERMINALS",
+      "list_of_product_ids": [
+        "21153",
+        "21157",
+        "28575",
+        "36610"
+      ]
+    },
+    {
+      "retrieval_score": 0.8461143,
+      "text": "core_product_name: terminal block",
+      "core_id": 2228.0,
+      "raw_product_name": "TERMINAL BLOCKS",
+      "list_of_product_ids": [
+        "5940",
+        "6769",
+        "12287",
+        "11388",
+        "8256",
+        "9278",
+        "17855",
+        "18812"
+      ]
+    },
+    {
+      "retrieval_score": 0.84466,
+      "text": "core_product_name: terminal box",
+      "core_id": 2230.0,
+      "raw_product_name": "TERMINAL BOX",
+      "list_of_product_ids": [
+        "141",
+        "951",
+        "736",
+        "936",
+        "609"
+      ]
+    },
+    {
+      "retrieval_score": 0.843323,
+      "text": "core_product_name: technological control system",
+      "core_id": 2209.0,
+      "raw_product_name": "TECHNOLOGICAL CONTROL SYSTEM",
+      "list_of_product_ids": [
+        "236",
+        "112",
+        "356",
+        "823",
+        "584"
+      ]
+    },
+    {
+      "retrieval_score": 0.8432151,
+      "text": "core_product_name: terminal strip",
+      "core_id": 2231.0,
+      "raw_product_name": "TERMINAL STRIPS",
+      "list_of_product_ids": [
+        "1",
+        "400",
+        "220",
+        "181"
+      ]
+    },
+    {
+      "retrieval_score": 0.84108657,
+      "text": "core_product_name: fire and gas detection system",
+      "core_id": 836.0,
+      "raw_product_name": "FIRE & GAS DETECTION SYSTEMS",
+      "list_of_product_ids": [
+        "6550",
+        "5721",
+        "10943",
+        "10040",
+        "11234",
+        "11244",
+        "11420",
+        "11423",
+        "11421",
+        "11425",
+        "12425",
+        "12818",
+        "17482",
+        "17481",
+        "19831",
+        "29874",
+        "37765",
+        "37770",
+        "37775",
+        "37791",
+        "35578",
+        "36117",
+        "36233",
+        "36385",
+        "36457"
+      ]
+    },
+    {
+      "retrieval_score": 0.8405822,
+      "text": "core_product_name: addressable fire alarm panel",
+      "core_id": 48.0,
+      "raw_product_name": "ADDRESSABLE FIRE ALARM PANEL",
+      "list_of_product_ids": [
+        "37759",
+        "37764",
+        "37769",
+        "37774",
+        "37780",
+        "37790"
+      ]
+    },
+    {
+      "retrieval_score": 0.8405819,
+      "text": "core_product_name: fire alarm panel",
+      "core_id": 837.0,
+      "raw_product_name": "FIRE ALARM PANEL",
+      "list_of_product_ids": [
+        "8896",
+        "8906",
+        "9845",
+        "9853",
+        "9863",
+        "8933",
+        "9076",
+        "9137",
+        "14320",
+        "14321",
+        "10735",
+        "16601",
+        "16125",
+        "34974",
+        "35217",
+        "36088",
+        "36458"
+      ]
+    },
+    {
+      "retrieval_score": 0.840318,
+      "text": "core_product_name: fire alarm system",
+      "core_id": 838.0,
+      "raw_product_name": "FIRE ALARM SYSTEM",
+      "list_of_product_ids": [
+        "6432",
+        "5602",
+        "10173",
+        "12289",
+        "12290",
+        "17862",
+        "18175",
+        "31111",
+        "25486",
+        "31761",
+        "31058",
+        "36635",
+        "36636",
+        "37801",
+        "37806",
+        "34963",
+        "34973",
+        "34970",
+        "34975",
+        "34988",
+        "34991",
+        "34998",
+        "35001",
+        "35005",
+        "35010",
+        "35015",
+        "35218",
+        "36087",
+        "36459",
+        "36517"
+      ]
+    },
+    {
+      "retrieval_score": 0.8402693,
+      "text": "core_product_name: machine monitoring system",
+      "core_id": 1418.0,
+      "raw_product_name": "MACHINE MONITORING SYSTEMS",
+      "list_of_product_ids": [
+        "6478",
+        "5649",
+        "12455",
+        "32772",
+        "38192"
+      ]
+    },
+    {
+      "retrieval_score": 0.840029,
+      "text": "core_product_name: programmable logic controller-fire and gas system | acronymed_core_product_name: PLC-FGS",
+      "core_id": 1706.0,
+      "raw_product_name": "PLC-FGS",
+      "list_of_product_ids": [
+        "13801",
+        "15110",
+        "20985",
+        "23214",
+        "36204",
+        "36353"
+      ]
+    },
+    {
+      "retrieval_score": 0.8395025,
+      "text": "core_product_name: fire detection system",
+      "core_id": 844.0,
+      "raw_product_name": "FIRE DETECTION SYSTEM",
+      "list_of_product_ids": [
+        "14244",
+        "17861",
+        "18174",
+        "20243",
+        "20302",
+        "22254",
+        "24381",
+        "24380",
+        "24695",
+        "31751",
+        "31753",
+        "26666",
+        "26669",
+        "26674",
+        "31756",
+        "31760",
+        "34972",
+        "34989",
+        "35006",
+        "35012",
+        "35016",
+        "35220",
+        "36456"
+      ]
+    },
+    {
+      "retrieval_score": 0.83849216,
+      "text": "core_product_name: turnkey instrumentation",
+      "core_id": 2299.0,
+      "raw_product_name": "TURNKEY INSTRUMENTATION",
+      "list_of_product_ids": [
+        "6627",
+        "5797",
+        "10074",
+        "8347",
+        "30050",
+        "29691",
+        "27064",
+        "30481",
+        "38274",
+        "32771",
+        "38190",
+        "37692",
+        "37693",
+        "37700",
+        "37702",
+        "37706",
+        "37710",
+        "34960",
+        "36098",
+        "36246",
+        "36399"
+      ]
+    },
+    {
+      "retrieval_score": 0.8383988,
+      "text": "core_product_name: terminal bushing",
+      "core_id": 2232.0,
+      "raw_product_name": "TERMINAL BUSHING",
+      "list_of_product_ids": [
+        "1",
+        "399",
+        "814",
+        "467"
+      ]
+    },
+    {
+      "retrieval_score": 0.8377623,
+      "text": "core_product_name: local control station",
+      "core_id": 1380.0,
+      "raw_product_name": "LOCAL CONTROL STATIONS",
+      "list_of_product_ids": [
+        "99",
+        "911",
+        "003",
+        "018",
+        "831"
+      ]
+    },
+    {
+      "retrieval_score": 0.8375258,
+      "text": "core_product_name: equipment",
+      "core_id": 460.0,
+      "raw_product_name": "CONTROL ROOM EQUIPMENT",
+      "list_of_product_ids": [
+        "14034",
+        "14815",
+        "17256",
+        "21098"
+      ]
+    },
+    {
+      "retrieval_score": 0.8374088,
+      "text": "core_product_name: system panel",
+      "core_id": 2180.0,
+      "raw_product_name": "SYSTEM PANELS",
+      "list_of_product_ids": [
+        "1",
+        "413",
+        "621",
+        "099"
+      ]
+    },
+    {
+      "retrieval_score": 0.8372211,
+      "text": "core_product_name: flame scanner",
+      "core_id": 893.0,
+      "raw_product_name": "FLAME SCANNER",
+      "list_of_product_ids": [
+        "5965",
+        "6793",
+        "10940",
+        "7007",
+        "11921"
+      ]
+    },
+    {
+      "retrieval_score": 0.8368994,
+      "text": "core_product_name: embedded control system",
+      "core_id": 737.0,
+      "raw_product_name": "EMBEDDED CONTROL SYSTEM",
+      "list_of_product_ids": [
+        "236",
+        "092",
+        "358",
+        "623",
+        "573"
+      ]
+    },
+    {
+      "retrieval_score": 0.83681595,
+      "text": "core_product_name: gas turbine",
+      "core_id": 1035.0,
+      "raw_product_name": "GAS TURBINE",
+      "list_of_product_ids": [
+        "19283",
+        "19284",
+        "20427",
+        "20402",
+        "20494",
+        "20453",
+        "37422",
+        "37194",
+        "37402"
+      ]
+    },
+    {
+      "retrieval_score": 0.8367787,
+      "text": "core_product_name: gas turbine",
+      "core_id": 1035.0,
+      "raw_product_name": "TURBINE-GAS",
+      "list_of_product_ids": [
+        "5926",
+        "6755",
+        "11343",
+        "11472",
+        "8427",
+        "37421",
+        "33916",
+        "36125",
+        "37403"
+      ]
+    },
+    {
+      "retrieval_score": 0.83675635,
+      "text": "core_product_name: fieldbus monitor",
+      "core_id": 821.0,
+      "raw_product_name": "FIELDBUS MONITOR",
+      "list_of_product_ids": [
+        "5",
+        "948",
+        "677",
+        "710",
+        "076"
+      ]
+    },
+    {
+      "retrieval_score": 0.8363664,
+      "text": "core_product_name: stack emission monitoring system",
+      "core_id": 2097.0,
+      "raw_product_name": "STACK EMMISSION MONITORING SYSTEM",
+      "list_of_product_ids": [
+        "1",
+        "403",
+        "321",
+        "845"
+      ]
+    },
+    {
+      "retrieval_score": 0.83636355,
+      "text": "core_product_name: turbine generator set",
+      "core_id": 2290.0,
+      "raw_product_name": "TURBINE GENERATOR SET",
+      "list_of_product_ids": [
+        "9481",
+        "9594",
+        "14798",
+        "24321",
+        "37420",
+        "36130",
+        "37401"
+      ]
+    },
+    {
+      "retrieval_score": 0.8357994,
+      "text": "core_product_name: gas detection system",
+      "core_id": 1028.0,
+      "raw_product_name": "GAS DETECTION SYSTEMS",
+      "list_of_product_ids": [
+        "6549",
+        "5720",
+        "10456",
+        "11233",
+        "11243",
+        "10651",
+        "10650",
+        "11424",
+        "11422",
+        "11722",
+        "12817",
+        "12820",
+        "12819",
+        "13110",
+        "13111",
+        "18189",
+        "36733",
+        "35577",
+        "36091",
+        "36095"
+      ]
+    },
+    {
+      "retrieval_score": 0.8357819,
+      "text": "core_product_name: loading arm",
+      "core_id": 1375.0,
+      "raw_product_name": "LOADING ARM",
+      "list_of_product_ids": [
+        "13621"
+      ]
+    },
+    {
+      "retrieval_score": 0.8357662,
+      "text": "core_product_name: ground monitoring system",
+      "core_id": 1079.0,
+      "raw_product_name": "GROUND MONITORING SYSTEMS",
+      "list_of_product_ids": [
+        "6629",
+        "5799",
+        "10305",
+        "24235",
+        "19579"
+      ]
+    },
+    {
+      "retrieval_score": 0.83556455,
+      "text": "core_product_name: plant communication system | acronymed_core_product_name: PAGA (Public Address and General Alarm) communication system",
+      "core_id": 1696.0,
+      "raw_product_name": "PLANT COMMUNICATION SYSTEM (PAGA)",
+      "list_of_product_ids": [
+        "202",
+        "422",
+        "034",
+        "739",
+        "508"
+      ]
+    },
+    {
+      "retrieval_score": 0.83550185,
+      "text": "core_product_name: control panel",
+      "core_id": 453.0,
+      "raw_product_name": "CONTROL PANEL",
+      "list_of_product_ids": [
+        "7620",
+        "10723",
+        "10724",
+        "7294",
+        "11348",
+        "10704",
+        "10706",
+        "10708",
+        "10709",
+        "10705",
+        "10707",
+        "7889",
+        "8210",
+        "16017",
+        "16030",
+        "16028",
+        "36914",
+        "16897",
+        "18294",
+        "18873",
+        "18919",
+        "19439",
+        "20784",
+        "20783",
+        "21195",
+        "24829",
+        "24817",
+        "24932",
+        "24943",
+        "21198",
+        "36654",
+        "36677",
+        "33483",
+        "33678",
+        "35056"
+      ]
+    }
+  ]
+}

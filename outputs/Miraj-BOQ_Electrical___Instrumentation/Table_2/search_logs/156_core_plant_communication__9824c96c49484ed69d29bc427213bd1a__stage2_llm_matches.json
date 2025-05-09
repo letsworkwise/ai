@@ -1,0 +1,54 @@
+{
+  "query": "core_product_name: plant communication system",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: plant communication system",
+        "raw_product_name": "PLANT COMMUNICATION SYSTEM",
+        "list_of_product_ids": [
+          "9",
+          "484",
+          "958",
+          "414",
+          "803"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: plant communication system | acronymed_core_product_name: PAGA (Public Address and General Alarm) communication system",
+        "raw_product_name": "PLANT COMMUNICATION SYSTEM (PAGA)",
+        "list_of_product_ids": [
+          "202",
+          "422",
+          "034",
+          "739",
+          "508"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: telecommunication system",
+        "raw_product_name": "TELECOMMUNICATION SYSTEM",
+        "list_of_product_ids": [
+          "14203",
+          "18336",
+          "22435",
+          "36100"
+        ]
+      }
+    }
+  ]
+}

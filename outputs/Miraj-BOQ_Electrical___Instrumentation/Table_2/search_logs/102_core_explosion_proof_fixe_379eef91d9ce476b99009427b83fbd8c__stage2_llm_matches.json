@@ -1,0 +1,70 @@
+{
+  "query": "core_product_name: explosion proof fixed camera | size: lens: MFZ, resolution: 2MP, pixels: 1920x1080, lens: 3-9 mm, sd card: 32 GB | feature_or_specifications: certification: ATEX, type: explosion proof, sensor: progressive scan, compression: high profile H.264, iris: DC-Iris, day-night, frame rate: 30fps, streaming: multi streams, power: POE enabled, certification: UL (underwriters laboratories), accessories: surge protectors, mounting bracket (same make as camera)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: explosion proof control station | protection_features: Explosion proof",
+        "raw_product_name": "CONTROL STATIONS - EXPLOSION PROOF",
+        "list_of_product_ids": [
+          "19797",
+          "19862",
+          "19850",
+          "19865",
+          "19864",
+          "28286",
+          "35867",
+          "35889",
+          "35942"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: explosion proof pressure switch | protection_features: Explosion proof",
+        "raw_product_name": "PRESSURE SWITCHES (EXPLOSION PROOF)",
+        "list_of_product_ids": [
+          "13870",
+          "36534",
+          "16829",
+          "16827",
+          "16822",
+          "16821",
+          "17071",
+          "23655",
+          "36616",
+          "35666",
+          "35671",
+          "39386"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: level switch | protection_features: Explosion Proof",
+        "raw_product_name": "Level Switches (Explosion Proof)",
+        "list_of_product_ids": [
+          "17095",
+          "17094",
+          "17093",
+          "17092",
+          "17091",
+          "17090",
+          "17096",
+          "27177"
+        ]
+      }
+    }
+  ]
+}

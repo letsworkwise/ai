@@ -1,0 +1,52 @@
+{
+  "query": "core_product_name: switch box enclosure | size: 2 M | feature_or_specifications: plate: included",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: switch plate",
+        "raw_product_name": "SWITCH PLATE",
+        "list_of_product_ids": [
+          "20511",
+          "20547",
+          "20587",
+          "20634",
+          "20689",
+          "20747"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: fixed switch board | mounting_or_installation: for package equipments | protection_features: flame proof",
+        "raw_product_name": "SWITCH BOARD FIXED FOR PACKAGE EQUIPMENTS FLAME PROOF",
+        "list_of_product_ids": [
+          "13973",
+          "14603",
+          "14849",
+          "19440",
+          "20280",
+          "22864",
+          "35781"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: fixed switch board",
+        "raw_product_name": "SWITCH BOARD FIXED",
+        "list_of_product_ids": [
+          "1",
+          "396",
+          "614",
+          "611"
+        ]
+      }
+    }
+  ]
+}

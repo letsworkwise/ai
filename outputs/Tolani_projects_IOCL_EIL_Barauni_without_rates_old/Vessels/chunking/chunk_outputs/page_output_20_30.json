@@ -1,0 +1,137 @@
+{
+  "sheet_name": "Vessels",
+  "boq_context": "",
+  "product_entries": [],
+  "original_rows_info": {
+    "row_range": [
+      20,
+      29
+    ],
+    "original_rows": [
+      {
+        "0": 447,
+        "1": 0,
+        "2": "01VV.10.3.1.1V1",
+        "3": "Roof   Nozzle   150   Class   WNRF   Type   3 Inch  Size SA 105   Material",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 448,
+        "1": 0,
+        "2": "01VV.10.3.1.1V13",
+        "3": "Roof   Nozzle   150   Class   WNRF   Type   6 Inch  Size SA 105   Material",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 449,
+        "1": 0,
+        "2": "01VV.10.3.1.1V17",
+        "3": "Shell   Nozzle   150   Class   WNRF   Type   2 Inch  Size SA 105   Material",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 450,
+        "1": 0,
+        "2": "01VV.10.3.1.1V19",
+        "3": "Shell   Nozzle   150   Class   WNRF   Type   4 Inch  Size SA 105   Material",
+        "4": 12.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 451,
+        "1": 0,
+        "2": "01VV.10.3.1.1V48",
+        "3": "Roof   Nozzle   150   Class   WNRF   Type   1.5 Inch  Size SA 105   Material",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 452,
+        "1": 0,
+        "2": "01VV.10.3.1.1V52",
+        "3": "Roof   Nozzle   300   Class   WNRF   Type   3 Inch  Size SA 105   Material",
+        "4": 6.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 453,
+        "1": 0,
+        "2": "01VV.10.3.1.1V63",
+        "3": "Shell   Nozzle   300   Class   WNRF   Type   2 Inch  Size SA 105   Material",
+        "4": 6.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 454,
+        "1": 0,
+        "2": "01VV.10.3.1.1V72",
+        "3": "Shell   Nozzle   300   Class   WNRF   Type   10 Inch  Size SA 105   Material",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 455,
+        "1": 0,
+        "2": "01VV.10.3.1.1V76",
+        "3": "Roof   Nozzle   300   Class   WNRF   Type   24 Inch  Size SA 105   Material",
+        "4": 9.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 456,
+        "1": 0,
+        "2": "01VV.10.3.1.1V125",
+        "3": "Shell   Nozzle   300   Class   WNRF   Type   24 Inch  Size SA 105   Material",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2651,
+    "completion_tokens": 1283
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: frp(fiber reinforced plastic) ladder | size: type: a, length: 3 Mtr",
+  "retrieval_results": [
+    {
+      "id": "variant-b90e4959-0e4c-5eb5-9820-fa2c177b2ecd",
+      "score": 0.8628212,
+      "metadata": {
+        "text": "core_product_name: pipe-frp (fiber reinforced plastic)",
+        "raw_product_name": "PIPE-FRP",
+        "list_of_product_ids": "6298,5469,10648,8088,8076,8814,12261,12381,8812,12536,13160,13175,13190,13203,13169,13184,13339,17880",
+        "core_id": 1669.0
+      }
+    },
+    {
+      "id": "variant-3d03bbb3-07f7-50bc-8260-ad5a4e1b5d6b",
+      "score": 0.8596842,
+      "metadata": {
+        "text": "core_product_name: fitting | material: FRP (Fibre Reinforced Plastic)",
+        "raw_product_name": "FITTINGS - FRP",
+        "list_of_product_ids": "6320,5491,10645,8114,13162,13177,13192,13197,13166,13186,17882,24589,33989",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-e0ab3fb8-2d76-53a3-b3bb-e55d9e054165",
+      "score": 0.85100365,
+      "metadata": {
+        "text": "core_product_name: product | acronymed_core_product_name: frp (fiber reinforced plastic) product | material: FRP (Fiber Reinforced Plastic)",
+        "raw_product_name": "FRP PRODUCTS",
+        "list_of_product_ids": "23392,24336,23463,23393,26889",
+        "core_id": 211.0
+      }
+    },
+    {
+      "id": "variant-b38364ed-944e-5328-ae92-c2de4288e310",
+      "score": 0.85012615,
+      "metadata": {
+        "text": "core_product_name: cable tray | acronymed_core_product_name: frp (fiber reinforced plastic) cable tray | material: FRP (Fiber Reinforced Plastic)",
+        "raw_product_name": "CABLE TRAY FRP- Package Type",
+        "list_of_product_ids": "38434,38297,38329,38330,38331,38425",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-b61f61e2-daaf-5ef6-a71b-9a9708dfbc9f",
+      "score": 0.84928256,
+      "metadata": {
+        "text": "core_product_name: tube | acronymed_core_product_name: frp tube (fiber reinforced plastic tube) | material: FRP (Fiber Reinforced Plastic)",
+        "raw_product_name": "FRP TUBE",
+        "list_of_product_ids": "243,352,233,622,334",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-8686717b-373e-55c7-9041-9945bb30655c",
+      "score": 0.84926707,
+      "metadata": {
+        "text": "core_product_name: ladder | material: Mild Steel (MS)",
+        "raw_product_name": "MILD STEEL LADDERS",
+        "list_of_product_ids": "274,932,750,927,490",
+        "core_id": 96.0
+      }
+    },
+    {
+      "id": "variant-88f67bda-0ce9-53e9-aaef-be35e70ad3ed",
+      "score": 0.84787613,
+      "metadata": {
+        "text": "core_product_name: ladder | material: Aluminium",
+        "raw_product_name": "ALUMINIUM LADDERS",
+        "list_of_product_ids": "274,922,751,027,487",
+        "core_id": 96.0
+      }
+    },
+    {
+      "id": "variant-d6e6049a-7640-5a04-935f-b8fefd2f36c0",
+      "score": 0.84739596,
+      "metadata": {
+        "text": "core_product_name: fan | material: FRP (Fibre Reinforced Plastic)",
+        "raw_product_name": "FANS (FRP BLADES)",
+        "list_of_product_ids": "7475,7150,10861,15821,17791,37256,37257",
+        "core_id": 798.0
+      }
+    },
+    {
+      "id": "variant-6b08bbce-127a-5a9e-a2df-12cef00b7236",
+      "score": 0.847296,
+      "metadata": {
+        "text": "core_product_name: equipment | acronymed_core_product_name: frp (fiber reinforced plastic) reinforced pvc (polyvinyl chloride) or pp (polypropylene) lined eqpt | material: FRP (Fiber Reinforced Plastic) reinforced | material: PVC (Polyvinyl Chloride) lined | material: PP (Polypropylene) lined",
+        "raw_product_name": "FRP/FRP REINFORCED PVC/PP LINED EQPT",
+        "list_of_product_ids": "6169,5339,8810,13157,13337,18151,18143",
+        "core_id": 460.0
+      }
+    },
+    {
+      "id": "variant-0d864684-0c5c-5fb0-b8da-da3982f30c1f",
+      "score": 0.8462569,
+      "metadata": {
+        "text": "core_product_name: cable tray | material: FRP (Fibre Reinforced Plastic)",
+        "raw_product_name": "CABLE TRAYS-FRP",
+        "list_of_product_ids": "6448,5618,7011,10644,7897,8783,8785,8786,8784,9181,17329,17325,18877,18923,26431,36084",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-77e8ef2b-3e3b-5d38-8faa-698858e10595",
+      "score": 0.8459203,
+      "metadata": {
+        "text": "core_product_name: canopy | acronymed_core_product_name: frp (fiber reinforced plastic) canopy | material: FRP (Fiber Reinforced Plastic)",
+        "raw_product_name": "FRP CANOPY",
+        "list_of_product_ids": "10264,10269,9980,9981,9988,10228,10233,33282",
+        "core_id": 981.0
+      }
+    },
+    {
+      "id": "variant-ee21be37-7683-5a3d-8756-84b1a08b8fa6",
+      "score": 0.8456488,
+      "metadata": {
+        "text": "core_product_name: fabric belting | protection_features: FR (Fire Resistant) grade",
+        "raw_product_name": "FABRIC BELTING(FR GRADE)",
+        "list_of_product_ids": "1,396,214,555",
+        "core_id": 791.0
+      }
+    },
+    {
+      "id": "variant-27d47a5b-cdb8-5216-8bbe-6b319d964776",
+      "score": 0.84395266,
+      "metadata": {
+        "text": "core_product_name: accommodation ladder",
+        "raw_product_name": "ACCOMMODATION LADDER",
+        "list_of_product_ids": "260,502,604,926,682",
+        "core_id": 31.0
+      }
+    },
+    {
+      "id": "variant-b33035ba-eca5-5865-a0dc-d2428f350791",
+      "score": 0.8436371,
+      "metadata": {
+        "text": "core_product_name: boat | acronymed_core_product_name: frp (fiber reinforced plastic) boat | material: FRP (Fiber Reinforced Plastic)",
+        "raw_product_name": "FRP BOAT",
+        "list_of_product_ids": "229,622,296,123,379",
+        "core_id": 214.0
+      }
+    },
+    {
+      "id": "variant-31a63a03-e3b0-5171-8ec3-c5e3e1658862",
+      "score": 0.8397216,
+      "metadata": {
+        "text": "core_product_name: flange | material: Carbon steel | construction_features: Raised Face (RF)",
+        "raw_product_name": "Carbon steel Flange (RF)",
+        "list_of_product_ids": "68,157,318",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-2ee2d035-71e7-570c-b644-51000509fec1",
+      "score": 0.8373112,
+      "metadata": {
+        "text": "core_product_name: frp (fiber reinforced plastic) lining | material: FRP (Fiber Reinforced Plastic) | accessories_or_attachments: tanks | accessories_or_attachments: vessels",
+        "raw_product_name": "LINING-FRP(TANKS & VESSELS)",
+        "list_of_product_ids": "5338,6168,10649,13150,13188,13194,13201,13164,13182,17877",
+        "core_id": 1371.0
+      }
+    },
+    {
+      "id": "variant-7abf6a23-caeb-58fb-9988-2238d2b1f272",
+      "score": 0.835861,
+      "metadata": {
+        "text": "core_product_name: flange | material: Ferrous",
+        "raw_product_name": "FERROUS FLANGES",
+        "list_of_product_ids": "23432,23431,23430,23429,24574,24648,26898,26900,26897,26896,37030",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-c4add3aa-9ba1-5e59-8b94-4fd0e116071c",
+      "score": 0.8334057,
+      "metadata": {
+        "text": "core_product_name: equipment | material: PVDF (Polyvinylidene Fluoride) or FRP (Fiberglass Reinforced Plastic)",
+        "raw_product_name": "PVDF/FRP EQUIPMENTS",
+        "list_of_product_ids": "5,340,617,013,158",
+        "core_id": 460.0
+      }
+    },
+    {
+      "id": "variant-d77ac629-4791-545a-abeb-d48ae2265982",
+      "score": 0.8329696,
+      "metadata": {
+        "text": "core_product_name: fabricated clamp",
+        "raw_product_name": "FABRICATED COMPONENT - CLAMP",
+        "list_of_product_ids": "295,032,928,329,282",
+        "core_id": 788.0
+      }
+    },
+    {
+      "id": "variant-91f11189-0c2a-5fbb-b670-57922dde3583",
+      "score": 0.83001196,
+      "metadata": {
+        "text": "core_product_name: inner wrap | material: Fibre Glass",
+        "raw_product_name": "FIBRE GLASS INNER WRAP",
+        "list_of_product_ids": "1,403,122,566",
+        "core_id": 816.0
+      }
+    },
+    {
+      "id": "variant-1e1cbeb6-aa70-597e-8331-32946c4b64b1",
+      "score": 0.829494,
+      "metadata": {
+        "text": "core_product_name: forged flange",
+        "raw_product_name": "FORGED FLANGES",
+        "list_of_product_ids": "8771",
+        "core_id": 901.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.8293956,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    },
+    {
+      "id": "variant-480b5587-5fb6-572c-95ab-e13c28298ad6",
+      "score": 0.82932025,
+      "metadata": {
+        "text": "core_product_name: forged flange",
+        "raw_product_name": "FLANGE- FORGED",
+        "list_of_product_ids": "7601,7276,8118,12390,13298,19714,22675,17413,37072,37073,37079,37080",
+        "core_id": 901.0
+      }
+    },
+    {
+      "id": "variant-c6fad17a-a06a-5450-9d05-d9ecf86c99fa",
+      "score": 0.82866555,
+      "metadata": {
+        "text": "core_product_name: floor trap",
+        "raw_product_name": "FLOOR TRAP (NAHANI TRAP)",
+        "list_of_product_ids": "16757,16764,27230,34415",
+        "core_id": 927.0
+      }
+    },
+    {
+      "id": "variant-80846140-9c60-5177-8bda-746bfe44d073",
+      "score": 0.828325,
+      "metadata": {
+        "text": "core_product_name: flange | material: Titanium",
+        "raw_product_name": "FLANGE (TITANIUM)",
+        "list_of_product_ids": "20205,20213,20294,20270,20321,20363",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-6ce5df1a-62a3-53a5-9aca-7d1652976509",
+      "score": 0.8282581,
+      "metadata": {
+        "text": "core_product_name: lighting and power panel | acronymed_core_product_name: FLP (Flameproof) panel | protection_features: Flameproof",
+        "raw_product_name": "LIGHTING & POWER PANELS (FLP)",
+        "list_of_product_ids": "6418,5588,7009,10306,10579,10558,10588,10602,18874,18920,22851,26777,26773,26754,26750,35770",
+        "core_id": 1351.0
+      }
+    },
+    {
+      "id": "variant-79e34a67-ef11-56c8-9cb0-0ea71ddda0de",
+      "score": 0.82815665,
+      "metadata": {
+        "text": "core_product_name: flange",
+        "raw_product_name": "FLANGES",
+        "list_of_product_ids": "5445,6068,6902,9990,9987,11093,11095,40331,40332,10738,11699,10739,11251,10740,10742,10165,36909,11403,6908,6900,6925,6929,6933,6927,6931,7714,7715,9313,8791,8792,8794,8790,8823,8793,8880,12380,13051,13319,15743,16378,16613,16580,24554,18182,18206,29472,36906,18894,18938,20065,19843,7713,36873,30636,30688,37305,36934,32262,36591,37264,36864,35744,35743,36525",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-586ee05d-7de1-501e-92c9-cc42ae5ceacc",
+      "score": 0.82770777,
+      "metadata": {
+        "text": "core_product_name: flex cable | type_or_class: MASTER",
+        "raw_product_name": "MASTER FLEX CABLES",
+        "list_of_product_ids": "2,682,526,827",
+        "core_id": 1444.0
+      }
+    },
+    {
+      "id": "variant-ed951238-4b7d-57d2-a143-ad5933966b07",
+      "score": 0.8275162,
+      "metadata": {
+        "text": "core_product_name: sheet | material: Fibre Glass",
+        "raw_product_name": "FIBRE GLASS SHEETS",
+        "list_of_product_ids": "171,122,514,536,124",
+        "core_id": 132.0
+      }
+    },
+    {
+      "id": "variant-33b5feb9-5c29-5532-97ca-e659863663c0",
+      "score": 0.8273318,
+      "metadata": {
+        "text": "core_product_name: flexible clamp",
+        "raw_product_name": "FLEXIBLE CLAMP",
+        "list_of_product_ids": "24745,24746,24774,24784,24789,24799,24803,24813,25094",
+        "core_id": 915.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "query": "core_product_name: ups(uninterruptible power supply) distribution board | acronymed_core_product_name: ups distribution board | size: current: 250A | feature_or_specifications: phase: 1-ph, wire: 2-wire, busbar: copper, specification: as per attached, single line diagram: PC00128-1221, cable glands: weatherproof double compression Ni plated brass, cable lugs: included",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups | accessories_or_attachments: acdb (alternating current distribution board)",
+        "raw_product_name": "UPS With ACDB",
+        "list_of_product_ids": [
+          "1",
+          "419",
+          "636",
+          "134"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups (uninterruptible power supply)",
+        "raw_product_name": "UN-INTERRUPTIBLE POWER SUPPLY (UPS)",
+        "list_of_product_ids": [
+          "141",
+          "931",
+          "781",
+          "320",
+          "002"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: ups system",
+        "raw_product_name": "UPS SYSTEM",
+        "list_of_product_ids": [
+          "14194",
+          "15283",
+          "15287",
+          "15895",
+          "17799",
+          "17789",
+          "17897",
+          "18615",
+          "18614",
+          "18613",
+          "18612"
+        ]
+      }
+    }
+  ]
+}

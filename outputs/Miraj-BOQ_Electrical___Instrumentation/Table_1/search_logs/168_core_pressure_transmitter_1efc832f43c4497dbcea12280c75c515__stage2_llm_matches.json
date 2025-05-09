@@ -1,0 +1,101 @@
+{
+  "query": "core_product_name: pressure transmitter and solenoid valve | feature_or_specifications: application: deluge valve",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: solenoid valve",
+        "raw_product_name": "SOLENOID VALVES",
+        "list_of_product_ids": [
+          "6490",
+          "5661",
+          "11653",
+          "11670",
+          "11456",
+          "11454",
+          "8822",
+          "9136",
+          "12122",
+          "12126",
+          "12138",
+          "12145",
+          "12137",
+          "12176",
+          "12175",
+          "12206",
+          "12207",
+          "17141",
+          "17142",
+          "18479",
+          "18900",
+          "18944",
+          "23735",
+          "22264",
+          "36629",
+          "31448",
+          "36947",
+          "37248",
+          "36688",
+          "40244",
+          "40297"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: pressure transmitter",
+        "raw_product_name": "PRESSURE TRANSMITTER",
+        "list_of_product_ids": [
+          "10037",
+          "10038",
+          "10043",
+          "10159",
+          "10626",
+          "9515",
+          "9555",
+          "36531",
+          "15313",
+          "17103",
+          "17110",
+          "18208",
+          "24110",
+          "19474",
+          "20012",
+          "20022",
+          "20017",
+          "35953",
+          "36165",
+          "36313",
+          "36510"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: differential pressure transmitter",
+        "raw_product_name": "DIFFERENTIAL PRESSURE TRANSMITTER",
+        "list_of_product_ids": [
+          "10006",
+          "10015",
+          "10039",
+          "15083",
+          "18209",
+          "19852",
+          "36178",
+          "36326"
+        ]
+      }
+    }
+  ]
+}

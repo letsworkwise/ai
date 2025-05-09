@@ -1,0 +1,83 @@
+{
+  "query": "core_product_name: dv operation panel | feature_or_specifications: integration: plc(programmable logic controller), pb(push button), indication: operation lamp for 'dv on fire' and 'dv operated', for: deluge valve (9 nos + 1 spare), included: all hardware and software, installation: fire water pump house, main gate security room",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: push button and indicating lamp",
+        "raw_product_name": "PUSH BUTTON AND INDICATING LAMPS",
+        "list_of_product_ids": [
+          "6469",
+          "5640",
+          "9352",
+          "9148",
+          "9153",
+          "9155",
+          "11848",
+          "19079",
+          "17539",
+          "17810",
+          "19007",
+          "20969",
+          "36691",
+          "38266",
+          "38081"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: programmable logic controller | acronymed_core_product_name: plc subsystem",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER (PLC SUBSYSTEM)",
+        "list_of_product_ids": [
+          "13889",
+          "15107",
+          "20015",
+          "20010",
+          "36350",
+          "37195",
+          "36201"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: programmable logic controller",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLERS",
+        "list_of_product_ids": [
+          "6565",
+          "5735",
+          "11164",
+          "10154",
+          "11376",
+          "9379",
+          "9159",
+          "9221",
+          "11902",
+          "12182",
+          "36522",
+          "17895",
+          "18871",
+          "18916",
+          "29683",
+          "30474",
+          "38193",
+          "36169",
+          "36317"
+        ]
+      }
+    }
+  ]
+}

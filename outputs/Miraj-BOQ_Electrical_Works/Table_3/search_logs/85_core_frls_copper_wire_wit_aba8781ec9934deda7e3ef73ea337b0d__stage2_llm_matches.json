@@ -1,0 +1,59 @@
+{
+  "query": "core_product_name: frls copper wire with pvc conduit | size: wire: 2 runs of 4 sq.mm, wire: 1 run of 2.5 sq.mm, conduit diameter: 25mm | feature_or_specifications: type: frls(fire retardant low smoke), material: copper, conduit material: pvc, standard: IS 9537:3, voltage: 1100 V grade, approval: ISI(indian standards) and FIA(fire insurance approval)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+        "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+        "list_of_product_ids": [
+          "140",
+          "901",
+          "478",
+          "121",
+          "282"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: electric wire | material: Copper",
+        "raw_product_name": "ELECTRIC COPPER WIRE",
+        "list_of_product_ids": [
+          "211",
+          "542",
+          "115",
+          "028",
+          "492"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flexible wire | material: Copper",
+        "raw_product_name": "FLEXIBLE COPPER WIRES",
+        "list_of_product_ids": [
+          "136",
+          "081",
+          "478",
+          "520",
+          "094"
+        ]
+      }
+    }
+  ]
+}

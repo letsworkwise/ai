@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: frp canopy | feature_or_specifications: feature: as per drawing attached with SOR for pressure transmitters, pressure switch & level switch (suitable for vertical as well as horizontal mounting)",
+  "retrieval_results": [
+    {
+      "id": "variant-9bba2e17-cf1d-526f-a83c-61ada94bf1b8",
+      "score": 0.84701824,
+      "metadata": {
+        "text": "core_product_name: pneumatic switch | type_or_class: Pressure (PR.)",
+        "raw_product_name": "PNEUMATIC PR. SWITCH",
+        "list_of_product_ids": "13815,38325,35543,36102,40132",
+        "core_id": 1718.0
+      }
+    },
+    {
+      "id": "variant-361d16ec-1c9b-51c2-bb2b-c034ee826f48",
+      "score": 0.84256774,
+      "metadata": {
+        "text": "core_product_name: pressure switch",
+        "raw_product_name": "PRESSURE SWITCHES",
+        "list_of_product_ids": "6591,5761,10082,10084,10628,7944,7946,7948,9043,12721,12730,12724,12726,12900,12905,16623,16824,19378,18142,18406,18882,18928,30690,31309,37434,37435,36690,35676,39387",
+        "core_id": 1777.0
+      }
+    },
+    {
+      "id": "variant-b3370358-e2ee-53b3-b1c1-1af950aec2e3",
+      "score": 0.84034556,
+      "metadata": {
+        "text": "core_product_name: flow transmitter | type_or_class: DP (Differential Pressure) based",
+        "raw_product_name": "FLOW TRANSMITTER(DP BASED)",
+        "list_of_product_ids": "1,363,920,932",
+        "core_id": 942.0
+      }
+    },
+    {
+      "id": "variant-c3cdd889-e9cf-51d8-b044-9a9c8aefbc98",
+      "score": 0.8397956,
+      "metadata": {
+        "text": "core_product_name: pressure transmitter",
+        "raw_product_name": "PRESSURE TRANSMITTER",
+        "list_of_product_ids": "10037,10038,10043,10159,10626,9515,9555,36531,15313,17103,17110,18208,24110,19474,20012,20022,20017,35953,36165,36313,36510",
+        "core_id": 1778.0
+      }
+    },
+    {
+      "id": "variant-e2437085-e69b-5d8e-b712-6b1e2bda0a43",
+      "score": 0.83867645,
+      "metadata": {
+        "text": "core_product_name: level switch | type_or_class: Displacer or Float",
+        "raw_product_name": "LEVEL SWITCHES(DISPLACER/FLOAT)",
+        "list_of_product_ids": "6589,5759,11661,11692,11683,11810,11310,10095,10109,10550,10623,11708,7943,7945,7949,7947,8395,12074,12217,12813,12814,14200,16823,18395,38275,36310,36162",
+        "core_id": 1337.0
+      }
+    },
+    {
+      "id": "variant-d41da4fc-2387-5ab0-94ea-b5a438b2fb2b",
+      "score": 0.83834296,
+      "metadata": {
+        "text": "core_product_name: level switch | type_or_class: Radar Type",
+        "raw_product_name": "LEVEL SWITCH RADAR TYPE",
+        "list_of_product_ids": "1,358,231,746",
+        "core_id": 1337.0
+      }
+    },
+    {
+      "id": "variant-bd421ff8-d26f-5bdf-9169-191ddfd379a4",
+      "score": 0.8369124,
+      "metadata": {
+        "text": "core_product_name: digital switch | operating_conditions: Temperature | mounting_or_installation: Panel mounted",
+        "raw_product_name": "DIGITAL TEMP SWITCH PANEL MOUNTED TYPE",
+        "list_of_product_ids": "164,041,650,716,513",
+        "core_id": 592.0
+      }
+    },
+    {
+      "id": "variant-e516e659-612c-582a-b731-007fc95acd57",
+      "score": 0.8364998,
+      "metadata": {
+        "text": "core_product_name: level switch | protection_features: Explosion Proof",
+        "raw_product_name": "Level Switches (Explosion Proof)",
+        "list_of_product_ids": "17095,17094,17093,17092,17091,17090,17096,27177",
+        "core_id": 1337.0
+      }
+    },
+    {
+      "id": "variant-52710eb9-e42d-5ebd-99f4-259076cc397a",
+      "score": 0.83585936,
+      "metadata": {
+        "text": "core_product_name: float level switch",
+        "raw_product_name": "LEVEL SWITCHES(FLOAT)",
+        "list_of_product_ids": "17125,19898,31745,27176",
+        "core_id": 1339.0
+      }
+    },
+    {
+      "id": "variant-1b301242-51fc-526a-84ff-a5c917de276a",
+      "score": 0.83579665,
+      "metadata": {
+        "text": "core_product_name: pressure indicating controller",
+        "raw_product_name": "PRESSURE INDICATING CONTROLLERS",
+        "list_of_product_ids": "17056,17059,17058,17057,28751,36365,40118",
+        "core_id": 1772.0
+      }
+    },
+    {
+      "id": "variant-1abf7ace-96b0-59e6-9e39-c2509942914f",
+      "score": 0.8348989,
+      "metadata": {
+        "text": "core_product_name: level switch | type_or_class: Capacitance Type",
+        "raw_product_name": "LEVEL SWITCHES (CAPACITANCE TYPE)",
+        "list_of_product_ids": "13589,15247,15261,19429",
+        "core_id": 1337.0
+      }
+    },
+    {
+      "id": "variant-29ac30b6-7629-5de3-acdd-d2748db91a2f",
+      "score": 0.83488333,
+      "metadata": {
+        "text": "core_product_name: flow switch | type_or_class: Pneumatic",
+        "raw_product_name": "FLOW SWITCHES (PNEUMATIC)",
+        "list_of_product_ids": "10079,9558,9518,12076,12886,15134,15142,17312",
+        "core_id": 939.0
+      }
+    },
+    {
+      "id": "variant-78618fb7-ff75-5ae5-b81e-6d5a90fce523",
+      "score": 0.83385664,
+      "metadata": {
+        "text": "core_product_name: level transmitter",
+        "raw_product_name": "LEVEL TRANSMITTER",
+        "list_of_product_ids": "14042,36533,17995,18211,19929,19985,19983,36512,40096",
+        "core_id": 1080.0
+      }
+    },
+    {
+      "id": "variant-a11d486f-19a6-5688-b35a-59bc9038833e",
+      "score": 0.8337406,
+      "metadata": {
+        "text": "core_product_name: flow switch",
+        "raw_product_name": "FLOW SWITCH",
+        "list_of_product_ids": "9557,9517,9851,13395,18227",
+        "core_id": 939.0
+      }
+    },
+    {
+      "id": "variant-0bc9d3b1-3985-5230-a4d5-82fbe18bb0c7",
+      "score": 0.83351505,
+      "metadata": {
+        "text": "core_product_name: differential pressure switch",
+        "raw_product_name": "DIFFERENTIAL PRESSURE SWITCHES",
+        "list_of_product_ids": "10086,10087,10092,10093,10236,12720,12722,12731,12901,12906,15173,16825,18164,23111,37046,35677",
+        "core_id": 586.0
+      }
+    },
+    {
+      "id": "variant-09733cdb-8827-5d1f-b705-5b49c13ebb0a",
+      "score": 0.83081555,
+      "metadata": {
+        "text": "core_product_name: dp based (differential pressure based) level transmitter | type_or_class: DP (Differential Pressure) Based",
+        "raw_product_name": "LEVEL TRANSMITTER(DP BASED)",
+        "list_of_product_ids": "136,021,799,920,930",
+        "core_id": 1341.0
+      }
+    },
+    {
+      "id": "variant-745186da-8439-5835-b0bb-45dee6aa1cbe",
+      "score": 0.8306226,
+      "metadata": {
+        "text": "core_product_name: differential pressure transmitter",
+        "raw_product_name": "DIFFERENTIAL PRESSURE TRANSMITTER",
+        "list_of_product_ids": "10006,10015,10039,15083,18209,19852,36178,36326",
+        "core_id": 589.0
+      }
+    },
+    {
+      "id": "variant-58b18428-ab84-54e0-8911-4e48d510fa61",
+      "score": 0.82926786,
+      "metadata": {
+        "text": "core_product_name: pressure regulator",
+        "raw_product_name": "PRESSURE REGULATOR",
+        "list_of_product_ids": "13868,15346,15351,15356",
+        "core_id": 1773.0
+      }
+    },
+    {
+      "id": "variant-3ddc3bca-68aa-59de-bad1-3710e64d9b3e",
+      "score": 0.82903594,
+      "metadata": {
+        "text": "core_product_name: fixed switch board | mounting_or_installation: for package equipments | protection_features: flame proof",
+        "raw_product_name": "SWITCH BOARD FIXED FOR PACKAGE EQUIPMENTS FLAME PROOF",
+        "list_of_product_ids": "13973,14603,14849,19440,20280,22864,35781",
+        "core_id": 2168.0
+      }
+    },
+    {
+      "id": "variant-2750c753-642a-560b-982a-ebaf6599dc73",
+      "score": 0.82884777,
+      "metadata": {
+        "text": "core_product_name: turbine pump | mounting_or_installation: vertical",
+        "raw_product_name": "TURBINE PUMPS-VERTICAL",
+        "list_of_product_ids": "37783,37784,37785,37794,37795,37796,37797,37809",
+        "core_id": 2294.0
+      }
+    },
+    {
+      "id": "variant-1a15faa8-0202-565a-b570-0c735809e6c0",
+      "score": 0.82842374,
+      "metadata": {
+        "text": "core_product_name: flow switch | type_or_class: Electrical",
+        "raw_product_name": "FLOW SWITCHES (ELECTRICAL)",
+        "list_of_product_ids": "10080,9559,9519,12077,15127,15135,15143,17313",
+        "core_id": 939.0
+      }
+    },
+    {
+      "id": "variant-ae1bae9d-a0fd-54c3-90bd-ada0dda6bf9a",
+      "score": 0.82806975,
+      "metadata": {
+        "text": "core_product_name: level transmitter | type_or_class: Displacer Type | type_or_class: Leveltrol",
+        "raw_product_name": "LEVEL TRANSMITTER (DISPLACER TYPE – LEVELTROL)",
+        "list_of_product_ids": "1,343,521,678",
+        "core_id": 1080.0
+      }
+    },
+    {
+      "id": "variant-8e7d59a2-4690-5fdf-9d61-5ca0f9f5be48",
+      "score": 0.8274071,
+      "metadata": {
+        "text": "core_product_name: level indicator | type_or_class: Float or Tape",
+        "raw_product_name": "LEVEL INDICATORS (FLOAT & TAPE)",
+        "list_of_product_ids": "13978,15132,15140,15148,18394,18393,21981,23535",
+        "core_id": 1332.0
+      }
+    },
+    {
+      "id": "variant-e2154c10-2f56-5baa-aefe-b77982eae367",
+      "score": 0.82720745,
+      "metadata": {
+        "text": "core_product_name: control switch",
+        "raw_product_name": "CONTROL SWITCH",
+        "list_of_product_ids": "140,491,529,838,269",
+        "core_id": 462.0
+      }
+    },
+    {
+      "id": "variant-871429c7-4ebb-516e-8034-d366f24cf593",
+      "score": 0.8270167,
+      "metadata": {
+        "text": "core_product_name: level switch | type_or_class: Ultrasonic",
+        "raw_product_name": "LEVEL SWITCH ULTRASONIC TYPE",
+        "list_of_product_ids": "135,842,317,531,748",
+        "core_id": 1337.0
+      }
+    },
+    {
+      "id": "variant-ac005729-d87f-5139-af54-90e69da87501",
+      "score": 0.82685107,
+      "metadata": {
+        "text": "core_product_name: pressure control regulator",
+        "raw_product_name": "PRESSURE CONTROL REGULATOR",
+        "list_of_product_ids": "13867,15347,15352,15357",
+        "core_id": 1769.0
+      }
+    },
+    {
+      "id": "variant-ca023509-dc8f-5cca-ad86-6a93e55a228c",
+      "score": 0.8266848,
+      "metadata": {
+        "text": "core_product_name: turbo vent | mounting_or_installation: roof",
+        "raw_product_name": "ROOF TURBO VENTS",
+        "list_of_product_ids": "15936,15939,16285,16325,16393,15935",
+        "core_id": 1919.0
+      }
+    },
+    {
+      "id": "variant-0ee3e17a-09fc-5d14-95d0-f30948831f4d",
+      "score": 0.8261563,
+      "metadata": {
+        "text": "core_product_name: vibrating fork type level switch",
+        "raw_product_name": "VIBRATING FORK TYPE LEVEL SWITCH",
+        "list_of_product_ids": "13494,15112,15117,21751,37425,36206,36355",
+        "core_id": 2395.0
+      }
+    },
+    {
+      "id": "variant-ee21be37-7683-5a3d-8756-84b1a08b8fa6",
+      "score": 0.8258705,
+      "metadata": {
+        "text": "core_product_name: fabric belting | protection_features: FR (Fire Resistant) grade",
+        "raw_product_name": "FABRIC BELTING(FR GRADE)",
+        "list_of_product_ids": "1,396,214,555",
+        "core_id": 791.0
+      }
+    },
+    {
+      "id": "variant-05f6efc7-3b87-5c74-99c2-ccc3f3812e3c",
+      "score": 0.8258309,
+      "metadata": {
+        "text": "core_product_name: ventilation and pressurisation system",
+        "raw_product_name": "VENTILATION & PRESSURISATION SYSTEM",
+        "list_of_product_ids": "7018,7338,10205,10822,24144,24146,22515,19672",
+        "core_id": 2387.0
+      }
+    }
+  ]
+}

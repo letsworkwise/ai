@@ -1,0 +1,90 @@
+{
+  "query": "core_product_name: alarm valve | size: size: 200NB | feature_or_specifications: make: newage",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: alarm valve",
+        "raw_product_name": "ALARM VALVE",
+        "list_of_product_ids": [
+          "11096",
+          "9804",
+          "9811",
+          "9843",
+          "9844",
+          "9877",
+          "9878",
+          "9879",
+          "30419"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: deluge valve",
+        "raw_product_name": "DELUGE VALVE",
+        "list_of_product_ids": [
+          "6385",
+          "5556",
+          "6997",
+          "7010",
+          "9956",
+          "9957",
+          "8289",
+          "8298",
+          "8735",
+          "8882",
+          "8922",
+          "8926",
+          "8930",
+          "8957",
+          "9063",
+          "9068",
+          "9073",
+          "9103",
+          "9146",
+          "12394",
+          "18887",
+          "18933",
+          "23761",
+          "24221",
+          "22765",
+          "22793"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: valve",
+        "raw_product_name": "VALVE",
+        "list_of_product_ids": [
+          "6489",
+          "5660",
+          "11527",
+          "7625",
+          "7628",
+          "10171",
+          "11508",
+          "12680",
+          "12682",
+          "12687",
+          "21302",
+          "31185",
+          "25958",
+          "37048",
+          "37263",
+          "35947",
+          "35995",
+          "36121"
+        ]
+      }
+    }
+  ]
+}

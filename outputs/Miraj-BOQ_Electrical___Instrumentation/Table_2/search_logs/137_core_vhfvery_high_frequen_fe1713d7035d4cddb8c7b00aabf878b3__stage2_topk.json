@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: vhf(very high frequency) handheld radio | size: battery capacity: 1800 mAh | feature_or_specifications: model: Motorola GP 328, safety: intrinsically safe, charger: tri chemistry, adapter: included, antenna: included, make: Motorola",
+  "retrieval_results": [
+    {
+      "id": "variant-9f75ab9f-58c3-5e7a-b315-dcac094725b9",
+      "score": 0.8238809,
+      "metadata": {
+        "text": "core_product_name: battery charger",
+        "raw_product_name": "BATTERY CHARGERS",
+        "list_of_product_ids": "6397,5568,10499,10517,10625,10846,11842,12051,12085,12083,12152,12302,12351,12542,12733,15519,15898,15517,16152,16179,16239,19100,17025,17768,19208,20444,20419,20466,20507,20769,35678,36164,36312",
+        "core_id": 184.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.82231385,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-90d5603f-b888-5d4e-bf0e-963c590d4195",
+      "score": 0.8221307,
+      "metadata": {
+        "text": "core_product_name: radio system",
+        "raw_product_name": "RADIO SYSTEM",
+        "list_of_product_ids": "19387,28262,39972,39999,40023,40020,40029,40052,40085,40095,40267,40268",
+        "core_id": 1855.0
+      }
+    },
+    {
+      "id": "variant-d2391e77-338d-5f72-9b5d-19f563781253",
+      "score": 0.82079536,
+      "metadata": {
+        "text": "core_product_name: synchronous generator | size_or_capacity: HV (High Voltage)",
+        "raw_product_name": "SYNCHRONOUS GENERATORS (HV)",
+        "list_of_product_ids": "6434,5604,12246,12304,12367,24295,24303,23631,24333,24320,23492,24626,24625",
+        "core_id": 2178.0
+      }
+    },
+    {
+      "id": "variant-0053eeb4-0f58-5741-b3f4-46bdb04505c0",
+      "score": 0.82070965,
+      "metadata": {
+        "text": "core_product_name: portable oscilloscope",
+        "raw_product_name": "PORTABLE OSCILLOSCOPE",
+        "list_of_product_ids": "59,516,780",
+        "core_id": 1729.0
+      }
+    },
+    {
+      "id": "variant-8a7d8efc-f69f-5f72-ba1c-d03dbf9a1790",
+      "score": 0.81915385,
+      "metadata": {
+        "text": "core_product_name: variable frequency drive | acronymed_core_product_name: vfd | size_or_capacity: <1.1kV",
+        "raw_product_name": "Variable frequency drive (VFD)<1.1kV",
+        "list_of_product_ids": "7545,7219,10507,10506,10629,18011,23473,35376",
+        "core_id": 2419.0
+      }
+    },
+    {
+      "id": "variant-0c3f77fa-76a3-5c86-a778-78ccb3ad95e4",
+      "score": 0.818988,
+      "metadata": {
+        "text": "core_product_name: wireless communication equipment",
+        "raw_product_name": "Wireless Communication Equipment",
+        "list_of_product_ids": "7073,7400,18829,18864",
+        "core_id": 2493.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.8188732,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    },
+    {
+      "id": "variant-4912a32f-17d7-5913-8968-f0acc6c4470c",
+      "score": 0.81838065,
+      "metadata": {
+        "text": "core_product_name: portable power tool",
+        "raw_product_name": "PORTABLE POWER TOOLS",
+        "list_of_product_ids": "22271,22267,27798,40082,40084,40117,40191,40192,40193,40195,40198,40200,40199,40201,40202,40227,40194,40197,40255,40294",
+        "core_id": 1731.0
+      }
+    },
+    {
+      "id": "variant-c6142dce-03db-5441-8a18-40fa29bb5592",
+      "score": 0.8183018,
+      "metadata": {
+        "text": "core_product_name: hand held multifunctional calibrator",
+        "raw_product_name": "Hand Held Multifunctional Calibrator",
+        "list_of_product_ids": "18090,28750,37512,37499",
+        "core_id": 1211.0
+      }
+    },
+    {
+      "id": "variant-32aa035c-7c13-5294-be10-0b895907678b",
+      "score": 0.81802845,
+      "metadata": {
+        "text": "core_product_name: potential transformer",
+        "raw_product_name": "POTENTIAL TRANSFORMER",
+        "list_of_product_ids": "13843,15647,15654,14631,17269,17268,17267,17266,17751,18280,18300,23019,35382",
+        "core_id": 1738.0
+      }
+    },
+    {
+      "id": "variant-fcc2ab1b-58df-54d8-9ad8-c557e480c6b4",
+      "score": 0.8178956,
+      "metadata": {
+        "text": "core_product_name: portable calibrator",
+        "raw_product_name": "Portable Calibrator",
+        "list_of_product_ids": "18091,27913,37511,37498",
+        "core_id": 1732.0
+      }
+    },
+    {
+      "id": "variant-04c0253b-a0b8-5065-bbd3-97279ba79809",
+      "score": 0.8178956,
+      "metadata": {
+        "text": "core_product_name: portable calibrator",
+        "raw_product_name": "PORTABLE TEMPERATURE CALIBRATOR",
+        "list_of_product_ids": "171,831,717,327,912",
+        "core_id": 1732.0
+      }
+    },
+    {
+      "id": "variant-bc47b56d-eab8-530d-b017-8827914f9390",
+      "score": 0.8171095,
+      "metadata": {
+        "text": "core_product_name: handheld data logger",
+        "raw_product_name": "HANDHELD DATA LOGGER",
+        "list_of_product_ids": "192,481,924,928,255",
+        "core_id": 1095.0
+      }
+    },
+    {
+      "id": "variant-4b37043b-a285-5594-a6fa-2097b5bfa666",
+      "score": 0.81708896,
+      "metadata": {
+        "text": "core_product_name: transmitter",
+        "raw_product_name": "TRANSMITTER",
+        "list_of_product_ids": "13839,24344,23185,36621",
+        "core_id": 2274.0
+      }
+    },
+    {
+      "id": "variant-aeb4f6a9-b1de-541e-9b7d-a9e5a83c65b6",
+      "score": 0.816457,
+      "metadata": {
+        "text": "core_product_name: portable gas detector",
+        "raw_product_name": "PORTABLE GAS DETECTOR",
+        "list_of_product_ids": "13831,14336,14674,14682,14934,14935,14936,14937,19376,23210,33600,33610,33673,33689,34959,36085",
+        "core_id": 1726.0
+      }
+    },
+    {
+      "id": "variant-a9b3744f-17de-5958-ad3f-e4257f4f471b",
+      "score": 0.8163998,
+      "metadata": {
+        "text": "core_product_name: speed transmitter",
+        "raw_product_name": "SPEED TANSMITTERS",
+        "list_of_product_ids": "6597,5767,12698,12704,12707,12697",
+        "core_id": 2082.0
+      }
+    },
+    {
+      "id": "variant-81436a4b-3141-5607-a7c1-37ad5b5c930d",
+      "score": 0.8162495,
+      "metadata": {
+        "text": "core_product_name: battery",
+        "raw_product_name": "BATTERY",
+        "list_of_product_ids": "17766,17749,18656,18679,18678,18677,36615",
+        "core_id": 183.0
+      }
+    },
+    {
+      "id": "variant-37a20e30-39e6-5cce-9382-7bf349c28f51",
+      "score": 0.8157133,
+      "metadata": {
+        "text": "core_product_name: receiver gauge",
+        "raw_product_name": "RECEIVER GAUGES",
+        "list_of_product_ids": "10283,10000,10021,22687,37662,37655,35965",
+        "core_id": 1869.0
+      }
+    },
+    {
+      "id": "variant-ee7abe3f-04e1-5c10-bf20-8f6dcc15c467",
+      "score": 0.81560296,
+      "metadata": {
+        "text": "core_product_name: fitting | material: PVDF (Polyvinylidene Fluoride)",
+        "raw_product_name": "FITTINGS-PVDF",
+        "list_of_product_ids": "386,853,895,938,688",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-a0cc804f-786e-5e0d-9873-48678c41c829",
+      "score": 0.8155855,
+      "metadata": {
+        "text": "core_product_name: charge controller",
+        "raw_product_name": "CHARGE CONTROLLER",
+        "list_of_product_ids": "138,141,486,714,865",
+        "core_id": 337.0
+      }
+    },
+    {
+      "id": "variant-30ba7b7c-4349-5ae1-b9ed-81ec0b2af986",
+      "score": 0.8151454,
+      "metadata": {
+        "text": "core_product_name: high voltage capacitor | size_or_capacity: High Voltage",
+        "raw_product_name": "CAPACITORS-HIGH VOLTAGE",
+        "list_of_product_ids": "6427,5597,10503,10567,11340,12080",
+        "core_id": 295.0
+      }
+    },
+    {
+      "id": "variant-c03e0ba5-aa70-53fc-9eb3-267f46d459cb",
+      "score": 0.81513864,
+      "metadata": {
+        "text": "core_product_name: cathodic protection power supply module",
+        "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+        "list_of_product_ids": "6413,5583,8417,12209",
+        "core_id": 315.0
+      }
+    },
+    {
+      "id": "variant-a28a5702-2741-52e7-bbee-c9ec9500bcb3",
+      "score": 0.815113,
+      "metadata": {
+        "text": "core_product_name: transformer-rectifier unit",
+        "raw_product_name": "TRANSFORMER-RECTIFIER UNIT",
+        "list_of_product_ids": "21792,21799,27105,35396",
+        "core_id": 2273.0
+      }
+    },
+    {
+      "id": "variant-4ee544d6-0f39-5064-8d24-8c48472ff71a",
+      "score": 0.8150079,
+      "metadata": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": "5954,6782,12132,14671,14679,18191,20174,36159",
+        "core_id": 2156.0
+      }
+    },
+    {
+      "id": "variant-699a43b0-7687-5c69-996f-3aebb9c05522",
+      "score": 0.8148751,
+      "metadata": {
+        "text": "core_product_name: disposal level transmitter",
+        "raw_product_name": "Disposal Level Transmitters",
+        "list_of_product_ids": "17087,17086,17996,17997,18641",
+        "core_id": 653.0
+      }
+    },
+    {
+      "id": "variant-daf01be2-4034-5588-bc5d-1ce881dcd7a8",
+      "score": 0.8147188,
+      "metadata": {
+        "text": "core_product_name: portable mounted fire pump",
+        "raw_product_name": "PORTABLE MOUNTED FIRE PUMP",
+        "list_of_product_ids": "169,951,698,627,535",
+        "core_id": 1727.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.8146141,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-1a0de3d0-ed79-5450-aa41-d8815f16ff26",
+      "score": 0.8145024,
+      "metadata": {
+        "text": "core_product_name: outdoor potential transformer | acronymed_core_product_name: pt | size_or_capacity: 33kV",
+        "raw_product_name": "33kV outdoor CT/ PT",
+        "list_of_product_ids": "7061,7388,18218,18377,19058",
+        "core_id": 17.0
+      }
+    },
+    {
+      "id": "variant-6c44a355-32b7-537d-902f-7c52b25ea550",
+      "score": 0.81426567,
+      "metadata": {
+        "text": "core_product_name: portable fire extinguisher",
+        "raw_product_name": "Portable Fire Extinguishers",
+        "list_of_product_ids": "7103,7430,8261,15762,16407,18427,23511,38383,37506",
+        "core_id": 1837.0
+      }
+    }
+  ]
+}

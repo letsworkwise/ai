@@ -1,0 +1,198 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "1 Pair / 2 Pair x 16/20 AWG Thermocouple Cable",
+      "core_product_name": "thermocouple cable",
+      "acronymed_core_product_name": "",
+      "size": "pair: 1 or 2, conductor size: 16/20 AWG",
+      "feature_or_specifications": "",
+      "quantity": "200.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "1 Triad/ Quad x 1.5 mm² RTD/ LEL Cable",
+      "core_product_name": "rtd or lel cable",
+      "acronymed_core_product_name": "",
+      "size": "triad or quad: 1, conductor size: 1.5 mm²",
+      "feature_or_specifications": "",
+      "quantity": "400.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "8 Triad/ Quad x 2.5 mm² RTD/ LEL Cable",
+      "core_product_name": "rtd or lel cable",
+      "acronymed_core_product_name": "",
+      "size": "triad or quad: 8, conductor size: 2.5 mm²",
+      "feature_or_specifications": "",
+      "quantity": "1500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Laying of power cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs), For cable size   2C x 6 mm²",
+      "core_product_name": "power cable laying",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 6 mm²",
+      "feature_or_specifications": "laying location: ducts, laying location: main trays, laying location: perforated trays, laying location: angle trays, laying location: trenches, laying location: through IRCs",
+      "quantity": "800.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Laying of power cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs), For cable size   2C x 10 mm²",
+      "core_product_name": "power cable laying",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 10 mm²",
+      "feature_or_specifications": "laying location: ducts, laying location: main trays, laying location: perforated trays, laying location: angle trays, laying location: trenches, laying location: through IRCs",
+      "quantity": "800.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Laying of power cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs), For cable size   2C x 2.5 mm²",
+      "core_product_name": "power cable laying",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 2.5 mm²",
+      "feature_or_specifications": "laying location: ducts, laying location: main trays, laying location: perforated trays, laying location: angle trays, laying location: trenches, laying location: through IRCs",
+      "quantity": "400.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Laying of power cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs), For cable size   2C x 4 mm²",
+      "core_product_name": "power cable laying",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 4 mm²",
+      "feature_or_specifications": "laying location: ducts, laying location: main trays, laying location: perforated trays, laying location: angle trays, laying location: trenches, laying location: through IRCs",
+      "quantity": "800.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "SAND FILLING IN TRENCHES",
+      "core_product_name": "sand filling",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: trenches",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      370,
+      379
+    ],
+    "original_rows": [
+      {
+        "0": 371,
+        "1": 0,
+        "2": "01II.610.30.21",
+        "3": "1 Pair / 2 Pair x 16/20 AWG Thermocouple Cable",
+        "4": 200.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 372,
+        "1": 0,
+        "2": "01II.610.30.41",
+        "3": "1 Triad/ Quad x 1.5 mm² RTD/ LEL Cable",
+        "4": 400.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 373,
+        "1": 0,
+        "2": "01II.610.30.54",
+        "3": "8 Triad/ Quad x 2.5 mm² RTD/ LEL Cable",
+        "4": 1500.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 374,
+        "1": 0,
+        "2": "01II.610.80",
+        "3": "Laying of power cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 375,
+        "1": 0,
+        "2": "01II.610.80.1V2",
+        "3": "For cable size   2C x 6 mm²",
+        "4": 800.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 376,
+        "1": 0,
+        "2": "01II.610.80.1V3",
+        "3": "For cable size   2C x 10 mm²",
+        "4": 800.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 377,
+        "1": 0,
+        "2": "01II.610.80.1V7",
+        "3": "For cable size   2C x 2.5 mm²",
+        "4": 400.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 378,
+        "1": 0,
+        "2": "01II.610.80.1V10",
+        "3": "For cable size   2C x 4 mm²",
+        "4": 800.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 379,
+        "1": 0,
+        "2": "01II.630",
+        "3": "SAND FILLING IN TRENCHES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 380,
+        "1": 0,
+        "2": "01II.630.10",
+        "3": "Supply of sand and filling of concrete cable trenches with sand after cable laying is completed including levelling of",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2753,
+    "completion_tokens": 1230
+  }
+}

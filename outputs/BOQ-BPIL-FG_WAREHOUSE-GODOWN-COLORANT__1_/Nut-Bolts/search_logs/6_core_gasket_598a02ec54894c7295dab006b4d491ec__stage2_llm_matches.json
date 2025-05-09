@@ -1,0 +1,58 @@
+{
+  "query": "core_product_name: gasket | size: size: 100NB",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: gasket | material: Compressed Fibre Asbestos Free",
+        "raw_product_name": "GASKET (COMPRESSED FIBRE ASBESTOS FREE)",
+        "list_of_product_ids": [
+          "8365"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: gasket | material: Metallic | material: Soft Iron",
+        "raw_product_name": "GASKET METALLIC & SOFT IRON",
+        "list_of_product_ids": [
+          "5995",
+          "5174",
+          "6912",
+          "6918",
+          "6909",
+          "6915",
+          "7720",
+          "7721",
+          "8358",
+          "8369",
+          "9280",
+          "17301"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: gasket | material: Rubber",
+        "raw_product_name": "RUBBER GASKETS",
+        "list_of_product_ids": [
+          "8366"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: redoxide | size: quantity: 20 ltr",
+  "retrieval_results": [
+    {
+      "id": "variant-71cb628a-0827-5450-965c-f430bca859f6",
+      "score": 0.8614314,
+      "metadata": {
+        "text": "core_product_name: chromatography | material: Aluminium Oxide",
+        "raw_product_name": "ALUMINIUM OXIDE CHROMATOGRAPHY",
+        "list_of_product_ids": "949,295,929,775",
+        "core_id": 98.0
+      }
+    },
+    {
+      "id": "variant-151ce4f6-5469-579f-8545-47358a95c4ad",
+      "score": 0.8539297,
+      "metadata": {
+        "text": "core_product_name: flange | material: Alloy 20",
+        "raw_product_name": "FLANGE- ALLOY 20",
+        "list_of_product_ids": "176,491,764,718,665",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-87243719-7f1f-596c-9d67-ea98b6a6c0cc",
+      "score": 0.8488682,
+      "metadata": {
+        "text": "core_product_name: oxysorb",
+        "raw_product_name": "OXYSORB",
+        "list_of_product_ids": "950,395,839,786",
+        "core_id": 1615.0
+      }
+    },
+    {
+      "id": "variant-e9b41e38-0dd4-520a-a25c-a5d682936284",
+      "score": 0.84843606,
+      "metadata": {
+        "text": "core_product_name: water quality analyser | type_or_class: Dissolved Oxygen",
+        "raw_product_name": "WATER QUALITY ANALYSER-DISSOLVED OXYGEN",
+        "list_of_product_ids": "6516,5687,11779,11178,10046,11798,11796,10127,11759,11875,13399,18232,28804,28803,28802,28808,28807,28806,28805,33122,33341,36267,36420",
+        "core_id": 2447.0
+      }
+    },
+    {
+      "id": "variant-1302208c-f245-531e-8566-116e291bcde5",
+      "score": 0.8480571,
+      "metadata": {
+        "text": "core_product_name: liquid analyzer",
+        "raw_product_name": "LIQUID ANALYZER",
+        "list_of_product_ids": "1,361,722,618",
+        "core_id": 1369.0
+      }
+    },
+    {
+      "id": "variant-8146d930-f36a-56af-8783-944a47cedfc7",
+      "score": 0.8474419,
+      "metadata": {
+        "text": "core_product_name: rod | material: TUNGUSTEN",
+        "raw_product_name": "TUNGUSTEN ROD",
+        "list_of_product_ids": "32956,32957,33017,33204,33269,33571,33642,35931",
+        "core_id": 2297.0
+      }
+    },
+    {
+      "id": "variant-55c4b5b6-8065-54c8-b9f6-e13a04e05b7e",
+      "score": 0.84728426,
+      "metadata": {
+        "text": "core_product_name: membrane oxygen plant",
+        "raw_product_name": "MEMBRANE OXYGEN PLANT",
+        "list_of_product_ids": "2,448,826,826",
+        "core_id": 1460.0
+      }
+    },
+    {
+      "id": "variant-13870786-9fb4-541f-a9f9-b4f674c85f68",
+      "score": 0.84695375,
+      "metadata": {
+        "text": "core_product_name: rod",
+        "raw_product_name": "WELDING ROD",
+        "list_of_product_ids": "10254,10259,9976,10287,29408,9960,9961,9962,9963,10243,9968,12300,10248,26249,13474,13475,13476,13508,13515,13501,13527,13534,13541,13555,13548,14407,14408,16059,16101,16221,29428,17719,17735,29463,29483,29673,29526,23323,29544,29572,24764,24756,24737,24874,24863,24852,24893,24915,24929,24907,29607,24999,25009,25019,25052,25042,25035,25087,25078,25067,25056,25112,25131,25121,25140,25160,25172,25198,25188,25181,25214,25210,25238,25261,25250,25274,25283,25296,25305,25318,25332,25327,25355,25394,25382,25371,25414,25492,29632,25866,25938,25980,26125,26182,26159,26278,26310,26334,26359,26382,26445,26494,26470,26530,26544,26576,26602,26625,26648,26729,26706,26817,26834,29695,26917,26980,27011,27153,27213,27190,27237,27265,27294,27317,29724,27389,27415,27449,27561,27589,27618,27664,27690,27842,27889,27857,27940,27970,29775,28004,28040,28098,28134,28156,28328,28305,30689,28362,28393,28441,28474,28524,28572,28557,28541,28586,28592,28602,28604,28612,28643,28626,28653,28884,28681,28690,28704,29803,28747,28730,28761,28769,28867,28860,28853,28891,28914,28916,28935,28948,28965,28969,29019,29012,29020,29027,29060,29046,29076,29093,29109,29110,29112,29129,29143,29167,29193,29225,29319,29332,29355,29379,29746,35899",
+        "core_id": 2297.0
+      }
+    },
+    {
+      "id": "variant-d021e903-f730-529b-945d-e9a1406228be",
+      "score": 0.8460799,
+      "metadata": {
+        "text": "core_product_name: construction chemical",
+        "raw_product_name": "CONSTRUCTION CHEMICALS",
+        "list_of_product_ids": "15531,13971,15530,15944,17467,22627,23888,15529,15528,35652",
+        "core_id": 444.0
+      }
+    },
+    {
+      "id": "variant-8c65b49d-0337-5355-b0b0-c268b6784810",
+      "score": 0.84571725,
+      "metadata": {
+        "text": "core_product_name: oxygen analyser",
+        "raw_product_name": "OXYGEN ANALYSER",
+        "list_of_product_ids": "13864,15102,15309,15317,36196,36345,40056",
+        "core_id": 1607.0
+      }
+    },
+    {
+      "id": "variant-df6c6ec9-1910-56e7-8d88-e60ee8e51334",
+      "score": 0.8455613,
+      "metadata": {
+        "text": "core_product_name: oxygen scavenger reaction vessel",
+        "raw_product_name": "OXYGEN SCAVENGER REACTION VESSEL",
+        "list_of_product_ids": "15775,15774,15827,15801,15842,15909,16065,16023,16193,16608,16573,16879,33338",
+        "core_id": 1614.0
+      }
+    },
+    {
+      "id": "variant-b333d842-00f3-51ab-b1d7-5718bfe59b11",
+      "score": 0.84546876,
+      "metadata": {
+        "text": "core_product_name: column chromatography | material: Silica Gel",
+        "raw_product_name": "SILICA GEL COLUMN CHROMATOGRAPHY",
+        "list_of_product_ids": "950,895,689,791",
+        "core_id": 2029.0
+      }
+    },
+    {
+      "id": "variant-27c6594d-00a3-5fdd-af30-0c8df4f31d86",
+      "score": 0.8449064,
+      "metadata": {
+        "text": "core_product_name: chemical cleaning material",
+        "raw_product_name": "CLEANING MATERIAL (CHEMICALS)",
+        "list_of_product_ids": "196,021,960,127,958",
+        "core_id": 370.0
+      }
+    },
+    {
+      "id": "variant-62dbd1c9-ac9c-51d9-85ef-4bd9bfc69b54",
+      "score": 0.8448797,
+      "metadata": {
+        "text": "core_product_name: lubricant",
+        "raw_product_name": "LUBRICANT",
+        "list_of_product_ids": "24974,24972,24970,26774",
+        "core_id": 1406.0
+      }
+    },
+    {
+      "id": "variant-90398c5f-3c70-57b9-8962-1ea6cb19658f",
+      "score": 0.8447582,
+      "metadata": {
+        "text": "core_product_name: polyelectrolyte",
+        "raw_product_name": "POLYELECTROLYTE",
+        "list_of_product_ids": "228,332,283,928,621",
+        "core_id": 1720.0
+      }
+    },
+    {
+      "id": "variant-ef589bb7-8736-5fdf-b54e-663ff6a4280d",
+      "score": 0.8445831,
+      "metadata": {
+        "text": "core_product_name: battery | material: Lead Acid",
+        "raw_product_name": "BATTERY (LEAD ACID)",
+        "list_of_product_ids": "14131,16440,19102,17026,17770,21441,21690",
+        "core_id": 183.0
+      }
+    },
+    {
+      "id": "variant-e66559cd-efc4-5ee2-b4f3-09750bdc8fc6",
+      "score": 0.8445216,
+      "metadata": {
+        "text": "core_product_name: biochemical",
+        "raw_product_name": "BIOCHEMICALS",
+        "list_of_product_ids": "370,543,702,437,021",
+        "core_id": 204.0
+      }
+    },
+    {
+      "id": "variant-bf0fd60b-8488-5d72-8303-1c8f2dfe6665",
+      "score": 0.8444839,
+      "metadata": {
+        "text": "core_product_name: thin layer chromatography",
+        "raw_product_name": "THIN LAYER CHROMATOGRAPHY",
+        "list_of_product_ids": "951,395,739,796",
+        "core_id": 2245.0
+      }
+    },
+    {
+      "id": "variant-b17a46db-f04d-5e25-a3ae-ca0047294d65",
+      "score": 0.8443973,
+      "metadata": {
+        "text": "core_product_name: molecular sieve powder",
+        "raw_product_name": "MOLECULAR SIEVE POWDER",
+        "list_of_product_ids": "950,195,819,784",
+        "core_id": 1498.0
+      }
+    },
+    {
+      "id": "variant-f9d289b3-c8ca-5df7-8445-9ba02aa3685a",
+      "score": 0.84433734,
+      "metadata": {
+        "text": "core_product_name: water reducing admixture",
+        "raw_product_name": "WATER REDUCING ADMIXTURES",
+        "list_of_product_ids": "14087,22462,22672,22867",
+        "core_id": 2450.0
+      }
+    },
+    {
+      "id": "variant-b0152f51-df97-5fb5-a256-e26983c2bdfe",
+      "score": 0.8441741,
+      "metadata": {
+        "text": "core_product_name: corrosion inhibitor",
+        "raw_product_name": "CORROSION INHIBITOR",
+        "list_of_product_ids": "218,162,181,327,795",
+        "core_id": 489.0
+      }
+    },
+    {
+      "id": "variant-8fc55be0-e0cb-55e7-b51b-13ff621b8933",
+      "score": 0.8438273,
+      "metadata": {
+        "text": "core_product_name: coil | material: Rayon",
+        "raw_product_name": "RAYON COILS",
+        "list_of_product_ids": "950,695,669,789",
+        "core_id": 1722.0
+      }
+    },
+    {
+      "id": "variant-78443036-3ff8-5091-b071-64441d2c17b9",
+      "score": 0.8438111,
+      "metadata": {
+        "text": "core_product_name: oxygen detector",
+        "raw_product_name": "OXYGEN DETECTOR",
+        "list_of_product_ids": "164,771,647,816,500",
+        "core_id": 1610.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.8437363,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    },
+    {
+      "id": "variant-fa3435b9-0759-5334-b68d-5171248fbf55",
+      "score": 0.8436034,
+      "metadata": {
+        "text": "core_product_name: dense castable | material: Refractory",
+        "raw_product_name": "DENSE REFRACTORY CASTABLE",
+        "list_of_product_ids": "6139,5309,10462,8832,8835,8847,8849,8865,9604,9620,9628,9661,9666,9657,9801,13155,24304,24300,24301,24302",
+        "core_id": 569.0
+      }
+    },
+    {
+      "id": "variant-949ab2fe-ba86-5c1c-8b73-a142920b7378",
+      "score": 0.84351975,
+      "metadata": {
+        "text": "core_product_name: lining | material: Lead",
+        "raw_product_name": "LINING (LEAD)",
+        "list_of_product_ids": "61,665,336",
+        "core_id": 1367.0
+      }
+    },
+    {
+      "id": "variant-075206d1-bd60-5b2f-a91d-063ca6d091d3",
+      "score": 0.8433279,
+      "metadata": {
+        "text": "core_product_name: metal | material: Ferrous",
+        "raw_product_name": "FERROUS METALS",
+        "list_of_product_ids": "1,413,322,873",
+        "core_id": 809.0
+      }
+    },
+    {
+      "id": "variant-aba41a48-4503-5de2-9937-02046b4125aa",
+      "score": 0.84326726,
+      "metadata": {
+        "text": "core_product_name: concentrate | material: Alcohol",
+        "raw_product_name": "CONCENTRATE (ALCOHOL)",
+        "list_of_product_ids": "1,659,527,818",
+        "core_id": 425.0
+      }
+    },
+    {
+      "id": "variant-2fded5f3-b0a0-59cf-bd0a-4309d8d4d4a1",
+      "score": 0.84302086,
+      "metadata": {
+        "text": "core_product_name: glycol seal pot",
+        "raw_product_name": "GLYCOL SEAL POT",
+        "list_of_product_ids": "15822,15796,15795,15797,15843,15902,16016,16053,16187,16569,16604,16875,33335",
+        "core_id": 1063.0
+      }
+    },
+    {
+      "id": "variant-b7451223-04e1-51b3-9b53-c18a78922822",
+      "score": 0.8429377,
+      "metadata": {
+        "text": "core_product_name: effluent treatment package",
+        "raw_product_name": "EFFLUENT TREATMENT PACKAGE",
+        "list_of_product_ids": "16664,16663,27091,36681,39075,39143,39151,39158,39198,39239",
+        "core_id": 674.0
+      }
+    }
+  ]
+}

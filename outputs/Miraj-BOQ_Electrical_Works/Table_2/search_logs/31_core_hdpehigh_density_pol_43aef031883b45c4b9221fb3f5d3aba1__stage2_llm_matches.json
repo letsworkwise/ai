@@ -1,0 +1,65 @@
+{
+  "query": "core_product_name: hdpe(high density polyethylene) pipes | acronymed_core_product_name: hdpe pipes | size: diameter: 150 mm | feature_or_specifications: standard: indian standard 8008 part-i",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: hdpe (high density polyethylene) pipe | acronymed_core_product_name: hdpe pipe",
+        "raw_product_name": "HDPE Pipe",
+        "list_of_product_ids": [
+          "7605",
+          "7280",
+          "8124",
+          "12260",
+          "12382",
+          "12537",
+          "13054",
+          "13056",
+          "14514",
+          "16655",
+          "30982"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "acronymed_core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: pipe fitting | acronymed_core_product_name: hdpe pipe fittings (high density polyethylene pipe fittings) | material: HDPE (High Density Polyethylene)",
+        "raw_product_name": "HDPE PIPE FITTINGS",
+        "list_of_product_ids": [
+          "142",
+          "652",
+          "289",
+          "935",
+          "651"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "acronymed_core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: duct | acronymed_core_product_name: HDPE (High Density Polyethylene) DUCT | material: HDPE (High Density Polyethylene)",
+        "raw_product_name": "HDPE DUCT",
+        "list_of_product_ids": [
+          "142",
+          "501",
+          "665",
+          "622",
+          "898"
+        ]
+      }
+    }
+  ]
+}

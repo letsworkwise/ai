@@ -1,0 +1,68 @@
+{
+  "query": "core_product_name: led monitor | size: screen size: 55 inch | feature_or_specifications: feature: reputed make, location: administrative building lobby area, feature: for plant & safety monitoring, feature: interfacing with oic (operator interface console), paga (public address and general alarm), tas (terminal automation software) server, feature: cable supply, laying and termination",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: large screen display",
+        "raw_product_name": "Large Screen Display",
+        "list_of_product_ids": [
+          "7076",
+          "7403",
+          "11853",
+          "11845"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: fieldbus monitor",
+        "raw_product_name": "FIELDBUS MONITOR",
+        "list_of_product_ids": [
+          "5",
+          "948",
+          "677",
+          "710",
+          "076"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: monitor",
+        "raw_product_name": "WATER MONITOR",
+        "list_of_product_ids": [
+          "6039",
+          "5218",
+          "9825",
+          "9830",
+          "9835",
+          "9840",
+          "8259",
+          "8296",
+          "8316",
+          "8739",
+          "9230",
+          "16411",
+          "24091",
+          "23518",
+          "37476"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: solenoid valve | size: connection: 1/2\" npt(national pipe thread) | feature_or_specifications: type: flameproof, voltage: 24v dc(direct current), suitable for: hazardous area zone-1, certification: iia/iib t3, included: 9 nos for dv(deluge valve)+2 nos spares",
+  "retrieval_results": [
+    {
+      "id": "variant-58d5e104-4d99-50cb-ab9a-428c0cd22df6",
+      "score": 0.85603887,
+      "metadata": {
+        "text": "core_product_name: solenoid valve",
+        "raw_product_name": "SOLENOID VALVES",
+        "list_of_product_ids": "6490,5661,11653,11670,11456,11454,8822,9136,12122,12126,12138,12145,12137,12176,12175,12206,12207,17141,17142,18479,18900,18944,23735,22264,36629,31448,36947,37248,36688,40244,40297",
+        "core_id": 2061.0
+      }
+    },
+    {
+      "id": "variant-9eb39886-9138-5002-b1db-45d98c8bda66",
+      "score": 0.8499246,
+      "metadata": {
+        "text": "core_product_name: fire safe valve | protection_features: fireproof",
+        "raw_product_name": "FIRE SAFE VALVE",
+        "list_of_product_ids": "14252,22821,37280,39855,39936,40213,40304",
+        "core_id": 857.0
+      }
+    },
+    {
+      "id": "variant-46b33277-ca09-5aed-94ae-7473c55450ef",
+      "score": 0.845008,
+      "metadata": {
+        "text": "core_product_name: pressure balanced plug valve | type_or_class: Fire Safe (FS)",
+        "raw_product_name": "VALVE PLUG PRESSURE BALANCED (FS)",
+        "list_of_product_ids": "6211,5380,7840,8136,8699,35591",
+        "core_id": 2369.0
+      }
+    },
+    {
+      "id": "variant-bbad95d9-b94a-500e-b33a-e10ab8250567",
+      "score": 0.84470713,
+      "metadata": {
+        "text": "core_product_name: safety relief valve",
+        "raw_product_name": "Safety Relief Valve",
+        "list_of_product_ids": "7520,7194,10321,9958,12013,12014,12015,12091,12784,12758,12775,17529,18043,22348,36631,34693,34695,34697,34699,35702,36144,36151,39885",
+        "core_id": 2181.0
+      }
+    },
+    {
+      "id": "variant-1a5a5bf1-d5cc-5063-b966-95d4799adb0f",
+      "score": 0.8441251,
+      "metadata": {
+        "text": "core_product_name: safety valve",
+        "raw_product_name": "SAFETY VALVES",
+        "list_of_product_ids": "14389,14381,14554,15199,15333",
+        "core_id": 1950.0
+      }
+    },
+    {
+      "id": "variant-4ac8de47-d4ec-5a19-abfc-7860f49138c9",
+      "score": 0.8439782,
+      "metadata": {
+        "text": "core_product_name: deluge valve",
+        "raw_product_name": "DELUGE VALVE",
+        "list_of_product_ids": "6385,5556,6997,7010,9956,9957,8289,8298,8735,8882,8922,8926,8930,8957,9063,9068,9073,9103,9146,12394,18887,18933,23761,24221,22765,22793",
+        "core_id": 565.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.8420197,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-b28cfd5b-efed-577a-b4eb-6e1125cc375b",
+      "score": 0.84186655,
+      "metadata": {
+        "text": "core_product_name: plug valve | type_or_class: FS (Fire Safe)",
+        "raw_product_name": "VALVE PLUG FS",
+        "list_of_product_ids": "14041,23307,23295,23368,23669,23653,35580",
+        "core_id": 2366.0
+      }
+    },
+    {
+      "id": "variant-5fdac38a-75d8-570d-b809-70bb1fabc72c",
+      "score": 0.8413384,
+      "metadata": {
+        "text": "core_product_name: fire safe valve | protection_features: Fireproof | type_or_class: Feed Water",
+        "raw_product_name": "FIRE SAFE VALVE - FEED WATER",
+        "list_of_product_ids": "39716,39742,39938,40070,40211,40302",
+        "core_id": 857.0
+      }
+    },
+    {
+      "id": "variant-bdfccbcc-6761-524b-8680-2a3c311c5027",
+      "score": 0.84100896,
+      "metadata": {
+        "text": "core_product_name: globe valve | standards_and_approvals: NACE (National Association of Corrosion Engineers)",
+        "raw_product_name": "VALVE GLOBE (NACE)",
+        "list_of_product_ids": "20246,20299,20275,20332,20328,20370,35552",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-0b364305-53f2-5a89-8156-099caaee315c",
+      "score": 0.84054273,
+      "metadata": {
+        "text": "core_product_name: ball valve | protection_features: fire safe | material: C.S (Carbon Steel) | type_or_class: Non NACE (National Association of Corrosion Engineers)",
+        "raw_product_name": "VALVE BALL FIRE SAFE-C.S NON NACE",
+        "list_of_product_ids": "16508,16512,16598,16583,16582,16575,16581,33495,35486,36361",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-a4ea8586-2f68-5a84-8133-1b60d2515db2",
+      "score": 0.8401768,
+      "metadata": {
+        "text": "core_product_name: double disc gate valve",
+        "raw_product_name": "VALVE DOUBLE DISC GATE",
+        "list_of_product_ids": "62,675,436",
+        "core_id": 2354.0
+      }
+    },
+    {
+      "id": "variant-742bde15-cd17-5ab1-9705-cb646d9256c3",
+      "score": 0.8401404,
+      "metadata": {
+        "text": "core_product_name: induction motor | type_or_class: M.V (Medium Voltage) | protection_features: Flame Proof",
+        "raw_product_name": "MOTOR-INDUCTION-M.V (FLAME PROOF)",
+        "list_of_product_ids": "6405,5576,11381,11386,9418,24531,24530",
+        "core_id": 1506.0
+      }
+    },
+    {
+      "id": "variant-6f388475-f466-5ff3-ba8a-3d0e206bd2c6",
+      "score": 0.84001815,
+      "metadata": {
+        "text": "core_product_name: flameproof plug | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF PLUG",
+        "list_of_product_ids": "201,172,041,520,651",
+        "core_id": 897.0
+      }
+    },
+    {
+      "id": "variant-61a25548-383b-5b43-b6f5-a3fe1adbb579",
+      "score": 0.83952683,
+      "metadata": {
+        "text": "core_product_name: fire protection system | accessories_or_attachments: Valves and Accessories",
+        "raw_product_name": "FIRE PROTECTION SYSTEM (VALVES & ACC.)",
+        "list_of_product_ids": "6603,5773,10731,7858,35221",
+        "core_id": 858.0
+      }
+    },
+    {
+      "id": "variant-a2cd0232-5041-5aec-9ca9-f7ccbba0b483",
+      "score": 0.8394515,
+      "metadata": {
+        "text": "core_product_name: concentric plug valve | material: CAS (Cast Alloy Steel) | type_or_class: F.S. (Fire Safe) or N.F.S. (Non Fire Safe)",
+        "raw_product_name": "VALVE PLUG CONCENTRIC-CAS(F.S. & N.F.S.)",
+        "list_of_product_ids": "6,261,543,035,590",
+        "core_id": 2367.0
+      }
+    },
+    {
+      "id": "variant-43c87f64-eca2-5ea6-82c0-2b92c5f9f005",
+      "score": 0.83926135,
+      "metadata": {
+        "text": "core_product_name: double block valve | material: CS (Carbon Steel) | type_or_class: NACE (National Association of Corrosion Engineers)",
+        "raw_product_name": "VALVES DOUBLE BLOCK - CS NACE",
+        "list_of_product_ids": "2,019,420,374",
+        "core_id": 2380.0
+      }
+    },
+    {
+      "id": "variant-651e7de1-5940-5447-b20c-de1f1785c37c",
+      "score": 0.8390747,
+      "metadata": {
+        "text": "core_product_name: flameproof convenience outlet | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF - CONVENIENCE OUTLETS",
+        "list_of_product_ids": "19657,19639,19667,28279",
+        "core_id": 892.0
+      }
+    },
+    {
+      "id": "variant-55df606f-6c3e-57a0-a4b7-5cb034b404b6",
+      "score": 0.8390038,
+      "metadata": {
+        "text": "core_product_name: plug multiport valve | protection_features: Non Fire Safe",
+        "raw_product_name": "VALVE PLUG MULTIPORT - NON FIRE SAFE",
+        "list_of_product_ids": "6,264,543,335,593",
+        "core_id": 2368.0
+      }
+    },
+    {
+      "id": "variant-2e240545-7df4-5684-a867-6ed06fbac62a",
+      "score": 0.8386651,
+      "metadata": {
+        "text": "core_product_name: naval patternised valve",
+        "raw_product_name": "VALVES (NAVAL PATTERNISED)",
+        "list_of_product_ids": "222,562,225,528,613",
+        "core_id": 2378.0
+      }
+    },
+    {
+      "id": "variant-2ec54a57-e222-5a47-bfa6-739ba5d7f3ea",
+      "score": 0.8386393,
+      "metadata": {
+        "text": "core_product_name: deluge valve | type_or_class: Diaphragm",
+        "raw_product_name": "DELUGE VALVE (DIAPHRAGM)",
+        "list_of_product_ids": "28285,28287,28297,28410,35575",
+        "core_id": 565.0
+      }
+    },
+    {
+      "id": "variant-094e13b9-9469-50ab-ba24-d3c43fe0d0c2",
+      "score": 0.83827895,
+      "metadata": {
+        "text": "core_product_name: on-off valve",
+        "raw_product_name": "ON-OFF VALVES",
+        "list_of_product_ids": "6494,5665,11273,11719,9263,8149,8160,8188,8187,8386,8597,8693,8669,8674,8688,12185,12293,12610,12821,12914,12934,12959,12969,12925,12935,12957,12961,12967,12968,12970,16129,16458,18305,18468,18462,18451,18447,18444,19712,23746,21621,21764,25964,28149,28148,28147,31883,37526,34316,36255,36408",
+        "core_id": 1594.0
+      }
+    },
+    {
+      "id": "variant-67c6de4b-df37-53c9-bdcc-6a711e44669d",
+      "score": 0.83827305,
+      "metadata": {
+        "text": "core_product_name: check valve | standards_and_approvals: NACE (National Association of Corrosion Engineers)",
+        "raw_product_name": "CHECK VALVE (NACE)",
+        "list_of_product_ids": "20156,20245,20284,20261,20312,20355",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-b7c0512d-7522-56f2-893f-6d86c283186d",
+      "score": 0.83815145,
+      "metadata": {
+        "text": "core_product_name: check valve | type_or_class: Dual Plate Type",
+        "raw_product_name": "VALVE CHECK (DUAL PLATE TYPE)",
+        "list_of_product_ids": "6234,5403,11558,11057,10427,11468,11476,11470,11474,12333,12431,12494,13264,19422,19730,22771,31566,30834",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-e2c1a34d-e852-5755-ad67-1443d59d5847",
+      "score": 0.83814174,
+      "metadata": {
+        "text": "core_product_name: check valve | material: SS (Stainless Steel) | standards_and_approvals: NACE (National Association of Corrosion Engineers)",
+        "raw_product_name": "CHECK VALVE (SS NACE)",
+        "list_of_product_ids": "13819,14923,16911,16905",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-d57d54de-f40c-539e-8057-478b97a834b0",
+      "score": 0.83795625,
+      "metadata": {
+        "text": "core_product_name: thermal relief valve",
+        "raw_product_name": "THERMAL RELIEF VALVE",
+        "list_of_product_ids": "14016,15348,15353,15358,22349,36633,37438,37439,34694,34696,34698,34700",
+        "core_id": 2242.0
+      }
+    },
+    {
+      "id": "variant-3b6fd501-a4aa-5f0e-a5f4-14d273ad963d",
+      "score": 0.8379528,
+      "metadata": {
+        "text": "core_product_name: surge relief valve",
+        "raw_product_name": "SURGE RELIEF VALVE",
+        "list_of_product_ids": "6505,5676,12130,22347,28768",
+        "core_id": 2159.0
+      }
+    },
+    {
+      "id": "variant-9813549d-06ce-5045-9029-10379f246fe1",
+      "score": 0.8378683,
+      "metadata": {
+        "text": "core_product_name: pneumatic valve",
+        "raw_product_name": "PNEUMATICS VALVE",
+        "list_of_product_ids": "14397,14567,21878,21876,21874,36687,35745",
+        "core_id": 1719.0
+      }
+    },
+    {
+      "id": "variant-738fa161-6b98-52ff-adca-f61e05162955",
+      "score": 0.83785474,
+      "metadata": {
+        "text": "core_product_name: valve diaphragm",
+        "raw_product_name": "VALVE DIAPHRAGM",
+        "list_of_product_ids": "10368,6255,5424,10405,10443,8132,13147,13283,16494,19489,30872,30873,30874,34545,35574,39942,40079",
+        "core_id": 2352.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.83743405,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "sheet_name": "Electrical",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Supply, fabrication and installation of GI canopies for outdoor electrical miscellaneous equipments such as lighting/power panels and distribution junction boxes, local panels , PB stations etc. to render them weather proof including supply of necessary hardware for fixing and clamping with the equipment, including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge. Lighting Panel/Power panel/distribution junctions boxes.",
+      "core_product_name": "canopy",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: gi(galvanized iron), application: outdoor electrical miscellaneous equipments such as lighting/power panels and distribution junction boxes, local panels, pb(push button) stations, feature: weather proof, hardware: necessary hardware for fixing and clamping, labour and materials: all included, as per: approved drawings, specifications of this tender, directions of engineer-in-charge",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Supply, fabrication and installation of GI canopies for outdoor electrical miscellaneous equipments such as lighting/power panels and distribution junction boxes, local panels , PB stations etc. to render them weather proof including supply of necessary hardware for fixing and clamping with the equipment, including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge. Push button stations.",
+      "core_product_name": "canopy",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: gi(galvanized iron), application: outdoor electrical miscellaneous equipments such as lighting/power panels and distribution junction boxes, local panels, pb(push button) stations, feature: weather proof, hardware: necessary hardware for fixing and clamping, labour and materials: all included, as per: approved drawings, specifications of this tender, directions of engineer-in-charge",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Supply, fabrication and installation of GI canopies for outdoor electrical miscellaneous equipments such as lighting/power panels and distribution junction boxes, local panels , PB stations etc. to render them weather proof including supply of necessary hardware for fixing and clamping with the equipment, including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge. FLP receptacles.",
+      "core_product_name": "canopy",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: gi(galvanized iron), application: outdoor electrical miscellaneous equipments such as lighting/power panels and distribution junction boxes, local panels, pb(push button) stations, feature: weather proof, hardware: necessary hardware for fixing and clamping, labour and materials: all included, as per: approved drawings, specifications of this tender, directions of engineer-in-charge",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > PLUGS, SOCKETS AND JUNCTION BOXES",
+      "full_product_description": "Disconnection, dismantaling of existing industrial / flameproof local control stations, including transporting to owner's store, including all labour and materials, as per specifications of this tender and as per directions of Engineer-in-Charge. Existing LCS.",
+      "core_product_name": "local control station",
+      "acronymed_core_product_name": "lcs",
+      "size": "",
+      "feature_or_specifications": "type: industrial, type: flameproof, feature: disconnection, dismantling, transporting to owner's store, labour and materials: all included, as per: specifications of this tender, directions of engineer-in-charge",
+      "quantity": "2.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      10,
+      19
+    ],
+    "original_rows": [
+      {
+        "0": 122,
+        "1": 0,
+        "2": "01EE.1090",
+        "3": "CANOPIES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 123,
+        "1": 0,
+        "2": "01EE.1090.50",
+        "3": "Supply, fabrication and installation of GI canopies for outdoor electrical miscellaneous equipments such as lighting/power panels and distribution junction boxes, local panels , PB stations etc. to render them weather proof including supply of necessary hardware for fixing and clamping with the equipment, including all labour and materials, as per approved drawings, specifications of this tender and directions of Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 124,
+        "1": 0,
+        "2": "01EE.1090.50.10",
+        "3": "Lighting Panel/Power panel/distribution junctions boxes.",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 125,
+        "1": 0,
+        "2": "01EE.1090.50.30",
+        "3": "Push button stations.",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 126,
+        "1": 0,
+        "2": "01EE.1090.50.40",
+        "3": "FLP receptacles.",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 127,
+        "1": 0,
+        "2": "01EE.1120",
+        "3": "DISMANTLING AND DISCONNECTION OF ELECTRICAL EQUIPMENTS.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 128,
+        "1": 0,
+        "2": "01EE.1120.30",
+        "3": "Disconnection, dismantaling of existing industrial / flameproof local control stations, including transporting to owner's store, including all labour and materials, as per specifications of this tender and as per directions of Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 129,
+        "1": 0,
+        "2": "01EE.1120.30.10",
+        "3": "Existing LCS.",
+        "4": 2.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 130,
+        "1": 0,
+        "2": "01EE.1120.40",
+        "3": "Disconnection of power, control and space heater cables from existing switchboards/panels/misc. electrical equipment,  including all labour and materials, as per specifications of this tender and as per directions of Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 131,
+        "1": 0,
+        "2": "01EE.1120.40.10",
+        "3": "Cables from existing switchboards/panels/misc. electrical equipment.",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2869,
+    "completion_tokens": 1136
+  }
+}

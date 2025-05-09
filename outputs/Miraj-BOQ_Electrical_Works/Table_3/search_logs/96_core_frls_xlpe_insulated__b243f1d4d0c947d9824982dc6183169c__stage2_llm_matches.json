@@ -1,0 +1,63 @@
+{
+  "query": "core_product_name: frls xlpe insulated armoured copper cable | size: core: 3, area: 4 sq.mm | feature_or_specifications: type: frls(fire retardant low smoke), insulation: xlpe(cross-linked polyethylene), armouring: yes, material: copper, application: outgoing from LP(looping)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": [
+          "32910",
+          "32911",
+          "33009",
+          "33041",
+          "33195",
+          "33260",
+          "33562",
+          "33633",
+          "35922"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flexible wire | material: Copper",
+        "raw_product_name": "FLEXIBLE COPPER WIRES",
+        "list_of_product_ids": [
+          "136",
+          "081",
+          "478",
+          "520",
+          "094"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+        "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+        "list_of_product_ids": [
+          "140",
+          "901",
+          "478",
+          "121",
+          "282"
+        ]
+      }
+    }
+  ]
+}

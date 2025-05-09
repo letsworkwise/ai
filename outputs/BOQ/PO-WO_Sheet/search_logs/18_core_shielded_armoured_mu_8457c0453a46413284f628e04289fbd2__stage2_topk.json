@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: shielded armoured multistrand end termination | size: pairs: 16, size: 1 sq mm, run: 1 | feature_or_specifications: type: shielded, type: armoured, type: multistrand, feature: end termination",
+  "retrieval_results": [
+    {
+      "id": "variant-affc3a60-b3e8-5b61-83c3-0bf211340c68",
+      "score": 0.856034,
+      "metadata": {
+        "text": "core_product_name: armoured cable | construction_features: Armour | special_attributes: Loop",
+        "raw_product_name": "ARMOURED CABLE-(LOOP)",
+        "list_of_product_ids": "9936,9937,9938,8890,8911,8937,8941,8949,8945,8953,9082,9086,9090,9094,9098,19456,19459,19521,19532,19549,19556,23874,24037,24686,27123,27118,27127,27131,27135,27162,27167,27172,27181,27283,27337,27358,27398,27433,27520,27526,27539,27544,27553,27580,27638,27646,27682,27673,27771,27789,27810,27900,27917,27962,28028,28080,28067,28145,28115,28111,28107,28271,28283,28295,28291,28347,28385,28381,28413,28419,28458,28455,28466,28498,28514,38762,38596,38683,38622,38711,38650,38736,38847,38879,38921,38947,38984,39011,39039,39064,39107,39137,39185,39213,39266,39287,39333,39369,39398,39428,39479,39534,39561,38788,39599,39623,39651,39685,39725,39795,39823,39894",
+        "core_id": 130.0
+      }
+    },
+    {
+      "id": "variant-ee05504e-04ab-5063-9f21-014ad2b2938e",
+      "score": 0.85512924,
+      "metadata": {
+        "text": "core_product_name: armoured cable | type_or_class: Speaker | construction_features: Armour",
+        "raw_product_name": "ARMOURED CABLE-(SPEAKER)",
+        "list_of_product_ids": "8892,8909,8939,8943,8951,8947,8955,9084,9088,9092,9096,9100,23876,24039,24688,24727,24956,27121,27116,27125,27129,27133,27160,27165,27170,27179,27285,27335,27356,27396,27431,27518,27524,27537,27542,27551,27578,27636,27644,27680,27671,27769,27787,27808,27898,27915,27960,28026,28078,28066,28143,28113,28109,28105,28269,28281,28289,28293,28346,28383,28379,28411,28421,28453,28456,28464,28496,28512",
+        "core_id": 130.0
+      }
+    },
+    {
+      "id": "variant-4c8a0c6d-d49d-570a-86f5-4a1bcc3018ec",
+      "score": 0.853099,
+      "metadata": {
+        "text": "core_product_name: shield",
+        "raw_product_name": "ROCK SHIELD",
+        "list_of_product_ids": "21829,21830,21832,28605",
+        "core_id": 1911.0
+      }
+    },
+    {
+      "id": "variant-561ccbee-4cf2-55d6-9001-685613ac299b",
+      "score": 0.8515625,
+      "metadata": {
+        "text": "core_product_name: armoured cable | type_or_class: Power | construction_features: Armour",
+        "raw_product_name": "ARMOURED CABLE-(POWER)",
+        "list_of_product_ids": "8891,8910,8938,8942,8950,8946,8954,9083,9087,9091,9095,9099,23875,24038,24687,24728,24957,27122,27117,27126,27130,27134,27161,27166,27171,27180,27284,27336,27357,27397,27432,27519,27525,27538,27543,27552,27579,27637,27645,27681,27672,27770,27788,27809,27899,27916,27961,28027,28079,28068,28144,28114,28110,28106,28270,28282,28294,28290,28349,28384,28380,28412,28420,28457,28454,28465,28497,28513,39980,39981,39982,39983,40102,40105,40106,40103,40104,40107,40108,40109",
+        "core_id": 130.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.8472645,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-694e9b22-1590-52c8-9da7-95e6af8ae4f3",
+      "score": 0.84639955,
+      "metadata": {
+        "text": "core_product_name: terminal strip",
+        "raw_product_name": "TERMINAL STRIPS",
+        "list_of_product_ids": "1,400,220,181",
+        "core_id": 2231.0
+      }
+    },
+    {
+      "id": "variant-e516e659-612c-582a-b731-007fc95acd57",
+      "score": 0.84317356,
+      "metadata": {
+        "text": "core_product_name: level switch | protection_features: Explosion Proof",
+        "raw_product_name": "Level Switches (Explosion Proof)",
+        "list_of_product_ids": "17095,17094,17093,17092,17091,17090,17096,27177",
+        "core_id": 1337.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.8431552,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-035e5d74-4fc0-5854-ace0-4826f9b36c25",
+      "score": 0.8429411,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+        "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+        "list_of_product_ids": "19885,19880,24078,23930,27348",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-5f6025f4-d869-56e7-bced-6488b91fa952",
+      "score": 0.8426617,
+      "metadata": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": "6444,5614,11000,12263,12344,15781,23866,24503",
+        "core_id": 282.0
+      }
+    },
+    {
+      "id": "variant-b722d3a4-0ea7-52cf-9586-094ccbee23e0",
+      "score": 0.84132564,
+      "metadata": {
+        "text": "core_product_name: screened cable | special_attributes: Screened cable",
+        "raw_product_name": "SCREENED CABLES",
+        "list_of_product_ids": "13881,14838,15808,20059,20100,24067,23919",
+        "core_id": 1976.0
+      }
+    },
+    {
+      "id": "variant-559c3a2e-c5b7-59ae-a285-f76553e6dc59",
+      "score": 0.8402678,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | type_or_class: Paired",
+        "raw_product_name": "INSTRUMENTATION CABLES (PAIRED)",
+        "list_of_product_ids": "19886,19882,24079,23913,27347",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-9a080055-e276-5571-82e8-315abf8f1400",
+      "score": 0.8402481,
+      "metadata": {
+        "text": "core_product_name: fire-retardant coating | protection_features: Fire-retardant",
+        "raw_product_name": "Fire-Retardant Coatings",
+        "list_of_product_ids": "15699,17472,27183,15891",
+        "core_id": 1001.0
+      }
+    },
+    {
+      "id": "variant-086b9eed-56e2-5efe-b5a1-8607125d7cf1",
+      "score": 0.840051,
+      "metadata": {
+        "text": "core_product_name: hinged closure",
+        "raw_product_name": "HINGED CLOSURES",
+        "list_of_product_ids": "16126,16175,17330,17551,36725,34728,34730,34754,34851",
+        "core_id": 1134.0
+      }
+    },
+    {
+      "id": "variant-1e93b9e7-82e4-50d9-8b21-b403c01d688f",
+      "score": 0.83987445,
+      "metadata": {
+        "text": "core_product_name: surge barrier",
+        "raw_product_name": "SURGE BARRIER",
+        "list_of_product_ids": "83,971,395,122,382",
+        "core_id": 2158.0
+      }
+    },
+    {
+      "id": "variant-10dc0a41-9ee6-56ed-9d8e-405a29cccb61",
+      "score": 0.83968747,
+      "metadata": {
+        "text": "core_product_name: studded tube",
+        "raw_product_name": "TUBE-STUDDED",
+        "list_of_product_ids": "5,991,517,017,614",
+        "core_id": 2285.0
+      }
+    },
+    {
+      "id": "variant-72eec985-31f4-579d-8d75-17ce3f807158",
+      "score": 0.83962446,
+      "metadata": {
+        "text": "core_product_name: terminal block",
+        "raw_product_name": "TERMINAL BLOCKS",
+        "list_of_product_ids": "5940,6769,12287,11388,8256,9278,17855,18812",
+        "core_id": 2228.0
+      }
+    },
+    {
+      "id": "variant-7a81ebd3-21d8-54a3-a240-c819d8c11843",
+      "score": 0.83954364,
+      "metadata": {
+        "text": "core_product_name: quick opening end closure",
+        "raw_product_name": "QUICK OPENING END CLOSURE",
+        "list_of_product_ids": "15436,18787,22338,36605,34856",
+        "core_id": 1851.0
+      }
+    },
+    {
+      "id": "variant-92f48f61-cb6b-5d84-b93e-c8e5438b972e",
+      "score": 0.8393653,
+      "metadata": {
+        "text": "core_product_name: casing spacer",
+        "raw_product_name": "CASING SPACER",
+        "list_of_product_ids": "17535,17536,18674,37788",
+        "core_id": 303.0
+      }
+    },
+    {
+      "id": "variant-ba3d7620-8f6f-5c5a-bdc1-21d5c6b75b6f",
+      "score": 0.83802825,
+      "metadata": {
+        "text": "core_product_name: insulation material",
+        "raw_product_name": "INSULATION MATERIAL",
+        "list_of_product_ids": "10251,10256,10261,10266,10273,10278,10281,7088,7415,10172,10221,10226,10230,10234,10240,10245,11862,13008,38431,33383",
+        "core_id": 1274.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.83802104,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    },
+    {
+      "id": "variant-f738e894-86c9-56df-9ce8-d404ffa6bc11",
+      "score": 0.83792096,
+      "metadata": {
+        "text": "core_product_name: support structure",
+        "raw_product_name": "GANTRY AND EQUIPMENT SUPPORT STRUCTURE",
+        "list_of_product_ids": "17432,17331,17332,17347,17351,17358,17370,17376,17382,17400,17423,17424,17442,17449,17454,17521,17519,17648,17655,17706,17693,18666,17537,17710,32192,35981,35988",
+        "core_id": 127.0
+      }
+    },
+    {
+      "id": "variant-dac42c0a-0a7d-5664-acb4-16aea5159e6b",
+      "score": 0.83784336,
+      "metadata": {
+        "text": "core_product_name: bolted structural item",
+        "raw_product_name": "STRUCTURAL ITEM (BOLTED)",
+        "list_of_product_ids": "173,371,733,527,207",
+        "core_id": 2135.0
+      }
+    },
+    {
+      "id": "variant-fb879217-9876-5ce0-86f6-605e1593cb4e",
+      "score": 0.8376499,
+      "metadata": {
+        "text": "core_product_name: diaphragm closure",
+        "raw_product_name": "DIAPHRAGM CLOSURE",
+        "list_of_product_ids": "19131,19138,19139,38481",
+        "core_id": 583.0
+      }
+    },
+    {
+      "id": "variant-a7d2b295-3c75-5281-8b64-3fad9e909e1f",
+      "score": 0.83760333,
+      "metadata": {
+        "text": "core_product_name: firewall",
+        "raw_product_name": "FIREWALL",
+        "list_of_product_ids": "59,446,773",
+        "core_id": 865.0
+      }
+    },
+    {
+      "id": "variant-59dd3339-fe74-56b7-802a-213aacb4499a",
+      "score": 0.8375024,
+      "metadata": {
+        "text": "core_product_name: end cap",
+        "raw_product_name": "END CAP",
+        "list_of_product_ids": "15480",
+        "core_id": 745.0
+      }
+    },
+    {
+      "id": "variant-586b6551-e972-51be-9dc2-c289ca4b72d1",
+      "score": 0.8373857,
+      "metadata": {
+        "text": "core_product_name: membrane unit",
+        "raw_product_name": "MEMBRANE UNIT",
+        "list_of_product_ids": "2,450,226,824",
+        "core_id": 1459.0
+      }
+    },
+    {
+      "id": "variant-d6bd5af0-e587-5d61-ba1a-b007d6c39165",
+      "score": 0.8370785,
+      "metadata": {
+        "text": "core_product_name: acoustic insulation",
+        "raw_product_name": "ACOUSTIC INSULATION",
+        "list_of_product_ids": "15674,15675,15676,15673,27988",
+        "core_id": 37.0
+      }
+    },
+    {
+      "id": "variant-4ee544d6-0f39-5064-8d24-8c48472ff71a",
+      "score": 0.8370463,
+      "metadata": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": "5954,6782,12132,14671,14679,18191,20174,36159",
+        "core_id": 2156.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.8369154,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    }
+  ]
+}

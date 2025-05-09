@@ -1,0 +1,594 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.88941413,
+      "text": "core_product_name: deluge valve",
+      "core_id": 565.0,
+      "raw_product_name": "DELUGE VALVE",
+      "list_of_product_ids": [
+        "6385",
+        "5556",
+        "6997",
+        "7010",
+        "9956",
+        "9957",
+        "8289",
+        "8298",
+        "8735",
+        "8882",
+        "8922",
+        "8926",
+        "8930",
+        "8957",
+        "9063",
+        "9068",
+        "9073",
+        "9103",
+        "9146",
+        "12394",
+        "18887",
+        "18933",
+        "23761",
+        "24221",
+        "22765",
+        "22793"
+      ]
+    },
+    {
+      "retrieval_score": 0.88858414,
+      "text": "core_product_name: deluge valve | type_or_class: Diaphragm",
+      "core_id": 565.0,
+      "raw_product_name": "DELUGE VALVE (DIAPHRAGM)",
+      "list_of_product_ids": [
+        "28285",
+        "28287",
+        "28297",
+        "28410",
+        "35575"
+      ]
+    },
+    {
+      "retrieval_score": 0.8813519,
+      "text": "core_product_name: solenoid valve",
+      "core_id": 2061.0,
+      "raw_product_name": "SOLENOID VALVES",
+      "list_of_product_ids": [
+        "6490",
+        "5661",
+        "11653",
+        "11670",
+        "11456",
+        "11454",
+        "8822",
+        "9136",
+        "12122",
+        "12126",
+        "12138",
+        "12145",
+        "12137",
+        "12176",
+        "12175",
+        "12206",
+        "12207",
+        "17141",
+        "17142",
+        "18479",
+        "18900",
+        "18944",
+        "23735",
+        "22264",
+        "36629",
+        "31448",
+        "36947",
+        "37248",
+        "36688",
+        "40244",
+        "40297"
+      ]
+    },
+    {
+      "retrieval_score": 0.8781,
+      "text": "core_product_name: pressure transmitter",
+      "core_id": 1778.0,
+      "raw_product_name": "PRESSURE TRANSMITTER",
+      "list_of_product_ids": [
+        "10037",
+        "10038",
+        "10043",
+        "10159",
+        "10626",
+        "9515",
+        "9555",
+        "36531",
+        "15313",
+        "17103",
+        "17110",
+        "18208",
+        "24110",
+        "19474",
+        "20012",
+        "20022",
+        "20017",
+        "35953",
+        "36165",
+        "36313",
+        "36510"
+      ]
+    },
+    {
+      "retrieval_score": 0.8734669,
+      "text": "core_product_name: differential pressure transmitter",
+      "core_id": 589.0,
+      "raw_product_name": "DIFFERENTIAL PRESSURE TRANSMITTER",
+      "list_of_product_ids": [
+        "10006",
+        "10015",
+        "10039",
+        "15083",
+        "18209",
+        "19852",
+        "36178",
+        "36326"
+      ]
+    },
+    {
+      "retrieval_score": 0.87276137,
+      "text": "core_product_name: flow transmitter | type_or_class: DP (Differential Pressure) based",
+      "core_id": 942.0,
+      "raw_product_name": "FLOW TRANSMITTER(DP BASED)",
+      "list_of_product_ids": [
+        "1",
+        "363",
+        "920",
+        "932"
+      ]
+    },
+    {
+      "retrieval_score": 0.87223756,
+      "text": "core_product_name: flow transmitter",
+      "core_id": 942.0,
+      "raw_product_name": "FLOW TRANSMITTER",
+      "list_of_product_ids": [
+        "134",
+        "391",
+        "821",
+        "036",
+        "513"
+      ]
+    },
+    {
+      "retrieval_score": 0.8722106,
+      "text": "core_product_name: pressure relief valve",
+      "core_id": 1776.0,
+      "raw_product_name": "PRESSURE RELIEF VALVE",
+      "list_of_product_ids": [
+        "6492",
+        "5663",
+        "11547",
+        "10292",
+        "10320",
+        "10698",
+        "8344",
+        "8601",
+        "8932",
+        "9075",
+        "12223",
+        "12712",
+        "12713",
+        "12714",
+        "12785",
+        "12776",
+        "13174",
+        "13200",
+        "13327",
+        "16836",
+        "17528",
+        "17631",
+        "17802",
+        "18044",
+        "21313",
+        "21320",
+        "28809",
+        "36592",
+        "35687",
+        "35699",
+        "36147",
+        "36150",
+        "36166",
+        "36297",
+        "36314",
+        "36434",
+        "40007"
+      ]
+    },
+    {
+      "retrieval_score": 0.87082404,
+      "text": "core_product_name: pressure reducing valve",
+      "core_id": 1774.0,
+      "raw_product_name": "PRESSURE REDUCING VALVE",
+      "list_of_product_ids": [
+        "9998",
+        "10023",
+        "10223",
+        "13173",
+        "13389",
+        "17852",
+        "17906",
+        "17904",
+        "18046",
+        "22681",
+        "23085",
+        "23331",
+        "36634",
+        "40239"
+      ]
+    },
+    {
+      "retrieval_score": 0.8695346,
+      "text": "core_product_name: pressure control valve",
+      "core_id": 1770.0,
+      "raw_product_name": "PRESSURE CONTROL VALVE",
+      "list_of_product_ids": [
+        "14378",
+        "14380",
+        "16837",
+        "17055",
+        "17085",
+        "17627",
+        "17851",
+        "17905",
+        "17903",
+        "18055",
+        "18045",
+        "18036",
+        "18233",
+        "20949",
+        "21592",
+        "21600",
+        "21661",
+        "22355",
+        "23084",
+        "23330",
+        "10654",
+        "10876",
+        "36298",
+        "36435",
+        "40310"
+      ]
+    },
+    {
+      "retrieval_score": 0.8658885,
+      "text": "core_product_name: pressure regulator",
+      "core_id": 1773.0,
+      "raw_product_name": "PRESSURE REGULATOR",
+      "list_of_product_ids": [
+        "13868",
+        "15346",
+        "15351",
+        "15356"
+      ]
+    },
+    {
+      "retrieval_score": 0.8651537,
+      "text": "core_product_name: surge relief valve",
+      "core_id": 2159.0,
+      "raw_product_name": "SURGE RELIEF VALVE",
+      "list_of_product_ids": [
+        "6505",
+        "5676",
+        "12130",
+        "22347",
+        "28768"
+      ]
+    },
+    {
+      "retrieval_score": 0.8643442,
+      "text": "core_product_name: hydraulic valve",
+      "core_id": 1204.0,
+      "raw_product_name": "HYDRAULIC VALVE",
+      "list_of_product_ids": [
+        "21877",
+        "21875",
+        "21873",
+        "21872",
+        "27929"
+      ]
+    },
+    {
+      "retrieval_score": 0.8639563,
+      "text": "core_product_name: pressure indicating controller",
+      "core_id": 1772.0,
+      "raw_product_name": "PRESSURE INDICATING CONTROLLERS",
+      "list_of_product_ids": [
+        "17056",
+        "17059",
+        "17058",
+        "17057",
+        "28751",
+        "36365",
+        "40118"
+      ]
+    },
+    {
+      "retrieval_score": 0.86377877,
+      "text": "core_product_name: check valve | operating_conditions: LP (Low Pressure) application",
+      "core_id": 340.0,
+      "raw_product_name": "Valves check for LP application",
+      "list_of_product_ids": [
+        "8343"
+      ]
+    },
+    {
+      "retrieval_score": 0.86377877,
+      "text": "core_product_name: check valve | operating_conditions: LP (Low Pressure) application",
+      "core_id": 340.0,
+      "raw_product_name": "Valve check for LP application",
+      "list_of_product_ids": [
+        "14071",
+        "14931",
+        "22241",
+        "22353"
+      ]
+    },
+    {
+      "retrieval_score": 0.8630551,
+      "text": "core_product_name: pressure vessel",
+      "core_id": 1779.0,
+      "raw_product_name": "PRESSURE VESSELS",
+      "list_of_product_ids": [
+        "7036",
+        "7363",
+        "11704",
+        "11496",
+        "12043",
+        "12853",
+        "13000",
+        "15855",
+        "17342",
+        "17386",
+        "17845",
+        "22795",
+        "36649",
+        "26140",
+        "33998",
+        "33997",
+        "37074",
+        "35786",
+        "35998",
+        "36076",
+        "36282",
+        "36288"
+      ]
+    },
+    {
+      "retrieval_score": 0.86299205,
+      "text": "core_product_name: ventilation and pressurisation system",
+      "core_id": 2387.0,
+      "raw_product_name": "VENTILATION & PRESSURISATION SYSTEM",
+      "list_of_product_ids": [
+        "7018",
+        "7338",
+        "10205",
+        "10822",
+        "24144",
+        "24146",
+        "22515",
+        "19672"
+      ]
+    },
+    {
+      "retrieval_score": 0.8628671,
+      "text": "core_product_name: flow duct",
+      "core_id": 637.0,
+      "raw_product_name": "DUCT (FLOW)",
+      "list_of_product_ids": [
+        "21027",
+        "21026",
+        "21020",
+        "36684",
+        "27258"
+      ]
+    },
+    {
+      "retrieval_score": 0.86245304,
+      "text": "core_product_name: high pressure valve | operating_conditions: High Pressure",
+      "core_id": 1132.0,
+      "raw_product_name": "HIGH PRESSURE VALVE",
+      "list_of_product_ids": [
+        "14409",
+        "14403",
+        "14561",
+        "14562",
+        "14569",
+        "14570",
+        "22243",
+        "37039"
+      ]
+    },
+    {
+      "retrieval_score": 0.8621726,
+      "text": "core_product_name: fluid power equipment",
+      "core_id": 949.0,
+      "raw_product_name": "FLUID POWER EQUIPMENT",
+      "list_of_product_ids": [
+        "1",
+        "364",
+        "936",
+        "946"
+      ]
+    },
+    {
+      "retrieval_score": 0.86216754,
+      "text": "core_product_name: actuator | accessories_or_attachments: for valves | operating_conditions: subsea",
+      "core_id": 40.0,
+      "raw_product_name": "Actuators for Valves (Subsea)",
+      "list_of_product_ids": [
+        "19159",
+        "19036",
+        "19035",
+        "38579",
+        "36227",
+        "36379"
+      ]
+    },
+    {
+      "retrieval_score": 0.8619734,
+      "text": "core_product_name: pressure control regulator",
+      "core_id": 1769.0,
+      "raw_product_name": "PRESSURE CONTROL REGULATOR",
+      "list_of_product_ids": [
+        "13867",
+        "15347",
+        "15352",
+        "15357"
+      ]
+    },
+    {
+      "retrieval_score": 0.8618776,
+      "text": "core_product_name: pressure safety valve | type_or_class: Pressure Safety",
+      "core_id": 1775.0,
+      "raw_product_name": "PRESSURE SAFETY VALVE",
+      "list_of_product_ids": [
+        "7102",
+        "7429",
+        "10291",
+        "10627",
+        "10621",
+        "10622",
+        "8332",
+        "8607",
+        "12224",
+        "19698",
+        "22680",
+        "36161",
+        "36296",
+        "36309",
+        "36433"
+      ]
+    },
+    {
+      "retrieval_score": 0.86178136,
+      "text": "core_product_name: special control valve | type_or_class: Segmental",
+      "core_id": 2075.0,
+      "raw_product_name": "SPECIAL CONTROL VALVES (SEGMENTAL)",
+      "list_of_product_ids": [
+        "6507",
+        "5678",
+        "8709",
+        "28773",
+        "28781",
+        "28780",
+        "28779",
+        "28778",
+        "28777",
+        "28776",
+        "28775",
+        "28774",
+        "36265",
+        "36418"
+      ]
+    },
+    {
+      "retrieval_score": 0.8617413,
+      "text": "core_product_name: globe valve | operating_conditions: LP (Low Pressure) application",
+      "core_id": 1062.0,
+      "raw_product_name": "Valve globe for LP application",
+      "list_of_product_ids": [
+        "14081",
+        "14929",
+        "22239",
+        "22351",
+        "35567"
+      ]
+    },
+    {
+      "retrieval_score": 0.86170316,
+      "text": "core_product_name: gate valve | operating_conditions: LP (Low Pressure) application",
+      "core_id": 1041.0,
+      "raw_product_name": "Valve gate for LP application",
+      "list_of_product_ids": [
+        "14074",
+        "14930",
+        "22240",
+        "22352",
+        "35540"
+      ]
+    },
+    {
+      "retrieval_score": 0.86099654,
+      "text": "core_product_name: valve plug",
+      "core_id": 2365.0,
+      "raw_product_name": "VALVE PLUG",
+      "list_of_product_ids": [
+        "6258",
+        "5427",
+        "11546",
+        "11540",
+        "7825",
+        "11543",
+        "7831",
+        "11250",
+        "7867",
+        "7849",
+        "7857",
+        "7836",
+        "7838",
+        "8391",
+        "12657",
+        "15484",
+        "18068",
+        "19713",
+        "31743",
+        "36588",
+        "35579",
+        "36139",
+        "39755",
+        "40004",
+        "40146"
+      ]
+    },
+    {
+      "retrieval_score": 0.860929,
+      "text": "core_product_name: special control valve",
+      "core_id": 2075.0,
+      "raw_product_name": "SPECIAL CONTROL VALVES",
+      "list_of_product_ids": [
+        "13990",
+        "18539",
+        "23763",
+        "22458",
+        "22425",
+        "22487",
+        "22480",
+        "38452",
+        "40026"
+      ]
+    },
+    {
+      "retrieval_score": 0.86071473,
+      "text": "core_product_name: self actuated control valve | type_or_class: Pressure (PR.) Control",
+      "core_id": 1993.0,
+      "raw_product_name": "SELF ACTUATED PR.CONTROL VALVES",
+      "list_of_product_ids": [
+        "6495",
+        "5666",
+        "11663",
+        "11800",
+        "11717",
+        "11923",
+        "11926",
+        "11924",
+        "11925",
+        "12141",
+        "12912",
+        "13070",
+        "17902",
+        "23638",
+        "28160",
+        "28158",
+        "28165",
+        "28162"
+      ]
+    }
+  ]
+}

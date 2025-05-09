@@ -1,0 +1,487 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.89391375,
+      "text": "core_product_name: main lighting distribution board | acronymed_core_product_name: MLDB (Main Lighting Distribution Board)",
+      "core_id": 1487.0,
+      "raw_product_name": "MLDB",
+      "list_of_product_ids": [
+        "15386",
+        "13768",
+        "14606",
+        "14779",
+        "17931",
+        "17918",
+        "17893",
+        "17950",
+        "17940",
+        "17945",
+        "18027",
+        "18009",
+        "18050",
+        "19060",
+        "19661"
+      ]
+    },
+    {
+      "retrieval_score": 0.8755645,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (ldb (lighting distribution board))",
+      "core_id": 20.0,
+      "raw_product_name": "A.C. DISTRIBUTION BOARD (LDB)",
+      "list_of_product_ids": [
+        "14163",
+        "14793",
+        "14812",
+        "19307"
+      ]
+    },
+    {
+      "retrieval_score": 0.8729871,
+      "text": "core_product_name: lightning distribution board | acronymed_core_product_name: ldb (lightning distribution board)",
+      "core_id": 1357.0,
+      "raw_product_name": "LIGHTNING DISTRIBUTION BOARD/LDB",
+      "list_of_product_ids": [
+        "10002",
+        "10019",
+        "10242",
+        "15385",
+        "14605",
+        "14777",
+        "14808",
+        "17874",
+        "17933",
+        "17919",
+        "17894",
+        "17951",
+        "17941",
+        "17944",
+        "18029",
+        "18010",
+        "18051",
+        "19660",
+        "19141"
+      ]
+    },
+    {
+      "retrieval_score": 0.8585407,
+      "text": "core_product_name: flame proof local distribution board | acronymed_core_product_name: ldb (local distribution board) | protection_features: Flame proof",
+      "core_id": 889.0,
+      "raw_product_name": "FLAME PROOF LDB’S",
+      "list_of_product_ids": [
+        "13570",
+        "22218",
+        "22257",
+        "22862",
+        "35778"
+      ]
+    },
+    {
+      "retrieval_score": 0.8577624,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (pdb (power distribution board))",
+      "core_id": 20.0,
+      "raw_product_name": "A.C. DISTRIBUTION BOARD (PDB)",
+      "list_of_product_ids": [
+        "14164",
+        "14792",
+        "14811",
+        "19308"
+      ]
+    },
+    {
+      "retrieval_score": 0.8523545,
+      "text": "core_product_name: power distribution board | acronymed_core_product_name: pdb (power distribution board)",
+      "core_id": 1743.0,
+      "raw_product_name": "POWER DISTRIBUTION BOARD (PDB)",
+      "list_of_product_ids": [
+        "13892",
+        "14644",
+        "14778",
+        "14809",
+        "17930",
+        "17917",
+        "17892",
+        "17949",
+        "17939",
+        "18026",
+        "18008",
+        "18049",
+        "20762",
+        "20761",
+        "27494"
+      ]
+    },
+    {
+      "retrieval_score": 0.8514735,
+      "text": "core_product_name: sub lighting distribution board",
+      "core_id": 2143.0,
+      "raw_product_name": "SUB LIGHTING DISTRIBUTION BOARD",
+      "list_of_product_ids": [
+        "19061",
+        "19062",
+        "19056",
+        "36641"
+      ]
+    },
+    {
+      "retrieval_score": 0.85046905,
+      "text": "core_product_name: fixed switchboard | acronymed_core_product_name: switchboard-mv | type_or_class: Medium Voltage (MV) | type_or_class: Motor Control Center (MCC) or Automatic Switchboard (ASB) or Lighting Distribution Board (LDB)",
+      "core_id": 2175.0,
+      "raw_product_name": "SWITCHBOARD-MV:MCC/ASB/LDB-FIXED TYPE",
+      "list_of_product_ids": [
+        "19303",
+        "19302",
+        "19301",
+        "19253",
+        "19347",
+        "19304",
+        "19306",
+        "19256",
+        "21373",
+        "21358",
+        "21354",
+        "24425",
+        "24427",
+        "26856"
+      ]
+    },
+    {
+      "retrieval_score": 0.84900546,
+      "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+      "core_id": 559.0,
+      "raw_product_name": "DCDB",
+      "list_of_product_ids": [
+        "15387",
+        "13587",
+        "14607",
+        "14780",
+        "19662",
+        "21388",
+        "36160"
+      ]
+    },
+    {
+      "retrieval_score": 0.84836876,
+      "text": "core_product_name: lighting and power distribution panel",
+      "core_id": 1413.0,
+      "raw_product_name": "Lighting & Power Distribution Panel",
+      "list_of_product_ids": [
+        "18723",
+        "18718",
+        "18735",
+        "18734",
+        "18733",
+        "19012",
+        "18997",
+        "18728",
+        "19000",
+        "38293",
+        "35861",
+        "38156"
+      ]
+    },
+    {
+      "retrieval_score": 0.84698623,
+      "text": "core_product_name: intelligent battery charger | acronymed_core_product_name: dcdb (direct current distribution board) | size_or_capacity: 24V DC (24 Volt Direct Current)",
+      "core_id": 1304.0,
+      "raw_product_name": "Intelligent Battery charger 24V DC DCDB",
+      "list_of_product_ids": [
+        "1",
+        "375",
+        "215",
+        "290"
+      ]
+    },
+    {
+      "retrieval_score": 0.8466739,
+      "text": "core_product_name: flameproof lighting and distribution board | protection_features: Flameproof",
+      "core_id": 895.0,
+      "raw_product_name": "FLAMEPROOF LIGHTING & DISTRIBUTION BOARD",
+      "list_of_product_ids": [
+        "13578",
+        "14601",
+        "14847",
+        "24098"
+      ]
+    },
+    {
+      "retrieval_score": 0.8426751,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: ac (alternating current) distribution board | type_or_class: AC (Alternating Current)",
+      "core_id": 20.0,
+      "raw_product_name": "AC Distribution Board",
+      "list_of_product_ids": [
+        "18726",
+        "18724",
+        "18719",
+        "18740",
+        "18739",
+        "18736",
+        "19011",
+        "18998",
+        "19001",
+        "38292",
+        "36556",
+        "35863",
+        "38152"
+      ]
+    },
+    {
+      "retrieval_score": 0.84145045,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: dc (direct current) distribution board | type_or_class: DC (Direct Current)",
+      "core_id": 20.0,
+      "raw_product_name": "DC Distribution Board",
+      "list_of_product_ids": [
+        "18727",
+        "18725",
+        "18720",
+        "18741",
+        "18738",
+        "18737",
+        "19010",
+        "18999",
+        "19002",
+        "36555",
+        "38291",
+        "35862",
+        "38153"
+      ]
+    },
+    {
+      "retrieval_score": 0.839877,
+      "text": "core_product_name: inside panel | acronymed_core_product_name: mcb (miniature circuit breaker) panel | type_or_class: Flush type only",
+      "core_id": 1448.0,
+      "raw_product_name": "MCB Inside Panels (Flush type only)",
+      "list_of_product_ids": [
+        "1",
+        "371",
+        "214",
+        "885"
+      ]
+    },
+    {
+      "retrieval_score": 0.839769,
+      "text": "core_product_name: miniature circuit breaker | acronymed_core_product_name: mcb",
+      "core_id": 1446.0,
+      "raw_product_name": "MCB",
+      "list_of_product_ids": [
+        "6462",
+        "5633",
+        "10157",
+        "10663",
+        "9350",
+        "9447",
+        "9151",
+        "9187",
+        "9219",
+        "9361",
+        "11905",
+        "11944",
+        "17873",
+        "19028",
+        "19645",
+        "19652",
+        "20775",
+        "21203",
+        "19140",
+        "38290",
+        "36563"
+      ]
+    },
+    {
+      "retrieval_score": 0.83867687,
+      "text": "core_product_name: power cable | acronymed_core_product_name: lt (low tension) power cable | size_or_capacity: 1.1 kV (kilovolt) | type_or_class: LT (Low Tension)",
+      "core_id": 3.0,
+      "raw_product_name": "1.1 KV LT POWER CABLES",
+      "list_of_product_ids": [
+        "14145",
+        "14823",
+        "14829",
+        "14842",
+        "24049",
+        "23900"
+      ]
+    },
+    {
+      "retrieval_score": 0.8386015,
+      "text": "core_product_name: molded case circuit breaker | acronymed_core_product_name: MCCB (Molded Case Circuit Breaker)",
+      "core_id": 1449.0,
+      "raw_product_name": "MCCB",
+      "list_of_product_ids": [
+        "6463",
+        "5634",
+        "10536",
+        "10191",
+        "9351",
+        "9152",
+        "9154",
+        "11938",
+        "19030",
+        "19029",
+        "20774",
+        "21202",
+        "36564",
+        "38080"
+      ]
+    },
+    {
+      "retrieval_score": 0.8380371,
+      "text": "core_product_name: light emitting diode (LED) display | acronymed_core_product_name: LED display | size_or_capacity: 40” or more",
+      "core_id": 1329.0,
+      "raw_product_name": "LED display (40” or more)",
+      "list_of_product_ids": [
+        "7",
+        "077",
+        "740",
+        "411",
+        "850"
+      ]
+    },
+    {
+      "retrieval_score": 0.8355444,
+      "text": "core_product_name: cable | size_or_capacity: 132kV (132 kilovolt) | material: XLPE (cross-linked polyethylene)",
+      "core_id": 1.0,
+      "raw_product_name": "132kV CABLE XLPE",
+      "list_of_product_ids": [
+        "14146",
+        "15782",
+        "20052",
+        "24050",
+        "23901"
+      ]
+    },
+    {
+      "retrieval_score": 0.83470654,
+      "text": "core_product_name: cable | size_or_capacity: 220 kV (kilovolt) | material: XLPE (cross-linked polyethylene)",
+      "core_id": 1.0,
+      "raw_product_name": "220 kV CABLE XLPE",
+      "list_of_product_ids": [
+        "14151",
+        "15785",
+        "20056",
+        "24051",
+        "23902"
+      ]
+    },
+    {
+      "retrieval_score": 0.83445454,
+      "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups | accessories_or_attachments: acdb (alternating current distribution board)",
+      "core_id": 2316.0,
+      "raw_product_name": "UPS With ACDB",
+      "list_of_product_ids": [
+        "1",
+        "419",
+        "636",
+        "134"
+      ]
+    },
+    {
+      "retrieval_score": 0.8342033,
+      "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+      "core_id": 899.0,
+      "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+      "list_of_product_ids": [
+        "13583",
+        "14851",
+        "20281",
+        "22858",
+        "26788",
+        "26787",
+        "26786",
+        "26789",
+        "35773"
+      ]
+    },
+    {
+      "retrieval_score": 0.83266205,
+      "text": "core_product_name: distribution transformer | size_or_capacity: up to 5 MVA (Mega Volt Ampere)",
+      "core_id": 606.0,
+      "raw_product_name": "TRANSFORMERS-DISTRIBUTION-UPTO 5MVA",
+      "list_of_product_ids": [
+        "6409",
+        "5580",
+        "7925",
+        "24550",
+        "24549",
+        "24548",
+        "24547"
+      ]
+    },
+    {
+      "retrieval_score": 0.83259726,
+      "text": "core_product_name: emergency lighting system",
+      "core_id": 740.0,
+      "raw_product_name": "EMERGENCY LIGHTING SYSTEM",
+      "list_of_product_ids": [
+        "3",
+        "216",
+        "232",
+        "163"
+      ]
+    },
+    {
+      "retrieval_score": 0.83204794,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    },
+    {
+      "retrieval_score": 0.83119553,
+      "text": "core_product_name: high tension (HT) switchboard | acronymed_core_product_name: ht switchboard | size_or_capacity: 33 kV | size_or_capacity: 6.6 kV",
+      "core_id": 1177.0,
+      "raw_product_name": "HT SWITCHBOARD (33 kV & 6.6 Kv)",
+      "list_of_product_ids": [
+        "136",
+        "661",
+        "810",
+        "923",
+        "143"
+      ]
+    },
+    {
+      "retrieval_score": 0.8311549,
+      "text": "core_product_name: cable | size_or_capacity: 11KV (11 kiloVolt) | material: XLPE (Cross Linked Polyethylene)",
+      "core_id": 1.0,
+      "raw_product_name": "11KV CABLE XLPE",
+      "list_of_product_ids": [
+        "23938",
+        "24087",
+        "21515",
+        "27081"
+      ]
+    },
+    {
+      "retrieval_score": 0.8310424,
+      "text": "core_product_name: lt (low tension) control panel | acronymed_core_product_name: vfd (variable frequency drive) control panel | type_or_class: VFD (Variable Frequency Drive)",
+      "core_id": 1401.0,
+      "raw_product_name": "LT VFD Control Panel",
+      "list_of_product_ids": [
+        "7621",
+        "7295",
+        "7890",
+        "24830",
+        "24818",
+        "24933",
+        "24944"
+      ]
+    },
+    {
+      "retrieval_score": 0.83046997,
+      "text": "core_product_name: lighting transformer",
+      "core_id": 635.0,
+      "raw_product_name": "LIGHTING TRANSFORMERS",
+      "list_of_product_ids": [
+        "17731",
+        "17727",
+        "18659",
+        "19486",
+        "35388"
+      ]
+    }
+  ]
+}

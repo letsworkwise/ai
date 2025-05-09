@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: earth pit | feature_or_specifications: application: instrument earth pit (iep)",
+  "retrieval_results": [
+    {
+      "id": "variant-c877b74e-265d-5bd4-bb90-01b78c749417",
+      "score": 0.87958896,
+      "metadata": {
+        "text": "core_product_name: instrumentation earthing",
+        "raw_product_name": "INSTRUMENTATION EARTHING",
+        "list_of_product_ids": "13420",
+        "core_id": 1263.0
+      }
+    },
+    {
+      "id": "variant-9cab3a59-4c3f-5408-9e1e-d68d6a3b5435",
+      "score": 0.86157525,
+      "metadata": {
+        "text": "core_product_name: earthing material",
+        "raw_product_name": "EARTHING MATERIALS",
+        "list_of_product_ids": "378,733,788,037,898",
+        "core_id": 672.0
+      }
+    },
+    {
+      "id": "variant-7b84b9d7-6c76-5b4d-9aaf-d57ecafe4b91",
+      "score": 0.8600404,
+      "metadata": {
+        "text": "core_product_name: electrical-instrumentation work",
+        "raw_product_name": "ELECTRICAL-INSTRUMENTATION WORKS",
+        "list_of_product_ids": "36860,36857,36888,36892",
+        "core_id": 711.0
+      }
+    },
+    {
+      "id": "variant-1021c327-1f23-56c6-a5b2-2af09e1e62e1",
+      "score": 0.85972625,
+      "metadata": {
+        "text": "core_product_name: instrument tubing",
+        "raw_product_name": "INSTRUMENT TUBING",
+        "list_of_product_ids": "6476,5647,10324,10217,10680,10682,10685,12053,12684,12686,18270,18269,21301,37132",
+        "core_id": 1260.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.859298,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-60cc1389-d2d7-5796-b91e-9be0cfc16c55",
+      "score": 0.8588484,
+      "metadata": {
+        "text": "core_product_name: instrumentation fitting",
+        "raw_product_name": "INSTRUMENTATION FITTINGS",
+        "list_of_product_ids": "14372,17508,17507,17506,17505,17504,17501,17500,17496,17958,17960",
+        "core_id": 1264.0
+      }
+    },
+    {
+      "id": "variant-cf23d18a-3fb3-5ab5-b22b-a3778ac1d5c7",
+      "score": 0.85771483,
+      "metadata": {
+        "text": "core_product_name: soil pipe",
+        "raw_product_name": "SOIL PIPES",
+        "list_of_product_ids": "20572,20534,20613,20618,20667,20725",
+        "core_id": 2054.0
+      }
+    },
+    {
+      "id": "variant-f3d46fcc-8afe-5f59-bd1b-387625c7bbe3",
+      "score": 0.8575934,
+      "metadata": {
+        "text": "core_product_name: instrument",
+        "raw_product_name": "RECEIVER INSTRUMENTS",
+        "list_of_product_ids": "6595,5765,10075,12200",
+        "core_id": 455.0
+      }
+    },
+    {
+      "id": "variant-0ee1aa14-9a13-5dbd-a3a8-147acff9cc2f",
+      "score": 0.8575278,
+      "metadata": {
+        "text": "core_product_name: instrument",
+        "raw_product_name": "CONTROL PANEL INSTRUMENT",
+        "list_of_product_ids": "2,030,420,309",
+        "core_id": 455.0
+      }
+    },
+    {
+      "id": "variant-570dd362-8a6f-5a8d-a554-0921ccded779",
+      "score": 0.857459,
+      "metadata": {
+        "text": "core_product_name: instrument",
+        "raw_product_name": "INSTRUMENT",
+        "list_of_product_ids": "13707,15297,15303,18441,20437,20411,24278,37920",
+        "core_id": 455.0
+      }
+    },
+    {
+      "id": "variant-d2eab6c2-d22b-57e1-8719-4f726583379e",
+      "score": 0.8573885,
+      "metadata": {
+        "text": "core_product_name: magnetic level instrument",
+        "raw_product_name": "MAGNETIC LEVEL INSTRUMENTS",
+        "list_of_product_ids": "6583,5753,11811,11274,10573,10581,10196,10669,8393,11949,11948,12069,12219,12239,12778,12834,12833,12842,18396,22199",
+        "core_id": 1422.0
+      }
+    },
+    {
+      "id": "variant-df5488a2-4bea-54ad-878b-edd74b01b7c0",
+      "score": 0.85736865,
+      "metadata": {
+        "text": "core_product_name: special level instrument",
+        "raw_product_name": "SPECIAL LEVEL INSTRUMENTS",
+        "list_of_product_ids": "56,556,484",
+        "core_id": 2076.0
+      }
+    },
+    {
+      "id": "variant-65b9f7a5-01f6-5e27-8412-131e4bf3a545",
+      "score": 0.8569147,
+      "metadata": {
+        "text": "core_product_name: instrument pen",
+        "raw_product_name": "INSTRUMENT PEN",
+        "list_of_product_ids": "1,703,017,036",
+        "core_id": 1255.0
+      }
+    },
+    {
+      "id": "variant-5b1e3e9d-8ae5-5f6a-8ddd-8f228cb065b7",
+      "score": 0.8562061,
+      "metadata": {
+        "text": "core_product_name: wet pit pump | mounting_or_installation: vertical",
+        "raw_product_name": "WET PIT PUMPS - VERTICAL",
+        "list_of_product_ids": "37846,37847,37848,37849,37804,37810,37843,37844,37845",
+        "core_id": 2471.0
+      }
+    },
+    {
+      "id": "variant-64e9f4f9-db27-5b69-bcbb-9c49a9c50a05",
+      "score": 0.85597175,
+      "metadata": {
+        "text": "core_product_name: instrument hookup",
+        "raw_product_name": "INSTRUMENT HOOKUP",
+        "list_of_product_ids": "13438",
+        "core_id": 1254.0
+      }
+    },
+    {
+      "id": "variant-95725655-b9d5-5abd-b826-0ad218cf768a",
+      "score": 0.8559616,
+      "metadata": {
+        "text": "core_product_name: instrument panel",
+        "raw_product_name": "INSTRUMENT PANEL",
+        "list_of_product_ids": "13720,14806,14814,14824,21097,22773,36101",
+        "core_id": 1256.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.8557043,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    },
+    {
+      "id": "variant-c4e119cc-aafe-5001-a6b3-3284be36811b",
+      "score": 0.85515654,
+      "metadata": {
+        "text": "core_product_name: turnkey instrumentation",
+        "raw_product_name": "TURNKEY INSTRUMENTATION",
+        "list_of_product_ids": "6627,5797,10074,8347,30050,29691,27064,30481,38274,32771,38190,37692,37693,37700,37702,37706,37710,34960,36098,36246,36399",
+        "core_id": 2299.0
+      }
+    },
+    {
+      "id": "variant-059f29c0-c582-5a44-9dd7-0d8f1e11ef42",
+      "score": 0.8541697,
+      "metadata": {
+        "text": "core_product_name: instrument air package",
+        "raw_product_name": "INSTRUMENT AIR PACKAGE",
+        "list_of_product_ids": "137,061,645,718,956",
+        "core_id": 1252.0
+      }
+    },
+    {
+      "id": "variant-74473618-f368-5f8e-9f75-5bb7b011cde3",
+      "score": 0.8538767,
+      "metadata": {
+        "text": "core_product_name: ground monitoring system",
+        "raw_product_name": "GROUND MONITORING SYSTEMS",
+        "list_of_product_ids": "6629,5799,10305,24235,19579",
+        "core_id": 1079.0
+      }
+    },
+    {
+      "id": "variant-675b1b69-a253-53ce-8d7f-a235969cc0f4",
+      "score": 0.8536,
+      "metadata": {
+        "text": "core_product_name: displacer level instrument",
+        "raw_product_name": "DISPLACER LEVEL INSTRUMENTS",
+        "list_of_product_ids": "6621,5791,11688,11697,11713,15120,15152,15319,15321,15323,15325,17082,21752,23534,32959,36210,36359,40024",
+        "core_id": 599.0
+      }
+    },
+    {
+      "id": "variant-55210aea-1507-5312-b966-b5ed49c56743",
+      "score": 0.8534794,
+      "metadata": {
+        "text": "core_product_name: level instrument",
+        "raw_product_name": "LEVEL INSTRUMENTS",
+        "list_of_product_ids": "6483,5654,19445,19444,19796,39388,40153",
+        "core_id": 1335.0
+      }
+    },
+    {
+      "id": "variant-d337814d-4caf-55de-a5cc-ad63eedc8308",
+      "score": 0.85327065,
+      "metadata": {
+        "text": "core_product_name: instrument and meter",
+        "raw_product_name": "INSTRUMENT & METER",
+        "list_of_product_ids": "20461,20502,20648,20115",
+        "core_id": 1248.0
+      }
+    },
+    {
+      "id": "variant-bd47772b-5299-5f32-90ff-3553498be68a",
+      "score": 0.8526658,
+      "metadata": {
+        "text": "core_product_name: instrument air manifold",
+        "raw_product_name": "INSTRUMENT AIR MANIFOLDS",
+        "list_of_product_ids": "100,041,001,422,637",
+        "core_id": 1251.0
+      }
+    },
+    {
+      "id": "variant-0e885408-40f1-56a1-bd2d-28f82b7c85e5",
+      "score": 0.8505757,
+      "metadata": {
+        "text": "core_product_name: instrument repair",
+        "raw_product_name": "INSTRUMENTS REPAIR",
+        "list_of_product_ids": "23786,24297,24236,23834,23951,23800",
+        "core_id": 1268.0
+      }
+    },
+    {
+      "id": "variant-01fecef7-4e2f-551b-84cd-246e0b056369",
+      "score": 0.8505138,
+      "metadata": {
+        "text": "core_product_name: prefabricated instrument hookup",
+        "raw_product_name": "PREFABRICATED INSTRUMENT HOOKUPS",
+        "list_of_product_ids": "6600,5770,11599,11598,11600,10671,10684,8611,30827",
+        "core_id": 1762.0
+      }
+    },
+    {
+      "id": "variant-559cc977-3d03-546c-ad22-5d641d252855",
+      "score": 0.8504059,
+      "metadata": {
+        "text": "core_product_name: pneumatic level instrument",
+        "raw_product_name": "PNEUMATIC LEVEL INSTRUMENTS",
+        "list_of_product_ids": "39510,39511,39581,40152",
+        "core_id": 1716.0
+      }
+    },
+    {
+      "id": "variant-62c3fca7-21da-50d1-8319-69755be09494",
+      "score": 0.8495574,
+      "metadata": {
+        "text": "core_product_name: plant and instrument air compressor package",
+        "raw_product_name": "PLANT & INSTRUMENT AIR COMPRESSOR PACKAGE",
+        "list_of_product_ids": "22158,22269,22359,37921",
+        "core_id": 1697.0
+      }
+    },
+    {
+      "id": "variant-6e20d91f-0295-506d-a040-ebc41a84e0e3",
+      "score": 0.84948915,
+      "metadata": {
+        "text": "core_product_name: instrument air compressor",
+        "raw_product_name": "INSTRUMENT AIR COMPRESSOR",
+        "list_of_product_ids": "13702,18958,22123,22160",
+        "core_id": 1249.0
+      }
+    },
+    {
+      "id": "variant-4c1cbdbc-a367-5bac-8a12-2ed9d0a361bb",
+      "score": 0.84861577,
+      "metadata": {
+        "text": "core_product_name: nucleonic level instrument",
+        "raw_product_name": "NUCLEONIC LEVEL INSTRUMENTS",
+        "list_of_product_ids": "6590,5760,10953,10104,10118,19570,20889,35265,35416,35425",
+        "core_id": 1564.0
+      }
+    }
+  ]
+}

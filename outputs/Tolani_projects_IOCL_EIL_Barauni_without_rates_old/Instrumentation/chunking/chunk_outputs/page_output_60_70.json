@@ -1,0 +1,198 @@
+{
+  "sheet_name": "Instrumentation",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Junction Box, Weatherproof  + Flameproof   (Gas Groups - IIC)   type   for 12 Pair Cable",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "for: 12 pair cable",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: iic",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Junction Box, Weatherproof  + Flameproof   (Gas Groups - IIC)   type   for 8 Triad Cable",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "for: 8 triad cable",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: iic",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Junction Box, Weatherproof  + Flameproof   (Gas Groups - IIC)   type   for 6 Pair Cable",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "for: 6 pair cable",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: iic",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Junction Box Weatherproof + Flameproof   (Gas Groups - IIC)   for   2 Core X 10/16/35 mm2   Power Cable including",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "for: 2 core x 10/16/35 mm2 power cable",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: iic",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Junction Box Weatherproof + Flameproof   (Gas Groups - IIC)   for   2 Core X 50/70 mm2   Power Cable including",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "for: 2 core x 50/70 mm2 power cable",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: iic",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Supply of Cable glands of  various  types and specifications",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: various types and specifications",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      60,
+      69
+    ],
+    "original_rows": [
+      {
+        "0": 302,
+        "1": 0,
+        "2": "01II.550.20.2V3",
+        "3": "Junction Box, Weatherproof  + Flameproof   (Gas Groups - IIC)   type   for 12 Pair Cable",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 303,
+        "1": 0,
+        "2": "01II.550.20.2V4",
+        "3": "Junction Box, Weatherproof  + Flameproof   (Gas Groups - IIC)   type   for 8 Triad Cable",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 304,
+        "1": 0,
+        "2": "01II.550.20.2V7",
+        "3": "Junction Box, Weatherproof  + Flameproof   (Gas Groups - IIC)   type   for 6 Pair Cable",
+        "4": 2.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 305,
+        "1": 0,
+        "2": "01II.550.20.3V2",
+        "3": "Junction Box Weatherproof + Flameproof   (Gas Groups - IIC)   for   2 Core X 10/16/35 mm2   Power Cable including",
+        "4": 2.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 306,
+        "1": 0,
+        "2": "01II.550.20.3V3",
+        "3": "Junction Box Weatherproof + Flameproof   (Gas Groups - IIC)   for   2 Core X 50/70 mm2   Power Cable including",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 307,
+        "1": 0,
+        "2": "01II.550.30",
+        "3": "Supply of Cable glands of  various  types and specifications",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 308,
+        "1": 0,
+        "2": "01II.550.30.6V5",
+        "3": "Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with  PVC shroud  1/2\" NPTM",
+        "4": 80.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 309,
+        "1": 0,
+        "2": "01II.550.30.6V6",
+        "3": "Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with  PVC shroud    1\" NPTM",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 310,
+        "1": 0,
+        "2": "01II.550.30.6V7",
+        "3": "Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with  PVC shroud  1 1/2\" NPTM",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 311,
+        "1": 0,
+        "2": "01II.550.30.6V8",
+        "3": "Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with  PVC shroud   3/4\" NPTM",
+        "4": 15.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2490,
+    "completion_tokens": 1395
+  }
+}

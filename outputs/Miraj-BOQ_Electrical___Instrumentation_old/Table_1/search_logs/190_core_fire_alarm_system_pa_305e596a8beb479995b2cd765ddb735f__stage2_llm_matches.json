@@ -1,0 +1,94 @@
+{
+  "query": "core_product_name: fire alarm system panel | feature_or_specifications: included: electronic card, electrical accessories, hardware and software for integration, communication: modbus, profibus, oem recommended serial link, common fault alarm, integration: plc(programmable logic controller)/esd(emergency shutdown device) at cr(control room), high availability and reliability, standard: ul(underwriters laboratories) listed, includes: manual call points (non-ex-proof and flame proof), isolator modules, control modules, multi criteria detector, response indicators, audio visual fire alarm siren, reference: fire detection drawing & ilsd(integrated leak detection system) drawing",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire alarm system",
+        "raw_product_name": "FIRE ALARM SYSTEM",
+        "list_of_product_ids": [
+          "6432",
+          "5602",
+          "10173",
+          "12289",
+          "12290",
+          "17862",
+          "18175",
+          "31111",
+          "25486",
+          "31761",
+          "31058",
+          "36635",
+          "36636",
+          "37801",
+          "37806",
+          "34963",
+          "34973",
+          "34970",
+          "34975",
+          "34988",
+          "34991",
+          "34998",
+          "35001",
+          "35005",
+          "35010",
+          "35015",
+          "35218",
+          "36087",
+          "36459",
+          "36517"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire alarm panel",
+        "raw_product_name": "FIRE ALARM PANEL",
+        "list_of_product_ids": [
+          "8896",
+          "8906",
+          "9845",
+          "9853",
+          "9863",
+          "8933",
+          "9076",
+          "9137",
+          "14320",
+          "14321",
+          "10735",
+          "16601",
+          "16125",
+          "34974",
+          "35217",
+          "36088",
+          "36458"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: addressable fire alarm panel",
+        "raw_product_name": "ADDRESSABLE FIRE ALARM PANEL",
+        "list_of_product_ids": [
+          "37759",
+          "37764",
+          "37769",
+          "37774",
+          "37780",
+          "37790"
+        ]
+      }
+    }
+  ]
+}

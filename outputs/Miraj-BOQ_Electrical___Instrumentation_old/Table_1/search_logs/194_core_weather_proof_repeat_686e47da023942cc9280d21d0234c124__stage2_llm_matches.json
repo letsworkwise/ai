@@ -1,0 +1,87 @@
+{
+  "query": "core_product_name: weather proof repeater panel | feature_or_specifications: location: security room, included: hooter, indication of fault & lel(lower explosive limit) alarm, connection: gms(gas monitoring system) at cmh(central monitoring hub), standard: as per tender specifications",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: weatherproof test station | protection_features: Weatherproof",
+        "raw_product_name": "TEST STATION (WEATHERPROOF)",
+        "list_of_product_ids": [
+          "215",
+          "472",
+          "153",
+          "627",
+          "678"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: fire and gas detection system",
+        "raw_product_name": "FIRE & GAS DETECTION SYSTEMS",
+        "list_of_product_ids": [
+          "6550",
+          "5721",
+          "10943",
+          "10040",
+          "11234",
+          "11244",
+          "11420",
+          "11423",
+          "11421",
+          "11425",
+          "12425",
+          "12818",
+          "17482",
+          "17481",
+          "19831",
+          "29874",
+          "37765",
+          "37770",
+          "37775",
+          "37791",
+          "35578",
+          "36117",
+          "36233",
+          "36385",
+          "36457"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: gas detection system",
+        "raw_product_name": "GAS DETECTION SYSTEMS",
+        "list_of_product_ids": [
+          "6549",
+          "5720",
+          "10456",
+          "11233",
+          "11243",
+          "10651",
+          "10650",
+          "11424",
+          "11422",
+          "11722",
+          "12817",
+          "12820",
+          "12819",
+          "13110",
+          "13111",
+          "18189",
+          "36733",
+          "35577",
+          "36091",
+          "36095"
+        ]
+      }
+    }
+  ]
+}

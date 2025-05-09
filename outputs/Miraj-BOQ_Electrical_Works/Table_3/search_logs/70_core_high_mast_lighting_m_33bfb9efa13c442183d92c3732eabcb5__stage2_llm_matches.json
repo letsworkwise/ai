@@ -1,0 +1,55 @@
+{
+  "query": "core_product_name: high mast lighting mast | size: height: 20 m | feature_or_specifications: material: hot dip galvanized, type: raising/lowering, includes: galvanized lantern carriage arrangement, integral power tool, 24 nos 200w led light, aviation obstruction light 2 nos, lightning protection, earthing, wire, civil foundation works, feeder pillar, control panel with raise/lower mechanism, control panel housing suitable control circuit, precision timer for automatic on/off control",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: high mast lighting system",
+        "raw_product_name": "HIGH MAST LIGHTING SYSTEM",
+        "list_of_product_ids": [
+          "6416",
+          "5586",
+          "10566",
+          "10176",
+          "10177"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: high mast tower",
+        "raw_product_name": "HIGH MAST TOWER",
+        "list_of_product_ids": [
+          "17725",
+          "17692",
+          "17684",
+          "17683",
+          "18661"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting mast",
+        "raw_product_name": "Lighting Masts",
+        "list_of_product_ids": [
+          "15628",
+          "24242",
+          "15727",
+          "15629"
+        ]
+      }
+    }
+  ]
+}

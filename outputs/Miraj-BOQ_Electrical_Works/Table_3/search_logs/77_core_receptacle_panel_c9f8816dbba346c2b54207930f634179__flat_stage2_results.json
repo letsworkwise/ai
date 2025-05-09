@@ -1,0 +1,488 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8633757,
+      "text": "core_product_name: inside panel | acronymed_core_product_name: mcb (miniature circuit breaker) panel | type_or_class: Flush type only",
+      "core_id": 1448.0,
+      "raw_product_name": "MCB Inside Panels (Flush type only)",
+      "list_of_product_ids": [
+        "1",
+        "371",
+        "214",
+        "885"
+      ]
+    },
+    {
+      "retrieval_score": 0.8551576,
+      "text": "core_product_name: miniature circuit breaker | acronymed_core_product_name: mcb",
+      "core_id": 1446.0,
+      "raw_product_name": "MCB",
+      "list_of_product_ids": [
+        "6462",
+        "5633",
+        "10157",
+        "10663",
+        "9350",
+        "9447",
+        "9151",
+        "9187",
+        "9219",
+        "9361",
+        "11905",
+        "11944",
+        "17873",
+        "19028",
+        "19645",
+        "19652",
+        "20775",
+        "21203",
+        "19140",
+        "38290",
+        "36563"
+      ]
+    },
+    {
+      "retrieval_score": 0.8515125,
+      "text": "core_product_name: rectifier panel",
+      "core_id": 1877.0,
+      "raw_product_name": "RECTIFIER PANEL",
+      "list_of_product_ids": [
+        "171",
+        "741",
+        "717",
+        "527",
+        "078"
+      ]
+    },
+    {
+      "retrieval_score": 0.8482088,
+      "text": "core_product_name: industrial receptacle",
+      "core_id": 1235.0,
+      "raw_product_name": "INDUSTRIAL RECEPTACLE",
+      "list_of_product_ids": [
+        "136",
+        "891",
+        "479",
+        "414",
+        "813"
+      ]
+    },
+    {
+      "retrieval_score": 0.8480608,
+      "text": "core_product_name: molded case circuit breaker | acronymed_core_product_name: MCCB (Molded Case Circuit Breaker)",
+      "core_id": 1449.0,
+      "raw_product_name": "MCCB",
+      "list_of_product_ids": [
+        "6463",
+        "5634",
+        "10536",
+        "10191",
+        "9351",
+        "9152",
+        "9154",
+        "11938",
+        "19030",
+        "19029",
+        "20774",
+        "21202",
+        "36564",
+        "38080"
+      ]
+    },
+    {
+      "retrieval_score": 0.84641904,
+      "text": "core_product_name: electrical spare",
+      "core_id": 710.0,
+      "raw_product_name": "ELECTRICAL SPARES",
+      "list_of_product_ids": [
+        "207",
+        "782",
+        "077",
+        "728",
+        "462"
+      ]
+    },
+    {
+      "retrieval_score": 0.84363,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    },
+    {
+      "retrieval_score": 0.8434071,
+      "text": "core_product_name: thermal insulation",
+      "core_id": 2305.0,
+      "raw_product_name": "Thermal Insulation",
+      "list_of_product_ids": [
+        "7572",
+        "7247",
+        "11774",
+        "11775",
+        "7759",
+        "7755",
+        "7757",
+        "9770",
+        "12863",
+        "13002",
+        "13009",
+        "16997",
+        "17020",
+        "17014",
+        "34601"
+      ]
+    },
+    {
+      "retrieval_score": 0.84268886,
+      "text": "core_product_name: conventional relay and control panel",
+      "core_id": 470.0,
+      "raw_product_name": "CONVENTIONAL RELAY & CONTROL PANEL",
+      "list_of_product_ids": [
+        "38185",
+        "38198",
+        "38206",
+        "38387"
+      ]
+    },
+    {
+      "retrieval_score": 0.8423559,
+      "text": "core_product_name: electrical accessory",
+      "core_id": 701.0,
+      "raw_product_name": "ELECTRICAL ACCESSORIES",
+      "list_of_product_ids": [
+        "211",
+        "632",
+        "705",
+        "121",
+        "165"
+      ]
+    },
+    {
+      "retrieval_score": 0.8420956,
+      "text": "core_product_name: insulating refractory castable",
+      "core_id": 1271.0,
+      "raw_product_name": "INSULATING REFRACTORY CASTABLE",
+      "list_of_product_ids": [
+        "6140",
+        "5310",
+        "10463",
+        "8833",
+        "8836",
+        "8850",
+        "8866",
+        "9621",
+        "9629",
+        "9662",
+        "9667",
+        "9658",
+        "9802",
+        "13156",
+        "24310"
+      ]
+    },
+    {
+      "retrieval_score": 0.8419994,
+      "text": "core_product_name: insulation material",
+      "core_id": 1274.0,
+      "raw_product_name": "INSULATION MATERIAL",
+      "list_of_product_ids": [
+        "10251",
+        "10256",
+        "10261",
+        "10266",
+        "10273",
+        "10278",
+        "10281",
+        "7088",
+        "7415",
+        "10172",
+        "10221",
+        "10226",
+        "10230",
+        "10234",
+        "10240",
+        "10245",
+        "11862",
+        "13008",
+        "38431",
+        "33383"
+      ]
+    },
+    {
+      "retrieval_score": 0.84188217,
+      "text": "core_product_name: motor protection circuit breaker | acronymed_core_product_name: mpcb (motor protection circuit breaker)",
+      "core_id": 1528.0,
+      "raw_product_name": "Motor Protection Circuit Breaker (MPCB)",
+      "list_of_product_ids": [
+        "7492",
+        "7167",
+        "11205",
+        "10539",
+        "10192",
+        "19629"
+      ]
+    },
+    {
+      "retrieval_score": 0.841846,
+      "text": "core_product_name: welding receptacle",
+      "core_id": 2460.0,
+      "raw_product_name": "WELDING RECEPTACLES",
+      "list_of_product_ids": [
+        "19666",
+        "19656",
+        "19638",
+        "27341"
+      ]
+    },
+    {
+      "retrieval_score": 0.8405296,
+      "text": "core_product_name: electrical item",
+      "core_id": 713.0,
+      "raw_product_name": "ELECTRICALS ITEMS",
+      "list_of_product_ids": [
+        "240",
+        "232",
+        "403",
+        "028",
+        "576"
+      ]
+    },
+    {
+      "retrieval_score": 0.83988225,
+      "text": "core_product_name: lighting and power distribution panel",
+      "core_id": 1413.0,
+      "raw_product_name": "Lighting & Power Distribution Panel",
+      "list_of_product_ids": [
+        "18723",
+        "18718",
+        "18735",
+        "18734",
+        "18733",
+        "19012",
+        "18997",
+        "18728",
+        "19000",
+        "38293",
+        "35861",
+        "38156"
+      ]
+    },
+    {
+      "retrieval_score": 0.8387127,
+      "text": "core_product_name: pin insulator",
+      "core_id": 1656.0,
+      "raw_product_name": "PIN INSULATOR",
+      "list_of_product_ids": [
+        "1",
+        "390",
+        "518",
+        "323"
+      ]
+    },
+    {
+      "retrieval_score": 0.83866984,
+      "text": "core_product_name: equipment insulation",
+      "core_id": 761.0,
+      "raw_product_name": "EQUIPMENT INSULATION WORKS",
+      "list_of_product_ids": [
+        "358",
+        "293",
+        "583",
+        "235",
+        "880"
+      ]
+    },
+    {
+      "retrieval_score": 0.83864963,
+      "text": "core_product_name: relay and control panel",
+      "core_id": 187.0,
+      "raw_product_name": "RELAY & CONTROL PANEL",
+      "list_of_product_ids": [
+        "6389",
+        "5560",
+        "11172",
+        "11457",
+        "7888",
+        "19357",
+        "24445",
+        "24450",
+        "24448",
+        "24827",
+        "24815",
+        "24451",
+        "19363",
+        "24930",
+        "24941",
+        "38203",
+        "38204"
+      ]
+    },
+    {
+      "retrieval_score": 0.8386453,
+      "text": "core_product_name: moulded case circuit breaker",
+      "core_id": 1508.0,
+      "raw_product_name": "MOULDED CASE CIRCUIT BREAKER",
+      "list_of_product_ids": [
+        "178",
+        "541",
+        "784",
+        "318",
+        "652"
+      ]
+    },
+    {
+      "retrieval_score": 0.8386435,
+      "text": "core_product_name: pipe insulation",
+      "core_id": 1662.0,
+      "raw_product_name": "PIPE INSULATION",
+      "list_of_product_ids": [
+        "13921",
+        "16092",
+        "16635",
+        "16633",
+        "18103",
+        "23466",
+        "23458",
+        "34600"
+      ]
+    },
+    {
+      "retrieval_score": 0.83863914,
+      "text": "core_product_name: switchgear panel | acronymed_core_product_name: pcc (power control center) switchgear panel | size_or_capacity: 415V | type_or_class: PCC (Power Control Center)",
+      "core_id": 18.0,
+      "raw_product_name": "415V SWITCHGEAR PANEL (PCC)",
+      "list_of_product_ids": [
+        "176",
+        "911",
+        "769",
+        "018",
+        "664"
+      ]
+    },
+    {
+      "retrieval_score": 0.8380313,
+      "text": "core_product_name: electrical repair",
+      "core_id": 2009.0,
+      "raw_product_name": "SHIP REPAIR (ELECTRICAL WORK)",
+      "list_of_product_ids": [
+        "23965",
+        "24298",
+        "23966",
+        "24724",
+        "24966",
+        "36009"
+      ]
+    },
+    {
+      "retrieval_score": 0.8375265,
+      "text": "core_product_name: surge protection device",
+      "core_id": 2156.0,
+      "raw_product_name": "SURG PROTECTION DEVICES",
+      "list_of_product_ids": [
+        "5954",
+        "6782",
+        "12132",
+        "14671",
+        "14679",
+        "18191",
+        "20174",
+        "36159"
+      ]
+    },
+    {
+      "retrieval_score": 0.8374678,
+      "text": "core_product_name: insulating brick",
+      "core_id": 1267.0,
+      "raw_product_name": "INSULATING BRICKS",
+      "list_of_product_ids": [
+        "6137",
+        "5304",
+        "8830",
+        "8851",
+        "8855",
+        "8862",
+        "8863",
+        "8864",
+        "9618",
+        "9623",
+        "9625",
+        "9659",
+        "9800",
+        "13152",
+        "24285"
+      ]
+    },
+    {
+      "retrieval_score": 0.83724415,
+      "text": "core_product_name: electrical contact",
+      "core_id": 705.0,
+      "raw_product_name": "ELECTRICAL CONTACTS",
+      "list_of_product_ids": [
+        "211",
+        "562",
+        "115",
+        "228",
+        "503"
+      ]
+    },
+    {
+      "retrieval_score": 0.83720237,
+      "text": "core_product_name: insulation",
+      "core_id": 404.0,
+      "raw_product_name": "INSULATION WORK",
+      "list_of_product_ids": [
+        "7089",
+        "7416",
+        "11863",
+        "19372",
+        "39269",
+        "39319",
+        "39323",
+        "39417"
+      ]
+    },
+    {
+      "retrieval_score": 0.83717483,
+      "text": "core_product_name: outdoor circuit breaker | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 11.0,
+      "raw_product_name": "33kV outdoor Circuit Breaker",
+      "list_of_product_ids": [
+        "141",
+        "551",
+        "464",
+        "036",
+        "000"
+      ]
+    },
+    {
+      "retrieval_score": 0.8370802,
+      "text": "core_product_name: insulation",
+      "core_id": 404.0,
+      "raw_product_name": "COMPARTMENTS INSULATION",
+      "list_of_product_ids": [
+        "23464",
+        "23467",
+        "23465",
+        "28660"
+      ]
+    },
+    {
+      "retrieval_score": 0.83707124,
+      "text": "core_product_name: rectifier",
+      "core_id": 1876.0,
+      "raw_product_name": "RECTIFIER",
+      "list_of_product_ids": [
+        "20789",
+        "20788",
+        "21192",
+        "27088"
+      ]
+    }
+  ]
+}

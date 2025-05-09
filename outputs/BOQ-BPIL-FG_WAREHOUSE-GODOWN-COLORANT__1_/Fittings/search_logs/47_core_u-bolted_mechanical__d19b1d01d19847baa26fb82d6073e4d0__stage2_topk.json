@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: u-bolted mechanical tee | size: tee size: 80 x 20 NB | feature_or_specifications: feature: threaded for fixing sprinkler nozzles, feature: u-bolted",
+  "retrieval_results": [
+    {
+      "id": "variant-663cf76d-ffc4-5b4c-934a-31949f5c06be",
+      "score": 0.8514575,
+      "metadata": {
+        "text": "core_product_name: tee fitting",
+        "raw_product_name": "FITTINGS –TEES",
+        "list_of_product_ids": "14267,14693,14668,14710,14903,14915,15996,16049,18892,19403,18960,19725,19800,19793,20062,20171,20936,21919,22661,22656,22915,23197,27761,27751,27741,27731,27721,27780,37063,36444,36528",
+        "core_id": 881.0
+      }
+    },
+    {
+      "id": "variant-298f2c6e-2bc0-5c2f-b94c-30f82a72d824",
+      "score": 0.84057456,
+      "metadata": {
+        "text": "core_product_name: nozzle",
+        "raw_product_name": "NOZZLE",
+        "list_of_product_ids": "24248,24222,22342,22340,22766,22794,26877",
+        "core_id": 1547.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.83937037,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    },
+    {
+      "id": "variant-7606644a-4edd-5fea-81c9-7414b8a77e6e",
+      "score": 0.8392424,
+      "metadata": {
+        "text": "core_product_name: spray nozzle",
+        "raw_product_name": "SPRAY NOZZLES",
+        "list_of_product_ids": "8288",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-ae12e61b-f4d8-5a46-b901-146bd7f77cb2",
+      "score": 0.8383693,
+      "metadata": {
+        "text": "core_product_name: u bolt",
+        "raw_product_name": "U- BOLT",
+        "list_of_product_ids": "15472,26267,26149,26201,26214,26224,26233,27710",
+        "core_id": 2313.0
+      }
+    },
+    {
+      "id": "variant-7fa3b25f-1368-5176-aad5-701306d3255c",
+      "score": 0.8380423,
+      "metadata": {
+        "text": "core_product_name: sprinkler",
+        "raw_product_name": "SPRINKLER",
+        "list_of_product_ids": "13482,13498,13499,31059,37496,35014,37488,37491,37492,37495",
+        "core_id": 2090.0
+      }
+    },
+    {
+      "id": "variant-4e3c6101-3853-55d3-948a-8b1f65e4ebd4",
+      "score": 0.8373709,
+      "metadata": {
+        "text": "core_product_name: hydraulic bolt tensioner",
+        "raw_product_name": "HYDRAULIC BOLT TENSIONER",
+        "list_of_product_ids": "388,203,880,138,802",
+        "core_id": 1192.0
+      }
+    },
+    {
+      "id": "variant-db5bf6a9-26d9-5efa-913d-ef1f02ca3c2b",
+      "score": 0.8361354,
+      "metadata": {
+        "text": "core_product_name: water sprinkler",
+        "raw_product_name": "WATER SPRINKLER",
+        "list_of_product_ids": "6032,5211,8921,8925,8928,8956,8959,9061,9066,9070,9101,9105,22756,31060,34994",
+        "core_id": 2455.0
+      }
+    },
+    {
+      "id": "variant-7fe0ad8e-24a9-5c57-a81e-ccf349532bd4",
+      "score": 0.8357057,
+      "metadata": {
+        "text": "core_product_name: pipe | accessories_or_attachments: Nozzle",
+        "raw_product_name": "BRANCH PIPE WITH NOZZLE",
+        "list_of_product_ids": "8886,8915,9820,9056,9048,9052,9134,37474,37475",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-9e876b9a-9f4e-575f-8a63-7328da5a741e",
+      "score": 0.83503014,
+      "metadata": {
+        "text": "core_product_name: water curtain nozzle",
+        "raw_product_name": "WATER CURTAIN NOZZLE",
+        "list_of_product_ids": "15965,15966,16018,16003,15990,16035,16045,16093,34090",
+        "core_id": 2435.0
+      }
+    },
+    {
+      "id": "variant-c0875fc8-a188-5b80-a701-f51d97ce66b3",
+      "score": 0.8344505,
+      "metadata": {
+        "text": "core_product_name: tube | special_attributes: Seamless | material: Nickel Alloys",
+        "raw_product_name": "PIPE/TUBE-NICKEL ALLOYS (S.LESS & WELDED)",
+        "list_of_product_ids": "6289,5460,10330,7774,7795,7807,7781,13138,17018,17429,19628,21096,21317,21307,30870,30875,37088",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-7200274a-d707-5227-ac1e-143a15e80f5e",
+      "score": 0.8342148,
+      "metadata": {
+        "text": "core_product_name: barred tee",
+        "raw_product_name": "BARRED TEE",
+        "list_of_product_ids": "14187,22417,27760,27750,27740,27730,27720,27781,36527",
+        "core_id": 175.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8338905,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-fa0676c5-521c-5784-be23-4b71247c1859",
+      "score": 0.8326583,
+      "metadata": {
+        "text": "core_product_name: jetting nozzle",
+        "raw_product_name": "JETTING NOZZLE",
+        "list_of_product_ids": "13430,13479,14453,14490",
+        "core_id": 1319.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.83239764,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-c3753f45-57cf-541d-9d01-f130037050a7",
+      "score": 0.8321566,
+      "metadata": {
+        "text": "core_product_name: hose fitting",
+        "raw_product_name": "HOSE FITTINGS",
+        "list_of_product_ids": "214,192,141,828,587",
+        "core_id": 1146.0
+      }
+    },
+    {
+      "id": "variant-0ac14aa8-88e6-5346-8d34-683abe9ee02e",
+      "score": 0.83157986,
+      "metadata": {
+        "text": "core_product_name: flow tee",
+        "raw_product_name": "FLOW TEE",
+        "list_of_product_ids": "5371,6067,11152,11151,10737,11283,10560,12908,15980,17555,27536,27759,27749,27739,27729,27719,27782,36526",
+        "core_id": 940.0
+      }
+    },
+    {
+      "id": "variant-50f4d648-e315-546f-b514-27585cad7896",
+      "score": 0.83123827,
+      "metadata": {
+        "text": "core_product_name: non slam check valve | accessories_or_attachments: Nozzle",
+        "raw_product_name": "VALVE-NON SLAM CHECK (NOZZLE)",
+        "list_of_product_ids": "6236,5405,11469,11471,8264,12129",
+        "core_id": 2377.0
+      }
+    },
+    {
+      "id": "variant-3af49486-93ab-5254-a588-fea4e3345951",
+      "score": 0.831182,
+      "metadata": {
+        "text": "core_product_name: needle valve",
+        "raw_product_name": "VALVE NEEDLE",
+        "list_of_product_ids": "5434,6265,8184,8167,8171,8152,8182,8183,8181,8599,18083,18084,18086,18307,30828,37284,36451",
+        "core_id": 1543.0
+      }
+    },
+    {
+      "id": "variant-04f0e0c0-81f9-571a-b333-5c79b34da30d",
+      "score": 0.83099556,
+      "metadata": {
+        "text": "core_product_name: tube | special_attributes: Seamless | material: AS (Alloyed Steel)",
+        "raw_product_name": "PIPE/TUBE- A S (SEAMLESS)",
+        "list_of_product_ids": "6286,5457,10575,10616,10216,10828,6826,6821,7673,7676,7677,7678,7679,7680,7675,7681,7682,12133,12262,12677,17587,24026,24457,30022,29113,37050,39997",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-8d00b73b-5dbc-5a15-9977-16b46a2060ab",
+      "score": 0.8308304,
+      "metadata": {
+        "text": "core_product_name: valve fitting",
+        "raw_product_name": "VALVES FITTING",
+        "list_of_product_ids": "8612",
+        "core_id": 2379.0
+      }
+    },
+    {
+      "id": "variant-c4dd5da8-ce81-5c61-9d83-f5bcb7ada524",
+      "score": 0.83042884,
+      "metadata": {
+        "text": "core_product_name: scrapper tee",
+        "raw_product_name": "SCRAPPER TEES",
+        "list_of_product_ids": "13878,14911,15978,16124,17264,17263,17262,17550,18295,27762,27752,27742,27732,27722,27779,34727,34729,34855",
+        "core_id": 1975.0
+      }
+    },
+    {
+      "id": "variant-878c48ef-bac9-5ff8-8b7c-7adaf44e73f7",
+      "score": 0.8301912,
+      "metadata": {
+        "text": "core_product_name: tube | special_attributes: Seamless | material: C S (Carbon Steel)",
+        "raw_product_name": "PIPE/TUBE-C S (SEAMLESS)",
+        "list_of_product_ids": "5455,10941,10300,10337,10392,10394,11215,10574,10595,10611,10618,7648,6972,10827,10672,10676,10883,6832,6825,6830,6828,6835,6839,6837,6842,6820,6968,6973,6967,6970,6965,6966,6971,7644,7646,7647,7779,7810,7641,7642,7643,7649,12254,12564,12672,12674,12689,13226,13229,13234,13237,13241,13277,13291,7808,7645,6969,16444,17572,17569,17644,17278,22733,22782,30020,24458,24459,30021,30514,30019,30018,31766,31765,30016,30017,32046",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-8b17e0b9-66f6-5d0e-86c3-90233954cdce",
+      "score": 0.83003944,
+      "metadata": {
+        "text": "core_product_name: pipe fitting",
+        "raw_product_name": "PIPE FITTINGS",
+        "list_of_product_ids": "22332,22331,22330,23352,23353,24583,36871,30825,36882,37027,28815,37304,36590,33279,33280,33281,37015,37157,36862,35736,35737,35738,35739,35740,35741,35742,36885,36524",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-d3918fb3-1dcf-5330-9bbe-6452020c252d",
+      "score": 0.8299645,
+      "metadata": {
+        "text": "core_product_name: plumbing fitting and fixture",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+        "list_of_product_ids": "6364,5535,7874,12489,12648,12649,34680,34681",
+        "core_id": 1961.0
+      }
+    },
+    {
+      "id": "variant-dac42c0a-0a7d-5664-acb4-16aea5159e6b",
+      "score": 0.8298339,
+      "metadata": {
+        "text": "core_product_name: bolted structural item",
+        "raw_product_name": "STRUCTURAL ITEM (BOLTED)",
+        "list_of_product_ids": "173,371,733,527,207",
+        "core_id": 2135.0
+      }
+    },
+    {
+      "id": "variant-151ce4f6-5469-579f-8545-47358a95c4ad",
+      "score": 0.8294583,
+      "metadata": {
+        "text": "core_product_name: flange | material: Alloy 20",
+        "raw_product_name": "FLANGE- ALLOY 20",
+        "list_of_product_ids": "176,491,764,718,665",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-cbf7dd33-340d-5884-850e-2eb599e8ec65",
+      "score": 0.82895595,
+      "metadata": {
+        "text": "core_product_name: hydraulic torque wrench",
+        "raw_product_name": "HYDRAULIC TORQUE WRENCH",
+        "list_of_product_ids": "388,043,880,538,821",
+        "core_id": 1203.0
+      }
+    },
+    {
+      "id": "variant-10dc0a41-9ee6-56ed-9d8e-405a29cccb61",
+      "score": 0.8287343,
+      "metadata": {
+        "text": "core_product_name: studded tube",
+        "raw_product_name": "TUBE-STUDDED",
+        "list_of_product_ids": "5,991,517,017,614",
+        "core_id": 2285.0
+      }
+    },
+    {
+      "id": "variant-45793403-b06f-59e4-833f-bdd2803ae72a",
+      "score": 0.82844174,
+      "metadata": {
+        "text": "core_product_name: trestle",
+        "raw_product_name": "TRESTLES",
+        "list_of_product_ids": "209,482,095,328,021",
+        "core_id": 2279.0
+      }
+    }
+  ]
+}

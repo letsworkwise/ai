@@ -1,0 +1,50 @@
+{
+  "query": "core_product_name: first aid box | feature_or_specifications: feature: complete with all standard first aid materials",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: first aid box",
+        "raw_product_name": "First Aid Box",
+        "list_of_product_ids": [
+          "14350",
+          "14343",
+          "14347",
+          "14357",
+          "16793"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: first aid kit",
+        "raw_product_name": "FIRST AID KITS",
+        "list_of_product_ids": [
+          "2",
+          "108",
+          "828",
+          "543"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: stretcher",
+        "raw_product_name": "STRETCHER",
+        "list_of_product_ids": [
+          "18818",
+          "28058",
+          "18800",
+          "39316"
+        ]
+      }
+    }
+  ]
+}

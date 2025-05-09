@@ -1,0 +1,66 @@
+{
+  "query": "core_product_name: shielded armoured multistrand cable | size: triads: 10, cross section: 1 sq mm, runs: 1",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": [
+          "32910",
+          "32911",
+          "33009",
+          "33041",
+          "33195",
+          "33260",
+          "33562",
+          "33633",
+          "35922"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "Size & Capacity"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable | size_or_capacity: 33kV | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "33kV cable XLPE",
+        "list_of_product_ids": [
+          "14154",
+          "15792",
+          "16795",
+          "20142",
+          "24052",
+          "20057",
+          "23903"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "Size & Capacity"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable | size_or_capacity: 11KV (11 kiloVolt) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "11KV CABLE XLPE",
+        "list_of_product_ids": [
+          "23938",
+          "24087",
+          "21515",
+          "27081"
+        ]
+      }
+    }
+  ]
+}

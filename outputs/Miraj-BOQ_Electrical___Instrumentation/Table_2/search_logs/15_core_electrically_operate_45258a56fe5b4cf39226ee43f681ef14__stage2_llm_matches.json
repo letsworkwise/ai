@@ -1,0 +1,137 @@
+{
+  "query": "core_product_name: electrically operated barrier gate | size: boom length: approx. 4 m | feature_or_specifications: feature: detection mechanism, feature: manual bypass control, feature: ex-proof (explosion proof) motor, feature: exproof traffic lamp, feature: electronics, feature: configurable closing & opening time, feature: sensors for detection of vehicle crossing, feature: supporting structure, fittings, cable supports, location: security entry and exit at licence area, packed truck entry and exit",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: gate",
+        "raw_product_name": "GATES",
+        "list_of_product_ids": [
+          "137",
+          "191",
+          "954",
+          "523",
+          "241"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: explosion proof control station | protection_features: Explosion proof",
+        "raw_product_name": "CONTROL STATIONS - EXPLOSION PROOF",
+        "list_of_product_ids": [
+          "19797",
+          "19862",
+          "19850",
+          "19865",
+          "19864",
+          "28286",
+          "35867",
+          "35889",
+          "35942"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: motor",
+        "raw_product_name": "Motors",
+        "list_of_product_ids": [
+          "6407",
+          "5578",
+          "11169",
+          "11344",
+          "10182",
+          "11378",
+          "11384",
+          "12243",
+          "12377",
+          "14875",
+          "15882",
+          "16439",
+          "19757",
+          "24028",
+          "21986",
+          "23476",
+          "23490",
+          "39314",
+          "36618",
+          "34590",
+          "34595",
+          "34593",
+          "34594",
+          "34625",
+          "34626",
+          "34627",
+          "34628",
+          "34632",
+          "34633",
+          "34634",
+          "34635",
+          "34636",
+          "34637",
+          "34638",
+          "34639",
+          "34640",
+          "34646",
+          "34881",
+          "34909",
+          "34908",
+          "34907",
+          "34906",
+          "34905",
+          "34919",
+          "34918",
+          "34917",
+          "34916",
+          "34915",
+          "34914",
+          "34913",
+          "34912",
+          "34911",
+          "34910",
+          "34920",
+          "34929",
+          "34928",
+          "34927",
+          "34926",
+          "34921",
+          "34924",
+          "34923",
+          "34925",
+          "34922",
+          "35146",
+          "35152",
+          "35188",
+          "35214",
+          "35270",
+          "35322",
+          "35323",
+          "35443",
+          "35448",
+          "35665",
+          "35680",
+          "35688",
+          "35875",
+          "35873",
+          "35955",
+          "35971",
+          "40181",
+          "40232"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8681595,
+      "text": "core_product_name: instrumentation earthing",
+      "core_id": 1263.0,
+      "raw_product_name": "INSTRUMENTATION EARTHING",
+      "list_of_product_ids": [
+        "13420"
+      ]
+    },
+    {
+      "retrieval_score": 0.8644114,
+      "text": "core_product_name: earthing material",
+      "core_id": 672.0,
+      "raw_product_name": "EARTHING MATERIALS",
+      "list_of_product_ids": [
+        "378",
+        "733",
+        "788",
+        "037",
+        "898"
+      ]
+    },
+    {
+      "retrieval_score": 0.8607697,
+      "text": "core_product_name: cast iron pipe",
+      "core_id": 1658.0,
+      "raw_product_name": "PIPE CAST IRON",
+      "list_of_product_ids": [
+        "7576",
+        "7251",
+        "11128",
+        "11130",
+        "7830",
+        "14420",
+        "14532",
+        "15940",
+        "16307",
+        "23714",
+        "39752",
+        "39929"
+      ]
+    },
+    {
+      "retrieval_score": 0.8599385,
+      "text": "core_product_name: soldering station",
+      "core_id": 2064.0,
+      "raw_product_name": "SOLDERING STATION",
+      "list_of_product_ids": [
+        "154",
+        "291",
+        "875",
+        "238",
+        "511"
+      ]
+    },
+    {
+      "retrieval_score": 0.8589463,
+      "text": "core_product_name: fitting | material: Cast Iron (CI)",
+      "core_id": 273.0,
+      "raw_product_name": "FITTINGS -CAST IRON (CI)",
+      "list_of_product_ids": [
+        "7618",
+        "7292",
+        "7881",
+        "15941",
+        "16290",
+        "16308",
+        "34586",
+        "35732",
+        "35733"
+      ]
+    },
+    {
+      "retrieval_score": 0.8588626,
+      "text": "core_product_name: check valve | construction_features: pre-insulation",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK PRE-INSULATION",
+      "list_of_product_ids": [
+        "1",
+        "544",
+        "118",
+        "796"
+      ]
+    },
+    {
+      "retrieval_score": 0.85881233,
+      "text": "core_product_name: pipe insulation",
+      "core_id": 1662.0,
+      "raw_product_name": "PIPE INSULATION",
+      "list_of_product_ids": [
+        "13921",
+        "16092",
+        "16635",
+        "16633",
+        "18103",
+        "23466",
+        "23458",
+        "34600"
+      ]
+    },
+    {
+      "retrieval_score": 0.8583911,
+      "text": "core_product_name: instrument tubing",
+      "core_id": 1260.0,
+      "raw_product_name": "INSTRUMENT TUBING",
+      "list_of_product_ids": [
+        "6476",
+        "5647",
+        "10324",
+        "10217",
+        "10680",
+        "10682",
+        "10685",
+        "12053",
+        "12684",
+        "12686",
+        "18270",
+        "18269",
+        "21301",
+        "37132"
+      ]
+    },
+    {
+      "retrieval_score": 0.85569954,
+      "text": "core_product_name: industrial receptacle",
+      "core_id": 1235.0,
+      "raw_product_name": "INDUSTRIAL RECEPTACLE",
+      "list_of_product_ids": [
+        "136",
+        "891",
+        "479",
+        "414",
+        "813"
+      ]
+    },
+    {
+      "retrieval_score": 0.8553758,
+      "text": "core_product_name: cast iron centrifugal pipe",
+      "core_id": 304.0,
+      "raw_product_name": "CAST IRON CENTRIFUGAL PIPE",
+      "list_of_product_ids": [
+        "144",
+        "001",
+        "457",
+        "435",
+        "656"
+      ]
+    },
+    {
+      "retrieval_score": 0.8550603,
+      "text": "core_product_name: electrical measuring instrument",
+      "core_id": 709.0,
+      "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+      "list_of_product_ids": [
+        "24296",
+        "20768",
+        "20767",
+        "24283"
+      ]
+    },
+    {
+      "retrieval_score": 0.85497814,
+      "text": "core_product_name: instrumentation fitting",
+      "core_id": 1264.0,
+      "raw_product_name": "INSTRUMENTATION FITTINGS",
+      "list_of_product_ids": [
+        "14372",
+        "17508",
+        "17507",
+        "17506",
+        "17505",
+        "17504",
+        "17501",
+        "17500",
+        "17496",
+        "17958",
+        "17960"
+      ]
+    },
+    {
+      "retrieval_score": 0.8548414,
+      "text": "core_product_name: equipment insulation",
+      "core_id": 761.0,
+      "raw_product_name": "EQUIPMENT INSULATION WORKS",
+      "list_of_product_ids": [
+        "358",
+        "293",
+        "583",
+        "235",
+        "880"
+      ]
+    },
+    {
+      "retrieval_score": 0.8544752,
+      "text": "core_product_name: measuring instrument",
+      "core_id": 1450.0,
+      "raw_product_name": "MEASURING INSTRUMENTS",
+      "list_of_product_ids": [
+        "22280",
+        "22279",
+        "22278",
+        "27344",
+        "30010"
+      ]
+    },
+    {
+      "retrieval_score": 0.85445535,
+      "text": "core_product_name: insulation material",
+      "core_id": 1274.0,
+      "raw_product_name": "INSULATION MATERIAL",
+      "list_of_product_ids": [
+        "10251",
+        "10256",
+        "10261",
+        "10266",
+        "10273",
+        "10278",
+        "10281",
+        "7088",
+        "7415",
+        "10172",
+        "10221",
+        "10226",
+        "10230",
+        "10234",
+        "10240",
+        "10245",
+        "11862",
+        "13008",
+        "38431",
+        "33383"
+      ]
+    },
+    {
+      "retrieval_score": 0.85421675,
+      "text": "core_product_name: pipe alloy cast iron",
+      "core_id": 1657.0,
+      "raw_product_name": "PIPE ALLOY CAST IRON",
+      "list_of_product_ids": [
+        "7609",
+        "7284",
+        "7835",
+        "7837",
+        "33434"
+      ]
+    },
+    {
+      "retrieval_score": 0.8539424,
+      "text": "core_product_name: instrument panel",
+      "core_id": 1256.0,
+      "raw_product_name": "INSTRUMENT PANEL",
+      "list_of_product_ids": [
+        "13720",
+        "14806",
+        "14814",
+        "14824",
+        "21097",
+        "22773",
+        "36101"
+      ]
+    },
+    {
+      "retrieval_score": 0.8536684,
+      "text": "core_product_name: electrical-instrumentation work",
+      "core_id": 711.0,
+      "raw_product_name": "ELECTRICAL-INSTRUMENTATION WORKS",
+      "list_of_product_ids": [
+        "36860",
+        "36857",
+        "36888",
+        "36892"
+      ]
+    },
+    {
+      "retrieval_score": 0.8535663,
+      "text": "core_product_name: welded structural item",
+      "core_id": 2136.0,
+      "raw_product_name": "STRUCTURAL ITEM (WELDED)",
+      "list_of_product_ids": [
+        "173",
+        "361",
+        "733",
+        "427",
+        "923"
+      ]
+    },
+    {
+      "retrieval_score": 0.8534704,
+      "text": "core_product_name: measurement",
+      "core_id": 2401.0,
+      "raw_product_name": "VIBRATION MEASUREMENT",
+      "list_of_product_ids": [
+        "242",
+        "652",
+        "426",
+        "624",
+        "269"
+      ]
+    },
+    {
+      "retrieval_score": 0.8534556,
+      "text": "core_product_name: precast manhole chamber",
+      "core_id": 1758.0,
+      "raw_product_name": "PRECAST MANHOLE CHAMBERS",
+      "list_of_product_ids": [
+        "157",
+        "831",
+        "585",
+        "015",
+        "866"
+      ]
+    },
+    {
+      "retrieval_score": 0.85341305,
+      "text": "core_product_name: alloy cast iron pipe",
+      "core_id": 86.0,
+      "raw_product_name": "ALLOY CAST IRON PIPE",
+      "list_of_product_ids": [
+        "9561",
+        "9521",
+        "14413",
+        "14415",
+        "14417",
+        "14424"
+      ]
+    },
+    {
+      "retrieval_score": 0.8531019,
+      "text": "core_product_name: tubing",
+      "core_id": 2099.0,
+      "raw_product_name": "TUBINGS",
+      "list_of_product_ids": [
+        "14396",
+        "14566",
+        "22505",
+        "35747"
+      ]
+    },
+    {
+      "retrieval_score": 0.85308886,
+      "text": "core_product_name: boiler structure",
+      "core_id": 224.0,
+      "raw_product_name": "BOILER STRUCTURES",
+      "list_of_product_ids": [
+        "22984",
+        "22978",
+        "22977",
+        "23378"
+      ]
+    },
+    {
+      "retrieval_score": 0.8530317,
+      "text": "core_product_name: plumbing fitting and fixture",
+      "core_id": 1961.0,
+      "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+      "list_of_product_ids": [
+        "6364",
+        "5535",
+        "7874",
+        "12489",
+        "12648",
+        "12649",
+        "34680",
+        "34681"
+      ]
+    },
+    {
+      "retrieval_score": 0.85279566,
+      "text": "core_product_name: casting | material: Cast Iron",
+      "core_id": 91.0,
+      "raw_product_name": "CASTING -CAST IRON",
+      "list_of_product_ids": [
+        "21885",
+        "21883",
+        "24612",
+        "39753",
+        "39842",
+        "39868",
+        "39927",
+        "40032"
+      ]
+    },
+    {
+      "retrieval_score": 0.85247386,
+      "text": "core_product_name: welding receptacle",
+      "core_id": 2460.0,
+      "raw_product_name": "WELDING RECEPTACLES",
+      "list_of_product_ids": [
+        "19666",
+        "19656",
+        "19638",
+        "27341"
+      ]
+    },
+    {
+      "retrieval_score": 0.8524379,
+      "text": "core_product_name: pipe fitting",
+      "core_id": 182.0,
+      "raw_product_name": "PIPE FITTINGS",
+      "list_of_product_ids": [
+        "22332",
+        "22331",
+        "22330",
+        "23352",
+        "23353",
+        "24583",
+        "36871",
+        "30825",
+        "36882",
+        "37027",
+        "28815",
+        "37304",
+        "36590",
+        "33279",
+        "33280",
+        "33281",
+        "37015",
+        "37157",
+        "36862",
+        "35736",
+        "35737",
+        "35738",
+        "35739",
+        "35740",
+        "35741",
+        "35742",
+        "36885",
+        "36524"
+      ]
+    },
+    {
+      "retrieval_score": 0.8524089,
+      "text": "core_product_name: plug valve | material: CI (Cast Iron)",
+      "core_id": 2366.0,
+      "raw_product_name": "VALVE PLUG CI",
+      "list_of_product_ids": [
+        "14077",
+        "23666",
+        "23304",
+        "23289",
+        "23650",
+        "35583"
+      ]
+    },
+    {
+      "retrieval_score": 0.8523183,
+      "text": "core_product_name: access chamber",
+      "core_id": 26.0,
+      "raw_product_name": "ACCESS CHAMBER",
+      "list_of_product_ids": [
+        "158",
+        "151",
+        "585",
+        "815",
+        "880"
+      ]
+    }
+  ]
+}

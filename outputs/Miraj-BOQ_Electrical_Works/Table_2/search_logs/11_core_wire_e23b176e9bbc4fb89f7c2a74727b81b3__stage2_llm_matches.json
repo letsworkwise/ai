@@ -1,0 +1,95 @@
+{
+  "query": "core_product_name: wire | size: size: 8 swg(standard wire gauge)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: wire | material: Stainless Steel",
+        "raw_product_name": "STAINLESS STEEL WIRES",
+        "list_of_product_ids": [
+          "38751",
+          "38836",
+          "38672",
+          "38591",
+          "38536",
+          "38617",
+          "38538",
+          "38777",
+          "38700",
+          "38725",
+          "38645",
+          "38868",
+          "38910",
+          "38936",
+          "38973",
+          "39000",
+          "38957",
+          "39028",
+          "39096",
+          "39062",
+          "39126",
+          "39174",
+          "39227",
+          "39255",
+          "39297",
+          "39347",
+          "39383",
+          "39412",
+          "39442",
+          "39458",
+          "39493",
+          "39548",
+          "39575",
+          "39613",
+          "39637",
+          "39665",
+          "39699",
+          "39739",
+          "39809",
+          "39837",
+          "39908"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: electric wire | material: Copper",
+        "raw_product_name": "ELECTRIC COPPER WIRE",
+        "list_of_product_ids": [
+          "211",
+          "542",
+          "115",
+          "028",
+          "492"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: commercial wire",
+        "raw_product_name": "COMMERCIAL WIRE",
+        "list_of_product_ids": [
+          "20790",
+          "20807",
+          "21174",
+          "21177",
+          "28616",
+          "20809"
+        ]
+      }
+    }
+  ]
+}

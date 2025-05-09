@@ -1,0 +1,138 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Post-weld Heat Treatment (PWHT)/ Stress Relieving of all weld joints in impulse piping of Pressure Instruments Installation standard 7-52-0439/ 0441/1133/1134",
+      "core_product_name": "post-weld heat treatment or stress relieving",
+      "acronymed_core_product_name": "pwht",
+      "size": "",
+      "feature_or_specifications": "application: all weld joints in impulse piping of pressure instruments, installation standard: 7-52-0439 or 0441 or 1133 or 1134",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Radiography conforming to the requirements of the Piping Class for all weld joints in impulse piping of Pressure Installation standard 7-52-0439/ 0441/1133/1134",
+      "core_product_name": "radiography",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "requirement: piping class, application: all weld joints in impulse piping of pressure, installation standard: 7-52-0439 or 0441 or 1133 or 1134",
+      "quantity": "3.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      400,
+      409
+    ],
+    "original_rows": [
+      {
+        "0": 401,
+        "1": 0,
+        "2": "01II.780.30",
+        "3": "Post-weld Heat Treatment (PWHT)/ Stress Relieving of all weld joints in impulse piping of Pressure Instruments",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 402,
+        "1": 0,
+        "2": "01II.780.30.2",
+        "3": "Installation standard 7-52-0439/ 0441/1133/1134",
+        "4": 2.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 403,
+        "1": 0,
+        "2": "01II.785",
+        "3": "RADIOGRAPHY - CARBON STEEL WELD JOINTS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 404,
+        "1": 0,
+        "2": "01II.785.30",
+        "3": "Radiography conforming to the requirements of the Piping Class for all weld joints in impulse piping of Pressure",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 405,
+        "1": 0,
+        "2": "01II.785.30.2",
+        "3": "Installation standard 7-52-0439/ 0441/1133/1134",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 406,
+        "1": 0,
+        "2": "01II.800",
+        "3": "STRUCTURAL",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 407,
+        "1": 0,
+        "2": "01II.800.20",
+        "3": "Supply, Fabrication and erection of Galvanised Iron duct and its supports as per standard. Duct configurations include",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 408,
+        "1": 0,
+        "2": "01II.800.20.1V4",
+        "3": "Run of Duct   600mm (W) X 300mm (H)",
+        "4": 50.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 409,
+        "1": 0,
+        "2": "01II.800.20.1V5",
+        "3": "Run of Duct   800mm (W) X 300mm (H)",
+        "4": 1000.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 410,
+        "1": 0,
+        "2": "01II.800.52",
+        "3": "Supply, fabrication and erection of angle / channel  trays fabricated out of GI angle as per drawing including supply,",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2301,
+    "completion_tokens": 687
+  }
+}

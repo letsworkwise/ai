@@ -1,0 +1,72 @@
+{
+  "query": "core_product_name: led fixture | feature_or_specifications: type: street light, driver: integral",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: light | acronymed_core_product_name: led (light emitting diode) light | type_or_class: LED (Light Emitting Diode)",
+        "raw_product_name": "LED LIGHTS",
+        "list_of_product_ids": [
+          "36554",
+          "24238",
+          "24241",
+          "26878"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: solar street lighting",
+        "raw_product_name": "SOLAR STREET LIGHTING",
+        "list_of_product_ids": [
+          "13982",
+          "17713",
+          "17709",
+          "17767",
+          "18696",
+          "37006",
+          "34978",
+          "35048"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": [
+          "13606",
+          "16555",
+          "16546",
+          "16591",
+          "16576",
+          "17657",
+          "17650",
+          "17702",
+          "17682",
+          "18058",
+          "20306",
+          "20834",
+          "21315",
+          "22108",
+          "23384",
+          "35044"
+        ]
+      }
+    }
+  ]
+}

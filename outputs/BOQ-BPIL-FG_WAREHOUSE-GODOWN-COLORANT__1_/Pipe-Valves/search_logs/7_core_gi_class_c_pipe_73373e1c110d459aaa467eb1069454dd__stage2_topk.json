@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: gi class c pipe | acronymed_core_product_name: gi class c pipe | size: size: 25NB | feature_or_specifications: standard: indian standard 1239 (part-i), make: tata",
+  "retrieval_results": [
+    {
+      "id": "variant-8c9ece43-5d93-5447-92ba-1583464630f8",
+      "score": 0.8698168,
+      "metadata": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards) 1239 | construction_features: Black | construction_features: GI (Galvanized Iron)",
+        "raw_product_name": "PIPE-CARBON STEEL IS - 1239 (BLACK & GI)",
+        "list_of_product_ids": "13923,21043,21299,21563,22892,37032,37034,37013,37017,37033",
+        "core_id": 529.0
+      }
+    },
+    {
+      "id": "variant-185b88e9-63b7-56a0-9df9-801c2285f4c5",
+      "score": 0.86872333,
+      "metadata": {
+        "text": "core_product_name: fitting | standards_and_approvals: IS (Indian Standards)-1239",
+        "raw_product_name": "FITTINGS TO IS-1239",
+        "list_of_product_ids": "14270,14771,33994,33993,33992,33991,33990",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-e8d0d92b-1dda-5e70-b54f-38e4b41d9194",
+      "score": 0.8683982,
+      "metadata": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards): 1239",
+        "raw_product_name": "PIPE-CARBON STEEL IS: 1239",
+        "list_of_product_ids": "13999,15697,21642,22745,22894",
+        "core_id": 529.0
+      }
+    },
+    {
+      "id": "variant-67df8260-d86a-5d00-bc9a-a99f7703c14f",
+      "score": 0.8563026,
+      "metadata": {
+        "text": "core_product_name: galvanized iron pipe | acronymed_core_product_name: gi pipe",
+        "raw_product_name": "GI PIPE",
+        "list_of_product_ids": "15427,17238,17227,30897,30959,27363,28754,28918,28967,35290,35308,35313,39993",
+        "core_id": 1007.0
+      }
+    },
+    {
+      "id": "variant-fc5ea489-34d9-5f79-8a61-0e7e57a98756",
+      "score": 0.85319114,
+      "metadata": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards) 3589",
+        "raw_product_name": "PIPE-CARBON STEEL IS: 3589",
+        "list_of_product_ids": "15698,14000,21300,22746,22893,37056,37052,37057,37058,37059,37060,37061,37062",
+        "core_id": 529.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.85049206,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    },
+    {
+      "id": "variant-e97794e3-4158-5e4d-a167-1bc48ffc7e9c",
+      "score": 0.8500335,
+      "metadata": {
+        "text": "core_product_name: galvanized iron pipe | acronymed_core_product_name: gi pipe (galvanized iron pipe)",
+        "raw_product_name": "GALVANIZED IRON PIPES(GI)",
+        "list_of_product_ids": "7600,11065,7275,8051",
+        "core_id": 1007.0
+      }
+    },
+    {
+      "id": "variant-3393fc36-a80f-54fe-9316-1d56c2b57903",
+      "score": 0.8498371,
+      "metadata": {
+        "text": "core_product_name: angle | acronymed_core_product_name: ISA (Indian Standard Angle)",
+        "raw_product_name": "ISA (ANGLE)",
+        "list_of_product_ids": "32888,26244,14287,14289,14291,14293,14295,14297,14299,14301,14303,14305,29402,16064,16104,29425,29471,29478,31089,19598,31904,29533,29539,23329,30349,29566,30353,31336,29854,30163,31540,31136,24731,24750,24758,24868,24857,24891,24846,31570,24912,24923,24901,30787,24997,29600,29887,30906,31380,25016,25004,25047,25037,25029,25061,31384,25082,25073,25064,25106,25116,30376,25127,25136,25155,25166,25193,25183,25176,25205,25217,25234,25256,25245,25269,25288,25292,25300,25313,25336,25322,25350,25366,25389,25378,25409,30537,30947,31142,25489,30028,29628,31162,25861,31835,31861,25933,30546,31838,31405,31596,25975,30060,30569,26119,26154,29680,26178,26273,26305,30083,26329,26354,30593,30962,26377,26441,26489,26465,26539,26535,26571,26597,29690,30431,31445,26620,26643,26701,30104,30616,30984,26724,26822,26829,26912,26948,26975,30454,27006,30127,27158,27185,27209,31197,27232,30148,30659,27260,27289,31009,27312,31453,31738,27394,27420,27444,29718,27556,29741,31220,27584,27613,30193,30667,27669,27685,27847,27894,27852,27935,27965,29770,31051,27999,31641,28035,28103,28151,28139,30484,30215,28323,28300,31260,28388,28357,30239,31475,28446,28469,28519,30398,31264,31618,28550,28648,28686,28699,30262,30696,28725,28862,28858,28886,28940,31288,31687,28943,28975,31516,31682,29017,29022,30718,29067,29071,31519,29135,29825,30304,31312,31068,29138,29162,29188,29798,29230,30309,29328,29324,29350,29374,31945,31948,31971,32021,31993,32049,32087,32111,32142,32170,32206,32259,32306,32332,32370,32408,32452,32430,32535,32587,32614,32636,32664,32683,32723,32734,32778,32821,32854,32915,32965,33049,33071,33101,33153,33130,33218,33287,33310,33355,33396,33465,33516,33577,33649,33692,33719,33740,33764,33790,33824,33874,33850,33921,33962,34043,34066,34093,34120,34147,34176,34198,34220,34258,34287,34355,34384,34423,34445,34467,34502,34524,34547,34604,34653,34706,34734,34757,34804,34781,34859,34828,34883,34932,35023,35058,35080,35102,35124,35167",
+        "core_id": 113.0
+      }
+    },
+    {
+      "id": "variant-7a47b8db-ee25-518f-9ee3-4b13bf063bda",
+      "score": 0.84961957,
+      "metadata": {
+        "text": "core_product_name: large-diameter pipe",
+        "raw_product_name": "Large-diameter pipe",
+        "list_of_product_ids": "758,772,628,028",
+        "core_id": 1410.0
+      }
+    },
+    {
+      "id": "variant-b9b8d302-eb32-505d-ab46-ec618ebbffaa",
+      "score": 0.84948707,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | acronymed_core_product_name: gi (galvanized iron) pipe fittings | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI PIPE FITTINGS",
+        "list_of_product_ids": "137,342,283,228,756",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-2463ac23-861b-589f-8631-401ca0ddabe4",
+      "score": 0.84930784,
+      "metadata": {
+        "text": "core_product_name: titanium pipe",
+        "raw_product_name": "PIPE-TITANIUM",
+        "list_of_product_ids": "630,154,727,798",
+        "core_id": 1673.0
+      }
+    },
+    {
+      "id": "variant-872921fe-458d-5e74-a236-2980f1b400d6",
+      "score": 0.84909904,
+      "metadata": {
+        "text": "core_product_name: rain water cast iron pipe | acronymed_core_product_name: ci pipe",
+        "raw_product_name": "CI RAIN WATER",
+        "list_of_product_ids": "20533,20571,20576,20611,20666,20724",
+        "core_id": 352.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.8488468,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8486418,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-8b17e0b9-66f6-5d0e-86c3-90233954cdce",
+      "score": 0.84802896,
+      "metadata": {
+        "text": "core_product_name: pipe fitting",
+        "raw_product_name": "PIPE FITTINGS",
+        "list_of_product_ids": "22332,22331,22330,23352,23353,24583,36871,30825,36882,37027,28815,37304,36590,33279,33280,33281,37015,37157,36862,35736,35737,35738,35739,35740,35741,35742,36885,36524",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-7aa48c98-4b7d-5946-8320-0a44853c6ebb",
+      "score": 0.84802675,
+      "metadata": {
+        "text": "core_product_name: component pipe support",
+        "raw_product_name": "Pipe Support components",
+        "list_of_product_ids": "7539,9978,7213,7829,9704,14956",
+        "core_id": 1832.0
+      }
+    },
+    {
+      "id": "variant-94afc0d1-e0c4-562d-b6d3-a66d8aa3ea57",
+      "score": 0.84791917,
+      "metadata": {
+        "text": "core_product_name: conduit pipe",
+        "raw_product_name": "CONDUIT PIPE",
+        "list_of_product_ids": "222,962,229,728,617",
+        "core_id": 440.0
+      }
+    },
+    {
+      "id": "variant-1021c327-1f23-56c6-a5b2-2af09e1e62e1",
+      "score": 0.8477776,
+      "metadata": {
+        "text": "core_product_name: instrument tubing",
+        "raw_product_name": "INSTRUMENT TUBING",
+        "list_of_product_ids": "6476,5647,10324,10217,10680,10682,10685,12053,12684,12686,18270,18269,21301,37132",
+        "core_id": 1260.0
+      }
+    },
+    {
+      "id": "variant-4913a173-35c9-57a0-be11-6babe2e9c5c0",
+      "score": 0.84777504,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "PIPES- INDIAN STOCKIST",
+        "list_of_product_ids": "30891,30899,30890,30889,30882,30884,30883,30885,30888,30887,30886",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-d617e5c1-f2a0-5f39-9d41-380647ad2f39",
+      "score": 0.8476243,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "PIPES",
+        "list_of_product_ids": "6282,5452,11043,10725,11044,10336,10697,6906,7716,7718,7717,7719,8063,8065,8062,8064,12663,12664,12667,12668,12671,13024,13026,13028,13123,13316,16445,36935,33427,33428,33429,33430,33431,33602",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-b28ede24-9ef0-5358-9f86-a7d812b09022",
+      "score": 0.8476243,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "PIPES & TUBULARS",
+        "list_of_product_ids": "6283,5454,7767,7768,7771,11149,10327,11214,11328,11347,10594,7761,7772,7791,8066,12665,12676,13019,13022,13034,13232,13303,13346,17643,19699,19767,24025,21790,21016,30015,36868,31708,31762,31764,31763,30014,36877",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-b39351ea-cb75-5b3a-8d9a-2a05878b4337",
+      "score": 0.8476243,
+      "metadata": {
+        "text": "core_product_name: pipe",
+        "raw_product_name": "Pipes for optimizing pipelines",
+        "list_of_product_ids": "759,172,668,032",
+        "core_id": 241.0
+      }
+    },
+    {
+      "id": "variant-1297bf95-04c8-51c3-88c3-57508e8f85d8",
+      "score": 0.84604454,
+      "metadata": {
+        "text": "core_product_name: piping speciality",
+        "raw_product_name": "PIPING SPECIALITY",
+        "list_of_product_ids": "194,961,949,428,268",
+        "core_id": 1689.0
+      }
+    },
+    {
+      "id": "variant-1fe7927e-8e90-5f04-8015-9cb017b97836",
+      "score": 0.8453107,
+      "metadata": {
+        "text": "core_product_name: tube | material: Titanium",
+        "raw_product_name": "TUBE-TITANIUM",
+        "list_of_product_ids": "6307,5478,13304,30877",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-808cb5c1-0ad0-5acd-a87d-fc7689db9ddd",
+      "score": 0.84530354,
+      "metadata": {
+        "text": "core_product_name: tube suppression system",
+        "raw_product_name": "TUBE SUPPRESSION SYSTEM",
+        "list_of_product_ids": "3,247,232,473",
+        "core_id": 2284.0
+      }
+    },
+    {
+      "id": "variant-38919950-c306-5523-8367-0bb4d14263e3",
+      "score": 0.84444153,
+      "metadata": {
+        "text": "core_product_name: pipeline valve",
+        "raw_product_name": "PIPELINE VALVES",
+        "list_of_product_ids": "7607,7282,8126,8128,9279,9284,8127,12357,12378,22648",
+        "core_id": 1680.0
+      }
+    },
+    {
+      "id": "variant-3a4a3cca-5fe7-59a5-a1c6-73be3f1d92a3",
+      "score": 0.8439633,
+      "metadata": {
+        "text": "core_product_name: commercial pipe",
+        "raw_product_name": "Commercial pipes",
+        "list_of_product_ids": "758,072,558,021",
+        "core_id": 546.0
+      }
+    },
+    {
+      "id": "variant-2da39fd8-2a03-5b2a-b6a3-bb346e5c6b7a",
+      "score": 0.8436547,
+      "metadata": {
+        "text": "core_product_name: line pipe",
+        "raw_product_name": "Line pipe",
+        "list_of_product_ids": "7589,7264,10302,8030,36593",
+        "core_id": 1362.0
+      }
+    },
+    {
+      "id": "variant-aabd563e-cc76-5d89-b841-f08d650d24f1",
+      "score": 0.8434899,
+      "metadata": {
+        "text": "core_product_name: cu-ni (copper-nickel) pipe",
+        "raw_product_name": "PIPES (CU-NI)",
+        "list_of_product_ids": "13933,16999,33601,33715",
+        "core_id": 1681.0
+      }
+    },
+    {
+      "id": "variant-783f2b25-9fa7-5b80-8d17-9df5f0fd74f0",
+      "score": 0.8425725,
+      "metadata": {
+        "text": "core_product_name: channel | acronymed_core_product_name: ISMC (Indian Standard Medium Weight Channel) | standards_and_approvals: IS (Indian Standard) | type_or_class: Medium Weight",
+        "raw_product_name": "ISMC (CHANNEL)",
+        "list_of_product_ids": "14286,14288,14290,14292,14294,14296,14298,14300,14302,14304,29400,16063,16103,29423,29470,29476,19599,26242,31902,29530,23328,29538,30350,29564,29852,30351,31335,31539,31686,31135,24730,24749,24757,24856,24866,24889,24845,31568,24910,24921,24900,29886,30785,24994,29598,30081,30904,31381,25014,25003,25045,25036,25028,31382,25081,25072,25063,25062,25104,25114,31140,25125,25134,25154,25164,25191,25182,25175,25204,25216,25232,25255,25244,25267,25289,25290,25321,25312,25334,25349,25365,25388,25377,25408,30536,25487,30026,30946,31163,30397,25860,31834,29625,25932,30545,31836,31404,31595,25974,30059,30567,26117,26153,29679,31088,26176,26272,26304,30960,26327,26352,30592,26376,26439,26538,26487,26464,26536,29688,32886,26570,26596,30429,31444,26619,26642,30103,30614,30983,26723,26700,26823,26828,31617,26911,26947,26974,30452,27005,27107,30125,27159,27208,31196,27231,30159,30147,30658,27259,27288,31008,27311,31739,27395,27421,27443,29716,27555,29740,31218,27583,27612,31452,30191,30665,27670,27684,27848,27895,27851,27934,27964,29767,31050,27998,30374,31639,28034,28104,28150,28140,30482,30214,31259,28322,28299,28356,30237,31473,28387,28447,28468,28518,31263,28549,28649,28687,28698,30260,30695,28724,29823,28861,28859,28885,31286,28941,28942,28974,31515,29018,29021,30716,31681,29064,29070,30302,31517,31310,29140,29133,29161,29186,29797,29231,29323,30307,31066,31859,29326,29349,29373,31944,31946,31969,32019,31991,32047,32085,32109,32140,32168,32203,32258,32304,32330,32368,32406,32428,32450,32533,32585,32612,32635,32661,32682,32722,32733,32776,32819,32853,32914,32964,33047,33069,33099,33151,33129,33216,33286,33308,33353,33394,33463,33514,33575,33647,33691,33717,33739,33763,33788,33822,33872,33848,33919,33961,34041,34065,34091,34118,34146,34174,34196,34218,34256,34285,34354,34422,34444,34466,34501,34523,34383,34546,34603,34652,34705,34732,34756,34803,34779,34858,34826,34882,34930,35022,35057,35079,35101,35166,35123",
+        "core_id": 338.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "query": "core_product_name: mldb (main lighting distribution board) | acronymed_core_product_name: mldb | size: voltage: 415 V, phases: 3 phase, wires: 4 wire, frequency: 50 Hz, current: 400 A, short circuit withstand: 25 KA for 1 second | feature_or_specifications: standard: as per attached sld (single line diagram), specifications & ds (data sheet)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: main lighting distribution board | acronymed_core_product_name: MLDB (Main Lighting Distribution Board)",
+        "raw_product_name": "MLDB",
+        "list_of_product_ids": [
+          "15386",
+          "13768",
+          "14606",
+          "14779",
+          "17931",
+          "17918",
+          "17893",
+          "17950",
+          "17940",
+          "17945",
+          "18027",
+          "18009",
+          "18050",
+          "19060",
+          "19661"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: sub lighting distribution board",
+        "raw_product_name": "SUB LIGHTING DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "19061",
+          "19062",
+          "19056",
+          "36641"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lightning distribution board | acronymed_core_product_name: ldb (lightning distribution board)",
+        "raw_product_name": "LIGHTNING DISTRIBUTION BOARD/LDB",
+        "list_of_product_ids": [
+          "10002",
+          "10019",
+          "10242",
+          "15385",
+          "14605",
+          "14777",
+          "14808",
+          "17874",
+          "17933",
+          "17919",
+          "17894",
+          "17951",
+          "17941",
+          "17944",
+          "18029",
+          "18010",
+          "18051",
+          "19660",
+          "19141"
+        ]
+      }
+    }
+  ]
+}

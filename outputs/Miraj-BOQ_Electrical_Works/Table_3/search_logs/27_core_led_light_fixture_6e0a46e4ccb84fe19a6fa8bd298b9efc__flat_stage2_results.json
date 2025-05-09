@@ -1,0 +1,456 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.85101604,
+      "text": "core_product_name: lighting fixture",
+      "core_id": 1006.0,
+      "raw_product_name": "LIGHTING FIXTURES",
+      "list_of_product_ids": [
+        "13606",
+        "16555",
+        "16546",
+        "16591",
+        "16576",
+        "17657",
+        "17650",
+        "17702",
+        "17682",
+        "18058",
+        "20306",
+        "20834",
+        "21315",
+        "22108",
+        "23384",
+        "35044"
+      ]
+    },
+    {
+      "retrieval_score": 0.84982294,
+      "text": "core_product_name: incandescent lighting fixture",
+      "core_id": 1228.0,
+      "raw_product_name": "INCANDESCENT LIGHTING FIXTURE",
+      "list_of_product_ids": [
+        "19026",
+        "19024",
+        "19022",
+        "19020",
+        "19163"
+      ]
+    },
+    {
+      "retrieval_score": 0.847029,
+      "text": "core_product_name: fluorescent lighting fixture",
+      "core_id": 951.0,
+      "raw_product_name": "FLUORESCENT LIGHTING FIXTURE",
+      "list_of_product_ids": [
+        "19025",
+        "19023",
+        "19021",
+        "19019",
+        "19164"
+      ]
+    },
+    {
+      "retrieval_score": 0.84678423,
+      "text": "core_product_name: light fabricated component",
+      "core_id": 1347.0,
+      "raw_product_name": "LIGHT FABRICATED COMPONENT",
+      "list_of_product_ids": [
+        "26019",
+        "26018",
+        "26017",
+        "26690"
+      ]
+    },
+    {
+      "retrieval_score": 0.844813,
+      "text": "core_product_name: accessory lighting fixture | protection_features: Non Hazardous",
+      "core_id": 1352.0,
+      "raw_product_name": "LIGHTING FIXTURE & ACCESORY-NON HZARDOUS",
+      "list_of_product_ids": [
+        "5630",
+        "6459",
+        "10568",
+        "10188",
+        "10179",
+        "19512",
+        "19508",
+        "19540",
+        "26082"
+      ]
+    },
+    {
+      "retrieval_score": 0.84390306,
+      "text": "core_product_name: tube light fixture",
+      "core_id": 2282.0,
+      "raw_product_name": "TUBE LIGHT FIXTURES",
+      "list_of_product_ids": [
+        "139",
+        "811",
+        "494",
+        "021",
+        "021"
+      ]
+    },
+    {
+      "retrieval_score": 0.8394048,
+      "text": "core_product_name: video wall | material: LED (Light Emitting Diode)",
+      "core_id": 2418.0,
+      "raw_product_name": "Video Walls (LED)",
+      "list_of_product_ids": [
+        "7078",
+        "7405",
+        "18019",
+        "18418",
+        "18417"
+      ]
+    },
+    {
+      "retrieval_score": 0.83913076,
+      "text": "core_product_name: lighting and power distribution panel",
+      "core_id": 1413.0,
+      "raw_product_name": "Lighting & Power Distribution Panel",
+      "list_of_product_ids": [
+        "18723",
+        "18718",
+        "18735",
+        "18734",
+        "18733",
+        "19012",
+        "18997",
+        "18728",
+        "19000",
+        "38293",
+        "35861",
+        "38156"
+      ]
+    },
+    {
+      "retrieval_score": 0.8379826,
+      "text": "core_product_name: indicating lamp fitting",
+      "core_id": 1232.0,
+      "raw_product_name": "INDICATING LAMP FITTING",
+      "list_of_product_ids": [
+        "20128",
+        "20443",
+        "20418",
+        "20465",
+        "20506",
+        "20645"
+      ]
+    },
+    {
+      "retrieval_score": 0.8368266,
+      "text": "core_product_name: light machined component",
+      "core_id": 1350.0,
+      "raw_product_name": "LIGHT MACHINED COMPONENTS",
+      "list_of_product_ids": [
+        "239",
+        "522",
+        "395",
+        "328",
+        "688"
+      ]
+    },
+    {
+      "retrieval_score": 0.8343372,
+      "text": "core_product_name: fabricated fitting | material: Plate | construction_features: Cladded",
+      "core_id": 874.0,
+      "raw_product_name": "FITTINGS FABRICATED FROM PLATE - CLADDED",
+      "list_of_product_ids": [
+        "6326",
+        "5497",
+        "11561",
+        "24593",
+        "34020",
+        "34019",
+        "36846"
+      ]
+    },
+    {
+      "retrieval_score": 0.8326131,
+      "text": "core_product_name: lighting and power panel | operating_conditions: Safe Area",
+      "core_id": 1351.0,
+      "raw_product_name": "LIGHTING & POWER PANELS (SAFE AREA)",
+      "list_of_product_ids": [
+        "5631",
+        "6460",
+        "10307",
+        "11363",
+        "9150",
+        "9362",
+        "11943",
+        "24828",
+        "24816",
+        "24931",
+        "24942",
+        "19386",
+        "38289"
+      ]
+    },
+    {
+      "retrieval_score": 0.8315922,
+      "text": "core_product_name: high mast lighting system",
+      "core_id": 1127.0,
+      "raw_product_name": "HIGH MAST LIGHTING SYSTEM",
+      "list_of_product_ids": [
+        "6416",
+        "5586",
+        "10566",
+        "10176",
+        "10177"
+      ]
+    },
+    {
+      "retrieval_score": 0.8306441,
+      "text": "core_product_name: panel tube light",
+      "core_id": 1636.0,
+      "raw_product_name": "PANEL TUBE LIGHT",
+      "list_of_product_ids": [
+        "19668",
+        "19677",
+        "19680",
+        "19684",
+        "24243"
+      ]
+    },
+    {
+      "retrieval_score": 0.83061814,
+      "text": "core_product_name: non flame proof light fixture | protection_features: Non Flame Proof",
+      "core_id": 1349.0,
+      "raw_product_name": "LIGHT FIXTURE (NON FLAME PROOF)",
+      "list_of_product_ids": [
+        "7066",
+        "7393",
+        "10175",
+        "10185",
+        "10178"
+      ]
+    },
+    {
+      "retrieval_score": 0.8303673,
+      "text": "core_product_name: product | acronymed_core_product_name: crca (cold rolled close annealed) | material: CRCA (Cold Rolled Close Annealed)",
+      "core_id": 211.0,
+      "raw_product_name": "CRCA",
+      "list_of_product_ids": [
+        "17107",
+        "17105",
+        "17109",
+        "17281",
+        "17106",
+        "24613"
+      ]
+    },
+    {
+      "retrieval_score": 0.83014053,
+      "text": "core_product_name: plumbing fitting and fixture",
+      "core_id": 1961.0,
+      "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+      "list_of_product_ids": [
+        "6364",
+        "5535",
+        "7874",
+        "12489",
+        "12648",
+        "12649",
+        "34680",
+        "34681"
+      ]
+    },
+    {
+      "retrieval_score": 0.83000845,
+      "text": "core_product_name: electric light fitting | accessories_or_attachments: accessories",
+      "core_id": 704.0,
+      "raw_product_name": "ELECTRIC LIGHT FITTINGS (COMM) & ACCESSORIES",
+      "list_of_product_ids": [
+        "208",
+        "382",
+        "083",
+        "728",
+        "502"
+      ]
+    },
+    {
+      "retrieval_score": 0.8292535,
+      "text": "core_product_name: central air conditioning system",
+      "core_id": 58.0,
+      "raw_product_name": "AIR CONDITIONING SYSTEM - CENTRAL",
+      "list_of_product_ids": [
+        "6043",
+        "5222",
+        "10728",
+        "10729",
+        "10203",
+        "6949",
+        "10820",
+        "10882",
+        "8499",
+        "19674",
+        "19821",
+        "23220"
+      ]
+    },
+    {
+      "retrieval_score": 0.82908046,
+      "text": "core_product_name: electrical accessory",
+      "core_id": 701.0,
+      "raw_product_name": "ELECTRICAL ACCESSORIES",
+      "list_of_product_ids": [
+        "211",
+        "632",
+        "705",
+        "121",
+        "165"
+      ]
+    },
+    {
+      "retrieval_score": 0.8288102,
+      "text": "core_product_name: lighting transformer",
+      "core_id": 635.0,
+      "raw_product_name": "LIGHTING TRANSFORMERS",
+      "list_of_product_ids": [
+        "17731",
+        "17727",
+        "18659",
+        "19486",
+        "35388"
+      ]
+    },
+    {
+      "retrieval_score": 0.82871884,
+      "text": "core_product_name: electric lamp",
+      "core_id": 695.0,
+      "raw_product_name": "ELECTRIC LAMPS",
+      "list_of_product_ids": [
+        "20801",
+        "20836",
+        "20803",
+        "28495"
+      ]
+    },
+    {
+      "retrieval_score": 0.8282175,
+      "text": "core_product_name: navigational light",
+      "core_id": 1537.0,
+      "raw_product_name": "NAVIGATIONAL LIGHTS",
+      "list_of_product_ids": [
+        "28223",
+        "28249",
+        "28222",
+        "28221",
+        "28220"
+      ]
+    },
+    {
+      "retrieval_score": 0.8280508,
+      "text": "core_product_name: heating element",
+      "core_id": 1117.0,
+      "raw_product_name": "HEATING ELEMENT",
+      "list_of_product_ids": [
+        "214",
+        "212",
+        "142",
+        "627",
+        "045"
+      ]
+    },
+    {
+      "retrieval_score": 0.8279416,
+      "text": "core_product_name: light emitting diode (LED) display | acronymed_core_product_name: LED display | size_or_capacity: 40” or more",
+      "core_id": 1329.0,
+      "raw_product_name": "LED display (40” or more)",
+      "list_of_product_ids": [
+        "7",
+        "077",
+        "740",
+        "411",
+        "850"
+      ]
+    },
+    {
+      "retrieval_score": 0.8278846,
+      "text": "core_product_name: light barrier switch",
+      "core_id": 1345.0,
+      "raw_product_name": "LIGHT BARRIER SWITCH",
+      "list_of_product_ids": [
+        "19122",
+        "19129",
+        "19132",
+        "38466"
+      ]
+    },
+    {
+      "retrieval_score": 0.8277863,
+      "text": "core_product_name: lighting transformer | type_or_class: Dry Type",
+      "core_id": 635.0,
+      "raw_product_name": "DRY TYPE LIGHTING TRANSFORMERS",
+      "list_of_product_ids": [
+        "5632",
+        "6461",
+        "7931",
+        "15572",
+        "15561",
+        "15581",
+        "15616",
+        "15617",
+        "15583",
+        "15567",
+        "15611",
+        "15585",
+        "15622",
+        "15578",
+        "15559",
+        "18301",
+        "18872",
+        "18918"
+      ]
+    },
+    {
+      "retrieval_score": 0.8275391,
+      "text": "core_product_name: welded heat exchanger | construction_features: plates",
+      "core_id": 1111.0,
+      "raw_product_name": "HEAT EXCHANGER( PLATES-WELDED)",
+      "list_of_product_ids": [
+        "6673",
+        "5844",
+        "12279",
+        "8005",
+        "23196",
+        "37895",
+        "38424"
+      ]
+    },
+    {
+      "retrieval_score": 0.8275351,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    },
+    {
+      "retrieval_score": 0.82722807,
+      "text": "core_product_name: primary structure | construction_features: welded",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+      "list_of_product_ids": [
+        "19999",
+        "20036",
+        "22016",
+        "21003",
+        "21084",
+        "21900",
+        "22115",
+        "21039",
+        "19993",
+        "22825",
+        "22991"
+      ]
+    }
+  ]
+}

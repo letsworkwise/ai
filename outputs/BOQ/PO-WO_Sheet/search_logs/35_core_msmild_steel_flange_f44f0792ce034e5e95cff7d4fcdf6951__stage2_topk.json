@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: ms(mild steel) flange | size: diameter: 40 nb(nominal bore) | feature_or_specifications: type: sorf(slipped on raised face), class: 150#",
+  "retrieval_results": [
+    {
+      "id": "variant-161fa21f-33fa-588b-b919-b504d3d47901",
+      "score": 0.88197196,
+      "metadata": {
+        "text": "core_product_name: flange | material: MS (Mild Steel)",
+        "raw_product_name": "FLANGE (MS) /Mild Steel Flange",
+        "list_of_product_ids": "10255,10260,10265,10270,10277,9941,9942,9947,9948,10225,9964,10238,10239,10244,10249,13101,17431,24567,25825",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-f78e7e72-fdfa-5dbb-a112-d18e9b063c4d",
+      "score": 0.87682056,
+      "metadata": {
+        "text": "core_product_name: flange | acronymed_core_product_name: SORF (Slip On Raised Face) flange | type_or_class: Slip On Raised Face",
+        "raw_product_name": "SORF FLANGE",
+        "list_of_product_ids": "13340,13335,13330,13342,13344,13334",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-a226040d-f054-5c9a-9605-d81b357cb8e5",
+      "score": 0.87170976,
+      "metadata": {
+        "text": "core_product_name: flange | material: Mild Steel (MS) | connection_details: Screwed",
+        "raw_product_name": "FLANGE MILD STEEL SCREWED",
+        "list_of_product_ids": "174,451,744,727,926",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-7fd4cfef-d998-5282-9241-7387b128f297",
+      "score": 0.8698634,
+      "metadata": {
+        "text": "core_product_name: round | material: MS (Mild Steel)",
+        "raw_product_name": "MS ROUND",
+        "list_of_product_ids": "30196,32891,13504,13511,13489,13518,13524,13530,13537,13544,13558,13551,26246,29406,16067,16106,29429,31907,17722,17738,29467,29481,29534,23326,29888,30348,29540,29570,29855,30356,31544,31688,24732,31134,24751,24759,24870,24858,24847,24894,31379,24916,24925,24903,31573,25001,30790,25020,25005,25049,25038,25031,29605,30910,25083,25074,25065,25060,25108,25117,30379,30538,25129,25138,25156,25168,25195,25184,25177,25206,25218,25236,25257,25246,25271,25287,25297,25301,25314,25339,25323,25351,25367,25390,25379,25410,30948,31144,25495,29629,30031,30399,31166,31386,31832,25862,31862,25934,30547,31337,31842,31406,31597,25976,30061,26121,26155,29682,30572,31090,26180,26274,26306,30964,31446,26332,26357,30088,30594,26378,26443,26492,26466,26534,26540,26572,26598,30434,26621,26644,26702,29697,30105,26725,26821,26830,30619,30985,26913,26949,26976,27007,27157,30457,27186,30128,31198,27233,30168,30149,30657,27261,27290,29722,27313,27393,31454,27419,27445,27557,29742,31223,27585,27614,27668,27686,27846,27893,27853,27936,27966,29771,30671,31052,28000,30487,31737,28036,28102,28152,28138,30216,31644,28324,28301,31261,28358,30243,28389,28445,28470,28520,29799,31265,31477,31619,28552,28647,28685,28700,30700,28726,28863,28857,28887,29828,28939,30265,31291,28944,28976,31683,29016,29023,30721,31514,31010,29068,29072,30305,31315,31522,31070,29160,29136,29163,29192,29229,30313,29348,29325,29351,29375,31943,31951,31974,32024,31996,32052,32090,32114,32145,32173,32207,32257,32373,32309,32335,32411,32433,32455,32538,32588,32617,32637,32665,32735,32781,32824,32855,32916,32966,33052,33072,33104,33156,33131,33221,33288,33316,33358,33399,33468,33519,33580,33654,33693,33722,33741,33765,33793,33827,33877,33853,33924,33963,34046,34067,34096,34123,34148,34179,34201,34223,34261,34290,34356,34385,34424,34446,34468,34503,34525,34548,34605,34654,34707,34737,34758,34805,34784,34860,34831,34884,34935,35024,35059,35081,35103,35125,35168",
+        "core_id": 1511.0
+      }
+    },
+    {
+      "id": "variant-5a869d21-d3d4-58a2-ba29-246aab6b27a4",
+      "score": 0.8685212,
+      "metadata": {
+        "text": "core_product_name: plate flange | material: Mild Steel (MS)",
+        "raw_product_name": "MILD STEEL PLATE FLANGES",
+        "list_of_product_ids": "174,302,456,624,652",
+        "core_id": 1474.0
+      }
+    },
+    {
+      "id": "variant-65840ecf-7374-526b-8e01-2bb631ca3499",
+      "score": 0.864982,
+      "metadata": {
+        "text": "core_product_name: tube | material: Mild Steel (MS)",
+        "raw_product_name": "Mild Steel Tubes",
+        "list_of_product_ids": "17961,17971,17970,17969,17966,17964,17962,18647",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-e2f2fd26-d7af-57d5-b362-4c77226da917",
+      "score": 0.8641464,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | material: MS (Mild Steel)",
+        "raw_product_name": "MS PIPE FITTINGS",
+        "list_of_product_ids": "137,812,283,128,755",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-31a63a03-e3b0-5171-8ec3-c5e3e1658862",
+      "score": 0.86165917,
+      "metadata": {
+        "text": "core_product_name: flange | material: Carbon steel | construction_features: Raised Face (RF)",
+        "raw_product_name": "Carbon steel Flange (RF)",
+        "list_of_product_ids": "68,157,318",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-da9c94d9-ca6a-5f06-9f4c-6ab7978cc2ae",
+      "score": 0.8612,
+      "metadata": {
+        "text": "core_product_name: ms (mild steel) pipe",
+        "raw_product_name": "MS PIPE",
+        "list_of_product_ids": "13780,14665,19247,17239,17228,18434,39305,22590,22621,22726,22761,22750,22744,22790,23133,30896,30927,30958,39306,27364,29739,28917,28966,35311,35312,40051",
+        "core_id": 1510.0
+      }
+    },
+    {
+      "id": "variant-c22251ce-04f8-5026-b3be-fed73a6d543f",
+      "score": 0.85444325,
+      "metadata": {
+        "text": "core_product_name: forged flange | material: SS (Stainless Steel)",
+        "raw_product_name": "FLANGE- FORGED(SS)",
+        "list_of_product_ids": "11515,13103,13104,13383,13388,13419,13416,13457,13458,13459,13460,13461,13462,13463,13464,13465,13466,13467,13468,13469,13470,13451,13452,13453,13454,13455,13456,14900,14908,15975,16214,16257,16375,17010,17415,17673,18081,18065,18088,18204,18404,19751,19842,21672,21926,21925,21934,21917,21961,22250,22251,22481,23246,21963,16320",
+        "core_id": 901.0
+      }
+    },
+    {
+      "id": "variant-4a449a7a-9878-517d-a77d-0296d9cb662a",
+      "score": 0.854109,
+      "metadata": {
+        "text": "core_product_name: flange | material: SS (Stainless Steel) | type_or_class: NON NACE (Not National Association of Corrosion Engineers)",
+        "raw_product_name": "FLANGES (SS NON NACE)",
+        "list_of_product_ids": "17047,17048,17046,17044,16902,24564,34037",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-889a8c0f-3450-5394-8474-47c4c0cc6513",
+      "score": 0.85376865,
+      "metadata": {
+        "text": "core_product_name: flange | type_or_class: SD (Slip-On)",
+        "raw_product_name": "FLANGE (SD)",
+        "list_of_product_ids": "20200,20209,20292,20277,20320,20362,25827",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-8686717b-373e-55c7-9041-9945bb30655c",
+      "score": 0.853298,
+      "metadata": {
+        "text": "core_product_name: ladder | material: Mild Steel (MS)",
+        "raw_product_name": "MILD STEEL LADDERS",
+        "list_of_product_ids": "274,932,750,927,490",
+        "core_id": 96.0
+      }
+    },
+    {
+      "id": "variant-0ea276aa-8a26-5903-a24b-25ef82e2852f",
+      "score": 0.849959,
+      "metadata": {
+        "text": "core_product_name: flange | material: SS (Stainless Steel) INCOLOY",
+        "raw_product_name": "FLANGE (SS INCOLOY)",
+        "list_of_product_ids": "20204,20214,20293,20271,20323,20365,24571",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-7acdf0da-7477-5fa4-be80-59c2a3503b41",
+      "score": 0.84926,
+      "metadata": {
+        "text": "core_product_name: flange | material: CS (Carbon Steel)",
+        "raw_product_name": "FLANGE (CS)",
+        "list_of_product_ids": "20206,20212,20295,20269,20322,20364,24569,25826,37252",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-8151f32d-6561-5089-b73b-442abf9ac1f0",
+      "score": 0.84923875,
+      "metadata": {
+        "text": "core_product_name: backing flange | material: Mild Steel | construction_features: Galvanised",
+        "raw_product_name": "MILD STEEL GALVANISED BACKING FLANGES",
+        "list_of_product_ids": "17443,24565,24653,17446",
+        "core_id": 1476.0
+      }
+    },
+    {
+      "id": "variant-9f9cf4f9-d086-5159-a3c4-2ed045e7ac5e",
+      "score": 0.8490702,
+      "metadata": {
+        "text": "core_product_name: forged flange | material: C.S (Carbon Steel) | type_or_class: NON-NACE (Non-National Association of Corrosion Engineers)",
+        "raw_product_name": "FLANGE- FORGED(C.S NON-NACE)",
+        "list_of_product_ids": "16502,16514,16550,16549,16543,16542,24563,16551",
+        "core_id": 901.0
+      }
+    },
+    {
+      "id": "variant-883216dd-0721-5ea4-849a-21fd8398992d",
+      "score": 0.8488616,
+      "metadata": {
+        "text": "core_product_name: flange | material: SS (Stainless Steel) | standards_and_approvals: NACE (National Association of Corrosion Engineers)",
+        "raw_product_name": "FLANGES (SS NACE)",
+        "list_of_product_ids": "15458,15461,13592,15467,14910,17045,17043,24559,34036",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-8fcbd664-dd9c-5ba2-b74b-c099d937e3e8",
+      "score": 0.8479211,
+      "metadata": {
+        "text": "core_product_name: ball valve | type_or_class: FS (Full Bore or Full Size)",
+        "raw_product_name": "VALVE BALL FS",
+        "list_of_product_ids": "8659",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-753a9003-b4bd-57d4-be90-1fb2b870025a",
+      "score": 0.84700173,
+      "metadata": {
+        "text": "core_product_name: flange | material: Stainless Steel",
+        "raw_product_name": "FLANGE-STAINLESS STEEL",
+        "list_of_product_ids": "6275,5444,11593,11256,11285,11401,8449,8462,8471,8781,12343,12389,12471,12876,12885,12866,12872,12889,12895,12923,12929,12933,12938,12946,12954,12898,12903,12927,12942,12950,13299,17007,17914,18403,18897,18941,19844,21656,21700,21749,26265,26147,26199,26212,26222,26231,27707,37251",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-06564800-2b69-5de3-9d0f-ad64576d6ddf",
+      "score": 0.8468079,
+      "metadata": {
+        "text": "core_product_name: flange | material: Duplex SS (Stainless Steel)",
+        "raw_product_name": "FLANGES - (DUPLEX SS)",
+        "list_of_product_ids": "7592,7267,13066,13217,16007,17667,17652,19840,24557",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-7abf6a23-caeb-58fb-9988-2238d2b1f272",
+      "score": 0.8459608,
+      "metadata": {
+        "text": "core_product_name: flange | material: Ferrous",
+        "raw_product_name": "FERROUS FLANGES",
+        "list_of_product_ids": "23432,23431,23430,23429,24574,24648,26898,26900,26897,26896,37030",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-3e142115-7213-5682-a1bd-78f06cadd1ab",
+      "score": 0.845922,
+      "metadata": {
+        "text": "core_product_name: forged flange | material: CS (Carbon Steel)",
+        "raw_product_name": "FLANGE- FORGED(CS)",
+        "list_of_product_ids": "9997,10024,10734,12472,12869,13048,13055,13058,13059,13046,13052,13053,13060,13061,13062,13063,13064,13065,13301,14899,14907,15974,16212,16256,16319,16376,17011,17414,17448,17672,17926,17910,18080,18064,18087,18205,18405,19841,21673,21916,21935,21924,21927,21962,21964,22249,23228",
+        "core_id": 901.0
+      }
+    },
+    {
+      "id": "variant-01a90f65-f53a-5f3e-9822-820a66b5a99d",
+      "score": 0.84554857,
+      "metadata": {
+        "text": "core_product_name: fitting | material: SS (Stainless Steel)",
+        "raw_product_name": "SS FITTINGS",
+        "list_of_product_ids": "14024,17502,17498,18363,19876,22592,22811,22830,23351,24442,27369,36132",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-27f3d003-0b9b-5483-a8ba-373538a6d09b",
+      "score": 0.84524816,
+      "metadata": {
+        "text": "core_product_name: flange | material: Carbon Steel",
+        "raw_product_name": "FLANGE- CARBON STEEL",
+        "list_of_product_ids": "6273,5442,11592,11400,7751,9314,9323,8440,8447,8472,8450,8463,9392,8779,9231,9232,9235,9310,9317,9344,12306,12342,12387,12469,12766,12759,12779,12874,12884,12870,12887,12894,12921,12928,12932,12936,12944,12952,12897,12904,12911,12931,12940,12948,13370,13377,15999,17005,17518,17911,18401,18895,18939,19832,21671,21654,21699,21732",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-a39dd6fd-8fdf-5f9c-9f2b-665c6cfa3c66",
+      "score": 0.8447636,
+      "metadata": {
+        "text": "core_product_name: black ms (mild steel) pipe",
+        "raw_product_name": "PIPES-MS-(BLACK)",
+        "list_of_product_ids": "13946,14614,14653,14663,19768,21054,29949,29952,29954,28753,29950,29947",
+        "core_id": 1687.0
+      }
+    },
+    {
+      "id": "variant-a47fe2d5-edbc-5cd2-abb3-fb602932eb9f",
+      "score": 0.84464455,
+      "metadata": {
+        "text": "core_product_name: flange | material: Duplex Steel",
+        "raw_product_name": "FLANGES -DUPLEX STEEL",
+        "list_of_product_ids": "17453,17452,24558,24654",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-801581c6-a47e-5285-97d2-488db8ecfbcc",
+      "score": 0.84459984,
+      "metadata": {
+        "text": "core_product_name: pipe-ms (mild steel) | material: MS (Mild Steel) | construction_features: GI (Galvanized Iron) coating",
+        "raw_product_name": "PIPES-MS-(GI)",
+        "list_of_product_ids": "13947,14615,14654,14664,19769,21055,21413,22593,29948,29951,29953,35289,35310,35314",
+        "core_id": 1690.0
+      }
+    },
+    {
+      "id": "variant-66e16cf8-9c35-5e7e-a651-b02a40b1eabe",
+      "score": 0.8445482,
+      "metadata": {
+        "text": "core_product_name: flange | material: Alloy Steel",
+        "raw_product_name": "FLANGE-ALLOY STEEL",
+        "list_of_product_ids": "6274,5443,11284,8448,8461,8470,8780,12388,12470,12868,12875,12865,12871,12888,12922,12930,12937,12945,12953,12956,12926,12941,12949,17006,17575,18402,18896,18940,19839,21655,37254",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-8f6f91bf-b977-5254-b6f7-c761bf9f45a8",
+      "score": 0.8443857,
+      "metadata": {
+        "text": "core_product_name: orifice flange",
+        "raw_product_name": "ORIFICE - FLANGES",
+        "list_of_product_ids": "340,383,406,334,035",
+        "core_id": 1601.0
+      }
+    }
+  ]
+}

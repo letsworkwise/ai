@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: mechanical tee | size: tee size: 150 x 25 NB | feature_or_specifications: feature: grooved outlet",
+  "retrieval_results": [
+    {
+      "id": "variant-663cf76d-ffc4-5b4c-934a-31949f5c06be",
+      "score": 0.85555863,
+      "metadata": {
+        "text": "core_product_name: tee fitting",
+        "raw_product_name": "FITTINGS –TEES",
+        "list_of_product_ids": "14267,14693,14668,14710,14903,14915,15996,16049,18892,19403,18960,19725,19800,19793,20062,20171,20936,21919,22661,22656,22915,23197,27761,27751,27741,27731,27721,27780,37063,36444,36528",
+        "core_id": 881.0
+      }
+    },
+    {
+      "id": "variant-7200274a-d707-5227-ac1e-143a15e80f5e",
+      "score": 0.8441256,
+      "metadata": {
+        "text": "core_product_name: barred tee",
+        "raw_product_name": "BARRED TEE",
+        "list_of_product_ids": "14187,22417,27760,27750,27740,27730,27720,27781,36527",
+        "core_id": 175.0
+      }
+    },
+    {
+      "id": "variant-0ac14aa8-88e6-5346-8d34-683abe9ee02e",
+      "score": 0.8438545,
+      "metadata": {
+        "text": "core_product_name: flow tee",
+        "raw_product_name": "FLOW TEE",
+        "list_of_product_ids": "5371,6067,11152,11151,10737,11283,10560,12908,15980,17555,27536,27759,27749,27739,27729,27719,27782,36526",
+        "core_id": 940.0
+      }
+    },
+    {
+      "id": "variant-0785b087-cffb-5f55-8bb8-07fea8683b5a",
+      "score": 0.83909905,
+      "metadata": {
+        "text": "core_product_name: mechanical seal",
+        "raw_product_name": "MECHANICAL SEAL",
+        "list_of_product_ids": "27467,27466,27516,39968",
+        "core_id": 1453.0
+      }
+    },
+    {
+      "id": "variant-5935ee01-a444-52d8-9615-fa4b0239701e",
+      "score": 0.83634377,
+      "metadata": {
+        "text": "core_product_name: geared motor",
+        "raw_product_name": "Geared Motor",
+        "list_of_product_ids": "7,543,721,735,410",
+        "core_id": 1084.0
+      }
+    },
+    {
+      "id": "variant-9aa36f08-e097-54b1-94fe-8359583782f8",
+      "score": 0.83481556,
+      "metadata": {
+        "text": "core_product_name: orifice fitting",
+        "raw_product_name": "ORIFICE - FITTINGS",
+        "list_of_product_ids": "36537,36541,36539,36546",
+        "core_id": 1602.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.8347714,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    },
+    {
+      "id": "variant-c054d8e4-1e8c-5ea7-b013-ef07cbeba8a2",
+      "score": 0.83445996,
+      "metadata": {
+        "text": "core_product_name: split tee",
+        "raw_product_name": "SPLIT TEE",
+        "list_of_product_ids": "14008,14586,27763,27753,27743,27733,27723,27778,36529",
+        "core_id": 2084.0
+      }
+    },
+    {
+      "id": "variant-f54c914d-9cf4-5252-893a-012bf8e07ce1",
+      "score": 0.8334397,
+      "metadata": {
+        "text": "core_product_name: electric tube",
+        "raw_product_name": "ELECTRIC TUBES",
+        "list_of_product_ids": "20835,20804,20802,28500",
+        "core_id": 699.0
+      }
+    },
+    {
+      "id": "variant-b095a83c-bb8e-5835-ac24-cca90b1705bb",
+      "score": 0.83308345,
+      "metadata": {
+        "text": "core_product_name: machine tool",
+        "raw_product_name": "MACHINE TOOLS",
+        "list_of_product_ids": "19276,19271,19293,19272,27797,33209,33274,35936,39072,39192,39234,39273,39461,39350,39501,39518,39706,39775,39862,39952,40013,40060,40110,40220,40248,40287",
+        "core_id": 1419.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8320978,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.8320893,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-c4dd5da8-ce81-5c61-9d83-f5bcb7ada524",
+      "score": 0.83192146,
+      "metadata": {
+        "text": "core_product_name: scrapper tee",
+        "raw_product_name": "SCRAPPER TEES",
+        "list_of_product_ids": "13878,14911,15978,16124,17264,17263,17262,17550,18295,27762,27752,27742,27732,27722,27779,34727,34729,34855",
+        "core_id": 1975.0
+      }
+    },
+    {
+      "id": "variant-22898445-32be-547c-9b73-bff423af5284",
+      "score": 0.8317049,
+      "metadata": {
+        "text": "core_product_name: orifice flow element",
+        "raw_product_name": "FLOW ELEMENT – ORIFICE",
+        "list_of_product_ids": "7101,7428,8330,17300,21662,37418",
+        "core_id": 933.0
+      }
+    },
+    {
+      "id": "variant-3af49486-93ab-5254-a588-fea4e3345951",
+      "score": 0.8312256,
+      "metadata": {
+        "text": "core_product_name: needle valve",
+        "raw_product_name": "VALVE NEEDLE",
+        "list_of_product_ids": "5434,6265,8184,8167,8171,8152,8182,8183,8181,8599,18083,18084,18086,18307,30828,37284,36451",
+        "core_id": 1543.0
+      }
+    },
+    {
+      "id": "variant-682975fc-e48c-5f80-a54b-4a6d6980a4fd",
+      "score": 0.8306998,
+      "metadata": {
+        "text": "core_product_name: flow tee | material: CS (Carbon Steel) | operating_conditions: Subsea",
+        "raw_product_name": "FLOW TEE CS - SUBSEA",
+        "list_of_product_ids": "19419,27765,27745,27735,27725,27776,27783,27755",
+        "core_id": 940.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.8306894,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-223a653f-ce26-546e-9630-21d058f384c7",
+      "score": 0.8299591,
+      "metadata": {
+        "text": "core_product_name: grating",
+        "raw_product_name": "GRATINGS",
+        "list_of_product_ids": "218,522,185,428,606",
+        "core_id": 1068.0
+      }
+    },
+    {
+      "id": "variant-b5e87529-625e-552b-b6df-173a5d45618c",
+      "score": 0.8296914,
+      "metadata": {
+        "text": "core_product_name: restriction orifice",
+        "raw_product_name": "RESTRICTION ORIFICE",
+        "list_of_product_ids": "8334,14373,14625,14845,14897,17138,17297,17291,17290,17795,18034,19640,10652,21402,22350,36216,36368",
+        "core_id": 1904.0
+      }
+    },
+    {
+      "id": "variant-dfcd4819-e444-50ec-9d69-30a9d94a91a7",
+      "score": 0.8296584,
+      "metadata": {
+        "text": "core_product_name: modulating motor",
+        "raw_product_name": "MODULATING MOTOR",
+        "list_of_product_ids": "212,322,124,628,581",
+        "core_id": 1497.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.8296323,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-215fd7c9-ee84-5244-9a2d-e9ceebef77ce",
+      "score": 0.82944924,
+      "metadata": {
+        "text": "core_product_name: mechanical miscellaneous work",
+        "raw_product_name": "MECHANICAL-MISCELLANEOUS WORKS",
+        "list_of_product_ids": "36859,35838,35841,35881,36516",
+        "core_id": 1454.0
+      }
+    },
+    {
+      "id": "variant-ea615f6d-ddd7-5bf3-89fb-13bae00fb9b0",
+      "score": 0.8293953,
+      "metadata": {
+        "text": "core_product_name: seamless tube | special_attributes: Seamless",
+        "raw_product_name": "SEAMLESS TUBES",
+        "list_of_product_ids": "13885,14712,14878,21559,27372,36957,36666,37273",
+        "core_id": 1987.0
+      }
+    },
+    {
+      "id": "variant-2e240545-7df4-5684-a867-6ed06fbac62a",
+      "score": 0.8293433,
+      "metadata": {
+        "text": "core_product_name: naval patternised valve",
+        "raw_product_name": "VALVES (NAVAL PATTERNISED)",
+        "list_of_product_ids": "222,562,225,528,613",
+        "core_id": 2378.0
+      }
+    },
+    {
+      "id": "variant-72b130b8-f65d-5293-b166-916a12f6b2f4",
+      "score": 0.8291877,
+      "metadata": {
+        "text": "core_product_name: impulse tube",
+        "raw_product_name": "IMPULSE PIPES/TUBES",
+        "list_of_product_ids": "1,368,121,414",
+        "core_id": 1227.0
+      }
+    },
+    {
+      "id": "variant-49b73ca9-9bcf-5025-b7eb-281b8c263141",
+      "score": 0.8289492,
+      "metadata": {
+        "text": "core_product_name: motor",
+        "raw_product_name": "Motors",
+        "list_of_product_ids": "6407,5578,11169,11344,10182,11378,11384,12243,12377,14875,15882,16439,19757,24028,21986,23476,23490,39314,36618,34590,34595,34593,34594,34625,34626,34627,34628,34632,34633,34634,34635,34636,34637,34638,34639,34640,34646,34881,34909,34908,34907,34906,34905,34919,34918,34917,34916,34915,34914,34913,34912,34911,34910,34920,34929,34928,34927,34926,34921,34924,34923,34925,34922,35146,35152,35188,35214,35270,35322,35323,35443,35448,35665,35680,35688,35875,35873,35955,35971,40181,40232",
+        "core_id": 556.0
+      }
+    },
+    {
+      "id": "variant-30af54ab-8cc5-5bd5-b441-fb4223f3c8a8",
+      "score": 0.8289277,
+      "metadata": {
+        "text": "core_product_name: tube mill",
+        "raw_product_name": "TUBE MILLS",
+        "list_of_product_ids": "233,392,337,323,333",
+        "core_id": 2283.0
+      }
+    },
+    {
+      "id": "variant-8f6f91bf-b977-5254-b6f7-c761bf9f45a8",
+      "score": 0.8287958,
+      "metadata": {
+        "text": "core_product_name: orifice flange",
+        "raw_product_name": "ORIFICE - FLANGES",
+        "list_of_product_ids": "340,383,406,334,035",
+        "core_id": 1601.0
+      }
+    },
+    {
+      "id": "variant-1fe7927e-8e90-5f04-8015-9cb017b97836",
+      "score": 0.8287532,
+      "metadata": {
+        "text": "core_product_name: tube | material: Titanium",
+        "raw_product_name": "TUBE-TITANIUM",
+        "list_of_product_ids": "6307,5478,13304,30877",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-c0875fc8-a188-5b80-a701-f51d97ce66b3",
+      "score": 0.82874954,
+      "metadata": {
+        "text": "core_product_name: tube | special_attributes: Seamless | material: Nickel Alloys",
+        "raw_product_name": "PIPE/TUBE-NICKEL ALLOYS (S.LESS & WELDED)",
+        "list_of_product_ids": "6289,5460,10330,7774,7795,7807,7781,13138,17018,17429,19628,21096,21317,21307,30870,30875,37088",
+        "core_id": 88.0
+      }
+    }
+  ]
+}

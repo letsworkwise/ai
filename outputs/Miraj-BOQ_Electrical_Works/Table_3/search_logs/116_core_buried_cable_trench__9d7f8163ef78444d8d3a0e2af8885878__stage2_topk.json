@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: buried cable trench construction | size: size: 600x750x8000 mm | feature_or_specifications: includes: excavation, back filling, river sand bedding, spreading of brick",
+  "retrieval_results": [
+    {
+      "id": "variant-c89cc3fc-3f9d-59f3-a746-d6e464ff68e9",
+      "score": 0.85649323,
+      "metadata": {
+        "text": "core_product_name: cable trench",
+        "raw_product_name": "CABLE TRENCHES",
+        "list_of_product_ids": "15786,15854,15876,15870,24073,23925",
+        "core_id": 285.0
+      }
+    },
+    {
+      "id": "variant-5f3ff1a2-6665-52ef-bf1d-e3015d0bf7e8",
+      "score": 0.8401424,
+      "metadata": {
+        "text": "core_product_name: precast trench",
+        "raw_product_name": "PRECAST TRENCHES",
+        "list_of_product_ids": "15831,15829,15819,15840",
+        "core_id": 1761.0
+      }
+    },
+    {
+      "id": "variant-aced03b4-d6e4-5165-b3cf-7a7e7de87bc6",
+      "score": 0.8274699,
+      "metadata": {
+        "text": "core_product_name: perforated cable tray",
+        "raw_product_name": "Perforrated Cable Tray",
+        "list_of_product_ids": "7,013,732,126,432",
+        "core_id": 1054.0
+      }
+    },
+    {
+      "id": "variant-69b3ec6c-7994-52e1-92b8-d4a1a9160a94",
+      "score": 0.8268972,
+      "metadata": {
+        "text": "core_product_name: electric cable reeling drum",
+        "raw_product_name": "ELECTRIC CABLE REELING DRUM",
+        "list_of_product_ids": "274,892,751,127,488",
+        "core_id": 685.0
+      }
+    },
+    {
+      "id": "variant-4d61d445-0ca2-5a71-a2b2-abf92cbb9dac",
+      "score": 0.8267043,
+      "metadata": {
+        "text": "core_product_name: communication cable | construction_features: jelly filled",
+        "raw_product_name": "CABLES COMMN. (JELLY FILLED)",
+        "list_of_product_ids": "6426,5596,11747,12089,12121,13297,23995,23864",
+        "core_id": 287.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.82558334,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-9f830cf9-aaed-5a97-8a1b-c000701412dd",
+      "score": 0.8247626,
+      "metadata": {
+        "text": "core_product_name: for cementitious surface water proofing",
+        "raw_product_name": "WATER PROOFING FOR CEMENTITIONS SURFACE",
+        "list_of_product_ids": "14088,22464,24156,23887,22879,35650",
+        "core_id": 2445.0
+      }
+    },
+    {
+      "id": "variant-a88868c3-e02b-556c-afb5-f9319567fc58",
+      "score": 0.8237251,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLES",
+        "list_of_product_ids": "15455,13721,24275,15161,16241,19098,23820,23814,21319,19315,23819,23822,24273,23829,20141,23831,24058,23836,23909,23839,23828,24685,24726,24844,24955,31590,31591,26436,26438,31740,33330",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-7f090a1a-b828-5a18-86a5-0ef23d51283a",
+      "score": 0.8236442,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLE STOCKIST/TRADERS",
+        "list_of_product_ids": "2,467,924,680",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-5efbfc9f-bc75-5353-9be4-8456266d9a3b",
+      "score": 0.8229524,
+      "metadata": {
+        "text": "core_product_name: column | material: CS (Carbon Steel) | construction_features: site fabricated",
+        "raw_product_name": "COLUMN-CS SITE FABRICATED",
+        "list_of_product_ids": "6687,5858,9697,12010,12167,12592,13093,23509,37860,37727,37743",
+        "core_id": 392.0
+      }
+    },
+    {
+      "id": "variant-b282183e-bc8e-5a78-bf84-96bc3fea7930",
+      "score": 0.8228341,
+      "metadata": {
+        "text": "core_product_name: cable gland",
+        "raw_product_name": "CABLE GLANDS",
+        "list_of_product_ids": "5961,6789,8221,8217,10553,10605,8222,8223,12107,15811,15929,16012,16032,16026,17577,22860,26078,26074,26071,36606,33509,33510,35776,35866,39358",
+        "core_id": 278.0
+      }
+    },
+    {
+      "id": "variant-f4cb35a0-45af-5dac-bc43-67d73604e2eb",
+      "score": 0.82266206,
+      "metadata": {
+        "text": "core_product_name: insulating brick",
+        "raw_product_name": "INSULATING BRICKS",
+        "list_of_product_ids": "6137,5304,8830,8851,8855,8862,8863,8864,9618,9623,9625,9659,9800,13152,24285",
+        "core_id": 1267.0
+      }
+    },
+    {
+      "id": "variant-4a40dd6f-7d8c-58dc-b47f-6a3a3bf50a6e",
+      "score": 0.8226338,
+      "metadata": {
+        "text": "core_product_name: site fabrication and erection",
+        "raw_product_name": "FABRICATION & ERECTION (SITE)",
+        "list_of_product_ids": "260,232,602,226,692",
+        "core_id": 789.0
+      }
+    },
+    {
+      "id": "variant-96e09f88-ffa1-5aed-843a-c0657463818e",
+      "score": 0.82186747,
+      "metadata": {
+        "text": "core_product_name: anode backfill material",
+        "raw_product_name": "ANODE BACKFILL MATERIAL",
+        "list_of_product_ids": "19226,19222,21072,21104,28253",
+        "core_id": 119.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.8213317,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-fd13ccfd-2158-5657-967f-7707e9b442e3",
+      "score": 0.8213093,
+      "metadata": {
+        "text": "core_product_name: commercial cable",
+        "raw_product_name": "COMMERCIAL CABLE",
+        "list_of_product_ids": "20779,20808,20806,21176,21175,27361",
+        "core_id": 400.0
+      }
+    },
+    {
+      "id": "variant-40fb2b6b-f787-5837-b60d-ecd14d6c3f35",
+      "score": 0.82116216,
+      "metadata": {
+        "text": "core_product_name: box culvert",
+        "raw_product_name": "BOX CULVERTS",
+        "list_of_product_ids": "15805,15857,15874,15883",
+        "core_id": 246.0
+      }
+    },
+    {
+      "id": "variant-9dcb06c7-3e3a-5e9e-8143-d92451f81109",
+      "score": 0.82075024,
+      "metadata": {
+        "text": "core_product_name: naval cable",
+        "raw_product_name": "NAVAL CABLE",
+        "list_of_product_ids": "20820,20818,20816,20814,20812,20810,21172,21170,27353",
+        "core_id": 1533.0
+      }
+    },
+    {
+      "id": "variant-78d4f458-5f1c-5e98-ae99-653602ddc2c8",
+      "score": 0.8205138,
+      "metadata": {
+        "text": "core_product_name: cable tray",
+        "raw_product_name": "CABLE TRAY",
+        "list_of_product_ids": "7297,7345,10639,10642,7895,7896,16219,18875,18921,19965,19975,24240,21182,21180,22148,26429",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.8204684,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-371b3ece-a606-5c8d-9ec9-de52fb9e3846",
+      "score": 0.8202463,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper | construction_features: Coated | construction_features: Bare",
+        "raw_product_name": "COPPER TUBES(COATED,BARE)",
+        "list_of_product_ids": "6,487,565,818,967",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-a36a1d10-cd01-5381-be4c-5c59cd4524ec",
+      "score": 0.8199064,
+      "metadata": {
+        "text": "core_product_name: fabrication and supply bunker",
+        "raw_product_name": "BUNKER (FABRICATION & SUPPLY)",
+        "list_of_product_ids": "21044,21046,28516,36542,36543,36544",
+        "core_id": 255.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8195827,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.81957537,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-3a78a9d5-f452-5d16-b328-9de3058b685e",
+      "score": 0.8195751,
+      "metadata": {
+        "text": "core_product_name: fabricated duct",
+        "raw_product_name": "FABRICATED DUCT",
+        "list_of_product_ids": "1,397,437,260",
+        "core_id": 787.0
+      }
+    },
+    {
+      "id": "variant-475d6e28-3e39-5b3c-86e9-f6970c05297a",
+      "score": 0.81906104,
+      "metadata": {
+        "text": "core_product_name: hazardous area cable gland",
+        "raw_product_name": "CABLE GLANDS ( HAZARDOUS AREA)",
+        "list_of_product_ids": "6443,5613,8218,10559,10589,10590,10604,8216,8219,8220,8224,12670,17578,23865,22857,24500,35772",
+        "core_id": 279.0
+      }
+    },
+    {
+      "id": "variant-323bf0e7-9d8f-5ea5-9cad-eb58b0ac6448",
+      "score": 0.8189351,
+      "metadata": {
+        "text": "core_product_name: special cable",
+        "raw_product_name": "SPECIAL CABLES",
+        "list_of_product_ids": "13989,14840,20102,20070,24071,23923",
+        "core_id": 2074.0
+      }
+    },
+    {
+      "id": "variant-59f17aeb-7dca-5e47-be1d-8595bc7d5c70",
+      "score": 0.81888705,
+      "metadata": {
+        "text": "core_product_name: backfill",
+        "raw_product_name": "BACKFILL",
+        "list_of_product_ids": "211,032,110,228,254",
+        "core_id": 166.0
+      }
+    },
+    {
+      "id": "variant-1b38c2cd-48ae-5642-814d-205a8917dd9f",
+      "score": 0.8185288,
+      "metadata": {
+        "text": "core_product_name: cable lug",
+        "raw_product_name": "CABLE LUG",
+        "list_of_product_ids": "2,064,720,116",
+        "core_id": 280.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.81811225,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "sheet_name": "Sheet1",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "EARTHING MATERIALS | vitreous enamel caution boards  suitable for 440 V as per IS 255 including fixing on the wall with all the required hardware  etc. complete in English / Hindi/ Local Language.",
+      "core_product_name": "earthing materials",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: vitreous enamel, application: caution boards, voltage: 440 volts, standard: indian standard 255, language: english, hindi, local language, accessory: fixing hardware",
+      "quantity": "10.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "EARTHING MATERIALS | Single Line Diagram complete with laminated  A2 size colour print.",
+      "core_product_name": "earthing materials",
+      "acronymed_core_product_name": "",
+      "size": "print size: A2",
+      "feature_or_specifications": "feature: single line diagram, finish: laminated, color: colour print",
+      "quantity": "2.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "EARTHING MATERIALS | shock treatment  chart framed in good quality  glass in English / Hindi / Local Language).",
+      "core_product_name": "earthing materials",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: shock treatment chart, frame material: glass, quality: good, language: english, hindi, local language",
+      "quantity": "10.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "EARTHING MATERIALS | Insulating mat (2 or 2.5mm  thick X 0.9 or 1Mtr w , 11 KV) as per IS15652/IEC61111",
+      "core_product_name": "earthing materials",
+      "acronymed_core_product_name": "",
+      "size": "thickness: 2 or 2.5 mm, width: 0.9 or 1 meter",
+      "feature_or_specifications": "type: insulating mat, voltage: 11 kilovolts, standard: indian standard 15652, standard: IEC(International Electrotechnical Commission) 61111",
+      "quantity": "10.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "EARTHING MATERIALS | Pairs of Rubber hand gloves IS Mark",
+      "core_product_name": "earthing materials",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: rubber, type: hand gloves, certification: IS(indian standard) mark",
+      "quantity": "10.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": [],
+      "full_product_description": "EARTHING MATERIALS | Fiirst aid box with Snake serum",
+      "core_product_name": "earthing materials",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "accessory: first aid box, accessory: snake serum",
+      "quantity": "2.0",
+      "unit": "Nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      60,
+      64
+    ],
+    "original_rows": [
+      {
+        "0": "EARTHING MATERIALS",
+        "1": "Single Line Diagram complete with laminated  A2 size colour print.",
+        "2": NaN,
+        "3": 2.0,
+        "4": "Set",
+        "5": NaN
+      },
+      {
+        "0": "EARTHING MATERIALS",
+        "1": "shock treatment  chart framed in good quality  glass in English / Hindi / Local Language).",
+        "2": NaN,
+        "3": 10.0,
+        "4": "Nos",
+        "5": NaN
+      },
+      {
+        "0": "EARTHING MATERIALS",
+        "1": "Insulating mat (2 or 2.5mm  thick X 0.9 or 1Mtr w , 11 KV) as per IS15652/IEC61111",
+        "2": NaN,
+        "3": 10.0,
+        "4": "Nos",
+        "5": NaN
+      },
+      {
+        "0": "EARTHING MATERIALS",
+        "1": "Pairs of Rubber hand gloves IS Mark",
+        "2": NaN,
+        "3": 10.0,
+        "4": "Nos",
+        "5": NaN
+      },
+      {
+        "0": "EARTHING MATERIALS",
+        "1": "Fiirst aid box with Snake serum",
+        "2": NaN,
+        "3": 2.0,
+        "4": "Nos",
+        "5": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2186,
+    "completion_tokens": 774
+  }
+}

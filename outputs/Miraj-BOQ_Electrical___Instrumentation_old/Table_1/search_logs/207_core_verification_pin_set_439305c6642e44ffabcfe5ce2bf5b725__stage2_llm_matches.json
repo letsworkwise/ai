@@ -1,0 +1,59 @@
+{
+  "query": "core_product_name: verification pin set",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: set | acronymed_core_product_name: d p set (developer cleaner penetrant) | type_or_class: Developer Cleaner Penetrant",
+        "raw_product_name": "D P SET (DEVLOPER CLEANER PENETRANT)",
+        "list_of_product_ids": [
+          "32798",
+          "32799",
+          "32992",
+          "33026",
+          "33179",
+          "33244",
+          "33546",
+          "33618",
+          "35906"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: socket set spanner",
+        "raw_product_name": "SOCKET SET- SPPANER",
+        "list_of_product_ids": [
+          "37011",
+          "32816",
+          "32817",
+          "32997",
+          "33031",
+          "33184",
+          "33249",
+          "33551",
+          "33646",
+          "37293",
+          "35911"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: pin insulator",
+        "raw_product_name": "PIN INSULATOR",
+        "list_of_product_ids": [
+          "1",
+          "390",
+          "518",
+          "323"
+        ]
+      }
+    }
+  ]
+}

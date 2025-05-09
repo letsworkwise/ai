@@ -1,0 +1,178 @@
+{
+  "sheet_name": "Instrumentation",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Installation standard 7-52-0439/ 0441/1133/1134",
+      "core_product_name": "installation standard",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "standard: 7-52-0439 or 0441 or 1133 or 1134",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Radiography conforming to the requirements of the Piping Class for all weld joints in impulse piping of Pressure Instruments installations Installation standard 7-52-0439/ 0441/1133/1134",
+      "core_product_name": "radiography of weld joints in impulse piping of pressure instruments installations",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "requirement: piping class, standard: 7-52-0439 or 0441 or 1133 or 1134",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Supply, Fabrication and erection of Galvanised Iron duct and its supports as per standard. Duct configurations include Duct Equal Tee, Duct Expander Tee, Duct Reducer Tee, Duct Offset Bend, Duct with Reducer, Vertical Plane Tee, Vertical Plane Elbow, Duct Bridge (jumpover), Sleeves. Run of Duct   600mm (W) X 300mm (H)",
+      "core_product_name": "galvanised iron duct and supports",
+      "acronymed_core_product_name": "gi duct",
+      "size": "duct width: 600mm, duct height: 300mm",
+      "feature_or_specifications": "material: galvanised iron, configuration: equal tee or expander tee or reducer tee or offset bend or duct with reducer or vertical plane tee or vertical plane elbow or duct bridge (jumpover) or sleeves, feature: supply, fabrication and erection, standard: as per standard",
+      "quantity": "50.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Supply, Fabrication and erection of Galvanised Iron duct and its supports as per standard. Duct configurations include Duct Equal Tee, Duct Expander Tee, Duct Reducer Tee, Duct Offset Bend, Duct with Reducer, Vertical Plane Tee, Vertical Plane Elbow, Duct Bridge (jumpover), Sleeves. Run of Duct   800mm (W) X 300mm (H)",
+      "core_product_name": "galvanised iron duct and supports",
+      "acronymed_core_product_name": "gi duct",
+      "size": "duct width: 800mm, duct height: 300mm",
+      "feature_or_specifications": "material: galvanised iron, configuration: equal tee or expander tee or reducer tee or offset bend or duct with reducer or vertical plane tee or vertical plane elbow or duct bridge (jumpover) or sleeves, feature: supply, fabrication and erection, standard: as per standard",
+      "quantity": "1000.0",
+      "unit": "m"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      160,
+      169
+    ],
+    "original_rows": [
+      {
+        "0": 402,
+        "1": 0,
+        "2": "01II.780.30.2",
+        "3": "Installation standard 7-52-0439/ 0441/1133/1134",
+        "4": 2.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 403,
+        "1": 0,
+        "2": "01II.785",
+        "3": "RADIOGRAPHY - CARBON STEEL WELD JOINTS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 404,
+        "1": 0,
+        "2": "01II.785.30",
+        "3": "Radiography conforming to the requirements of the Piping Class for all weld joints in impulse piping of Pressure Instruments installations",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 405,
+        "1": 0,
+        "2": "01II.785.30.2",
+        "3": "Installation standard 7-52-0439/ 0441/1133/1134",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 406,
+        "1": 0,
+        "2": "01II.800",
+        "3": "STRUCTURAL",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 407,
+        "1": 0,
+        "2": "01II.800.20",
+        "3": "Supply, Fabrication and erection of Galvanised Iron duct and its supports as per standard. Duct configurations include Duct Equal Tee, Duct Expander Tee, Duct Reducer Tee, Duct Offset Bend, Duct with Reducer, Vertical Plane Tee, Vertical Plane Elbow, Duct Bridge (jumpover), Sleeves.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 408,
+        "1": 0,
+        "2": "01II.800.20.1V4",
+        "3": "Run of Duct   600mm (W) X 300mm (H)",
+        "4": 50.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 409,
+        "1": 0,
+        "2": "01II.800.20.1V5",
+        "3": "Run of Duct   800mm (W) X 300mm (H)",
+        "4": 1000.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 410,
+        "1": 0,
+        "2": "01II.800.52",
+        "3": "Supply, fabrication and erection of angle / channel  trays fabricated out of GI angle as per drawing including supply, fabrication and erection of its supports and painting as  per painting standard attached including supply of paint.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 411,
+        "1": 0,
+        "2": "01II.800.52.1V2",
+        "3": "Tray of   50x 50 x 6mm   angle",
+        "4": 500.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2374,
+    "completion_tokens": 1033
+  }
+}

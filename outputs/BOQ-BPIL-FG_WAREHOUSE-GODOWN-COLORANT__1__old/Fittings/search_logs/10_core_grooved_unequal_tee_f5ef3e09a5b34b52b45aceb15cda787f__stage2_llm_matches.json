@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: grooved unequal tee | size: nominal bore: 150X50X150",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: unequal tee",
+        "raw_product_name": "UNEQUAL TEE",
+        "list_of_product_ids": [
+          "15470",
+          "27764",
+          "27754",
+          "27744",
+          "27734",
+          "27724",
+          "27777"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: tee fitting",
+        "raw_product_name": "FITTINGS \u0013TEES",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: split tee",
+        "raw_product_name": "SPLIT TEE",
+        "list_of_product_ids": [
+          "14008",
+          "14586",
+          "27763",
+          "27753",
+          "27743",
+          "27733",
+          "27723",
+          "27778",
+          "36529"
+        ]
+      }
+    }
+  ]
+}

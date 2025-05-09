@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: tfms software | size: licence: minimum 12 nos | feature_or_specifications: make: same as radar manufacturer, compatibility: servo gauges",
+  "retrieval_results": [
+    {
+      "id": "variant-60cc1389-d2d7-5796-b91e-9be0cfc16c55",
+      "score": 0.84641534,
+      "metadata": {
+        "text": "core_product_name: instrumentation fitting",
+        "raw_product_name": "INSTRUMENTATION FITTINGS",
+        "list_of_product_ids": "14372,17508,17507,17506,17505,17504,17501,17500,17496,17958,17960",
+        "core_id": 1264.0
+      }
+    },
+    {
+      "id": "variant-a32d8296-ea3c-51d4-95de-73a3824167db",
+      "score": 0.8461905,
+      "metadata": {
+        "text": "core_product_name: measurement system",
+        "raw_product_name": "MEASUREMENT SYSTEM",
+        "list_of_product_ids": "188,511,884,918,973",
+        "core_id": 1451.0
+      }
+    },
+    {
+      "id": "variant-e2c5e19f-b004-5e9a-af92-357a7b21565d",
+      "score": 0.8443964,
+      "metadata": {
+        "text": "core_product_name: technological control system",
+        "raw_product_name": "TECHNOLOGICAL CONTROL SYSTEM",
+        "list_of_product_ids": "236,112,356,823,584",
+        "core_id": 2209.0
+      }
+    },
+    {
+      "id": "variant-d3184bd5-867c-5333-aa27-0d8d3f250563",
+      "score": 0.84436697,
+      "metadata": {
+        "text": "core_product_name: computer software",
+        "raw_product_name": "COMPUTER SOFTWARE",
+        "list_of_product_ids": "193,121,931,327,257",
+        "core_id": 423.0
+      }
+    },
+    {
+      "id": "variant-cbae75ef-1f57-51fb-a18d-88a528fb3ab5",
+      "score": 0.8433909,
+      "metadata": {
+        "text": "core_product_name: measuring special gauge",
+        "raw_product_name": "SPECIAL MEASURING GAUGES",
+        "list_of_product_ids": "216,522,165,021,743",
+        "core_id": 2077.0
+      }
+    },
+    {
+      "id": "variant-a34f1f1e-82d9-5e87-b46b-8d2eb35aca6c",
+      "score": 0.8429295,
+      "metadata": {
+        "text": "core_product_name: tachometer",
+        "raw_product_name": "TACHOMETER",
+        "list_of_product_ids": "164,341,646,822,032",
+        "core_id": 2208.0
+      }
+    },
+    {
+      "id": "variant-d11ddc0c-ab4c-5cbd-8b87-dd31c119c41c",
+      "score": 0.84281415,
+      "metadata": {
+        "text": "core_product_name: level indicator | type_or_class: Servo Type TGM",
+        "raw_product_name": "LEVEL INDICATORS (SERVO TYPE TGM)",
+        "list_of_product_ids": "13980",
+        "core_id": 1332.0
+      }
+    },
+    {
+      "id": "variant-37a20e30-39e6-5cce-9382-7bf349c28f51",
+      "score": 0.84228486,
+      "metadata": {
+        "text": "core_product_name: receiver gauge",
+        "raw_product_name": "RECEIVER GAUGES",
+        "list_of_product_ids": "10283,10000,10021,22687,37662,37655,35965",
+        "core_id": 1869.0
+      }
+    },
+    {
+      "id": "variant-4f374d94-1b89-566c-a340-967f5423bfe0",
+      "score": 0.8420136,
+      "metadata": {
+        "text": "core_product_name: gauge",
+        "raw_product_name": "ROCHESTER GAUGE",
+        "list_of_product_ids": "13848,13850,15244,15258,21980,37412",
+        "core_id": 1043.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.84174263,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-f137bdce-af71-511f-9954-636b434a08d5",
+      "score": 0.8401618,
+      "metadata": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPARETURE GAUGE",
+        "list_of_product_ids": "13992,36535,17284,17283,17282,23171,35667,35957,35960,35972,37406",
+        "core_id": 2222.0
+      }
+    },
+    {
+      "id": "variant-f36f9a26-b202-54c5-b8bf-b0bf8137e3a4",
+      "score": 0.8401442,
+      "metadata": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPERATURE GAUGES",
+        "list_of_product_ids": "19536,19516,27065,37528,35959,35961,37407",
+        "core_id": 2222.0
+      }
+    },
+    {
+      "id": "variant-0a9290b3-8ea7-59a2-a8d9-9ba99d3dbdaa",
+      "score": 0.8395271,
+      "metadata": {
+        "text": "core_product_name: machine monitoring system",
+        "raw_product_name": "MACHINE MONITORING SYSTEMS",
+        "list_of_product_ids": "6478,5649,12455,32772,38192",
+        "core_id": 1418.0
+      }
+    },
+    {
+      "id": "variant-7f02345e-610e-5112-b4c7-2ce6f9d24dbf",
+      "score": 0.83946466,
+      "metadata": {
+        "text": "core_product_name: level gauge",
+        "raw_product_name": "LEVEL GAUGES",
+        "list_of_product_ids": "14374,17072,18035,23121,23520,36626,36111",
+        "core_id": 1330.0
+      }
+    },
+    {
+      "id": "variant-86b7fc98-7361-5489-9af1-070a461775ff",
+      "score": 0.8389139,
+      "metadata": {
+        "text": "core_product_name: level sensor",
+        "raw_product_name": "LEVEL SENSOR",
+        "list_of_product_ids": "19121,19128,19133,38465",
+        "core_id": 1336.0
+      }
+    },
+    {
+      "id": "variant-6cd09d55-0b7c-585f-820b-4a2cf13a2437",
+      "score": 0.83884525,
+      "metadata": {
+        "text": "core_product_name: thermal mass flow meter",
+        "raw_product_name": "THERMAL MASS FLOW METER",
+        "list_of_product_ids": "14013,18172,24191,36113",
+        "core_id": 2253.0
+      }
+    },
+    {
+      "id": "variant-74473618-f368-5f8e-9f75-5bb7b011cde3",
+      "score": 0.8387987,
+      "metadata": {
+        "text": "core_product_name: ground monitoring system",
+        "raw_product_name": "GROUND MONITORING SYSTEMS",
+        "list_of_product_ids": "6629,5799,10305,24235,19579",
+        "core_id": 1079.0
+      }
+    },
+    {
+      "id": "variant-39fce78b-8d44-56c5-9c95-7e9a9934ea56",
+      "score": 0.8387247,
+      "metadata": {
+        "text": "core_product_name: width gauge",
+        "raw_product_name": "Width Gauge",
+        "list_of_product_ids": "7552,7226,10509,18014",
+        "core_id": 2491.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.83866096,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    },
+    {
+      "id": "variant-6aa0a898-71c9-566e-b82e-854055a79538",
+      "score": 0.83851296,
+      "metadata": {
+        "text": "core_product_name: embedded control system",
+        "raw_product_name": "EMBEDDED CONTROL SYSTEM",
+        "list_of_product_ids": "236,092,358,623,573",
+        "core_id": 737.0
+      }
+    },
+    {
+      "id": "variant-f0f0f159-c9f0-57bd-89ee-9689d390c903",
+      "score": 0.83816326,
+      "metadata": {
+        "text": "core_product_name: calibration",
+        "raw_product_name": "INSTRUMENTS CALIBRATION",
+        "list_of_product_ids": "24237,23794,23833,23950,23799,26879",
+        "core_id": 1265.0
+      }
+    },
+    {
+      "id": "variant-04915d72-1aa1-5772-8f24-c7256b326974",
+      "score": 0.837809,
+      "metadata": {
+        "text": "core_product_name: distance sensor",
+        "raw_product_name": "DISTANCE SENSOR",
+        "list_of_product_ids": "19120,19127,19134,38464",
+        "core_id": 602.0
+      }
+    },
+    {
+      "id": "variant-67245391-dc3c-5e74-b4e4-ea803165dcdd",
+      "score": 0.8376973,
+      "metadata": {
+        "text": "core_product_name: radar level transmitter",
+        "raw_product_name": "RADAR LEVEL TRANSMITTERS",
+        "list_of_product_ids": "13803,15081,15246,15260,23177,37424,36176,36324",
+        "core_id": 1852.0
+      }
+    },
+    {
+      "id": "variant-7e79e2f4-50f1-5eb2-ad00-d8225fbf09a8",
+      "score": 0.8375977,
+      "metadata": {
+        "text": "core_product_name: power management system",
+        "raw_product_name": "POWER MANAGEMENT SYSTEM",
+        "list_of_product_ids": "138,561,462,423,212",
+        "core_id": 1744.0
+      }
+    },
+    {
+      "id": "variant-a28f217c-33b3-55f8-9958-274b5f02542e",
+      "score": 0.8375473,
+      "metadata": {
+        "text": "core_product_name: special measuring tool",
+        "raw_product_name": "SPECIAL MEASURING TOOLS",
+        "list_of_product_ids": "216,462,165,121,750",
+        "core_id": 2079.0
+      }
+    },
+    {
+      "id": "variant-0eb5d02c-397d-58fc-80d8-1ab2e3a705cc",
+      "score": 0.836977,
+      "metadata": {
+        "text": "core_product_name: test and measuring equipment",
+        "raw_product_name": "Test & Measuring Equipment",
+        "list_of_product_ids": "1,401,515,286",
+        "core_id": 2303.0
+      }
+    },
+    {
+      "id": "variant-b6be6587-f30d-5e04-856c-202eed73a5a4",
+      "score": 0.8368662,
+      "metadata": {
+        "text": "core_product_name: reflex level gauge",
+        "raw_product_name": "LEVEL GAUGES (REFLEX)",
+        "list_of_product_ids": "13571,17073,21346,21755,23033,23533",
+        "core_id": 1334.0
+      }
+    },
+    {
+      "id": "variant-3dd425cf-1bbc-512c-93e2-ce9bb8683978",
+      "score": 0.83675724,
+      "metadata": {
+        "text": "core_product_name: compound gauge",
+        "raw_product_name": "COMPOUND GAUGE",
+        "list_of_product_ids": "16562,16548,16617,16592,16588,27801",
+        "core_id": 412.0
+      }
+    },
+    {
+      "id": "variant-d337814d-4caf-55de-a5cc-ad63eedc8308",
+      "score": 0.8364089,
+      "metadata": {
+        "text": "core_product_name: instrument and meter",
+        "raw_product_name": "INSTRUMENT & METER",
+        "list_of_product_ids": "20461,20502,20648,20115",
+        "core_id": 1248.0
+      }
+    },
+    {
+      "id": "variant-185b88e9-63b7-56a0-9df9-801c2285f4c5",
+      "score": 0.83638334,
+      "metadata": {
+        "text": "core_product_name: fitting | standards_and_approvals: IS (Indian Standards)-1239",
+        "raw_product_name": "FITTINGS TO IS-1239",
+        "list_of_product_ids": "14270,14771,33994,33993,33992,33991,33990",
+        "core_id": 273.0
+      }
+    }
+  ]
+}

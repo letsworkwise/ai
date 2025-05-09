@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: gi(galvanized iron) strip | size: dimensions: 50 x 6 mm",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flat | acronymed_core_product_name: g. i. flat (galvanized iron flat) | material: Galvanized Iron",
+        "raw_product_name": "GALVANIZED IRON FLAT (G. I. FLAT)",
+        "list_of_product_ids": [
+          "17147",
+          "17136",
+          "17122",
+          "17130",
+          "17127",
+          "17157",
+          "17158",
+          "27365",
+          "28915",
+          "35812"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: earthing wire | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI EARTHING WIRE",
+        "list_of_product_ids": [
+          "13437"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: octagonal pole | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI-OCTAGONAL POLE",
+        "list_of_product_ids": [
+          "180",
+          "571",
+          "805",
+          "618",
+          "592"
+        ]
+      }
+    }
+  ]
+}

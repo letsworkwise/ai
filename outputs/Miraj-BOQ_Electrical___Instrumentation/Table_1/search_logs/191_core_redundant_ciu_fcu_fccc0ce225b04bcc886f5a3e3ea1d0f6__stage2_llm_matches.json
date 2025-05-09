@@ -1,0 +1,69 @@
+{
+  "query": "core_product_name: redundant ciu/fcu | size: modbus ports for process plc: 2, modbus ports for tfms: 2 | feature_or_specifications: interfacing: all required, set: 1",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: interface device",
+        "raw_product_name": "INTERFACE DEVICES",
+        "list_of_product_ids": [
+          "6630",
+          "5800",
+          "11596",
+          "11597",
+          "10310",
+          "11701",
+          "11702",
+          "11703",
+          "12288",
+          "8405",
+          "13108",
+          "13117",
+          "21089",
+          "21081",
+          "21077",
+          "21070"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: multitasking control system",
+        "raw_product_name": "MULTITASKING CONTROL SYSTEM",
+        "list_of_product_ids": [
+          "236",
+          "102",
+          "358",
+          "523",
+          "572"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: terminal automation system",
+        "raw_product_name": "TERMINAL AUTOMATION SYSTEM",
+        "list_of_product_ids": [
+          "6572",
+          "5742",
+          "10065",
+          "10150",
+          "11898",
+          "19578",
+          "30475"
+        ]
+      }
+    }
+  ]
+}

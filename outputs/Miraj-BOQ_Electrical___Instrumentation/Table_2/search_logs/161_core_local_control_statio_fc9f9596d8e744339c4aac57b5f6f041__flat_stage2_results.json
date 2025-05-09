@@ -1,0 +1,482 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.90355575,
+      "text": "core_product_name: programmable logic controller | acronymed_core_product_name: plc subsystem",
+      "core_id": 1794.0,
+      "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER (PLC SUBSYSTEM)",
+      "list_of_product_ids": [
+        "13889",
+        "15107",
+        "20015",
+        "20010",
+        "36350",
+        "37195",
+        "36201"
+      ]
+    },
+    {
+      "retrieval_score": 0.89862585,
+      "text": "core_product_name: local area network switch | acronymed_core_product_name: LAN SWITCH",
+      "core_id": 1317.0,
+      "raw_product_name": "LAN SWITCH",
+      "list_of_product_ids": [
+        "19153",
+        "19154",
+        "27610",
+        "37883",
+        "37888",
+        "37890"
+      ]
+    },
+    {
+      "retrieval_score": 0.898379,
+      "text": "core_product_name: motor control center | acronymed_core_product_name: mcc package",
+      "core_id": 1447.0,
+      "raw_product_name": "MCC PACKAGE",
+      "list_of_product_ids": [
+        "23571",
+        "23614",
+        "23565",
+        "23559",
+        "23554",
+        "23549",
+        "23541",
+        "23532"
+      ]
+    },
+    {
+      "retrieval_score": 0.8962082,
+      "text": "core_product_name: site fabricated column | acronymed_core_product_name: las (level alarm system) column",
+      "core_id": 396.0,
+      "raw_product_name": "COLUMN-LAS SITE FABRICATED",
+      "list_of_product_ids": [
+        "6688",
+        "5859",
+        "9698",
+        "23521"
+      ]
+    },
+    {
+      "retrieval_score": 0.8953067,
+      "text": "core_product_name: substation automation system | acronymed_core_product_name: sas system",
+      "core_id": 1963.0,
+      "raw_product_name": "SAS System",
+      "list_of_product_ids": [
+        "7566",
+        "7240",
+        "11203",
+        "10872",
+        "10874",
+        "11375"
+      ]
+    },
+    {
+      "retrieval_score": 0.89490277,
+      "text": "core_product_name: local control station",
+      "core_id": 1380.0,
+      "raw_product_name": "LOCAL CONTROL STATIONS",
+      "list_of_product_ids": [
+        "99",
+        "911",
+        "003",
+        "018",
+        "831"
+      ]
+    },
+    {
+      "retrieval_score": 0.8915263,
+      "text": "core_product_name: local operating station | acronymed_core_product_name: LOS | accessories_or_attachments: for primary air (PA) fan",
+      "core_id": 1384.0,
+      "raw_product_name": "LOS FOR PA FAN",
+      "list_of_product_ids": [
+        "21339",
+        "21336",
+        "21333",
+        "21366",
+        "21771",
+        "27095"
+      ]
+    },
+    {
+      "retrieval_score": 0.8915184,
+      "text": "core_product_name: test | acronymed_core_product_name: mlc test",
+      "core_id": 1485.0,
+      "raw_product_name": "MLC Test",
+      "list_of_product_ids": [
+        "13102"
+      ]
+    },
+    {
+      "retrieval_score": 0.8902222,
+      "text": "core_product_name: system package | acronymed_core_product_name: h v system package",
+      "core_id": 1089.0,
+      "raw_product_name": "H V SYSTEM PACKAGE",
+      "list_of_product_ids": [
+        "6393",
+        "5564",
+        "10763",
+        "24478",
+        "24477",
+        "24476"
+      ]
+    },
+    {
+      "retrieval_score": 0.8896193,
+      "text": "core_product_name: central processing unit | acronymed_core_product_name: cpu unit",
+      "core_id": 505.0,
+      "raw_product_name": "CPU UNITS",
+      "list_of_product_ids": [
+        "192",
+        "651",
+        "410",
+        "722",
+        "373"
+      ]
+    },
+    {
+      "retrieval_score": 0.88904095,
+      "text": "core_product_name: instrument | acronymed_core_product_name: level (l) instrument | type_or_class: Level (L)",
+      "core_id": 455.0,
+      "raw_product_name": "Level (L) Instruments",
+      "list_of_product_ids": [
+        "6803",
+        "5972",
+        "6800",
+        "7003",
+        "7004",
+        "7002"
+      ]
+    },
+    {
+      "retrieval_score": 0.8888121,
+      "text": "core_product_name: power control centre | acronymed_core_product_name: pcc (power control centre)",
+      "core_id": 1741.0,
+      "raw_product_name": "POWER CONTROL CENTRE (PCC)",
+      "list_of_product_ids": [
+        "13849",
+        "14618",
+        "14643",
+        "17928",
+        "17915",
+        "17890",
+        "17946",
+        "17937",
+        "18024",
+        "18006",
+        "18047"
+      ]
+    },
+    {
+      "retrieval_score": 0.8888121,
+      "text": "core_product_name: power control centre | acronymed_core_product_name: pcc (power control centre)",
+      "core_id": 1741.0,
+      "raw_product_name": "Power Control Centre (PCC)",
+      "list_of_product_ids": [
+        "8225"
+      ]
+    },
+    {
+      "retrieval_score": 0.8887777,
+      "text": "core_product_name: distributed digital control, monitoring information system | acronymed_core_product_name: ddcmis",
+      "core_id": 605.0,
+      "raw_product_name": "DISTRIBUTED DIGITAL CONTROL,MONITORING INFORMATION SYSTEM(DDCMIS)",
+      "list_of_product_ids": [
+        "1",
+        "361",
+        "820",
+        "927"
+      ]
+    },
+    {
+      "retrieval_score": 0.88796,
+      "text": "core_product_name: life saving appliance | acronymed_core_product_name: lsa (life saving appliance)",
+      "core_id": 2012.0,
+      "raw_product_name": "SHIP REPAIR- LIFE SAVING APPLIANCE (LSA)",
+      "list_of_product_ids": [
+        "29500",
+        "29291",
+        "29288",
+        "29286"
+      ]
+    },
+    {
+      "retrieval_score": 0.887433,
+      "text": "core_product_name: supervisory control and data acquisition system | acronymed_core_product_name: SCADA SYSTEMS",
+      "core_id": 1969.0,
+      "raw_product_name": "SCADA SYSTEMS",
+      "list_of_product_ids": [
+        "6625",
+        "5795",
+        "10073",
+        "11202",
+        "10804",
+        "10871",
+        "10873",
+        "11374",
+        "11377",
+        "30049",
+        "29687",
+        "27063",
+        "30480",
+        "38273",
+        "32770",
+        "36655",
+        "36679",
+        "36002",
+        "36005",
+        "36004",
+        "36003",
+        "36001",
+        "36245",
+        "36398",
+        "36523"
+      ]
+    },
+    {
+      "retrieval_score": 0.8872543,
+      "text": "core_product_name: low voltage control | acronymed_core_product_name: lvc (low voltage control)",
+      "core_id": 1386.0,
+      "raw_product_name": "LOW VOLTAGE CONTROL (LVC)",
+      "list_of_product_ids": [
+        "17730",
+        "18660",
+        "17726",
+        "36568"
+      ]
+    },
+    {
+      "retrieval_score": 0.88649684,
+      "text": "core_product_name: personal computer and server | acronymed_core_product_name: pc (personal computer) and server",
+      "core_id": 1644.0,
+      "raw_product_name": "PC AND SERVER",
+      "list_of_product_ids": [
+        "5943",
+        "6772",
+        "10713",
+        "10715",
+        "10716",
+        "10719",
+        "10720",
+        "10721",
+        "10711",
+        "11856",
+        "18834",
+        "19469",
+        "30762",
+        "37436",
+        "35054",
+        "37192"
+      ]
+    },
+    {
+      "retrieval_score": 0.88555026,
+      "text": "core_product_name: programmable logic controller-fire and gas system | acronymed_core_product_name: PLC-FGS",
+      "core_id": 1706.0,
+      "raw_product_name": "PLC-FGS",
+      "list_of_product_ids": [
+        "13801",
+        "15110",
+        "20985",
+        "23214",
+        "36204",
+        "36353"
+      ]
+    },
+    {
+      "retrieval_score": 0.8851825,
+      "text": "core_product_name: public address system | acronymed_core_product_name: pa system",
+      "core_id": 1620.0,
+      "raw_product_name": "PA SYSTEM",
+      "list_of_product_ids": [
+        "13866",
+        "24268",
+        "21000",
+        "31192",
+        "34985"
+      ]
+    },
+    {
+      "retrieval_score": 0.8846973,
+      "text": "core_product_name: cable | acronymed_core_product_name: dcs (distributed control system) patch cable | type_or_class: DCS (Distributed Control System) Patch",
+      "core_id": 1.0,
+      "raw_product_name": "DCS PATCH CABLES",
+      "list_of_product_ids": [
+        "13601",
+        "18810",
+        "20177",
+        "24053",
+        "23904"
+      ]
+    },
+    {
+      "retrieval_score": 0.8829927,
+      "text": "core_product_name: programmable logic controller system | acronymed_core_product_name: plc system (programmable logic controller)",
+      "core_id": 1704.0,
+      "raw_product_name": "PLC system (Programmable Logic Controller)",
+      "list_of_product_ids": [
+        "12296",
+        "12295",
+        "12297",
+        "12301",
+        "14199",
+        "14322",
+        "14405",
+        "14406",
+        "17988",
+        "17987",
+        "17986",
+        "17985",
+        "17984",
+        "17983",
+        "20020",
+        "20145",
+        "20144",
+        "37679",
+        "36223",
+        "36375"
+      ]
+    },
+    {
+      "retrieval_score": 0.8826155,
+      "text": "core_product_name: associated internals package | acronymed_core_product_name: STRD. PKGS. | special_attributes: Proprietory",
+      "core_id": 2128.0,
+      "raw_product_name": "STRD.PKGS.& ASSOC.INTERNALS(PROPRIETORY)",
+      "list_of_product_ids": [
+        "6702",
+        "5873",
+        "8973",
+        "8984",
+        "9119",
+        "9130",
+        "12415",
+        "12350",
+        "19937"
+      ]
+    },
+    {
+      "retrieval_score": 0.8819244,
+      "text": "core_product_name: motor control centre | acronymed_core_product_name: mcc (motor control centre)",
+      "core_id": 1530.0,
+      "raw_product_name": "Motor Control Centre (MCC)",
+      "list_of_product_ids": [
+        "7619",
+        "7293",
+        "11204",
+        "11218",
+        "10538",
+        "10190",
+        "7885",
+        "7887",
+        "7884",
+        "7886",
+        "12216",
+        "17704",
+        "17929",
+        "17916",
+        "17891",
+        "17948",
+        "17938",
+        "18025",
+        "18007",
+        "18048",
+        "20021",
+        "20011",
+        "20016",
+        "36642",
+        "35962"
+      ]
+    },
+    {
+      "retrieval_score": 0.88096184,
+      "text": "core_product_name: auxiliary column | acronymed_core_product_name: aux. column",
+      "core_id": 147.0,
+      "raw_product_name": "AUX. COLUMN",
+      "list_of_product_ids": [
+        "20899",
+        "20876",
+        "21908",
+        "21952",
+        "22021",
+        "22119",
+        "20853"
+      ]
+    },
+    {
+      "retrieval_score": 0.8808535,
+      "text": "core_product_name: public address equipment | acronymed_core_product_name: pa equipment",
+      "core_id": 1617.0,
+      "raw_product_name": "PA EQUIPMENTS",
+      "list_of_product_ids": [
+        "980",
+        "898",
+        "159",
+        "862"
+      ]
+    },
+    {
+      "retrieval_score": 0.88062954,
+      "text": "core_product_name: cable | acronymed_core_product_name: LAN (Local Area Network) cable | type_or_class: LAN (Local Area Network)",
+      "core_id": 1.0,
+      "raw_product_name": "LAN CABLE",
+      "list_of_product_ids": [
+        "174",
+        "251",
+        "742",
+        "627",
+        "040"
+      ]
+    },
+    {
+      "retrieval_score": 0.8795362,
+      "text": "core_product_name: cathodic protection system | acronymed_core_product_name: cp system",
+      "core_id": 503.0,
+      "raw_product_name": "CP SYSTEM",
+      "list_of_product_ids": [
+        "15360",
+        "15379",
+        "15381",
+        "15383",
+        "18186",
+        "19518",
+        "40163",
+        "40168",
+        "40190",
+        "40238",
+        "40233"
+      ]
+    },
+    {
+      "retrieval_score": 0.8794224,
+      "text": "core_product_name: input convertor | acronymed_core_product_name: i/p convertor",
+      "core_id": 1222.0,
+      "raw_product_name": "I/P CONVERTOR",
+      "list_of_product_ids": [
+        "1",
+        "542",
+        "023",
+        "681"
+      ]
+    },
+    {
+      "retrieval_score": 0.8793794,
+      "text": "core_product_name: input/output converter | acronymed_core_product_name: i/p converter",
+      "core_id": 1221.0,
+      "raw_product_name": "I/P CONVERTERS",
+      "list_of_product_ids": [
+        "13678",
+        "14948",
+        "14949",
+        "15078",
+        "15105",
+        "15307",
+        "15315",
+        "17477",
+        "20895",
+        "23179",
+        "36199",
+        "36348"
+      ]
+    }
+  ]
+}

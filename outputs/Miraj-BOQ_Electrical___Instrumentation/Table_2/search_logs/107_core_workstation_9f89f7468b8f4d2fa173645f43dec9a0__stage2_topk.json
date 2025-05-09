@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: workstation | size: memory: minimum 16 GB, hard disk: 2TB SATA at 7200 rpms, graphic card: minimum 2 GB memory | feature_or_specifications: processor: intel core i7-4790 @ 3.60GHz, graphics: intel hd graphics 4600, operating system: windows 8.1 or 10, 64bit, network card: 1Gbit/s network card, location: central monitoring hub room, security room, admin building plant manager room",
+  "retrieval_results": [
+    {
+      "id": "variant-259b2acd-8757-5df1-9884-558d4ab4d4c4",
+      "score": 0.8513516,
+      "metadata": {
+        "text": "core_product_name: data storage system",
+        "raw_product_name": "Data storage system",
+        "list_of_product_ids": "7084,7411,18425,18424",
+        "core_id": 649.0
+      }
+    },
+    {
+      "id": "variant-6eb36f6b-85fd-5920-b1c0-6c1600a32f9c",
+      "score": 0.84919345,
+      "metadata": {
+        "text": "core_product_name: control room",
+        "raw_product_name": "CONTROL ROOM",
+        "list_of_product_ids": "19383,19371,19373,23748",
+        "core_id": 457.0
+      }
+    },
+    {
+      "id": "variant-a04485bf-b3ca-5e35-af82-40b9c4157210",
+      "score": 0.84886926,
+      "metadata": {
+        "text": "core_product_name: local control station",
+        "raw_product_name": "LOCAL CONTROL STATIONS",
+        "list_of_product_ids": "99,911,003,018,831",
+        "core_id": 1380.0
+      }
+    },
+    {
+      "id": "variant-0b710dea-0307-51f6-a77b-222f52cab575",
+      "score": 0.8476839,
+      "metadata": {
+        "text": "core_product_name: laptop",
+        "raw_product_name": "LAPTOPS",
+        "list_of_product_ids": "142,481,529,918,835",
+        "core_id": 1320.0
+      }
+    },
+    {
+      "id": "variant-c9536e29-6040-5b31-b6a1-431e7654733e",
+      "score": 0.847536,
+      "metadata": {
+        "text": "core_product_name: computer maintenance",
+        "raw_product_name": "COMPUTER MAINTENANCE",
+        "list_of_product_ids": "193,231,932,428,719",
+        "core_id": 422.0
+      }
+    },
+    {
+      "id": "variant-0a9290b3-8ea7-59a2-a8d9-9ba99d3dbdaa",
+      "score": 0.8467387,
+      "metadata": {
+        "text": "core_product_name: machine monitoring system",
+        "raw_product_name": "MACHINE MONITORING SYSTEMS",
+        "list_of_product_ids": "6478,5649,12455,32772,38192",
+        "core_id": 1418.0
+      }
+    },
+    {
+      "id": "variant-815cfa85-79ff-5a89-89e7-6398f6ad8f78",
+      "score": 0.8456892,
+      "metadata": {
+        "text": "core_product_name: control desk",
+        "raw_product_name": "CONTROL DESK",
+        "list_of_product_ids": "14011,17257,19417,19412,36643",
+        "core_id": 452.0
+      }
+    },
+    {
+      "id": "variant-9d54fd87-21ea-5c1a-ae13-333a826234cd",
+      "score": 0.845377,
+      "metadata": {
+        "text": "core_product_name: system panel",
+        "raw_product_name": "SYSTEM PANELS",
+        "list_of_product_ids": "1,413,621,099",
+        "core_id": 2180.0
+      }
+    },
+    {
+      "id": "variant-7e79e2f4-50f1-5eb2-ad00-d8225fbf09a8",
+      "score": 0.84485954,
+      "metadata": {
+        "text": "core_product_name: power management system",
+        "raw_product_name": "POWER MANAGEMENT SYSTEM",
+        "list_of_product_ids": "138,561,462,423,212",
+        "core_id": 1744.0
+      }
+    },
+    {
+      "id": "variant-5c0ed834-f6a7-520f-bb06-2d5857ac4b23",
+      "score": 0.8446083,
+      "metadata": {
+        "text": "core_product_name: access chamber",
+        "raw_product_name": "ACCESS CHAMBER",
+        "list_of_product_ids": "158,151,585,815,880",
+        "core_id": 26.0
+      }
+    },
+    {
+      "id": "variant-f0337ba8-6950-573f-8620-dd7b8c06adeb",
+      "score": 0.84388614,
+      "metadata": {
+        "text": "core_product_name: monitor",
+        "raw_product_name": "WATER MONITOR",
+        "list_of_product_ids": "6039,5218,9825,9830,9835,9840,8259,8296,8316,8739,9230,16411,24091,23518,37476",
+        "core_id": 2443.0
+      }
+    },
+    {
+      "id": "variant-45aa0eb4-ef89-569d-a4cd-a48ea550c418",
+      "score": 0.8431908,
+      "metadata": {
+        "text": "core_product_name: access floor system",
+        "raw_product_name": "ACCESS FLOOR SYSTEM",
+        "list_of_product_ids": "19257,28256,38565,38555,38556,38557,38559,39640,40151,40157",
+        "core_id": 29.0
+      }
+    },
+    {
+      "id": "variant-cd52aca8-dd3e-59e7-b179-e704fd4294e9",
+      "score": 0.8427311,
+      "metadata": {
+        "text": "core_product_name: management system",
+        "raw_product_name": "TANK FARM MANAGEMENT SYSTEM",
+        "list_of_product_ids": "6585,5755,11689,11698,10102,10116,11714,13223,21062,35434",
+        "core_id": 2200.0
+      }
+    },
+    {
+      "id": "variant-13734b5f-24ad-5003-ab44-046aa6dbd5ab",
+      "score": 0.8424876,
+      "metadata": {
+        "text": "core_product_name: ventilation system",
+        "raw_product_name": "VENTILATION SYSTEM",
+        "list_of_product_ids": "7062,7389,8497,8501,18414",
+        "core_id": 2389.0
+      }
+    },
+    {
+      "id": "variant-1ab3bbc1-7237-500d-90d8-27f6498da945",
+      "score": 0.84236765,
+      "metadata": {
+        "text": "core_product_name: equipment",
+        "raw_product_name": "CONTROL ROOM EQUIPMENT",
+        "list_of_product_ids": "14034,14815,17256,21098",
+        "core_id": 460.0
+      }
+    },
+    {
+      "id": "variant-74473618-f368-5f8e-9f75-5bb7b011cde3",
+      "score": 0.84202635,
+      "metadata": {
+        "text": "core_product_name: ground monitoring system",
+        "raw_product_name": "GROUND MONITORING SYSTEMS",
+        "list_of_product_ids": "6629,5799,10305,24235,19579",
+        "core_id": 1079.0
+      }
+    },
+    {
+      "id": "variant-d3184bd5-867c-5333-aa27-0d8d3f250563",
+      "score": 0.8419368,
+      "metadata": {
+        "text": "core_product_name: computer software",
+        "raw_product_name": "COMPUTER SOFTWARE",
+        "list_of_product_ids": "193,121,931,327,257",
+        "core_id": 423.0
+      }
+    },
+    {
+      "id": "variant-7b1c16c7-5da7-5e6a-86ce-7eae6ac6bf0a",
+      "score": 0.8416162,
+      "metadata": {
+        "text": "core_product_name: network component",
+        "raw_product_name": "NETWORK COMPONENTS",
+        "list_of_product_ids": "137,882,017,621,241",
+        "core_id": 1544.0
+      }
+    },
+    {
+      "id": "variant-10f4d051-3809-5786-a12e-4cbcced4bdd8",
+      "score": 0.8415768,
+      "metadata": {
+        "text": "core_product_name: net oil computer",
+        "raw_product_name": "NET OIL COMPUTERS",
+        "list_of_product_ids": "13787,15020,15023,15041,15053,15055,15085,15116,15131,15139,15147,15219,15225,15227,15230,15232,15276,15242,15256,15268,15272,36105,36180,36328",
+        "core_id": 1539.0
+      }
+    },
+    {
+      "id": "variant-09fda6e0-1a13-5098-925f-788f30f1f21d",
+      "score": 0.8408942,
+      "metadata": {
+        "text": "core_product_name: stack emission monitoring system",
+        "raw_product_name": "STACK EMMISSION MONITORING SYSTEM",
+        "list_of_product_ids": "1,403,321,845",
+        "core_id": 2097.0
+      }
+    },
+    {
+      "id": "variant-0cd6a304-ead2-5deb-91e8-b4c74619be10",
+      "score": 0.8408749,
+      "metadata": {
+        "text": "core_product_name: drive arrangement",
+        "raw_product_name": "DRIVE ARRANGEMENT FOR CLINKER GRINDER",
+        "list_of_product_ids": "1,344,114,445",
+        "core_id": 624.0
+      }
+    },
+    {
+      "id": "variant-8398ac79-a3ef-5f2a-ae37-366508b0a92a",
+      "score": 0.8407761,
+      "metadata": {
+        "text": "core_product_name: machine",
+        "raw_product_name": "MACHINE",
+        "list_of_product_ids": "24311,24313,39774,26875,39517,39044,39193,39235,39274,39351,39462,39502,39707,39863,39953,40014,40061,40111,40221,40249,40288",
+        "core_id": 1420.0
+      }
+    },
+    {
+      "id": "variant-f5caed72-7869-557b-9294-522f8b133ecb",
+      "score": 0.84074855,
+      "metadata": {
+        "text": "core_product_name: video wall",
+        "raw_product_name": "Video wall",
+        "list_of_product_ids": "7081,7408,18012,18421,18416",
+        "core_id": 2418.0
+      }
+    },
+    {
+      "id": "variant-b6cc49f4-1485-53a1-a1a7-68d77a587995",
+      "score": 0.8404848,
+      "metadata": {
+        "text": "core_product_name: gallery",
+        "raw_product_name": "CONVEYER GALLERIES",
+        "list_of_product_ids": "210,412,104,227,102",
+        "core_id": 473.0
+      }
+    },
+    {
+      "id": "variant-7dce4d21-d1e9-5d82-98f9-329565ede5d1",
+      "score": 0.84033513,
+      "metadata": {
+        "text": "core_product_name: fieldbus monitor",
+        "raw_product_name": "FIELDBUS MONITOR",
+        "list_of_product_ids": "5,948,677,710,076",
+        "core_id": 821.0
+      }
+    },
+    {
+      "id": "variant-aee137b0-552a-50c0-995d-be1a301a917d",
+      "score": 0.8395702,
+      "metadata": {
+        "text": "core_product_name: at site material handling and transportation",
+        "raw_product_name": "MATERIAL HANDLING AND TRANSPORTATION AT SITE",
+        "list_of_product_ids": "35825,35831,35840,35879,36082,40091",
+        "core_id": 1445.0
+      }
+    },
+    {
+      "id": "variant-5f07eb39-d2d8-57c5-8d17-e9a296199a94",
+      "score": 0.83926576,
+      "metadata": {
+        "text": "core_product_name: site fabricated storage tank",
+        "raw_product_name": "SITE FABRICATED STORAGE TANKS",
+        "list_of_product_ids": "1,395,423,053",
+        "core_id": 2038.0
+      }
+    },
+    {
+      "id": "variant-c1c7c951-de0a-5601-aa1a-b2d2fb7e1622",
+      "score": 0.83923227,
+      "metadata": {
+        "text": "core_product_name: security search light system",
+        "raw_product_name": "SECURITY SEARCH LIGHT SYSTEM",
+        "list_of_product_ids": "7,065,739,211,726",
+        "core_id": 1989.0
+      }
+    },
+    {
+      "id": "variant-85d05add-ce4b-5ec4-8d7c-6379e84d5bea",
+      "score": 0.8391609,
+      "metadata": {
+        "text": "core_product_name: semi-rugged laptop",
+        "raw_product_name": "Semi-Rugged Laptop",
+        "list_of_product_ids": "7080,7407,11852,11854",
+        "core_id": 2183.0
+      }
+    },
+    {
+      "id": "variant-bd4d6706-bd3c-56dc-a608-1050f25b0d01",
+      "score": 0.83911455,
+      "metadata": {
+        "text": "core_product_name: access control system",
+        "raw_product_name": "ACCESS CONTROL SYSTEM",
+        "list_of_product_ids": "6601,5771,10891,10915,11070,10890,10892,19260,19270,34967,34987,35018",
+        "core_id": 30.0
+      }
+    }
+  ]
+}

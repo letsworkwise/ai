@@ -1,0 +1,475 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.85624194,
+      "text": "core_product_name: miniature circuit breaker | acronymed_core_product_name: mcb",
+      "core_id": 1446.0,
+      "raw_product_name": "MCB",
+      "list_of_product_ids": [
+        "6462",
+        "5633",
+        "10157",
+        "10663",
+        "9350",
+        "9447",
+        "9151",
+        "9187",
+        "9219",
+        "9361",
+        "11905",
+        "11944",
+        "17873",
+        "19028",
+        "19645",
+        "19652",
+        "20775",
+        "21203",
+        "19140",
+        "38290",
+        "36563"
+      ]
+    },
+    {
+      "retrieval_score": 0.8542718,
+      "text": "core_product_name: inside panel | acronymed_core_product_name: mcb (miniature circuit breaker) panel | type_or_class: Flush type only",
+      "core_id": 1448.0,
+      "raw_product_name": "MCB Inside Panels (Flush type only)",
+      "list_of_product_ids": [
+        "1",
+        "371",
+        "214",
+        "885"
+      ]
+    },
+    {
+      "retrieval_score": 0.8446771,
+      "text": "core_product_name: motor protection circuit breaker | acronymed_core_product_name: mpcb (motor protection circuit breaker)",
+      "core_id": 1528.0,
+      "raw_product_name": "Motor Protection Circuit Breaker (MPCB)",
+      "list_of_product_ids": [
+        "7492",
+        "7167",
+        "11205",
+        "10539",
+        "10192",
+        "19629"
+      ]
+    },
+    {
+      "retrieval_score": 0.8421349,
+      "text": "core_product_name: molded case circuit breaker | acronymed_core_product_name: MCCB (Molded Case Circuit Breaker)",
+      "core_id": 1449.0,
+      "raw_product_name": "MCCB",
+      "list_of_product_ids": [
+        "6463",
+        "5634",
+        "10536",
+        "10191",
+        "9351",
+        "9152",
+        "9154",
+        "11938",
+        "19030",
+        "19029",
+        "20774",
+        "21202",
+        "36564",
+        "38080"
+      ]
+    },
+    {
+      "retrieval_score": 0.8349009,
+      "text": "core_product_name: intelligent battery charger | acronymed_core_product_name: dcdb (direct current distribution board) | size_or_capacity: 24V DC (24 Volt Direct Current)",
+      "core_id": 1304.0,
+      "raw_product_name": "Intelligent Battery charger 24V DC DCDB",
+      "list_of_product_ids": [
+        "1",
+        "375",
+        "215",
+        "290"
+      ]
+    },
+    {
+      "retrieval_score": 0.8333918,
+      "text": "core_product_name: surge protection device",
+      "core_id": 2156.0,
+      "raw_product_name": "SURG PROTECTION DEVICES",
+      "list_of_product_ids": [
+        "5954",
+        "6782",
+        "12132",
+        "14671",
+        "14679",
+        "18191",
+        "20174",
+        "36159"
+      ]
+    },
+    {
+      "retrieval_score": 0.83182275,
+      "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+      "core_id": 559.0,
+      "raw_product_name": "DCDB",
+      "list_of_product_ids": [
+        "15387",
+        "13587",
+        "14607",
+        "14780",
+        "19662",
+        "21388",
+        "36160"
+      ]
+    },
+    {
+      "retrieval_score": 0.8316509,
+      "text": "core_product_name: electrical spare",
+      "core_id": 710.0,
+      "raw_product_name": "ELECTRICAL SPARES",
+      "list_of_product_ids": [
+        "207",
+        "782",
+        "077",
+        "728",
+        "462"
+      ]
+    },
+    {
+      "retrieval_score": 0.83104247,
+      "text": "core_product_name: lighting and power distribution panel",
+      "core_id": 1413.0,
+      "raw_product_name": "Lighting & Power Distribution Panel",
+      "list_of_product_ids": [
+        "18723",
+        "18718",
+        "18735",
+        "18734",
+        "18733",
+        "19012",
+        "18997",
+        "18728",
+        "19000",
+        "38293",
+        "35861",
+        "38156"
+      ]
+    },
+    {
+      "retrieval_score": 0.8310171,
+      "text": "core_product_name: main lighting distribution board | acronymed_core_product_name: MLDB (Main Lighting Distribution Board)",
+      "core_id": 1487.0,
+      "raw_product_name": "MLDB",
+      "list_of_product_ids": [
+        "15386",
+        "13768",
+        "14606",
+        "14779",
+        "17931",
+        "17918",
+        "17893",
+        "17950",
+        "17940",
+        "17945",
+        "18027",
+        "18009",
+        "18050",
+        "19060",
+        "19661"
+      ]
+    },
+    {
+      "retrieval_score": 0.83035153,
+      "text": "core_product_name: moulded case circuit breaker",
+      "core_id": 1508.0,
+      "raw_product_name": "MOULDED CASE CIRCUIT BREAKER",
+      "list_of_product_ids": [
+        "178",
+        "541",
+        "784",
+        "318",
+        "652"
+      ]
+    },
+    {
+      "retrieval_score": 0.8299189,
+      "text": "core_product_name: emergency lighting system",
+      "core_id": 740.0,
+      "raw_product_name": "EMERGENCY LIGHTING SYSTEM",
+      "list_of_product_ids": [
+        "3",
+        "216",
+        "232",
+        "163"
+      ]
+    },
+    {
+      "retrieval_score": 0.829751,
+      "text": "core_product_name: electrical accessory",
+      "core_id": 701.0,
+      "raw_product_name": "ELECTRICAL ACCESSORIES",
+      "list_of_product_ids": [
+        "211",
+        "632",
+        "705",
+        "121",
+        "165"
+      ]
+    },
+    {
+      "retrieval_score": 0.8296035,
+      "text": "core_product_name: minimum oil circuit breaker | acronymed_core_product_name: MOCB (Minimum Oil Circuit Breaker)",
+      "core_id": 1492.0,
+      "raw_product_name": "MOCB",
+      "list_of_product_ids": [
+        "1",
+        "377",
+        "621",
+        "549"
+      ]
+    },
+    {
+      "retrieval_score": 0.82916254,
+      "text": "core_product_name: sub lighting distribution board",
+      "core_id": 2143.0,
+      "raw_product_name": "SUB LIGHTING DISTRIBUTION BOARD",
+      "list_of_product_ids": [
+        "19061",
+        "19062",
+        "19056",
+        "36641"
+      ]
+    },
+    {
+      "retrieval_score": 0.827583,
+      "text": "core_product_name: outdoor circuit breaker | size_or_capacity: 132 kV or 220 kV | operating_conditions: outdoor",
+      "core_id": 11.0,
+      "raw_product_name": "132kV/ 220 kV outdoor Circuit Breaker",
+      "list_of_product_ids": [
+        "1",
+        "414",
+        "714",
+        "844"
+      ]
+    },
+    {
+      "retrieval_score": 0.82730025,
+      "text": "core_product_name: light barrier switch",
+      "core_id": 1345.0,
+      "raw_product_name": "LIGHT BARRIER SWITCH",
+      "list_of_product_ids": [
+        "19122",
+        "19129",
+        "19132",
+        "38466"
+      ]
+    },
+    {
+      "retrieval_score": 0.8268223,
+      "text": "core_product_name: outdoor circuit breaker | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 11.0,
+      "raw_product_name": "33kV outdoor Circuit Breaker",
+      "list_of_product_ids": [
+        "141",
+        "551",
+        "464",
+        "036",
+        "000"
+      ]
+    },
+    {
+      "retrieval_score": 0.8261199,
+      "text": "core_product_name: lighting transformer",
+      "core_id": 635.0,
+      "raw_product_name": "LIGHTING TRANSFORMERS",
+      "list_of_product_ids": [
+        "17731",
+        "17727",
+        "18659",
+        "19486",
+        "35388"
+      ]
+    },
+    {
+      "retrieval_score": 0.825975,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    },
+    {
+      "retrieval_score": 0.82589686,
+      "text": "core_product_name: air circuit breaker",
+      "core_id": 54.0,
+      "raw_product_name": "AIR CIRCUIT BREAKER",
+      "list_of_product_ids": [
+        "6437",
+        "5607",
+        "11168",
+        "11217",
+        "20772",
+        "21201",
+        "24462",
+        "24461",
+        "24449",
+        "38509",
+        "38082"
+      ]
+    },
+    {
+      "retrieval_score": 0.82550275,
+      "text": "core_product_name: differential pressure transmitter",
+      "core_id": 589.0,
+      "raw_product_name": "DIFFERENTIAL PRESSURE TRANSMITTER",
+      "list_of_product_ids": [
+        "10006",
+        "10015",
+        "10039",
+        "15083",
+        "18209",
+        "19852",
+        "36178",
+        "36326"
+      ]
+    },
+    {
+      "retrieval_score": 0.82538706,
+      "text": "core_product_name: strobe",
+      "core_id": 2130.0,
+      "raw_product_name": "STROBE",
+      "list_of_product_ids": [
+        "8899",
+        "8903",
+        "9848",
+        "9857",
+        "9866",
+        "8935",
+        "9078",
+        "9139"
+      ]
+    },
+    {
+      "retrieval_score": 0.8246131,
+      "text": "core_product_name: micro switch",
+      "core_id": 1472.0,
+      "raw_product_name": "MICRO SWITCHES",
+      "list_of_product_ids": [
+        "164",
+        "261",
+        "647",
+        "516",
+        "624"
+      ]
+    },
+    {
+      "retrieval_score": 0.8245221,
+      "text": "core_product_name: electrical repair",
+      "core_id": 2009.0,
+      "raw_product_name": "SHIP REPAIR (ELECTRICAL WORK)",
+      "list_of_product_ids": [
+        "23965",
+        "24298",
+        "23966",
+        "24724",
+        "24966",
+        "36009"
+      ]
+    },
+    {
+      "retrieval_score": 0.8243151,
+      "text": "core_product_name: differential pressure switch",
+      "core_id": 586.0,
+      "raw_product_name": "DIFFERENTIAL PRESSURE SWITCHES",
+      "list_of_product_ids": [
+        "10086",
+        "10087",
+        "10092",
+        "10093",
+        "10236",
+        "12720",
+        "12722",
+        "12731",
+        "12901",
+        "12906",
+        "15173",
+        "16825",
+        "18164",
+        "23111",
+        "37046",
+        "35677"
+      ]
+    },
+    {
+      "retrieval_score": 0.8241113,
+      "text": "core_product_name: electric block",
+      "core_id": 682.0,
+      "raw_product_name": "ELECTRIC BLOCK",
+      "list_of_product_ids": [
+        "196",
+        "271",
+        "962",
+        "627",
+        "101"
+      ]
+    },
+    {
+      "retrieval_score": 0.8240912,
+      "text": "core_product_name: earth leakage circuit breaker",
+      "core_id": 668.0,
+      "raw_product_name": "EARTH LEAKAGE CIRCUIT BREAKER",
+      "list_of_product_ids": [
+        "6449",
+        "5619",
+        "9349",
+        "9448",
+        "9149",
+        "9217",
+        "9363",
+        "11942",
+        "24537",
+        "24536",
+        "38287"
+      ]
+    },
+    {
+      "retrieval_score": 0.82363325,
+      "text": "core_product_name: lighting fixture",
+      "core_id": 1006.0,
+      "raw_product_name": "LIGHTING FIXTURES",
+      "list_of_product_ids": [
+        "13606",
+        "16555",
+        "16546",
+        "16591",
+        "16576",
+        "17657",
+        "17650",
+        "17702",
+        "17682",
+        "18058",
+        "20306",
+        "20834",
+        "21315",
+        "22108",
+        "23384",
+        "35044"
+      ]
+    },
+    {
+      "retrieval_score": 0.8234835,
+      "text": "core_product_name: cathodic protection power supply module",
+      "core_id": 315.0,
+      "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+      "list_of_product_ids": [
+        "6413",
+        "5583",
+        "8417",
+        "12209"
+      ]
+    }
+  ]
+}

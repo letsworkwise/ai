@@ -1,0 +1,59 @@
+{
+  "query": "core_product_name: ms(mild steel) channel | size: dimensions: 100 x 50 | feature_or_specifications: material: mild steel, manufacturer: sail",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: rolled section | material: Steel | type_or_class: Structural",
+        "raw_product_name": "STRUCTURAL STEEL ( ROLLED SECTIONS)",
+        "list_of_product_ids": [
+          "9",
+          "525",
+          "954",
+          "513",
+          "013"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flat | acronymed_core_product_name: m. s. flat (mild steel flat) | material: Mild Steel (M. S.)",
+        "raw_product_name": "MILD STEEL FLAT (M. S. FLAT)",
+        "list_of_product_ids": [
+          "17119",
+          "17126",
+          "17135",
+          "17133",
+          "17129",
+          "19597",
+          "33984",
+          "17156",
+          "35811"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: conduit | acronymed_core_product_name: m.s. (mild steel) conduit | material: M.S. (Mild Steel) | standards_and_approvals: ISI (Indian Standards Institute)",
+        "raw_product_name": "M.S. CONDUIT ISI",
+        "list_of_product_ids": [
+          "20486",
+          "20544",
+          "20553",
+          "20584",
+          "20692",
+          "20750"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of crimping type long barrel Bimetallic lugs with Al barrel & tinned Cu palm with circular/sector shaped barrel All sizes from 16 to 35 sq. mm",
+      "core_product_name": "crimping type long barrel bimetallic lug supply",
+      "acronymed_core_product_name": "",
+      "size": "conductor size: 16 to 35 sq. mm",
+      "feature_or_specifications": "type: crimping, barrel type: long, material: bimetallic, barrel material: aluminium, palm material: tinned copper, barrel shape: circular or sector shaped",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of crimping type long barrel Bimetallic lugs with Al barrel & tinned Cu palm with circular/sector shaped barrel All sizes from 50 to 185 sq. mm",
+      "core_product_name": "crimping type long barrel bimetallic lug supply",
+      "acronymed_core_product_name": "",
+      "size": "conductor size: 50 to 185 sq. mm",
+      "feature_or_specifications": "type: crimping, barrel type: long, material: bimetallic, barrel material: aluminium, palm material: tinned copper, barrel shape: circular or sector shaped",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of crimping type long barrel Bimetallic lugs with Al barrel & tinned Cu palm with circular/sector shaped barrel All sizes from 240 to 400 sq. mm",
+      "core_product_name": "crimping type long barrel bimetallic lug supply",
+      "acronymed_core_product_name": "",
+      "size": "conductor size: 240 to 400 sq. mm",
+      "feature_or_specifications": "type: crimping, barrel type: long, material: bimetallic, barrel material: aluminium, palm material: tinned copper, barrel shape: circular or sector shaped",
+      "quantity": "10.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      190,
+      199
+    ],
+    "original_rows": [
+      {
+        "0": 191,
+        "1": 0,
+        "2": "01EE.2120.30.20",
+        "3": "All sizes from 16 to 35 sq. mm",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 192,
+        "1": 0,
+        "2": "01EE.2120.30.30",
+        "3": "All sizes from 50 to 185 sq. mm",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 193,
+        "1": 0,
+        "2": "01EE.2120.30.40",
+        "3": "All sizes from 240 to 400 sq. mm",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 194,
+        "1": 0,
+        "2": "01EE.2120.40",
+        "3": "Supply of crimping type long barrel Bimetallic lugs with tinned Cu barrel & Al palm with circular/sector shaped barrel",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 195,
+        "1": 0,
+        "2": "01EE.2120.40.10",
+        "3": "All sizes upto 10 sq. mm",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 196,
+        "1": 0,
+        "2": "01EE.2120.40.20",
+        "3": "All sizes from 16 to 35 sq. mm",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 197,
+        "1": 0,
+        "2": "01EE.2120.40.30",
+        "3": "All sizes from 50 to 185 sq. mm",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 198,
+        "1": 0,
+        "2": "01EE.2120.40.40",
+        "3": "All sizes from 240 to 400 sq. mm",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 199,
+        "1": 0,
+        "2": "01EE.3010",
+        "3": "FLOOD LIGHT MASTS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 200,
+        "1": 0,
+        "2": "01EE.3010.20",
+        "3": "Design, supply, installation, testing and commissioning of high mast lighting system as per EIL specification No. 6-51-",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2269,
+    "completion_tokens": 1204
+  }
+}

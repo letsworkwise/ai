@@ -1,0 +1,70 @@
+{
+  "query": "core_product_name: control cable termination | size: cable: 20Cx2.5 sqmm | feature_or_specifications: conductor material: copper, termination kit: included",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: control cable | type_or_class: Control",
+        "raw_product_name": "CABLES:CONTROL",
+        "list_of_product_ids": [
+          "10003",
+          "10018",
+          "10247",
+          "14646",
+          "36569",
+          "24046",
+          "23897"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: control cable | type_or_class: Control",
+        "raw_product_name": "CONTROL CABLE",
+        "list_of_product_ids": [
+          "14006",
+          "15171",
+          "15812",
+          "15972",
+          "36570",
+          "20132"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: control cable | protection_features: Fire Survival",
+        "raw_product_name": "CONTROL CABLE - FIRE SURVIVAL",
+        "list_of_product_ids": [
+          "6424",
+          "5594",
+          "10194",
+          "10666",
+          "11369",
+          "11371",
+          "12120",
+          "13290",
+          "15814",
+          "17323",
+          "17783",
+          "23993",
+          "23862"
+        ]
+      }
+    }
+  ]
+}

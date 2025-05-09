@@ -1,0 +1,168 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Clearing and stripping of the areas earmarked for removing shrubs, grass, bushes, vegetables growth and other",
+      "core_product_name": "clearing and stripping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: removing shrubs, grass, bushes, vegetables growth and other",
+      "quantity": "0.63",
+      "unit": "ha"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and laying of stone aggregate of 63mm down to 45mm size for WBM layer Base Course, tough, sound,",
+      "core_product_name": "stone aggregate supplying and laying",
+      "acronymed_core_product_name": "",
+      "size": "aggregate size: 63mm down to 45mm",
+      "feature_or_specifications": "feature: for WBM layer Base Course, tough, sound",
+      "quantity": "5940.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Earthwork in filling with borrow earth for all heights and depths for road embankments, shoulders or any other place",
+      "core_product_name": "earthwork in filling with borrow earth",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: for all heights and depths for road embankments, shoulders or any other place",
+      "quantity": "500.0",
+      "unit": "cum"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and laying of stone aggregate of 53mm and down size for GRANULAR SUB-BASE COURSE (conforming to",
+      "core_product_name": "stone aggregate supplying and laying",
+      "acronymed_core_product_name": "",
+      "size": "aggregate size: 53mm and down",
+      "feature_or_specifications": "feature: for GRANULAR SUB-BASE COURSE (conforming to",
+      "quantity": "150.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and laying in position RCC pipes with collars conforming to IS:458 for pipe culverts, cable crossings etc. PIPE CLASS   NP3   Internal Pipe dia.   500 mm",
+      "core_product_name": "rcc pipe supplying and laying",
+      "acronymed_core_product_name": "rcc pipe",
+      "size": "internal pipe diameter: 500 mm",
+      "feature_or_specifications": "pipe class: NP3, feature: with collars, standard: indian standard 458, application: pipe culverts, cable crossings etc.",
+      "quantity": "10.0",
+      "unit": "m"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      650,
+      659
+    ],
+    "original_rows": [
+      {
+        "0": 651,
+        "1": 0,
+        "2": "01GC.5.60",
+        "3": "Clearing and stripping of the areas earmarked for removing shrubs, grass, bushes, vegetables growth and other",
+        "4": 0.63,
+        "5": "ha",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 652,
+        "1": 0,
+        "2": "01GC.6",
+        "3": "ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 653,
+        "1": 0,
+        "2": "01GC.6.11",
+        "3": "Supplying and laying of stone aggregate of 63mm down to 45mm size for WBM layer Base Course, tough, sound,",
+        "4": 5940.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 654,
+        "1": 0,
+        "2": "01GC.6.17",
+        "3": "Earthwork in filling with borrow earth for all heights and depths for road embankments, shoulders or any other place",
+        "4": 500.0,
+        "5": "cum",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 655,
+        "1": 0,
+        "2": "01GC.6.18",
+        "3": "Supplying and laying of stone aggregate of 53mm and down size for GRANULAR SUB-BASE COURSE (conforming to",
+        "4": 150.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 656,
+        "1": 0,
+        "2": "01GC.9",
+        "3": "RCC PIPE CULVERTS & ELECTRICAL ROAD CROSSINGS ETC.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 657,
+        "1": 0,
+        "2": "01GC.9.1",
+        "3": "Supplying and laying in position RCC pipes with collars conforming to IS:458 for pipe culverts, cable crossings etc.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 658,
+        "1": 0,
+        "2": "01GC.9.1.1V4",
+        "3": "PIPE CLASS   NP3   Internal Pipe dia.   500 mm",
+        "4": 10.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 659,
+        "1": 0,
+        "2": "01GC.9.2",
+        "3": "Supplying and laying in position PVC pipes conforming to IS:4985 Class - I for cable crossings, including cutting the",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 660,
+        "1": 0,
+        "2": "01GC.9.2.1V2",
+        "3": "Pipe Class   PVC   Nominal outside pipe dia.   160 mm",
+        "4": 60.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2292,
+    "completion_tokens": 960
+  }
+}

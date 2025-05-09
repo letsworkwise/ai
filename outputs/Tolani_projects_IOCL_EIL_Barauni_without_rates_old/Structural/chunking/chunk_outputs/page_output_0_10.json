@@ -1,0 +1,178 @@
+{
+  "sheet_name": "Structural",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003) > Earthwork excavation in soil",
+      "full_product_description": "Earth work in EXCAVATION below ground level for all kinds of works in ALL TYPES OF SOILS EXCEPT SOFT ROCK AND HARD ROCK as classified in specification for a depth upto 1.5m including removal of vegetation, shrubs and debris, cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering of accumulated water from any source and keeping the surface dry for subsequent works and disposal or stacking of excavated material within a lead of 100m, as directed including providing temporary supports to existing service lines like water pipes, sewage pipes, electric overhead and underground cables etc. all complete, but excluding shoring and strutting.",
+      "core_product_name": "earth work excavation",
+      "acronymed_core_product_name": "",
+      "size": "depth: upto 1.5m, lead: 100m",
+      "feature_or_specifications": "soil type: all types except soft rock and hard rock, removal: vegetation, shrubs and debris, operation: cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering: accumulated water from any source, support: temporary supports to existing service lines (water pipes, sewage pipes, electric overhead and underground cables), exclusion: shoring and strutting",
+      "quantity": "6900.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003) > Earthwork excavation in soil",
+      "full_product_description": "Earth work in EXCAVATION below ground level for all kinds of works in ALL TYPES OF SOILS EXCEPT SOFT ROCK AND HARD ROCK as classified in specification for a depth beyond 1.5m and upto and inclusive of 3.0m including removal of vegetation, shrubs and debris, cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering of accumulated water from any source and keeping the surface dry for subsequent works and disposal or stacking of excavated material within a lead of 100m, as directed including providing temporary supports to existing service lines like water pipes, sewage pipes, electric overhead and underground cables etc. all complete, but excluding shoring and strutting.",
+      "core_product_name": "earth work excavation",
+      "acronymed_core_product_name": "",
+      "size": "depth: beyond 1.5m and upto and inclusive of 3.0m, lead: 100m",
+      "feature_or_specifications": "soil type: all types except soft rock and hard rock, removal: vegetation, shrubs and debris, operation: cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering: accumulated water from any source, support: temporary supports to existing service lines (water pipes, sewage pipes, electric overhead and underground cables), exclusion: shoring and strutting",
+      "quantity": "750.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003) > Earthwork excavation in soil",
+      "full_product_description": "Earth work in EXCAVATION below ground level for all kinds of works in ALL TYPES OF SOILS EXCEPT SOFT ROCK AND HARD ROCK as classified in specification for a depth beyond 3.0m and upto & inclusive of 4.5m including removal of vegetation, shrubs and debris, cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering of accumulated water from any source and keeping the surface dry for subsequent works and disposal or stacking of excavated material within a lead of 100m, as directed including providing temporary supports to existing service lines like water pipes, sewage pipes, electric overhead and underground cables etc. all complete, but excluding shoring and strutting.",
+      "core_product_name": "earth work excavation",
+      "acronymed_core_product_name": "",
+      "size": "depth: beyond 3.0m and upto & inclusive of 4.5m, lead: 100m",
+      "feature_or_specifications": "soil type: all types except soft rock and hard rock, removal: vegetation, shrubs and debris, operation: cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering: accumulated water from any source, support: temporary supports to existing service lines (water pipes, sewage pipes, electric overhead and underground cables), exclusion: shoring and strutting",
+      "quantity": "100.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003) > Earthwork excavation in soil",
+      "full_product_description": "Earth work in EXCAVATION below ground level for all kinds of works in ALL TYPES OF SOILS EXCEPT SOFT ROCK AND HARD ROCK as classified in specification for a depth beyond 4.5m and upto & inclusive of 6.0m including removal of vegetation, shrubs and debris, cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering of accumulated water from any source and keeping the surface dry for subsequent works and disposal or stacking of excavated material within a lead of 100m, as directed including providing temporary supports to existing service lines like water pipes, sewage pipes, electric overhead and underground cables etc. all complete, but excluding shoring and strutting.",
+      "core_product_name": "earth work excavation",
+      "acronymed_core_product_name": "",
+      "size": "depth: beyond 4.5m and upto & inclusive of 6.0m, lead: 100m",
+      "feature_or_specifications": "soil type: all types except soft rock and hard rock, removal: vegetation, shrubs and debris, operation: cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering: accumulated water from any source, support: temporary supports to existing service lines (water pipes, sewage pipes, electric overhead and underground cables), exclusion: shoring and strutting",
+      "quantity": "50.0",
+      "unit": "m³"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      0,
+      9
+    ],
+    "original_rows": [
+      {
+        "0": 475,
+        "1": 0,
+        "2": "01CS",
+        "3": "STRUCTURAL",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 476,
+        "1": 0,
+        "2": "01CS.1",
+        "3": "EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 477,
+        "1": 0,
+        "2": "01CS.1.1",
+        "3": "Earthwork excavation in soil",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 478,
+        "1": 0,
+        "2": "01CS.1.1.1",
+        "3": "Earth work in EXCAVATION below ground level for all kinds of works in ALL TYPES OF SOILS EXCEPT SOFT ROCK AND HARD ROCK as classified in specification for a depth upto 1.5m including removal of vegetation, shrubs and debris, cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering of accumulated water from any source and keeping the surface dry for subsequent works and disposal or stacking of excavated material within a lead of 100m, as directed including providing temporary supports to existing service lines like water pipes, sewage pipes, electric overhead and underground cables etc. all complete, but excluding shoring and strutting.",
+        "4": 6900.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 479,
+        "1": 0,
+        "2": "01CS.1.1.2",
+        "3": "Earth work in EXCAVATION below ground level for all kinds of works in ALL TYPES OF SOILS EXCEPT SOFT ROCK AND HARD ROCK as classified in specification for a depth beyond 1.5m and upto and inclusive of 3.0m including removal of vegetation, shrubs and debris, cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering of accumulated water from any source and keeping the surface dry for subsequent works and disposal or stacking of excavated material within a lead of 100m, as directed including providing temporary supports to existing service lines like water pipes, sewage pipes, electric overhead and underground cables etc. all complete, but excluding shoring and strutting.",
+        "4": 750.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 480,
+        "1": 0,
+        "2": "01CS.1.1.3",
+        "3": "Earth work in EXCAVATION below ground level for all kinds of works in ALL TYPES OF SOILS EXCEPT SOFT ROCK AND HARD ROCK as classified in specification for a depth beyond 3.0m and upto & inclusive of 4.5m including removal of vegetation, shrubs and debris, cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering of accumulated water from any source and keeping the surface dry for subsequent works and disposal or stacking of excavated material within a lead of 100m, as directed including providing temporary supports to existing service lines like water pipes, sewage pipes, electric overhead and underground cables etc. all complete, but excluding shoring and strutting.",
+        "4": 100.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 481,
+        "1": 0,
+        "2": "01CS.1.1.4",
+        "3": "Earth work in EXCAVATION below ground level for all kinds of works in ALL TYPES OF SOILS EXCEPT SOFT ROCK AND HARD ROCK as classified in specification for a depth beyond 4.5m and upto & inclusive of 6.0m including removal of vegetation, shrubs and debris, cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering of accumulated water from any source and keeping the surface dry for subsequent works and disposal or stacking of excavated material within a lead of 100m, as directed including providing temporary supports to existing service lines like water pipes, sewage pipes, electric overhead and underground cables etc. all complete, but excluding shoring and strutting.",
+        "4": 50.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 482,
+        "1": 0,
+        "2": "01CS.1.6",
+        "3": "SHORING AND STRUTTING",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 483,
+        "1": 0,
+        "2": "01CS.1.6.1",
+        "3": "Providing and installing approved type of \"SHORING AND STRUTTING\" by open timbering method for all depths to retain earth including dismantling and removal of the same etc. from site after completion of work etc. all complete as directed.",
+        "4": 100.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 484,
+        "1": 0,
+        "2": "01CS.1.6.2",
+        "3": "Providing and installing approved type of \"SHORING AND STRUTTING\" by close timbering method for all depths to retain earth including dismantling and removal of the same etc. from site after completion of work etc. all complete as directed.",
+        "4": 100.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2699,
+    "completion_tokens": 1648
+  }
+}

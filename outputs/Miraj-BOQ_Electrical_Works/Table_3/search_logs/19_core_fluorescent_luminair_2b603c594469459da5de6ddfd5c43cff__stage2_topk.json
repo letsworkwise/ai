@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: fluorescent luminaire | size: lamp wattage: 1x18 W | feature_or_specifications: feature: dust proof, enclosure: totally enclosed, housing: sheet steel, supply: 220V DC, lamp: CFL (compact fluorescent lamp)",
+  "retrieval_results": [
+    {
+      "id": "variant-e86062e6-2903-51eb-9c92-a29d8a2c92b5",
+      "score": 0.8664338,
+      "metadata": {
+        "text": "core_product_name: fluorescent lighting fixture",
+        "raw_product_name": "FLUORESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19025,19023,19021,19019,19164",
+        "core_id": 951.0
+      }
+    },
+    {
+      "id": "variant-eb58eb3c-f1fc-59ff-ba71-ccf7d770f771",
+      "score": 0.8532858,
+      "metadata": {
+        "text": "core_product_name: incandescent lighting fixture",
+        "raw_product_name": "INCANDESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19026,19024,19022,19020,19163",
+        "core_id": 1228.0
+      }
+    },
+    {
+      "id": "variant-cf977c7c-e368-56f7-9ce9-23eb8659bb38",
+      "score": 0.84996516,
+      "metadata": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": "13606,16555,16546,16591,16576,17657,17650,17702,17682,18058,20306,20834,21315,22108,23384,35044",
+        "core_id": 1006.0
+      }
+    },
+    {
+      "id": "variant-370c43d3-b815-5435-9810-24d97f958927",
+      "score": 0.8463239,
+      "metadata": {
+        "text": "core_product_name: indicating lamp fitting",
+        "raw_product_name": "INDICATING LAMP FITTING",
+        "list_of_product_ids": "20128,20443,20418,20465,20506,20645",
+        "core_id": 1232.0
+      }
+    },
+    {
+      "id": "variant-0cb3d965-6b71-56dc-a522-f463c04698ee",
+      "score": 0.8435311,
+      "metadata": {
+        "text": "core_product_name: light fabricated component",
+        "raw_product_name": "LIGHT FABRICATED COMPONENT",
+        "list_of_product_ids": "26019,26018,26017,26690",
+        "core_id": 1347.0
+      }
+    },
+    {
+      "id": "variant-5ce39e66-51d3-5c8d-8399-07e58423611b",
+      "score": 0.83952,
+      "metadata": {
+        "text": "core_product_name: tube light fixture",
+        "raw_product_name": "TUBE LIGHT FIXTURES",
+        "list_of_product_ids": "139,811,494,021,021",
+        "core_id": 2282.0
+      }
+    },
+    {
+      "id": "variant-3bb64163-5110-5389-8fd5-ba5999183039",
+      "score": 0.8377025,
+      "metadata": {
+        "text": "core_product_name: electric lamp",
+        "raw_product_name": "ELECTRIC LAMPS",
+        "list_of_product_ids": "20801,20836,20803,28495",
+        "core_id": 695.0
+      }
+    },
+    {
+      "id": "variant-7ca03090-7818-58e9-b746-b20c802cbb9f",
+      "score": 0.8361942,
+      "metadata": {
+        "text": "core_product_name: light machined component",
+        "raw_product_name": "LIGHT MACHINED COMPONENTS",
+        "list_of_product_ids": "239,522,395,328,688",
+        "core_id": 1350.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.83596003,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    },
+    {
+      "id": "variant-1a654752-870e-5c3a-958f-e8464036d7ab",
+      "score": 0.83556336,
+      "metadata": {
+        "text": "core_product_name: lighting transformer",
+        "raw_product_name": "LIGHTING TRANSFORMERS",
+        "list_of_product_ids": "17731,17727,18659,19486,35388",
+        "core_id": 635.0
+      }
+    },
+    {
+      "id": "variant-4899927d-b320-5265-8d88-74ca5f512243",
+      "score": 0.8352131,
+      "metadata": {
+        "text": "core_product_name: flame proof lighting fixture | protection_features: Flame proof | accessories_or_attachments: Accessories",
+        "raw_product_name": "FLAME PROOF LIGHTING FIXTURES & ACCESSORIES",
+        "list_of_product_ids": "13572,14602,14848,15164,15923,18858,22863,16552,35780",
+        "core_id": 890.0
+      }
+    },
+    {
+      "id": "variant-a807b261-d030-557d-80c2-edb07d018ba1",
+      "score": 0.8347006,
+      "metadata": {
+        "text": "core_product_name: accessory lighting fixture | protection_features: Non Hazardous",
+        "raw_product_name": "LIGHTING FIXTURE & ACCESORY-NON HZARDOUS",
+        "list_of_product_ids": "5630,6459,10568,10188,10179,19512,19508,19540,26082",
+        "core_id": 1352.0
+      }
+    },
+    {
+      "id": "variant-a42e2286-63d0-50f1-b7db-ecb2ab6b3661",
+      "score": 0.83397573,
+      "metadata": {
+        "text": "core_product_name: hazardous area lighting panel | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF - HAZARDOUS AREA LIGHTING PANEL",
+        "list_of_product_ids": "19706,19705,19702,19700,19695,19670,27175,35892,35945,40178,40228",
+        "core_id": 891.0
+      }
+    },
+    {
+      "id": "variant-04557174-00a9-5154-8b28-71d131bdaca2",
+      "score": 0.8335159,
+      "metadata": {
+        "text": "core_product_name: lighting and power distribution panel",
+        "raw_product_name": "Lighting & Power Distribution Panel",
+        "list_of_product_ids": "18723,18718,18735,18734,18733,19012,18997,18728,19000,38293,35861,38156",
+        "core_id": 1413.0
+      }
+    },
+    {
+      "id": "variant-ed951238-4b7d-57d2-a143-ad5933966b07",
+      "score": 0.8326093,
+      "metadata": {
+        "text": "core_product_name: sheet | material: Fibre Glass",
+        "raw_product_name": "FIBRE GLASS SHEETS",
+        "list_of_product_ids": "171,122,514,536,124",
+        "core_id": 132.0
+      }
+    },
+    {
+      "id": "variant-e6962075-ca09-5c6f-853c-2665f1ed752b",
+      "score": 0.832486,
+      "metadata": {
+        "text": "core_product_name: compact flange",
+        "raw_product_name": "COMPACT FLANGE",
+        "list_of_product_ids": "62,775,447",
+        "core_id": 406.0
+      }
+    },
+    {
+      "id": "variant-92416a32-957c-5942-b527-7d434e69b436",
+      "score": 0.8324061,
+      "metadata": {
+        "text": "core_product_name: non flame proof light fixture | protection_features: Non Flame Proof",
+        "raw_product_name": "LIGHT FIXTURE (NON FLAME PROOF)",
+        "list_of_product_ids": "7066,7393,10175,10185,10178",
+        "core_id": 1349.0
+      }
+    },
+    {
+      "id": "variant-5722049a-a798-5b88-81b3-11aec368d8cc",
+      "score": 0.83201087,
+      "metadata": {
+        "text": "core_product_name: lighting mast",
+        "raw_product_name": "Lighting Masts",
+        "list_of_product_ids": "15628,24242,15727,15629",
+        "core_id": 1363.0
+      }
+    },
+    {
+      "id": "variant-0bf51e3d-fa9b-53e0-8154-35e104f448de",
+      "score": 0.8318949,
+      "metadata": {
+        "text": "core_product_name: lighting mast",
+        "raw_product_name": "LIGHTING MAST",
+        "list_of_product_ids": "17348,17346,17338,17520,17538,18673,17707,32167,32166,32193,35983,35989",
+        "core_id": 1363.0
+      }
+    },
+    {
+      "id": "variant-bef91277-0c1c-513b-a55c-9934dfd07641",
+      "score": 0.83034396,
+      "metadata": {
+        "text": "core_product_name: single chamber orifice fitting",
+        "raw_product_name": "SINGLE CHAMBER ORIFICE FITTINGS",
+        "list_of_product_ids": "20395,20396,20477,20471,20716,20658",
+        "core_id": 2035.0
+      }
+    },
+    {
+      "id": "variant-c67f99b2-1581-533a-bfd9-79e30811dae4",
+      "score": 0.8300046,
+      "metadata": {
+        "text": "core_product_name: navigational light",
+        "raw_product_name": "NAVIGATIONAL LIGHTS",
+        "list_of_product_ids": "28223,28249,28222,28221,28220",
+        "core_id": 1537.0
+      }
+    },
+    {
+      "id": "variant-e7c3a8c8-2d49-5297-bb93-4f2e288fa355",
+      "score": 0.82963425,
+      "metadata": {
+        "text": "core_product_name: panel tube light",
+        "raw_product_name": "PANEL TUBE LIGHT",
+        "list_of_product_ids": "19668,19677,19680,19684,24243",
+        "core_id": 1636.0
+      }
+    },
+    {
+      "id": "variant-c1c7c951-de0a-5601-aa1a-b2d2fb7e1622",
+      "score": 0.8294738,
+      "metadata": {
+        "text": "core_product_name: security search light system",
+        "raw_product_name": "SECURITY SEARCH LIGHT SYSTEM",
+        "list_of_product_ids": "7,065,739,211,726",
+        "core_id": 1989.0
+      }
+    },
+    {
+      "id": "variant-5a0293ff-dbed-5801-88f0-a1eb7f4d1cad",
+      "score": 0.82938516,
+      "metadata": {
+        "text": "core_product_name: monolithic insulation joint",
+        "raw_product_name": "MONOLOTHICAL INSULATION JOINT",
+        "list_of_product_ids": "1,377,822,418",
+        "core_id": 1500.0
+      }
+    },
+    {
+      "id": "variant-c078d442-499e-5fef-af59-18af5b47f64b",
+      "score": 0.8289422,
+      "metadata": {
+        "text": "core_product_name: flame proof junction box | protection_features: Flame proof",
+        "raw_product_name": "JUNCTION BOXES (FLAME PROOF)",
+        "list_of_product_ids": "6417,5587,11078,11075,10304,11324,10578,10585,10555,10601,10686,8207,8208,8402,15922,16008,16029,16025,26747,26746,33512,35769",
+        "core_id": 1315.0
+      }
+    },
+    {
+      "id": "variant-eee4a1fb-f9fd-5f23-a535-ffd0a9a04ee3",
+      "score": 0.8278491,
+      "metadata": {
+        "text": "core_product_name: flame proof handlamp | protection_features: Flame Proof",
+        "raw_product_name": "PLUGS/SOCKETS/HANDLAMPS (FLAME PROOF)",
+        "list_of_product_ids": "6419,5589,10584,10554,10603,19863,19849,19866,20463,20504,22852,26781,26782,35771",
+        "core_id": 1713.0
+      }
+    },
+    {
+      "id": "variant-651e7de1-5940-5447-b20c-de1f1785c37c",
+      "score": 0.82781464,
+      "metadata": {
+        "text": "core_product_name: flameproof convenience outlet | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF - CONVENIENCE OUTLETS",
+        "list_of_product_ids": "19657,19639,19667,28279",
+        "core_id": 892.0
+      }
+    },
+    {
+      "id": "variant-a947ab69-11c3-5478-b1b6-fa5978c60e03",
+      "score": 0.8277006,
+      "metadata": {
+        "text": "core_product_name: flushing apparatus",
+        "raw_product_name": "FLUSHING APPARATUS",
+        "list_of_product_ids": "143,601,444,714,482",
+        "core_id": 958.0
+      }
+    },
+    {
+      "id": "variant-d2f07b17-82a7-5d9a-acbe-c9fccb76fc0d",
+      "score": 0.82765925,
+      "metadata": {
+        "text": "core_product_name: fusible plug",
+        "raw_product_name": "FUSIBLE PLUGS",
+        "list_of_product_ids": "136,943,554,535,978",
+        "core_id": 992.0
+      }
+    },
+    {
+      "id": "variant-28ec42bf-d339-5320-a74e-954d0df9085c",
+      "score": 0.8271921,
+      "metadata": {
+        "text": "core_product_name: emergency lighting system",
+        "raw_product_name": "EMERGENCY LIGHTING SYSTEM",
+        "list_of_product_ids": "3,216,232,163",
+        "core_id": 740.0
+      }
+    }
+  ]
+}

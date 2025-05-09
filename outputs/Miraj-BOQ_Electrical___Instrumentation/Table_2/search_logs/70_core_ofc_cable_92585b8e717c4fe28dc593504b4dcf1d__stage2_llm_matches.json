@@ -1,0 +1,83 @@
+{
+  "query": "core_product_name: ofc cable | acronymed_core_product_name: ofc cable | size: core: 24 core | feature_or_specifications: armoured: yes, duct: HDPE (high density polyethylene), accessories: 12/24 port LIU (line interface unit), splice tray, loaded adapter, blank plate & patch cord etc as required is included",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: optical fibre cable | accessories_or_attachments: associated item",
+        "raw_product_name": "OPTICAL FIBRE CABLE & ASSOC.ITEM",
+        "list_of_product_ids": [
+          "6480",
+          "5651",
+          "10911",
+          "11309",
+          "11731",
+          "11946",
+          "19181",
+          "17780",
+          "19112",
+          "19562",
+          "23868",
+          "24032",
+          "26902",
+          "26901",
+          "19151",
+          "34333"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: optical fibre cable | type_or_class: Optical Fibre",
+        "raw_product_name": "OPTICAL FIBRE CABLE",
+        "list_of_product_ids": [
+          "5955",
+          "6783",
+          "7005",
+          "7006",
+          "11751",
+          "10158",
+          "12291",
+          "11945",
+          "11906",
+          "12190",
+          "18378",
+          "19487",
+          "19563",
+          "20095",
+          "23871",
+          "24035",
+          "21242",
+          "34334",
+          "39590"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "material"
+      ],
+      "match_details": {
+        "text": "core_product_name: duct | acronymed_core_product_name: HDPE (High Density Polyethylene) DUCT | material: HDPE (High Density Polyethylene)",
+        "raw_product_name": "HDPE DUCT",
+        "list_of_product_ids": [
+          "142",
+          "501",
+          "665",
+          "622",
+          "898"
+        ]
+      }
+    }
+  ]
+}

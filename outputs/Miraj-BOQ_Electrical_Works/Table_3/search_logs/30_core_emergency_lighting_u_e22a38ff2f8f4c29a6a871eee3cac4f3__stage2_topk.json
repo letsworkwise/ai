@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: emergency lighting unit | size: battery: Ni-Cd (nickel-cadmium), lamp wattage: 2 x 6 W",
+  "retrieval_results": [
+    {
+      "id": "variant-28ec42bf-d339-5320-a74e-954d0df9085c",
+      "score": 0.872319,
+      "metadata": {
+        "text": "core_product_name: emergency lighting system",
+        "raw_product_name": "EMERGENCY LIGHTING SYSTEM",
+        "list_of_product_ids": "3,216,232,163",
+        "core_id": 740.0
+      }
+    },
+    {
+      "id": "variant-0fe3a6fd-903e-54f0-b9bd-b54db1c11fab",
+      "score": 0.85567194,
+      "metadata": {
+        "text": "core_product_name: battery | material: Nickel-Cadmium (NI-CD)",
+        "raw_product_name": "BATTERY (NI-CD)",
+        "list_of_product_ids": "14130,16441,17771,21689,22877",
+        "core_id": 183.0
+      }
+    },
+    {
+      "id": "variant-ec376394-d8f7-527a-b1f5-2bca943607de",
+      "score": 0.8526835,
+      "metadata": {
+        "text": "core_product_name: emergency generator",
+        "raw_product_name": "EMERGENCY GENERATORS",
+        "list_of_product_ids": "1,391,221,828",
+        "core_id": 739.0
+      }
+    },
+    {
+      "id": "variant-88e853d3-25cc-5237-830e-e3f1e347a1a8",
+      "score": 0.8526497,
+      "metadata": {
+        "text": "core_product_name: battery | material: Nickle Cadmium",
+        "raw_product_name": "BATTERIES-NICKLE CADMIUM",
+        "list_of_product_ids": "6398,5569,12541,16373,24501",
+        "core_id": 183.0
+      }
+    },
+    {
+      "id": "variant-3bb64163-5110-5389-8fd5-ba5999183039",
+      "score": 0.8512172,
+      "metadata": {
+        "text": "core_product_name: electric lamp",
+        "raw_product_name": "ELECTRIC LAMPS",
+        "list_of_product_ids": "20801,20836,20803,28495",
+        "core_id": 695.0
+      }
+    },
+    {
+      "id": "variant-74d303aa-2799-5e8d-8b8a-412a8da4a4f2",
+      "score": 0.84535956,
+      "metadata": {
+        "text": "core_product_name: electrical spare",
+        "raw_product_name": "ELECTRICAL SPARES",
+        "list_of_product_ids": "207,782,077,728,462",
+        "core_id": 710.0
+      }
+    },
+    {
+      "id": "variant-1add5f13-2440-5dda-86d5-043d20d8f22d",
+      "score": 0.8448597,
+      "metadata": {
+        "text": "core_product_name: emergency diesel generator",
+        "raw_product_name": "EMERGENCY DIESEL GENERATOR",
+        "list_of_product_ids": "13916,20008,36889,39841",
+        "core_id": 738.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.84433085,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-c67f99b2-1581-533a-bfd9-79e30811dae4",
+      "score": 0.842757,
+      "metadata": {
+        "text": "core_product_name: navigational light",
+        "raw_product_name": "NAVIGATIONAL LIGHTS",
+        "list_of_product_ids": "28223,28249,28222,28221,28220",
+        "core_id": 1537.0
+      }
+    },
+    {
+      "id": "variant-81340cbc-b282-5f41-b0bc-23b4e381edee",
+      "score": 0.8418333,
+      "metadata": {
+        "text": "core_product_name: emergency vent",
+        "raw_product_name": "EMERGENCY VENT",
+        "list_of_product_ids": "1,392,415,189",
+        "core_id": 742.0
+      }
+    },
+    {
+      "id": "variant-b8c1b5fb-ac08-557d-b8f3-976ba810e6ab",
+      "score": 0.8412835,
+      "metadata": {
+        "text": "core_product_name: electrical repair",
+        "raw_product_name": "SHIP REPAIR (ELECTRICAL WORK)",
+        "list_of_product_ids": "23965,24298,23966,24724,24966,36009",
+        "core_id": 2009.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.8412248,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-5722049a-a798-5b88-81b3-11aec368d8cc",
+      "score": 0.8398853,
+      "metadata": {
+        "text": "core_product_name: lighting mast",
+        "raw_product_name": "Lighting Masts",
+        "list_of_product_ids": "15628,24242,15727,15629",
+        "core_id": 1363.0
+      }
+    },
+    {
+      "id": "variant-eb58eb3c-f1fc-59ff-ba71-ccf7d770f771",
+      "score": 0.83976233,
+      "metadata": {
+        "text": "core_product_name: incandescent lighting fixture",
+        "raw_product_name": "INCANDESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19026,19024,19022,19020,19163",
+        "core_id": 1228.0
+      }
+    },
+    {
+      "id": "variant-0bf51e3d-fa9b-53e0-8154-35e104f448de",
+      "score": 0.8397432,
+      "metadata": {
+        "text": "core_product_name: lighting mast",
+        "raw_product_name": "LIGHTING MAST",
+        "list_of_product_ids": "17348,17346,17338,17520,17538,18673,17707,32167,32166,32193,35983,35989",
+        "core_id": 1363.0
+      }
+    },
+    {
+      "id": "variant-c03e0ba5-aa70-53fc-9eb3-267f46d459cb",
+      "score": 0.8390256,
+      "metadata": {
+        "text": "core_product_name: cathodic protection power supply module",
+        "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+        "list_of_product_ids": "6413,5583,8417,12209",
+        "core_id": 315.0
+      }
+    },
+    {
+      "id": "variant-04557174-00a9-5154-8b28-71d131bdaca2",
+      "score": 0.83895093,
+      "metadata": {
+        "text": "core_product_name: lighting and power distribution panel",
+        "raw_product_name": "Lighting & Power Distribution Panel",
+        "list_of_product_ids": "18723,18718,18735,18734,18733,19012,18997,18728,19000,38293,35861,38156",
+        "core_id": 1413.0
+      }
+    },
+    {
+      "id": "variant-370c43d3-b815-5435-9810-24d97f958927",
+      "score": 0.8385945,
+      "metadata": {
+        "text": "core_product_name: indicating lamp fitting",
+        "raw_product_name": "INDICATING LAMP FITTING",
+        "list_of_product_ids": "20128,20443,20418,20465,20506,20645",
+        "core_id": 1232.0
+      }
+    },
+    {
+      "id": "variant-cf977c7c-e368-56f7-9ce9-23eb8659bb38",
+      "score": 0.8379501,
+      "metadata": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": "13606,16555,16546,16591,16576,17657,17650,17702,17682,18058,20306,20834,21315,22108,23384,35044",
+        "core_id": 1006.0
+      }
+    },
+    {
+      "id": "variant-81436a4b-3141-5607-a7c1-37ad5b5c930d",
+      "score": 0.8377524,
+      "metadata": {
+        "text": "core_product_name: battery",
+        "raw_product_name": "BATTERY",
+        "list_of_product_ids": "17766,17749,18656,18679,18678,18677,36615",
+        "core_id": 183.0
+      }
+    },
+    {
+      "id": "variant-c1c7c951-de0a-5601-aa1a-b2d2fb7e1622",
+      "score": 0.83762765,
+      "metadata": {
+        "text": "core_product_name: security search light system",
+        "raw_product_name": "SECURITY SEARCH LIGHT SYSTEM",
+        "list_of_product_ids": "7,065,739,211,726",
+        "core_id": 1989.0
+      }
+    },
+    {
+      "id": "variant-eac04853-0cd4-54f1-a18f-72d0534f33b6",
+      "score": 0.8368918,
+      "metadata": {
+        "text": "core_product_name: electrical converter",
+        "raw_product_name": "ELECTRICAL CONVERTER",
+        "list_of_product_ids": "20850,20849,27075,20848",
+        "core_id": 706.0
+      }
+    },
+    {
+      "id": "variant-bcf81070-a371-5aea-8bcf-47e5eb712834",
+      "score": 0.83657604,
+      "metadata": {
+        "text": "core_product_name: auxiliary relay",
+        "raw_product_name": "AUXILIARY RELAY",
+        "list_of_product_ids": "2,013,420,111",
+        "core_id": 149.0
+      }
+    },
+    {
+      "id": "variant-1105631b-0b22-54a6-a4f0-6a6c11ad3f7e",
+      "score": 0.8359876,
+      "metadata": {
+        "text": "core_product_name: cathodic protection agency",
+        "raw_product_name": "CATHODIC PROTECTION AGENCIES",
+        "list_of_product_ids": "13890",
+        "core_id": 314.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.8358566,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    },
+    {
+      "id": "variant-be40f8fa-efc7-5598-8afe-f0793558c2d5",
+      "score": 0.8358467,
+      "metadata": {
+        "text": "core_product_name: emergency generator | type_or_class: MV (Medium Voltage)",
+        "raw_product_name": "EMERGENCY GENERATORS (MV)",
+        "list_of_product_ids": "6433,5603,12353,24291",
+        "core_id": 739.0
+      }
+    },
+    {
+      "id": "variant-1a654752-870e-5c3a-958f-e8464036d7ab",
+      "score": 0.8355175,
+      "metadata": {
+        "text": "core_product_name: lighting transformer",
+        "raw_product_name": "LIGHTING TRANSFORMERS",
+        "list_of_product_ids": "17731,17727,18659,19486,35388",
+        "core_id": 635.0
+      }
+    },
+    {
+      "id": "variant-a807b261-d030-557d-80c2-edb07d018ba1",
+      "score": 0.8353312,
+      "metadata": {
+        "text": "core_product_name: accessory lighting fixture | protection_features: Non Hazardous",
+        "raw_product_name": "LIGHTING FIXTURE & ACCESORY-NON HZARDOUS",
+        "list_of_product_ids": "5630,6459,10568,10188,10179,19512,19508,19540,26082",
+        "core_id": 1352.0
+      }
+    },
+    {
+      "id": "variant-a4d00068-9941-575f-92b1-886f508c324b",
+      "score": 0.8351971,
+      "metadata": {
+        "text": "core_product_name: first aid kit",
+        "raw_product_name": "FIRST AID KITS",
+        "list_of_product_ids": "2,108,828,543",
+        "core_id": 867.0
+      }
+    },
+    {
+      "id": "variant-7b84b9d7-6c76-5b4d-9aaf-d57ecafe4b91",
+      "score": 0.83482385,
+      "metadata": {
+        "text": "core_product_name: electrical-instrumentation work",
+        "raw_product_name": "ELECTRICAL-INSTRUMENTATION WORKS",
+        "list_of_product_ids": "36860,36857,36888,36892",
+        "core_id": 711.0
+      }
+    }
+  ]
+}

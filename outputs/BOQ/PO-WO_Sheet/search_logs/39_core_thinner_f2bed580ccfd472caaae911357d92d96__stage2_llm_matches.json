@@ -1,0 +1,53 @@
+{
+  "query": "core_product_name: thinner | size: quantity: 10 ltrs",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: paint thinner",
+        "raw_product_name": "PAINT THINNER",
+        "list_of_product_ids": [
+          "22307",
+          "22306",
+          "22305",
+          "27438",
+          "29106",
+          "29105",
+          "29104"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: thin layer chromatography",
+        "raw_product_name": "THIN LAYER CHROMATOGRAPHY",
+        "list_of_product_ids": [
+          "951",
+          "395",
+          "739",
+          "796"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: chemical cleaning material",
+        "raw_product_name": "CLEANING MATERIAL (CHEMICALS)",
+        "list_of_product_ids": [
+          "196",
+          "021",
+          "960",
+          "127",
+          "958"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: paint | feature_or_specifications: type: bituminous",
+  "retrieval_results": [
+    {
+      "id": "variant-436646c3-56f2-5eda-ac41-b3798ec97437",
+      "score": 0.910606,
+      "metadata": {
+        "text": "core_product_name: product | material: Bituminous",
+        "raw_product_name": "BITUMINOUS PRODUCT",
+        "list_of_product_ids": "14189,22476,29236,29235,29234,29233,29232",
+        "core_id": 211.0
+      }
+    },
+    {
+      "id": "variant-27834032-9ff1-56f1-aa48-bbc29b08fc65",
+      "score": 0.8987045,
+      "metadata": {
+        "text": "core_product_name: bitumastic paint | protection_features: Anti-corrosive",
+        "raw_product_name": "ANTI CORROSIVE BITUMASTIC PAINT",
+        "list_of_product_ids": "15685,15682,15683,30758,30784,30823,27989,15684,31895",
+        "core_id": 122.0
+      }
+    },
+    {
+      "id": "variant-83351410-76f3-5cb0-86b0-0ae6f6887ba6",
+      "score": 0.88957256,
+      "metadata": {
+        "text": "core_product_name: surface texture paint | operating_conditions: exterior",
+        "raw_product_name": "SURFACE TEXTURE PAINT(EXTERIOR)",
+        "list_of_product_ids": "200,832,007,920,715",
+        "core_id": 2154.0
+      }
+    },
+    {
+      "id": "variant-0d36c74f-f1d5-5e9d-a811-76f62093a877",
+      "score": 0.8820871,
+      "metadata": {
+        "text": "core_product_name: synthetic painting work | material: Enamel | special_attributes: For Building Works",
+        "raw_product_name": "PAINTING WORKS - SYNTHETIC ENAMEL (FOR BUILDING WORKS)",
+        "list_of_product_ids": "6353,5524,12197,12544,12554,14309,16294,16293,16292,22318,30747,30773,30812,28834,28832,28830,28828,28823,31890,34336,35226,35227,35228,35267,35337,35369,35343,35406,35364",
+        "core_id": 1631.0
+      }
+    },
+    {
+      "id": "variant-6c902bc9-fd96-5127-94e0-9c2d859afef6",
+      "score": 0.8810301,
+      "metadata": {
+        "text": "core_product_name: sealant | material: Bitumen",
+        "raw_product_name": "BITUMEN SEALANTS",
+        "list_of_product_ids": "17981,17982,18645,33349,36842",
+        "core_id": 208.0
+      }
+    },
+    {
+      "id": "variant-33525379-9060-5b76-8e53-8f90b0e2a756",
+      "score": 0.87957996,
+      "metadata": {
+        "text": "core_product_name: surface texture paint | operating_conditions: Interior",
+        "raw_product_name": "SURFACE TEXTURE PAINT(INTERIOR)",
+        "list_of_product_ids": "200,842,008,020,714",
+        "core_id": 2154.0
+      }
+    },
+    {
+      "id": "variant-945cb381-6e55-59f4-8edf-a854939688fe",
+      "score": 0.8793077,
+      "metadata": {
+        "text": "core_product_name: marine paint | operating_conditions: Offshore Structure",
+        "raw_product_name": "MARINE PAINTS FOR OFFSHORE STRUCTURE",
+        "list_of_product_ids": "19168,19160,30755,30781,30820,28072,19158,31896,38528,34489,35268,35338,35344,35365,35370,35407,39320,39324",
+        "core_id": 1439.0
+      }
+    },
+    {
+      "id": "variant-57fecfed-c79f-5acd-b247-15bf21cbd5a3",
+      "score": 0.87872636,
+      "metadata": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "Paints",
+        "list_of_product_ids": "7573,7248,10288,11486,7766,12146,12193,12340,12341,14307,16998,17021,17015,18878,18924,24661,24663,24684,24681,24678,24676,24675,24672,24697,24690,24694,24700,24725,24723,24722,24729,30771,24738,15680,15678,15677,30810,25163,25264,25278,25308,25299,25345,25552,25781,26145,26116,26220,25680,31891,30742,34244,38228,38229,38230,38231,38232,38233,35616,35617,35618,35619,35622,35703,35698,35707,35785,35816,35817,36023",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-014c7bb6-6ec5-54af-848e-7964ab04ac83",
+      "score": 0.87865967,
+      "metadata": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "PAINTS (STOCKIST/TRADERS)",
+        "list_of_product_ids": "2,457,824,577",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-ae413c56-b2e1-58fc-b7c0-83629b95ba1c",
+      "score": 0.8784282,
+      "metadata": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "paints",
+        "list_of_product_ids": "8191",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-dc61bb4b-3a37-5c73-9e84-36303b19eb2d",
+      "score": 0.87599975,
+      "metadata": {
+        "text": "core_product_name: based paint | material: Cement",
+        "raw_product_name": "CEMENT BASED PAINT",
+        "list_of_product_ids": "35632,35633,35634,35631,35670",
+        "core_id": 327.0
+      }
+    },
+    {
+      "id": "variant-5a21e89e-f2e2-5d8c-bee4-edcf5c008bbb",
+      "score": 0.87558866,
+      "metadata": {
+        "text": "core_product_name: painting work | material: Plastic or Acrylic Emulsion | material: Distemper | operating_conditions: Internal and External",
+        "raw_product_name": "PAINTING WORKS - PLASTIC/ ACRYLIC EMULSION (INTERNAL AND EXTERNAL), DISTEMPER ETC",
+        "list_of_product_ids": "5523,6352,11006,8190,12198,12538,12543,12553,14308,30746,30772,30811,15723,15706,31901,34117,34335",
+        "core_id": 1630.0
+      }
+    },
+    {
+      "id": "variant-0e0c90c9-780c-50d5-a034-058ce6617e37",
+      "score": 0.87482196,
+      "metadata": {
+        "text": "core_product_name: painting",
+        "raw_product_name": "PAINTING",
+        "list_of_product_ids": "239,702,397,227,813",
+        "core_id": 1625.0
+      }
+    },
+    {
+      "id": "variant-b0d9c4df-3690-59a3-8c9a-dfab3097ac82",
+      "score": 0.8729363,
+      "metadata": {
+        "text": "core_product_name: based paint | material: Polymer",
+        "raw_product_name": "POLYMER BASED PAINT",
+        "list_of_product_ids": "138,272,388,622,463",
+        "core_id": 327.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.8712871,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-61ed1a5a-d988-5f1a-b288-7fc04abf584a",
+      "score": 0.8712264,
+      "metadata": {
+        "text": "core_product_name: paint | material: Acrylic Emulsion",
+        "raw_product_name": "ACRYLIC EMULSION Paint",
+        "list_of_product_ids": "7041,7368,11500,12195,15679,14311,18879,18925,22556,30744,30769,30808,31893,34033,34242",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-197d5319-294f-5c88-836b-b5f4dab97aa5",
+      "score": 0.8700573,
+      "metadata": {
+        "text": "core_product_name: road marking paint | material: Thermoplastic",
+        "raw_product_name": "Thermoplastic Road Marking Paint",
+        "list_of_product_ids": "1,403,022,472",
+        "core_id": 2308.0
+      }
+    },
+    {
+      "id": "variant-e073d2ae-f2d1-5e74-9d31-5194d6319446",
+      "score": 0.8696495,
+      "metadata": {
+        "text": "core_product_name: structural painting work",
+        "raw_product_name": "PAINTING WORK-STRUCTURAL",
+        "list_of_product_ids": "1,658,927,816",
+        "core_id": 1624.0
+      }
+    },
+    {
+      "id": "variant-2b08d0da-e4f6-5446-b266-62cb61bc42c4",
+      "score": 0.8681467,
+      "metadata": {
+        "text": "core_product_name: colour coated cladding | construction_features: colour coated",
+        "raw_product_name": "COLOUR COATED CLADDING",
+        "list_of_product_ids": "13930,17836,21325,21322",
+        "core_id": 391.0
+      }
+    },
+    {
+      "id": "variant-bc11fc19-2619-5906-ae67-27a047f95f1d",
+      "score": 0.8678894,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | material: Basalt | type_or_class: Line",
+        "raw_product_name": "BASALT LINE PIPE FITTING",
+        "list_of_product_ids": "14368,14513,14531,33451,33685,39415",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-d179beb7-8ae9-5a78-a4c4-2d411dc27fee",
+      "score": 0.8672337,
+      "metadata": {
+        "text": "core_product_name: emulsion paint | material: Plastic",
+        "raw_product_name": "Plastic Emulsion Paint",
+        "list_of_product_ids": "13444,14315,14462,30751,30777,30816,31898,35640,35639,35641,35642,35643",
+        "core_id": 1833.0
+      }
+    },
+    {
+      "id": "variant-ca7dc58f-54f3-5f60-8d0b-bc641dd521f3",
+      "score": 0.86686367,
+      "metadata": {
+        "text": "core_product_name: pipeline or wrapping coating",
+        "raw_product_name": "PIPELINE COATING / WRAPPING COATING",
+        "list_of_product_ids": "9002,8989,9046,16501",
+        "core_id": 1677.0
+      }
+    },
+    {
+      "id": "variant-ffccfbbe-0b59-55ae-99a5-d39d2aa1a0ab",
+      "score": 0.8659636,
+      "metadata": {
+        "text": "core_product_name: naval patternized paint",
+        "raw_product_name": "PAINTS (NAVAL PATTERNIZED)",
+        "list_of_product_ids": "22310,22313,22311,28614,29101,29103,29102,35326,35339,35345,35366,35371,35408",
+        "core_id": 1633.0
+      }
+    },
+    {
+      "id": "variant-ea91e298-a5e8-5fb5-9567-6e22f6a8d8d7",
+      "score": 0.8658591,
+      "metadata": {
+        "text": "core_product_name: quick opening closure | type_or_class: pipelines",
+        "raw_product_name": "QUICK OPENING CLOSURE(PIPELINES)",
+        "list_of_product_ids": "5373,6204,11485,16151,23564,30766,30901,36603",
+        "core_id": 1849.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.86561906,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-027ce85c-fdd2-51eb-b988-3e5c1770b6a1",
+      "score": 0.86524165,
+      "metadata": {
+        "text": "core_product_name: waterproof painting work | material: Cement",
+        "raw_product_name": "PAINTING WORKS - WATERPROOF CEMENT",
+        "list_of_product_ids": "5525,6354,12539,12545,12555,12557,14318,16299,16296,18247,18890,18936,30780,30819,31897,30754,33871,33847,34028,34039,34031,34116",
+        "core_id": 1632.0
+      }
+    },
+    {
+      "id": "variant-578e3960-5868-52c9-b7bf-c85fda197741",
+      "score": 0.86418307,
+      "metadata": {
+        "text": "core_product_name: heat resistant paint",
+        "raw_product_name": "HEAT RESISTANT PAINT",
+        "list_of_product_ids": "22320,22324,28624,28826,28821",
+        "core_id": 1115.0
+      }
+    },
+    {
+      "id": "variant-60a25ec0-7d9a-559d-ad5d-f5376070cc0e",
+      "score": 0.8634181,
+      "metadata": {
+        "text": "core_product_name: coating | material: Concrete",
+        "raw_product_name": "CONCRETE COATING",
+        "list_of_product_ids": "13941,19476,19470,23076,40166",
+        "core_id": 428.0
+      }
+    },
+    {
+      "id": "variant-89169930-17d3-5900-9cd1-73b996d32892",
+      "score": 0.86341,
+      "metadata": {
+        "text": "core_product_name: loading arm | operating_conditions: rail or road",
+        "raw_product_name": "LOADING ARMS (RAIL/ROAD)",
+        "list_of_product_ids": "6090,5257,10826,8530,10898,12368,24433,38072,38089,38120",
+        "core_id": 1375.0
+      }
+    },
+    {
+      "id": "variant-59e65454-9892-54b0-8092-112303a7f725",
+      "score": 0.8630987,
+      "metadata": {
+        "text": "core_product_name: indicating pneumatic controller | type_or_class: Pneumatic",
+        "raw_product_name": "PNEUMATIC INDICATING CONTROLLER",
+        "list_of_product_ids": "10655,10877,10880,14379,14626,15208,15119,17475,20857,21328,36209,36358",
+        "core_id": 1717.0
+      }
+    }
+  ]
+}

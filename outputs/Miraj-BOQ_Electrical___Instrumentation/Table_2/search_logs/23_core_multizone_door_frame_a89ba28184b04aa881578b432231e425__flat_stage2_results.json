@@ -1,0 +1,467 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8809707,
+      "text": "core_product_name: multi gas detector",
+      "core_id": 1513.0,
+      "raw_product_name": "MULTI GAS DETECTOR",
+      "list_of_product_ids": [
+        "16470",
+        "16479",
+        "16499",
+        "34957"
+      ]
+    },
+    {
+      "retrieval_score": 0.8801049,
+      "text": "core_product_name: hot metal detector",
+      "core_id": 1216.0,
+      "raw_product_name": "Hot Metal Detector",
+      "list_of_product_ids": [
+        "7550",
+        "7224",
+        "10508",
+        "18013"
+      ]
+    },
+    {
+      "retrieval_score": 0.87743694,
+      "text": "core_product_name: detector",
+      "core_id": 579.0,
+      "raw_product_name": "DETECTOR",
+      "list_of_product_ids": [
+        "8900",
+        "8902",
+        "9849",
+        "9858",
+        "9867",
+        "18250",
+        "18249",
+        "18248",
+        "36841",
+        "36225",
+        "36377"
+      ]
+    },
+    {
+      "retrieval_score": 0.87344843,
+      "text": "core_product_name: beam detector",
+      "core_id": 188.0,
+      "raw_product_name": "BEAM DETECTOR",
+      "list_of_product_ids": [
+        "995",
+        "299",
+        "539",
+        "955"
+      ]
+    },
+    {
+      "retrieval_score": 0.873042,
+      "text": "core_product_name: thermal detector",
+      "core_id": 2239.0,
+      "raw_product_name": "THERMAL DETECTORS",
+      "list_of_product_ids": [
+        "14012",
+        "14939",
+        "18003",
+        "18002",
+        "37766",
+        "37771",
+        "37776",
+        "37792",
+        "37802",
+        "37807"
+      ]
+    },
+    {
+      "retrieval_score": 0.8710938,
+      "text": "core_product_name: addressable detector",
+      "core_id": 47.0,
+      "raw_product_name": "ADDRESSABLE DETECTOR",
+      "list_of_product_ids": [
+        "37763",
+        "37768",
+        "37773",
+        "37779",
+        "37789",
+        "37758"
+      ]
+    },
+    {
+      "retrieval_score": 0.8668568,
+      "text": "core_product_name: resistance temperature detector",
+      "core_id": 1901.0,
+      "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR",
+      "list_of_product_ids": [
+        "17218",
+        "17213",
+        "21738",
+        "27914",
+        "36623"
+      ]
+    },
+    {
+      "retrieval_score": 0.8658561,
+      "text": "core_product_name: expansion compensator | material: Metallic",
+      "core_id": 784.0,
+      "raw_product_name": "Expansion Compensators (Metallic)",
+      "list_of_product_ids": [
+        "7174",
+        "7499",
+        "11998",
+        "11996"
+      ]
+    },
+    {
+      "retrieval_score": 0.8657938,
+      "text": "core_product_name: fire detector",
+      "core_id": 842.0,
+      "raw_product_name": "FIRE DETECTORS",
+      "list_of_product_ids": [
+        "20032",
+        "20033",
+        "20031",
+        "20040",
+        "21851",
+        "20044",
+        "24696",
+        "31749",
+        "31750",
+        "31752",
+        "31754",
+        "31755",
+        "26667",
+        "26668",
+        "26673",
+        "31757",
+        "31758",
+        "31759",
+        "37800",
+        "37805",
+        "35219",
+        "39917"
+      ]
+    },
+    {
+      "retrieval_score": 0.8650232,
+      "text": "core_product_name: aspiration detector",
+      "core_id": 134.0,
+      "raw_product_name": "ASPIRATION DETECTOR",
+      "list_of_product_ids": [
+        "980",
+        "598",
+        "129",
+        "859"
+      ]
+    },
+    {
+      "retrieval_score": 0.86497307,
+      "text": "core_product_name: quartzoid bulb detector",
+      "core_id": 1846.0,
+      "raw_product_name": "QUARTZOID BULB DETECTOR",
+      "list_of_product_ids": [
+        "16789",
+        "27820",
+        "37489",
+        "37490",
+        "37493",
+        "37494",
+        "37497"
+      ]
+    },
+    {
+      "retrieval_score": 0.86484915,
+      "text": "core_product_name: flame detector",
+      "core_id": 888.0,
+      "raw_product_name": "FLAME DETECTOR",
+      "list_of_product_ids": [
+        "14274",
+        "14672",
+        "14680",
+        "18190"
+      ]
+    },
+    {
+      "retrieval_score": 0.86441374,
+      "text": "core_product_name: rotameter | material: Metal",
+      "core_id": 1923.0,
+      "raw_product_name": "ROTAMETER(METAL TUBE)",
+      "list_of_product_ids": [
+        "138",
+        "581",
+        "707",
+        "819",
+        "877"
+      ]
+    },
+    {
+      "retrieval_score": 0.86430407,
+      "text": "core_product_name: heat detector",
+      "core_id": 1108.0,
+      "raw_product_name": "HEAT DETECTOR",
+      "list_of_product_ids": [
+        "9000",
+        "8991",
+        "9080",
+        "9141"
+      ]
+    },
+    {
+      "retrieval_score": 0.86309063,
+      "text": "core_product_name: oxygen detector",
+      "core_id": 1610.0,
+      "raw_product_name": "OXYGEN DETECTOR",
+      "list_of_product_ids": [
+        "164",
+        "771",
+        "647",
+        "816",
+        "500"
+      ]
+    },
+    {
+      "retrieval_score": 0.8627283,
+      "text": "core_product_name: multi-combination meter",
+      "core_id": 1514.0,
+      "raw_product_name": "MULTI-COMBINATION METER",
+      "list_of_product_ids": [
+        "137",
+        "821",
+        "494",
+        "616",
+        "620"
+      ]
+    },
+    {
+      "retrieval_score": 0.86268747,
+      "text": "core_product_name: door | material: Steel",
+      "core_id": 612.0,
+      "raw_product_name": "STEEL DOORS",
+      "list_of_product_ids": [
+        "20484",
+        "20543",
+        "20582",
+        "20588",
+        "20694",
+        "20751"
+      ]
+    },
+    {
+      "retrieval_score": 0.86257213,
+      "text": "core_product_name: smoke detector",
+      "core_id": 2045.0,
+      "raw_product_name": "SMOKE DETECTOR",
+      "list_of_product_ids": [
+        "9001",
+        "8990",
+        "11435",
+        "9079",
+        "9140",
+        "18004",
+        "31184",
+        "37767",
+        "37772",
+        "37777",
+        "37793",
+        "37803",
+        "37808",
+        "36089"
+      ]
+    },
+    {
+      "retrieval_score": 0.8618614,
+      "text": "core_product_name: light barrier sensor",
+      "core_id": 1346.0,
+      "raw_product_name": "LIGHT BARRIER SENSOR",
+      "list_of_product_ids": [
+        "19119",
+        "38463",
+        "19126",
+        "19137"
+      ]
+    },
+    {
+      "retrieval_score": 0.86184245,
+      "text": "core_product_name: gas detector",
+      "core_id": 1026.0,
+      "raw_product_name": "GAS DETECTORS",
+      "list_of_product_ids": [
+        "9806",
+        "9813",
+        "9861",
+        "19902",
+        "34955",
+        "36092",
+        "36086",
+        "36094",
+        "39317"
+      ]
+    },
+    {
+      "retrieval_score": 0.86072135,
+      "text": "core_product_name: hand held multifunctional calibrator",
+      "core_id": 1211.0,
+      "raw_product_name": "Hand Held Multifunctional Calibrator",
+      "list_of_product_ids": [
+        "18090",
+        "28750",
+        "37512",
+        "37499"
+      ]
+    },
+    {
+      "retrieval_score": 0.860632,
+      "text": "core_product_name: multicyclone",
+      "core_id": 1516.0,
+      "raw_product_name": "MULTICYCLONES",
+      "list_of_product_ids": [
+        "6056",
+        "5235",
+        "10782",
+        "8754",
+        "11920",
+        "11936",
+        "11916",
+        "23640"
+      ]
+    },
+    {
+      "retrieval_score": 0.86039734,
+      "text": "core_product_name: metallic expansion joint | material: Metallic",
+      "core_id": 1471.0,
+      "raw_product_name": "Metallic Expansion Joint",
+      "list_of_product_ids": [
+        "7366",
+        "12812",
+        "12789",
+        "10815",
+        "10813",
+        "8796",
+        "7039"
+      ]
+    },
+    {
+      "retrieval_score": 0.86011744,
+      "text": "core_product_name: assorted tower package | material: Metallic",
+      "core_id": 2264.0,
+      "raw_product_name": "TOWER PCKG & ASSTD INTL:METLIC (PROPRTRY",
+      "list_of_product_ids": [
+        "6698",
+        "5869",
+        "12411",
+        "19934"
+      ]
+    },
+    {
+      "retrieval_score": 0.860109,
+      "text": "core_product_name: metallic expansion joint | material: Metallic",
+      "core_id": 1471.0,
+      "raw_product_name": "METALLIC EXPANSION JOINT FOR DUCTS",
+      "list_of_product_ids": [
+        "13750",
+        "22751",
+        "22824",
+        "22841",
+        "22904",
+        "23240"
+      ]
+    },
+    {
+      "retrieval_score": 0.85984904,
+      "text": "core_product_name: multitasking control system",
+      "core_id": 1517.0,
+      "raw_product_name": "MULTITASKING CONTROL SYSTEM",
+      "list_of_product_ids": [
+        "236",
+        "102",
+        "358",
+        "523",
+        "572"
+      ]
+    },
+    {
+      "retrieval_score": 0.8594039,
+      "text": "core_product_name: expansion joint | material: Metallic",
+      "core_id": 773.0,
+      "raw_product_name": "EXPANSION JOINT-METALLIC",
+      "list_of_product_ids": [
+        "6695",
+        "5866",
+        "11090",
+        "11089",
+        "11839",
+        "11997",
+        "11995",
+        "17224",
+        "18354",
+        "21780",
+        "22205",
+        "22568",
+        "22569",
+        "22570",
+        "22571",
+        "22573",
+        "22559",
+        "37429",
+        "36602",
+        "37295",
+        "37299"
+      ]
+    },
+    {
+      "retrieval_score": 0.85888743,
+      "text": "core_product_name: magnetic level instrument",
+      "core_id": 1422.0,
+      "raw_product_name": "MAGNETIC LEVEL INSTRUMENTS",
+      "list_of_product_ids": [
+        "6583",
+        "5753",
+        "11811",
+        "11274",
+        "10573",
+        "10581",
+        "10196",
+        "10669",
+        "8393",
+        "11949",
+        "11948",
+        "12069",
+        "12219",
+        "12239",
+        "12778",
+        "12834",
+        "12833",
+        "12842",
+        "18396",
+        "22199"
+      ]
+    },
+    {
+      "retrieval_score": 0.8584972,
+      "text": "core_product_name: level sensor",
+      "core_id": 1336.0,
+      "raw_product_name": "LEVEL SENSOR",
+      "list_of_product_ids": [
+        "19121",
+        "19128",
+        "19133",
+        "38465"
+      ]
+    },
+    {
+      "retrieval_score": 0.8584844,
+      "text": "core_product_name: receiver gauge",
+      "core_id": 1869.0,
+      "raw_product_name": "RECEIVER GAUGES",
+      "list_of_product_ids": [
+        "10283",
+        "10000",
+        "10021",
+        "22687",
+        "37662",
+        "37655",
+        "35965"
+      ]
+    }
+  ]
+}

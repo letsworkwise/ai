@@ -1,0 +1,71 @@
+{
+  "query": "core_product_name: supply, erection, testing and commissioning",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: erection and commissioning equipment",
+        "raw_product_name": "EQUIPMENT - ERECTION & COMMISSIONING",
+        "list_of_product_ids": [
+          "16194",
+          "16202",
+          "16350",
+          "16355",
+          "33812",
+          "34490",
+          "35836",
+          "35844"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: site fabrication and erection",
+        "raw_product_name": "FABRICATION & ERECTION (SITE)",
+        "list_of_product_ids": [
+          "260",
+          "232",
+          "602",
+          "226",
+          "692"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fabrication and erection pipe",
+        "raw_product_name": "PIPES - FABRICATION & ERECTION",
+        "list_of_product_ids": [
+          "15666",
+          "15722",
+          "15753",
+          "15746",
+          "16014",
+          "16134",
+          "16135",
+          "16133",
+          "16132",
+          "16131",
+          "16537",
+          "32238",
+          "33811",
+          "34494",
+          "35837",
+          "35843",
+          "36081"
+        ]
+      }
+    }
+  ]
+}

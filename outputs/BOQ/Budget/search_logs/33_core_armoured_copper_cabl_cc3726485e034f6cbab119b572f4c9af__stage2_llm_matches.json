@@ -1,0 +1,138 @@
+{
+  "query": "core_product_name: armoured copper cable | size: cores: 12C (12 cores), cross section: 2.5 sq.mm | feature_or_specifications: application: PCC - Control Panel",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": [
+          "32910",
+          "32911",
+          "33009",
+          "33041",
+          "33195",
+          "33260",
+          "33562",
+          "33633",
+          "35922"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: electric wire | material: Copper",
+        "raw_product_name": "ELECTRIC COPPER WIRE",
+        "list_of_product_ids": [
+          "211",
+          "542",
+          "115",
+          "028",
+          "492"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "construction_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: armoured cable | type_or_class: Power | construction_features: Armour",
+        "raw_product_name": "ARMOURED CABLE-(POWER)",
+        "list_of_product_ids": [
+          "8891",
+          "8910",
+          "8938",
+          "8942",
+          "8950",
+          "8946",
+          "8954",
+          "9083",
+          "9087",
+          "9091",
+          "9095",
+          "9099",
+          "23875",
+          "24038",
+          "24687",
+          "24728",
+          "24957",
+          "27122",
+          "27117",
+          "27126",
+          "27130",
+          "27134",
+          "27161",
+          "27166",
+          "27171",
+          "27180",
+          "27284",
+          "27336",
+          "27357",
+          "27397",
+          "27432",
+          "27519",
+          "27525",
+          "27538",
+          "27543",
+          "27552",
+          "27579",
+          "27637",
+          "27645",
+          "27681",
+          "27672",
+          "27770",
+          "27788",
+          "27809",
+          "27899",
+          "27916",
+          "27961",
+          "28027",
+          "28079",
+          "28068",
+          "28144",
+          "28114",
+          "28110",
+          "28106",
+          "28270",
+          "28282",
+          "28294",
+          "28290",
+          "28349",
+          "28384",
+          "28380",
+          "28412",
+          "28420",
+          "28457",
+          "28454",
+          "28465",
+          "28497",
+          "28513",
+          "39980",
+          "39981",
+          "39982",
+          "39983",
+          "40102",
+          "40105",
+          "40106",
+          "40103",
+          "40104",
+          "40107",
+          "40108",
+          "40109"
+        ]
+      }
+    }
+  ]
+}

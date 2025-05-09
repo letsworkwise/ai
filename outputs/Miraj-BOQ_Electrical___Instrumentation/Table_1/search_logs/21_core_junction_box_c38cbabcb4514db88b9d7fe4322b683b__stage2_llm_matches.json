@@ -1,0 +1,91 @@
+{
+  "query": "core_product_name: junction box | size: voltage: 415 V, phases: 3P, incoming cable size: 2 nos. of 1RX 3.5 C X 150 Sqmm, outgoing cable size: 2 nos. of 1RX 3.5 C X 95 Sqmm | feature_or_specifications: type: weatherproof, type: flameproof ex-d, suitability: hazardous area of gas group iia or iib, temperature class: t3, zone: zone-1, protection: ip 65, mounting: wall or column or structure, feature: cabling from jb to terminal box for star-delta pump motor having different terminal for star and delta connection, material: cast aluminium alloy (lm6 grade), canopy: 14 gauge crca (cold rolled close annealed) sheet with side cover, feature: busbar of suitable rating, feature: support insulator, cable insulation: xlpe, cable sheath: extruded pvc inner and outer sheathed, cable type: frls (flame retardant low smoke), cable type: armoured, feature: flp (flameproof) type double compression ni (nickel) plated brass cable glands, feature: lugs and plugs, standard: as per specification/data sheet of tender document",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "protection"
+      ],
+      "match_details": {
+        "text": "core_product_name: flame proof junction box | protection_features: Flame proof",
+        "raw_product_name": "JUNCTION BOXES (FLAME PROOF)",
+        "list_of_product_ids": [
+          "6417",
+          "5587",
+          "11078",
+          "11075",
+          "10304",
+          "11324",
+          "10578",
+          "10585",
+          "10555",
+          "10601",
+          "10686",
+          "8207",
+          "8208",
+          "8402",
+          "15922",
+          "16008",
+          "16029",
+          "16025",
+          "26747",
+          "26746",
+          "33512",
+          "35769"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: junction box",
+        "raw_product_name": "JUNCTION BOXES",
+        "list_of_product_ids": [
+          "5960",
+          "6788",
+          "10303",
+          "10552",
+          "10606",
+          "8206",
+          "8209",
+          "15928",
+          "17373",
+          "18803",
+          "24168",
+          "22859",
+          "27495",
+          "36562",
+          "36607",
+          "35775",
+          "35887",
+          "35865",
+          "35940",
+          "36519",
+          "39357"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "protection"
+      ],
+      "match_details": {
+        "text": "core_product_name: weatherproof junction box | protection_features: Weatherproof",
+        "raw_product_name": "JUNCTION BOX (WEATHERPROOF)",
+        "list_of_product_ids": [
+          "215",
+          "532",
+          "156",
+          "528",
+          "596"
+        ]
+      }
+    }
+  ]
+}

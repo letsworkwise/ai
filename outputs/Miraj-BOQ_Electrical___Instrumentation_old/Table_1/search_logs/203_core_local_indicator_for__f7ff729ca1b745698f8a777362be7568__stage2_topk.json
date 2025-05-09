@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: local indicator for pressure transmitter | feature_or_specifications: location: lpg pump house, quantity per msv(mounded storage vessel): 1",
+  "retrieval_results": [
+    {
+      "id": "variant-aa514de4-c8e2-5996-9706-fc3a619ba94a",
+      "score": 0.86094725,
+      "metadata": {
+        "text": "core_product_name: site fabricated pressure vessel | construction_features: clad",
+        "raw_product_name": "PRESSURE VESSEL-CLAD SITE FABRICATED",
+        "list_of_product_ids": "6686,5857,9696,12166,13092,23503",
+        "core_id": 1781.0
+      }
+    },
+    {
+      "id": "variant-1b301242-51fc-526a-84ff-a5c917de276a",
+      "score": 0.8586704,
+      "metadata": {
+        "text": "core_product_name: pressure indicating controller",
+        "raw_product_name": "PRESSURE INDICATING CONTROLLERS",
+        "list_of_product_ids": "17056,17059,17058,17057,28751,36365,40118",
+        "core_id": 1772.0
+      }
+    },
+    {
+      "id": "variant-429b8812-d388-5299-afe3-17c7e0563bc7",
+      "score": 0.85817385,
+      "metadata": {
+        "text": "core_product_name: pressure vessel",
+        "raw_product_name": "PRESSURE VESSELS",
+        "list_of_product_ids": "7036,7363,11704,11496,12043,12853,13000,15855,17342,17386,17845,22795,36649,26140,33998,33997,37074,35786,35998,36076,36282,36288",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-0450618b-feab-5115-bb79-257a0f9e6878",
+      "score": 0.85747576,
+      "metadata": {
+        "text": "core_product_name: site fabricated pressure vessel | type_or_class: LAS (Low Alloy Steel)",
+        "raw_product_name": "PRESSURE VESSEL-LAS SITE FABRICATED",
+        "list_of_product_ids": "6684,5855,9695,23494",
+        "core_id": 1781.0
+      }
+    },
+    {
+      "id": "variant-5f07eb39-d2d8-57c5-8d17-e9a296199a94",
+      "score": 0.8567035,
+      "metadata": {
+        "text": "core_product_name: site fabricated storage tank",
+        "raw_product_name": "SITE FABRICATED STORAGE TANKS",
+        "list_of_product_ids": "1,395,423,053",
+        "core_id": 2038.0
+      }
+    },
+    {
+      "id": "variant-c3cdd889-e9cf-51d8-b044-9a9c8aefbc98",
+      "score": 0.85584396,
+      "metadata": {
+        "text": "core_product_name: pressure transmitter",
+        "raw_product_name": "PRESSURE TRANSMITTER",
+        "list_of_product_ids": "10037,10038,10043,10159,10626,9515,9555,36531,15313,17103,17110,18208,24110,19474,20012,20022,20017,35953,36165,36313,36510",
+        "core_id": 1778.0
+      }
+    },
+    {
+      "id": "variant-a04485bf-b3ca-5e35-af82-40b9c4157210",
+      "score": 0.8531889,
+      "metadata": {
+        "text": "core_product_name: local control station",
+        "raw_product_name": "LOCAL CONTROL STATIONS",
+        "list_of_product_ids": "99,911,003,018,831",
+        "core_id": 1380.0
+      }
+    },
+    {
+      "id": "variant-4b8d944e-4e96-5b4a-8837-cad13f968871",
+      "score": 0.8528885,
+      "metadata": {
+        "text": "core_product_name: sample gas pump",
+        "raw_product_name": "SAMPLE GAS PUMP",
+        "list_of_product_ids": "19213,19211,19658,27529,38631,39778",
+        "core_id": 1953.0
+      }
+    },
+    {
+      "id": "variant-ab6fb6ed-859d-5a8f-96b5-b82dbe88eb88",
+      "score": 0.8518847,
+      "metadata": {
+        "text": "core_product_name: pressure vessel tank",
+        "raw_product_name": "Pressure Vessel Tanks",
+        "list_of_product_ids": "19117,13874,19110,19095,17356,22231,22504,22501,22555,23201,19202,19192",
+        "core_id": 1842.0
+      }
+    },
+    {
+      "id": "variant-1248b8b4-0ffc-592e-946a-63f6ee7f86b0",
+      "score": 0.85083175,
+      "metadata": {
+        "text": "core_product_name: site fabricated pressure vessel | material: CS (Carbon Steel)",
+        "raw_product_name": "PRESSURE VESSEL-CS SITE FABRICATED",
+        "list_of_product_ids": "6683,5854,11677,9694,12008,12165,12590,13091,23489,23488,37725,37741",
+        "core_id": 1781.0
+      }
+    },
+    {
+      "id": "variant-c449a816-ca9b-53e9-8395-3149f299de11",
+      "score": 0.8507835,
+      "metadata": {
+        "text": "core_product_name: check valve | operating_conditions: LP (Low Pressure) application",
+        "raw_product_name": "Valves check for LP application",
+        "list_of_product_ids": "8343",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-9a913960-e86a-57a6-99fb-869ab0a4d202",
+      "score": 0.8507835,
+      "metadata": {
+        "text": "core_product_name: check valve | operating_conditions: LP (Low Pressure) application",
+        "raw_product_name": "Valve check for LP application",
+        "list_of_product_ids": "14071,14931,22241,22353",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-cdaa2bb4-0048-52d6-8109-8751b34f8278",
+      "score": 0.85030663,
+      "metadata": {
+        "text": "core_product_name: pump",
+        "raw_product_name": "PUMP",
+        "list_of_product_ids": "19073,13894,16991,17418,19783,20922,21362,21529,21511,21463,37047,37288,36119",
+        "core_id": 539.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.8489258,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-af9e8e55-a1c6-55b8-a426-4ea9987a0ea4",
+      "score": 0.8488074,
+      "metadata": {
+        "text": "core_product_name: pressure vessel | material: Monel",
+        "raw_product_name": "PRESSURE VESSEL- MONEL",
+        "list_of_product_ids": "6646,5816,21971,21969,36744",
+        "core_id": 1779.0
+      }
+    },
+    {
+      "id": "variant-88bf4826-9865-59fd-a12a-a425a587beb7",
+      "score": 0.848131,
+      "metadata": {
+        "text": "core_product_name: oil level indicator",
+        "raw_product_name": "OIL LEVEL INDICATOR",
+        "list_of_product_ids": "21633,21630,21639,21757",
+        "core_id": 1582.0
+      }
+    },
+    {
+      "id": "variant-1d272a74-8aa5-5bf5-adbd-8d413fa8fea4",
+      "score": 0.8476251,
+      "metadata": {
+        "text": "core_product_name: water level indicator",
+        "raw_product_name": "WATER LEVEL INDICATOR",
+        "list_of_product_ids": "21632,21626,21638,21758",
+        "core_id": 2439.0
+      }
+    },
+    {
+      "id": "variant-46fe9328-f322-5cf5-9c7f-ff3a8d430ae6",
+      "score": 0.8475373,
+      "metadata": {
+        "text": "core_product_name: pressure control valve",
+        "raw_product_name": "PRESSURE CONTROL VALVE",
+        "list_of_product_ids": "14378,14380,16837,17055,17085,17627,17851,17905,17903,18055,18045,18036,18233,20949,21592,21600,21661,22355,23084,23330,10654,10876,36298,36435,40310",
+        "core_id": 1770.0
+      }
+    },
+    {
+      "id": "variant-58b18428-ab84-54e0-8911-4e48d510fa61",
+      "score": 0.8471069,
+      "metadata": {
+        "text": "core_product_name: pressure regulator",
+        "raw_product_name": "PRESSURE REGULATOR",
+        "list_of_product_ids": "13868,15346,15351,15356",
+        "core_id": 1773.0
+      }
+    },
+    {
+      "id": "variant-d83d348d-afd5-5105-ab6a-4bb4ff2c0919",
+      "score": 0.84691566,
+      "metadata": {
+        "text": "core_product_name: metering pump",
+        "raw_product_name": "METERING PUMPS",
+        "list_of_product_ids": "11613,12274,7131,7458,11960,17456,17953,17935,18074,18060,18099,36903,18585,24292,38419,37202,39965",
+        "core_id": 1467.0
+      }
+    },
+    {
+      "id": "variant-2f824904-7a85-5dc5-b4d5-cb5597db0ca7",
+      "score": 0.84689933,
+      "metadata": {
+        "text": "core_product_name: indicating meter",
+        "raw_product_name": "INDICATING METERS",
+        "list_of_product_ids": "13682,14947,19149,19123,19142",
+        "core_id": 1230.0
+      }
+    },
+    {
+      "id": "variant-b4662890-d6e7-5ff9-8a58-cf6a938d5315",
+      "score": 0.8468691,
+      "metadata": {
+        "text": "core_product_name: flow indicator",
+        "raw_product_name": "FLOW INDICATOR",
+        "list_of_product_ids": "165,441,654,127,339",
+        "core_id": 937.0
+      }
+    },
+    {
+      "id": "variant-c45ed440-5f8a-5528-bec2-3ebede23d32b",
+      "score": 0.8466734,
+      "metadata": {
+        "text": "core_product_name: magnetic liquid level indicator",
+        "raw_product_name": "MAGNETIC LIQUID LEVEL INDICATOR",
+        "list_of_product_ids": "218,652,186,428,600",
+        "core_id": 1423.0
+      }
+    },
+    {
+      "id": "variant-eed0d397-9a1d-5396-8a83-4412d5c6f80a",
+      "score": 0.8466721,
+      "metadata": {
+        "text": "core_product_name: manufactured assembly pump",
+        "raw_product_name": "PUMP MANUFACTURED ASSEMBLY",
+        "list_of_product_ids": "29505,29279,29278,29277",
+        "core_id": 1807.0
+      }
+    },
+    {
+      "id": "variant-ab7c0fe6-7f89-58bd-a77d-96e26004063c",
+      "score": 0.84654117,
+      "metadata": {
+        "text": "core_product_name: gate valve | operating_conditions: LP (Low Pressure) application",
+        "raw_product_name": "Valve gate for LP application",
+        "list_of_product_ids": "14074,14930,22240,22352,35540",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-b842824f-09d2-56aa-b36d-8b01e8ee5153",
+      "score": 0.8464693,
+      "metadata": {
+        "text": "core_product_name: site fabricated pressure vessel | material: SS (Stainless Steel)",
+        "raw_product_name": "PRESSURE VESSEL-SS SITE FABRICATED",
+        "list_of_product_ids": "6685,5856,12009,12591,37726,37742",
+        "core_id": 1781.0
+      }
+    },
+    {
+      "id": "variant-d11ddc0c-ab4c-5cbd-8b87-dd31c119c41c",
+      "score": 0.8456643,
+      "metadata": {
+        "text": "core_product_name: level indicator | type_or_class: Servo Type TGM",
+        "raw_product_name": "LEVEL INDICATORS (SERVO TYPE TGM)",
+        "list_of_product_ids": "13980",
+        "core_id": 1332.0
+      }
+    },
+    {
+      "id": "variant-adaeb938-3641-5d1f-932c-7bddc3a95727",
+      "score": 0.84548485,
+      "metadata": {
+        "text": "core_product_name: pressure gauge",
+        "raw_product_name": "PRESSURE GAUGES",
+        "list_of_product_ids": "6566,5736,9044,9045,9453,9239,9160,12718,12728,12829,12831,13206,14225,16560,16615,16593,16586,18215,18883,18929,18983,19504,21561,31684,31592,31593,37411,37410,36585,37680,33015,36619,33202,33267,38194,33569,33640,38210,38211,37654,35194,35929,35966,35973,37653",
+        "core_id": 1771.0
+      }
+    },
+    {
+      "id": "variant-94ea3340-bef6-5933-8416-982a342511aa",
+      "score": 0.84545285,
+      "metadata": {
+        "text": "core_product_name: turbine meter | operating_conditions: liquid services",
+        "raw_product_name": "TURBINE METER – LIQUID SERVICES",
+        "list_of_product_ids": "14192",
+        "core_id": 2295.0
+      }
+    },
+    {
+      "id": "variant-1186d7ad-c268-5e27-872f-1f5ecf8a3d13",
+      "score": 0.84520406,
+      "metadata": {
+        "text": "core_product_name: storage tank",
+        "raw_product_name": "STORAGE TANK",
+        "list_of_product_ids": "20109,20123,20708,37075,35997,36142,36153,36284,36290,36303",
+        "core_id": 1376.0
+      }
+    }
+  ]
+}

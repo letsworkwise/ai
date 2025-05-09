@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: hand gloves | feature_or_specifications: voltage: 415 v",
+  "retrieval_results": [
+    {
+      "id": "variant-598dda8e-d847-500f-9600-28eb3ee8c35c",
+      "score": 0.8679663,
+      "metadata": {
+        "text": "core_product_name: hand glove | material: Rubber",
+        "raw_product_name": "Rubber Hand Gloves",
+        "list_of_product_ids": "14348,14349,14344,37470",
+        "core_id": 1946.0
+      }
+    },
+    {
+      "id": "variant-7814a15e-f459-5171-ad0d-85c2c2e22957",
+      "score": 0.85839874,
+      "metadata": {
+        "text": "core_product_name: handglove | material: Cotton",
+        "raw_product_name": "COTTON HANGLOVES",
+        "list_of_product_ids": "32885,32894,33008,33040,33194,33259,33561,33632,35921",
+        "core_id": 498.0
+      }
+    },
+    {
+      "id": "variant-e33d959e-aef0-5a19-90ca-d9350c950195",
+      "score": 0.85735345,
+      "metadata": {
+        "text": "core_product_name: low temperature glove | material: Rubber",
+        "raw_product_name": "Low Temperature Rubber Gloves",
+        "list_of_product_ids": "1,546,414,338",
+        "core_id": 1417.0
+      }
+    },
+    {
+      "id": "variant-1e8d51c0-00b6-5a2d-b9bf-ce4688cb5af2",
+      "score": 0.85266685,
+      "metadata": {
+        "text": "core_product_name: electrical contact",
+        "raw_product_name": "ELECTRICAL CONTACTS",
+        "list_of_product_ids": "211,562,115,228,503",
+        "core_id": 705.0
+      }
+    },
+    {
+      "id": "variant-65e4b5c0-874a-5fb2-b108-70a12f290192",
+      "score": 0.8522276,
+      "metadata": {
+        "text": "core_product_name: hand control valve",
+        "raw_product_name": "Hand Control Valves",
+        "list_of_product_ids": "18259,18261,18258,18595,18636,18260,36509",
+        "core_id": 1212.0
+      }
+    },
+    {
+      "id": "variant-52d36234-297c-5741-98b5-5eeff3e62a7b",
+      "score": 0.85135627,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 1100 Volts",
+        "raw_product_name": "1100 VOLTS GRADE CABLES",
+        "list_of_product_ids": "24084,21508,23935,27355",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-30ba7b7c-4349-5ae1-b9ed-81ec0b2af986",
+      "score": 0.85008353,
+      "metadata": {
+        "text": "core_product_name: high voltage capacitor | size_or_capacity: High Voltage",
+        "raw_product_name": "CAPACITORS-HIGH VOLTAGE",
+        "list_of_product_ids": "6427,5597,10503,10567,11340,12080",
+        "core_id": 295.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.8485317,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-4d90c084-11dd-5309-a710-bba18baf4ab9",
+      "score": 0.84708166,
+      "metadata": {
+        "text": "core_product_name: check valve | material: Cast",
+        "raw_product_name": "VALVE CHECK CAST",
+        "list_of_product_ids": "6229,5398,29399,11623,11640,11225,11237,11247,11279,11282,11259,11446,11431,6853,6858,6863,6873,6878,6883,6888,6893,6898,7697,7698,7699,7700,7701,7702,7703,7704,7705,7706,7707,7708,7866,9261,9387,9411,9407,9162,9252,9163,9175,9244,9342,12330,12429,12568,12548,12652,13364,13375,13381,6868,19359,16650,19409,18053,18383,19710,33375",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.84661275,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-7b84b9d7-6c76-5b4d-9aaf-d57ecafe4b91",
+      "score": 0.84552824,
+      "metadata": {
+        "text": "core_product_name: electrical-instrumentation work",
+        "raw_product_name": "ELECTRICAL-INSTRUMENTATION WORKS",
+        "list_of_product_ids": "36860,36857,36888,36892",
+        "core_id": 711.0
+      }
+    },
+    {
+      "id": "variant-9d7cef58-0c34-5334-a173-1eaa8b262868",
+      "score": 0.84551775,
+      "metadata": {
+        "text": "core_product_name: extra high voltage cable | size_or_capacity: Extra High Voltage",
+        "raw_product_name": "CABLES - EXTRA HIGH VOLTAGE",
+        "list_of_product_ids": "6425,5595,10504,10183,14821,23994,23863",
+        "core_id": 288.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.8448401,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-11552573-e1b5-542c-8c2d-23e255c34741",
+      "score": 0.8447284,
+      "metadata": {
+        "text": "core_product_name: special control valve | type_or_class: Mixed",
+        "raw_product_name": "SPECIAL CONTROL VALVES-MIXED",
+        "list_of_product_ids": "6502,5673,8695,12188,28214,28213,28212,28211,28210,28209,28208,28207,28206,36259,36412",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-cdfcd3fd-4f2c-5abe-8c10-dfa71f7ec1b2",
+      "score": 0.8444799,
+      "metadata": {
+        "text": "core_product_name: on-off valve | type_or_class: Plug",
+        "raw_product_name": "ON-OFF VALVES (PLUG)",
+        "list_of_product_ids": "20283,20311,20480,20473,20661,20719,35584",
+        "core_id": 1594.0
+      }
+    },
+    {
+      "id": "variant-621e820c-97eb-5eee-b6a5-cc212c11ea20",
+      "score": 0.84428155,
+      "metadata": {
+        "text": "core_product_name: protective clothing | operating_conditions: Low Temperature",
+        "raw_product_name": "Low Temperature Protective Clothing",
+        "list_of_product_ids": "14339",
+        "core_id": 1416.0
+      }
+    },
+    {
+      "id": "variant-9b0c3277-eba2-5266-bf2e-a099ec9556a2",
+      "score": 0.8441882,
+      "metadata": {
+        "text": "core_product_name: neutral grounding resistor | type_or_class: High Voltage (H.V.)",
+        "raw_product_name": "NEUTRAL GROUNDING RESISTORS-H.V.",
+        "list_of_product_ids": "6428,5598,10534,10546,10545,16915",
+        "core_id": 1545.0
+      }
+    },
+    {
+      "id": "variant-4af2736c-e759-5609-93a4-afc42f6dce9e",
+      "score": 0.8441444,
+      "metadata": {
+        "text": "core_product_name: globe valve | material: Cast",
+        "raw_product_name": "VALVE GLOBE CAST",
+        "list_of_product_ids": "6220,5389,29398,6981,11619,11638,11224,11236,11246,11277,11258,11441,11430,6852,6857,6862,6872,6877,6882,6887,6892,6897,6867,6977,6979,6985,6956,6958,6960,6962,6964,6987,6991,6995,6983,6989,6993,7661,7663,7665,7667,7669,7671,7632,7634,7636,7638,9260,7640,7653,7655,7657,7659,9388,9413,9436,9241,9250,9164,9243,9307,9318,9328,9340,12329,12428,12567,12547,13259,13365,13374,13382,17621,18382,19709,16651,31717,33377,35551,39523,39933,40045",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-40f5e806-4a91-59d6-8fea-bf521847066a",
+      "score": 0.8440595,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: Forged",
+        "raw_product_name": "VALVE CHECK FORGED",
+        "list_of_product_ids": "6231,5400,11625,11641,11223,11242,11255,9246,11448,9262,8280,8383,8555,8649,8626,9412,9451,9253,9166,9343,12098,12493,12572,12656,13266,13360,19382,19390,17623,17908,18030,19711,19860,31813,36763,32701",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.8440045,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-b69b044a-2768-56c5-9f67-eff769e1508e",
+      "score": 0.8439692,
+      "metadata": {
+        "text": "core_product_name: level instrument | type_or_class: Capacitance",
+        "raw_product_name": "LEVEL INSTRUMENTS CAPACITANCE",
+        "list_of_product_ids": "1,357,636,109",
+        "core_id": 1335.0
+      }
+    },
+    {
+      "id": "variant-9b25b784-a1a1-5ce1-9130-4075d704d02b",
+      "score": 0.8438968,
+      "metadata": {
+        "text": "core_product_name: globe valve | construction_features: forged",
+        "raw_product_name": "VALVE GLOBE FORGED",
+        "list_of_product_ids": "6222,5391,11621,11639,11241,11254,11278,8279,8380,8554,8644,8621,9386,9428,9410,9452,9251,9165,9247,9341,11976,12097,12492,12571,13261,13361,19389,17622,17817,17907,18303,18031,19861,31811,19381,32700,36762,35556",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-d2391e77-338d-5f72-9b5d-19f563781253",
+      "score": 0.84384924,
+      "metadata": {
+        "text": "core_product_name: synchronous generator | size_or_capacity: HV (High Voltage)",
+        "raw_product_name": "SYNCHRONOUS GENERATORS (HV)",
+        "list_of_product_ids": "6434,5604,12246,12304,12367,24295,24303,23631,24333,24320,23492,24626,24625",
+        "core_id": 2178.0
+      }
+    },
+    {
+      "id": "variant-f4b850ee-24f7-52ae-a7d6-a213adb3d8a7",
+      "score": 0.84383667,
+      "metadata": {
+        "text": "core_product_name: hand changeover switch",
+        "raw_product_name": "HAND CHANGEOVER SWITCH",
+        "list_of_product_ids": "20757,20759,21210,21208,21206,21204,27426",
+        "core_id": 1094.0
+      }
+    },
+    {
+      "id": "variant-d57d54de-f40c-539e-8057-478b97a834b0",
+      "score": 0.84332764,
+      "metadata": {
+        "text": "core_product_name: thermal relief valve",
+        "raw_product_name": "THERMAL RELIEF VALVE",
+        "list_of_product_ids": "14016,15348,15353,15358,22349,36633,37438,37439,34694,34696,34698,34700",
+        "core_id": 2242.0
+      }
+    },
+    {
+      "id": "variant-cd38efd2-bbe4-53b6-8f79-c763ccc36872",
+      "score": 0.8432233,
+      "metadata": {
+        "text": "core_product_name: valve plug",
+        "raw_product_name": "VALVE PLUG",
+        "list_of_product_ids": "6258,5427,11546,11540,7825,11543,7831,11250,7867,7849,7857,7836,7838,8391,12657,15484,18068,19713,31743,36588,35579,36139,39755,40004,40146",
+        "core_id": 2365.0
+      }
+    },
+    {
+      "id": "variant-1abf7ace-96b0-59e6-9e39-c2509942914f",
+      "score": 0.8430331,
+      "metadata": {
+        "text": "core_product_name: level switch | type_or_class: Capacitance Type",
+        "raw_product_name": "LEVEL SWITCHES (CAPACITANCE TYPE)",
+        "list_of_product_ids": "13589,15247,15261,19429",
+        "core_id": 1337.0
+      }
+    },
+    {
+      "id": "variant-be40f8fa-efc7-5598-8afe-f0793558c2d5",
+      "score": 0.84296155,
+      "metadata": {
+        "text": "core_product_name: emergency generator | type_or_class: MV (Medium Voltage)",
+        "raw_product_name": "EMERGENCY GENERATORS (MV)",
+        "list_of_product_ids": "6433,5603,12353,24291",
+        "core_id": 739.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.84261924,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-bba82e27-1deb-56d8-ade2-d0100ba76378",
+      "score": 0.8424274,
+      "metadata": {
+        "text": "core_product_name: lubricated valve | type_or_class: Plug",
+        "raw_product_name": "Plug Valve(Lubricated)",
+        "list_of_product_ids": "8696",
+        "core_id": 1834.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "query": "core_product_name: esd push button station | acronymed_core_product_name: esd push button station | feature_or_specifications: included: all accessories like cables, glanding & termination etc., mounting: exd(explosion proof) junction boxes, locations: filling shed, pump house, lpg bullets, tld, central monitoring hub, plant manager room, filled cylinder area",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: emergency stop push button station",
+        "raw_product_name": "EMERGENCY STOP PUSH BUTTON STATION NEAR TANK",
+        "list_of_product_ids": [
+          "216",
+          "582",
+          "165",
+          "721",
+          "730"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof push button station | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF PUSH BUTTON STATION",
+        "list_of_product_ids": [
+          "13585",
+          "14846",
+          "15921",
+          "20279"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: explosion proof control station | protection_features: Explosion proof",
+        "raw_product_name": "CONTROL STATIONS - EXPLOSION PROOF",
+        "list_of_product_ids": [
+          "19797",
+          "19862",
+          "19850",
+          "19865",
+          "19864",
+          "28286",
+          "35867",
+          "35889",
+          "35942"
+        ]
+      }
+    }
+  ]
+}

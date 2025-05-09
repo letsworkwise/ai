@@ -1,0 +1,168 @@
+{
+  "sheet_name": "Instrumentation",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "instrumentation | dismantling of existing instruments",
+      "full_product_description": "Installation of LEL and H2S detectors/monitors, beacon lights and hooters including supply of supports but exclusive of Supply of Detectors, Yoke and Calibration. LEL Detectors.",
+      "core_product_name": "detectors",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: LEL (lower explosive limit)",
+      "quantity": "6.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | dismantling of existing instruments",
+      "full_product_description": "Installation of LEL and H2S detectors/monitors, beacon lights and hooters including supply of supports but exclusive of Supply of Detectors, Yoke and Calibration. Beacon Lights",
+      "core_product_name": "beacon lights",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | dismantling of existing instruments",
+      "full_product_description": "Installation of LEL and H2S detectors/monitors, beacon lights and hooters including supply of supports but exclusive of Supply of Detectors, Yoke and Calibration. Hooters",
+      "core_product_name": "hooters",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      20,
+      29
+    ],
+    "original_rows": [
+      {
+        "0": 262,
+        "1": 0,
+        "2": "01II.440.10",
+        "3": "Installation of LEL and H2S detectors/monitors, beacon lights and hooters including supply of supports but exclusive of Supply of Detectors, Yoke and Calibration.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 263,
+        "1": 0,
+        "2": "01II.440.10.10",
+        "3": "LEL Detectors.",
+        "4": 6.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 264,
+        "1": 0,
+        "2": "01II.440.10.50",
+        "3": "Beacon Lights",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 265,
+        "1": 0,
+        "2": "01II.440.10.60",
+        "3": "Hooters",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 266,
+        "1": 0,
+        "2": "01II.450",
+        "3": "MISCELLANEOUS ITEMS AND DEVICES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 267,
+        "1": 0,
+        "2": "01II.450.10",
+        "3": "Mounting of Miscellaneous instrument items as listed below on Yoke; fabrication and erection of Supports and including installation of instrument items,  painting  of  supports  but  exclusive  of  Supply  of  Instrument  items, Piping/ Tubing material / Calibration and supply and erection of Yoke support.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 268,
+        "1": 0,
+        "2": "01II.450.10.5",
+        "3": "Flame-proof Push Button Station/ Selector Switches /Lamps.",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 269,
+        "1": 0,
+        "2": "01II.450.10.17",
+        "3": "3 way/ 4 way Junction Boxes.",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 270,
+        "1": 0,
+        "2": "01II.450.10.19",
+        "3": "Electronic Local Indicator.",
+        "4": 9.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 271,
+        "1": 0,
+        "2": "01II.500",
+        "3": "CALIBRATION/ TESTING",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2256,
+    "completion_tokens": 825
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: computer chair | feature_or_specifications: manufacturer: godrej or equivalent, quantity for cmh: 3 nos., quantity for security room: 2 nos.",
+  "retrieval_results": [
+    {
+      "id": "variant-5c0ed834-f6a7-520f-bb06-2d5857ac4b23",
+      "score": 0.8473874,
+      "metadata": {
+        "text": "core_product_name: access chamber",
+        "raw_product_name": "ACCESS CHAMBER",
+        "list_of_product_ids": "158,151,585,815,880",
+        "core_id": 26.0
+      }
+    },
+    {
+      "id": "variant-72ab6ca5-eb8c-5cc2-b4b6-bfaa08f6e972",
+      "score": 0.8436341,
+      "metadata": {
+        "text": "core_product_name: furniture",
+        "raw_product_name": "FURNITURE",
+        "list_of_product_ids": "5947,6776,12883,19413,19418,39318",
+        "core_id": 987.0
+      }
+    },
+    {
+      "id": "variant-8b814fd7-106f-5fd3-a273-6c9340ea527b",
+      "score": 0.8421035,
+      "metadata": {
+        "text": "core_product_name: interior",
+        "raw_product_name": "CONTROL ROOM INTERIOR",
+        "list_of_product_ids": "19384,19379,28261,38713",
+        "core_id": 458.0
+      }
+    },
+    {
+      "id": "variant-6eb36f6b-85fd-5920-b1c0-6c1600a32f9c",
+      "score": 0.8404106,
+      "metadata": {
+        "text": "core_product_name: control room",
+        "raw_product_name": "CONTROL ROOM",
+        "list_of_product_ids": "19383,19371,19373,23748",
+        "core_id": 457.0
+      }
+    },
+    {
+      "id": "variant-c9536e29-6040-5b31-b6a1-431e7654733e",
+      "score": 0.8403373,
+      "metadata": {
+        "text": "core_product_name: computer maintenance",
+        "raw_product_name": "COMPUTER MAINTENANCE",
+        "list_of_product_ids": "193,231,932,428,719",
+        "core_id": 422.0
+      }
+    },
+    {
+      "id": "variant-bdbbab12-6b76-547e-b7a7-3c4a98d7f8b3",
+      "score": 0.8395631,
+      "metadata": {
+        "text": "core_product_name: computer training",
+        "raw_product_name": "COMPUTER TRAINING",
+        "list_of_product_ids": "193,251,932,627,256",
+        "core_id": 427.0
+      }
+    },
+    {
+      "id": "variant-dcbe2fe4-ae89-573e-b1ac-1a43b142d7e1",
+      "score": 0.8389291,
+      "metadata": {
+        "text": "core_product_name: dual chamber orifice fitting",
+        "raw_product_name": "DUAL CHAMBER ORIFICE FITTINGS",
+        "list_of_product_ids": "20397,20398,20478,20470,20659,20717",
+        "core_id": 634.0
+      }
+    },
+    {
+      "id": "variant-3f759d0a-60b8-5ef5-8b84-66b7c71e0420",
+      "score": 0.8384932,
+      "metadata": {
+        "text": "core_product_name: cabinet",
+        "raw_product_name": "CABINETS",
+        "list_of_product_ids": "5,936,676,512,192",
+        "core_id": 276.0
+      }
+    },
+    {
+      "id": "variant-815cfa85-79ff-5a89-89e7-6398f6ad8f78",
+      "score": 0.83717847,
+      "metadata": {
+        "text": "core_product_name: control desk",
+        "raw_product_name": "CONTROL DESK",
+        "list_of_product_ids": "14011,17257,19417,19412,36643",
+        "core_id": 452.0
+      }
+    },
+    {
+      "id": "variant-0e2cd202-ec5f-5480-b2d5-3357abba0224",
+      "score": 0.83649784,
+      "metadata": {
+        "text": "core_product_name: modular accommodation",
+        "raw_product_name": "MODULAR ACCOMODATION",
+        "list_of_product_ids": "23416,23417,26048,26683",
+        "core_id": 1494.0
+      }
+    },
+    {
+      "id": "variant-d3184bd5-867c-5333-aa27-0d8d3f250563",
+      "score": 0.83596414,
+      "metadata": {
+        "text": "core_product_name: computer software",
+        "raw_product_name": "COMPUTER SOFTWARE",
+        "list_of_product_ids": "193,121,931,327,257",
+        "core_id": 423.0
+      }
+    },
+    {
+      "id": "variant-8398ac79-a3ef-5f2a-ae37-366508b0a92a",
+      "score": 0.8351101,
+      "metadata": {
+        "text": "core_product_name: machine",
+        "raw_product_name": "MACHINE",
+        "list_of_product_ids": "24311,24313,39774,26875,39517,39044,39193,39235,39274,39351,39462,39502,39707,39863,39953,40014,40061,40111,40221,40249,40288",
+        "core_id": 1420.0
+      }
+    },
+    {
+      "id": "variant-bd4d6706-bd3c-56dc-a608-1050f25b0d01",
+      "score": 0.8344914,
+      "metadata": {
+        "text": "core_product_name: access control system",
+        "raw_product_name": "ACCESS CONTROL SYSTEM",
+        "list_of_product_ids": "6601,5771,10891,10915,11070,10890,10892,19260,19270,34967,34987,35018",
+        "core_id": 30.0
+      }
+    },
+    {
+      "id": "variant-1ab3bbc1-7237-500d-90d8-27f6498da945",
+      "score": 0.8343951,
+      "metadata": {
+        "text": "core_product_name: equipment",
+        "raw_product_name": "CONTROL ROOM EQUIPMENT",
+        "list_of_product_ids": "14034,14815,17256,21098",
+        "core_id": 460.0
+      }
+    },
+    {
+      "id": "variant-10f4d051-3809-5786-a12e-4cbcced4bdd8",
+      "score": 0.83424115,
+      "metadata": {
+        "text": "core_product_name: net oil computer",
+        "raw_product_name": "NET OIL COMPUTERS",
+        "list_of_product_ids": "13787,15020,15023,15041,15053,15055,15085,15116,15131,15139,15147,15219,15225,15227,15230,15232,15276,15242,15256,15268,15272,36105,36180,36328",
+        "core_id": 1539.0
+      }
+    },
+    {
+      "id": "variant-0fa8cdf8-1424-53e2-b353-07d5262f388b",
+      "score": 0.833763,
+      "metadata": {
+        "text": "core_product_name: precision machined component",
+        "raw_product_name": "PRECESION MACHINED COMPONENTS",
+        "list_of_product_ids": "239,482,394,928,689",
+        "core_id": 1760.0
+      }
+    },
+    {
+      "id": "variant-c1c7c951-de0a-5601-aa1a-b2d2fb7e1622",
+      "score": 0.83336073,
+      "metadata": {
+        "text": "core_product_name: security search light system",
+        "raw_product_name": "SECURITY SEARCH LIGHT SYSTEM",
+        "list_of_product_ids": "7,065,739,211,726",
+        "core_id": 1989.0
+      }
+    },
+    {
+      "id": "variant-13734b5f-24ad-5003-ab44-046aa6dbd5ab",
+      "score": 0.8332748,
+      "metadata": {
+        "text": "core_product_name: ventilation system",
+        "raw_product_name": "VENTILATION SYSTEM",
+        "list_of_product_ids": "7062,7389,8497,8501,18414",
+        "core_id": 2389.0
+      }
+    },
+    {
+      "id": "variant-bb96db43-a603-5b08-b082-1a787ab9db3c",
+      "score": 0.83294034,
+      "metadata": {
+        "text": "core_product_name: conduit accessory",
+        "raw_product_name": "CONDUIT ACCESSORIES",
+        "list_of_product_ids": "20550,20514,20591,20632,20686,20744",
+        "core_id": 439.0
+      }
+    },
+    {
+      "id": "variant-9d54fd87-21ea-5c1a-ae13-333a826234cd",
+      "score": 0.83292097,
+      "metadata": {
+        "text": "core_product_name: system panel",
+        "raw_product_name": "SYSTEM PANELS",
+        "list_of_product_ids": "1,413,621,099",
+        "core_id": 2180.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.832703,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-259b2acd-8757-5df1-9884-558d4ab4d4c4",
+      "score": 0.83255583,
+      "metadata": {
+        "text": "core_product_name: data storage system",
+        "raw_product_name": "Data storage system",
+        "list_of_product_ids": "7084,7411,18425,18424",
+        "core_id": 649.0
+      }
+    },
+    {
+      "id": "variant-39e179f3-e0ea-5033-9ffe-c2ce983fd6a3",
+      "score": 0.8314721,
+      "metadata": {
+        "text": "core_product_name: chequered coil",
+        "raw_product_name": "CHEQUERED COIL",
+        "list_of_product_ids": "26251,31074,29409,29859,29432,29462,29485,29525,29547,29894,30342,29573,31344,31866,31096,31546,30359,31128,31373,31576,30793,29608,30912,30530,25254,25276,25280,25417,30382,31148,25459,25445,25431,29631,25510,25496,25538,25537,30034,30940,25553,25567,25581,25637,25623,25609,25595,25651,25665,25684,25697,25725,25711,25765,25750,25736,25796,25783,25832,25846,31169,31390,31827,25899,25884,25869,25913,30405,30552,25983,26088,26126,25943,26115,29672,30067,30575,31412,26185,26162,26281,26313,30968,31438,31603,26336,26361,30089,30600,26385,26401,26427,26448,26496,26473,26547,26527,26579,26605,26628,26651,25810,26709,30437,30111,30622,25473,26732,26757,26814,26837,29698,26920,26955,26983,30460,31625,27014,30136,27150,27193,27216,27240,31204,27268,27297,29725,30155,30651,27320,30176,31016,31731,27386,27412,27452,27564,27621,27592,29749,31226,30673,31044,27661,27693,27839,27886,27943,27973,29774,30199,28007,31459,28043,28095,28131,31253,31647,28161,28308,28331,30222,28365,30490,31481,28396,28438,28477,28527,30245,31844,28556,28640,28678,28707,29806,31271,31694,28733,28870,28850,28932,28894,29831,30268,30702,31294,28951,28982,29009,29030,30724,31508,29059,29079,30297,31525,29127,30991,31318,29146,29170,29195,29222,29316,31675,29334,29358,29382,30315,31910,31937,31954,31977,32027,31999,32055,32069,32093,32117,32148,32176,32209,32237,32266,32252,32297,32312,32338,32355,32393,32376,32414,32436,32458,32541,32520,32556,32572,32590,32643,32620,32668,32685,32895,32721,32741,32784,32827,32861,32922,32972,33055,33078,33107,33159,33137,33224,33294,33324,33361,33402,33471,33522,33583,33655,33699,33725,33748,33771,33796,33830,33880,33856,33927,33969,34049,34099,34073,34126,34154,34182,34226,34293,34204,34264,34362,34391,34430,34452,34474,34509,34554,34611,34660,34713,34740,34764,34811,34787,34866,34834,34890,34938,35030,35065,35087,35109,35131,35174",
+        "core_id": 343.0
+      }
+    },
+    {
+      "id": "variant-d49dd9b4-06e3-5d42-86ae-24b1a1779a17",
+      "score": 0.83127415,
+      "metadata": {
+        "text": "core_product_name: for compressor spare",
+        "raw_product_name": "SPARES FOR COMPRESSOR",
+        "list_of_product_ids": "23452,23451,26070,26069,26676,23453",
+        "core_id": 2071.0
+      }
+    },
+    {
+      "id": "variant-41a6c6d9-ef4d-520f-b9f3-af2822f8dcef",
+      "score": 0.8312738,
+      "metadata": {
+        "text": "core_product_name: power supply",
+        "raw_product_name": "BUIL POWER SUPPLY",
+        "list_of_product_ids": "5,937,676,612,114",
+        "core_id": 250.0
+      }
+    },
+    {
+      "id": "variant-ceb0a573-d64e-5eb7-a450-39581bf427ab",
+      "score": 0.83122516,
+      "metadata": {
+        "text": "core_product_name: electronic counter",
+        "raw_product_name": "ELECTRONIC COUNTER",
+        "list_of_product_ids": "219,702,196,827,076",
+        "core_id": 726.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.83111817,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-57f65ec0-e038-5251-a8dc-a3d6e6ae58fa",
+      "score": 0.8311046,
+      "metadata": {
+        "text": "core_product_name: accessory",
+        "raw_product_name": "DRILL ACCESSORIES",
+        "list_of_product_ids": "24194,24195,36867,27800,36876",
+        "core_id": 354.0
+      }
+    },
+    {
+      "id": "variant-b75516ed-454e-594b-9be5-1e8e65405af9",
+      "score": 0.83106637,
+      "metadata": {
+        "text": "core_product_name: vapour seal chamber",
+        "raw_product_name": "VAPOUR SEAL CHAMBER",
+        "list_of_product_ids": "6027,5206,8291,23789",
+        "core_id": 2383.0
+      }
+    },
+    {
+      "id": "variant-1580bc64-9bfa-59af-b1bc-d2f5ddc21c11",
+      "score": 0.8309846,
+      "metadata": {
+        "text": "core_product_name: accessory",
+        "raw_product_name": "EARTHWIRE ACCESSORIES",
+        "list_of_product_ids": "18805,18806,18847,18866,18855,18832,18908,18955,18966,18952,18963",
+        "core_id": 354.0
+      }
+    }
+  ]
+}

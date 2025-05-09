@@ -1,0 +1,446 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8886097,
+      "text": "core_product_name: light emitting diode (led) display | acronymed_core_product_name: led display",
+      "core_id": 1329.0,
+      "raw_product_name": "LED DISPLAY",
+      "list_of_product_ids": [
+        "154",
+        "631",
+        "427",
+        "315",
+        "294"
+      ]
+    },
+    {
+      "retrieval_score": 0.8841129,
+      "text": "core_product_name: light emitting diode (led) screen | acronymed_core_product_name: led screen",
+      "core_id": 1328.0,
+      "raw_product_name": "LED SCREEN",
+      "list_of_product_ids": [
+        "5",
+        "957",
+        "678",
+        "511",
+        "846"
+      ]
+    },
+    {
+      "retrieval_score": 0.88372,
+      "text": "core_product_name: light | acronymed_core_product_name: led (light emitting diode) light | type_or_class: LED (Light Emitting Diode)",
+      "core_id": 1326.0,
+      "raw_product_name": "LED LIGHTS",
+      "list_of_product_ids": [
+        "36554",
+        "24238",
+        "24241",
+        "26878"
+      ]
+    },
+    {
+      "retrieval_score": 0.87661034,
+      "text": "core_product_name: light emitting diode (LED) display | acronymed_core_product_name: LED display | size_or_capacity: 40” or more",
+      "core_id": 1329.0,
+      "raw_product_name": "LED display (40” or more)",
+      "list_of_product_ids": [
+        "7",
+        "077",
+        "740",
+        "411",
+        "850"
+      ]
+    },
+    {
+      "retrieval_score": 0.86544114,
+      "text": "core_product_name: emergency lighting system",
+      "core_id": 740.0,
+      "raw_product_name": "EMERGENCY LIGHTING SYSTEM",
+      "list_of_product_ids": [
+        "3",
+        "216",
+        "232",
+        "163"
+      ]
+    },
+    {
+      "retrieval_score": 0.8638454,
+      "text": "core_product_name: video wall | material: LED (Light Emitting Diode)",
+      "core_id": 2418.0,
+      "raw_product_name": "Video Walls (LED)",
+      "list_of_product_ids": [
+        "7078",
+        "7405",
+        "18019",
+        "18418",
+        "18417"
+      ]
+    },
+    {
+      "retrieval_score": 0.86303407,
+      "text": "core_product_name: incandescent lighting fixture",
+      "core_id": 1228.0,
+      "raw_product_name": "INCANDESCENT LIGHTING FIXTURE",
+      "list_of_product_ids": [
+        "19026",
+        "19024",
+        "19022",
+        "19020",
+        "19163"
+      ]
+    },
+    {
+      "retrieval_score": 0.8620607,
+      "text": "core_product_name: lighting and power distribution panel",
+      "core_id": 1413.0,
+      "raw_product_name": "Lighting & Power Distribution Panel",
+      "list_of_product_ids": [
+        "18723",
+        "18718",
+        "18735",
+        "18734",
+        "18733",
+        "19012",
+        "18997",
+        "18728",
+        "19000",
+        "38293",
+        "35861",
+        "38156"
+      ]
+    },
+    {
+      "retrieval_score": 0.86099344,
+      "text": "core_product_name: aviation obstruction light | acronymed_core_product_name: led (light emitting diode) aviation obstruction lights | type_or_class: LED (Light Emitting Diode)",
+      "core_id": 1327.0,
+      "raw_product_name": "LED AVIATION OBSTRUCTION LIGHTS",
+      "list_of_product_ids": [
+        "17352",
+        "17350",
+        "17340",
+        "27922"
+      ]
+    },
+    {
+      "retrieval_score": 0.85764927,
+      "text": "core_product_name: lighting fixture",
+      "core_id": 1006.0,
+      "raw_product_name": "LIGHTING FIXTURES",
+      "list_of_product_ids": [
+        "13606",
+        "16555",
+        "16546",
+        "16591",
+        "16576",
+        "17657",
+        "17650",
+        "17702",
+        "17682",
+        "18058",
+        "20306",
+        "20834",
+        "21315",
+        "22108",
+        "23384",
+        "35044"
+      ]
+    },
+    {
+      "retrieval_score": 0.8565969,
+      "text": "core_product_name: fluorescent lighting fixture",
+      "core_id": 951.0,
+      "raw_product_name": "FLUORESCENT LIGHTING FIXTURE",
+      "list_of_product_ids": [
+        "19025",
+        "19023",
+        "19021",
+        "19019",
+        "19164"
+      ]
+    },
+    {
+      "retrieval_score": 0.8562651,
+      "text": "core_product_name: lighting and power panel | acronymed_core_product_name: FLP (Flameproof) panel | protection_features: Flameproof",
+      "core_id": 1351.0,
+      "raw_product_name": "LIGHTING & POWER PANELS (FLP)",
+      "list_of_product_ids": [
+        "6418",
+        "5588",
+        "7009",
+        "10306",
+        "10579",
+        "10558",
+        "10588",
+        "10602",
+        "18874",
+        "18920",
+        "22851",
+        "26777",
+        "26773",
+        "26754",
+        "26750",
+        "35770"
+      ]
+    },
+    {
+      "retrieval_score": 0.85149574,
+      "text": "core_product_name: lighting and power panel | operating_conditions: Safe Area",
+      "core_id": 1351.0,
+      "raw_product_name": "LIGHTING & POWER PANELS (SAFE AREA)",
+      "list_of_product_ids": [
+        "5631",
+        "6460",
+        "10307",
+        "11363",
+        "9150",
+        "9362",
+        "11943",
+        "24828",
+        "24816",
+        "24931",
+        "24942",
+        "19386",
+        "38289"
+      ]
+    },
+    {
+      "retrieval_score": 0.85113144,
+      "text": "core_product_name: main lighting distribution board | acronymed_core_product_name: MLDB (Main Lighting Distribution Board)",
+      "core_id": 1487.0,
+      "raw_product_name": "MLDB",
+      "list_of_product_ids": [
+        "15386",
+        "13768",
+        "14606",
+        "14779",
+        "17931",
+        "17918",
+        "17893",
+        "17950",
+        "17940",
+        "17945",
+        "18027",
+        "18009",
+        "18050",
+        "19060",
+        "19661"
+      ]
+    },
+    {
+      "retrieval_score": 0.8507864,
+      "text": "core_product_name: street light pole",
+      "core_id": 2127.0,
+      "raw_product_name": "STREET LIGHT POLES",
+      "list_of_product_ids": [
+        "241",
+        "872",
+        "418",
+        "827",
+        "640"
+      ]
+    },
+    {
+      "retrieval_score": 0.8507278,
+      "text": "core_product_name: helideck lighting system",
+      "core_id": 1120.0,
+      "raw_product_name": "HELIDECK LIGHTING SYSTEM",
+      "list_of_product_ids": [
+        "19538",
+        "28767",
+        "37458",
+        "39668"
+      ]
+    },
+    {
+      "retrieval_score": 0.8501657,
+      "text": "core_product_name: navigational light",
+      "core_id": 1537.0,
+      "raw_product_name": "NAVIGATIONAL LIGHTS",
+      "list_of_product_ids": [
+        "28223",
+        "28249",
+        "28222",
+        "28221",
+        "28220"
+      ]
+    },
+    {
+      "retrieval_score": 0.8497916,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (ldb (lighting distribution board))",
+      "core_id": 20.0,
+      "raw_product_name": "A.C. DISTRIBUTION BOARD (LDB)",
+      "list_of_product_ids": [
+        "14163",
+        "14793",
+        "14812",
+        "19307"
+      ]
+    },
+    {
+      "retrieval_score": 0.84881645,
+      "text": "core_product_name: electric lamp",
+      "core_id": 695.0,
+      "raw_product_name": "ELECTRIC LAMPS",
+      "list_of_product_ids": [
+        "20801",
+        "20836",
+        "20803",
+        "28495"
+      ]
+    },
+    {
+      "retrieval_score": 0.8485219,
+      "text": "core_product_name: electrical accessory",
+      "core_id": 701.0,
+      "raw_product_name": "ELECTRICAL ACCESSORIES",
+      "list_of_product_ids": [
+        "211",
+        "632",
+        "705",
+        "121",
+        "165"
+      ]
+    },
+    {
+      "retrieval_score": 0.84830576,
+      "text": "core_product_name: lighting transformer",
+      "core_id": 635.0,
+      "raw_product_name": "LIGHTING TRANSFORMERS",
+      "list_of_product_ids": [
+        "17731",
+        "17727",
+        "18659",
+        "19486",
+        "35388"
+      ]
+    },
+    {
+      "retrieval_score": 0.84815466,
+      "text": "core_product_name: flameproof lighting and distribution board | protection_features: Flameproof",
+      "core_id": 895.0,
+      "raw_product_name": "FLAMEPROOF LIGHTING & DISTRIBUTION BOARD",
+      "list_of_product_ids": [
+        "13578",
+        "14601",
+        "14847",
+        "24098"
+      ]
+    },
+    {
+      "retrieval_score": 0.8480291,
+      "text": "core_product_name: tube light fixture",
+      "core_id": 2282.0,
+      "raw_product_name": "TUBE LIGHT FIXTURES",
+      "list_of_product_ids": [
+        "139",
+        "811",
+        "494",
+        "021",
+        "021"
+      ]
+    },
+    {
+      "retrieval_score": 0.8475722,
+      "text": "core_product_name: electrical item",
+      "core_id": 713.0,
+      "raw_product_name": "ELECTRICALS ITEMS",
+      "list_of_product_ids": [
+        "240",
+        "232",
+        "403",
+        "028",
+        "576"
+      ]
+    },
+    {
+      "retrieval_score": 0.8474646,
+      "text": "core_product_name: indicating lamp fitting",
+      "core_id": 1232.0,
+      "raw_product_name": "INDICATING LAMP FITTING",
+      "list_of_product_ids": [
+        "20128",
+        "20443",
+        "20418",
+        "20465",
+        "20506",
+        "20645"
+      ]
+    },
+    {
+      "retrieval_score": 0.84731245,
+      "text": "core_product_name: light fabricated component",
+      "core_id": 1347.0,
+      "raw_product_name": "LIGHT FABRICATED COMPONENT",
+      "list_of_product_ids": [
+        "26019",
+        "26018",
+        "26017",
+        "26690"
+      ]
+    },
+    {
+      "retrieval_score": 0.8473062,
+      "text": "core_product_name: site fabricated column | acronymed_core_product_name: las (level alarm system) column",
+      "core_id": 396.0,
+      "raw_product_name": "COLUMN-LAS SITE FABRICATED",
+      "list_of_product_ids": [
+        "6688",
+        "5859",
+        "9698",
+        "23521"
+      ]
+    },
+    {
+      "retrieval_score": 0.8469923,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    },
+    {
+      "retrieval_score": 0.8467371,
+      "text": "core_product_name: lighting mast",
+      "core_id": 1363.0,
+      "raw_product_name": "LIGHTING MAST",
+      "list_of_product_ids": [
+        "17348",
+        "17346",
+        "17338",
+        "17520",
+        "17538",
+        "18673",
+        "17707",
+        "32167",
+        "32166",
+        "32193",
+        "35983",
+        "35989"
+      ]
+    },
+    {
+      "retrieval_score": 0.84672076,
+      "text": "core_product_name: hazardous area lighting panel | protection_features: Flameproof",
+      "core_id": 891.0,
+      "raw_product_name": "FLAMEPROOF - HAZARDOUS AREA LIGHTING PANEL",
+      "list_of_product_ids": [
+        "19706",
+        "19705",
+        "19702",
+        "19700",
+        "19695",
+        "19670",
+        "27175",
+        "35892",
+        "35945",
+        "40178",
+        "40228"
+      ]
+    }
+  ]
+}

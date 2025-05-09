@@ -1,0 +1,85 @@
+{
+  "query": "core_product_name: earth pit | size: length: minimum 3.8 mtr, watering pipe diameter: 25 mm, manhole chamber: 600x600 mm | feature_or_specifications: type: maintenance free, approval: CPRI (central power research institute), make: Ashlok or equivalent, model: T45 or equivalent, technology: pipe-in-pipe, material: mild steel (two pipes, one inside the other), coating: hot dip galvanized (80-100 microns), filling: high conductive & corrosion resistance crystalline mixture and backfilling compound, accessories: G.I. watering pipe with funnel, test link, brick masonry earth pit including plastering in CM 1:4, C.I. manhole chamber, earth station flags with pit nos and date of inspection and next due date, certificate: test certificate of earthing station from licensed electrician, standard: IS code (indian standard), approval: client/consultants",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: ms (mild steel) pipe",
+        "raw_product_name": "MS PIPE",
+        "list_of_product_ids": [
+          "13780",
+          "14665",
+          "19247",
+          "17239",
+          "17228",
+          "18434",
+          "39305",
+          "22590",
+          "22621",
+          "22726",
+          "22761",
+          "22750",
+          "22744",
+          "22790",
+          "23133",
+          "30896",
+          "30927",
+          "30958",
+          "39306",
+          "27364",
+          "29739",
+          "28917",
+          "28966",
+          "35311",
+          "35312",
+          "40051"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material",
+        "Standards & Approvals",
+        "Construction & Build"
+      ],
+      "match_details": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards) 1239 | construction_features: Black | construction_features: GI (Galvanized Iron)",
+        "raw_product_name": "PIPE-CARBON STEEL IS - 1239 (BLACK & GI)",
+        "list_of_product_ids": [
+          "13923",
+          "21043",
+          "21299",
+          "21563",
+          "22892",
+          "37032",
+          "37034",
+          "37013",
+          "37017",
+          "37033"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material",
+        "Standards & Approvals"
+      ],
+      "match_details": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards): 1239",
+        "raw_product_name": "PIPE-CARBON STEEL IS: 1239",
+        "list_of_product_ids": [
+          "13999",
+          "15697",
+          "21642",
+          "22745",
+          "22894"
+        ]
+      }
+    }
+  ]
+}

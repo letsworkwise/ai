@@ -1,0 +1,76 @@
+{
+  "query": "core_product_name: steel structure | feature_or_specifications: painting: two coats of primer and two coats of approved enamel paint, arrangement: for individual stack, design approval: structure consultant",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: rolled section | material: Steel | type_or_class: Structural",
+        "raw_product_name": "STRUCTURAL STEEL ( ROLLED SECTIONS)",
+        "list_of_product_ids": [
+          "9",
+          "525",
+          "954",
+          "513",
+          "013"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: structural steel",
+        "raw_product_name": "STRUCTURAL STEEL",
+        "list_of_product_ids": [
+          "9524",
+          "9544",
+          "13038",
+          "14422",
+          "15849",
+          "17276",
+          "17978",
+          "17977",
+          "17976",
+          "17979",
+          "31114",
+          "31137",
+          "31138",
+          "25221",
+          "31005",
+          "31007",
+          "31030",
+          "31053",
+          "31055",
+          "31056",
+          "31057",
+          "31061",
+          "31065"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "accessories_or_attachments"
+      ],
+      "match_details": {
+        "text": "core_product_name: structural steel | accessories_or_attachments: plates",
+        "raw_product_name": "Structural Steel (Including plates)",
+        "list_of_product_ids": [
+          "14076",
+          "20962",
+          "22587",
+          "40047"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: pvc(aluminium) cable | size: core: 1C, area: 16 mm2 | feature_or_specifications: colour: green",
+  "retrieval_results": [
+    {
+      "id": "variant-4dd90f9e-4a1a-51a9-85b8-5801fa7498c6",
+      "score": 0.86264503,
+      "metadata": {
+        "text": "core_product_name: control cable | size_or_capacity: 1100 Volts | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "1100 VOLTS GRADE PVC CONTROL CABLES",
+        "list_of_product_ids": "23936,24085,21514,28591",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-272261cc-0ac7-5e62-bdc4-b8b3ba555a0a",
+      "score": 0.8623354,
+      "metadata": {
+        "text": "core_product_name: power cable",
+        "raw_product_name": "POWER CABLE",
+        "list_of_product_ids": "13440,14645,15813,29442,29447,29448,24045,23896,36583,36611,38139",
+        "core_id": 3.0
+      }
+    },
+    {
+      "id": "variant-7f090a1a-b828-5a18-86a5-0ef23d51283a",
+      "score": 0.8602183,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLE STOCKIST/TRADERS",
+        "list_of_product_ids": "2,467,924,680",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-a88868c3-e02b-556c-afb5-f9319567fc58",
+      "score": 0.8601235,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLES",
+        "list_of_product_ids": "15455,13721,24275,15161,16241,19098,23820,23814,21319,19315,23819,23822,24273,23829,20141,23831,24058,23836,23909,23839,23828,24685,24726,24844,24955,31590,31591,26436,26438,31740,33330",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-f2d4af06-494c-576d-904c-5608ebb84565",
+      "score": 0.8591014,
+      "metadata": {
+        "text": "core_product_name: section | material: Aluminum",
+        "raw_product_name": "ALUMINUM SECTION",
+        "list_of_product_ids": "20555,20518,20605,20596,20682,20740,38548,39312",
+        "core_id": 100.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.8569086,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-323bf0e7-9d8f-5ea5-9cad-eb58b0ac6448",
+      "score": 0.85680443,
+      "metadata": {
+        "text": "core_product_name: special cable",
+        "raw_product_name": "SPECIAL CABLES",
+        "list_of_product_ids": "13989,14840,20102,20070,24071,23923",
+        "core_id": 2074.0
+      }
+    },
+    {
+      "id": "variant-4768fdd4-2359-5702-b815-a2e57c32cc3d",
+      "score": 0.856251,
+      "metadata": {
+        "text": "core_product_name: pvc (polyvinyl chloride) pipe",
+        "raw_product_name": "PVC Pipe",
+        "list_of_product_ids": "14387,14545,16303,16718,16711,18505,22900,27371,35734,35735",
+        "core_id": 1824.0
+      }
+    },
+    {
+      "id": "variant-f8a1ee85-e2d7-59eb-a075-771e231186d7",
+      "score": 0.8557093,
+      "metadata": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC Conduit",
+        "list_of_product_ids": "16287,17401,21575,16288",
+        "core_id": 442.0
+      }
+    },
+    {
+      "id": "variant-bb001d38-b128-522d-9d87-0b59ec1edf02",
+      "score": 0.8546615,
+      "metadata": {
+        "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+        "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+        "list_of_product_ids": "140,901,478,121,282",
+        "core_id": 313.0
+      }
+    },
+    {
+      "id": "variant-b282183e-bc8e-5a78-bf84-96bc3fea7930",
+      "score": 0.85448945,
+      "metadata": {
+        "text": "core_product_name: cable gland",
+        "raw_product_name": "CABLE GLANDS",
+        "list_of_product_ids": "5961,6789,8221,8217,10553,10605,8222,8223,12107,15811,15929,16012,16032,16026,17577,22860,26078,26074,26071,36606,33509,33510,35776,35866,39358",
+        "core_id": 278.0
+      }
+    },
+    {
+      "id": "variant-0c89508d-0dbf-50ac-b11c-f1fdbb37cb9f",
+      "score": 0.8530395,
+      "metadata": {
+        "text": "core_product_name: tube | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC TUBE",
+        "list_of_product_ids": "223,352,233,327,804",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-035e5d74-4fc0-5854-ace0-4826f9b36c25",
+      "score": 0.852989,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+        "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+        "list_of_product_ids": "19885,19880,24078,23930,27348",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-b722d3a4-0ea7-52cf-9586-094ccbee23e0",
+      "score": 0.852636,
+      "metadata": {
+        "text": "core_product_name: screened cable | special_attributes: Screened cable",
+        "raw_product_name": "SCREENED CABLES",
+        "list_of_product_ids": "13881,14838,15808,20059,20100,24067,23919",
+        "core_id": 1976.0
+      }
+    },
+    {
+      "id": "variant-475d6e28-3e39-5b3c-86e9-f6970c05297a",
+      "score": 0.8522464,
+      "metadata": {
+        "text": "core_product_name: hazardous area cable gland",
+        "raw_product_name": "CABLE GLANDS ( HAZARDOUS AREA)",
+        "list_of_product_ids": "6443,5613,8218,10559,10589,10590,10604,8216,8219,8220,8224,12670,17578,23865,22857,24500,35772",
+        "core_id": 279.0
+      }
+    },
+    {
+      "id": "variant-c89cc3fc-3f9d-59f3-a746-d6e464ff68e9",
+      "score": 0.8519464,
+      "metadata": {
+        "text": "core_product_name: cable trench",
+        "raw_product_name": "CABLE TRENCHES",
+        "list_of_product_ids": "15786,15854,15876,15870,24073,23925",
+        "core_id": 285.0
+      }
+    },
+    {
+      "id": "variant-fd13ccfd-2158-5657-967f-7707e9b442e3",
+      "score": 0.8519319,
+      "metadata": {
+        "text": "core_product_name: commercial cable",
+        "raw_product_name": "COMMERCIAL CABLE",
+        "list_of_product_ids": "20779,20808,20806,21176,21175,27361",
+        "core_id": 400.0
+      }
+    },
+    {
+      "id": "variant-aced03b4-d6e4-5165-b3cf-7a7e7de87bc6",
+      "score": 0.85141206,
+      "metadata": {
+        "text": "core_product_name: perforated cable tray",
+        "raw_product_name": "Perforrated Cable Tray",
+        "list_of_product_ids": "7,013,732,126,432",
+        "core_id": 1054.0
+      }
+    },
+    {
+      "id": "variant-9dcb06c7-3e3a-5e9e-8143-d92451f81109",
+      "score": 0.85140866,
+      "metadata": {
+        "text": "core_product_name: naval cable",
+        "raw_product_name": "NAVAL CABLE",
+        "list_of_product_ids": "20820,20818,20816,20814,20812,20810,21172,21170,27353",
+        "core_id": 1533.0
+      }
+    },
+    {
+      "id": "variant-e41f0e9f-b9de-533f-b6c9-109c87f6ffcc",
+      "score": 0.85105985,
+      "metadata": {
+        "text": "core_product_name: welding cable",
+        "raw_product_name": "WELDING CABLE",
+        "list_of_product_ids": "32845,32846,33000,33033,33187,33252,33555,33626,35915",
+        "core_id": 2458.0
+      }
+    },
+    {
+      "id": "variant-0ff35c17-29e9-57ef-9128-f170e7baffc4",
+      "score": 0.85052955,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 33kV | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "33kV cable XLPE",
+        "list_of_product_ids": "14154,15792,16795,20142,24052,20057,23903",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-c61c3687-035c-50f1-a184-70194e77bd52",
+      "score": 0.84943223,
+      "metadata": {
+        "text": "core_product_name: pvc pipe | accessories_or_attachments: fittings | type_or_class: cable conduit",
+        "raw_product_name": "PVC PIPES AND FITTINGS (CABLE CONDUITS)",
+        "list_of_product_ids": "16289,16286,16284,16283,16291,27072,34651,35164",
+        "core_id": 1823.0
+      }
+    },
+    {
+      "id": "variant-e4955592-b0e7-5272-ad41-481377f14baf",
+      "score": 0.84931433,
+      "metadata": {
+        "text": "core_product_name: solar cable",
+        "raw_product_name": "SOLAR CABLE",
+        "list_of_product_ids": "39605,39450,38928,38829,38743,38581,38518,38664,38519,38769,38949,38607,38692,38635,38717,38860,38902,38965,38992,39020,39054,39088,39118,39165,39219,39247,39289,39339,39375,39404,39434,39485,39540,39567,39629,39657,39691,39731,39801,39829,39900",
+        "core_id": 2055.0
+      }
+    },
+    {
+      "id": "variant-76f2380b-e820-5790-96f0-0815dbd8e1a4",
+      "score": 0.8490344,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper | construction_features: PVC (Polyvinyl Chloride) coated",
+        "raw_product_name": "COPPER TUBE (PVC COATED)",
+        "list_of_product_ids": "16380,16442,16464,16437",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-7930aac4-4837-5a2d-9160-b0e71f7b6da1",
+      "score": 0.848867,
+      "metadata": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride) | accessories_or_attachments: accessories",
+        "raw_product_name": "PVC Conduit and accessories",
+        "list_of_product_ids": "7222,7548,10494,10502",
+        "core_id": 442.0
+      }
+    },
+    {
+      "id": "variant-52d36234-297c-5741-98b5-5eeff3e62a7b",
+      "score": 0.8486332,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 1100 Volts",
+        "raw_product_name": "1100 VOLTS GRADE CABLES",
+        "list_of_product_ids": "24084,21508,23935,27355",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-b2fd74a4-89f2-5719-ba63-b6451df8aa47",
+      "score": 0.84850544,
+      "metadata": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": "32910,32911,33009,33041,33195,33260,33562,33633,35922",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-ab2d6841-b5d8-560c-8730-c69949bf7410",
+      "score": 0.8484206,
+      "metadata": {
+        "text": "core_product_name: fabricated component | material: Aluminium",
+        "raw_product_name": "ALUMINIUM FABRICATED COMPONENT",
+        "list_of_product_ids": "23962,23964,23963,28691",
+        "core_id": 97.0
+      }
+    },
+    {
+      "id": "variant-561ccbee-4cf2-55d6-9001-685613ac299b",
+      "score": 0.84810823,
+      "metadata": {
+        "text": "core_product_name: armoured cable | type_or_class: Power | construction_features: Armour",
+        "raw_product_name": "ARMOURED CABLE-(POWER)",
+        "list_of_product_ids": "8891,8910,8938,8942,8950,8946,8954,9083,9087,9091,9095,9099,23875,24038,24687,24728,24957,27122,27117,27126,27130,27134,27161,27166,27171,27180,27284,27336,27357,27397,27432,27519,27525,27538,27543,27552,27579,27637,27645,27681,27672,27770,27788,27809,27899,27916,27961,28027,28079,28068,28144,28114,28110,28106,28270,28282,28294,28290,28349,28384,28380,28412,28420,28457,28454,28465,28497,28513,39980,39981,39982,39983,40102,40105,40106,40103,40104,40107,40108,40109",
+        "core_id": 130.0
+      }
+    },
+    {
+      "id": "variant-94afc0d1-e0c4-562d-b6d3-a66d8aa3ea57",
+      "score": 0.8480923,
+      "metadata": {
+        "text": "core_product_name: conduit pipe",
+        "raw_product_name": "CONDUIT PIPE",
+        "list_of_product_ids": "222,962,229,728,617",
+        "core_id": 440.0
+      }
+    }
+  ]
+}

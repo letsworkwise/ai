@@ -1,0 +1,106 @@
+{
+  "query": "core_product_name: ms(mild steel) pipe | size: diameter: 400 nb(nominal bore) | feature_or_specifications: class: b, type: erw(electric resistance welded), manufacturer: jindal, certificate: mtc(manufacturer test certificate)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: pipe-ms (mild steel) | material: MS (Mild Steel) | construction_features: GI (Galvanized Iron) coating",
+        "raw_product_name": "PIPES-MS-(GI)",
+        "list_of_product_ids": [
+          "13947",
+          "14615",
+          "14654",
+          "14664",
+          "19769",
+          "21055",
+          "21413",
+          "22593",
+          "29948",
+          "29951",
+          "29953",
+          "35289",
+          "35310",
+          "35314"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: ms (mild steel) pipe | special_attributes: ERW (Electric Resistance Welded)",
+        "raw_product_name": "MS PIPE (ERW)",
+        "list_of_product_ids": [
+          "23798",
+          "23802",
+          "24467",
+          "24468",
+          "24471",
+          "29649",
+          "32761",
+          "32760",
+          "32759",
+          "32758",
+          "32765",
+          "32774",
+          "32775",
+          "32800",
+          "32805",
+          "32841",
+          "32818",
+          "32815",
+          "32844",
+          "32851",
+          "32849",
+          "32848",
+          "32847",
+          "39992"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: ms (mild steel) pipe",
+        "raw_product_name": "MS PIPE",
+        "list_of_product_ids": [
+          "13780",
+          "14665",
+          "19247",
+          "17239",
+          "17228",
+          "18434",
+          "39305",
+          "22590",
+          "22621",
+          "22726",
+          "22761",
+          "22750",
+          "22744",
+          "22790",
+          "23133",
+          "30896",
+          "30927",
+          "30958",
+          "39306",
+          "27364",
+          "29739",
+          "28917",
+          "28966",
+          "35311",
+          "35312",
+          "40051"
+        ]
+      }
+    }
+  ]
+}

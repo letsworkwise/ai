@@ -1,0 +1,93 @@
+{
+  "query": "core_product_name: interface for radar and servo",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: interface device",
+        "raw_product_name": "INTERFACE DEVICES",
+        "list_of_product_ids": [
+          "6630",
+          "5800",
+          "11596",
+          "11597",
+          "10310",
+          "11701",
+          "11702",
+          "11703",
+          "12288",
+          "8405",
+          "13108",
+          "13117",
+          "21089",
+          "21081",
+          "21077",
+          "21070"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: tank level instrument | type_or_class: Radar | type_or_class: Ultrasonic",
+        "raw_product_name": "TANK LEVEL INSTRUMENT (RADAR,ULTRASONIC)",
+        "list_of_product_ids": [
+          "6596",
+          "5766",
+          "11601",
+          "11814",
+          "11323",
+          "10106",
+          "10120",
+          "11345",
+          "9173",
+          "12073",
+          "12860",
+          "12862",
+          "13363",
+          "13367",
+          "13371",
+          "13372",
+          "18399",
+          "19278",
+          "35436",
+          "36170",
+          "36318"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: tank level instrument | type_or_class: Servo Type",
+        "raw_product_name": "TANK LEVEL INSTRUMENT (SERVO TYPE)",
+        "list_of_product_ids": [
+          "6586",
+          "5756",
+          "11687",
+          "11696",
+          "11712",
+          "13222",
+          "15090",
+          "15248",
+          "15262",
+          "21060",
+          "36107",
+          "36185",
+          "36333"
+        ]
+      }
+    }
+  ]
+}

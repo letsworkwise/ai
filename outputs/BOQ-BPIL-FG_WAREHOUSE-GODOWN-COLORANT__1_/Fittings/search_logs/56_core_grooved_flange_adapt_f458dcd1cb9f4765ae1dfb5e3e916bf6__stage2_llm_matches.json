@@ -1,0 +1,53 @@
+{
+  "query": "core_product_name: grooved flange adaptor | size: pipe size: 200 NB",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: forged pipe flange | construction_features: forged",
+        "raw_product_name": "FORGED PIPE FLANGES",
+        "list_of_product_ids": [
+          "8772"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flange | material: Alloy 20",
+        "raw_product_name": "FLANGE- ALLOY 20",
+        "list_of_product_ids": [
+          "176",
+          "491",
+          "764",
+          "718",
+          "665"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flange | material: Duplex Steel",
+        "raw_product_name": "FLANGES -DUPLEX STEEL",
+        "list_of_product_ids": [
+          "17453",
+          "17452",
+          "24558",
+          "24654"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "query": "core_product_name: aluminium silver synthetic enamel paint | size: quantity: 20 ltrs | feature_or_specifications: container: tin",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: synthetic painting work | material: Enamel | special_attributes: For Building Works",
+        "raw_product_name": "PAINTING WORKS - SYNTHETIC ENAMEL (FOR BUILDING WORKS)",
+        "list_of_product_ids": [
+          "6353",
+          "5524",
+          "12197",
+          "12544",
+          "12554",
+          "14309",
+          "16294",
+          "16293",
+          "16292",
+          "22318",
+          "30747",
+          "30773",
+          "30812",
+          "28834",
+          "28832",
+          "28830",
+          "28828",
+          "28823",
+          "31890",
+          "34336",
+          "35226",
+          "35227",
+          "35228",
+          "35267",
+          "35337",
+          "35369",
+          "35343",
+          "35406",
+          "35364"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "PAINTS (STOCKIST/TRADERS)",
+        "list_of_product_ids": [
+          "2",
+          "457",
+          "824",
+          "577"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "Paints",
+        "list_of_product_ids": [
+          "8191"
+        ]
+      }
+    }
+  ]
+}

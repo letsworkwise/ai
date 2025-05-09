@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: led fixture | feature_or_specifications: type: flood light, duty: heavy, driver: integral",
+  "retrieval_results": [
+    {
+      "id": "variant-eb58eb3c-f1fc-59ff-ba71-ccf7d770f771",
+      "score": 0.8663958,
+      "metadata": {
+        "text": "core_product_name: incandescent lighting fixture",
+        "raw_product_name": "INCANDESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19026,19024,19022,19020,19163",
+        "core_id": 1228.0
+      }
+    },
+    {
+      "id": "variant-cf977c7c-e368-56f7-9ce9-23eb8659bb38",
+      "score": 0.8660729,
+      "metadata": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": "13606,16555,16546,16591,16576,17657,17650,17702,17682,18058,20306,20834,21315,22108,23384,35044",
+        "core_id": 1006.0
+      }
+    },
+    {
+      "id": "variant-e86062e6-2903-51eb-9c92-a29d8a2c92b5",
+      "score": 0.8640533,
+      "metadata": {
+        "text": "core_product_name: fluorescent lighting fixture",
+        "raw_product_name": "FLUORESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19025,19023,19021,19019,19164",
+        "core_id": 951.0
+      }
+    },
+    {
+      "id": "variant-5ce39e66-51d3-5c8d-8399-07e58423611b",
+      "score": 0.85852635,
+      "metadata": {
+        "text": "core_product_name: tube light fixture",
+        "raw_product_name": "TUBE LIGHT FIXTURES",
+        "list_of_product_ids": "139,811,494,021,021",
+        "core_id": 2282.0
+      }
+    },
+    {
+      "id": "variant-d3918fb3-1dcf-5330-9bbe-6452020c252d",
+      "score": 0.8573816,
+      "metadata": {
+        "text": "core_product_name: plumbing fitting and fixture",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+        "list_of_product_ids": "6364,5535,7874,12489,12648,12649,34680,34681",
+        "core_id": 1961.0
+      }
+    },
+    {
+      "id": "variant-b4662890-d6e7-5ff9-8a58-cf6a938d5315",
+      "score": 0.85353,
+      "metadata": {
+        "text": "core_product_name: flow indicator",
+        "raw_product_name": "FLOW INDICATOR",
+        "list_of_product_ids": "165,441,654,127,339",
+        "core_id": 937.0
+      }
+    },
+    {
+      "id": "variant-370c43d3-b815-5435-9810-24d97f958927",
+      "score": 0.8521924,
+      "metadata": {
+        "text": "core_product_name: indicating lamp fitting",
+        "raw_product_name": "INDICATING LAMP FITTING",
+        "list_of_product_ids": "20128,20443,20418,20465,20506,20645",
+        "core_id": 1232.0
+      }
+    },
+    {
+      "id": "variant-2871fae9-7edc-5be1-b153-13a90cdb9355",
+      "score": 0.851646,
+      "metadata": {
+        "text": "core_product_name: lighting fixture | acronymed_core_product_name: LTG (Lighting) Fixtures | type_or_class: Fluorescent or Incandescent | type_or_class: Class-B",
+        "raw_product_name": "Fluorescent / Incandescent Class-“B” LTG Fixtures",
+        "list_of_product_ids": "18685,18686,18683,32299,18684,19018,35809,35860,35884,35937",
+        "core_id": 1006.0
+      }
+    },
+    {
+      "id": "variant-54df00f3-e2db-5f4c-8116-2f1a2a3cb68a",
+      "score": 0.8507941,
+      "metadata": {
+        "text": "core_product_name: heavy fabricated component",
+        "raw_product_name": "HEAVY FABRICATED COMPONENT",
+        "list_of_product_ids": "23961,23960,23956,23957,23959,23958,24992,26749",
+        "core_id": 1122.0
+      }
+    },
+    {
+      "id": "variant-a807b261-d030-557d-80c2-edb07d018ba1",
+      "score": 0.8504751,
+      "metadata": {
+        "text": "core_product_name: accessory lighting fixture | protection_features: Non Hazardous",
+        "raw_product_name": "LIGHTING FIXTURE & ACCESORY-NON HZARDOUS",
+        "list_of_product_ids": "5630,6459,10568,10188,10179,19512,19508,19540,26082",
+        "core_id": 1352.0
+      }
+    },
+    {
+      "id": "variant-c67f99b2-1581-533a-bfd9-79e30811dae4",
+      "score": 0.84998924,
+      "metadata": {
+        "text": "core_product_name: navigational light",
+        "raw_product_name": "NAVIGATIONAL LIGHTS",
+        "list_of_product_ids": "28223,28249,28222,28221,28220",
+        "core_id": 1537.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.8489453,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-e4b3d538-ba38-5529-966b-8ba26cabef70",
+      "score": 0.84867275,
+      "metadata": {
+        "text": "core_product_name: fitting and fixture | type_or_class: sanitary | type_or_class: plumbing | accessories_or_attachments: mirror or glass",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - MIRROR / GLASS",
+        "list_of_product_ids": "6365,5536,12516,17444,19499,34682",
+        "core_id": 1964.0
+      }
+    },
+    {
+      "id": "variant-e2c1cbe3-7333-5f8e-8f42-b4185d4dc011",
+      "score": 0.8476465,
+      "metadata": {
+        "text": "core_product_name: heavy duty switch",
+        "raw_product_name": "HEAVY DUTY SWITCHES",
+        "list_of_product_ids": "6451,5621,24539,24538",
+        "core_id": 1118.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.84732455,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-1e84e4af-7d7e-5d97-adb2-330b0f9887b6",
+      "score": 0.8472389,
+      "metadata": {
+        "text": "core_product_name: hazardous lighting fixture | accessories_or_attachments: accessories",
+        "raw_product_name": "LIGHTING FIXTURE & ACCESSORIES-HAZARDOUS",
+        "list_of_product_ids": "6414,5584,10587,10557,10600,17341,17357,19480,19473,22850,35768,35810,35886,35864,35939,35950,36518",
+        "core_id": 1353.0
+      }
+    },
+    {
+      "id": "variant-2e53d84e-e3e8-5b7a-9692-1dff85b1b95f",
+      "score": 0.84692764,
+      "metadata": {
+        "text": "core_product_name: aviation marker lighting fixture | type_or_class: Div.2 (Division 2)",
+        "raw_product_name": "Div.2 Aviation Marker Lighting Fixtures",
+        "list_of_product_ids": "18715,18711,19014,37433",
+        "core_id": 659.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.84674907,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-4899927d-b320-5265-8d88-74ca5f512243",
+      "score": 0.8465058,
+      "metadata": {
+        "text": "core_product_name: flame proof lighting fixture | protection_features: Flame proof | accessories_or_attachments: Accessories",
+        "raw_product_name": "FLAME PROOF LIGHTING FIXTURES & ACCESSORIES",
+        "list_of_product_ids": "13572,14602,14848,15164,15923,18858,22863,16552,35780",
+        "core_id": 890.0
+      }
+    },
+    {
+      "id": "variant-0e4d04c7-96ab-5803-96ea-fa89fe6f4c0f",
+      "score": 0.84647125,
+      "metadata": {
+        "text": "core_product_name: indicating pilot | type_or_class: HI-LO (High-Low) | construction_features: dial type",
+        "raw_product_name": "HI-LO PILOTS (INDICATING DIAL TYPE)",
+        "list_of_product_ids": "13816,38324,35544,36103",
+        "core_id": 1125.0
+      }
+    },
+    {
+      "id": "variant-6daccb7e-afc6-52ac-8f19-b716ca12c3a6",
+      "score": 0.84627163,
+      "metadata": {
+        "text": "core_product_name: video wall | material: LED (Light Emitting Diode)",
+        "raw_product_name": "Video Walls (LED)",
+        "list_of_product_ids": "7078,7405,18019,18418,18417",
+        "core_id": 2418.0
+      }
+    },
+    {
+      "id": "variant-1a15faa8-0202-565a-b570-0c735809e6c0",
+      "score": 0.84626395,
+      "metadata": {
+        "text": "core_product_name: flow switch | type_or_class: Electrical",
+        "raw_product_name": "FLOW SWITCHES (ELECTRICAL)",
+        "list_of_product_ids": "10080,9559,9519,12077,15127,15135,15143,17313",
+        "core_id": 939.0
+      }
+    },
+    {
+      "id": "variant-40f5e806-4a91-59d6-8fea-bf521847066a",
+      "score": 0.8462365,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: Forged",
+        "raw_product_name": "VALVE CHECK FORGED",
+        "list_of_product_ids": "6231,5400,11625,11641,11223,11242,11255,9246,11448,9262,8280,8383,8555,8649,8626,9412,9451,9253,9166,9343,12098,12493,12572,12656,13266,13360,19382,19390,17623,17908,18030,19711,19860,31813,36763,32701",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-95684402-79ab-5b53-9acd-20380a03193d",
+      "score": 0.8460531,
+      "metadata": {
+        "text": "core_product_name: integral water proofing compound | mounting_or_installation: in plaster",
+        "raw_product_name": "INTEGRAL WATER PROOFING COMPOUND (IN PLASTER)",
+        "list_of_product_ids": "6372,5543,12484,12488,12461,12478,12523,23882,24155",
+        "core_id": 1282.0
+      }
+    },
+    {
+      "id": "variant-7e796f6f-0d17-514d-aca4-a14dcdb48ba7",
+      "score": 0.8459285,
+      "metadata": {
+        "text": "core_product_name: fluid power equipment",
+        "raw_product_name": "FLUID POWER EQUIPMENT",
+        "list_of_product_ids": "1,364,936,946",
+        "core_id": 949.0
+      }
+    },
+    {
+      "id": "variant-949ab2fe-ba86-5c1c-8b73-a142920b7378",
+      "score": 0.84582424,
+      "metadata": {
+        "text": "core_product_name: lining | material: Lead",
+        "raw_product_name": "LINING (LEAD)",
+        "list_of_product_ids": "61,665,336",
+        "core_id": 1367.0
+      }
+    },
+    {
+      "id": "variant-ab5c7d28-a5aa-552a-8340-75f3f0f1cca3",
+      "score": 0.845679,
+      "metadata": {
+        "text": "core_product_name: flow transmitter",
+        "raw_product_name": "FLOW TRANSMITTER",
+        "list_of_product_ids": "134,391,821,036,513",
+        "core_id": 942.0
+      }
+    },
+    {
+      "id": "variant-3c2764ee-aa30-543d-a40c-c88880dfc5c5",
+      "score": 0.8454055,
+      "metadata": {
+        "text": "core_product_name: inlet feed device | type_or_class: Vane Type",
+        "raw_product_name": "INLET FEED DEVICE (VANE TYPE)",
+        "list_of_product_ids": "6190,5358,10851,8980,9126,24348,24349,19942",
+        "core_id": 1245.0
+      }
+    },
+    {
+      "id": "variant-2617a22e-898d-5bf3-99df-d3043eb03775",
+      "score": 0.8453034,
+      "metadata": {
+        "text": "core_product_name: flow element",
+        "raw_product_name": "FLOW ELEMENTS",
+        "list_of_product_ids": "65,415,712",
+        "core_id": 934.0
+      }
+    },
+    {
+      "id": "variant-1d272a74-8aa5-5bf5-adbd-8d413fa8fea4",
+      "score": 0.84491426,
+      "metadata": {
+        "text": "core_product_name: water level indicator",
+        "raw_product_name": "WATER LEVEL INDICATOR",
+        "list_of_product_ids": "21632,21626,21638,21758",
+        "core_id": 2439.0
+      }
+    }
+  ]
+}

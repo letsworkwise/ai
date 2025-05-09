@@ -1,0 +1,807 @@
+{
+  "sheet_name": "Structural",
+  "boq_context": "",
+  "header_rows": "Sl. No. | PART NO | ITEM NO | DESCRIPTION | QTY | UOM | RATE | AMOUNT | TPPL Rate | TPPL Amount",
+  "products_entries": [
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003) > Earthwork excavation in soil",
+      "full_product_description": "Earth work in EXCAVATION below ground level for all kinds of works in ALL TYPES OF SOILS EXCEPT SOFT ROCK AND HARD ROCK as classified in specification for a depth upto 1.5m including removal of vegetation, shrubs and debris, cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering of accumulated water from any source and keeping the surface dry for subsequent works and disposal or stacking of excavated material within a lead of 100m, as directed including providing temporary supports to existing service lines like water pipes, sewage pipes, electric overhead and underground cables etc. all complete, but excluding shoring and strutting.",
+      "core_product_name": "earth work excavation",
+      "acronymed_core_product_name": "",
+      "size": "depth: upto 1.5m, lead: 100m",
+      "feature_or_specifications": "soil type: all types except soft rock and hard rock, removal: vegetation, shrubs and debris, operation: cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering: accumulated water from any source, support: temporary supports to existing service lines (water pipes, sewage pipes, electric overhead and underground cables), exclusion: shoring and strutting",
+      "quantity": "6900.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003) > Earthwork excavation in soil",
+      "full_product_description": "Earth work in EXCAVATION below ground level for all kinds of works in ALL TYPES OF SOILS EXCEPT SOFT ROCK AND HARD ROCK as classified in specification for a depth beyond 1.5m and upto and inclusive of 3.0m including removal of vegetation, shrubs and debris, cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering of accumulated water from any source and keeping the surface dry for subsequent works and disposal or stacking of excavated material within a lead of 100m, as directed including providing temporary supports to existing service lines like water pipes, sewage pipes, electric overhead and underground cables etc. all complete, but excluding shoring and strutting.",
+      "core_product_name": "earth work excavation",
+      "acronymed_core_product_name": "",
+      "size": "depth: beyond 1.5m and upto and inclusive of 3.0m, lead: 100m",
+      "feature_or_specifications": "soil type: all types except soft rock and hard rock, removal: vegetation, shrubs and debris, operation: cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering: accumulated water from any source, support: temporary supports to existing service lines (water pipes, sewage pipes, electric overhead and underground cables), exclusion: shoring and strutting",
+      "quantity": "750.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003) > Earthwork excavation in soil",
+      "full_product_description": "Earth work in EXCAVATION below ground level for all kinds of works in ALL TYPES OF SOILS EXCEPT SOFT ROCK AND HARD ROCK as classified in specification for a depth beyond 3.0m and upto & inclusive of 4.5m including removal of vegetation, shrubs and debris, cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering of accumulated water from any source and keeping the surface dry for subsequent works and disposal or stacking of excavated material within a lead of 100m, as directed including providing temporary supports to existing service lines like water pipes, sewage pipes, electric overhead and underground cables etc. all complete, but excluding shoring and strutting.",
+      "core_product_name": "earth work excavation",
+      "acronymed_core_product_name": "",
+      "size": "depth: beyond 3.0m and upto & inclusive of 4.5m, lead: 100m",
+      "feature_or_specifications": "soil type: all types except soft rock and hard rock, removal: vegetation, shrubs and debris, operation: cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering: accumulated water from any source, support: temporary supports to existing service lines (water pipes, sewage pipes, electric overhead and underground cables), exclusion: shoring and strutting",
+      "quantity": "100.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003) > Earthwork excavation in soil",
+      "full_product_description": "Earth work in EXCAVATION below ground level for all kinds of works in ALL TYPES OF SOILS EXCEPT SOFT ROCK AND HARD ROCK as classified in specification for a depth beyond 4.5m and upto & inclusive of 6.0m including removal of vegetation, shrubs and debris, cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering of accumulated water from any source and keeping the surface dry for subsequent works and disposal or stacking of excavated material within a lead of 100m, as directed including providing temporary supports to existing service lines like water pipes, sewage pipes, electric overhead and underground cables etc. all complete, but excluding shoring and strutting.",
+      "core_product_name": "earth work excavation",
+      "acronymed_core_product_name": "",
+      "size": "depth: beyond 4.5m and upto & inclusive of 6.0m, lead: 100m",
+      "feature_or_specifications": "soil type: all types except soft rock and hard rock, removal: vegetation, shrubs and debris, operation: cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering: accumulated water from any source, support: temporary supports to existing service lines (water pipes, sewage pipes, electric overhead and underground cables), exclusion: shoring and strutting",
+      "quantity": "50.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "BACKFILLING after execution of the WORK to proper grade and level with selected materials from available excavated soil from spoil heaps within a LEAD OF 100M, including re- excavating the deposited soil excavated earlier, breaking clods, laying at all depths and heights in layers of thickness not exceeding 15 Cms. watering, rolling and ramming by manual methods/ mechanical compactors to achieve 90% laboratory maximum dry density, dressing, trimming etc. in foundations, plinths, trenches, pits etc. all complete.",
+      "core_product_name": "backfilling",
+      "acronymed_core_product_name": "",
+      "size": "lead: within 100m, layer thickness: not exceeding 15 cms, depth: all depths, height: all heights",
+      "feature_or_specifications": "material: selected materials from available excavated soil from spoil heaps, operation: re-excavating deposited soil excavated earlier, operation: breaking clods, operation: watering, rolling and ramming by manual methods or mechanical compactors, compaction: 90% laboratory maximum dry density, operation: dressing, trimming, location: foundations, plinths, trenches, pits",
+      "quantity": "2100.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "BACKFILLING after execution of the WORK to proper grade and level with selected materials from available excavated soil from spoil heaps beyond a LEAD OF 100M AND UPTO & INCLUSIVE OF 500M including re-excavating the deposited soil excavated earlier, breaking clods, laying at all depths and heights in layers of thickness not exceeding 15 Cms. watering, rolling and ramming by manual methods/mechanical compactors to achieve 90% laboratory maximum dry density, dressing, trimming etc. in foundations, plinths, trenches, pits etc. all complete.",
+      "core_product_name": "backfilling",
+      "acronymed_core_product_name": "",
+      "size": "lead: beyond 100m and up to & inclusive of 500m, layer thickness: not exceeding 15 cms, depth: all depths, height: all heights",
+      "feature_or_specifications": "material: selected materials from available excavated soil from spoil heaps, operation: re-excavating deposited soil excavated earlier, operation: breaking clods, operation: watering, rolling and ramming by manual methods or mechanical compactors, compaction: 90% laboratory maximum dry density, operation: dressing, trimming, location: foundations, plinths, trenches, pits",
+      "quantity": "700.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "BACKFILLING after execution of the WORK to proper grade and level with selected materials from available excavated soil from spoil heaps beyond a LEAD OF 500M AND UPTO & INCLUSIVE OF 1KM including re-excavating the deposited soil excavated earlier, breaking clods, laying at all depths and heights in layers of thickness not exceeding 15 Cms. watering, rolling and ramming by manual methods/mechanical compactors to achieve 90% laboratory maximum dry density, dressing, trimming etc. in foundations, plinths, trenches, pits etc. all complete.",
+      "core_product_name": "backfilling",
+      "acronymed_core_product_name": "",
+      "size": "lead: beyond 500m and up to & inclusive of 1km, layer thickness: not exceeding 15 cms, depth: all depths, height: all heights",
+      "feature_or_specifications": "material: selected materials from available excavated soil from spoil heaps, operation: re-excavating deposited soil excavated earlier, operation: breaking clods, operation: watering, rolling and ramming by manual methods or mechanical compactors, compaction: 90% laboratory maximum dry density, operation: dressing, trimming, location: foundations, plinths, trenches, pits",
+      "quantity": "700.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "EARTHWORK IN FILLING by excavating the earth from BORROW AREAS arranged by CONTRACTOR for all leads, transporting the earth from borrow area including cleaning & stripping the earth at borrow areas, breaking clods, loading, unloading and laying at all depths and heights in layers of thickness not exceeding 15 cms., watering, rolling  and ramming by manual methods/mechanical compactors to achieve 90% of the maximum laboratory dry density, dressing, trimming, levelling the top surface etc. in foundations, plinths, trenches etc. all complete.",
+      "core_product_name": "earthwork in filling",
+      "acronymed_core_product_name": "",
+      "size": "lead: all leads, layer thickness: not exceeding 15 cms, depth: all depths, height: all heights",
+      "feature_or_specifications": "source: borrow areas arranged by contractor, operation: cleaning & stripping at borrow areas, operation: breaking clods, operation: loading, unloading, operation: watering, rolling and ramming by manual methods or mechanical compactors, compaction: 90% of the maximum laboratory dry density, operation: dressing, trimming, levelling top surface, location: foundations, plinths, trenches",
+      "quantity": "500.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Earth work in EXCAVATION BY MANUAL MEANS below ground level for all kinds of works in   ALL TYPES OF SOILS EXCEPT SOFT ROCK AND HARD ROCK as classified in specification for a depth upto 1.5m including removal of vegetation, shrubs and debris, cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering of accumulated water from any source and keeping the surface dry for subsequent works and disposal or stacking of excavated material within a lead of 100m, as directed including providing temporary supports to existing service lines like water pipes, sewage pipes, electric overhead and underground cables etc. all complete, but excluding shoring and strutting.",
+      "core_product_name": "earth work in excavation by manual means",
+      "acronymed_core_product_name": "",
+      "size": "depth: upto 1.5m, lead: within 100m",
+      "feature_or_specifications": "soil type: all types of soils except soft rock and hard rock, removal: vegetation, shrubs and debris, operation: cutting and dressing of sides in slopes, levelling, grading, ramming of bottoms, dewatering: accumulated water from any source, surface: keeping dry for subsequent works, disposal or stacking: excavated material, support: temporary supports to existing service lines (water pipes, sewage pipes, electric overhead and underground cables), exclusion: shoring and strutting",
+      "quantity": "50.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Earth work in EXCAVATION BY MANUAL MEANS below ground level for all kinds of works in ALL TYPES OF SOILS EXCEPT SOFT ROCK AND HARD ROCK as classified in specification for a depth beyond 1.5m and upto and inclusive of 3.0m including removal of vegetation, shrubs and debris, cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering of accumulated water from  any source and keeping the surface dry for subsequent works and disposal or stacking of excavated material within a lead of 100m, as directed including providing temporary supports to existing service lines like water pipes, sewage pipes, electric overhead and underground cables etc. all complete, but excluding shoring and strutting.",
+      "core_product_name": "earth work in excavation by manual means",
+      "acronymed_core_product_name": "",
+      "size": "depth: beyond 1.5m and upto and inclusive of 3.0m, lead: within 100m",
+      "feature_or_specifications": "soil type: all types of soils except soft rock and hard rock, removal: vegetation, shrubs and debris, operation: cutting and dressing of sides in slopes, levelling, grading, ramming of bottoms, dewatering: accumulated water from any source, surface: keeping dry for subsequent works, disposal or stacking: excavated material, support: temporary supports to existing service lines (water pipes, sewage pipes, electric overhead and underground cables), exclusion: shoring and strutting",
+      "quantity": "50.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Earth work in EXCAVATION BY MANUAL MEANS below ground level for all kinds of works in ALL TYPES OF SOILS EXCEPT SOFT ROCK AND HARD ROCK as classified in specification for a depth beyond 3.0m and upto & inclusive of 4.5m including removal of vegetation, shrubs and debris, cutting and dressing of sides in slopes, levelling, grading and ramming of bottoms, dewatering of accumulated water from any source and keeping the surface dry for subsequent works and disposal or stacking of excavated material within a lead of 100m, as directed including providing temporary supports to existing service lines like water pipes, sewage pipes, electric overhead and underground cables etc. all complete, but excluding shoring and strutting.",
+      "core_product_name": "earth work in excavation by manual means",
+      "acronymed_core_product_name": "",
+      "size": "depth: beyond 3.0m and upto & inclusive of 4.5m, lead: within 100m",
+      "feature_or_specifications": "soil type: all types of soils except soft rock and hard rock, removal: vegetation, shrubs and debris, operation: cutting and dressing of sides in slopes, levelling, grading, ramming of bottoms, dewatering: accumulated water from any source, surface: keeping dry for subsequent works, disposal or stacking: excavated material, support: temporary supports to existing service lines (water pipes, sewage pipes, electric overhead and underground cables), exclusion: shoring and strutting",
+      "quantity": "50.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Providing and laying PLAIN CEMENT CONCRETE for all depths below and upto plinth level in foundations, drains, fillings, non-suspended floors, pavements & ramps or any other works etc. including shuttering, tamping, ramming, vibrating, curing etc. all as specified in any shape, position, thickness and finishing the top surface rough or smooth as specified and directed all complete for concrete of nominal mix 1:5:10 by mass (1 Cement: 5 Coarse Sand: 10 Crushed Stone Aggregates/Gravels) with 40mm and down size graded crushed stone aggregates/Gravels. ALL MATERIALS INCLUDING CEMENT SUPPLIED BY THE CONTRACTOR.",
+      "core_product_name": "plain cement concrete",
+      "acronymed_core_product_name": "",
+      "size": "depth: all depths below and upto plinth level, aggregate size: 40mm and down size",
+      "feature_or_specifications": "application: foundations, drains, fillings, non-suspended floors, pavements & ramps or any other works, operation: shuttering, tamping, ramming, vibrating, curing, finishing: top surface rough or smooth, mix: nominal mix 1:5:10 by mass (1 Cement: 5 Coarse Sand: 10 Crushed Stone Aggregates/Gravels), material: cement, coarse sand, crushed stone aggregates/gravels, supply: all materials including cement supplied by the contractor",
+      "quantity": "170.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Providing and laying PLAIN CEMENT CONCRETE for all depths below and upto plinth level in foundations, drains, fillings, non-suspended floors, pavements & ramps or any other works etc. including shuttering, tamping, ramming, vibrating, curing, etc. all as specified in any shape, position, thickness and finishing the top surface rough or smooth as specified and directed all complete for concrete grade M20 with 20mm and down size graded crushed stone aggregates/Gravels. ALL MATERIALS INCLUDING CEMENT SUPPLIED BY THE CONTRACTOR.",
+      "core_product_name": "plain cement concrete",
+      "acronymed_core_product_name": "",
+      "size": "depth: all depths below and upto plinth level, aggregate size: 20mm and down size",
+      "feature_or_specifications": "application: foundations, drains, fillings, non-suspended floors, pavements & ramps or any other works, operation: shuttering, tamping, ramming, vibrating, curing, finishing: top surface rough or smooth, grade: m20, material: cement, crushed stone aggregates/gravels, supply: all materials including cement supplied by the contractor",
+      "quantity": "5.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Providing and laying REINFORCED CEMENT CONCRETE OF M-30 GRADE with 20 mm and down size graded crushed stone aggregates/ gravel in SUB-STRUCTURE e.g. foundations, raft, beams, slabs, pile caps, retaining walls, dyke walls, jambs, counterforts, buttresses, pedestals, pipe sleepers, columns, suspended floors, staircases, landings, steps, brackets etc., including equipment/ machine foundations & pedestals viz. compressors, ID & FD fans, pumps, generators, crushers, mills, etc., (including single pour concreting as specified on the drawing), applying cement wash on concrete surface (wherever no other surface application is specified), providing pockets, openings, recesses, chamfering, etc., wherever required, vibrating, tamping, curing and rendering if required to give a smooth and even surface etc. (EXCLUDING THE COST OF REINFORCEMENT, SHUTTERING & SPECIFIED ADMIXTURES) for all depths below and upto plinth level in any shape, position and thickness etc. all complete as specified, shown and directed. ALL MATERIALS INCLUDING CEMENT SUPPLIED BY THE CONTRACTOR.",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "rcc",
+      "size": "grade: m-30, aggregate size: 20 mm and down size, depth: all depths below and upto plinth level",
+      "feature_or_specifications": "application: sub-structure (foundations, raft, beams, slabs, pile caps, retaining walls, dyke walls, jambs, counterforts, buttresses, pedestals, pipe sleepers, columns, suspended floors, staircases, landings, steps, brackets, equipment/machine foundations & pedestals viz. compressors, id (induced draft) & fd (forced draft) fans, pumps, generators, crushers, mills), concreting: single pour as specified on the drawing, surface: applying cement wash (wherever no other surface application is specified), operation: providing pockets, openings, recesses, chamfering, vibrating, tamping, curing, rendering, exclusion: cost of reinforcement, shuttering & specified admixtures, supply: all materials including cement supplied by the contractor",
+      "quantity": "2300.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Providing and laying REINFORCED CEMENT CONCRETE OF M-30 GRADE with 20 mm and down size graded crushed stone aggregates/ gravel in SUB-STRUCTURE e.g. trenches, culverts, manholes, pipe encasement, catchpits, drains, pits, etc., applying cement wash on concrete surface (wherever no other surface application is specified), providing pockets, openings, recesses, chamfering, etc., wherever required, vibrating, tamping, curing and rendering if required to give a smooth and even surface etc. (EXCLUDING THE COST OF REINFORCEMENT, SHUTTERING & SPECIFIED ADMIXTURES) for all depths below and upto plinth level in any shape, position and thickness etc. all complete as specified, shown and directed. ALL MATERIALS INCLUDING CEMENT SUPPLIED BY THE CONTRACTOR.",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "rcc",
+      "size": "grade: m-30, aggregate size: 20 mm and down size, depth: all depths below and upto plinth level",
+      "feature_or_specifications": "application: sub-structure (trenches, culverts, manholes, pipe encasement, catchpits, drains, pits), surface: applying cement wash (wherever no other surface application is specified), operation: providing pockets, openings, recesses, chamfering, vibrating, tamping, curing, rendering, exclusion: cost of reinforcement, shuttering & specified admixtures, supply: all materials including cement supplied by the contractor",
+      "quantity": "10.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Providing and laying REINFORCED CEMENT CONCRETE OF M-25 GRADE with 20 mm and down size graded crushed stone aggregates/ gravel in SUPER STRUCTURE in suspended floors, slabs, beams, columns, walls including counterforts, staircases, landings, steps, facias, fins, mouldings, gutters, shelves, window sills, canopies, lintels, girders, ducts, brackets, chajjas with drip moulds, pedestals, posts, struts, equipment/ machine foundations, ramps etc. (including single pour concreting as specified on the drawing), providing cement wash (wherever no other surface application is specified), providing pockets, openings, recesses, chamfering wherever required, vibrating, tamping, curing and rendering if required to give a smooth and even surface etc. (EXCLUDING THE COST OF REINFORCEMENT, SHUTTERING AND SPECIFIED ADMIXTURES) FOR ALL HEIGHTS UPTO & INCLUSIVE OF 20 m ABOVE PLINTH LEVEL in any shape, position, thickness etc. all complete as specified, shown and directed. ALL MATERIALS INCLUDING CEMENT SUPPLIED BY THE CONTRACTOR.",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "rcc",
+      "size": "grade: m-25, aggregate size: 20 mm and down size, height: upto & inclusive of 20 m above plinth level",
+      "feature_or_specifications": "application: super structure (suspended floors, slabs, beams, columns, walls, counterforts, staircases, landings, steps, facias, fins, mouldings, gutters, shelves, window sills, canopies, lintels, girders, ducts, brackets, chajjas with drip moulds, pedestals, posts, struts, equipment/machine foundations, ramps), concreting: single pour as specified on the drawing, surface: providing cement wash (wherever no other surface application is specified), operation: providing pockets, openings, recesses, chamfering, vibrating, tamping, curing, rendering, exclusion: cost of reinforcement, shuttering and specified admixtures, supply: all materials including cement supplied by the contractor",
+      "quantity": "650.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Providing and laying REINFORCED CEMENT CONCRETE OF M-30 GRADE with 20 mm and down size graded crushed stone aggregates/ gravel in SUPER STRUCTURE in suspended floors, slabs, beams, columns, walls including counterforts, staircases, landings, steps, facias, fins, mouldings, gutters, shelves, window sills, canopies, lintels, girders, ducts, brackets, chajjas with drip moulds, pedestals, posts, struts, equipment/ machine foundations, ramps etc. (including single pour concreting as specified on the drawing), providing cement wash (wherever no other surface application is specified), providing pockets, openings, recesses, chamfering wherever required, vibrating, tamping, curing and rendering if required to give a smooth and even surface etc. (EXCLUDING THE COST OF REINFORCEMENT, SHUTTERING AND SPECIFIED ADMIXTURES) FOR ALL HEIGHTS UPTO & INCLUSIVE OF 20 m ABOVE PLINTH LEVEL in any shape, position, thickness etc. all complete as specified, shown and directed. ALL MATERIALS INCLUDING CEMENT SUPPLIED BY THE CONTRACTOR.",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "rcc",
+      "size": "grade: m-30, aggregate size: 20 mm and down size, height: upto & inclusive of 20 m above plinth level",
+      "feature_or_specifications": "application: super structure (suspended floors, slabs, beams, columns, walls, counterforts, staircases, landings, steps, facias, fins, mouldings, gutters, shelves, window sills, canopies, lintels, girders, ducts, brackets, chajjas with drip moulds, pedestals, posts, struts, equipment/machine foundations, ramps), concreting: single pour as specified on the drawing, surface: providing cement wash (wherever no other surface application is specified), operation: providing pockets, openings, recesses, chamfering, vibrating, tamping, curing, rendering, exclusion: cost of reinforcement, shuttering and specified admixtures, supply: all materials including cement supplied by the contractor",
+      "quantity": "5.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Manufacturing, transporting, supplying and erecting in position Reinforced Cement Concrete PRECAST ELEMENTS such as columns, beams, cover slabs, lintels, louvers, fins, shelves etc. of M-30 grade with 20mm and down size graded crushed stone aggregates/gravel, each unit upto and inclusive of 500 kg. for all leads, levels, shapes and thickness including all moulds, shuttering and centering, vibrating, tamping, curing, chamfering wherever required, finishing the top surface with cement mortar 1:3 ( 1 Cement : 3 Sand) to give a smooth and even surface, or non skid finish as specified, providing lifting hooks, metal inserts, making holes pockets, (only M.S. inserts to be measured & paid separately) transporting to site, erecting, levelling, aligning and fixing in position with cement mortar 1:3 ( Cement : 3 Coarse Sand), breaking bricks and/or concrete surfaces and making good the same etc. all complete (excluding the Cost of Reinforcement ) and as directed. All materials including cement supplied by the contractor.",
+      "core_product_name": "reinforced cement concrete precast elements",
+      "acronymed_core_product_name": "rcc precast elements",
+      "size": "grade: m-30, aggregate size: 20mm and down size, unit weight: upto and inclusive of 500 kg",
+      "feature_or_specifications": "application: columns, beams, cover slabs, lintels, louvers, fins, shelves, leads: all, levels: all, shapes: all, thickness: all, moulds: all, shuttering: all, centering: all, operation: vibrating, tamping, curing, chamfering, finishing: top surface with cement mortar 1:3 (1 cement : 3 sand) to give a smooth and even surface or non skid finish as specified, feature: providing lifting hooks, metal inserts, making holes pockets, exclusion: only m.s.(mild steel) inserts to be measured & paid separately, operation: transporting to site, erecting, levelling, aligning, fixing in position with cement mortar 1:3 (cement : 3 coarse sand), operation: breaking bricks and/or concrete surfaces and making good the same, exclusion: cost of reinforcement, supply: all materials including cement supplied by the contractor",
+      "quantity": "5.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Manufacturing, transporting, supplying and erecting in position Reinforced Cement Concrete PRECAST ELEMENTS such as manholes, catch-basins, pits, pipe sleepers, box-culverts, drains, trenches, etc. of M-30 grade with 20mm and down size graded crushed stone aggregates/ gravel, each unit upto and inclusive of 1000 kg. for all leads, levels below plinth, shapes and thickness including all moulds, shuttering and centering, vibrating, tamping, curing, chamfering wherever required, providing lifting hooks, metal inserts, making holes, pockets, (only M.S. inserts to be measured & paid separately) transporting to site, erecting, levelling, aligning and fixing in position with cement mortar 1:3 (Cement : 3 Coarse Sand), breaking bricks and/ or concrete surfaces and making good the same etc. all complete (excluding the Cost of Reinforcement) and as directed. All materials including cement supplied by the contractor.",
+      "core_product_name": "reinforced cement concrete precast elements",
+      "acronymed_core_product_name": "rcc precast elements",
+      "size": "grade: m-30, aggregate size: 20mm and down size, unit weight: upto and inclusive of 1000 kg, level: below plinth",
+      "feature_or_specifications": "application: manholes, catch-basins, pits, pipe sleepers, box-culverts, drains, trenches, leads: all, shapes: all, thickness: all, moulds: all, shuttering: all, centering: all, operation: vibrating, tamping, curing, chamfering, feature: providing lifting hooks, metal inserts, making holes, pockets, exclusion: only m.s.(mild steel) inserts to be measured & paid separately, operation: transporting to site, erecting, levelling, aligning, fixing in position with cement mortar 1:3 (cement : 3 coarse sand), operation: breaking bricks and/or concrete surfaces and making good the same, exclusion: cost of reinforcement, supply: all materials including cement supplied by the contractor",
+      "quantity": "5.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Manufacturing, transporting, supplying and erecting in position Reinforced Cement Concrete PRECAST ELEMENTS such as manholes, catch-basins, pits, pipe sleepers, box-culverts, drains, trenches, etc. of M-30 grade with 20mm and down size graded crushed stone aggregates/ gravel, each unit beyond 1000 kg and upto and inclusive of 3000 kg. for all leads, levels below plinth, shapes and thickness including all moulds, shuttering and centering, vibrating, tamping, curing, chamfering wherever required, providing lifting hooks, metal inserts, making holes, pockets, (only M.S. inserts to be measured & paid separately) transporting to site, erecting, levelling, aligning and  fixing in position with cement mortar 1:3 (Cement : 3 Coarse Sand), breaking bricks and/ or concrete surfaces and making good the same etc. all complete (excluding the Cost of Reinforcement) and as directed. All materials including cement supplied by the contractor.",
+      "core_product_name": "reinforced cement concrete precast elements",
+      "acronymed_core_product_name": "rcc precast elements",
+      "size": "grade: m-30, aggregate size: 20mm and down size, unit weight: beyond 1000 kg and upto and inclusive of 3000 kg, level: below plinth",
+      "feature_or_specifications": "application: manholes, catch-basins, pits, pipe sleepers, box-culverts, drains, trenches, leads: all, shapes: all, thickness: all, moulds: all, shuttering: all, centering: all, operation: vibrating, tamping, curing, chamfering, feature: providing lifting hooks, metal inserts, making holes, pockets, exclusion: only m.s.(mild steel) inserts to be measured & paid separately, operation: transporting to site, erecting, levelling, aligning, fixing in position with cement mortar 1:3 (cement : 3 coarse sand), operation: breaking bricks and/or concrete surfaces and making good the same, exclusion: cost of reinforcement, supply: all materials including cement supplied by the contractor",
+      "quantity": "5.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Manufacturing, transporting, supplying and erecting in position Reinforced Cement Concrete PRECAST ELEMENTS such as manholes, catch-basins, pits, pipe sleepers, box-culverts, drains, trenches, etc. of M-30 grade with 20mm and down size graded crushed stone aggregates/ gravel, each unit beyond 3000 kg and upto and inclusive of 5000 kg. for all leads, levels below plinth, shapes and thickness including all moulds, shuttering and centering, vibrating, tamping, curing, chamfering wherever required, providing lifting hooks, metal inserts, making holes, pockets, (only M.S. inserts to be measured & paid separately) transporting to site, erecting, levelling, aligning and  fixing in position with cement mortar 1:3 (Cement : 3 Coarse Sand), breaking bricks and/ or concrete surfaces and making good the same etc. all complete (excluding the Cost of Reinforcement) and as directed. All materials including cement supplied by the contractor.",
+      "core_product_name": "reinforced cement concrete precast elements",
+      "acronymed_core_product_name": "rcc precast elements",
+      "size": "grade: m-30, aggregate size: 20mm and down size, unit weight: beyond 3000 kg and upto and inclusive of 5000 kg, level: below plinth",
+      "feature_or_specifications": "application: manholes, catch-basins, pits, pipe sleepers, box-culverts, drains, trenches, leads: all, shapes: all, thickness: all, moulds: all, shuttering: all, centering: all, operation: vibrating, tamping, curing, chamfering, feature: providing lifting hooks, metal inserts, making holes, pockets, exclusion: only m.s.(mild steel) inserts to be measured & paid separately, operation: transporting to site, erecting, levelling, aligning, fixing in position with cement mortar 1:3 (cement : 3 coarse sand), operation: breaking bricks and/or concrete surfaces and making good the same, exclusion: cost of reinforcement, supply: all materials including cement supplied by the contractor",
+      "quantity": "5.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Manufacturing, transporting, supplying and erecting in position Reinforced Cement Concrete PRECAST ELEMENTS such as manholes, catch-basins, pits, pipe sleepers, box-culverts, drains, trenches, etc. of M-30 grade with 20 mm and down size graded crushed stone aggregates/ gravel, each unit beyond 5000 kg and upto and inclusive of 10000 kg. for all leads, levels below plinth, shapes and thickness including all moulds, shuttering and centering, vibrating, tamping, curing, chamfering wherever required, providing lifting hooks, metal inserts, making holes, pockets, (only M.S. inserts to be measured & paid separately) transporting to site, erecting, levelling, aligning and  fixing in position with cement mortar 1:3 (Cement : 3 Coarse Sand), breaking bricks and/ or concrete surfaces and making good the same etc. all complete (excluding the Cost of Reinforcement) and as directed. All materials including cement supplied by the contractor.",
+      "core_product_name": "reinforced cement concrete precast elements",
+      "acronymed_core_product_name": "rcc precast elements",
+      "size": "grade: m-30, aggregate size: 20 mm and down size, unit weight: beyond 5000 kg and upto and inclusive of 10000 kg, level: below plinth",
+      "feature_or_specifications": "application: manholes, catch-basins, pits, pipe sleepers, box-culverts, drains, trenches, leads: all, shapes: all, thickness: all, moulds: all, shuttering: all, centering: all, operation: vibrating, tamping, curing, chamfering, feature: providing lifting hooks, metal inserts, making holes, pockets, exclusion: only m.s.(mild steel) inserts to be measured & paid separately, operation: transporting to site, erecting, levelling, aligning, fixing in position with cement mortar 1:3 (cement : 3 coarse sand), operation: breaking bricks and/or concrete surfaces and making good the same, exclusion: cost of reinforcement, supply: all materials including cement supplied by the contractor",
+      "quantity": "5.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying and placing in position HIGH YEILD-STRENGTH DEFORMED STEEL BARS REINFORCEMENT of Grade Fe500D TMT conforming to IS:1786, for RCC work including transporting the Steel, straightening, cleaning, decoiling, cutting, bending to required shapes and lengths as per details, binding with 18 SWG black soft annealed binding wire at every intersection, supplying and placing with proper cover blocks, supports, chairs, overlaps, welding, spacers, fanhooks etc. for all heights and depths etc. all complete as directed. SUPPLY OF ALL MATERIAL IN CONTRACTOR'S SCOPE.",
+      "core_product_name": "high yield-strength deformed steel bars reinforcement",
+      "acronymed_core_product_name": "",
+      "size": "grade: fe500d",
+      "feature_or_specifications": "type: tmt(thermo-mechanically treated), standard: is 1786(indian standard 1786), application: rcc(reinforced cement concrete) work, operation: transporting, straightening, cleaning, decoiling, cutting, bending to required shapes and lengths, binding: 18 swg(standard wire gauge) black soft annealed binding wire at every intersection, feature: supplying and placing with proper cover blocks, supports, chairs, overlaps, welding, spacers, fanhooks, heights: all, depths: all, supply: all material in contractor's scope",
+      "quantity": "300.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Providing and fixing CENTERING AND SHUTTERING in foundations, footings,raft beams, slabs, pile caps, retaining walls, jambs, counter-forts, buttresses, trenches, equipment/machine foundations, pedestals, abutments, pipe sleepers, columns,  plinth beams, lintels, suspended slabs, beams, staircases, landings, steps, non- circular tunnels/bunkers/ silos/ shafts/ hoppers/liquid storage structures etc. for all depths below and upto & inclusive of plinth level including shuttering for single pour concreting, strutting, bracing, propping etc., keeping the same in position during concreting and removal of the same after specified period etc. for Straight/ Inclined Shuttering, keeping necessary provision for inserts, projecting dowels, anchor bolts or any other fixture etc. all complete and as specified and directed.",
+      "core_product_name": "centering and shuttering",
+      "acronymed_core_product_name": "",
+      "size": "application area: foundations, footings, raft beams, slabs, pile caps, retaining walls, jambs, counter-forts, buttresses, trenches, equipment/machine foundations, pedestals, abutments, pipe sleepers, columns, plinth beams, lintels, suspended slabs, beams, staircases, landings, steps, non-circular tunnels/bunkers/silos/shafts/hoppers/liquid storage structures, depth: below and up to & inclusive of plinth level",
+      "feature_or_specifications": "operation: shuttering for single pour concreting, strutting, bracing, propping, keeping in position during concreting, removal after specified period, shuttering type: straight/inclined, provision: inserts, projecting dowels, anchor bolts or any other fixture, completion: all complete and as specified and directed",
+      "quantity": "6000.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Providing and fixing CENTERING AND SHUTTERING in superstrctures in retaining walls, jambs, counter-forts, buttresses, equipment/ machine foundations, abutments,columns, lintels, suspended slabs, beams, staircases, landings, steps, non- circular tunnels/ bunkers/ silos/ shafts/ hoppers/ liquid storage structures etc. for all heights above plinth level including shuttering for single pour concreting, strutting, bracing, propping etc., keeping the same in position during concreting and removal of the same after specified period etc. for Straight/ Inclined Shuttering, keeping necessary provision for inserts, projecting dowels, anchor bolts or any other fixture etc. all complete and as specified and directed.",
+      "core_product_name": "centering and shuttering",
+      "acronymed_core_product_name": "",
+      "size": "application area: superstructures in retaining walls, jambs, counter-forts, buttresses, equipment/machine foundations, abutments, columns, lintels, suspended slabs, beams, staircases, landings, steps, non-circular tunnels/bunkers/silos/shafts/hoppers/liquid storage structures, height: above plinth level",
+      "feature_or_specifications": "operation: shuttering for single pour concreting, strutting, bracing, propping, keeping in position during concreting, removal after specified period, shuttering type: straight/inclined, provision: inserts, projecting dowels, anchor bolts or any other fixture, completion: all complete and as specified and directed",
+      "quantity": "1600.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Providing and fixing CENTERING AND SHUTTERING for CURVED SHUTTERING in foundations in all types for Columns, Beams, Slabs, Walls, etc. of Buildings for all depths below and upto & inclusive of plinth level, including strutting, bracing, propping etc., keeping the same in position during concreting and removal of the same after specified period etc. for Straight/ Inclined Shuttering, keeping necessary provision for inserts, projecting dowels, anchor bolts or any other fixture etc. all complete and as specified and directed.",
+      "core_product_name": "centering and shuttering",
+      "acronymed_core_product_name": "",
+      "size": "shuttering type: curved, application area: foundations for columns, beams, slabs, walls, etc. of buildings, depth: below and up to & inclusive of plinth level",
+      "feature_or_specifications": "operation: strutting, bracing, propping, keeping in position during concreting, removal after specified period, shuttering type: straight/inclined, provision: inserts, projecting dowels, anchor bolts or any other fixture, completion: all complete and as specified and directed",
+      "quantity": "800.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Providing and fixing CENTERING AND SHUTTERING for CURVED SHUTTERING in superstructures in all types for Columns, Beams, Slabs, Walls, etc. of Buildings for all heights above plinth level, including strutting, bracing, propping etc., keeping the same in position during concreting and removal of the same after specified period etc. for Straight/ Inclined Shuttering, keeping necessary provision for inserts, projecting dowels, anchor bolts or any other fixture etc. all complete and as specified and directed.",
+      "core_product_name": "centering and shuttering",
+      "acronymed_core_product_name": "",
+      "size": "shuttering type: curved, application area: superstructures for columns, beams, slabs, walls, etc. of buildings, height: above plinth level",
+      "feature_or_specifications": "operation: strutting, bracing, propping, keeping in position during concreting, removal after specified period, shuttering type: straight/inclined, provision: inserts, projecting dowels, anchor bolts or any other fixture, completion: all complete and as specified and directed",
+      "quantity": "1000.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying and sealing EXPANSION JOINTS 50 mm wide and 12mm deep at all locations and levels in Concrete Structures with approved two part liquid POLYSULPHIDE  SEALING COMPOUND as per IS:12118 including raking of joints etc. all complete as shown, specified and directed.",
+      "core_product_name": "expansion joints",
+      "acronymed_core_product_name": "",
+      "size": "width: 50 mm, depth: 12mm",
+      "feature_or_specifications": "application: all locations and levels in concrete structures, sealing compound: two part liquid polysulphide, standard: indian standard 12118, operation: raking of joints, completion: all complete as shown, specified and directed",
+      "quantity": "1.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Mechanical Rebar Couplers - Non-FIM items",
+      "core_product_name": "mechanical rebar couplers",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying and fixing MECHANICAL REBAR COUPLER of approved make for jointing high strength deformed steel reinforcement bars of Grade Fe500D (conforming to IS:1786) of dia. upto and inclusive of 25 mm  at all levels & locations including testing as per manufacturer's recommendations, adjusting etc. all complete as specified and directed.",
+      "core_product_name": "mechanical rebar coupler",
+      "acronymed_core_product_name": "",
+      "size": "bar diameter: up to and inclusive of 25 mm",
+      "feature_or_specifications": "make: approved, application: jointing high strength deformed steel reinforcement bars, grade: Fe500D, standard: indian standard 1786, testing: as per manufacturer's recommendations, operation: adjusting, completion: all complete as specified and directed",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying and fixing MECHANICAL REBAR COUPLER of approved make for jointing high strength deformed steel reinforcement bars of Grade Fe500D (conforming to IS:1786) of dia. above 25 mm  at all levels & locations including testing as per manufacturer's recommendations, adjusting etc. all complete as specified and directed.",
+      "core_product_name": "mechanical rebar coupler",
+      "acronymed_core_product_name": "",
+      "size": "bar diameter: above 25 mm",
+      "feature_or_specifications": "make: approved, application: jointing high strength deformed steel reinforcement bars, grade: Fe500D, standard: indian standard 1786, testing: as per manufacturer's recommendations, operation: adjusting, completion: all complete as specified and directed",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Fixing Re-bars in already cast concrete - Non FIM Items",
+      "core_product_name": "re-bars fixing",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: already cast concrete",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Providing and laying Leak Proof Reinforced Cement Concrete of GRADE M-30 (minimum Cement content shall be as per EIL Specifications) with 20 mm and down size graded crushed stone aggregates/ gravel at all positions and in any shape and thickness, in SUB-STRUCTURE, leaving pockets, recesses, vibrating, tamping, curing, testing (for leak-proofness) and rendering (if required to give smooth and even surface) in foundations, walls , beams, buttresses, columns, piers, slabs, tunnels, basements, storage bins, reservoirs etc. including cement wash (if no other surface application is specified) but excluding the cost of Reinforcement, Shuttering and specified admixtures, all complete as specified and directed. ALL MATERIALS INCLUDING CEMENT SUPPLIED BY CONTRACTOR.",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "rcc",
+      "size": "aggregate size: 20 mm and down",
+      "feature_or_specifications": "grade: m-30, cement content: minimum as per eil specifications, aggregate: graded crushed stone aggregates/gravel, application: all positions, shape: any, thickness: any, sub-structure: yes, operations: leaving pockets, recesses, vibrating, tamping, curing, testing (for leak-proofness), rendering (if required to give smooth and even surface), locations: foundations, walls, beams, buttresses, columns, piers, slabs, tunnels, basements, storage bins, reservoirs, cement wash: included (if no other surface application is specified), exclusion: cost of reinforcement, shuttering and specified admixtures, completion: all complete as specified and directed, supply: all materials including cement supplied by contractor",
+      "quantity": "15.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Providing and laying Leak Proof Reinforced Cement Concrete of GRADE M-30 (minimum Cement content shall be as per EIL Specifications) with 20 mm and down size graded crushed stone aggregates/ gravel at all positions and in any shape and thickness, in SUPER-STRUCTURE AT ALL HEIGHTS UPTO & INCLUSIVE OF 20 m ABOVE PLINTH LEVEL, leaving pockets, recesses, vibrating, tamping, curing, testing (for leak- proofness) and rendering (if required to give smooth and even surface) in foundations, walls, beams, buttresses, columns, piers, slabs, tunnels, trenches, basements, storage bins, reservoirs etc. (Excluding isolated/ overhead water tanks supported on staging) including cement wash (if no other surface application is specified) but excluding the cost of Reinforcement, Shuttering and specified admixtures, all complete as specified and directed. ALL MATERIALS INCLUDING CEMENT SUPPLIED BY CONTRACTOR.",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "rcc",
+      "size": "aggregate size: 20 mm and down, height: up to and inclusive of 20 m above plinth level",
+      "feature_or_specifications": "grade: m-30, cement content: minimum as per eil specifications, aggregate: graded crushed stone aggregates/gravel, application: all positions, shape: any, thickness: any, super-structure: yes, operations: leaving pockets, recesses, vibrating, tamping, curing, testing (for leak-proofness), rendering (if required to give smooth and even surface), locations: foundations, walls, beams, buttresses, columns, piers, slabs, tunnels, trenches, basements, storage bins, reservoirs, exclusion: isolated/overhead water tanks supported on staging, cement wash: included (if no other surface application is specified), exclusion: cost of reinforcement, shuttering and specified admixtures, completion: all complete as specified and directed, supply: all materials including cement supplied by contractor",
+      "quantity": "2.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying and mixing of approved brand of integral WATER PROOFING COMPOUND in cement concrete, cement mortar etc. as per manufacturer's specifications or 1% by weight of cement (whichever is minimum), to make it leak proof/ water tight etc. all complete as specified and directed.",
+      "core_product_name": "water proofing compound",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "brand: approved, application: cement concrete, cement mortar, dosage: as per manufacturer's specifications or 1% by weight of cement (whichever is minimum), feature: leak proof/water tight, completion: all complete as specified and directed",
+      "quantity": "40.0",
+      "unit": "kg"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying and fixing in position 230mm wide x 5mm thick approved PVC WATER STOPS as per manufacturer's specifications in R.C.C. Structures including cutting, fixing, jointing by vulcanising etc. all complete as shown specified and directed.",
+      "core_product_name": "pvc water stops",
+      "acronymed_core_product_name": "",
+      "size": "width: 230 mm, thickness: 5 mm",
+      "feature_or_specifications": "material: pvc, approval: approved, application: rcc structures, operation: cutting, fixing, jointing by vulcanising, completion: all complete as shown specified and directed, specification: as per manufacturer's specifications",
+      "quantity": "40.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying, Fabricating at CONTRACTOR's shop outside the plant boundary, transporting fabricated items to site, unloading, storing, erecting in position and testing/ examining , bolted and/ or welded STRUCTURAL STEEL WORKS of Grade E250A / E250BR / E250B0 (conforming to IS:2062  at all locations and levels UPTO & INCLUSIVE OF 20 m ABOVE HPP/ FGL including all builtup sections/ compound  sections made out of rolled sections and/or plates/ bent plates in all types of structural frameworks, floor beams, stairs, or any other structural items or accessories to support equipments, piping, conveyor galleries, towers, masts, etc., but excluding silos, bunkers, hoppers, etc., cutting to required size, straightening/ bending if required, edge  preparation, cleaning, preheating, bolting/ welding of joints,  (including sealing the joints of box sections with continuous welding and plugging any open ends & holes of box sections), finishing edges by grinding, fixing in line and  level with temporary staging & bracing and removal of the same after erection, grouting with Ordinary Grout or premix free flow Nonshrink Grout as specified, including preparation and submission of detailed fabrication drawings, preparing the surface for painting (SSPC-SP-10) and applying pre-erection/ shop primer (1 coat of F-9 @ 65-75 micron DFT) as per EIL Specification No. 6-79-0020 (or as per Job Specification, wherever applicable) after fabrication etc.. all complete. SUPPLY OF ALL MATERIAL IN CONTRACTOR'S SCOPE.",
+      "core_product_name": "structural steel works",
+      "acronymed_core_product_name": "",
+      "size": "location and level: upto & inclusive of 20 m above hpp/ fgl",
+      "feature_or_specifications": "grade: e250a / e250br / e250b0, standard: is:2062 (indian standard 2062), section: builtup/compound/rolled/plates/bent plates, application: all types of structural frameworks, floor beams, stairs, or any other structural items or accessories to support equipments, piping, conveyor galleries, towers, masts, etc., exclusion: silos, bunkers, hoppers, etc., operation: cutting to required size, straightening/bending, edge preparation, cleaning, preheating, bolting/welding of joints, sealing joints of box sections with continuous welding, plugging open ends & holes of box sections, finishing edges by grinding, fixing in line and level with temporary staging & bracing and removal after erection, grouting: ordinary grout or premix free flow nonshrink grout, drawing: preparation and submission of detailed fabrication drawings, surface preparation: sspc-sp-10, painting: pre-erection/shop primer (1 coat of f-9 @ 65-75 micron dft), specification: eil specification no. 6-79-0020 or as per job specification, supply: all material in contractor's scope",
+      "quantity": "2.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying, Fabricating at CONTRACTOR's shop outside the plant boundary, transporting fabricated items to site, unloading, storing, erecting in position and testing/ examining , bolted and/ or welded STRUCTURAL STEEL WORKS of Grade E350BR / E350B0 (conforming to IS:2062  at all locations and levels UPTO & INCLUSIVE OF 20 m ABOVE HPP/ FGL including all builtup sections/ compound sections made out of rolled sections and/ or plates/ bent plates in all types of structural frameworks, floor beams, stairs, or any other structural items or accessories to support  equipments, piping, conveyor galleries, towers, masts, etc., but excluding silos, bunkers, hoppers, etc., cutting to required size, straightening/ bending if required, edge  preparation, cleaning, preheating, bolting/ welding of joints, (including sealing the joints of box sections with continuous welding and plugging any open ends & holes of box sections), finishing edges by grinding, fixing in line and level with temporary staging & bracing and removal of the same after erection, grouting with Ordinary Grout or premix free flow Nonshrink Grout as specified, including  preparation and submission of detailed fabrication drawings, preparing the surface for painting (SSPC-SP-10) and applying pre-erection/ shop primer (1 coat of F-9 @ 65-75 micron DFT) as per EIL Specification No. 6-79-0020 (or as per Job Specification, wherever applicable) after fabrication etc.. all complete. SUPPLY OF ALL MATERIAL IN CONTRACTOR'S SCOPE.",
+      "core_product_name": "structural steel works",
+      "acronymed_core_product_name": "",
+      "size": "location and level: upto & inclusive of 20 m above hpp/ fgl",
+      "feature_or_specifications": "grade: e350br / e350b0, standard: is:2062 (indian standard 2062), section: builtup/compound/rolled/plates/bent plates, application: all types of structural frameworks, floor beams, stairs, or any other structural items or accessories to support equipments, piping, conveyor galleries, towers, masts, etc., exclusion: silos, bunkers, hoppers, etc., operation: cutting to required size, straightening/bending, edge preparation, cleaning, preheating, bolting/welding of joints, sealing joints of box sections with continuous welding, plugging open ends & holes of box sections, finishing edges by grinding, fixing in line and level with temporary staging & bracing and removal after erection, grouting: ordinary grout or premix free flow nonshrink grout, drawing: preparation and submission of detailed fabrication drawings, surface preparation: sspc-sp-10, painting: pre-erection/shop primer (1 coat of f-9 @ 65-75 micron dft), specification: eil specification no. 6-79-0020 or as per job specification, supply: all material in contractor's scope",
+      "quantity": "3.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying and applying COATING (Post-erection/ Field) of approved quality and shade as per Sl. No. 9.2 of Table 9.0 of EIL Specification No. 6-79-0020 (or as per Job Specifications, wherever applicable) over the coat of shop primer already applied, including storage, surface preparation, degreasing, cleaning, drying, providing necessary arrangement for access, testing etc. including touching up of shop primer coat as per Sl. No. 7.2.1 of Table 7.2 of EIL Specification No. 6-79-0020 (or as per Job Specifications, wherever applicable), for steel structures (excluding ladders, spiral stairways & hand rails) at all location & levels, all complete as specified, for OFFSITE (INLAND) areas considering environment classification as INDUSTRIAL. SUPPLY OF ALL MATERIAL IN CONTRACTOR'S SCOPE.(Unit rate based on Structural steel weight).",
+      "core_product_name": "coating",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: post-erection/field, quality: approved, shade: as per sl. no. 9.2 of table 9.0 of eil specification no. 6-79-0020 or as per job specifications, surface: over the coat of shop primer already applied, operation: storage, surface preparation, degreasing, cleaning, drying, arrangement for access, testing, touching up of shop primer coat as per sl. no. 7.2.1 of table 7.2 of eil specification no. 6-79-0020 or as per job specifications, for: steel structures (excluding ladders, spiral stairways & hand rails), location: all location & levels, area: offsite (inland), environment classification: industrial, supply: all material in contractor's scope, unit rate: based on structural steel weight",
+      "quantity": "3.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying and applying COATING (Post-erection/ Field) of approved quality and shade as per Sl. No. 8.1 of Table 8.0 of EIL Specification No. 6-79-0020 (or as per Job Specifications, wherever applicable) for painting over the coat of shop primer & galvanisation already applied, including storage, surface preparation, degreasing, cleaning, drying, providing necessary arrangement for access, testing etc. including touching up of shop primer coat, for LADDERS, SPIRAL STAIRWAYS & HAND RAILS at all location & levels, all complete as specified. SUPPLY OF ALL MATERIAL IN CONTRACTOR'S SCOPE. (Unit rate based on weight of steel).",
+      "core_product_name": "coating",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: post-erection/field, quality: approved, shade: as per sl. no. 8.1 of table 8.0 of eil specification no. 6-79-0020 or as per job specifications, painting over: shop primer & galvanisation already applied, operation: storage, surface preparation, degreasing, cleaning, drying, arrangement for access, testing, touching up of shop primer coat, for: ladders, spiral stairways & hand rails, location: all location & levels, supply: all material in contractor's scope, unit rate: based on weight of steel",
+      "quantity": "50.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying and applying FIELD PAINT SYSTEM of approved quality and shade as per Sl. no. 10.2 of Table 10.0 of EIL Specification No. 6-79-0020 (or as per Job Specifications, wherever applicable) over the coat of self priming type surface tolerant high build epoxy coating F-8, 100micron DFT, over the damaged area requiring repair/rectification, including storage, surface preparation as per ST.2, degreasing, cleaning, drying, providing necessary arrengement for access, testing etc., for steel structures (excluding ladders, spiral stairways & handrails) at all location & levels, all complete as specified, in OFFSITE (INLAND) areas considering environmental classification as INDUSTRIAL. SUPPLY OF ALL MATERIAL IN CONTRACTOR'S SCOPE.",
+      "core_product_name": "field paint system",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "quality: approved, shade: as per sl. no. 10.2 of table 10.0 of eil specification no. 6-79-0020 or as per job specifications, surface: over the coat of self priming type surface tolerant high build epoxy coating f-8, 100micron dft, application: over the damaged area requiring repair/rectification, operation: storage, surface preparation as per st.2, degreasing, cleaning, drying, arrangement for access, testing, for: steel structures (excluding ladders, spiral stairways & handrails), location: all location & levels, area: offsite (inland), environment classification: industrial, supply: all material in contractor's scope",
+      "quantity": "2.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying and applying COATING (Post-erection/ Field) of approved quality and shade as per Sl. no. 8.1 of Table 8.0 of EIL Specification No. 6-79-0020 (or as per Job Specifications, wherever applicable) over the coat of self priming type surface tolerant high build epoxy coating F-8, 100micron DFT, over the damaged area requiring repair/rectification, including storage, surface preparation as per ST.2, degreasing, cleaning, drying, providing necessary arrengement for access, testing etc. for HANDRAIL, LADDERS & SPIRAL STAIRWAYS at all location & levels, all complete as specified. SUPPLY OF ALL MATERIAL IN CONTRACTOR'S SCOPE. (Unit rate based on surface area in Sqm)",
+      "core_product_name": "coating",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: post-erection/field, quality: approved, shade: as per sl. no. 8.1 of table 8.0 of eil specification no. 6-79-0020 or as per job specifications, surface: over the coat of self priming type surface tolerant high build epoxy coating f-8, 100micron dft, application: over the damaged area requiring repair/rectification, operation: storage, surface preparation as per st.2, degreasing, cleaning, drying, arrangement for access, testing, for: handrail, ladders & spiral stairways, location: all location & levels, supply: all material in contractor's scope, unit rate: based on surface area in sqm",
+      "quantity": "2.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying, transporting, storing, fabricating, erecting in position & testing/examining at all locations and levels, bolted and/or welded STRUCTURAL STEEL WORKS of all types using \"COLD FORMED (RECTANGULAR/SQUARE) HOLLOW SECTIONS conforming to IS: 4923, Grade Yst-310 of approved make\" in all type of trusses, purlins, girders, side rails, columns, runners, beams, ties, portals, framework,bracing, brackets, sagrods etc. including all handling straightening/bending if required, cutting to required size & shape, edge preparation, welding & bolting of joints, providing and fixing end caps and plugging holes, fixing in line and level with necessary temporary staging and removal of the same after erection, grouting with Ordinary/ premix free flow Non-Shrink Grout as specified, preparation and submission of detailed  fabrication drawings, preparing the exposed surfaces for painting (SSPC-SP-10) and applying pre-erection/ shop primer (1 coat of F-9 @ 65-75 micron DFT) as per EIL Specification No. 6-79-0020 (or as per Job Specification, wherever applicable) etc. all complete as specified and directed (SUPPLY OF ALL MATERIALS INCLUDING PLATES IN CONTRACTOR'S SCOPE).",
+      "core_product_name": "structural steel works",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "section: cold formed (rectangular/square) hollow sections, standard: is:4923 (indian standard 4923), grade: yst-310, make: approved make, application: trusses, purlins, girders, side rails, columns, runners, beams, ties, portals, framework, bracing, brackets, sagrods, operation: handling, straightening/bending, cutting to required size & shape, edge preparation, welding & bolting of joints, end caps: providing and fixing, holes: plugging, staging: temporary staging and removal after erection, grouting: ordinary/premix free flow non-shrink grout, drawing: preparation and submission of detailed fabrication drawings, surface preparation: sspc-sp-10, painting: pre-erection/shop primer (1 coat of f-9 @ 65-75 micron dft) as per eil specification no. 6-79-0020 or as per job specification, supply: all materials including plates in contractor's scope",
+      "quantity": "0.5",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying, fabricating, fixing and keeping in position at all levels and locations THREADED ANCHOR BOLTS of all diameters and nomenclature including nuts, washers, anchor plates, pipe sleeves etc. in foundations, columns, pedestals, slabs, beams, walls etc. or any other place as directed including handling & transporting, straightening if required, turning from relevant size M.S. rounds to required diameter, threading, welding, providing necessary templates and auxiliary dummy structures, if any, necessary tying and welding with reinforcement, adjustment of shuttering & reinforcement/any other fixture, greasing exposed metal surfaces, covering bolts and packing the sleeves with jute cloth etc. all complete as specified and directed.(SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE).",
+      "core_product_name": "threaded anchor bolts",
+      "acronymed_core_product_name": "",
+      "size": "diameter: all diameters",
+      "feature_or_specifications": "accessories: nuts, washers, anchor plates, pipe sleeves, application: foundations, columns, pedestals, slabs, beams, walls, operation: handling & transporting, straightening, turning from relevant size m.s.(mild steel) rounds to required diameter, threading, welding, templates: providing necessary templates and auxiliary dummy structures, tying and welding with reinforcement, adjustment of shuttering & reinforcement/any other fixture, greasing: greasing exposed metal surfaces, covering bolts and packing the sleeves with jute cloth, supply: all materials in contractor's scope",
+      "quantity": "6.5",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying, transporting, storing, fabricating and fixing in position M.S. METAL INSERT (with lugs) of any shape made out of flats, plates, rolled sections, pipes etc. providing necessary templates, staging, cutting, straightening, if required, bolting, welding as required and embedding in position on both Plain and Reinforced Cement concrete members inclusive of adjusting shuttering & reinforcement/ any other fixture, welding where necessary, tying and holding to correct level, line and position, any auxiliary dummy structures to support the heavy inserts, painting exposed surfaces with a coat of primer as per EIL Specification No. 6-79-0020 (or as per Job Specification wherever applicable), etc. all complete for all depths and heights as specified and directed. (SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE).",
+      "core_product_name": "metal insert",
+      "acronymed_core_product_name": "",
+      "size": "shape: any shape",
+      "feature_or_specifications": "material: m.s.(mild steel), accessory: lugs, made out of: flats, plates, rolled sections, pipes, templates: providing necessary templates, staging: providing necessary staging, operation: cutting, straightening, bolting, welding, embedding in position, application: plain and reinforced cement concrete members, adjustment: adjusting shuttering & reinforcement/any other fixture, auxiliary: auxiliary dummy structures to support heavy inserts, painting: coat of primer as per eil specification no. 6-79-0020 or as per job specification, supply: all materials in contractor's scope",
+      "quantity": "0.5",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying, fabricating and erecting in position at all levels and locations bolted, screwed and/or welded M.S. CHEQUERED PLATES of any thickness in walkways, platforms, stair treads, any other place as directed etc. including cutting to required size, shape, making holes, notches, openings of required size, nosing, straightening if required, making the edges smooth, removing the burrs, fixing, welding, preparation and submission of fabrication drawings and preparing the surfaces for painting and applying shop primer as per EIL Specification No. 6-79-0020 (or Job Specification, wherever applicable) after fabrication etc. all complete as specified and directed. (SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE).",
+      "core_product_name": "chequered plates",
+      "acronymed_core_product_name": "m.s. chequered plates",
+      "size": "thickness: any thickness",
+      "feature_or_specifications": "material: m.s.(mild steel), operation: bolted, screwed and/or welded, application: walkways, platforms, stair treads, any other place as directed, operation: cutting to required size, shape, making holes, notches, openings, nosing, straightening, making the edges smooth, removing the burrs, fixing, welding, fabrication drawings: preparation and submission, surface preparation: preparing the surfaces for painting, shop primer: applying shop primer as per eil specification no. 6-79-0020 (or job specification, wherever applicable), supply: all materials in contractor's scope",
+      "quantity": "0.5",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying, fabricating and erecting in position at all levels and locations ELECTROFORGED GALVANISED GRATING (purchased from approved manufacturer by the Contractor) conforming to EIL Standard No. 7-68-0697 (in walkways, platforms, stair treads etc.) and EIL Standard No. 7-65-0206 (in catch basins, drains, etc.) including cutting to required size, shape, making holes, notches, openings of required size, nosing, straightening if required, making the edges smooth, removing the burrs, fixing with manufacturer's supplied galvanised clamps, preparation and submission of fabrication drawings, all complete as specified and directed (SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE).",
+      "core_product_name": "galvanised grating",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: electroforged, material: galvanised, manufacturer: purchased from approved manufacturer by the contractor, standard: eil standard no. 7-68-0697 (walkways, platforms, stair treads), standard: eil standard no. 7-65-0206 (catch basins, drains), operation: cutting to required size, shape, making holes, notches, openings, nosing, straightening, making the edges smooth, removing the burrs, fixing with manufacturer's supplied galvanised clamps, fabrication drawings: preparation and submission, supply: all materials in contractor's scope",
+      "quantity": "0.2",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Making openings in galvanized grating for pipes / ducts etc., at all levels and at at all locations by cutting the existing grating and providing 50x6 galvanised flat as toe protection for the openings by welding and application of galvanized paint as per EIL Standard No. 7-68-0697, all complete. Payment shall be made as per number of openings.",
+      "core_product_name": "openings in galvanized grating",
+      "acronymed_core_product_name": "",
+      "size": "toe protection flat: 50x6",
+      "feature_or_specifications": "operation: making openings by cutting the existing grating, application: pipes or ducts, protection: providing 50x6 galvanised flat as toe protection, operation: welding, painting: application of galvanized paint as per eil standard no. 7-68-0697, payment: as per number of openings",
+      "quantity": "2.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying, fabricating, fixing and keeping in position M.S. RUNGS in R.C.C. works at all depths and heights including handling, transporting the steel to site workshop and  site of work, straightening, if required, cutting, bending to shape, necessary tying and welding with reinforcement, adjustment of shuttering, cleaning, surface preparation, shop primer as per EIL Spec. 6-79-0020 (or Job Specification, wherever applicable)  and two coats of anticorrosive paint of approved quality on the exposed portion of rungs etc. all complete as specified and directed (SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE).",
+      "core_product_name": "rungs",
+      "acronymed_core_product_name": "m.s. rungs",
+      "size": "",
+      "feature_or_specifications": "material: m.s.(mild steel), application: r.c.c. works at all depths and heights, operation: handling, transporting, straightening, cutting, bending, tying, welding with reinforcement, adjustment of shuttering, cleaning, surface preparation, shop primer: as per eil spec. 6-79-0020 (or job specification, wherever applicable), painting: two coats of anticorrosive paint of approved quality on exposed portion, supply: all materials in contractor's scope",
+      "quantity": "120.0",
+      "unit": "kg"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying, fabricating and fixing in position at all locations 1000mm high INCLINED HAND RAILING (for staircases) consisting of top rail, mid rail and vertical posts (Maximum spacing 1500mm c/c) with 32mm nominal diameter medium grade M.S. Tubes conforming to IS:1239 including straightening if required, cutting, bending, welding, bolting, grouting with ordinary grout, cleaning, surface preparation, hot-dip galvanising (80-85 micron as per IS:4759, IS:2629, IS: 4736, IS:2633), shop primer (1 coat of P6 of 40 micron) as per Sl. No. 8.1 of Table 8.0 of EIL SPEC. 6-79-0020 (or as per Job Specification, wherever applicable), preparation and submission of fabrication drawings etc. all complete as specified, shown and directed. (SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE). (Complete handrail work shall be measured as length of top rail only and not length of each element fixed).",
+      "core_product_name": "hand railing",
+      "acronymed_core_product_name": "",
+      "size": "height: 1000mm, tube diameter: 32mm nominal",
+      "feature_or_specifications": "type: inclined, application: staircases, components: top rail, mid rail, vertical posts, spacing: maximum 1500mm c/c, material: medium grade m.s. tubes, standard: is:1239, operation: straightening, cutting, bending, welding, bolting, grouting with ordinary grout, cleaning, surface preparation, galvanising: hot-dip galvanising (80-85 micron as per is:4759, is:2629, is:4736, is:2633), shop primer: 1 coat of p6 of 40 micron as per sl. no. 8.1 of table 8.0 of eil spec. 6-79-0020 (or as per job specification, wherever applicable), fabrication drawings: preparation and submission, supply: all materials in contractor's scope, measurement: length of top rail only",
+      "quantity": "10.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying, fabricating and fixing in position (to already erected vertical posts for Hand Railing) at all locations ONLY TOP RAIL 32mm nominal diameter medium grade M.S. Tubes conforming to IS:1239 including straightening if required, cutting, welding, bending, surface preparation, shop primer as per EIL SPEC. 6-79-0020 (or as per Job Specification, wherever applicable), preparation and submission of fabrication drawings etc. all complete as specified, shown and directed. (SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE).",
+      "core_product_name": "top rail",
+      "acronymed_core_product_name": "",
+      "size": "tube diameter: 32mm nominal",
+      "feature_or_specifications": "application: to already erected vertical posts for hand railing, material: medium grade m.s. tubes, standard: is:1239, operation: straightening, cutting, welding, bending, surface preparation, shop primer: as per eil spec. 6-79-0020 (or as per job specification, wherever applicable), fabrication drawings: preparation and submission, supply: all materials in contractor's scope",
+      "quantity": "5.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying, fabricating and fixing in position at all locations 500mm HIGH INCLINED HAND RAILING (for stair cases) consisting of top rail & vertical posts (maximum spacing 1500mm c/c) with 32mm nominal diameter medium grade M.S. Tubes conforming to IS:1239 including straightening if required, cutting, bending, welding, surface preparation, hot-dip galvanising (80-85 micron as per IS:4759, IS:2629, IS: 4736, IS:2633), shop primer (1 coat of P6 of 40 micron) as per Sl. No. 8.1 of Table 8.0 of EIL SPEC. 6-79-0020 (or as per Job Specification, wherever applicable), preparation and submission of fabrication drawings etc. all complete as specified, shown and directed. (SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE). (Complete handrail work shall be measured as length of top rail only and not length of each element fixed).",
+      "core_product_name": "hand railing",
+      "acronymed_core_product_name": "",
+      "size": "height: 500mm, tube diameter: 32mm nominal",
+      "feature_or_specifications": "type: inclined, application: stair cases, components: top rail, vertical posts, spacing: maximum 1500mm c/c, material: medium grade ms(mild steel) tubes, standard: is:1239, operation: straightening, cutting, bending, welding, surface preparation, galvanising: hot-dip galvanising (80-85 micron as per is:4759, is:2629, is:4736, is:2633), shop primer: 1 coat of p6 of 40 micron as per sl. no. 8.1 of table 8.0 of eil spec. 6-79-0020 (or as per job specification, wherever applicable), fabrication drawings: preparation and submission, supply: all materials in contractor's scope, measurement: length of top rail only",
+      "quantity": "5.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying, fabricating and fixing in position at all locations 500mm high HORIZONTAL HAND RAILING (for platforms, walkways, etc. or any other location as directed) consisting of top rail, mid rail and vertical posts (Maximum spacing 1500mm c/c) with 32mm nominal diameter medium grade MS Tubes conforming to IS:1239 and 100x5 MS Toe Plate confirming to IS:2062 (Grade A/B), including straightening if required, cutting, bending, welding, bolting, grouting with ordinary grout, cleaning, surface preparation, hot-dip galvanising (80-85 micron as per IS:4759, IS:2629, IS: 4736, IS:2633), shop primer (1 coat of P6 of 40 micron) as per Sl. No. 8.1 of Table 8.0 of EIL SPEC. 6-79-0020 (or as per Job Specification, wherever applicable), preparation and submission of fabrication drawings etc. all complete as specified, shown and directed. (SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE). (Complete handrail work shall be measured as length of top rail only and not length of each element fixed).",
+      "core_product_name": "hand railing",
+      "acronymed_core_product_name": "",
+      "size": "height: 500mm, tube diameter: 32mm nominal, toe plate: 100x5",
+      "feature_or_specifications": "type: horizontal, application: platforms, walkways, any other location as directed, components: top rail, mid rail, vertical posts, spacing: maximum 1500mm c/c, material: medium grade ms(mild steel) tubes, toe plate: ms(mild steel) toe plate, standard: is:1239 (tubes), standard: is:2062 (toe plate, grade a/b), operation: straightening, cutting, bending, welding, bolting, grouting with ordinary grout, cleaning, surface preparation, galvanising: hot-dip galvanising (80-85 micron as per is:4759, is:2629, is:4736, is:2633), shop primer: 1 coat of p6 of 40 micron as per sl. no. 8.1 of table 8.0 of eil spec. 6-79-0020 (or as per job specification, wherever applicable), fabrication drawings: preparation and submission, supply: all materials in contractor's scope, measurement: length of top rail only",
+      "quantity": "5.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying, handling, transporting to site of work and fixing approved MECHANICAL ANCHOR FASTENERS M.S. bolts of Grade 5.8 or more, GALVANIZED with minimum thickness of 5 microns (approved for use in cracked concrete), of 12mm dia at specified positions on concrete floors, roofs, beams (sides and bottom), walls, columns etc. according to manufacturer's specifications including all accessories like nuts, washers etc. of required size, testing, necessary scaffolding, drilling of the holes in concrete surface with electric drill, cleaning of holes with air blowout & wire-brush, and making good any damage done to the structure etc. all complete for all heights, depths and locations as specified and directed.",
+      "core_product_name": "mechanical anchor fasteners",
+      "acronymed_core_product_name": "",
+      "size": "bolt diameter: 12mm",
+      "feature_or_specifications": "bolt material: ms(mild steel), bolt grade: 5.8 or more, finish: galvanized with minimum thickness of 5 microns, approval: approved for use in cracked concrete, application: concrete floors, roofs, beams (sides and bottom), walls, columns, accessories: nuts, washers etc. of required size, operation: testing, necessary scaffolding, drilling of holes with electric drill, cleaning of holes with air blowout & wire-brush, repair: making good any damage done to the structure, location: all heights, depths and locations, specification: according to manufacturer's specifications",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying, handling, transporting to site of work and fixing approved MECHANICAL ANCHOR FASTENERS M.S. bolts of Grade 5.8 or more, GALVANIZED with minimum thickness of 5 microns (approved for use in cracked concrete), of 16mm dia at specified positions on concrete floors, roofs, beams (sides and bottom), walls, columns etc. according to manufacturer's specifications including all accessories like nuts, washers etc. of required size, testing, necessary scaffolding, drilling of the holes in concrete surface with electric drill, cleaning of holes with air blowout & wire-brush, and making good any damage done to the structure etc. all complete for all heights, depths and locations as specified and directed.",
+      "core_product_name": "mechanical anchor fasteners",
+      "acronymed_core_product_name": "",
+      "size": "bolt diameter: 16mm",
+      "feature_or_specifications": "bolt material: ms(mild steel), bolt grade: 5.8 or more, finish: galvanized with minimum thickness of 5 microns, approval: approved for use in cracked concrete, application: concrete floors, roofs, beams (sides and bottom), walls, columns, accessories: nuts, washers etc. of required size, operation: testing, necessary scaffolding, drilling of holes with electric drill, cleaning of holes with air blowout & wire-brush, repair: making good any damage done to the structure, location: all heights, depths and locations, specification: according to manufacturer's specifications",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying, handling, transporting to site of work and fixing approved MECHANICAL ANCHOR FASTENERS M.S. bolts of Grade 5.8 or more,  GALVANIZED with minimum thickness of 5 microns (approved for use in cracked concrete), of 20mm dia at specified positions on concrete floors, roofs, beams (sides and bottom), walls, columns etc. according to manufacturer's specifications including all accessories like nuts, washers etc. of required size, testing, necessary scaffolding, drilling of the holes in concrete surface with electric drill, cleaning of holes with air blowout & wire-brush, and making good any damage done to the structure etc. all complete for all heights, depths and locations as specified and directed.",
+      "core_product_name": "mechanical anchor fasteners",
+      "acronymed_core_product_name": "",
+      "size": "bolt diameter: 20mm",
+      "feature_or_specifications": "bolt material: ms(mild steel), bolt grade: 5.8 or more, finish: galvanized with minimum thickness of 5 microns, approval: approved for use in cracked concrete, application: concrete floors, roofs, beams (sides and bottom), walls, columns, accessories: nuts, washers etc. of required size, operation: testing, necessary scaffolding, drilling of holes with electric drill, cleaning of holes with air blowout & wire-brush, repair: making good any damage done to the structure, location: all heights, depths and locations, specification: according to manufacturer's specifications",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > EARTH WORK (REFER SPECIFICATION NO. 6-68-0003)",
+      "full_product_description": "Supplying, handling, transporting to site of work and fixing approved CHEMICAL ANCHOR FASTENERS consisting of M.S. threaded rod of Grade 5.8, GALVANIZED with minimum thickness of 5 microns and chemical (approved for use in cracked concrete), packed in flexible chemical foil or dual foil type, to be used  with the help of dispenser, of 20mm dia. at specified positions on concrete floors, roofs, beams (sides and bottom), walls, columns etc. according to manufacturer's specifications including all accessories like nuts, washers etc. of required size., testing, necessary scaffolding, drilling of the holes in concrete surface with electric drill, cleaning of holes with air blowout & wire-brush and making good any damage done to the structure etc. all complete for all heights, depths and locations as specified and directed.",
+      "core_product_name": "chemical anchor fasteners",
+      "acronymed_core_product_name": "",
+      "size": "threaded rod diameter: 20mm",
+      "feature_or_specifications": "threaded rod material: ms(mild steel), threaded rod grade: 5.8, finish: galvanized with minimum thickness of 5 microns, chemical: included (approved for use in cracked concrete), packing: flexible chemical foil or dual foil type, dispenser: to be used with the help of dispenser, application: concrete floors, roofs, beams (sides and bottom), walls, columns, accessories: nuts, washers etc. of required size, operation: testing, necessary scaffolding, drilling of holes with electric drill, cleaning of holes with air blowout & wire-brush, repair: making good any damage done to the structure, location: all heights, depths and locations, specification: according to manufacturer's specifications",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Providing and laying BRICK MASONRY WITH BRICKS OF CLASS 5.0 in cement mortar 1:6 (1 Cement : 6 Sand) in one or more brick thickness and in any shape (excluding circular/curved brick masonry) at all depths below plinth level including the cost of materials, labour, scaffolding/ staging, sampling & testing, soaking of bricks, cutting and laying of bricks, providing recesses, making openings of any shape & size, finishing the joints flush below ground level and raking out the joints above ground level, sealing the gap between masonry and soffit of beam/slab, embedding the fittings & fixtures, curing, etc. all complete as per specifications. ALL MATERIALS INCLUDING CEMENT SUPPLIED BY THE CONTRACTOR.",
+      "core_product_name": "brick masonry",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "brick class: 5.0, mortar mix: 1:6 (1 cement : 6 sand), thickness: one or more brick, shape: any (excluding circular/curved), depth: all depths below plinth level, includes: cost of materials, labour, scaffolding/staging, sampling & testing, soaking of bricks, cutting and laying of bricks, providing recesses, making openings of any shape & size, finishing the joints flush below ground level, raking out the joints above ground level, sealing the gap between masonry and soffit of beam/slab, embedding the fittings & fixtures, curing, specification: all complete as per specifications, supply: all materials including cement supplied by the contractor",
+      "quantity": "5.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Providing and laying BRICK MASONRY WITH BRICKS OF CLASS 5.0 in cement mortar 1:6 (1 Cement : 6 Sand) in one or more brick thickness and in any shape (excluding circular/curved brick masonry) at all heights above plinth level including the cost of materials, labour, scaffolding/ staging, sampling & testing, soaking of bricks, cutting and laying of bricks, providing recesses, making openings of any shape & size, finishing the joints flush below ground level and raking out the joints above ground level, sealing the gap between masonry and soffit of beam/slab, embedding the fittings & fixtures, curing, etc. all complete as per specifications. ALL MATERIALS INCLUDING CEMENT SUPPLIED BY THE CONTRACTOR.",
+      "core_product_name": "brick masonry",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "brick class: 5.0, mortar mix: 1:6 (1 cement : 6 sand), thickness: one or more brick, shape: any (excluding circular/curved), height: all heights above plinth level, includes: cost of materials, labour, scaffolding/staging, sampling & testing, soaking of bricks, cutting and laying of bricks, providing recesses, making openings of any shape & size, finishing the joints flush below ground level, raking out the joints above ground level, sealing the gap between masonry and soffit of beam/slab, embedding the fittings & fixtures, curing, specification: all complete as per specifications, supply: all materials including cement supplied by the contractor",
+      "quantity": "5.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Providing and laying BRICK MASONRY WITH BRICKS OF CLASS 5.0 in cement mortar 1:6 (1 Cement : 6 Sand) in one or more brick thickness and in circular/ curved brick masonry at all depths below plinth level including the cost of materials, labour, scaffolding/ staging, sampling & testing, soaking of bricks, cutting and laying of bricks, providing recesses, making openings of any shape & size, finishing the joints flush below ground level and raking out the joints above ground level, sealing the gap between masonry and soffit of beam/slab, embedding the fittings & fixtures, curing, etc. all complete as per specifications. ALL MATERIALS INCLUDING CEMENT SUPPLIED BY THE CONTRACTOR.",
+      "core_product_name": "brick masonry",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "brick class: 5.0, mortar mix: 1:6 (1 cement : 6 sand), thickness: one or more brick, shape: circular/curved, depth: all depths below plinth level, includes: cost of materials, labour, scaffolding/staging, sampling & testing, soaking of bricks, cutting and laying of bricks, providing recesses, making openings of any shape & size, finishing the joints flush below ground level, raking out the joints above ground level, sealing the gap between masonry and soffit of beam/slab, embedding the fittings & fixtures, curing, specification: all complete as per specifications, supply: all materials including cement supplied by the contractor",
+      "quantity": "0.5",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Providing and laying BRICK MASONRY WITH BRICKS OF CLASS 5.0 in cement mortar 1:6 (1 Cement : 6 Sand) in one or more brick thickness and in circular/ curved brick masonry at all heights above plinth level including the cost of materials, labour, scaffolding/ staging, sampling & testing, soaking of bricks, cutting and laying of bricks, providing recesses, making openings of any shape & size, finishing the joints flush below ground level and raking out the joints above ground level, sealing the gap between masonry and soffit of beam/slab, embedding the fittings & fixtures, curing, etc. all complete as per specifications. ALL MATERIALS INCLUDING CEMENT SUPPLIED BY CONTRACTOR.",
+      "core_product_name": "brick masonry",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "brick class: 5.0, mortar mix: 1:6 (1 cement : 6 sand), thickness: one or more brick, shape: circular/curved, height: all heights above plinth level, includes: cost of materials, labour, scaffolding/staging, sampling & testing, soaking of bricks, cutting and laying of bricks, providing recesses, making openings of any shape & size, finishing the joints flush below ground level, raking out the joints above ground level, sealing the gap between masonry and soffit of beam/slab, embedding the fittings & fixtures, curing, specification: all complete as per specifications, supply: all materials including cement supplied by contractor",
+      "quantity": "0.5",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Demolishing BRICKWORK (taking all necessary safety precautions) for all depths below plinth level including supply of all tools and tackles, necessary scaffolding, propping, underpinning, cleaning and stacking of serviceable material, disposal of unserviceable material to spoil heaps anywhere within the plant boundary, all complete as specified and directed. (Excavation & backfilling shall be paid separately under relevant items).",
+      "core_product_name": "demolishing brickwork",
+      "acronymed_core_product_name": "",
+      "size": "depth: below plinth level",
+      "feature_or_specifications": "safety precautions: all necessary, includes: supply of all tools and tackles, necessary scaffolding, propping, underpinning, cleaning and stacking of serviceable material, disposal of unserviceable material to spoil heaps anywhere within the plant boundary, specification: all complete as specified and directed, note: excavation & backfilling shall be paid separately under relevant items",
+      "quantity": "30.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Demolishing BRICKWORK (taking all necessary safety precautions) for all heights above plinth level including supply of all tools and tackles, necessary scaffolding, propping, underpinning, cleaning and stacking of serviceable material, disposal of unserviceable material to spoil heaps anywhere within the plant boundary, all complete as specified and directed.",
+      "core_product_name": "demolishing brickwork",
+      "acronymed_core_product_name": "",
+      "size": "height: above plinth level",
+      "feature_or_specifications": "safety precautions: all necessary, includes: supply of all tools and tackles, necessary scaffolding, propping, underpinning, cleaning and stacking of serviceable material, disposal of unserviceable material to spoil heaps anywhere within the plant boundary, specification: all complete as specified and directed",
+      "quantity": "30.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Chipping of RCC WORK (taking all necessary safety precautions) by CHISELLING, upto & inclusive of 25mm thickness including supply of all tools & tackles, necessary scaffolding, propping, underpinning etc., cutting, lapping/welding of reinforcement bars as per drawings, disposal of the unserviceable material to spoil heaps anywhere within the plant boundary, all complete at all heights and depths, as specified and directed. (Excavation and backfilling shall be paid separately under relevant items).",
+      "core_product_name": "chipping of rcc work",
+      "acronymed_core_product_name": "rcc (reinforced cement concrete) work",
+      "size": "thickness: upto & inclusive of 25mm",
+      "feature_or_specifications": "safety precautions: all necessary, method: chiselling, includes: supply of all tools & tackles, necessary scaffolding, propping, underpinning, cutting, lapping/welding of reinforcement bars as per drawings, disposal of the unserviceable material to spoil heaps anywhere within the plant boundary, specification: all complete at all heights and depths as specified and directed, note: excavation and backfilling shall be paid separately under relevant items",
+      "quantity": "0.5",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Chipping of RCC WORK (taking all necessary safety precautions) by CHISELLING, beyond 25mm and upto & inclusive of 50mm thickness including supply of all tools & tackles, necessary scaffolding, propping, underpinning etc., cutting, lapping/welding of reinforcement bars as per drawings, disposal of the unserviceable material to spoil heaps anywhere within the plant boundary, all complete at all heights and depths, as specified and directed. (Excavation and backfilling shall be paid separately under relevant items).",
+      "core_product_name": "chipping of rcc work",
+      "acronymed_core_product_name": "rcc (reinforced cement concrete) work",
+      "size": "thickness: beyond 25mm and upto & inclusive of 50mm",
+      "feature_or_specifications": "safety precautions: all necessary, method: chiselling, includes: supply of all tools & tackles, necessary scaffolding, propping, underpinning, cutting, lapping/welding of reinforcement bars as per drawings, disposal of the unserviceable material to spoil heaps anywhere within the plant boundary, specification: all complete at all heights and depths as specified and directed, note: excavation and backfilling shall be paid separately under relevant items",
+      "quantity": "0.5",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Making cut-outs in RCC slab/ wall upto a thickness of 400mm (taking all necessary safety precautions) by vibration-less spark-free mechanical means like core-cutting, wet cutting by diamond wall saw system at all depths & heights including supply of all tools & tackles, necessary scaffolding etc. cutting of reinforcement bars, disposal of unserviceable material, plastering & finishing the cut surfaces, all complete as specified and directed by the Engineer-in- Charge (Measurement on Plan/ Elevation Area basis).",
+      "core_product_name": "making cut-outs in rcc slab/ wall",
+      "acronymed_core_product_name": "rcc (reinforced cement concrete) slab/ wall",
+      "size": "thickness: upto 400mm",
+      "feature_or_specifications": "safety precautions: all necessary, method: vibration-less spark-free mechanical means like core-cutting, wet cutting by diamond wall saw system, includes: supply of all tools & tackles, necessary scaffolding, cutting of reinforcement bars, disposal of unserviceable material, plastering & finishing the cut surfaces, specification: all complete as specified and directed by the engineer-in-charge, measurement: on plan/ elevation area basis",
+      "quantity": "0.5",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Cutting/ Dismantling RCC work in pavement, slabs, beams, columns, etc upto a depth of 450 mm by using vibration-less spark-free Diamond Saw Cutter of make HILTI (or equivalent) at all depths & heights, in hazardous areas within process units & offsite which are fire prone due to presence of hydrocarbon vapours etc. taking elaborate precautions for dismantling as per fire permit, clearance etc. and work is to be done with extreme caution. The work item includes cost of all necessary accessories, tools & tackles  including diamond saw cutter, disposal of RCC Debris upto lead of 100 m  & for all lifts (taking all safety precautions) including cutting reinforcement bars, embedded structural steel members, with necessary scaffolding, propping and underpinning etc. for all elevations with all labour and materials, all complete as per drawings, specifications and directions of the Engineer-in-charge. Payment will be made per sq.m.of cross-sectional cut area. Contractor to submit dismantling plan  prior to start of dismantling. Dismantling shall be planned in such a way that each cut piece shall weigh not less than 1.6 MT.",
+      "core_product_name": "cutting/ dismantling rcc work in pavement, slabs, beams, columns",
+      "acronymed_core_product_name": "rcc (reinforced cement concrete) work",
+      "size": "depth: upto 450 mm",
+      "feature_or_specifications": "method: vibration-less spark-free diamond saw cutter of make hilti (or equivalent), area: hazardous areas within process units & offsite which are fire prone due to presence of hydrocarbon vapours, precautions: elaborate precautions for dismantling as per fire permit, clearance etc., includes: cost of all necessary accessories, tools & tackles including diamond saw cutter, disposal of rcc debris upto lead of 100 m & for all lifts, cutting reinforcement bars, embedded structural steel members, necessary scaffolding, propping and underpinning, all labour and materials, specification: all complete as per drawings, specifications and directions of the engineer-in-charge, payment: per sq.m. of cross-sectional cut area, requirement: contractor to submit dismantling plan prior to start of dismantling, dismantling plan: each cut piece shall weigh not less than 1.6 mt",
+      "quantity": "0.5",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Cutting/ Dismantling of RCC block foundations, raft foundations, pile caps, mass concrete, equipment foundations etc. by using vibration-less spark-free Diamond Wire Saw Cutter of make HILTI (or equivalent) at all depths & heights, in hazardous areas within process units & offsite which are fire prone due to presence of hydrocarbon vapours etc. taking elaborate precautions for dismantling as per fire permit, clearance etc. and work is to be done with extreme caution. The work item includes cost of all necessary accessories, tools & tackles  including diamond saw cutter , disposal of RCC Debris upto lead of 100 m  & for all lifts (taking all safety precautions) including cutting reinforcement bars, embedded structural steel members, with necessary scaffolding, propping and underpinning etc. for all elevations with all labour and materials complete as per drawings, specificationsand directions of the Engineer-in-charge. Payment will be made per sq.m.of cross- sectional cut area. Contractor to submit dismantling plan prior to start of dismantling. Dismantling shall be planned in such a way that each cut piece shall weigh not less than 1.6 MT.",
+      "core_product_name": "cutting/ dismantling of rcc block foundations, raft foundations, pile caps, mass concrete, equipment foundations",
+      "acronymed_core_product_name": "rcc (reinforced cement concrete)",
+      "size": "",
+      "feature_or_specifications": "method: vibration-less spark-free diamond wire saw cutter of make hilti (or equivalent), area: hazardous areas within process units & offsite which are fire prone due to presence of hydrocarbon vapours, precautions: elaborate precautions for dismantling as per fire permit, clearance etc., includes: cost of all necessary accessories, tools & tackles including diamond saw cutter, disposal of rcc debris upto lead of 100 m & for all lifts, cutting reinforcement bars, embedded structural steel members, necessary scaffolding, propping and underpinning, all labour and materials, specification: all complete as per drawings, specifications and directions of the engineer-in-charge, payment: per sq.m. of cross-sectional cut area, requirement: contractor to submit dismantling plan prior to start of dismantling, dismantling plan: each cut piece shall weigh not less than 1.6 mt",
+      "quantity": "0.5",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Demolishing RCC WORK (taking all necessary safety precautions) for all heights above plinth level including supply of all tools & tackles, necessary scaffolding, propping, underpinning etc., cutting, straightening, scraping and cleaning of reinforcement bars, stacking of serviceable materials, disposal of unserviceable material to spoil heaps ANYWHERE OUTSIDE THE PLANT BOUNDARY, all complete as specified and directed. Disposal areas outside plant Boundary to be arranged by the contractor. Royalty as applicable for disposal outside plant limits to be borne by the Contractor. (Excavation & backfilling shall be paid separately under relevant items).",
+      "core_product_name": "demolishing rcc work",
+      "acronymed_core_product_name": "rcc (reinforced cement concrete) work",
+      "size": "height: above plinth level",
+      "feature_or_specifications": "safety precautions: all necessary, includes: supply of all tools & tackles, necessary scaffolding, propping, underpinning, cutting, straightening, scraping and cleaning of reinforcement bars, stacking of serviceable materials, disposal of unserviceable material to spoil heaps anywhere outside the plant boundary, specification: all complete as specified and directed, disposal: areas outside plant boundary to be arranged by the contractor, royalty: as applicable for disposal outside plant limits to be borne by the contractor, note: excavation & backfilling shall be paid separately under relevant items",
+      "quantity": "50.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Demolishing PLAIN CEMENT CONCRETE work (taking all necessary safety precautions) for all depths below plinth level including supply of all tools & tackles, necessary scaffolding, propping, underpinning etc. disposal of unserviceable material to spoil heaps anywhere within the plant boundary, all complete as specified and directed. (Excavation and backfilling shall be paid separately under relevant items)",
+      "core_product_name": "demolishing plain cement concrete work",
+      "acronymed_core_product_name": "",
+      "size": "depth: below plinth level",
+      "feature_or_specifications": "safety precautions: all necessary, includes: supply of all tools & tackles, necessary scaffolding, propping, underpinning, disposal of unserviceable material to spoil heaps anywhere within the plant boundary, specification: all complete as specified and directed, note: excavation and backfilling shall be paid separately under relevant items",
+      "quantity": "100.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Demolishing PLAIN CEMENT CONCRETE work (taking all necessary safety precautions) for all heights above plinth level including supply of all tools & tackles, necessary scaffolding, propping, underpinning etc. disposal of unserviceable material to spoil heaps anywhere within the plant boundary, all complete as specified and directed.",
+      "core_product_name": "demolishing plain cement concrete work",
+      "acronymed_core_product_name": "",
+      "size": "height: above plinth level",
+      "feature_or_specifications": "safety precautions: all necessary, includes: supply of all tools & tackles, necessary scaffolding, propping, underpinning, disposal of unserviceable material to spoil heaps anywhere within the plant boundary, specification: all complete as specified and directed",
+      "quantity": "1.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Dismantling bolted/rivetted/welded STRUCTURAL STEEL WORK of all descriptions (taking all necessary safety precautions), including supply of all tools and tackles, consumables, necessary scaffolding etc., providing temporary bracings as required, cutting (by flame or saw) gusset plates, bolts, nuts, weldings etc., transporting and stacking of the serviceable materials, cleaning the site of work of all unserviceable materials for disposal to spoil heaps anywhere within the plant boundary, all complete at all depths and heights, as specified and directed.",
+      "core_product_name": "dismantling structural steel work",
+      "acronymed_core_product_name": "",
+      "size": "depth: all, height: all",
+      "feature_or_specifications": "type: bolted/rivetted/welded, safety precautions: all necessary, includes: supply of all tools and tackles, consumables, necessary scaffolding, providing temporary bracings as required, cutting (by flame or saw) gusset plates, bolts, nuts, weldings, transporting and stacking of the serviceable materials, cleaning the site of work of all unserviceable materials, disposal: to spoil heaps anywhere within the plant boundary, specification: all complete as specified and directed",
+      "quantity": "1.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Supplying and filling approved SAND of specified quality under floors, in foundations, plinths, tank foundations etc. for all depths and heights including cost of sand, royalties, transportation to site for all leads and lifts, including loading, unloading, spreading in layers of loose thickness not exceeding 150 mm, watering, ramming, compacting with mechanical compactors and/or other equipment to the specified levels to achieve 85% relative density as per IS:2720 Part XIV, including preparation of subgrade to the required slope, providing testing apparatus and testing the degree of consolidation all complete as per drawings, specifications and direction of Engineer- in-charge. The rates shall be inclusive of the cost of all labour, material, equipments etc. all complete .",
+      "core_product_name": "sand filling",
+      "acronymed_core_product_name": "",
+      "size": "layer thickness: not exceeding 150 mm, depth: all, height: all",
+      "feature_or_specifications": "material: sand, quality: approved and specified, royalty: included, transportation: all leads and lifts, spreading: in layers, watering: included, ramming: included, compaction: mechanical compactors and/or other equipment, density: 85% relative density, standard: IS 2720 Part XIV (indian standard 2720 Part XIV), subgrade: prepared to required slope, testing: apparatus and degree of consolidation, includes: all labour, material, equipments, as per drawings, specifications and direction of Engineer-in-charge",
+      "quantity": "4200.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Supplying and mixing of approved brand of BI-POLAR CONCRETE PENETRATING CORROSION INHIBITING ADMIXTURE (confirming to EIL Specification No. 6-68-0017) in concrete as per manufacturer's specification for protection of reinforcement against corrosion. Supply of admixture in Contractor's scope.",
+      "core_product_name": "concrete penetrating corrosion inhibiting admixture",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "brand: approved, type: bi-polar, application: in concrete, specification: EIL Specification No. 6-68-0017, manufacturer: as per manufacturer's specification, feature: protection of reinforcement against corrosion, supply: in contractor's scope",
+      "quantity": "7850.0",
+      "unit": "kg"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Supplying, Providing and Laying appropriate coating on foundation concrete followed by laying of dry sand, suitable thickness cellular glass insulation with interleaving felts & adhesives as per EIL Job specification B568-000-06-43-IL-S002. (SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE).",
+      "core_product_name": "thermal isolation barrier",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: tank bottom, coating: appropriate on foundation concrete, insulation: cellular glass, insulation thickness: suitable, interleaving: felts & adhesives, specification: EIL Job specification B568-000-06-43-IL-S002, supply: all materials in contractor's scope",
+      "quantity": "1000.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Dismantling structural steel already erected by others including provision of adequate temporary supports, bracings etc. wherever required, to ensure safety of the affected structure or part thereof, and replacing back all original members into their respective positions true to line and level, removing all temporary supports/bracings, welding/bolting of the end connections, splicing or strengthening the member and their joints to regain original strengths, all complete as directed by the Engineer-in- Charge. Note: The weight of dismantled and re- erected structure shall be measured only once.(SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE)",
+      "core_product_name": "structural steel dismantling",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "provision: adequate temporary supports, bracings, safety: ensure safety of affected structure or part, replacement: all original members into respective positions, connection: welding/bolting of end connections, strengthening: splicing or strengthening member and joints, direction: as directed by engineer-in-charge, note: weight of dismantled and re-erected structure measured only once, supply: all materials in contractor's scope",
+      "quantity": "0.5",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Supply of HSE personnel SAFETY STEWARD over and above the requirement as specified in EIL Standard Specification No. 6-82-0001 at site as per the written instructions of Engineer-in-charge (the rates shall be inclusive of all other payments such as PF, ESI, other benefits payable to the workmen as per the prevalent labour laws).",
+      "core_product_name": "hse personnel safety steward",
+      "acronymed_core_product_name": "hse personnel safety steward",
+      "size": "",
+      "feature_or_specifications": "requirement: over and above as per engineer-in-charge instructions, standard: eil standard specification no. 6-82-0001, payments: inclusive of pf, esi, other benefits as per prevalent labour laws",
+      "quantity": "20.0",
+      "unit": "man month"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Supply of HSE personnel SAFETY SUPERVISOR over and above the requirement as specified in EIL Standard Specification No. 6-82-0001 at site as per the written instructions of Engineer-in-charge (the rates shall be inclusive of all other payments such as PF, ESI, other benefits payable to the workmen as per the prevalent labour laws).",
+      "core_product_name": "hse personnel safety supervisor",
+      "acronymed_core_product_name": "hse personnel safety supervisor",
+      "size": "",
+      "feature_or_specifications": "requirement: over and above as per engineer-in-charge instructions, standard: eil standard specification no. 6-82-0001, payments: inclusive of pf, esi, other benefits as per prevalent labour laws",
+      "quantity": "10.0",
+      "unit": "man month"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Supply of HSE personnel SAFETY OFFICER over and above the requirement as specified in EIL Standard Specification No. 6-82-0001 at site as per the written instructions of Engineer-in-charge (the rates shall be inclusive of all other payments such as PF, ESI, other benefits payable to the workmen as per the prevalent labour laws).",
+      "core_product_name": "hse personnel safety officer",
+      "acronymed_core_product_name": "hse personnel safety officer",
+      "size": "",
+      "feature_or_specifications": "requirement: over and above as per engineer-in-charge instructions, standard: eil standard specification no. 6-82-0001, payments: inclusive of pf, esi, other benefits as per prevalent labour laws",
+      "quantity": "10.0",
+      "unit": "man month"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Supply of HSE personnel HOUSE-KEEPING SUPERVISOR over and above the requirement as specified in EIL Standard Specification No. 6-82-0001 at site as per the written instructions of Engineer-in-charge (the rates shall be inclusive of all other payments such as PF, ESI, other benefits payable to the workmen as per the prevalent labour laws).",
+      "core_product_name": "hse personnel house-keeping supervisor",
+      "acronymed_core_product_name": "hse personnel house-keeping supervisor",
+      "size": "",
+      "feature_or_specifications": "requirement: over and above as per engineer-in-charge instructions, standard: eil standard specification no. 6-82-0001, payments: inclusive of pf, esi, other benefits as per prevalent labour laws",
+      "quantity": "10.0",
+      "unit": "man month"
+    }
+  ]
+}

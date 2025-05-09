@@ -1,0 +1,79 @@
+{
+  "query": "core_product_name: access control system software | acronymed_core_product_name: acs software | feature_or_specifications: feature: setup, configuration, operation, events, history, archiving, alarm monitoring, recording, printing, time and attendance, feature: esd (emergency shutdown) input from plc (programmable logic controller)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: access control system",
+        "raw_product_name": "ACCESS CONTROL SYSTEM",
+        "list_of_product_ids": [
+          "6601",
+          "5771",
+          "10891",
+          "10915",
+          "11070",
+          "10890",
+          "10892",
+          "19260",
+          "19270",
+          "34967",
+          "34987",
+          "35018"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: supervisory control and data acquisition system | acronymed_core_product_name: SCADA SYSTEMS",
+        "raw_product_name": "SCADA SYSTEMS",
+        "list_of_product_ids": [
+          "6625",
+          "5795",
+          "10073",
+          "11202",
+          "10804",
+          "10871",
+          "10873",
+          "11374",
+          "11377",
+          "30049",
+          "29687",
+          "27063",
+          "30480",
+          "38273",
+          "32770",
+          "36655",
+          "36679",
+          "36002",
+          "36005",
+          "36004",
+          "36003",
+          "36001",
+          "36245",
+          "36398",
+          "36523"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: embedded control system",
+        "raw_product_name": "EMBEDDED CONTROL SYSTEM",
+        "list_of_product_ids": [
+          "236",
+          "092",
+          "358",
+          "623",
+          "573"
+        ]
+      }
+    }
+  ]
+}

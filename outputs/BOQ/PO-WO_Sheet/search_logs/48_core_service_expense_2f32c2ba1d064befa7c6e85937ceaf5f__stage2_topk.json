@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: service expense",
+  "retrieval_results": [
+    {
+      "id": "variant-17002a52-9336-52a1-ac61-3e4440b88e11",
+      "score": 0.8811674,
+      "metadata": {
+        "text": "core_product_name: engine servicing",
+        "raw_product_name": "ENGINE SERVICING",
+        "list_of_product_ids": "24306,24359,24308,26865",
+        "core_id": 751.0
+      }
+    },
+    {
+      "id": "variant-7d04081b-d5d3-5b6a-b6cd-1f114a2ef9de",
+      "score": 0.88031924,
+      "metadata": {
+        "text": "core_product_name: server",
+        "raw_product_name": "SERVERS",
+        "list_of_product_ids": "13899,15300,15302,18836",
+        "core_id": 1999.0
+      }
+    },
+    {
+      "id": "variant-477f0b0f-879d-5a1f-a1fc-744e06945ccc",
+      "score": 0.87964195,
+      "metadata": {
+        "text": "core_product_name: motor servicing",
+        "raw_product_name": "MOTOR SERVICING",
+        "list_of_product_ids": "246,582,679,724,656",
+        "core_id": 1505.0
+      }
+    },
+    {
+      "id": "variant-acb2293f-88b9-5225-8d9b-658e5124afcc",
+      "score": 0.87949973,
+      "metadata": {
+        "text": "core_product_name: internal servicing telephone exchange",
+        "raw_product_name": "INTERNAL TELEPHONE EXCHANGE SERVICING",
+        "list_of_product_ids": "243,572,686,724,356",
+        "core_id": 1286.0
+      }
+    },
+    {
+      "id": "variant-64345e07-b280-5ecb-a027-739cbb9cbe2e",
+      "score": 0.8793001,
+      "metadata": {
+        "text": "core_product_name: engineering service provider",
+        "raw_product_name": "ENGINEERING SERVICE PROVIDERS",
+        "list_of_product_ids": "17042,17049,17128,17151,17143,17159,17176",
+        "core_id": 752.0
+      }
+    },
+    {
+      "id": "variant-94ea3340-bef6-5933-8416-982a342511aa",
+      "score": 0.87800586,
+      "metadata": {
+        "text": "core_product_name: turbine meter | operating_conditions: liquid services",
+        "raw_product_name": "TURBINE METER – LIQUID SERVICES",
+        "list_of_product_ids": "14192",
+        "core_id": 2295.0
+      }
+    },
+    {
+      "id": "variant-c9536e29-6040-5b31-b6a1-431e7654733e",
+      "score": 0.87245315,
+      "metadata": {
+        "text": "core_product_name: computer maintenance",
+        "raw_product_name": "COMPUTER MAINTENANCE",
+        "list_of_product_ids": "193,231,932,428,719",
+        "core_id": 422.0
+      }
+    },
+    {
+      "id": "variant-f6a18ba6-80f9-5f03-b07c-23de6db1ad6c",
+      "score": 0.87228775,
+      "metadata": {
+        "text": "core_product_name: fire water service",
+        "raw_product_name": "FIRE WATER SERVICES",
+        "list_of_product_ids": "142,571,640,921,796",
+        "core_id": 862.0
+      }
+    },
+    {
+      "id": "variant-a17fd78e-0a80-5e83-8bfc-b675b3dda993",
+      "score": 0.8709911,
+      "metadata": {
+        "text": "core_product_name: refilling service fire extinguisher",
+        "raw_product_name": "FIRE EXTINGUISHER REFILLING SERVICE",
+        "list_of_product_ids": "22319,22315,22312,27052",
+        "core_id": 853.0
+      }
+    },
+    {
+      "id": "variant-4d6aa379-e73e-51da-ae62-10dd692e604d",
+      "score": 0.8702989,
+      "metadata": {
+        "text": "core_product_name: maintenance sanitary ware",
+        "raw_product_name": "SANITARY WARE MAINTENANCE",
+        "list_of_product_ids": "246,452,464,726,799",
+        "core_id": 1958.0
+      }
+    },
+    {
+      "id": "variant-4878872f-c56a-53c7-922c-1596298ea898",
+      "score": 0.869363,
+      "metadata": {
+        "text": "core_product_name: safety valve | operating_conditions: boiler service",
+        "raw_product_name": "SAFETY VALVES BOILER SERVICE",
+        "list_of_product_ids": "6504,5675,10198,8345,17586,21314,27548,28764,28766,28765,28811,36263,36416",
+        "core_id": 1950.0
+      }
+    },
+    {
+      "id": "variant-e05f2b0e-93fa-5fca-81df-0e7c92be8f40",
+      "score": 0.8690146,
+      "metadata": {
+        "text": "core_product_name: housekeeping",
+        "raw_product_name": "HOUSE KEEPING",
+        "list_of_product_ids": "2,339,027,850",
+        "core_id": 1162.0
+      }
+    },
+    {
+      "id": "variant-441a1200-d5f5-5121-8c4b-fe5e1c49cc3f",
+      "score": 0.8687718,
+      "metadata": {
+        "text": "core_product_name: appliance valve",
+        "raw_product_name": "APPLIANCE VALVE",
+        "list_of_product_ids": "1,415,737,398",
+        "core_id": 128.0
+      }
+    },
+    {
+      "id": "variant-b582cfc3-97ae-57d2-a445-fea1d0ed08c5",
+      "score": 0.8681459,
+      "metadata": {
+        "text": "core_product_name: utility hose",
+        "raw_product_name": "UTILITY HOSE",
+        "list_of_product_ids": "19066,19078,19065,19064,19063,19048,19055,19054,19053,19052,19051,19050,19049,19047,19045,20027,20037,21599",
+        "core_id": 2331.0
+      }
+    },
+    {
+      "id": "variant-6b3d7d41-716a-5dcc-98b3-23e92b0e9616",
+      "score": 0.867771,
+      "metadata": {
+        "text": "core_product_name: butterfly valve | operating_conditions: steam services",
+        "raw_product_name": "Butterfly Valves (Also for steam services)",
+        "list_of_product_ids": "8340",
+        "core_id": 277.0
+      }
+    },
+    {
+      "id": "variant-11b27b9f-cdef-5e2f-b73e-cb8404f6e58d",
+      "score": 0.8675634,
+      "metadata": {
+        "text": "core_product_name: subsea piggable wye | operating_conditions: sour service",
+        "raw_product_name": "SUBSEA PIGGABLE WYE (SOUR SERVICE)",
+        "list_of_product_ids": "1,940,028,263",
+        "core_id": 2150.0
+      }
+    },
+    {
+      "id": "variant-74d303aa-2799-5e8d-8b8a-412a8da4a4f2",
+      "score": 0.86724395,
+      "metadata": {
+        "text": "core_product_name: electrical spare",
+        "raw_product_name": "ELECTRICAL SPARES",
+        "list_of_product_ids": "207,782,077,728,462",
+        "core_id": 710.0
+      }
+    },
+    {
+      "id": "variant-cd52aca8-dd3e-59e7-b179-e704fd4294e9",
+      "score": 0.8671273,
+      "metadata": {
+        "text": "core_product_name: management system",
+        "raw_product_name": "TANK FARM MANAGEMENT SYSTEM",
+        "list_of_product_ids": "6585,5755,11689,11698,10102,10116,11714,13223,21062,35434",
+        "core_id": 2200.0
+      }
+    },
+    {
+      "id": "variant-8d4cf11e-a625-54c0-9e57-1dcb40a6019d",
+      "score": 0.8667672,
+      "metadata": {
+        "text": "core_product_name: electronic repair and servicing",
+        "raw_product_name": "ELECTRONIC REPAIR & SERVICING",
+        "list_of_product_ids": "24355,24353,24351,24354,26868",
+        "core_id": 729.0
+      }
+    },
+    {
+      "id": "variant-f506cba3-f0ea-5c7a-a56b-eeb6ee71ef92",
+      "score": 0.8666928,
+      "metadata": {
+        "text": "core_product_name: damper | operating_conditions: Air and Gas services",
+        "raw_product_name": "Dampers (Air and Gas services)",
+        "list_of_product_ids": "7,471,714,411,975",
+        "core_id": 553.0
+      }
+    },
+    {
+      "id": "variant-abc974db-6c48-57e2-9ca5-1b55d8b33ef6",
+      "score": 0.86649966,
+      "metadata": {
+        "text": "core_product_name: engine",
+        "raw_product_name": "ENGINE",
+        "list_of_product_ids": "13931,18581,21040,21827,36855",
+        "core_id": 748.0
+      }
+    },
+    {
+      "id": "variant-059f29c0-c582-5a44-9dd7-0d8f1e11ef42",
+      "score": 0.8657864,
+      "metadata": {
+        "text": "core_product_name: instrument air package",
+        "raw_product_name": "INSTRUMENT AIR PACKAGE",
+        "list_of_product_ids": "137,061,645,718,956",
+        "core_id": 1252.0
+      }
+    },
+    {
+      "id": "variant-bf83fc29-4344-5cdf-ad0a-680397ade823",
+      "score": 0.8654387,
+      "metadata": {
+        "text": "core_product_name: tap",
+        "raw_product_name": "FAUCETS & TAPS",
+        "list_of_product_ids": "1,420,422,905",
+        "core_id": 805.0
+      }
+    },
+    {
+      "id": "variant-570dd362-8a6f-5a8d-a554-0921ccded779",
+      "score": 0.8651978,
+      "metadata": {
+        "text": "core_product_name: instrument",
+        "raw_product_name": "INSTRUMENT",
+        "list_of_product_ids": "13707,15297,15303,18441,20437,20411,24278,37920",
+        "core_id": 455.0
+      }
+    },
+    {
+      "id": "variant-f3d46fcc-8afe-5f59-bd1b-387625c7bbe3",
+      "score": 0.86516327,
+      "metadata": {
+        "text": "core_product_name: instrument",
+        "raw_product_name": "RECEIVER INSTRUMENTS",
+        "list_of_product_ids": "6595,5765,10075,12200",
+        "core_id": 455.0
+      }
+    },
+    {
+      "id": "variant-bc08e481-a9ae-551e-9e13-ace49d85e974",
+      "score": 0.8651118,
+      "metadata": {
+        "text": "core_product_name: measurement",
+        "raw_product_name": "VIBRATION MEASUREMENT",
+        "list_of_product_ids": "242,652,426,624,269",
+        "core_id": 2401.0
+      }
+    },
+    {
+      "id": "variant-0ee1aa14-9a13-5dbd-a3a8-147acff9cc2f",
+      "score": 0.8650989,
+      "metadata": {
+        "text": "core_product_name: instrument",
+        "raw_product_name": "CONTROL PANEL INSTRUMENT",
+        "list_of_product_ids": "2,030,420,309",
+        "core_id": 455.0
+      }
+    },
+    {
+      "id": "variant-d7b9fb1b-d270-58cf-af80-3bb761ca442c",
+      "score": 0.8650417,
+      "metadata": {
+        "text": "core_product_name: general cleaning",
+        "raw_product_name": "GENERAL CLEANING & GRASS CUTTING",
+        "list_of_product_ids": "2,421,526,884",
+        "core_id": 1046.0
+      }
+    },
+    {
+      "id": "variant-d49dd9b4-06e3-5d42-86ae-24b1a1779a17",
+      "score": 0.8650367,
+      "metadata": {
+        "text": "core_product_name: for compressor spare",
+        "raw_product_name": "SPARES FOR COMPRESSOR",
+        "list_of_product_ids": "23452,23451,26070,26069,26676,23453",
+        "core_id": 2071.0
+      }
+    },
+    {
+      "id": "variant-dccb1b8c-ce03-5353-8d7f-1894add2f041",
+      "score": 0.8649285,
+      "metadata": {
+        "text": "core_product_name: equipment insulation",
+        "raw_product_name": "EQUIPMENT INSULATION WORKS",
+        "list_of_product_ids": "358,293,583,235,880",
+        "core_id": 761.0
+      }
+    }
+  ]
+}

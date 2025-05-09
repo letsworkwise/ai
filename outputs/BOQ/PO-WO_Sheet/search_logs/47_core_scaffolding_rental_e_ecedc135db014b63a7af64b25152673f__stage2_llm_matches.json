@@ -1,0 +1,70 @@
+{
+  "query": "core_product_name: scaffolding rental expense | feature_or_specifications: type: iron cuplock, period: first month and second month, code: dg2",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: cuplock scaffolding | type_or_class: Cuplock",
+        "raw_product_name": "CUPLOCK SCAFFOLDING",
+        "list_of_product_ids": [
+          "24782",
+          "24779",
+          "24769",
+          "24770",
+          "24792",
+          "24810",
+          "24796",
+          "24806",
+          "25092"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: scaffolding platform",
+        "raw_product_name": "SCAFFOLDING PLATFORM",
+        "list_of_product_ids": [
+          "24768",
+          "24767",
+          "24783",
+          "24793",
+          "24797",
+          "24811",
+          "24807",
+          "24778",
+          "25093"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: scaffolding pipe",
+        "raw_product_name": "SCAFFOLDING PIPE",
+        "list_of_product_ids": [
+          "24790",
+          "24780",
+          "24744",
+          "24743",
+          "24804",
+          "24773",
+          "24808",
+          "24794",
+          "25090",
+          "25097"
+        ]
+      }
+    }
+  ]
+}

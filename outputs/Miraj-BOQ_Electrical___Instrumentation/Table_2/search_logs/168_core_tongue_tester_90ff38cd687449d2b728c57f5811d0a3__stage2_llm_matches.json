@@ -1,0 +1,52 @@
+{
+  "query": "core_product_name: tongue tester | feature_or_specifications: make: FLUKE or YAKOGAWA",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fieldbus tester",
+        "raw_product_name": "FIELDBUS TESTER",
+        "list_of_product_ids": [
+          "5",
+          "949",
+          "677",
+          "810",
+          "923"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: test and measuring equipment",
+        "raw_product_name": "Test & Measuring Equipment",
+        "list_of_product_ids": [
+          "1",
+          "401",
+          "515",
+          "286"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: test product",
+        "raw_product_name": "TEST PRODUCT",
+        "list_of_product_ids": [
+          "1",
+          "310",
+          "627",
+          "675"
+        ]
+      }
+    }
+  ]
+}

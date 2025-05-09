@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: end cap | size: cap size: 80 NB",
+  "retrieval_results": [
+    {
+      "id": "variant-59dd3339-fe74-56b7-802a-213aacb4499a",
+      "score": 0.8965829,
+      "metadata": {
+        "text": "core_product_name: end cap",
+        "raw_product_name": "END CAP",
+        "list_of_product_ids": "15480",
+        "core_id": 745.0
+      }
+    },
+    {
+      "id": "variant-fc9c78d2-e784-5091-9837-34a9a00a62c9",
+      "score": 0.879452,
+      "metadata": {
+        "text": "core_product_name: cap",
+        "raw_product_name": "CAP",
+        "list_of_product_ids": "13736,14905,16051,19802,20063,22663,22658,22917,19405,37064,36445",
+        "core_id": 294.0
+      }
+    },
+    {
+      "id": "variant-10b58f1e-b7de-57c0-8dbe-3d82e863f453",
+      "score": 0.86811405,
+      "metadata": {
+        "text": "core_product_name: capstan",
+        "raw_product_name": "CAPSTAN",
+        "list_of_product_ids": "23455,23454,26039,26063,26677",
+        "core_id": 296.0
+      }
+    },
+    {
+      "id": "variant-6f9bd04d-ad47-5d1b-8bb4-d7850f59008b",
+      "score": 0.8670959,
+      "metadata": {
+        "text": "core_product_name: pipe cap | material: Exotic",
+        "raw_product_name": "FITTINGS PIPE CAP (EXOTIC)",
+        "list_of_product_ids": "6330,5501,24598,34311,34312,34313,34314,36852",
+        "core_id": 875.0
+      }
+    },
+    {
+      "id": "variant-ed6e94f3-a1b4-59a6-9312-3fb0f5ef657c",
+      "score": 0.86511797,
+      "metadata": {
+        "text": "core_product_name: dyke end",
+        "raw_product_name": "DYKE END",
+        "list_of_product_ids": "143,631,446,014,497",
+        "core_id": 648.0
+      }
+    },
+    {
+      "id": "variant-7a81ebd3-21d8-54a3-a240-c819d8c11843",
+      "score": 0.86419415,
+      "metadata": {
+        "text": "core_product_name: quick opening end closure",
+        "raw_product_name": "QUICK OPENING END CLOSURE",
+        "list_of_product_ids": "15436,18787,22338,36605,34856",
+        "core_id": 1851.0
+      }
+    },
+    {
+      "id": "variant-f728c4ed-4c19-5413-83f7-8a107bce1c33",
+      "score": 0.86404794,
+      "metadata": {
+        "text": "core_product_name: insulation | material: Nitrile Rubber",
+        "raw_product_name": "INSULATION NITRILE RUBBER",
+        "list_of_product_ids": "7503,7178,7762,8172",
+        "core_id": 404.0
+      }
+    },
+    {
+      "id": "variant-3b34fa26-6d5b-5da6-a44d-64cc3a911258",
+      "score": 0.86399275,
+      "metadata": {
+        "text": "core_product_name: expansion compensator | material: Rubber",
+        "raw_product_name": "Expansion Compensators (Rubber)",
+        "list_of_product_ids": "7,500,717,518,492",
+        "core_id": 784.0
+      }
+    },
+    {
+      "id": "variant-eacdc8c8-95be-5679-bf81-5715a7be4779",
+      "score": 0.86385834,
+      "metadata": {
+        "text": "core_product_name: rope | material: Nylon",
+        "raw_product_name": "ROPE(NYLON)",
+        "list_of_product_ids": "19932,19927,19926,19924,28354",
+        "core_id": 1434.0
+      }
+    },
+    {
+      "id": "variant-142516e3-9062-533e-84ba-524455833702",
+      "score": 0.86369324,
+      "metadata": {
+        "text": "core_product_name: electric capacitor",
+        "raw_product_name": "ELECTRIC CAPACITOR",
+        "list_of_product_ids": "20800,20799,22292,28494",
+        "core_id": 683.0
+      }
+    },
+    {
+      "id": "variant-15b082ab-a3ee-5143-857d-441fbeabb39b",
+      "score": 0.8634104,
+      "metadata": {
+        "text": "core_product_name: item | material: Neoprene Rubber",
+        "raw_product_name": "NEOPRENE RUBBER ITEM",
+        "list_of_product_ids": "229,422,294,328,651",
+        "core_id": 1538.0
+      }
+    },
+    {
+      "id": "variant-30ba7b7c-4349-5ae1-b9ed-81ec0b2af986",
+      "score": 0.8630092,
+      "metadata": {
+        "text": "core_product_name: high voltage capacitor | size_or_capacity: High Voltage",
+        "raw_product_name": "CAPACITORS-HIGH VOLTAGE",
+        "list_of_product_ids": "6427,5597,10503,10567,11340,12080",
+        "core_id": 295.0
+      }
+    },
+    {
+      "id": "variant-bf83fc29-4344-5cdf-ad0a-680397ade823",
+      "score": 0.8622198,
+      "metadata": {
+        "text": "core_product_name: tap",
+        "raw_product_name": "FAUCETS & TAPS",
+        "list_of_product_ids": "1,420,422,905",
+        "core_id": 805.0
+      }
+    },
+    {
+      "id": "variant-21ca9ad2-0734-5bb0-aa9d-b6f8636420ac",
+      "score": 0.86168194,
+      "metadata": {
+        "text": "core_product_name: water stopper",
+        "raw_product_name": "WATER BARS / WATER STOPPER",
+        "list_of_product_ids": "182,573,213,533,350",
+        "core_id": 2432.0
+      }
+    },
+    {
+      "id": "variant-3d2c5e9d-79ab-553c-a008-b82b69a9551b",
+      "score": 0.8614021,
+      "metadata": {
+        "text": "core_product_name: capacitor bank",
+        "raw_product_name": "CAPACITOR BANK",
+        "list_of_product_ids": "7118,7445,11170,10847,12360",
+        "core_id": 293.0
+      }
+    },
+    {
+      "id": "variant-e5c86a71-04bd-5314-b0cb-6b60180b38da",
+      "score": 0.86131066,
+      "metadata": {
+        "text": "core_product_name: coupling capacitor",
+        "raw_product_name": "COUPLING CAPACITOR",
+        "list_of_product_ids": "18571,18570,18564,18561,18560,18639,18559",
+        "core_id": 496.0
+      }
+    },
+    {
+      "id": "variant-bb96db43-a603-5b08-b082-1a787ab9db3c",
+      "score": 0.861263,
+      "metadata": {
+        "text": "core_product_name: conduit accessory",
+        "raw_product_name": "CONDUIT ACCESSORIES",
+        "list_of_product_ids": "20550,20514,20591,20632,20686,20744",
+        "core_id": 439.0
+      }
+    },
+    {
+      "id": "variant-74503a1f-fa22-5c08-ac97-9f8dba31f1f4",
+      "score": 0.86115694,
+      "metadata": {
+        "text": "core_product_name: conduit fitting",
+        "raw_product_name": "FITTINGS (CONDUIT)",
+        "list_of_product_ids": "165,391,654,021,574",
+        "core_id": 870.0
+      }
+    },
+    {
+      "id": "variant-0f33bdf2-9734-5993-8011-fb21b37344ae",
+      "score": 0.86108696,
+      "metadata": {
+        "text": "core_product_name: stopper plug | material: Foam",
+        "raw_product_name": "FOAM PLUGS AS STOPPERS",
+        "list_of_product_ids": "9498,9578,9781,24714",
+        "core_id": 969.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.8608595,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    },
+    {
+      "id": "variant-3f159fee-0ee0-59d2-942e-6e8b0f3d3724",
+      "score": 0.86071,
+      "metadata": {
+        "text": "core_product_name: pipe cap | material: A S (Alloy Steel)",
+        "raw_product_name": "FITTINGS PIPE CAP (A S)",
+        "list_of_product_ids": "6328,5499,10386,11292,8083,13134,15993,19735,24596,34143,34144,34145,34168,34169,34173,34172,34171,34170,36851,40054",
+        "core_id": 875.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.8603549,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-7b1c16c7-5da7-5e6a-86ce-7eae6ac6bf0a",
+      "score": 0.8599456,
+      "metadata": {
+        "text": "core_product_name: network component",
+        "raw_product_name": "NETWORK COMPONENTS",
+        "list_of_product_ids": "137,882,017,621,241",
+        "core_id": 1544.0
+      }
+    },
+    {
+      "id": "variant-aff08504-c506-51f5-a4d6-a4176100a6a8",
+      "score": 0.8598671,
+      "metadata": {
+        "text": "core_product_name: fitting pipe cap | material: C S (Carbon Steel)",
+        "raw_product_name": "FITTINGS PIPE CAP (C S)",
+        "list_of_product_ids": "10369,6327,5498,10381,11291,11334,11406,8044,8082,8086,12102,12768,12741,12751,12782,13125,13208,13306,8043,13405,15992,17658,17920,19732,21807,24595,36574,34026,34025,34024,34023,34022,34021,34027,34688,36850",
+        "core_id": 876.0
+      }
+    },
+    {
+      "id": "variant-74d303aa-2799-5e8d-8b8a-412a8da4a4f2",
+      "score": 0.85983825,
+      "metadata": {
+        "text": "core_product_name: electrical spare",
+        "raw_product_name": "ELECTRICAL SPARES",
+        "list_of_product_ids": "207,782,077,728,462",
+        "core_id": 710.0
+      }
+    },
+    {
+      "id": "variant-298f2c6e-2bc0-5c2f-b94c-30f82a72d824",
+      "score": 0.8597831,
+      "metadata": {
+        "text": "core_product_name: nozzle",
+        "raw_product_name": "NOZZLE",
+        "list_of_product_ids": "24248,24222,22342,22340,22766,22794,26877",
+        "core_id": 1547.0
+      }
+    },
+    {
+      "id": "variant-d2ad8830-acb6-5143-9758-6e0e9959e302",
+      "score": 0.8597541,
+      "metadata": {
+        "text": "core_product_name: lining | material: Rubber",
+        "raw_product_name": "LINING (RUBBER)",
+        "list_of_product_ids": "6167,5337,12267,12269,12265,12268,12480",
+        "core_id": 1367.0
+      }
+    },
+    {
+      "id": "variant-cf8f9c44-e119-50e6-83e3-cb62e3df7638",
+      "score": 0.8592045,
+      "metadata": {
+        "text": "core_product_name: stop valve",
+        "raw_product_name": "STOP VALVES",
+        "list_of_product_ids": "140,692,290,625,962",
+        "core_id": 2119.0
+      }
+    },
+    {
+      "id": "variant-c9606761-8875-5ecd-8e32-10a958b09ddd",
+      "score": 0.85906667,
+      "metadata": {
+        "text": "core_product_name: bolt",
+        "raw_product_name": "BOLT",
+        "list_of_product_ids": "13612,20911,20910,26266,26148,26200,26213,26223,26232,27708,33126,37287",
+        "core_id": 228.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.8584871,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    }
+  ]
+}

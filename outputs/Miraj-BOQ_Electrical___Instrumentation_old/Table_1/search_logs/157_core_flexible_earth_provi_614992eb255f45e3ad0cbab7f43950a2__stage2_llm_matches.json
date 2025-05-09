@@ -1,0 +1,93 @@
+{
+  "query": "core_product_name: flexible earth provision | feature_or_specifications: includes: flexible cable, hanger, grounding clip, application: lpg(liquefied petroleum gas) unloading tanker",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: flexible cable | type_or_class: single or multicore",
+        "raw_product_name": "SINGLE/MULTICORE FLEXIBLE CABLE",
+        "list_of_product_ids": [
+          "38520",
+          "38521",
+          "38582",
+          "38608",
+          "38636",
+          "38828",
+          "38665",
+          "38861",
+          "38903",
+          "38929",
+          "38950",
+          "38693",
+          "38718",
+          "38744",
+          "38966",
+          "38993",
+          "39021",
+          "39055",
+          "39089",
+          "39119",
+          "39167",
+          "39220",
+          "39248",
+          "39290",
+          "39340",
+          "39376",
+          "39405",
+          "39435",
+          "39451",
+          "39486",
+          "39541",
+          "39568",
+          "38770",
+          "39606",
+          "39630",
+          "39658",
+          "39692",
+          "39732",
+          "39802",
+          "39830",
+          "39901"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: flexible wire and cable | acronymed_core_product_name: fr-lsh wire and cable | type_or_class: FR-LSH (Flame Retardant Low Smoke and Halogen)",
+        "raw_product_name": "FR-LSH FLEXIBLE WIRES AND CABLES",
+        "list_of_product_ids": [
+          "39984",
+          "39985",
+          "39986",
+          "39987",
+          "39988",
+          "40154"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: flexible wire | material: Copper",
+        "raw_product_name": "FLEXIBLE COPPER WIRES",
+        "list_of_product_ids": [
+          "136",
+          "081",
+          "478",
+          "520",
+          "094"
+        ]
+      }
+    }
+  ]
+}

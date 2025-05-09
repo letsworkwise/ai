@@ -1,0 +1,65 @@
+{
+  "query": "core_product_name: earthing station | size: inspection chamber: 400(L)x400(W)x450(D)mm, block work thickness: 150mm, pipe diameter: 100mm ID, pipe thickness: 13mm, excavation: 400(W & L) | feature_or_specifications: inspection chamber cover: CI(cast iron), CI(cast iron) pipe, watering funnel with wire mesh, salt, charcoal, M10 bolts & nuts, universal stainless steel clamps, standard: IS3043(indian standard 3043)-2018, standard: NBC 2016(national building code 2016), feature: back filling around the rod or pipe",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: fitting | material: Cast Iron (CI)",
+        "raw_product_name": "FITTINGS -CAST IRON (CI)",
+        "list_of_product_ids": [
+          "7618",
+          "7292",
+          "7881",
+          "15941",
+          "16290",
+          "16308",
+          "34586",
+          "35732",
+          "35733"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: casting | material: Cast Iron",
+        "raw_product_name": "CASTING -CAST IRON",
+        "list_of_product_ids": [
+          "21885",
+          "21883",
+          "24612",
+          "39753",
+          "39842",
+          "39868",
+          "39927",
+          "40032"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: pipe alloy cast iron",
+        "raw_product_name": "PIPE ALLOY CAST IRON",
+        "list_of_product_ids": [
+          "7609",
+          "7284",
+          "7835",
+          "7837",
+          "33434"
+        ]
+      }
+    }
+  ]
+}

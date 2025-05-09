@@ -1,0 +1,68 @@
+{
+  "query": "core_product_name: flameproof double compression nickel plated brass cable gland | size: cable: 6 pair x 1.5 mm2, insulation: PVC(polyvinyl chloride), armoured, sheath: FRLS(fire retardant low smoke) PVC, shielded: overall, type: signal cable",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: control cable | size_or_capacity: 1100 Volts | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "1100 VOLTS GRADE PVC CONTROL CABLES",
+        "list_of_product_ids": [
+          "23936",
+          "24085",
+          "21514",
+          "28591"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: control cable | material: PVC (Polyvinyl Chloride) | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES:CONTROL-PVC/XLPE",
+        "list_of_product_ids": [
+          "6422",
+          "5592",
+          "10193",
+          "11360",
+          "10665",
+          "11368",
+          "11745",
+          "12088",
+          "12118",
+          "13289",
+          "13295",
+          "16038",
+          "16281",
+          "17782",
+          "23991",
+          "23860",
+          "40317"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC Conduit",
+        "list_of_product_ids": [
+          "16287",
+          "17401",
+          "21575",
+          "16288"
+        ]
+      }
+    }
+  ]
+}

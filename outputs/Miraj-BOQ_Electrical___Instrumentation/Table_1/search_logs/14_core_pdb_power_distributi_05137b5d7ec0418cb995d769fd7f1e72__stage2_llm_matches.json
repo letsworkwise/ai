@@ -1,0 +1,72 @@
+{
+  "query": "core_product_name: pdb (power distribution board) | acronymed_core_product_name: pdb | size: voltage: 415 V, phases: 3 phase, frequency: 50 Hz, enclosure thickness: 3 mm, incomer: 100 A tpn mccb, outgoing: 5 x 32 A tpn mccb | feature_or_specifications: type: weatherproof, type: flame proof (ip class suitable for flp), minimum protection: ip-65, enclosure: sheet steel, mounting: column/structural, feature: start/stop pb (push button), feature: indicating lamps, feature: frp (fiber reinforced plastic) canopy and side cover, feature: photovoltic cell based control, feature: a/m (auto/manual) selector switch",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: power distribution board | acronymed_core_product_name: pdb (power distribution board)",
+        "raw_product_name": "POWER DISTRIBUTION BOARD (PDB)",
+        "list_of_product_ids": [
+          "13892",
+          "14644",
+          "14778",
+          "14809",
+          "17930",
+          "17917",
+          "17892",
+          "17949",
+          "17939",
+          "18026",
+          "18008",
+          "18049",
+          "20762",
+          "20761",
+          "27494"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (pdb (power distribution board))",
+        "raw_product_name": "A.C. DISTRIBUTION BOARD (PDB)",
+        "list_of_product_ids": [
+          "14164",
+          "14792",
+          "14811",
+          "19308"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13583",
+          "14851",
+          "20281",
+          "22858",
+          "26788",
+          "26787",
+          "26786",
+          "26789",
+          "35773"
+        ]
+      }
+    }
+  ]
+}

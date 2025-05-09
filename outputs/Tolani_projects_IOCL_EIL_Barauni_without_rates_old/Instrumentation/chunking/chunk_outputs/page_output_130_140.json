@@ -1,0 +1,198 @@
+{
+  "sheet_name": "Instrumentation",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "1 Triad/ Quad x 1.5 mm² RTD/ LEL Cable",
+      "core_product_name": "rtd lel cable",
+      "acronymed_core_product_name": "",
+      "size": "configuration: 1 triad or quad, conductor size: 1.5 mm²",
+      "feature_or_specifications": "",
+      "quantity": "400.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "8 Triad/ Quad x 2.5 mm² RTD/ LEL Cable",
+      "core_product_name": "rtd lel cable",
+      "acronymed_core_product_name": "",
+      "size": "configuration: 8 triad or quad, conductor size: 2.5 mm²",
+      "feature_or_specifications": "",
+      "quantity": "1500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Laying of power cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs) including opening of cable duct covers if required clamping, glanding the cables, termination at both ends including shield/ drain/ communication wire providing and fixing of identifying tags and megger testing but exclusive of supply of multi cables and erection of ducts, main tray, perforated tray/ angle tray and preparation of cable trench For cable size   2C x 6 mm²",
+      "core_product_name": "power cable laying",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 6 mm²",
+      "feature_or_specifications": "laying location: ducts, main trays, perforated trays, angle trays, trenches; includes: opening of cable duct covers, clamping, glanding, termination at both ends, shield/drain/communication wire, identifying tags, megger testing; excludes: supply of multi cables, erection of ducts, trays, trench preparation",
+      "quantity": "800.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Laying of power cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs) including opening of cable duct covers if required clamping, glanding the cables, termination at both ends including shield/ drain/ communication wire providing and fixing of identifying tags and megger testing but exclusive of supply of multi cables and erection of ducts, main tray, perforated tray/ angle tray and preparation of cable trench For cable size   2C x 10 mm²",
+      "core_product_name": "power cable laying",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 10 mm²",
+      "feature_or_specifications": "laying location: ducts, main trays, perforated trays, angle trays, trenches; includes: opening of cable duct covers, clamping, glanding, termination at both ends, shield/drain/communication wire, identifying tags, megger testing; excludes: supply of multi cables, erection of ducts, trays, trench preparation",
+      "quantity": "800.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Laying of power cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs) including opening of cable duct covers if required clamping, glanding the cables, termination at both ends including shield/ drain/ communication wire providing and fixing of identifying tags and megger testing but exclusive of supply of multi cables and erection of ducts, main tray, perforated tray/ angle tray and preparation of cable trench For cable size   2C x 2.5 mm²",
+      "core_product_name": "power cable laying",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 2.5 mm²",
+      "feature_or_specifications": "laying location: ducts, main trays, perforated trays, angle trays, trenches; includes: opening of cable duct covers, clamping, glanding, termination at both ends, shield/drain/communication wire, identifying tags, megger testing; excludes: supply of multi cables, erection of ducts, trays, trench preparation",
+      "quantity": "400.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Laying of power cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs) including opening of cable duct covers if required clamping, glanding the cables, termination at both ends including shield/ drain/ communication wire providing and fixing of identifying tags and megger testing but exclusive of supply of multi cables and erection of ducts, main tray, perforated tray/ angle tray and preparation of cable trench For cable size   2C x 4 mm²",
+      "core_product_name": "power cable laying",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 4 mm²",
+      "feature_or_specifications": "laying location: ducts, main trays, perforated trays, angle trays, trenches; includes: opening of cable duct covers, clamping, glanding, termination at both ends, shield/drain/communication wire, identifying tags, megger testing; excludes: supply of multi cables, erection of ducts, trays, trench preparation",
+      "quantity": "800.0",
+      "unit": "m"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      130,
+      139
+    ],
+    "original_rows": [
+      {
+        "0": 372,
+        "1": 0,
+        "2": "01II.610.30.41",
+        "3": "1 Triad/ Quad x 1.5 mm² RTD/ LEL Cable",
+        "4": 400.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 373,
+        "1": 0,
+        "2": "01II.610.30.54",
+        "3": "8 Triad/ Quad x 2.5 mm² RTD/ LEL Cable",
+        "4": 1500.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 374,
+        "1": 0,
+        "2": "01II.610.80",
+        "3": "Laying of power cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs) including opening of cable duct covers if required clamping, glanding the cables, termination at both ends including shield/ drain/ communication wire providing and fixing of identifying tags and megger testing but exclusive of supply of multi cables and erection of ducts, main tray, perforated tray/ angle tray and preparation of cable trench",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 375,
+        "1": 0,
+        "2": "01II.610.80.1V2",
+        "3": "For cable size   2C x 6 mm²",
+        "4": 800.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 376,
+        "1": 0,
+        "2": "01II.610.80.1V3",
+        "3": "For cable size   2C x 10 mm²",
+        "4": 800.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 377,
+        "1": 0,
+        "2": "01II.610.80.1V7",
+        "3": "For cable size   2C x 2.5 mm²",
+        "4": 400.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 378,
+        "1": 0,
+        "2": "01II.610.80.1V10",
+        "3": "For cable size   2C x 4 mm²",
+        "4": 800.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 379,
+        "1": 0,
+        "2": "01II.630",
+        "3": "SAND FILLING IN TRENCHES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 380,
+        "1": 0,
+        "2": "01II.630.10",
+        "3": "Supply of sand and filling of concrete cable trenches with sand after cable laying is completed including levelling of sand and fixing back of precast concrete slabs on the trench.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 381,
+        "1": 0,
+        "2": "01II.630.10.4V4",
+        "3": "Trench Size   2000 mm (W) x 1500 mm   (D, total for trench, not depth of sand)",
+        "4": 50.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2598,
+    "completion_tokens": 1472
+  }
+}

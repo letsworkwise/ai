@@ -1,0 +1,158 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "WIRING",
+      "full_product_description": "GI earth plate as per std. 7-51-0103.",
+      "core_product_name": "gi earth plate",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "standard: 7-51-0103",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENTATION > PRESSURE INSTRUMENTS (Excl. supply Impulse pipe or Tubing materials) > Installation of Pressure Transmitters or Pressure Switches (with or without Pulsation Dampener, Over-range Protector)",
+      "full_product_description": "In   Carbon Steel   as per Standard   7-52-1221",
+      "core_product_name": "installation of pressure transmitters or pressure switches",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: carbon steel, standard: 7-52-1221",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENTATION > RADAR LEVEL INSTRUMENTS > Installation of radar sensor and antenna, flanged type connection on equipment nozzle or rail mounting with or without",
+      "full_product_description": "Installation of Top Mounted Radar",
+      "core_product_name": "installation of top mounted radar",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENTATION > RADAR LEVEL INSTRUMENTS > Installation of radar sensor and antenna, flanged type connection on equipment nozzle or rail mounting with or without",
+      "full_product_description": "Installation of Still well (8\") of Carbon/Stainless steel",
+      "core_product_name": "installation of still well",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 8 inch",
+      "feature_or_specifications": "material: carbon steel or stainless steel",
+      "quantity": "9.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      240,
+      249
+    ],
+    "original_rows": [
+      {
+        "0": 241,
+        "1": 0,
+        "2": "01EE.4050.10.10",
+        "3": "GI earth plate as per std. 7-51-0103.",
+        "4": 10.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 242,
+        "1": 0,
+        "2": "01II",
+        "3": "INSTRUMENTATION",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 243,
+        "1": 0,
+        "2": "01II.30",
+        "3": "PRESSURE INSTRUMENTS (Excl. supply Impulse pipe/Tubing materials)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 244,
+        "1": 0,
+        "2": "01II.30.10",
+        "3": "Installation of Pressure Transmitters/ Pressure Switches (with or without Pulsation Dampener, Over-range Protector)/",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 245,
+        "1": 0,
+        "2": "01II.30.10.1V31",
+        "3": "In   Carbon Steel   as per Standard   7-52-1221",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 246,
+        "1": 0,
+        "2": "01II.260",
+        "3": "RADAR LEVEL INSTRUMENTS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 247,
+        "1": 0,
+        "2": "01II.260.10",
+        "3": "Installation of radar sensor and antenna, flanged type connection on equipment nozzle/ rail mounting with/without",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 248,
+        "1": 0,
+        "2": "01II.260.10.2",
+        "3": "Installation of Top Mounted Radar",
+        "4": 9.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 249,
+        "1": 0,
+        "2": "01II.260.10.4",
+        "3": "Installation of Still well (8\") of Carbon/Stainless steel",
+        "4": 9.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 250,
+        "1": 0,
+        "2": "01II.297",
+        "3": "DISMANTLING OF EXISTING INSTRUMENTS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2512,
+    "completion_tokens": 719
+  }
+}

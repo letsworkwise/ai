@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: 90 degree vertical bend (outside) perforated | size: width: 300 mm",
+  "retrieval_results": [
+    {
+      "id": "variant-3efeda5d-6e70-51e8-8f2e-ad8a9436822e",
+      "score": 0.85811746,
+      "metadata": {
+        "text": "core_product_name: bend",
+        "raw_product_name": "BENDS",
+        "list_of_product_ids": "219,382,194,421,936",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-98279854-84dd-59c7-9a77-4d59d712ced7",
+      "score": 0.8529941,
+      "metadata": {
+        "text": "core_product_name: bend | special_attributes: 5D (5 times diameter) radius",
+        "raw_product_name": "5D BENDS",
+        "list_of_product_ids": "14162,18289,20009,20007,19998,21405,23291,37862,37395,40120,40094",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-383781f7-59ee-5d5b-8a29-cf16569a65fc",
+      "score": 0.8517355,
+      "metadata": {
+        "text": "core_product_name: welded fitting",
+        "raw_product_name": "FITTINGS – AS WELDED",
+        "list_of_product_ids": "14259,15973,19406,19805,19790,20139,22666,37085,37098",
+        "core_id": 878.0
+      }
+    },
+    {
+      "id": "variant-510d9426-29cd-560d-9a23-66266118ef65",
+      "score": 0.84843755,
+      "metadata": {
+        "text": "core_product_name: long radius bend",
+        "raw_product_name": "LONG RADIUS BENDS",
+        "list_of_product_ids": "6202,5370,11212,19493,30761,30763,30764,30590,37861,37394,39923,40028,40092,40121",
+        "core_id": 1381.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.84772086,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    },
+    {
+      "id": "variant-daaa9bea-3b2f-5a9d-afb4-91de4c10a7fa",
+      "score": 0.84732735,
+      "metadata": {
+        "text": "core_product_name: block forged fitting | material: exotic materials",
+        "raw_product_name": "FITTINGS BLOCK FORGED-EXOTIC MATLS.",
+        "list_of_product_ids": "6313,5484,24584,32513",
+        "core_id": 872.0
+      }
+    },
+    {
+      "id": "variant-9aa36f08-e097-54b1-94fe-8359583782f8",
+      "score": 0.8472633,
+      "metadata": {
+        "text": "core_product_name: orifice fitting",
+        "raw_product_name": "ORIFICE - FITTINGS",
+        "list_of_product_ids": "36537,36541,36539,36546",
+        "core_id": 1602.0
+      }
+    },
+    {
+      "id": "variant-c272cfc6-cf4b-5ec8-ab5f-7397cd5600cc",
+      "score": 0.84678555,
+      "metadata": {
+        "text": "core_product_name: horizontal brace",
+        "raw_product_name": "HORIZONTAL BRACE",
+        "list_of_product_ids": "199,091,991,428,350",
+        "core_id": 1141.0
+      }
+    },
+    {
+      "id": "variant-39fce78b-8d44-56c5-9c95-7e9a9934ea56",
+      "score": 0.846475,
+      "metadata": {
+        "text": "core_product_name: width gauge",
+        "raw_product_name": "Width Gauge",
+        "list_of_product_ids": "7552,7226,10509,18014",
+        "core_id": 2491.0
+      }
+    },
+    {
+      "id": "variant-f126676e-a62f-52a6-ba06-b09e7951e71e",
+      "score": 0.8462803,
+      "metadata": {
+        "text": "core_product_name: forged fitting",
+        "raw_product_name": "FORGED FITTINGS",
+        "list_of_product_ids": "13660,22252,24586,36933",
+        "core_id": 972.0
+      }
+    },
+    {
+      "id": "variant-a8af20a3-6309-5504-b1b4-ba416fb90ee4",
+      "score": 0.84612375,
+      "metadata": {
+        "text": "core_product_name: circular hollow section",
+        "raw_product_name": "CIRCULAR HOLLOW SECTION",
+        "list_of_product_ids": "199,101,991,528,351",
+        "core_id": 356.0
+      }
+    },
+    {
+      "id": "variant-83351410-76f3-5cb0-86b0-0ae6f6887ba6",
+      "score": 0.8459541,
+      "metadata": {
+        "text": "core_product_name: surface texture paint | operating_conditions: exterior",
+        "raw_product_name": "SURFACE TEXTURE PAINT(EXTERIOR)",
+        "list_of_product_ids": "200,832,007,920,715",
+        "core_id": 2154.0
+      }
+    },
+    {
+      "id": "variant-aced03b4-d6e4-5165-b3cf-7a7e7de87bc6",
+      "score": 0.8459177,
+      "metadata": {
+        "text": "core_product_name: perforated cable tray",
+        "raw_product_name": "Perforrated Cable Tray",
+        "list_of_product_ids": "7,013,732,126,432",
+        "core_id": 1054.0
+      }
+    },
+    {
+      "id": "variant-1db4e99b-7e61-5b85-b423-76e2c8c1a44a",
+      "score": 0.84548855,
+      "metadata": {
+        "text": "core_product_name: welded pipe fitting",
+        "raw_product_name": "PIPE FITTINGS WELDED",
+        "list_of_product_ids": "14095,15741,16054,16259,16577,19721,20934,22919,16612",
+        "core_id": 1659.0
+      }
+    },
+    {
+      "id": "variant-3de79660-805a-508e-8ef2-52b9b35045f1",
+      "score": 0.8450218,
+      "metadata": {
+        "text": "core_product_name: exterior emulsion | material: Acrylic",
+        "raw_product_name": "Exterior Acrylic Emulsion",
+        "list_of_product_ids": "13433,14316,14463,30752,30778,30817,31888,35648,35647,35646,35645,35644",
+        "core_id": 786.0
+      }
+    },
+    {
+      "id": "variant-87a566b6-5a86-509b-86ac-e597dd349665",
+      "score": 0.844997,
+      "metadata": {
+        "text": "core_product_name: welded structural item",
+        "raw_product_name": "STRUCTURAL ITEM (WELDED)",
+        "list_of_product_ids": "173,361,733,427,923",
+        "core_id": 2136.0
+      }
+    },
+    {
+      "id": "variant-23e58590-d2ac-5b22-a610-31932bda884c",
+      "score": 0.8448558,
+      "metadata": {
+        "text": "core_product_name: external navigation",
+        "raw_product_name": "EXTERNAL NAVIGATION",
+        "list_of_product_ids": "23403,23402,23399,28025,28230,28228",
+        "core_id": 777.0
+      }
+    },
+    {
+      "id": "variant-dd81f7e2-3f3e-5582-9a0c-afea580b1559",
+      "score": 0.843222,
+      "metadata": {
+        "text": "core_product_name: outdoor insulator and bushing | size_or_capacity: 33kV | operating_conditions: Outdoor",
+        "raw_product_name": "33kV outdoor Insulator & Bushing",
+        "list_of_product_ids": "14156,16118,17436,18328,21499",
+        "core_id": 8.0
+      }
+    },
+    {
+      "id": "variant-c1546840-79b1-5405-bbea-166aecd28e2f",
+      "score": 0.84320456,
+      "metadata": {
+        "text": "core_product_name: hot induction bend",
+        "raw_product_name": "HOT INDUCTION BEND",
+        "list_of_product_ids": "6304,5475,10335,11399,12134,31798,31799,31797,34691",
+        "core_id": 1156.0
+      }
+    },
+    {
+      "id": "variant-91f11189-0c2a-5fbb-b670-57922dde3583",
+      "score": 0.84298605,
+      "metadata": {
+        "text": "core_product_name: inner wrap | material: Fibre Glass",
+        "raw_product_name": "FIBRE GLASS INNER WRAP",
+        "list_of_product_ids": "1,403,122,566",
+        "core_id": 816.0
+      }
+    },
+    {
+      "id": "variant-2750c753-642a-560b-982a-ebaf6599dc73",
+      "score": 0.8427433,
+      "metadata": {
+        "text": "core_product_name: turbine pump | mounting_or_installation: vertical",
+        "raw_product_name": "TURBINE PUMPS-VERTICAL",
+        "list_of_product_ids": "37783,37784,37785,37794,37795,37796,37797,37809",
+        "core_id": 2294.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.84230417,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-74503a1f-fa22-5c08-ac97-9f8dba31f1f4",
+      "score": 0.841953,
+      "metadata": {
+        "text": "core_product_name: conduit fitting",
+        "raw_product_name": "FITTINGS (CONDUIT)",
+        "list_of_product_ids": "165,391,654,021,574",
+        "core_id": 870.0
+      }
+    },
+    {
+      "id": "variant-f1aaaa16-e4d1-54f0-902f-ed534e654ad6",
+      "score": 0.84191436,
+      "metadata": {
+        "text": "core_product_name: expansion bellow | material: Metallic",
+        "raw_product_name": "Mettalic Expansion Bellows",
+        "list_of_product_ids": "13753,22100,23437,23436,32732",
+        "core_id": 1526.0
+      }
+    },
+    {
+      "id": "variant-7fd4cfef-d998-5282-9241-7387b128f297",
+      "score": 0.8417621,
+      "metadata": {
+        "text": "core_product_name: round | material: MS (Mild Steel)",
+        "raw_product_name": "MS ROUND",
+        "list_of_product_ids": "30196,32891,13504,13511,13489,13518,13524,13530,13537,13544,13558,13551,26246,29406,16067,16106,29429,31907,17722,17738,29467,29481,29534,23326,29888,30348,29540,29570,29855,30356,31544,31688,24732,31134,24751,24759,24870,24858,24847,24894,31379,24916,24925,24903,31573,25001,30790,25020,25005,25049,25038,25031,29605,30910,25083,25074,25065,25060,25108,25117,30379,30538,25129,25138,25156,25168,25195,25184,25177,25206,25218,25236,25257,25246,25271,25287,25297,25301,25314,25339,25323,25351,25367,25390,25379,25410,30948,31144,25495,29629,30031,30399,31166,31386,31832,25862,31862,25934,30547,31337,31842,31406,31597,25976,30061,26121,26155,29682,30572,31090,26180,26274,26306,30964,31446,26332,26357,30088,30594,26378,26443,26492,26466,26534,26540,26572,26598,30434,26621,26644,26702,29697,30105,26725,26821,26830,30619,30985,26913,26949,26976,27007,27157,30457,27186,30128,31198,27233,30168,30149,30657,27261,27290,29722,27313,27393,31454,27419,27445,27557,29742,31223,27585,27614,27668,27686,27846,27893,27853,27936,27966,29771,30671,31052,28000,30487,31737,28036,28102,28152,28138,30216,31644,28324,28301,31261,28358,30243,28389,28445,28470,28520,29799,31265,31477,31619,28552,28647,28685,28700,30700,28726,28863,28857,28887,29828,28939,30265,31291,28944,28976,31683,29016,29023,30721,31514,31010,29068,29072,30305,31315,31522,31070,29160,29136,29163,29192,29229,30313,29348,29325,29351,29375,31943,31951,31974,32024,31996,32052,32090,32114,32145,32173,32207,32257,32373,32309,32335,32411,32433,32455,32538,32588,32617,32637,32665,32735,32781,32824,32855,32916,32966,33052,33072,33104,33156,33131,33221,33288,33316,33358,33399,33468,33519,33580,33654,33693,33722,33741,33765,33793,33827,33877,33853,33924,33963,34046,34067,34096,34123,34148,34179,34201,34223,34261,34290,34356,34385,34424,34446,34468,34503,34525,34548,34605,34654,34707,34737,34758,34805,34784,34860,34831,34884,34935,35024,35059,35081,35103,35125,35168",
+        "core_id": 1511.0
+      }
+    },
+    {
+      "id": "variant-3db894e5-e02e-5e9a-b192-8d3acc970269",
+      "score": 0.84175766,
+      "metadata": {
+        "text": "core_product_name: rectangular hollow section",
+        "raw_product_name": "Rectangular Hollow Section",
+        "list_of_product_ids": "28759,28757,28762,37159",
+        "core_id": 1942.0
+      }
+    },
+    {
+      "id": "variant-b08f8763-87d3-5136-a6d0-f8e112b85154",
+      "score": 0.84137416,
+      "metadata": {
+        "text": "core_product_name: flange | material: Exotic",
+        "raw_product_name": "FLANGES-EXOTIC",
+        "list_of_product_ids": "6276,5446,10701,8782,12877,12873,12890,12896,12924,12939,12947,12955,12899,12943,12951,21701,24555",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-a42bdd25-7045-52a3-ba51-f803ecb7d773",
+      "score": 0.8412844,
+      "metadata": {
+        "text": "core_product_name: forged pipe fitting",
+        "raw_product_name": "FORGED PIPE FITTINGS",
+        "list_of_product_ids": "13663,14901,15749,16041,16260,19726,19799,20064,22660,22654,22913",
+        "core_id": 971.0
+      }
+    },
+    {
+      "id": "variant-d64c0a62-67cf-5e7c-aed9-dee5124ae5bf",
+      "score": 0.8412206,
+      "metadata": {
+        "text": "core_product_name: welded duct",
+        "raw_product_name": "DUCTS (WELDED)",
+        "list_of_product_ids": "21034,21033,21030,27074",
+        "core_id": 642.0
+      }
+    },
+    {
+      "id": "variant-5772c935-a8e7-5c00-b817-cded289d9fcf",
+      "score": 0.84089214,
+      "metadata": {
+        "text": "core_product_name: welded welded pipe",
+        "raw_product_name": "WELDED PIPES",
+        "list_of_product_ids": "6293,5464,19344,26239,36943,36949,37094,37133,35976,37155",
+        "core_id": 2457.0
+      }
+    }
+  ]
+}

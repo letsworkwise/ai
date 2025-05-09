@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: fire water mcc | acronymed_core_product_name: mcc | size: voltage: 415v, phase: 3phase, wire: 4 wire, frequency: 50 hz, current: 400a, short circuit rating: 50ka for 1 second | feature_or_specifications: feature: as per attached sld (single line diagram), specifications & ds (data sheet)",
+  "retrieval_results": [
+    {
+      "id": "variant-5a827aa7-391f-5f70-92bd-88bb21f7214d",
+      "score": 0.8663165,
+      "metadata": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: mcc (motor control center) switchgear panel | size_or_capacity: 415V | type_or_class: MCC (Motor Control Center)",
+        "raw_product_name": "415V SWITCHGEAR PANEL (MCC)",
+        "list_of_product_ids": "15389,14160,14609,17689,38512",
+        "core_id": 18.0
+      }
+    },
+    {
+      "id": "variant-8c60a1ce-e935-5daf-b164-6e8411da4e0c",
+      "score": 0.8591486,
+      "metadata": {
+        "text": "core_product_name: miniature circuit breaker | acronymed_core_product_name: mcb",
+        "raw_product_name": "MCB",
+        "list_of_product_ids": "6462,5633,10157,10663,9350,9447,9151,9187,9219,9361,11905,11944,17873,19028,19645,19652,20775,21203,19140,38290,36563",
+        "core_id": 1446.0
+      }
+    },
+    {
+      "id": "variant-713fd69d-ab73-5753-944b-8d88aa60d791",
+      "score": 0.85529095,
+      "metadata": {
+        "text": "core_product_name: inside panel | acronymed_core_product_name: mcb (miniature circuit breaker) panel | type_or_class: Flush type only",
+        "raw_product_name": "MCB Inside Panels (Flush type only)",
+        "list_of_product_ids": "1,371,214,885",
+        "core_id": 1448.0
+      }
+    },
+    {
+      "id": "variant-ab504ac4-821a-595c-8f97-df623e5cf3a5",
+      "score": 0.85402596,
+      "metadata": {
+        "text": "core_product_name: fire survival power cable | acronymed_core_product_name: mv (medium voltage) power cable | type_or_class: MV (Medium Voltage) | protection_features: Fire Survival",
+        "raw_product_name": "MV POWER CABLE - FIRE SURVIVAL",
+        "list_of_product_ids": "6421,5591,10187,10661,13287,23990,23859,26972,26971,26970,26969,26943,26942",
+        "core_id": 1520.0
+      }
+    },
+    {
+      "id": "variant-f6a18ba6-80f9-5f03-b07c-23de6db1ad6c",
+      "score": 0.85312736,
+      "metadata": {
+        "text": "core_product_name: fire water service",
+        "raw_product_name": "FIRE WATER SERVICES",
+        "list_of_product_ids": "142,571,640,921,796",
+        "core_id": 862.0
+      }
+    },
+    {
+      "id": "variant-0f1e1ce5-671f-518b-b863-86f86d8242c6",
+      "score": 0.8512017,
+      "metadata": {
+        "text": "core_product_name: motor control center | acronymed_core_product_name: mcc package",
+        "raw_product_name": "MCC PACKAGE",
+        "list_of_product_ids": "23571,23614,23565,23559,23554,23549,23541,23532",
+        "core_id": 1447.0
+      }
+    },
+    {
+      "id": "variant-0aeaa826-5516-5348-9975-26ded8737497",
+      "score": 0.85083747,
+      "metadata": {
+        "text": "core_product_name: a.c. (alternating current) variable speed drive | acronymed_core_product_name: a.c. variable speed drive | type_or_class: MV (medium voltage) | size_or_capacity: upto 690 V output",
+        "raw_product_name": "A.C. VARIABLE SPEED DRIVE - MV (UPTO 690 V O/P)",
+        "list_of_product_ids": "5606,6436,10990,10495,10864,10867,10885,12247,12203,23629,21988,24406,24404,24403,24401,24633,24408,27059,38191,35375",
+        "core_id": 22.0
+      }
+    },
+    {
+      "id": "variant-50985070-9f03-5bda-8aff-50bb3ee6ccad",
+      "score": 0.84965944,
+      "metadata": {
+        "text": "core_product_name: fire retardant low smoke cable | acronymed_core_product_name: frls cable (fire retardant low smoke cable) | size_or_capacity: 1.1 KV | protection_features: fire retardant | protection_features: low smoke | type_or_class: FRLS (Fire Retardant Low Smoke)",
+        "raw_product_name": "1.1 KV FIRE RETARDANT LOW SMOKE CABLES(FRLS)",
+        "list_of_product_ids": "1,029,021,403",
+        "core_id": 5.0
+      }
+    },
+    {
+      "id": "variant-66428c5d-a639-522d-aaa2-7f9a9c972ac1",
+      "score": 0.84743226,
+      "metadata": {
+        "text": "core_product_name: system package | acronymed_core_product_name: m v (medium voltage) system package",
+        "raw_product_name": "M V SYSTEM PACKAGE",
+        "list_of_product_ids": "6392,5563,11219,24475,24474,24473,24472",
+        "core_id": 1089.0
+      }
+    },
+    {
+      "id": "variant-745585a2-6775-5a0c-b4f3-e9f18b6d93b5",
+      "score": 0.8470775,
+      "metadata": {
+        "text": "core_product_name: power transformer | acronymed_core_product_name: ICT (Interconnecting Transformer) | size_or_capacity: 400KV | type_or_class: ICT (Interconnecting Transformer)",
+        "raw_product_name": "POWER TRANSFORMER 400KV ICT",
+        "list_of_product_ids": "35814,35813,35818,35877",
+        "core_id": 1747.0
+      }
+    },
+    {
+      "id": "variant-b4362067-687b-5a03-99f1-066cbc388dac",
+      "score": 0.84563637,
+      "metadata": {
+        "text": "core_product_name: source calibrator | size_or_capacity: current or voltage | size_or_capacity: milliampere (mA) or millivolt (mV)",
+        "raw_product_name": "CURRENT/VOLTAGE MV/MA SOURCE(CALIBRATOR)",
+        "list_of_product_ids": "21253,21255,28583,21960",
+        "core_id": 542.0
+      }
+    },
+    {
+      "id": "variant-42e413c1-45b4-524c-9c6d-558ade10f37b",
+      "score": 0.84554935,
+      "metadata": {
+        "text": "core_product_name: power cable | acronymed_core_product_name: lt (low tension) power cable | size_or_capacity: 1.1 kV (kilovolt) | type_or_class: LT (Low Tension)",
+        "raw_product_name": "1.1 KV LT POWER CABLES",
+        "list_of_product_ids": "14145,14823,14829,14842,24049,23900",
+        "core_id": 3.0
+      }
+    },
+    {
+      "id": "variant-20b27263-3217-5577-a066-be18615871ad",
+      "score": 0.84496504,
+      "metadata": {
+        "text": "core_product_name: molded case circuit breaker | acronymed_core_product_name: MCCB (Molded Case Circuit Breaker)",
+        "raw_product_name": "MCCB",
+        "list_of_product_ids": "6463,5634,10536,10191,9351,9152,9154,11938,19030,19029,20774,21202,36564,38080",
+        "core_id": 1449.0
+      }
+    },
+    {
+      "id": "variant-d9551c9c-6903-5119-bb02-6cfc10a7d7d7",
+      "score": 0.84472436,
+      "metadata": {
+        "text": "core_product_name: fixed switchboard | acronymed_core_product_name: switchboard-mv | type_or_class: Medium Voltage (MV) | type_or_class: Motor Control Center (MCC) or Automatic Switchboard (ASB) or Lighting Distribution Board (LDB)",
+        "raw_product_name": "SWITCHBOARD-MV:MCC/ASB/LDB-FIXED TYPE",
+        "list_of_product_ids": "19303,19302,19301,19253,19347,19304,19306,19256,21373,21358,21354,24425,24427,26856",
+        "core_id": 2175.0
+      }
+    },
+    {
+      "id": "variant-1105631b-0b22-54a6-a4f0-6a6c11ad3f7e",
+      "score": 0.8446687,
+      "metadata": {
+        "text": "core_product_name: cathodic protection agency",
+        "raw_product_name": "CATHODIC PROTECTION AGENCIES",
+        "list_of_product_ids": "13890",
+        "core_id": 314.0
+      }
+    },
+    {
+      "id": "variant-ca879ee1-6185-58ec-8575-4c058bae7443",
+      "score": 0.8446294,
+      "metadata": {
+        "text": "core_product_name: a.c. (alternating current) variable speed drive | acronymed_core_product_name: a.c. variable speed drive | operating_conditions: hv (high voltage) | size_or_capacity: above 690v o/p (output)",
+        "raw_product_name": "A.C. VARIABLE SPEED DRIVE - HV (ABOVE 690V O/P)",
+        "list_of_product_ids": "21987,24632,24646,24628,24631,24630,24629,24350,21979,35374",
+        "core_id": 22.0
+      }
+    },
+    {
+      "id": "variant-f58a34d2-d54f-56cf-8c8a-d7ac1cefe2b0",
+      "score": 0.84447795,
+      "metadata": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: PMCC (Power Motor Control Center) switchgear panel | size_or_capacity: 415V | type_or_class: PMCC (Power Motor Control Center)",
+        "raw_product_name": "415V SWITCHGEAR PANEL (PMCC)",
+        "list_of_product_ids": "15388,14161,14610,17705,17688,38510",
+        "core_id": 18.0
+      }
+    },
+    {
+      "id": "variant-11fd4851-b53d-5354-8701-6060ebf8322c",
+      "score": 0.8443013,
+      "metadata": {
+        "text": "core_product_name: switchgear panel | acronymed_core_product_name: pcc (power control center) switchgear panel | size_or_capacity: 415V | type_or_class: PCC (Power Control Center)",
+        "raw_product_name": "415V SWITCHGEAR PANEL (PCC)",
+        "list_of_product_ids": "176,911,769,018,664",
+        "core_id": 18.0
+      }
+    },
+    {
+      "id": "variant-7c83b144-2261-5ef3-ada0-0823013e3c85",
+      "score": 0.8442931,
+      "metadata": {
+        "text": "core_product_name: fire water sprinkler system",
+        "raw_product_name": "FIRE WATER SPRINKLER SYSTEM",
+        "list_of_product_ids": "23980,23982,23983,27056",
+        "core_id": 864.0
+      }
+    },
+    {
+      "id": "variant-d5603fec-7eee-5c5b-88c8-79e978aace76",
+      "score": 0.8442452,
+      "metadata": {
+        "text": "core_product_name: converter | type_or_class: frequency to current",
+        "raw_product_name": "CONVERTER (FREQUENCY TO CURRENT )",
+        "list_of_product_ids": "16377,16435,16467,16639",
+        "core_id": 472.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.844171,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-c03e0ba5-aa70-53fc-9eb3-267f46d459cb",
+      "score": 0.8437999,
+      "metadata": {
+        "text": "core_product_name: cathodic protection power supply module",
+        "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+        "list_of_product_ids": "6413,5583,8417,12209",
+        "core_id": 315.0
+      }
+    },
+    {
+      "id": "variant-3f25b868-00d7-516e-8240-400056c7bf4c",
+      "score": 0.8437937,
+      "metadata": {
+        "text": "core_product_name: motor control centre | acronymed_core_product_name: mcc (motor control centre)",
+        "raw_product_name": "Motor Control Centre (MCC)",
+        "list_of_product_ids": "7619,7293,11204,11218,10538,10190,7885,7887,7884,7886,12216,17704,17929,17916,17891,17948,17938,18025,18007,18048,20021,20011,20016,36642,35962",
+        "core_id": 1530.0
+      }
+    },
+    {
+      "id": "variant-68b57dbb-5053-511e-94f6-80656736a45d",
+      "score": 0.8435097,
+      "metadata": {
+        "text": "core_product_name: test | acronymed_core_product_name: mlc test",
+        "raw_product_name": "MLC Test",
+        "list_of_product_ids": "13102",
+        "core_id": 1485.0
+      }
+    },
+    {
+      "id": "variant-0767adda-a479-5b3c-8135-f32c4459439a",
+      "score": 0.8434764,
+      "metadata": {
+        "text": "core_product_name: fixed switchboard | acronymed_core_product_name: M.V. (Medium Voltage) MCC (Motor Control Center) or PCC (Power Control Center) or PMCC (Power Motor Control Center) switchboard | type_or_class: M.V. (Medium Voltage) | type_or_class: MCC (Motor Control Center) | type_or_class: PCC (Power Control Center) | type_or_class: PMCC (Power Motor Control Center)",
+        "raw_product_name": "SWITCHBOARD-M.V.-MCC/PCC/PMCC-FIXED TYPE",
+        "list_of_product_ids": "213,952,139,327,606",
+        "core_id": 2175.0
+      }
+    },
+    {
+      "id": "variant-05000076-5a77-592b-8a53-3c88542be2d1",
+      "score": 0.8434714,
+      "metadata": {
+        "text": "core_product_name: drawout switchboard | acronymed_core_product_name: M.V. (Medium Voltage) MCC (Motor Control Center) or PCC (Power Control Center) or PMCC (Power Motor Control Center) switchboard | type_or_class: M.V. (Medium Voltage) | type_or_class: MCC (Motor Control Center) | type_or_class: PCC (Power Control Center) | type_or_class: PMCC (Power Motor Control Center)",
+        "raw_product_name": "SWITCHBOARD-M.V.-MCC/PCC/PMCC-DRAWOUT",
+        "list_of_product_ids": "6388,5559,11010,10537,14619,24432,24431,24430,24429,24428",
+        "core_id": 2176.0
+      }
+    },
+    {
+      "id": "variant-93aa8f5d-5aef-5b37-baaf-95eb9e4ea33d",
+      "score": 0.8430047,
+      "metadata": {
+        "text": "core_product_name: fire water pump",
+        "raw_product_name": "FIRE WATER PUMP",
+        "list_of_product_ids": "11565,7051,7378,17814,18995,19771,36944",
+        "core_id": 861.0
+      }
+    },
+    {
+      "id": "variant-8fe75b2b-6667-5672-92af-b5e2b55f30aa",
+      "score": 0.84299153,
+      "metadata": {
+        "text": "core_product_name: cathodic protection system",
+        "raw_product_name": "Cathodic Protection System",
+        "list_of_product_ids": "18681,19166,21519,18680,36550",
+        "core_id": 503.0
+      }
+    },
+    {
+      "id": "variant-30ba7b7c-4349-5ae1-b9ed-81ec0b2af986",
+      "score": 0.84284574,
+      "metadata": {
+        "text": "core_product_name: high voltage capacitor | size_or_capacity: High Voltage",
+        "raw_product_name": "CAPACITORS-HIGH VOLTAGE",
+        "list_of_product_ids": "6427,5597,10503,10567,11340,12080",
+        "core_id": 295.0
+      }
+    },
+    {
+      "id": "variant-00f51218-255e-5e84-b9b5-3bd24df941ba",
+      "score": 0.8426159,
+      "metadata": {
+        "text": "core_product_name: fire hydrant system",
+        "raw_product_name": "FIRE HYDRANT SYSTEM",
+        "list_of_product_ids": "14125,20105,38855,38687,38883,38824,38885,38889",
+        "core_id": 855.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.86823523,
+      "text": "core_product_name: power transformer | size_or_capacity: above 5 MVA (Mega Volt Ampere)",
+      "core_id": 1747.0,
+      "raw_product_name": "TRANSFORMERS-POWER-ABOVE 5MVA",
+      "list_of_product_ids": [
+        "6408",
+        "5579",
+        "11387",
+        "7909",
+        "7924",
+        "9419",
+        "24543",
+        "24545",
+        "24544",
+        "24542",
+        "24541",
+        "35401"
+      ]
+    },
+    {
+      "retrieval_score": 0.8607686,
+      "text": "core_product_name: oil type transformer | size_or_capacity: above 33 kV",
+      "core_id": 152.0,
+      "raw_product_name": "Above 33 kV (Oil Type) TRANSFORMER",
+      "list_of_product_ids": [
+        "7303",
+        "7351",
+        "11724",
+        "7923",
+        "7917",
+        "14854",
+        "35393"
+      ]
+    },
+    {
+      "retrieval_score": 0.8596553,
+      "text": "core_product_name: transformer | size_or_capacity: Above 33 kV (kilovolt)",
+      "core_id": 1404.0,
+      "raw_product_name": "TRANSFORMER Above 33 kV",
+      "list_of_product_ids": [
+        "13957",
+        "14856",
+        "19765",
+        "35390"
+      ]
+    },
+    {
+      "retrieval_score": 0.8585548,
+      "text": "core_product_name: power transformer",
+      "core_id": 1747.0,
+      "raw_product_name": "POWER TRANSFORMER",
+      "list_of_product_ids": [
+        "16988",
+        "16987",
+        "16984",
+        "16983",
+        "17024",
+        "17038",
+        "17019",
+        "17013",
+        "17198",
+        "17177",
+        "17171",
+        "17163",
+        "17258",
+        "17247",
+        "17246",
+        "17240",
+        "17229",
+        "17220",
+        "35402",
+        "35820",
+        "35963"
+      ]
+    },
+    {
+      "retrieval_score": 0.8576585,
+      "text": "core_product_name: distribution transformer | size_or_capacity: up to 5 MVA (Mega Volt Ampere)",
+      "core_id": 606.0,
+      "raw_product_name": "TRANSFORMERS-DISTRIBUTION-UPTO 5MVA",
+      "list_of_product_ids": [
+        "6409",
+        "5580",
+        "7925",
+        "24550",
+        "24549",
+        "24548",
+        "24547"
+      ]
+    },
+    {
+      "retrieval_score": 0.8553458,
+      "text": "core_product_name: power or distribution transformer",
+      "core_id": 1739.0,
+      "raw_product_name": "POWER & DISTRIBUTION TRANSFORMERS",
+      "list_of_product_ids": [
+        "7020",
+        "7340",
+        "10181",
+        "10195",
+        "10207",
+        "10180",
+        "10218",
+        "11723",
+        "14858",
+        "21601",
+        "35405",
+        "35845"
+      ]
+    },
+    {
+      "retrieval_score": 0.8545066,
+      "text": "core_product_name: power transformer | type_or_class: Oil Type | size_or_capacity: 33 or 6.6 kV",
+      "core_id": 1747.0,
+      "raw_product_name": "POWER TRANSFORMER (OIL TYPE) (33/6.6 kV)",
+      "list_of_product_ids": [
+        "1",
+        "385",
+        "923",
+        "137"
+      ]
+    },
+    {
+      "retrieval_score": 0.8542652,
+      "text": "core_product_name: transformer | size_or_capacity: Up to 33 kV (kilovolt)",
+      "core_id": 1404.0,
+      "raw_product_name": "TRANSFORMER Up to 33 kV",
+      "list_of_product_ids": [
+        "13958",
+        "15331",
+        "19764",
+        "35391"
+      ]
+    },
+    {
+      "retrieval_score": 0.8532003,
+      "text": "core_product_name: potential transformer",
+      "core_id": 1738.0,
+      "raw_product_name": "POTENTIAL TRANSFORMER",
+      "list_of_product_ids": [
+        "13843",
+        "15647",
+        "15654",
+        "14631",
+        "17269",
+        "17268",
+        "17267",
+        "17266",
+        "17751",
+        "18280",
+        "18300",
+        "23019",
+        "35382"
+      ]
+    },
+    {
+      "retrieval_score": 0.85256493,
+      "text": "core_product_name: oil type transformer | size_or_capacity: Up to 33 kV (kilovolt)",
+      "core_id": 152.0,
+      "raw_product_name": "Up to 33 kV (Oil Type) TRANSFORMER",
+      "list_of_product_ids": [
+        "9818",
+        "7567",
+        "7241",
+        "7920",
+        "7926",
+        "7911",
+        "7922",
+        "9291",
+        "8253",
+        "9292",
+        "35392"
+      ]
+    },
+    {
+      "retrieval_score": 0.85142106,
+      "text": "core_product_name: outdoor potential transformer | acronymed_core_product_name: pt | size_or_capacity: 33kV",
+      "core_id": 17.0,
+      "raw_product_name": "33kV outdoor CT/ PT",
+      "list_of_product_ids": [
+        "7061",
+        "7388",
+        "18218",
+        "18377",
+        "19058"
+      ]
+    },
+    {
+      "retrieval_score": 0.8489473,
+      "text": "core_product_name: geared motor | size_or_capacity: 5 kW and above",
+      "core_id": 1084.0,
+      "raw_product_name": "Geared Motor (5 kW and above)",
+      "list_of_product_ids": [
+        "7032",
+        "7359",
+        "10514",
+        "10807",
+        "10805",
+        "35412"
+      ]
+    },
+    {
+      "retrieval_score": 0.8485377,
+      "text": "core_product_name: transformer",
+      "core_id": 1404.0,
+      "raw_product_name": "TRANSFORMERS",
+      "list_of_product_ids": [
+        "13976",
+        "15330",
+        "23987",
+        "19758",
+        "20787",
+        "21193",
+        "35356",
+        "35377"
+      ]
+    },
+    {
+      "retrieval_score": 0.8483516,
+      "text": "core_product_name: distribution transformer",
+      "core_id": 606.0,
+      "raw_product_name": "DISTRIBUTION TRANSFORMERS",
+      "list_of_product_ids": [
+        "15552",
+        "15542",
+        "15546",
+        "13684",
+        "15548",
+        "14869",
+        "15539",
+        "15550"
+      ]
+    },
+    {
+      "retrieval_score": 0.8471039,
+      "text": "core_product_name: geared coupling | size_or_capacity: 50 kW and above",
+      "core_id": 1083.0,
+      "raw_product_name": "Geared Coupling(50 kW and above)",
+      "list_of_product_ids": [
+        "7046",
+        "7373",
+        "9729",
+        "18764",
+        "18774"
+      ]
+    },
+    {
+      "retrieval_score": 0.846826,
+      "text": "core_product_name: auxiliary oil filled transformer",
+      "core_id": 162.0,
+      "raw_product_name": "Auxiliary Oil Filled Transformers",
+      "list_of_product_ids": [
+        "7304",
+        "7352",
+        "7927",
+        "7930",
+        "7929",
+        "19766",
+        "35395"
+      ]
+    },
+    {
+      "retrieval_score": 0.84654754,
+      "text": "core_product_name: gearbox | size_or_capacity: above 50 kW (kilowatt)",
+      "core_id": 1048.0,
+      "raw_product_name": "GEARBOX (ABOVE 50 KW)",
+      "list_of_product_ids": [
+        "17847",
+        "17844",
+        "18653",
+        "18730",
+        "22161"
+      ]
+    },
+    {
+      "retrieval_score": 0.84634703,
+      "text": "core_product_name: control transformer",
+      "core_id": 465.0,
+      "raw_product_name": "CONTROL TRANSFORMER",
+      "list_of_product_ids": [
+        "15644",
+        "15652",
+        "14052",
+        "14630",
+        "19169",
+        "18277",
+        "18299",
+        "20133",
+        "23018",
+        "35387"
+      ]
+    },
+    {
+      "retrieval_score": 0.84607303,
+      "text": "core_product_name: axial fan | size_or_capacity: >= 5KW",
+      "core_id": 802.0,
+      "raw_product_name": "FAN- AXIAL > = 5KW",
+      "list_of_product_ids": [
+        "17190",
+        "17186",
+        "19354",
+        "29945",
+        "29942",
+        "29941",
+        "29946",
+        "27098",
+        "29944",
+        "29943"
+      ]
+    },
+    {
+      "retrieval_score": 0.8451909,
+      "text": "core_product_name: transformer-rectifier unit",
+      "core_id": 2273.0,
+      "raw_product_name": "TRANSFORMER-RECTIFIER UNIT",
+      "list_of_product_ids": [
+        "21792",
+        "21799",
+        "27105",
+        "35396"
+      ]
+    },
+    {
+      "retrieval_score": 0.8449112,
+      "text": "core_product_name: on load tap changer",
+      "core_id": 1592.0,
+      "raw_product_name": "ON LOAD TAP CHANGER",
+      "list_of_product_ids": [
+        "6467",
+        "5638",
+        "10569",
+        "11338",
+        "18106",
+        "23138",
+        "26084"
+      ]
+    },
+    {
+      "retrieval_score": 0.8446479,
+      "text": "core_product_name: power transformer | acronymed_core_product_name: ICT (Interconnecting Transformer) | size_or_capacity: 400KV | type_or_class: ICT (Interconnecting Transformer)",
+      "core_id": 1747.0,
+      "raw_product_name": "POWER TRANSFORMER 400KV ICT",
+      "list_of_product_ids": [
+        "35814",
+        "35813",
+        "35818",
+        "35877"
+      ]
+    },
+    {
+      "retrieval_score": 0.84359455,
+      "text": "core_product_name: geared motor | size_or_capacity: 5 kW and above or below 5 kW",
+      "core_id": 1084.0,
+      "raw_product_name": "Geared Motor (5 kW and above / below 5 kW)",
+      "list_of_product_ids": [
+        "7568",
+        "7242",
+        "10529",
+        "35413"
+      ]
+    },
+    {
+      "retrieval_score": 0.8435503,
+      "text": "core_product_name: current transformer",
+      "core_id": 533.0,
+      "raw_product_name": "CURRENT TRANSFORMER",
+      "list_of_product_ids": [
+        "7305",
+        "7334",
+        "11167",
+        "10219",
+        "7932",
+        "7933",
+        "8246",
+        "8247",
+        "8248",
+        "8249",
+        "8250",
+        "8251",
+        "8252",
+        "9277",
+        "15648",
+        "15655",
+        "18281",
+        "18298",
+        "18870",
+        "18917",
+        "24209",
+        "35380"
+      ]
+    },
+    {
+      "retrieval_score": 0.84354377,
+      "text": "core_product_name: station transformer",
+      "core_id": 2108.0,
+      "raw_product_name": "STATION TRANSFORMER",
+      "list_of_product_ids": [
+        "17328",
+        "17327",
+        "17326",
+        "17324",
+        "17322",
+        "17321",
+        "27093",
+        "35999"
+      ]
+    },
+    {
+      "retrieval_score": 0.84260607,
+      "text": "core_product_name: electrical converter",
+      "core_id": 706.0,
+      "raw_product_name": "ELECTRICAL CONVERTER",
+      "list_of_product_ids": [
+        "20850",
+        "20849",
+        "27075",
+        "20848"
+      ]
+    },
+    {
+      "retrieval_score": 0.84182024,
+      "text": "core_product_name: dry type transformer",
+      "core_id": 665.0,
+      "raw_product_name": "Dry type TRANSFORMER",
+      "list_of_product_ids": [
+        "7569",
+        "7244",
+        "7921",
+        "7918",
+        "8254",
+        "9285",
+        "12248",
+        "19760",
+        "24099",
+        "36652",
+        "35381"
+      ]
+    },
+    {
+      "retrieval_score": 0.84154445,
+      "text": "core_product_name: oil filled transformer",
+      "core_id": 1578.0,
+      "raw_product_name": "OIL FILLED TRANSFORMER",
+      "list_of_product_ids": [
+        "15545",
+        "15547",
+        "15537",
+        "15549",
+        "15538",
+        "15551",
+        "15540",
+        "15919",
+        "36653",
+        "35394"
+      ]
+    },
+    {
+      "retrieval_score": 0.84064484,
+      "text": "core_product_name: geared coupling | size_or_capacity: below 50 kW (kilowatt)",
+      "core_id": 1083.0,
+      "raw_product_name": "Geared Coupling(below 50 kW)",
+      "list_of_product_ids": [
+        "7030",
+        "7358",
+        "10523",
+        "10533",
+        "9730",
+        "18765",
+        "18775"
+      ]
+    },
+    {
+      "retrieval_score": 0.8403273,
+      "text": "core_product_name: geared motor | size_or_capacity: below 5 kW",
+      "core_id": 1084.0,
+      "raw_product_name": "Geared Motor(below 5 kW)",
+      "list_of_product_ids": [
+        "7027",
+        "7355",
+        "10478",
+        "10515",
+        "10519",
+        "10531",
+        "10521",
+        "10808",
+        "10806",
+        "35411"
+      ]
+    }
+  ]
+}

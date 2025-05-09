@@ -1,0 +1,451 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.865285,
+      "text": "core_product_name: inside panel | acronymed_core_product_name: mcb (miniature circuit breaker) panel | type_or_class: Flush type only",
+      "core_id": 1448.0,
+      "raw_product_name": "MCB Inside Panels (Flush type only)",
+      "list_of_product_ids": [
+        "1",
+        "371",
+        "214",
+        "885"
+      ]
+    },
+    {
+      "retrieval_score": 0.8513596,
+      "text": "core_product_name: miniature circuit breaker | acronymed_core_product_name: mcb",
+      "core_id": 1446.0,
+      "raw_product_name": "MCB",
+      "list_of_product_ids": [
+        "6462",
+        "5633",
+        "10157",
+        "10663",
+        "9350",
+        "9447",
+        "9151",
+        "9187",
+        "9219",
+        "9361",
+        "11905",
+        "11944",
+        "17873",
+        "19028",
+        "19645",
+        "19652",
+        "20775",
+        "21203",
+        "19140",
+        "38290",
+        "36563"
+      ]
+    },
+    {
+      "retrieval_score": 0.84745747,
+      "text": "core_product_name: molded case circuit breaker | acronymed_core_product_name: MCCB (Molded Case Circuit Breaker)",
+      "core_id": 1449.0,
+      "raw_product_name": "MCCB",
+      "list_of_product_ids": [
+        "6463",
+        "5634",
+        "10536",
+        "10191",
+        "9351",
+        "9152",
+        "9154",
+        "11938",
+        "19030",
+        "19029",
+        "20774",
+        "21202",
+        "36564",
+        "38080"
+      ]
+    },
+    {
+      "retrieval_score": 0.8397215,
+      "text": "core_product_name: motor protection circuit breaker | acronymed_core_product_name: mpcb (motor protection circuit breaker)",
+      "core_id": 1528.0,
+      "raw_product_name": "Motor Protection Circuit Breaker (MPCB)",
+      "list_of_product_ids": [
+        "7492",
+        "7167",
+        "11205",
+        "10539",
+        "10192",
+        "19629"
+      ]
+    },
+    {
+      "retrieval_score": 0.83916754,
+      "text": "core_product_name: switchgear panel | acronymed_core_product_name: mcc (motor control center) switchgear panel | size_or_capacity: 415V | type_or_class: MCC (Motor Control Center)",
+      "core_id": 18.0,
+      "raw_product_name": "415V SWITCHGEAR PANEL (MCC)",
+      "list_of_product_ids": [
+        "15389",
+        "14160",
+        "14609",
+        "17689",
+        "38512"
+      ]
+    },
+    {
+      "retrieval_score": 0.8387087,
+      "text": "core_product_name: rectifier panel",
+      "core_id": 1877.0,
+      "raw_product_name": "RECTIFIER PANEL",
+      "list_of_product_ids": [
+        "171",
+        "741",
+        "717",
+        "527",
+        "078"
+      ]
+    },
+    {
+      "retrieval_score": 0.83524877,
+      "text": "core_product_name: switchgear panel | acronymed_core_product_name: pcc (power control center) switchgear panel | size_or_capacity: 415V | type_or_class: PCC (Power Control Center)",
+      "core_id": 18.0,
+      "raw_product_name": "415V SWITCHGEAR PANEL (PCC)",
+      "list_of_product_ids": [
+        "176",
+        "911",
+        "769",
+        "018",
+        "664"
+      ]
+    },
+    {
+      "retrieval_score": 0.83247095,
+      "text": "core_product_name: fixed switchboard | acronymed_core_product_name: switchboard-mv | type_or_class: Medium Voltage (MV) | type_or_class: Motor Control Center (MCC) or Automatic Switchboard (ASB) or Lighting Distribution Board (LDB)",
+      "core_id": 2175.0,
+      "raw_product_name": "SWITCHBOARD-MV:MCC/ASB/LDB-FIXED TYPE",
+      "list_of_product_ids": [
+        "19303",
+        "19302",
+        "19301",
+        "19253",
+        "19347",
+        "19304",
+        "19306",
+        "19256",
+        "21373",
+        "21358",
+        "21354",
+        "24425",
+        "24427",
+        "26856"
+      ]
+    },
+    {
+      "retrieval_score": 0.83215016,
+      "text": "core_product_name: outdoor circuit breaker | size_or_capacity: 132 kV or 220 kV | operating_conditions: outdoor",
+      "core_id": 11.0,
+      "raw_product_name": "132kV/ 220 kV outdoor Circuit Breaker",
+      "list_of_product_ids": [
+        "1",
+        "414",
+        "714",
+        "844"
+      ]
+    },
+    {
+      "retrieval_score": 0.83171487,
+      "text": "core_product_name: conventional relay and control panel",
+      "core_id": 470.0,
+      "raw_product_name": "CONVENTIONAL RELAY & CONTROL PANEL",
+      "list_of_product_ids": [
+        "38185",
+        "38198",
+        "38206",
+        "38387"
+      ]
+    },
+    {
+      "retrieval_score": 0.8311686,
+      "text": "core_product_name: industrial receptacle",
+      "core_id": 1235.0,
+      "raw_product_name": "INDUSTRIAL RECEPTACLE",
+      "list_of_product_ids": [
+        "136",
+        "891",
+        "479",
+        "414",
+        "813"
+      ]
+    },
+    {
+      "retrieval_score": 0.8305632,
+      "text": "core_product_name: electrical spare",
+      "core_id": 710.0,
+      "raw_product_name": "ELECTRICAL SPARES",
+      "list_of_product_ids": [
+        "207",
+        "782",
+        "077",
+        "728",
+        "462"
+      ]
+    },
+    {
+      "retrieval_score": 0.8296446,
+      "text": "core_product_name: outdoor circuit breaker | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 11.0,
+      "raw_product_name": "33kV outdoor Circuit Breaker",
+      "list_of_product_ids": [
+        "141",
+        "551",
+        "464",
+        "036",
+        "000"
+      ]
+    },
+    {
+      "retrieval_score": 0.8295002,
+      "text": "core_product_name: relay and control panel | type_or_class: Bay Extension | size_or_capacity: 132kV",
+      "core_id": 187.0,
+      "raw_product_name": "BAY EXTENSION RELAY & CONTROL PANEL (132kV)",
+      "list_of_product_ids": [
+        "38187",
+        "38201",
+        "38388",
+        "38208"
+      ]
+    },
+    {
+      "retrieval_score": 0.82922596,
+      "text": "core_product_name: relay and control panel | type_or_class: bay extension | size_or_capacity: 220kV",
+      "core_id": 187.0,
+      "raw_product_name": "BAY EXTENSION RELAY & CONTROL PANEL (220kV)",
+      "list_of_product_ids": [
+        "38202",
+        "38209",
+        "38186",
+        "38413"
+      ]
+    },
+    {
+      "retrieval_score": 0.8285436,
+      "text": "core_product_name: moulded case circuit breaker",
+      "core_id": 1508.0,
+      "raw_product_name": "MOULDED CASE CIRCUIT BREAKER",
+      "list_of_product_ids": [
+        "178",
+        "541",
+        "784",
+        "318",
+        "652"
+      ]
+    },
+    {
+      "retrieval_score": 0.82851315,
+      "text": "core_product_name: lighting and power distribution panel",
+      "core_id": 1413.0,
+      "raw_product_name": "Lighting & Power Distribution Panel",
+      "list_of_product_ids": [
+        "18723",
+        "18718",
+        "18735",
+        "18734",
+        "18733",
+        "19012",
+        "18997",
+        "18728",
+        "19000",
+        "38293",
+        "35861",
+        "38156"
+      ]
+    },
+    {
+      "retrieval_score": 0.8283404,
+      "text": "core_product_name: minimum oil circuit breaker | acronymed_core_product_name: MOCB (Minimum Oil Circuit Breaker)",
+      "core_id": 1492.0,
+      "raw_product_name": "MOCB",
+      "list_of_product_ids": [
+        "1",
+        "377",
+        "621",
+        "549"
+      ]
+    },
+    {
+      "retrieval_score": 0.82768434,
+      "text": "core_product_name: switchgear panel | acronymed_core_product_name: PMCC (Power Motor Control Center) switchgear panel | size_or_capacity: 415V | type_or_class: PMCC (Power Motor Control Center)",
+      "core_id": 18.0,
+      "raw_product_name": "415V SWITCHGEAR PANEL (PMCC)",
+      "list_of_product_ids": [
+        "15388",
+        "14161",
+        "14610",
+        "17705",
+        "17688",
+        "38510"
+      ]
+    },
+    {
+      "retrieval_score": 0.8272561,
+      "text": "core_product_name: insulating refractory castable",
+      "core_id": 1271.0,
+      "raw_product_name": "INSULATING REFRACTORY CASTABLE",
+      "list_of_product_ids": [
+        "6140",
+        "5310",
+        "10463",
+        "8833",
+        "8836",
+        "8850",
+        "8866",
+        "9621",
+        "9629",
+        "9662",
+        "9667",
+        "9658",
+        "9802",
+        "13156",
+        "24310"
+      ]
+    },
+    {
+      "retrieval_score": 0.8271982,
+      "text": "core_product_name: relay and control panel",
+      "core_id": 187.0,
+      "raw_product_name": "RELAY & CONTROL PANEL",
+      "list_of_product_ids": [
+        "6389",
+        "5560",
+        "11172",
+        "11457",
+        "7888",
+        "19357",
+        "24445",
+        "24450",
+        "24448",
+        "24827",
+        "24815",
+        "24451",
+        "19363",
+        "24930",
+        "24941",
+        "38203",
+        "38204"
+      ]
+    },
+    {
+      "retrieval_score": 0.8270756,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    },
+    {
+      "retrieval_score": 0.82700574,
+      "text": "core_product_name: electrical accessory",
+      "core_id": 701.0,
+      "raw_product_name": "ELECTRICAL ACCESSORIES",
+      "list_of_product_ids": [
+        "211",
+        "632",
+        "705",
+        "121",
+        "165"
+      ]
+    },
+    {
+      "retrieval_score": 0.8269559,
+      "text": "core_product_name: cathodic protection power supply module",
+      "core_id": 315.0,
+      "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+      "list_of_product_ids": [
+        "6413",
+        "5583",
+        "8417",
+        "12209"
+      ]
+    },
+    {
+      "retrieval_score": 0.8266543,
+      "text": "core_product_name: cable | size_or_capacity: 132kV (132 kilovolt) | material: XLPE (cross-linked polyethylene)",
+      "core_id": 1.0,
+      "raw_product_name": "132kV CABLE XLPE",
+      "list_of_product_ids": [
+        "14146",
+        "15782",
+        "20052",
+        "24050",
+        "23901"
+      ]
+    },
+    {
+      "retrieval_score": 0.8264627,
+      "text": "core_product_name: outdoor insulator and bushing | size_or_capacity: 132 kV or 220 kV | operating_conditions: outdoor",
+      "core_id": 8.0,
+      "raw_product_name": "132kV/ 220 kV outdoor Insulator & Bushing",
+      "list_of_product_ids": [
+        "14148",
+        "14691",
+        "16117",
+        "17435",
+        "18327",
+        "21497"
+      ]
+    },
+    {
+      "retrieval_score": 0.8256751,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (pdb (power distribution board))",
+      "core_id": 20.0,
+      "raw_product_name": "A.C. DISTRIBUTION BOARD (PDB)",
+      "list_of_product_ids": [
+        "14164",
+        "14792",
+        "14811",
+        "19308"
+      ]
+    },
+    {
+      "retrieval_score": 0.8255255,
+      "text": "core_product_name: intelligent battery charger | acronymed_core_product_name: dcdb (direct current distribution board) | size_or_capacity: 24V DC (24 Volt Direct Current)",
+      "core_id": 1304.0,
+      "raw_product_name": "Intelligent Battery charger 24V DC DCDB",
+      "list_of_product_ids": [
+        "1",
+        "375",
+        "215",
+        "290"
+      ]
+    },
+    {
+      "retrieval_score": 0.825314,
+      "text": "core_product_name: electrical repair",
+      "core_id": 2009.0,
+      "raw_product_name": "SHIP REPAIR (ELECTRICAL WORK)",
+      "list_of_product_ids": [
+        "23965",
+        "24298",
+        "23966",
+        "24724",
+        "24966",
+        "36009"
+      ]
+    },
+    {
+      "retrieval_score": 0.8251903,
+      "text": "core_product_name: relay and control panel | type_or_class: Bay Extension | size_or_capacity: 400kV (400 kilovolt)",
+      "core_id": 187.0,
+      "raw_product_name": "BAY EXTENSION RELAY & CONTROL PANEL (400kV)",
+      "list_of_product_ids": [
+        "38188",
+        "38200",
+        "38207",
+        "38394"
+      ]
+    }
+  ]
+}

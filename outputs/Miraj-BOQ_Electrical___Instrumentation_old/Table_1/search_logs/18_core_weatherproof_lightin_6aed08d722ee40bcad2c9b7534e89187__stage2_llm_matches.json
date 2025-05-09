@@ -1,0 +1,80 @@
+{
+  "query": "core_product_name: weatherproof lighting fixtures | size: voltage: 230 volt ac, power: 40w | feature_or_specifications: type: well glass, type: weatherproof, type: led, feature: with lamps & accessories, feature: as per attached specification, feature: provided with required no. of double compression stainless steel cable glands and stopping plug, feature: control gear boxes with 3mm thick frp (fiber reinforced plastic) canopy with side cover, feature: inbuilt jbs (junction boxes) for loop in loop out facility of 3cx2.5 sqmm cu (copper) lighting cables",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": [
+          "13606",
+          "16555",
+          "16546",
+          "16591",
+          "16576",
+          "17657",
+          "17650",
+          "17702",
+          "17682",
+          "18058",
+          "20306",
+          "20834",
+          "21315",
+          "22108",
+          "23384",
+          "35044"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "accessories_or_attachments"
+      ],
+      "match_details": {
+        "text": "core_product_name: hazardous lighting fixture | accessories_or_attachments: accessories",
+        "raw_product_name": "LIGHTING FIXTURE & ACCESSORIES-HAZARDOUS",
+        "list_of_product_ids": [
+          "6414",
+          "5584",
+          "10587",
+          "10557",
+          "10600",
+          "17341",
+          "17357",
+          "19480",
+          "19473",
+          "22850",
+          "35768",
+          "35810",
+          "35886",
+          "35864",
+          "35939",
+          "35950",
+          "36518"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fluorescent lighting fixture",
+        "raw_product_name": "FLUORESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": [
+          "19025",
+          "19023",
+          "19021",
+          "19019",
+          "19164"
+        ]
+      }
+    }
+  ]
+}

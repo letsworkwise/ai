@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: grooved elbow | size: nominal bore: 150",
+  "retrieval_results": [
+    {
+      "id": "variant-2e84cef9-327a-515b-8b9e-5d2b777c59cb",
+      "score": 0.86984265,
+      "metadata": {
+        "text": "core_product_name: elbowlet",
+        "raw_product_name": "ELBOWLET",
+        "list_of_product_ids": "14395,14719,14722,14725,19815,22922",
+        "core_id": 681.0
+      }
+    },
+    {
+      "id": "variant-debcf96a-5534-5d1a-a9c3-19d56dae7053",
+      "score": 0.86670744,
+      "metadata": {
+        "text": "core_product_name: elbow fitting",
+        "raw_product_name": "FITTINGS \u2013ELBOW",
+        "list_of_product_ids": "14264,14692,14667,14709,14902,14914,15995,16042,18891,18937,19402,19723,19798,19792,20060,20167,20935,21918,22659,22655,22914,36880,36883,27766,27756,27746,27736,27726,27775,37065,36443",
+        "core_id": 880.0
+      }
+    },
+    {
+      "id": "variant-1b7571e9-3f95-5cec-879a-0f96d023f242",
+      "score": 0.8469274,
+      "metadata": {
+        "text": "core_product_name: large bellow | material: Elastomer",
+        "raw_product_name": "ELASTOMER LARGE BELLOW",
+        "list_of_product_ids": "1,382,321,736",
+        "core_id": 680.0
+      }
+    },
+    {
+      "id": "variant-0f4440ea-bde2-5092-9bec-3a611b7ce624",
+      "score": 0.8422198,
+      "metadata": {
+        "text": "core_product_name: weldolet",
+        "raw_product_name": "WELDOLETS",
+        "list_of_product_ids": "14393,14717,14720,14723,19813,22920,37261",
+        "core_id": 2465.0
+      }
+    },
+    {
+      "id": "variant-5935ee01-a444-52d8-9615-fa4b0239701e",
+      "score": 0.8404741,
+      "metadata": {
+        "text": "core_product_name: geared motor",
+        "raw_product_name": "Geared Motor",
+        "list_of_product_ids": "7,543,721,735,410",
+        "core_id": 1084.0
+      }
+    },
+    {
+      "id": "variant-145bf8a5-2999-5fbf-8101-fe9937866c4f",
+      "score": 0.83928186,
+      "metadata": {
+        "text": "core_product_name: full bore ball valve",
+        "raw_product_name": "FULL BORE BALL VALVE",
+        "list_of_product_ids": "13495,14676,14684,14870,14927,15073,15125,22526,34318,35460",
+        "core_id": 986.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.83827686,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-58b032b2-bfc8-58c5-b09c-f758859b2d22",
+      "score": 0.8380027,
+      "metadata": {
+        "text": "core_product_name: bolt and nut | protection_features: galvanised",
+        "raw_product_name": "BOLTS & NUTS (GALVANISED)",
+        "list_of_product_ids": "21576,21573,26271,26205,26208,26210,26219,26228,21578,27711",
+        "core_id": 231.0
+      }
+    },
+    {
+      "id": "variant-44634665-b9e1-57e3-af03-39873a2eec40",
+      "score": 0.8379709,
+      "metadata": {
+        "text": "core_product_name: welding sleeve",
+        "raw_product_name": "WELDING SLEEVES",
+        "list_of_product_ids": "21894,21895,22215,22210,22233,22253,22229,22227,22222,22221,22219,22216",
+        "core_id": 2463.0
+      }
+    },
+    {
+      "id": "variant-223a653f-ce26-546e-9630-21d058f384c7",
+      "score": 0.83786327,
+      "metadata": {
+        "text": "core_product_name: grating",
+        "raw_product_name": "GRATINGS",
+        "list_of_product_ids": "218,522,185,428,606",
+        "core_id": 1068.0
+      }
+    },
+    {
+      "id": "variant-c9606761-8875-5ecd-8e32-10a958b09ddd",
+      "score": 0.8376731,
+      "metadata": {
+        "text": "core_product_name: bolt",
+        "raw_product_name": "BOLT",
+        "list_of_product_ids": "13612,20911,20910,26266,26148,26200,26213,26223,26232,27708,33126,37287",
+        "core_id": 228.0
+      }
+    },
+    {
+      "id": "variant-f126676e-a62f-52a6-ba06-b09e7951e71e",
+      "score": 0.8373813,
+      "metadata": {
+        "text": "core_product_name: forged fitting",
+        "raw_product_name": "FORGED FITTINGS",
+        "list_of_product_ids": "13660,22252,24586,36933",
+        "core_id": 972.0
+      }
+    },
+    {
+      "id": "variant-6a2eb1b0-38c1-5e50-8fd3-5808f51bb1ee",
+      "score": 0.8372257,
+      "metadata": {
+        "text": "core_product_name: bearing",
+        "raw_product_name": "Bearing",
+        "list_of_product_ids": "7047,7374,15509,15505,18776,20394,20653,19595,37012",
+        "core_id": 267.0
+      }
+    },
+    {
+      "id": "variant-383781f7-59ee-5d5b-8a29-cf16569a65fc",
+      "score": 0.8369936,
+      "metadata": {
+        "text": "core_product_name: welded fitting",
+        "raw_product_name": "FITTINGS \u2013 AS WELDED",
+        "list_of_product_ids": "14259,15973,19406,19805,19790,20139,22666,37085,37098",
+        "core_id": 878.0
+      }
+    },
+    {
+      "id": "variant-9aa36f08-e097-54b1-94fe-8359583782f8",
+      "score": 0.83681744,
+      "metadata": {
+        "text": "core_product_name: orifice fitting",
+        "raw_product_name": "ORIFICE - FITTINGS",
+        "list_of_product_ids": "36537,36541,36539,36546",
+        "core_id": 1602.0
+      }
+    },
+    {
+      "id": "variant-3efeda5d-6e70-51e8-8f2e-ad8a9436822e",
+      "score": 0.8360026,
+      "metadata": {
+        "text": "core_product_name: bend",
+        "raw_product_name": "BENDS",
+        "list_of_product_ids": "219,382,194,421,936",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-50965ce0-da9f-5ccd-8e38-934aa3d27a7e",
+      "score": 0.8356747,
+      "metadata": {
+        "text": "core_product_name: reduced bore ball valve",
+        "raw_product_name": "REDUCED BORE BALL VALVE",
+        "list_of_product_ids": "13496,14677,14685,14871,14928,15074,15126,22527,34319,35462",
+        "core_id": 1878.0
+      }
+    },
+    {
+      "id": "variant-ef59ecb0-320a-5cea-b154-4ba76cf39f9e",
+      "score": 0.8354319,
+      "metadata": {
+        "text": "core_product_name: brush | material: Carbon",
+        "raw_product_name": "CARBON BRUSHES",
+        "list_of_product_ids": "242,252,422,726,882",
+        "core_id": 302.0
+      }
+    },
+    {
+      "id": "variant-9b25b784-a1a1-5ce1-9130-4075d704d02b",
+      "score": 0.8352082,
+      "metadata": {
+        "text": "core_product_name: globe valve | construction_features: forged",
+        "raw_product_name": "VALVE GLOBE FORGED",
+        "list_of_product_ids": "6222,5391,11621,11639,11241,11254,11278,8279,8380,8554,8644,8621,9386,9428,9410,9452,9251,9165,9247,9341,11976,12097,12492,12571,13261,13361,19389,17622,17817,17907,18303,18031,19861,31811,19381,32700,36762,35556",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-dc67092d-c747-58a3-9b64-a36fa7d1d5e6",
+      "score": 0.8349138,
+      "metadata": {
+        "text": "core_product_name: bracing",
+        "raw_product_name": "BRACING",
+        "list_of_product_ids": "20880,20863,20902,21910,21951,22023,22088,22121",
+        "core_id": 239.0
+      }
+    },
+    {
+      "id": "variant-a2d5443b-8b58-5842-81e9-dadde284f9dc",
+      "score": 0.834636,
+      "metadata": {
+        "text": "core_product_name: ceiling girder | construction_features: bolted",
+        "raw_product_name": "CEILING GIRDER (BOLTED)",
+        "list_of_product_ids": "20959,20987,20957,21005,21905,22001,22113",
+        "core_id": 321.0
+      }
+    },
+    {
+      "id": "variant-6caf8017-d55b-5441-bf5f-7eaed4cb420b",
+      "score": 0.83461696,
+      "metadata": {
+        "text": "core_product_name: grout",
+        "raw_product_name": "GROUT",
+        "list_of_product_ids": "13748,16708,16707,19125,22869,33348,38480,35419,35432",
+        "core_id": 1078.0
+      }
+    },
+    {
+      "id": "variant-7893b0e0-30fc-5c84-95bb-8b75affd1bb3",
+      "score": 0.8345707,
+      "metadata": {
+        "text": "core_product_name: stud bolt",
+        "raw_product_name": "STUD BOLD",
+        "list_of_product_ids": "9930,9931,9932,9933,9934,9935,36597",
+        "core_id": 2140.0
+      }
+    },
+    {
+      "id": "variant-e0d4f4c7-a28c-568e-892e-f4bd7c857efd",
+      "score": 0.8344429,
+      "metadata": {
+        "text": "core_product_name: geared coupling | size_or_capacity: 50 kW and above",
+        "raw_product_name": "Geared Coupling(50 kW and above)",
+        "list_of_product_ids": "7046,7373,9729,18764,18774",
+        "core_id": 1083.0
+      }
+    },
+    {
+      "id": "variant-f23555b4-6776-5418-b12f-82367d57d9b5",
+      "score": 0.8344371,
+      "metadata": {
+        "text": "core_product_name: fitting | type_or_class: ERMETO",
+        "raw_product_name": "ERMETO FITTINGS",
+        "list_of_product_ids": "254,072,567,926,699",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-3aab3c1a-b3e9-52c8-bf7e-0d99674edf84",
+      "score": 0.83417916,
+      "metadata": {
+        "text": "core_product_name: geared coupling | size_or_capacity: below 50 kW (kilowatt)",
+        "raw_product_name": "Geared Coupling(below 50 kW)",
+        "list_of_product_ids": "7030,7358,10523,10533,9730,18765,18775",
+        "core_id": 1083.0
+      }
+    },
+    {
+      "id": "variant-123f81c9-bb37-5180-9d3f-25fcda640179",
+      "score": 0.8339762,
+      "metadata": {
+        "text": "core_product_name: gear",
+        "raw_product_name": "GEARS",
+        "list_of_product_ids": "23954,23955,24993,25023",
+        "core_id": 1045.0
+      }
+    },
+    {
+      "id": "variant-d65edc80-7bd6-5e0a-a085-b9a403bb222d",
+      "score": 0.8338531,
+      "metadata": {
+        "text": "core_product_name: thrust bearing",
+        "raw_product_name": "THRUST BEARING",
+        "list_of_product_ids": "236,132,357,723,575",
+        "core_id": 2248.0
+      }
+    },
+    {
+      "id": "variant-298f2c6e-2bc0-5c2f-b94c-30f82a72d824",
+      "score": 0.8338032,
+      "metadata": {
+        "text": "core_product_name: nozzle",
+        "raw_product_name": "NOZZLE",
+        "list_of_product_ids": "24248,24222,22342,22340,22766,22794,26877",
+        "core_id": 1547.0
+      }
+    },
+    {
+      "id": "variant-2f93d8f7-a73a-5975-bf77-9375f12bceaf",
+      "score": 0.83375716,
+      "metadata": {
+        "text": "core_product_name: geared motor | size_or_capacity: below 5 kW",
+        "raw_product_name": "Geared Motor(below 5 kW)",
+        "list_of_product_ids": "7027,7355,10478,10515,10519,10531,10521,10808,10806,35411",
+        "core_id": 1084.0
+      }
+    }
+  ]
+}

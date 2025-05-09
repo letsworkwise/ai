@@ -1,0 +1,109 @@
+{
+  "query": "core_product_name: communication cable, rtd(resistance temperature detector) cable, power cable for tfms(tank farm management system)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: communication cable | type_or_class: Communication",
+        "raw_product_name": "COMMUNICATION CABLES",
+        "list_of_product_ids": [
+          "13928",
+          "14726",
+          "14769",
+          "14836",
+          "15182",
+          "15180",
+          "15332",
+          "19318",
+          "19184",
+          "20041",
+          "20093",
+          "24068",
+          "22823",
+          "23920",
+          "38661",
+          "38857",
+          "38580",
+          "38606",
+          "38766",
+          "36639",
+          "38634",
+          "38825",
+          "38899",
+          "38925",
+          "38689",
+          "38714",
+          "38740",
+          "38962",
+          "38989",
+          "39017",
+          "39046",
+          "39085",
+          "39115",
+          "39160",
+          "39205",
+          "39244",
+          "39279",
+          "39325",
+          "39361",
+          "39390",
+          "39420",
+          "39471",
+          "39526",
+          "39553",
+          "39591",
+          "39615",
+          "39643",
+          "39677",
+          "39717",
+          "39787",
+          "39815",
+          "39886"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: power cable",
+        "raw_product_name": "POWER CABLE",
+        "list_of_product_ids": [
+          "13440",
+          "14645",
+          "15813",
+          "29442",
+          "29447",
+          "29448",
+          "24045",
+          "23896",
+          "36583",
+          "36611",
+          "38139"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: resistance temperature detector",
+        "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR",
+        "list_of_product_ids": [
+          "17218",
+          "17213",
+          "21738",
+          "27914",
+          "36623"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "query": "core_product_name: danger board | feature_or_specifications: voltage: 440V (440 volts), finish: enameled",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: board | material: Cement",
+        "raw_product_name": "CEMENT BOARD",
+        "list_of_product_ids": [
+          "156",
+          "861",
+          "903",
+          "127",
+          "990"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: relay board",
+        "raw_product_name": "RELAY BOARD",
+        "list_of_product_ids": [
+          "19671",
+          "19678",
+          "19682",
+          "19686"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fixed switch board",
+        "raw_product_name": "SWITCH BOARD FIXED",
+        "list_of_product_ids": [
+          "1",
+          "396",
+          "614",
+          "611"
+        ]
+      }
+    }
+  ]
+}

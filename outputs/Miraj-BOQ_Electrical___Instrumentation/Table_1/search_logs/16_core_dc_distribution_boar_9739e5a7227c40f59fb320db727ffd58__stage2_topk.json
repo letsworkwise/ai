@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: dc distribution board | size: voltage: 110 V DC, wires: 2 wire, incomer: 63 A dp mcb, outgoing: 15 x 16 A dp mcb | feature_or_specifications: fed by: dual float cum boost charger, standard: as per attached sld (single line diagram), specifications & ds (data sheet)",
+  "retrieval_results": [
+    {
+      "id": "variant-9996ed89-613c-525d-a389-7b03a807bfc5",
+      "score": 0.8613963,
+      "metadata": {
+        "text": "core_product_name: intelligent battery charger | acronymed_core_product_name: dcdb (direct current distribution board) | size_or_capacity: 24V DC (24 Volt Direct Current)",
+        "raw_product_name": "Intelligent Battery charger 24V DC DCDB",
+        "list_of_product_ids": "1,375,215,290",
+        "core_id": 1304.0
+      }
+    },
+    {
+      "id": "variant-19bbaea1-ff5f-573b-a089-d96015081c7f",
+      "score": 0.85181147,
+      "metadata": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: dc (direct current) distribution board | type_or_class: DC (Direct Current)",
+        "raw_product_name": "DC Distribution Board",
+        "list_of_product_ids": "18727,18725,18720,18741,18738,18737,19010,18999,19002,36555,38291,35862,38153",
+        "core_id": 20.0
+      }
+    },
+    {
+      "id": "variant-95f74893-d69d-504d-9c31-33cbdcb88ed4",
+      "score": 0.84957445,
+      "metadata": {
+        "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+        "raw_product_name": "DCDB",
+        "list_of_product_ids": "15387,13587,14607,14780,19662,21388,36160",
+        "core_id": 559.0
+      }
+    },
+    {
+      "id": "variant-bdc7e6c8-8278-5302-b598-f9283af3f043",
+      "score": 0.84222597,
+      "metadata": {
+        "text": "core_product_name: regulated power supply unit | type_or_class: Direct Current (DC)",
+        "raw_product_name": "REGULATED DC POWER SUPPLY UNIT",
+        "list_of_product_ids": "1,383,315,284",
+        "core_id": 1889.0
+      }
+    },
+    {
+      "id": "variant-8c6a2401-958d-50eb-b6cf-89de7e3e83dd",
+      "score": 0.84001935,
+      "metadata": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (ldb (lighting distribution board))",
+        "raw_product_name": "A.C. DISTRIBUTION BOARD (LDB)",
+        "list_of_product_ids": "14163,14793,14812,19307",
+        "core_id": 20.0
+      }
+    },
+    {
+      "id": "variant-40a31dc2-322b-5d27-a166-908d8d5a73ca",
+      "score": 0.83920133,
+      "metadata": {
+        "text": "core_product_name: sub lighting distribution board",
+        "raw_product_name": "SUB LIGHTING DISTRIBUTION BOARD",
+        "list_of_product_ids": "19061,19062,19056,36641",
+        "core_id": 2143.0
+      }
+    },
+    {
+      "id": "variant-72ca9b83-8000-5f34-839f-39a54cda3423",
+      "score": 0.8381521,
+      "metadata": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (pdb (power distribution board))",
+        "raw_product_name": "A.C. DISTRIBUTION BOARD (PDB)",
+        "list_of_product_ids": "14164,14792,14811,19308",
+        "core_id": 20.0
+      }
+    },
+    {
+      "id": "variant-04557174-00a9-5154-8b28-71d131bdaca2",
+      "score": 0.836171,
+      "metadata": {
+        "text": "core_product_name: lighting and power distribution panel",
+        "raw_product_name": "Lighting & Power Distribution Panel",
+        "list_of_product_ids": "18723,18718,18735,18734,18733,19012,18997,18728,19000,38293,35861,38156",
+        "core_id": 1413.0
+      }
+    },
+    {
+      "id": "variant-2e21f2c9-7d64-55fd-aee2-28e0f9186645",
+      "score": 0.8352451,
+      "metadata": {
+        "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+        "list_of_product_ids": "13583,14851,20281,22858,26788,26787,26786,26789,35773",
+        "core_id": 899.0
+      }
+    },
+    {
+      "id": "variant-344cec69-8a6c-57a1-aa62-b1c42931ad5c",
+      "score": 0.8344317,
+      "metadata": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: ac (alternating current) distribution board | type_or_class: AC (Alternating Current)",
+        "raw_product_name": "AC Distribution Board",
+        "list_of_product_ids": "18726,18724,18719,18740,18739,18736,19011,18998,19001,38292,36556,35863,38152",
+        "core_id": 20.0
+      }
+    },
+    {
+      "id": "variant-5a73e69c-15f9-5a05-bb58-ca64903b361a",
+      "score": 0.8339734,
+      "metadata": {
+        "text": "core_product_name: panel mounted power supply | size_or_capacity: 24 V DC (volts direct current)",
+        "raw_product_name": "PANEL MOUNTED 24 V DC POWER SUPPLY",
+        "list_of_product_ids": "215,712,156,927,440",
+        "core_id": 1635.0
+      }
+    },
+    {
+      "id": "variant-16e318a0-a520-5526-88c7-fa72aaabfd1a",
+      "score": 0.83387595,
+      "metadata": {
+        "text": "core_product_name: distribution transformer | size_or_capacity: up to 5 MVA (Mega Volt Ampere)",
+        "raw_product_name": "TRANSFORMERS-DISTRIBUTION-UPTO 5MVA",
+        "list_of_product_ids": "6409,5580,7925,24550,24549,24548,24547",
+        "core_id": 606.0
+      }
+    },
+    {
+      "id": "variant-ee48fd04-aac6-5563-843f-394434e324ee",
+      "score": 0.83342135,
+      "metadata": {
+        "text": "core_product_name: distribution transformer",
+        "raw_product_name": "DISTRIBUTION TRANSFORMERS",
+        "list_of_product_ids": "15552,15542,15546,13684,15548,14869,15539,15550",
+        "core_id": 606.0
+      }
+    },
+    {
+      "id": "variant-3891317a-aff8-5713-acbe-b3188d03a526",
+      "score": 0.8332679,
+      "metadata": {
+        "text": "core_product_name: power or distribution transformer",
+        "raw_product_name": "POWER & DISTRIBUTION TRANSFORMERS",
+        "list_of_product_ids": "7020,7340,10181,10195,10207,10180,10218,11723,14858,21601,35405,35845",
+        "core_id": 1739.0
+      }
+    },
+    {
+      "id": "variant-2df18420-d5bb-51ae-8444-dee24cf0cf07",
+      "score": 0.8331945,
+      "metadata": {
+        "text": "core_product_name: lightning distribution board | acronymed_core_product_name: ldb (lightning distribution board)",
+        "raw_product_name": "LIGHTNING DISTRIBUTION BOARD/LDB",
+        "list_of_product_ids": "10002,10019,10242,15385,14605,14777,14808,17874,17933,17919,17894,17951,17941,17944,18029,18010,18051,19660,19141",
+        "core_id": 1357.0
+      }
+    },
+    {
+      "id": "variant-52d36234-297c-5741-98b5-5eeff3e62a7b",
+      "score": 0.83272964,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 1100 Volts",
+        "raw_product_name": "1100 VOLTS GRADE CABLES",
+        "list_of_product_ids": "24084,21508,23935,27355",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.8317219,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-ffb04dda-0f09-5456-8607-4f01ee0b5982",
+      "score": 0.8311226,
+      "metadata": {
+        "text": "core_product_name: power distribution board | acronymed_core_product_name: pdb (power distribution board)",
+        "raw_product_name": "POWER DISTRIBUTION BOARD (PDB)",
+        "list_of_product_ids": "13892,14644,14778,14809,17930,17917,17892,17949,17939,18026,18008,18049,20762,20761,27494",
+        "core_id": 1743.0
+      }
+    },
+    {
+      "id": "variant-a4ea8586-2f68-5a84-8133-1b60d2515db2",
+      "score": 0.8308239,
+      "metadata": {
+        "text": "core_product_name: double disc gate valve",
+        "raw_product_name": "VALVE DOUBLE DISC GATE",
+        "list_of_product_ids": "62,675,436",
+        "core_id": 2354.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.8307325,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-ccb92394-37fe-52d8-ab8f-34650a66199b",
+      "score": 0.83038694,
+      "metadata": {
+        "text": "core_product_name: flameproof lighting and distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF LIGHTING & DISTRIBUTION BOARD",
+        "list_of_product_ids": "13578,14601,14847,24098",
+        "core_id": 895.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.8303363,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    },
+    {
+      "id": "variant-35edf62b-a83f-553d-9019-f1a2256ad6d6",
+      "score": 0.82979447,
+      "metadata": {
+        "text": "core_product_name: signal distributor",
+        "raw_product_name": "SIGNAL DISTRIBUTORS",
+        "list_of_product_ids": "13943,15212,20873,22615",
+        "core_id": 2023.0
+      }
+    },
+    {
+      "id": "variant-272261cc-0ac7-5e62-bdc4-b8b3ba555a0a",
+      "score": 0.8280048,
+      "metadata": {
+        "text": "core_product_name: power cable",
+        "raw_product_name": "POWER CABLE",
+        "list_of_product_ids": "13440,14645,15813,29442,29447,29448,24045,23896,36583,36611,38139",
+        "core_id": 3.0
+      }
+    },
+    {
+      "id": "variant-41a6c6d9-ef4d-520f-b9f3-af2822f8dcef",
+      "score": 0.82797074,
+      "metadata": {
+        "text": "core_product_name: power supply",
+        "raw_product_name": "BUIL POWER SUPPLY",
+        "list_of_product_ids": "5,937,676,612,114",
+        "core_id": 250.0
+      }
+    },
+    {
+      "id": "variant-4ee544d6-0f39-5064-8d24-8c48472ff71a",
+      "score": 0.82777745,
+      "metadata": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": "5954,6782,12132,14671,14679,18191,20174,36159",
+        "core_id": 2156.0
+      }
+    },
+    {
+      "id": "variant-eac04853-0cd4-54f1-a18f-72d0534f33b6",
+      "score": 0.8274722,
+      "metadata": {
+        "text": "core_product_name: electrical converter",
+        "raw_product_name": "ELECTRICAL CONVERTER",
+        "list_of_product_ids": "20850,20849,27075,20848",
+        "core_id": 706.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.8273738,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-b3370358-e2ee-53b3-b1c1-1af950aec2e3",
+      "score": 0.827242,
+      "metadata": {
+        "text": "core_product_name: flow transmitter | type_or_class: DP (Differential Pressure) based",
+        "raw_product_name": "FLOW TRANSMITTER(DP BASED)",
+        "list_of_product_ids": "1,363,920,932",
+        "core_id": 942.0
+      }
+    },
+    {
+      "id": "variant-77a81822-952d-52f9-b1fb-00c3b5a6dd98",
+      "score": 0.8272375,
+      "metadata": {
+        "text": "core_product_name: main lighting distribution board | acronymed_core_product_name: MLDB (Main Lighting Distribution Board)",
+        "raw_product_name": "MLDB",
+        "list_of_product_ids": "15386,13768,14606,14779,17931,17918,17893,17950,17940,17945,18027,18009,18050,19060,19661",
+        "core_id": 1487.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: pipe | size: nominal bore: 40 | feature_or_specifications: material: galvanized iron, class: c, standard: indian standard 1239 part-i, manufacturer: tata",
+  "retrieval_results": [
+    {
+      "id": "variant-8c9ece43-5d93-5447-92ba-1583464630f8",
+      "score": 0.8879026,
+      "metadata": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards) 1239 | construction_features: Black | construction_features: GI (Galvanized Iron)",
+        "raw_product_name": "PIPE-CARBON STEEL IS - 1239 (BLACK & GI)",
+        "list_of_product_ids": "13923,21043,21299,21563,22892,37032,37034,37013,37017,37033",
+        "core_id": 529.0
+      }
+    },
+    {
+      "id": "variant-e8d0d92b-1dda-5e70-b54f-38e4b41d9194",
+      "score": 0.8803929,
+      "metadata": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards): 1239",
+        "raw_product_name": "PIPE-CARBON STEEL IS: 1239",
+        "list_of_product_ids": "13999,15697,21642,22745,22894",
+        "core_id": 529.0
+      }
+    },
+    {
+      "id": "variant-185b88e9-63b7-56a0-9df9-801c2285f4c5",
+      "score": 0.8729545,
+      "metadata": {
+        "text": "core_product_name: fitting | standards_and_approvals: IS (Indian Standards)-1239",
+        "raw_product_name": "FITTINGS TO IS-1239",
+        "list_of_product_ids": "14270,14771,33994,33993,33992,33991,33990",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-6f088eab-5dc0-5e03-8407-51e89e15fcd5",
+      "score": 0.8727587,
+      "metadata": {
+        "text": "core_product_name: galvanized steel pipe | material: Galvanized Steel",
+        "raw_product_name": "GALVANIZED STEEL STRUCTURES- PIPE",
+        "list_of_product_ids": "21293,21291,21284,21280,21266,21264,21296,21312,27931",
+        "core_id": 1014.0
+      }
+    },
+    {
+      "id": "variant-67df8260-d86a-5d00-bc9a-a99f7703c14f",
+      "score": 0.8654616,
+      "metadata": {
+        "text": "core_product_name: galvanized iron pipe | acronymed_core_product_name: gi pipe",
+        "raw_product_name": "GI PIPE",
+        "list_of_product_ids": "15427,17238,17227,30897,30959,27363,28754,28918,28967,35290,35308,35313,39993",
+        "core_id": 1007.0
+      }
+    },
+    {
+      "id": "variant-fc5ea489-34d9-5f79-8a61-0e7e57a98756",
+      "score": 0.8648053,
+      "metadata": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards) 3589",
+        "raw_product_name": "PIPE-CARBON STEEL IS: 3589",
+        "list_of_product_ids": "15698,14000,21300,22746,22893,37056,37052,37057,37058,37059,37060,37061,37062",
+        "core_id": 529.0
+      }
+    },
+    {
+      "id": "variant-248f2090-57dd-54ea-9a64-b78c3b79c297",
+      "score": 0.8619051,
+      "metadata": {
+        "text": "core_product_name: galvanized structure | material: Steel",
+        "raw_product_name": "GALVANIZED STEEL STRUCTURES",
+        "list_of_product_ids": "13697,16818,16886,16869,17140,18104,18096,22747",
+        "core_id": 1011.0
+      }
+    },
+    {
+      "id": "variant-a4af7647-e144-53ae-8ed6-61b5112af85e",
+      "score": 0.86044395,
+      "metadata": {
+        "text": "core_product_name: cast iron pipe",
+        "raw_product_name": "PIPE CAST IRON",
+        "list_of_product_ids": "7576,7251,11128,11130,7830,14420,14532,15940,16307,23714,39752,39929",
+        "core_id": 1658.0
+      }
+    },
+    {
+      "id": "variant-b9b8d302-eb32-505d-ab46-ec618ebbffaa",
+      "score": 0.8585612,
+      "metadata": {
+        "text": "core_product_name: pipe fitting | acronymed_core_product_name: gi (galvanized iron) pipe fittings | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI PIPE FITTINGS",
+        "list_of_product_ids": "137,342,283,228,756",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-e8711b02-f227-56cf-89e4-fe3169669830",
+      "score": 0.8582596,
+      "metadata": {
+        "text": "core_product_name: lattice structure | material: Galvanized Steel",
+        "raw_product_name": "GALVANIZED STEEL STRUCTURES- LATTICE",
+        "list_of_product_ids": "21292,21290,21283,21279,21265,21263,21311,21295,27932",
+        "core_id": 1012.0
+      }
+    },
+    {
+      "id": "variant-14443caa-2439-5721-819e-c6aed59e6538",
+      "score": 0.8579469,
+      "metadata": {
+        "text": "core_product_name: octagonal pole | material: GI (Galvanized Iron)",
+        "raw_product_name": "GI-OCTAGONAL POLE",
+        "list_of_product_ids": "180,571,805,618,592",
+        "core_id": 1057.0
+      }
+    },
+    {
+      "id": "variant-99814b7f-a5a9-53b4-9918-db65f44c3ba0",
+      "score": 0.8573734,
+      "metadata": {
+        "text": "core_product_name: alloy cast iron pipe",
+        "raw_product_name": "ALLOY CAST IRON PIPE",
+        "list_of_product_ids": "9561,9521,14413,14415,14417,14424",
+        "core_id": 86.0
+      }
+    },
+    {
+      "id": "variant-e97794e3-4158-5e4d-a167-1bc48ffc7e9c",
+      "score": 0.85709625,
+      "metadata": {
+        "text": "core_product_name: galvanized iron pipe | acronymed_core_product_name: gi pipe (galvanized iron pipe)",
+        "raw_product_name": "GALVANIZED IRON PIPES(GI)",
+        "list_of_product_ids": "7600,11065,7275,8051",
+        "core_id": 1007.0
+      }
+    },
+    {
+      "id": "variant-58b032b2-bfc8-58c5-b09c-f758859b2d22",
+      "score": 0.8565817,
+      "metadata": {
+        "text": "core_product_name: bolt and nut | protection_features: galvanised",
+        "raw_product_name": "BOLTS & NUTS (GALVANISED)",
+        "list_of_product_ids": "21576,21573,26271,26205,26208,26210,26219,26228,21578,27711",
+        "core_id": 231.0
+      }
+    },
+    {
+      "id": "variant-2463ac23-861b-589f-8631-401ca0ddabe4",
+      "score": 0.85547006,
+      "metadata": {
+        "text": "core_product_name: titanium pipe",
+        "raw_product_name": "PIPE-TITANIUM",
+        "list_of_product_ids": "630,154,727,798",
+        "core_id": 1673.0
+      }
+    },
+    {
+      "id": "variant-7cfebded-b78b-5dff-b574-85a8c89bc044",
+      "score": 0.85498065,
+      "metadata": {
+        "text": "core_product_name: pipe alloy cast iron",
+        "raw_product_name": "PIPE ALLOY CAST IRON",
+        "list_of_product_ids": "7609,7284,7835,7837,33434",
+        "core_id": 1657.0
+      }
+    },
+    {
+      "id": "variant-093417ef-0258-5fff-8d5d-571e1dd5138f",
+      "score": 0.8549214,
+      "metadata": {
+        "text": "core_product_name: tube | material: Alloy Steel",
+        "raw_product_name": "ALLOY STEEL TUBES",
+        "list_of_product_ids": "14174,14880,29977,29980,29975",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-71375a23-b4b8-5f79-9289-52ed93bee593",
+      "score": 0.85449576,
+      "metadata": {
+        "text": "core_product_name: fitting | material: Cast Iron (CI)",
+        "raw_product_name": "FITTINGS -CAST IRON (CI)",
+        "list_of_product_ids": "7618,7292,7881,15941,16290,16308,34586,35732,35733",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-94afc0d1-e0c4-562d-b6d3-a66d8aa3ea57",
+      "score": 0.8536503,
+      "metadata": {
+        "text": "core_product_name: conduit pipe",
+        "raw_product_name": "CONDUIT PIPE",
+        "list_of_product_ids": "222,962,229,728,617",
+        "core_id": 440.0
+      }
+    },
+    {
+      "id": "variant-1c970bab-ac0f-5ea7-b0b2-e3743073ef71",
+      "score": 0.8535777,
+      "metadata": {
+        "text": "core_product_name: plug valve | material: CI (Cast Iron)",
+        "raw_product_name": "VALVE PLUG CI",
+        "list_of_product_ids": "14077,23666,23304,23289,23650,35583",
+        "core_id": 2366.0
+      }
+    },
+    {
+      "id": "variant-7a47b8db-ee25-518f-9ee3-4b13bf063bda",
+      "score": 0.8533924,
+      "metadata": {
+        "text": "core_product_name: large-diameter pipe",
+        "raw_product_name": "Large-diameter pipe",
+        "list_of_product_ids": "758,772,628,028",
+        "core_id": 1410.0
+      }
+    },
+    {
+      "id": "variant-f2e0d169-b3ec-5da2-bbb8-930f584c67a5",
+      "score": 0.8532947,
+      "metadata": {
+        "text": "core_product_name: pipe-alloy steel",
+        "raw_product_name": "PIPE-ALLOY STEEL",
+        "list_of_product_ids": "29973,21786,21788,24437,26854,29976,29979,37089",
+        "core_id": 1665.0
+      }
+    },
+    {
+      "id": "variant-8b17e0b9-66f6-5d0e-86c3-90233954cdce",
+      "score": 0.85307914,
+      "metadata": {
+        "text": "core_product_name: pipe fitting",
+        "raw_product_name": "PIPE FITTINGS",
+        "list_of_product_ids": "22332,22331,22330,23352,23353,24583,36871,30825,36882,37027,28815,37304,36590,33279,33280,33281,37015,37157,36862,35736,35737,35738,35739,35740,35741,35742,36885,36524",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-5e5f1468-e14f-529c-905e-2b6e0d375ec7",
+      "score": 0.8526683,
+      "metadata": {
+        "text": "core_product_name: ball valve | material: CI (Cast Iron)",
+        "raw_product_name": "VALVE BALL CI",
+        "list_of_product_ids": "8656",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-1297bf95-04c8-51c3-88c3-57508e8f85d8",
+      "score": 0.85238135,
+      "metadata": {
+        "text": "core_product_name: piping speciality",
+        "raw_product_name": "PIPING SPECIALITY",
+        "list_of_product_ids": "194,961,949,428,268",
+        "core_id": 1689.0
+      }
+    },
+    {
+      "id": "variant-067779a2-122f-53f1-9469-d03371626e54",
+      "score": 0.8523411,
+      "metadata": {
+        "text": "core_product_name: pipe insulation",
+        "raw_product_name": "PIPE INSULATION",
+        "list_of_product_ids": "13921,16092,16635,16633,18103,23466,23458,34600",
+        "core_id": 1662.0
+      }
+    },
+    {
+      "id": "variant-423d50a1-7603-5726-814f-99cd5c418a37",
+      "score": 0.85232013,
+      "metadata": {
+        "text": "core_product_name: stainless steel pipe",
+        "raw_product_name": "PIPE-STAINLESS STEEL",
+        "list_of_product_ids": "7575,7250,7806,8797,16076,16079,16087,16085,16081,16074,16810,16835,16834,16833,17696,18543,19848,24490,24499,29955,26146,26221,26230,29982,27714,29936,29956,32727,32728,36958,37086,37274,36869,36878,39858,39935,39998,40010,40081",
+        "core_id": 1674.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8522164,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-9e1152a3-fea8-5e88-b9c1-f65dfa7602ec",
+      "score": 0.8521622,
+      "metadata": {
+        "text": "core_product_name: pipe-carbon steel",
+        "raw_product_name": "PIPE-CARBON STEEL",
+        "list_of_product_ids": "6135,5453,11148,11346,10703,9257,7749,7750,7782,7789,7787,9298,9299,9309,9311,8035,8046,8048,8050,8053,8055,8057,8059,8061,8045,8047,8049,8052,8054,8056,8058,8060,9335,9396,9398,9391,9420,9176,9297,9177,9300,9308,9312,12253,12563,12999,17640,18867,18913,21056,21641,24436,30012,30011,30013,32041,40009,40080",
+        "core_id": 1667.0
+      }
+    },
+    {
+      "id": "variant-050f3a46-318d-52e8-96bb-a1996b61b938",
+      "score": 0.8520365,
+      "metadata": {
+        "text": "core_product_name: cast iron centrifugal pipe",
+        "raw_product_name": "CAST IRON CENTRIFUGAL PIPE",
+        "list_of_product_ids": "144,001,457,435,656",
+        "core_id": 304.0
+      }
+    }
+  ]
+}

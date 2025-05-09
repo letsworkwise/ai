@@ -1,0 +1,483 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.94224006,
+      "text": "core_product_name: first aid kit",
+      "core_id": 867.0,
+      "raw_product_name": "FIRST AID KITS",
+      "list_of_product_ids": [
+        "2",
+        "108",
+        "828",
+        "543"
+      ]
+    },
+    {
+      "retrieval_score": 0.9237329,
+      "text": "core_product_name: first aid box",
+      "core_id": 1000.0,
+      "raw_product_name": "First Aid Box",
+      "list_of_product_ids": [
+        "14350",
+        "14343",
+        "14347",
+        "14357",
+        "16793"
+      ]
+    },
+    {
+      "retrieval_score": 0.89678806,
+      "text": "core_product_name: helicopter rescue kit",
+      "core_id": 1121.0,
+      "raw_product_name": "HELICOPTER RESCUE KIT",
+      "list_of_product_ids": [
+        "188",
+        "522",
+        "806",
+        "337",
+        "431"
+      ]
+    },
+    {
+      "retrieval_score": 0.8901218,
+      "text": "core_product_name: resuscitator",
+      "core_id": 1905.0,
+      "raw_product_name": "RESUSCITATOR",
+      "list_of_product_ids": [
+        "14351",
+        "14341",
+        "14346",
+        "14356"
+      ]
+    },
+    {
+      "retrieval_score": 0.8891156,
+      "text": "core_product_name: primer",
+      "core_id": 1841.0,
+      "raw_product_name": "Primer",
+      "list_of_product_ids": [
+        "7042",
+        "7369",
+        "11501",
+        "12196",
+        "14306",
+        "22314",
+        "30745",
+        "30770",
+        "30809",
+        "31892",
+        "29240",
+        "29239",
+        "29238",
+        "29237",
+        "34034",
+        "34243"
+      ]
+    },
+    {
+      "retrieval_score": 0.8874584,
+      "text": "core_product_name: emergency vent",
+      "core_id": 742.0,
+      "raw_product_name": "EMERGENCY VENT",
+      "list_of_product_ids": [
+        "1",
+        "392",
+        "415",
+        "189"
+      ]
+    },
+    {
+      "retrieval_score": 0.88595194,
+      "text": "core_product_name: breathing equipment",
+      "core_id": 247.0,
+      "raw_product_name": "BREATHING EQUIPMENT",
+      "list_of_product_ids": [
+        "188",
+        "191",
+        "880",
+        "228",
+        "060"
+      ]
+    },
+    {
+      "retrieval_score": 0.8847072,
+      "text": "core_product_name: relief valve",
+      "core_id": 2370.0,
+      "raw_product_name": "VALVE RELIEF",
+      "list_of_product_ids": [
+        "14046",
+        "15292",
+        "22346",
+        "30833",
+        "36632"
+      ]
+    },
+    {
+      "retrieval_score": 0.8846033,
+      "text": "core_product_name: surge relief valve",
+      "core_id": 2159.0,
+      "raw_product_name": "SURGE RELIEF VALVE",
+      "list_of_product_ids": [
+        "6505",
+        "5676",
+        "12130",
+        "22347",
+        "28768"
+      ]
+    },
+    {
+      "retrieval_score": 0.88451856,
+      "text": "core_product_name: safety relief valve",
+      "core_id": 2181.0,
+      "raw_product_name": "Safety Relief Valve",
+      "list_of_product_ids": [
+        "7520",
+        "7194",
+        "10321",
+        "9958",
+        "12013",
+        "12014",
+        "12015",
+        "12091",
+        "12784",
+        "12758",
+        "12775",
+        "17529",
+        "18043",
+        "22348",
+        "36631",
+        "34693",
+        "34695",
+        "34697",
+        "34699",
+        "35702",
+        "36144",
+        "36151",
+        "39885"
+      ]
+    },
+    {
+      "retrieval_score": 0.8843874,
+      "text": "core_product_name: auxiliary relay",
+      "core_id": 149.0,
+      "raw_product_name": "AUXILIARY RELAY",
+      "list_of_product_ids": [
+        "2",
+        "013",
+        "420",
+        "111"
+      ]
+    },
+    {
+      "retrieval_score": 0.8838604,
+      "text": "core_product_name: auxiliary contactor",
+      "core_id": 163.0,
+      "raw_product_name": "Auxiliary contactors",
+      "list_of_product_ids": [
+        "7494",
+        "7902",
+        "7169",
+        "7124",
+        "7451",
+        "11207",
+        "10541",
+        "8229",
+        "11941",
+        "12179"
+      ]
+    },
+    {
+      "retrieval_score": 0.8837701,
+      "text": "core_product_name: synthetic primer",
+      "core_id": 2179.0,
+      "raw_product_name": "SYNTHETIC PRIMER",
+      "list_of_product_ids": [
+        "17461",
+        "17451",
+        "18361",
+        "18346",
+        "18513"
+      ]
+    },
+    {
+      "retrieval_score": 0.8830777,
+      "text": "core_product_name: fire fighting accessory",
+      "core_id": 845.0,
+      "raw_product_name": "FIRE FIGHTING ACCESSORIES",
+      "list_of_product_ids": [
+        "16168",
+        "16173",
+        "16277",
+        "16274",
+        "16273",
+        "16272",
+        "16271",
+        "16266",
+        "21064",
+        "21057",
+        "34088"
+      ]
+    },
+    {
+      "retrieval_score": 0.88281024,
+      "text": "core_product_name: stretcher",
+      "core_id": 2126.0,
+      "raw_product_name": "STRETCHER",
+      "list_of_product_ids": [
+        "18818",
+        "28058",
+        "18800",
+        "39316"
+      ]
+    },
+    {
+      "retrieval_score": 0.8825456,
+      "text": "core_product_name: surge protection device",
+      "core_id": 2156.0,
+      "raw_product_name": "SURG PROTECTION DEVICES",
+      "list_of_product_ids": [
+        "5954",
+        "6782",
+        "12132",
+        "14671",
+        "14679",
+        "18191",
+        "20174",
+        "36159"
+      ]
+    },
+    {
+      "retrieval_score": 0.88193035,
+      "text": "core_product_name: fire extinguisher",
+      "core_id": 854.0,
+      "raw_product_name": "FIRE EXTINGUISHERS",
+      "list_of_product_ids": [
+        "6022",
+        "5201",
+        "8260",
+        "8312",
+        "8475",
+        "8924",
+        "9065",
+        "14404",
+        "15759",
+        "16244",
+        "16252",
+        "16390",
+        "19167",
+        "18179",
+        "19188",
+        "19455",
+        "19461",
+        "19522",
+        "19531",
+        "19550",
+        "19557",
+        "21036",
+        "21063",
+        "21214",
+        "21458",
+        "23513",
+        "21470",
+        "20756",
+        "19568",
+        "19165",
+        "28059",
+        "36560",
+        "36561",
+        "36559",
+        "36558",
+        "37456",
+        "33787",
+        "34087",
+        "34954",
+        "34965",
+        "34984",
+        "35003",
+        "35021"
+      ]
+    },
+    {
+      "retrieval_score": 0.8815307,
+      "text": "core_product_name: protection relay",
+      "core_id": 1797.0,
+      "raw_product_name": "PROTECTION RELAYS",
+      "list_of_product_ids": [
+        "6468",
+        "5639",
+        "11165",
+        "7903",
+        "8234",
+        "8240",
+        "9275",
+        "8235",
+        "9443",
+        "12123",
+        "26086",
+        "26085"
+      ]
+    },
+    {
+      "retrieval_score": 0.8813904,
+      "text": "core_product_name: life saving appliance | acronymed_core_product_name: lsa (life saving appliance)",
+      "core_id": 2012.0,
+      "raw_product_name": "SHIP REPAIR- LIFE SAVING APPLIANCE (LSA)",
+      "list_of_product_ids": [
+        "29500",
+        "29291",
+        "29288",
+        "29286"
+      ]
+    },
+    {
+      "retrieval_score": 0.88133097,
+      "text": "core_product_name: fire fighting equipment",
+      "core_id": 846.0,
+      "raw_product_name": "FIRE FIGHTING EQUIPMENT",
+      "list_of_product_ids": [
+        "19962",
+        "21484",
+        "21482",
+        "21480",
+        "24379",
+        "26862",
+        "19964",
+        "37442",
+        "37440",
+        "37441",
+        "37443",
+        "37444",
+        "34995"
+      ]
+    },
+    {
+      "retrieval_score": 0.88084644,
+      "text": "core_product_name: cathodic protection agency",
+      "core_id": 314.0,
+      "raw_product_name": "CATHODIC PROTECTION AGENCIES",
+      "list_of_product_ids": [
+        "13890"
+      ]
+    },
+    {
+      "retrieval_score": 0.8807357,
+      "text": "core_product_name: emergency lighting system",
+      "core_id": 740.0,
+      "raw_product_name": "EMERGENCY LIGHTING SYSTEM",
+      "list_of_product_ids": [
+        "3",
+        "216",
+        "232",
+        "163"
+      ]
+    },
+    {
+      "retrieval_score": 0.8802205,
+      "text": "core_product_name: starter",
+      "core_id": 608.0,
+      "raw_product_name": "STARTERS",
+      "list_of_product_ids": [
+        "20786",
+        "20780",
+        "20781",
+        "21197",
+        "21194",
+        "27047"
+      ]
+    },
+    {
+      "retrieval_score": 0.8801775,
+      "text": "core_product_name: sanitary ware",
+      "core_id": 1957.0,
+      "raw_product_name": "SANITARY WARE",
+      "list_of_product_ids": [
+        "16758",
+        "16761",
+        "21136",
+        "28722"
+      ]
+    },
+    {
+      "retrieval_score": 0.8801619,
+      "text": "core_product_name: compressed breathing apparatus",
+      "core_id": 243.0,
+      "raw_product_name": "BREATHING APPARATUS - COMPRESSED",
+      "list_of_product_ids": [
+        "24212",
+        "24216",
+        "26883",
+        "37472"
+      ]
+    },
+    {
+      "retrieval_score": 0.8799508,
+      "text": "core_product_name: life jacket",
+      "core_id": 1343.0,
+      "raw_product_name": "LIFE JACKET",
+      "list_of_product_ids": [
+        "36665",
+        "27502",
+        "27508",
+        "27499",
+        "27498",
+        "34341",
+        "34339"
+      ]
+    },
+    {
+      "retrieval_score": 0.87980515,
+      "text": "core_product_name: cathodic protection system",
+      "core_id": 503.0,
+      "raw_product_name": "Cathodic Protection System",
+      "list_of_product_ids": [
+        "18681",
+        "19166",
+        "21519",
+        "18680",
+        "36550"
+      ]
+    },
+    {
+      "retrieval_score": 0.8793489,
+      "text": "core_product_name: portable fire extinguisher",
+      "core_id": 1837.0,
+      "raw_product_name": "Portable Fire Extinguishers",
+      "list_of_product_ids": [
+        "7103",
+        "7430",
+        "8261",
+        "15762",
+        "16407",
+        "18427",
+        "23511",
+        "38383",
+        "37506"
+      ]
+    },
+    {
+      "retrieval_score": 0.87890255,
+      "text": "core_product_name: equipment",
+      "core_id": 460.0,
+      "raw_product_name": "CONTROL ROOM EQUIPMENT",
+      "list_of_product_ids": [
+        "14034",
+        "14815",
+        "17256",
+        "21098"
+      ]
+    },
+    {
+      "retrieval_score": 0.8787863,
+      "text": "core_product_name: maintenance sanitary ware",
+      "core_id": 1958.0,
+      "raw_product_name": "SANITARY WARE MAINTENANCE",
+      "list_of_product_ids": [
+        "246",
+        "452",
+        "464",
+        "726",
+        "799"
+      ]
+    }
+  ]
+}

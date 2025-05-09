@@ -1,0 +1,437 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8383287,
+      "text": "core_product_name: printer",
+      "core_id": 1787.0,
+      "raw_product_name": "PRINTER",
+      "list_of_product_ids": [
+        "20435",
+        "20538",
+        "20577",
+        "20641",
+        "20698",
+        "20755"
+      ]
+    },
+    {
+      "retrieval_score": 0.8339674,
+      "text": "core_product_name: precision machined component",
+      "core_id": 1760.0,
+      "raw_product_name": "PRECESION MACHINED COMPONENTS",
+      "list_of_product_ids": [
+        "239",
+        "482",
+        "394",
+        "928",
+        "689"
+      ]
+    },
+    {
+      "retrieval_score": 0.82807356,
+      "text": "core_product_name: high pressure compressure",
+      "core_id": 421.0,
+      "raw_product_name": "COMPRESSURE.HIGH PRESSURE (PIANS)",
+      "list_of_product_ids": [
+        "5",
+        "912",
+        "674",
+        "126",
+        "946"
+      ]
+    },
+    {
+      "retrieval_score": 0.8274552,
+      "text": "core_product_name: speed transmitter",
+      "core_id": 2082.0,
+      "raw_product_name": "SPEED TANSMITTERS",
+      "list_of_product_ids": [
+        "6597",
+        "5767",
+        "12698",
+        "12704",
+        "12707",
+        "12697"
+      ]
+    },
+    {
+      "retrieval_score": 0.8272379,
+      "text": "core_product_name: internal wall | protection_features: fireproof",
+      "core_id": 1288.0,
+      "raw_product_name": "INTERNAL FIRE WALL",
+      "list_of_product_ids": [
+        "19216",
+        "28252",
+        "39669",
+        "39674",
+        "39745",
+        "39812",
+        "39784",
+        "39913"
+      ]
+    },
+    {
+      "retrieval_score": 0.8268464,
+      "text": "core_product_name: network component",
+      "core_id": 1544.0,
+      "raw_product_name": "NETWORK COMPONENTS",
+      "list_of_product_ids": [
+        "137",
+        "882",
+        "017",
+        "621",
+        "241"
+      ]
+    },
+    {
+      "retrieval_score": 0.82568705,
+      "text": "core_product_name: pressurisation system",
+      "core_id": 1782.0,
+      "raw_product_name": "PRESSURISATION SYSTEM",
+      "list_of_product_ids": [
+        "7063",
+        "7390",
+        "8498",
+        "8502",
+        "18415"
+      ]
+    },
+    {
+      "retrieval_score": 0.8256018,
+      "text": "core_product_name: primary structure | construction_features: bolted",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+      "list_of_product_ids": [
+        "20000",
+        "19997",
+        "20035",
+        "21038",
+        "21002",
+        "21083",
+        "21901",
+        "22017",
+        "22116",
+        "22826",
+        "22992"
+      ]
+    },
+    {
+      "retrieval_score": 0.8249556,
+      "text": "core_product_name: heavy fabricated component",
+      "core_id": 1122.0,
+      "raw_product_name": "HEAVY FABRICATED COMPONENT",
+      "list_of_product_ids": [
+        "23961",
+        "23960",
+        "23956",
+        "23957",
+        "23959",
+        "23958",
+        "24992",
+        "26749"
+      ]
+    },
+    {
+      "retrieval_score": 0.8244422,
+      "text": "core_product_name: heavy duty switch",
+      "core_id": 1118.0,
+      "raw_product_name": "HEAVY DUTY SWITCHES",
+      "list_of_product_ids": [
+        "6451",
+        "5621",
+        "24539",
+        "24538"
+      ]
+    },
+    {
+      "retrieval_score": 0.8242306,
+      "text": "core_product_name: non-proprietary package | type_or_class: High Quality Disr and Inl-Unengin",
+      "core_id": 1561.0,
+      "raw_product_name": "NON-PROP PKG,HIGH QUAL DISR& INL-UNENGIN",
+      "list_of_product_ids": [
+        "6189",
+        "5357",
+        "8979",
+        "9125",
+        "12408",
+        "19941",
+        "24347"
+      ]
+    },
+    {
+      "retrieval_score": 0.823831,
+      "text": "core_product_name: public address system speaker",
+      "core_id": 1804.0,
+      "raw_product_name": "PUBLIC ADDRESS SYSTEM SPEAKER",
+      "list_of_product_ids": [
+        "22157",
+        "22154",
+        "22152",
+        "22270"
+      ]
+    },
+    {
+      "retrieval_score": 0.823284,
+      "text": "core_product_name: pressure indicating controller",
+      "core_id": 1772.0,
+      "raw_product_name": "PRESSURE INDICATING CONTROLLERS",
+      "list_of_product_ids": [
+        "17056",
+        "17059",
+        "17058",
+        "17057",
+        "28751",
+        "36365",
+        "40118"
+      ]
+    },
+    {
+      "retrieval_score": 0.8228671,
+      "text": "core_product_name: differential pressure transmitter",
+      "core_id": 589.0,
+      "raw_product_name": "DIFFERENTIAL PRESSURE TRANSMITTER",
+      "list_of_product_ids": [
+        "10006",
+        "10015",
+        "10039",
+        "15083",
+        "18209",
+        "19852",
+        "36178",
+        "36326"
+      ]
+    },
+    {
+      "retrieval_score": 0.8222435,
+      "text": "core_product_name: digital indicator",
+      "core_id": 590.0,
+      "raw_product_name": "DIGITAL INDICATOR",
+      "list_of_product_ids": [
+        "1",
+        "365",
+        "123",
+        "180"
+      ]
+    },
+    {
+      "retrieval_score": 0.8221194,
+      "text": "core_product_name: offshore paging and intercom system",
+      "core_id": 1621.0,
+      "raw_product_name": "PAGING AND INTERCOM SYSTEM - OFFSHORE",
+      "list_of_product_ids": [
+        "6431",
+        "5601",
+        "39444",
+        "39507",
+        "39552"
+      ]
+    },
+    {
+      "retrieval_score": 0.8221156,
+      "text": "core_product_name: ventilation and pressurisation system",
+      "core_id": 2387.0,
+      "raw_product_name": "VENTILATION & PRESSURISATION SYSTEM",
+      "list_of_product_ids": [
+        "7018",
+        "7338",
+        "10205",
+        "10822",
+        "24144",
+        "24146",
+        "22515",
+        "19672"
+      ]
+    },
+    {
+      "retrieval_score": 0.8220403,
+      "text": "core_product_name: pressure transmitter",
+      "core_id": 1778.0,
+      "raw_product_name": "PRESSURE TRANSMITTER",
+      "list_of_product_ids": [
+        "10037",
+        "10038",
+        "10043",
+        "10159",
+        "10626",
+        "9515",
+        "9555",
+        "36531",
+        "15313",
+        "17103",
+        "17110",
+        "18208",
+        "24110",
+        "19474",
+        "20012",
+        "20022",
+        "20017",
+        "35953",
+        "36165",
+        "36313",
+        "36510"
+      ]
+    },
+    {
+      "retrieval_score": 0.8217834,
+      "text": "core_product_name: level switch | protection_features: Explosion Proof",
+      "core_id": 1337.0,
+      "raw_product_name": "Level Switches (Explosion Proof)",
+      "list_of_product_ids": [
+        "17095",
+        "17094",
+        "17093",
+        "17092",
+        "17091",
+        "17090",
+        "17096",
+        "27177"
+      ]
+    },
+    {
+      "retrieval_score": 0.82163227,
+      "text": "core_product_name: networking and information technology (IT) solution",
+      "core_id": 1542.0,
+      "raw_product_name": "NETWORKING & IT SOLUTIONS",
+      "list_of_product_ids": [
+        "1",
+        "931",
+        "919",
+        "320"
+      ]
+    },
+    {
+      "retrieval_score": 0.8212104,
+      "text": "core_product_name: prime mover",
+      "core_id": 2010.0,
+      "raw_product_name": "SHIP REPAIR - PRIME MOVER",
+      "list_of_product_ids": [
+        "29475",
+        "29299",
+        "29298",
+        "29295",
+        "29293"
+      ]
+    },
+    {
+      "retrieval_score": 0.82119036,
+      "text": "core_product_name: colour printer | type_or_class: LaserJet (Laser Jet)",
+      "core_id": 1321.0,
+      "raw_product_name": "LASERJET COLOUR PRINTER",
+      "list_of_product_ids": [
+        "191",
+        "561",
+        "915",
+        "726",
+        "940"
+      ]
+    },
+    {
+      "retrieval_score": 0.82099473,
+      "text": "core_product_name: light machined component",
+      "core_id": 1350.0,
+      "raw_product_name": "LIGHT MACHINED COMPONENTS",
+      "list_of_product_ids": [
+        "239",
+        "522",
+        "395",
+        "328",
+        "688"
+      ]
+    },
+    {
+      "retrieval_score": 0.82099056,
+      "text": "core_product_name: column tray | size_or_capacity: High Capacity",
+      "core_id": 393.0,
+      "raw_product_name": "COLUMN TRAYS-HIGH CAPACITY",
+      "list_of_product_ids": [
+        "6",
+        "705",
+        "587",
+        "612",
+        "418"
+      ]
+    },
+    {
+      "retrieval_score": 0.82097477,
+      "text": "core_product_name: interior",
+      "core_id": 458.0,
+      "raw_product_name": "CONTROL ROOM INTERIOR",
+      "list_of_product_ids": [
+        "19384",
+        "19379",
+        "28261",
+        "38713"
+      ]
+    },
+    {
+      "retrieval_score": 0.8203936,
+      "text": "core_product_name: enmasse chain conveyor",
+      "core_id": 753.0,
+      "raw_product_name": "ENMASSE CHAIN CONVEYOR",
+      "list_of_product_ids": [
+        "6112",
+        "5279",
+        "9602",
+        "9737"
+      ]
+    },
+    {
+      "retrieval_score": 0.8202864,
+      "text": "core_product_name: impeller casting",
+      "core_id": 1225.0,
+      "raw_product_name": "IMPELLER CASTING",
+      "list_of_product_ids": [
+        "23617",
+        "23552",
+        "23542",
+        "23536",
+        "32405"
+      ]
+    },
+    {
+      "retrieval_score": 0.8201857,
+      "text": "core_product_name: positive displacement meter",
+      "core_id": 1733.0,
+      "raw_product_name": "POSITIVE DISPLACEMENT METERS",
+      "list_of_product_ids": [
+        "6573",
+        "5743",
+        "11819",
+        "11462",
+        "11464",
+        "11466",
+        "11463",
+        "11465",
+        "11467",
+        "11737",
+        "11740",
+        "19635"
+      ]
+    },
+    {
+      "retrieval_score": 0.8201817,
+      "text": "core_product_name: gas metering system | special_attributes: dual chamber orifice",
+      "core_id": 1031.0,
+      "raw_product_name": "GAS METERING SYSTEM -DUAL CHAMBR ORIFICE",
+      "list_of_product_ids": [
+        "6614",
+        "5784",
+        "38506",
+        "38496"
+      ]
+    },
+    {
+      "retrieval_score": 0.8200621,
+      "text": "core_product_name: access chamber",
+      "core_id": 26.0,
+      "raw_product_name": "ACCESS CHAMBER",
+      "list_of_product_ids": [
+        "158",
+        "151",
+        "585",
+        "815",
+        "880"
+      ]
+    }
+  ]
+}

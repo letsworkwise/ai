@@ -1,0 +1,74 @@
+{
+  "query": "core_product_name: stud anchor | size: size: m12x100 | feature_or_specifications: type: std, type: hsv, packaging: 17 pack - 30 nos each packet",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: stud bolt",
+        "raw_product_name": "STUD BOLD",
+        "list_of_product_ids": [
+          "9930",
+          "9931",
+          "9932",
+          "9933",
+          "9934",
+          "9935",
+          "36597"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: stud bolt and nut",
+        "raw_product_name": "STUD BOLTS & NUTS",
+        "list_of_product_ids": [
+          "14079",
+          "14737",
+          "14738",
+          "18558",
+          "18553",
+          "26269",
+          "20908",
+          "17201",
+          "26150",
+          "26202",
+          "26216",
+          "26226",
+          "26235",
+          "27709",
+          "33125",
+          "38529",
+          "35982",
+          "35987",
+          "36448"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: high tensile stud | type_or_class: High Tensile",
+        "raw_product_name": "HIGH TENSILE STUD",
+        "list_of_product_ids": [
+          "21476",
+          "21466",
+          "21469",
+          "21472",
+          "21860",
+          "28599"
+        ]
+      }
+    }
+  ]
+}

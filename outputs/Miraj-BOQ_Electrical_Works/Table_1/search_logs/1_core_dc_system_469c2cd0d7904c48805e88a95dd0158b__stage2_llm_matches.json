@@ -1,0 +1,62 @@
+{
+  "query": "core_product_name: dc system | size: battery capacity: 50AH, battery voltage: 220V, charger current: 25A | feature_or_specifications: battery bank: 1x100%, charger type: dual float cum boost battery charger, accessory: rack, accessory: 220V DC distribution board, accessory: interconnecting DC cable, accessory: battery isolation box, incoming feeder: 63 A DP MCCB (1 nos), outgoing feeder: 16A DP MCB (6 nos), outgoing feeder: 32A DP MCB (6 nos)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+        "raw_product_name": "DCDB",
+        "list_of_product_ids": [
+          "15387",
+          "13587",
+          "14607",
+          "14780",
+          "19662",
+          "21388",
+          "36160"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: battery bank",
+        "raw_product_name": "Battery Bank",
+        "list_of_product_ids": [
+          "7505",
+          "7180",
+          "16186",
+          "16181",
+          "17028",
+          "17772",
+          "18420"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: battery",
+        "raw_product_name": "BATTERY",
+        "list_of_product_ids": [
+          "17766",
+          "17749",
+          "18656",
+          "18679",
+          "18678",
+          "18677",
+          "36615"
+        ]
+      }
+    }
+  ]
+}

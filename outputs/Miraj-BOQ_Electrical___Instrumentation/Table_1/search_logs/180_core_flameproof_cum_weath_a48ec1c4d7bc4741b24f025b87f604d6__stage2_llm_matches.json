@@ -1,0 +1,69 @@
+{
+  "query": "core_product_name: flameproof cum weatherproof repeater panel | feature_or_specifications: accessories: flameproof/ex-proof hooter, indication of fault & lel (lower explosive limit) alarm, connection: gms (gas monitoring system) at cr (control room), cabling & hardware included, installation: lpg pump house room for tld, lpg p/h & msv's area gas detectors, filling shed & filled cylinder shed, as per tender specifications",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: control panel | acronymed_core_product_name: control panel flp (flameproof) | protection_features: Flameproof",
+        "raw_product_name": "CONTROL PANEL FLP",
+        "list_of_product_ids": [
+          "14206",
+          "14604",
+          "14850",
+          "36916",
+          "22865",
+          "24832",
+          "24820",
+          "24935",
+          "24946",
+          "33487",
+          "33681",
+          "35782"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof lighting and distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF LIGHTING & DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13578",
+          "14601",
+          "14847",
+          "24098"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13583",
+          "14851",
+          "20281",
+          "22858",
+          "26788",
+          "26787",
+          "26786",
+          "26789",
+          "35773"
+        ]
+      }
+    }
+  ]
+}

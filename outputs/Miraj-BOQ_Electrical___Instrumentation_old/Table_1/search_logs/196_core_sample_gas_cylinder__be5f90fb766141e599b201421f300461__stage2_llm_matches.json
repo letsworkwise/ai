@@ -1,0 +1,49 @@
+{
+  "query": "core_product_name: sample gas cylinder for gas detectors | feature_or_specifications: sufficient for: calibration of minimum 21 gas detectors at a time, included: all accessories for calibration",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: calibration",
+        "raw_product_name": "INSTRUMENTS CALIBRATION",
+        "list_of_product_ids": [
+          "24237",
+          "23794",
+          "23833",
+          "23950",
+          "23799",
+          "26879"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: hand held multifunctional calibrator",
+        "raw_product_name": "Hand Held Multifunctional Calibrator",
+        "list_of_product_ids": [
+          "18090",
+          "28750",
+          "37512",
+          "37499"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: portable calibrator",
+        "raw_product_name": "Portable Calibrator",
+        "list_of_product_ids": [
+          "18091",
+          "27913",
+          "37511",
+          "37498"
+        ]
+      }
+    }
+  ]
+}

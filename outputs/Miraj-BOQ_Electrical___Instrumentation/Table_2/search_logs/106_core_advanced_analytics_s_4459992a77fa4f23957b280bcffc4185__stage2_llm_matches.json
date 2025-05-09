@@ -1,0 +1,69 @@
+{
+  "query": "core_product_name: advanced analytics software | feature_or_specifications: for: all fixed cameras (including varifocal, panoramic, MFZ fixed cameras), includes: compatible analytics server with OS, antivirus, analytic license for each camera",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: computer software",
+        "raw_product_name": "COMPUTER SOFTWARE",
+        "list_of_product_ids": [
+          "193",
+          "121",
+          "931",
+          "327",
+          "257"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: analyser system",
+        "raw_product_name": "ANALYSER SYSTEMS",
+        "list_of_product_ids": [
+          "6534",
+          "5705",
+          "10058",
+          "11193",
+          "11769",
+          "11789",
+          "10140",
+          "11888",
+          "15086",
+          "19634",
+          "29715",
+          "29985",
+          "32943",
+          "36181",
+          "36329"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: analyser",
+        "raw_product_name": "ANALYSER",
+        "list_of_product_ids": [
+          "14178",
+          "17079",
+          "19189",
+          "19477",
+          "39579",
+          "39910",
+          "39958",
+          "40087"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr); valves :- transportation of all types of valves (including special valves, motor operated  valves, prds, psvs, tsvs,",
+      "full_product_description": "flanged/wafer valves including mov (upto 600#); nb 4.000 inches",
+      "core_product_name": "flanged or wafer valves",
+      "acronymed_core_product_name": "mov",
+      "size": "nominal bore: 4.000 inches",
+      "feature_or_specifications": "type: flanged or wafer, includes: motor operated valve (mov), pressure rating: upto 600#",
+      "quantity": "23.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "RADIOGRAPHY :- Performance of radiographic inspection on piping of all types & thicknesses including providing or FOR JOINTS THK. <= 8MM (FOR CS OTHER THAN CLASS lV OF JOB NDE SPECIFICATION) NB  4.000 INCHES",
+      "core_product_name": "radiographic inspection",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 4.000 inches, joint thickness: <= 8mm",
+      "feature_or_specifications": "application: piping of all types & thicknesses, specification: for cs(carbon steel) other than class iv of job nde specification",
+      "quantity": "17.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "DYE PENETRATION/MAGNETIC PARTICLE TEST :- Performance of magnetic particle/ dye penetrant test DYE PENETRANT TEST",
+      "core_product_name": "dye penetrant test",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "test type: magnetic particle or dye penetrant",
+      "quantity": "72.0",
+      "unit": "inches"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "PIPE SUPPORTS (FROM MATERIALS SUPPLIED BY OWNER) :- Fabrication, erection(at all elevations) of pipe C.S STRUCTURAL STEEL (OWNER SUPPLIED)",
+      "core_product_name": "pipe supports",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: cs(carbon steel) structural steel, supply: owner supplied, application: fabrication, erection at all elevations",
+      "quantity": "1.0",
+      "unit": "mt"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      20,
+      29
+    ],
+    "original_rows": [
+      {
+        "0": 21,
+        "1": 0,
+        "2": "M22200000000",
+        "3": "RADIOGRAPHY :- Performance of radiographic inspection on piping of all types & thicknesses including providing or",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 22,
+        "1": 0,
+        "2": "M22201000000",
+        "3": "FOR JOINTS THK. <= 8MM (FOR CS OTHER THAN CLASS lV OF JOB NDE SPECIFICATION)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 23,
+        "1": 0,
+        "2": "M22201001300",
+        "3": "NB  4.000 INCHES",
+        "4": 17.0,
+        "5": "Nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 24,
+        "1": 0,
+        "2": "M22203000000",
+        "3": "FOR JOINTS ABOVE THK. 8MM",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 25,
+        "1": 0,
+        "2": "M22300000000",
+        "3": "DYE PENETRATION/MAGNETIC PARTICLE TEST :- Performance of magnetic particle/ dye penetrant test",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 26,
+        "1": 0,
+        "2": "M22301000000",
+        "3": "DYE PENETRANT TEST",
+        "4": 72.0,
+        "5": "Inches",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 27,
+        "1": 0,
+        "2": "M22400000000",
+        "3": "PIPE SUPPORTS (FROM MATERIALS SUPPLIED BY OWNER) :- Fabrication, erection(at all elevations) of pipe",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 28,
+        "1": 0,
+        "2": "M22401000000",
+        "3": "C.S STRUCTURAL STEEL (OWNER SUPPLIED)",
+        "4": 1.0,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 29,
+        "1": 0,
+        "2": "M22404000000",
+        "3": "DUMMY PIPE SUPPORTS FOR C.S (OWNER SUPPLIED)",
+        "4": 0.13,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 30,
+        "1": 0,
+        "2": "M22500000000",
+        "3": "PIPE SUPPORTS (FROM MATERIALS SUPPLIED BY CONTRACTOR) :- Fabrication, erection(at all elevations) of",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2352,
+    "completion_tokens": 1004
+  }
+}

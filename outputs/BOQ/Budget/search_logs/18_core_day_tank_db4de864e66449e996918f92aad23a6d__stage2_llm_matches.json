@@ -1,0 +1,78 @@
+{
+  "query": "core_product_name: day tank | size: capacity: 990 L | feature_or_specifications: feature: mounted on the elevated steel structure for gravity flow of fuel to DG sets",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: storage tank",
+        "raw_product_name": "STORAGE TANK",
+        "list_of_product_ids": [
+          "20109",
+          "20123",
+          "20708",
+          "37075",
+          "35997",
+          "36142",
+          "36153",
+          "36284",
+          "36290",
+          "36303"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: shop fabricated tank",
+        "raw_product_name": "SHOP FABRICATED TANK",
+        "list_of_product_ids": [
+          "7037",
+          "7364",
+          "11705",
+          "11497",
+          "12044",
+          "12854",
+          "13001",
+          "13072",
+          "15859",
+          "17343",
+          "22796",
+          "26143",
+          "37268",
+          "37271",
+          "37276",
+          "37278"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fabrication and erection tank",
+        "raw_product_name": "TANK- FABRICATION & ERECTION",
+        "list_of_product_ids": [
+          "15608",
+          "15601",
+          "15609",
+          "15603",
+          "15740",
+          "15607",
+          "16536",
+          "34495",
+          "35835",
+          "35842",
+          "36083"
+        ]
+      }
+    }
+  ]
+}

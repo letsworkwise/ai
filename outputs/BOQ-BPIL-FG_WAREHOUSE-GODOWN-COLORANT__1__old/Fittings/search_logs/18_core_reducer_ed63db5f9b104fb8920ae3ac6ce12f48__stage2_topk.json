@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: reducer | feature_or_specifications: type: grooved, type: concentric",
+  "retrieval_results": [
+    {
+      "id": "variant-7ac33587-ed2a-5558-a77f-e7e94b7bea10",
+      "score": 0.87516403,
+      "metadata": {
+        "text": "core_product_name: reducer fitting",
+        "raw_product_name": "FITTINGS –REDUCER",
+        "list_of_product_ids": "14266,14694,14669,14711,14904,14916,15997,16050,18893,19404,18961,19724,19801,19794,20061,20172,20937,21920,22662,22657,22916,23198,27768,27758,27748,27738,27728,27774,37066,36449",
+        "core_id": 879.0
+      }
+    },
+    {
+      "id": "variant-bcd40519-0040-5b3c-840e-6fbad51e5e99",
+      "score": 0.87260306,
+      "metadata": {
+        "text": "core_product_name: gear reducer",
+        "raw_product_name": "Gear Reducer",
+        "list_of_product_ids": "7533,7207,9725,27767,27757,27747,27737,27727,27772",
+        "core_id": 1082.0
+      }
+    },
+    {
+      "id": "variant-7d01faaf-1c91-53b8-af60-366b4bc3cea8",
+      "score": 0.86875594,
+      "metadata": {
+        "text": "core_product_name: reduced flange",
+        "raw_product_name": "REDUCED FLANGE",
+        "list_of_product_ids": "15468,15474,15476,15477",
+        "core_id": 1879.0
+      }
+    },
+    {
+      "id": "variant-e95bf32f-2e82-542f-9843-2a3047bb1f54",
+      "score": 0.866885,
+      "metadata": {
+        "text": "core_product_name: butterfly valve | type_or_class: Concentric",
+        "raw_product_name": "VALVE BUTTERFLY (CONCENTRIC)",
+        "list_of_product_ids": "8557,8668,8724,14023,15088,19362,18066,22545,22652,22769,25971,35497,36183,36331",
+        "core_id": 277.0
+      }
+    },
+    {
+      "id": "variant-c9966eb8-96a4-5c60-b053-4fe23ac3b9af",
+      "score": 0.8656724,
+      "metadata": {
+        "text": "core_product_name: slurry pump | type_or_class: centrifugal | type_or_class: recessed",
+        "raw_product_name": "PUMP-SLURRY CENT REC.IMPELLAR",
+        "list_of_product_ids": "5,902,673,126,795",
+        "core_id": 1818.0
+      }
+    },
+    {
+      "id": "variant-dcc63b0c-dd2a-5e6d-bbf3-a8faddeee9e1",
+      "score": 0.86127716,
+      "metadata": {
+        "text": "core_product_name: rotary compressor | type_or_class: Lobe or VP (PS)",
+        "raw_product_name": "COMPRESSURE ROTARY. LOBE/VP(PS)",
+        "list_of_product_ids": "5915,6744,11569,27070,37259,37267",
+        "core_id": 416.0
+      }
+    },
+    {
+      "id": "variant-38daf27a-3339-5c56-b909-270527a26b1f",
+      "score": 0.8610205,
+      "metadata": {
+        "text": "core_product_name: strainer | type_or_class: T or Cone-Type",
+        "raw_product_name": "STRAINERS (T/CONE-TYPE)",
+        "list_of_product_ids": "7522,7196,7777,12838,23595,23593,18171,18160,18156,23624,23657,23659,23664,23675,22718,23621,23618,37068,38001,36727,35602",
+        "core_id": 2121.0
+      }
+    },
+    {
+      "id": "variant-35bdbbe9-b7f3-5e25-bd6d-8692b3ca9a57",
+      "score": 0.8603928,
+      "metadata": {
+        "text": "core_product_name: reducing socket",
+        "raw_product_name": "REDUCING SOCKET",
+        "list_of_product_ids": "1,547,915,481",
+        "core_id": 1881.0
+      }
+    },
+    {
+      "id": "variant-ad611a63-e2e3-5493-a954-d9c9c9c4b937",
+      "score": 0.8602689,
+      "metadata": {
+        "text": "core_product_name: reciprocating compressor | type_or_class: Labyrinth",
+        "raw_product_name": "COMPRESSURE RECIPRO(LABYRINTH)",
+        "list_of_product_ids": "5911,6740,10917,10936,13146",
+        "core_id": 415.0
+      }
+    },
+    {
+      "id": "variant-25e8f0ca-1e3f-5872-9da1-5d31a2709d51",
+      "score": 0.8598748,
+      "metadata": {
+        "text": "core_product_name: density or specific gravity analyser | type_or_class: Coriolis",
+        "raw_product_name": "ANALYSER-DENSITY/SP GRAVITY (CORIOLIS)",
+        "list_of_product_ids": "6561,5731,10062,29883,32951,35673,35991,36243,36396",
+        "core_id": 109.0
+      }
+    },
+    {
+      "id": "variant-71eb8eae-4782-5d32-aa13-33994fed3be7",
+      "score": 0.85985816,
+      "metadata": {
+        "text": "core_product_name: density or specific gravity analyser | type_or_class: Nucleonic",
+        "raw_product_name": "ANALYSER-DENSITY/SP. GRAVITY (NUCLEONIC)",
+        "list_of_product_ids": "6559,5729,10101,10115,19569,29881,20888,35264,35415,35424,36241,36393",
+        "core_id": 109.0
+      }
+    },
+    {
+      "id": "variant-31da5c6b-4e12-5e2a-a351-fa1c0833a677",
+      "score": 0.85934114,
+      "metadata": {
+        "text": "core_product_name: reciprocating compressor | type_or_class: Diaphragm",
+        "raw_product_name": "COMPRESSURE-RECIPRO(DIAPHRAGM)",
+        "list_of_product_ids": "5910,6739,10843,26945",
+        "core_id": 415.0
+      }
+    },
+    {
+      "id": "variant-223a653f-ce26-546e-9630-21d058f384c7",
+      "score": 0.8579502,
+      "metadata": {
+        "text": "core_product_name: grating",
+        "raw_product_name": "GRATINGS",
+        "list_of_product_ids": "218,522,185,428,606",
+        "core_id": 1068.0
+      }
+    },
+    {
+      "id": "variant-9b25b784-a1a1-5ce1-9130-4075d704d02b",
+      "score": 0.85791,
+      "metadata": {
+        "text": "core_product_name: globe valve | construction_features: forged",
+        "raw_product_name": "VALVE GLOBE FORGED",
+        "list_of_product_ids": "6222,5391,11621,11639,11241,11254,11278,8279,8380,8554,8644,8621,9386,9428,9410,9452,9251,9165,9247,9341,11976,12097,12492,12571,13261,13361,19389,17622,17817,17907,18303,18031,19861,31811,19381,32700,36762,35556",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-8ae46d5f-845a-5711-a2a8-dbd69d20865b",
+      "score": 0.8577289,
+      "metadata": {
+        "text": "core_product_name: density or specific gravity analyser | special_attributes: vibrating cylinder",
+        "raw_product_name": "ANALYSER-DENSITY/SP GRAVTY (VIB CYLINDR)",
+        "list_of_product_ids": "6560,5730,11818,11313,29882,35610,35614,36242,36395",
+        "core_id": 109.0
+      }
+    },
+    {
+      "id": "variant-98a2749a-288e-585a-99dd-d1f8c0bff389",
+      "score": 0.8572547,
+      "metadata": {
+        "text": "core_product_name: compression fitting | type_or_class: Compression",
+        "raw_product_name": "FITTINGS - COMPRESSION",
+        "list_of_product_ids": "163,811,644,316,463",
+        "core_id": 871.0
+      }
+    },
+    {
+      "id": "variant-ed37c0af-376b-5f16-aeea-adb4f0a76606",
+      "score": 0.85719806,
+      "metadata": {
+        "text": "core_product_name: bore ball valve | type_or_class: Full or Reduced Bore",
+        "raw_product_name": "FULL & REDUCED BORE BALL VALVE",
+        "list_of_product_ids": "1,368,835,461",
+        "core_id": 985.0
+      }
+    },
+    {
+      "id": "variant-28f87e61-7c13-5662-916a-9b6c760223ad",
+      "score": 0.85674435,
+      "metadata": {
+        "text": "core_product_name: magnetostrictive level transmitter | type_or_class: Magnetostrictive",
+        "raw_product_name": "LEVEL TRANSMITTER MAGNETOSTRICTIVE TYPE",
+        "list_of_product_ids": "1,359,736,112",
+        "core_id": 1340.0
+      }
+    },
+    {
+      "id": "variant-d5d3a3bb-538b-5db4-9a35-07a48a0373f7",
+      "score": 0.8564807,
+      "metadata": {
+        "text": "core_product_name: gasket | type_or_class: Kamprofile",
+        "raw_product_name": "GASKET KAMPROFILE",
+        "list_of_product_ids": "5999,5178,7784,8352,8356,8361,8572,23347,23346,23345",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-50965ce0-da9f-5ccd-8e38-934aa3d27a7e",
+      "score": 0.85645354,
+      "metadata": {
+        "text": "core_product_name: reduced bore ball valve",
+        "raw_product_name": "REDUCED BORE BALL VALVE",
+        "list_of_product_ids": "13496,14677,14685,14871,14928,15074,15126,22527,34319,35462",
+        "core_id": 1878.0
+      }
+    },
+    {
+      "id": "variant-21302b14-ae7b-560d-b67c-e795da2ec93b",
+      "score": 0.85636276,
+      "metadata": {
+        "text": "core_product_name: special control valve | type_or_class: Angle",
+        "raw_product_name": "SPECIAL CONTROL VALVES (ANGLE)",
+        "list_of_product_ids": "13991,15407,15408,20249,23768,22455,22422,22477",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-b5e87529-625e-552b-b6df-173a5d45618c",
+      "score": 0.8563356,
+      "metadata": {
+        "text": "core_product_name: restriction orifice",
+        "raw_product_name": "RESTRICTION ORIFICE",
+        "list_of_product_ids": "8334,14373,14625,14845,14897,17138,17297,17291,17290,17795,18034,19640,10652,21402,22350,36216,36368",
+        "core_id": 1904.0
+      }
+    },
+    {
+      "id": "variant-8caeeac3-815d-5048-9c56-6fa3c4a488fc",
+      "score": 0.85610646,
+      "metadata": {
+        "text": "core_product_name: special control valve | type_or_class: Segmental",
+        "raw_product_name": "SPECIAL CONTROL VALVES (SEGMENTAL)",
+        "list_of_product_ids": "6507,5678,8709,28773,28781,28780,28779,28778,28777,28776,28775,28774,36265,36418",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-ae1bae9d-a0fd-54c3-90bd-ada0dda6bf9a",
+      "score": 0.8560684,
+      "metadata": {
+        "text": "core_product_name: level transmitter | type_or_class: Displacer Type | type_or_class: Leveltrol",
+        "raw_product_name": "LEVEL TRANSMITTER (DISPLACER TYPE – LEVELTROL)",
+        "list_of_product_ids": "1,343,521,678",
+        "core_id": 1080.0
+      }
+    },
+    {
+      "id": "variant-6c3b9e41-59cd-559e-b95a-a9a70299457f",
+      "score": 0.8559081,
+      "metadata": {
+        "text": "core_product_name: condenser",
+        "raw_product_name": "CONDENSER",
+        "list_of_product_ids": "1,395,321,584",
+        "core_id": 430.0
+      }
+    },
+    {
+      "id": "variant-2f93d8f7-a73a-5975-bf77-9375f12bceaf",
+      "score": 0.8559028,
+      "metadata": {
+        "text": "core_product_name: geared motor | size_or_capacity: below 5 kW",
+        "raw_product_name": "Geared Motor(below 5 kW)",
+        "list_of_product_ids": "7027,7355,10478,10515,10519,10531,10521,10808,10806,35411",
+        "core_id": 1084.0
+      }
+    },
+    {
+      "id": "variant-18b87508-16c7-5309-97e2-7d81d2c68a45",
+      "score": 0.8556933,
+      "metadata": {
+        "text": "core_product_name: centrifugal cast reformer tube | construction_features: centrifugal cast",
+        "raw_product_name": "REFORMER TUBES(CENTRIFUGAL CAST",
+        "list_of_product_ids": "5989,5168,9635,9633",
+        "core_id": 1882.0
+      }
+    },
+    {
+      "id": "variant-59191729-a9c1-556f-8830-f0b597cd9727",
+      "score": 0.85557765,
+      "metadata": {
+        "text": "core_product_name: pressure reducing valve",
+        "raw_product_name": "PRESSURE REDUCING VALVE",
+        "list_of_product_ids": "9998,10023,10223,13173,13389,17852,17906,17904,18046,22681,23085,23331,36634,40239",
+        "core_id": 1774.0
+      }
+    },
+    {
+      "id": "variant-8dc24b6d-5968-5ab6-bdfd-656a88c69cda",
+      "score": 0.8550845,
+      "metadata": {
+        "text": "core_product_name: check cryogenic valve | construction_features: forged",
+        "raw_product_name": "VALVE CHECK CRYOGENIC FORGED",
+        "list_of_product_ids": "6232,5401,11626,10425,11418,8650,8627",
+        "core_id": 2346.0
+      }
+    },
+    {
+      "id": "variant-a671fe35-9d57-555d-a7aa-47aad5d334b3",
+      "score": 0.85500616,
+      "metadata": {
+        "text": "core_product_name: gate cryogenic valve | construction_features: forged",
+        "raw_product_name": "VALVE GATE CRYOGENIC FORGED",
+        "list_of_product_ids": "6216,5385,11617,10419,11438,11413,8377,8642,8618,13256,31715",
+        "core_id": 2359.0
+      }
+    }
+  ]
+}

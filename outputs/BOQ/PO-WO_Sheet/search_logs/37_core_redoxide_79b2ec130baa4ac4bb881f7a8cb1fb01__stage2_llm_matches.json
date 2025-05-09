@@ -1,0 +1,70 @@
+{
+  "query": "core_product_name: redoxide | size: quantity: 20 ltr",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: construction chemical",
+        "raw_product_name": "CONSTRUCTION CHEMICALS",
+        "list_of_product_ids": [
+          "15531",
+          "13971",
+          "15530",
+          "15944",
+          "17467",
+          "22627",
+          "23888",
+          "15529",
+          "15528",
+          "35652"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: chemical cleaning material",
+        "raw_product_name": "CLEANING MATERIAL (CHEMICALS)",
+        "list_of_product_ids": [
+          "196",
+          "021",
+          "960",
+          "127",
+          "958"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: dense castable | material: Refractory",
+        "raw_product_name": "DENSE REFRACTORY CASTABLE",
+        "list_of_product_ids": [
+          "6139",
+          "5309",
+          "10462",
+          "8832",
+          "8835",
+          "8847",
+          "8849",
+          "8865",
+          "9604",
+          "9620",
+          "9628",
+          "9661",
+          "9666",
+          "9657",
+          "9801",
+          "13155",
+          "24304",
+          "24300",
+          "24301",
+          "24302"
+        ]
+      }
+    }
+  ]
+}

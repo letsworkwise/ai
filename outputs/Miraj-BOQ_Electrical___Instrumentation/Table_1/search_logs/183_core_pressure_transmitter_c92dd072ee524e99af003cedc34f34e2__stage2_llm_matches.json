@@ -1,0 +1,105 @@
+{
+  "query": "core_product_name: pressure transmitter with 2 valve manifold | feature_or_specifications: measurement: vapour pressure, range: 0-15 kg/cm2, quantity per msv: 2",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: pressure transmitter",
+        "raw_product_name": "PRESSURE TRANSMITTER",
+        "list_of_product_ids": [
+          "10037",
+          "10038",
+          "10043",
+          "10159",
+          "10626",
+          "9515",
+          "9555",
+          "36531",
+          "15313",
+          "17103",
+          "17110",
+          "18208",
+          "24110",
+          "19474",
+          "20012",
+          "20022",
+          "20017",
+          "35953",
+          "36165",
+          "36313",
+          "36510"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: differential pressure transmitter",
+        "raw_product_name": "DIFFERENTIAL PRESSURE TRANSMITTER",
+        "list_of_product_ids": [
+          "10006",
+          "10015",
+          "10039",
+          "15083",
+          "18209",
+          "19852",
+          "36178",
+          "36326"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "accessories_or_attachments"
+      ],
+      "match_details": {
+        "text": "core_product_name: instrument valve | accessories_or_attachments: manifold",
+        "raw_product_name": "INSTRUMENT VALVES & MANIFOLDS",
+        "list_of_product_ids": [
+          "8451",
+          "8593",
+          "10656",
+          "10878",
+          "13417",
+          "15195",
+          "15214",
+          "15274",
+          "15282",
+          "15336",
+          "16883",
+          "17199",
+          "17298",
+          "17503",
+          "17499",
+          "18364",
+          "18481",
+          "22506",
+          "22608",
+          "23348",
+          "23343",
+          "23354",
+          "22927",
+          "23551",
+          "23546",
+          "27485",
+          "27484",
+          "27483",
+          "28117",
+          "28812",
+          "36133",
+          "36256",
+          "36409",
+          "36450"
+        ]
+      }
+    }
+  ]
+}

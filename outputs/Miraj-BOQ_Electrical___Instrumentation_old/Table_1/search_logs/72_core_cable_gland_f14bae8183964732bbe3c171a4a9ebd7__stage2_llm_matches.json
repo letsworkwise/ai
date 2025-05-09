@@ -1,0 +1,131 @@
+{
+  "query": "core_product_name: cable gland | size: cores: 4c, conductor size: 6 sqmm | feature_or_specifications: type: double compression, material: stainless steel, suitability: xlpe (cross-linked polyethylene) and frls (flame retardant low smoke) cable sizes, standard: relevant indian standard, application: indoor use",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable gland",
+        "raw_product_name": "CABLE GLANDS",
+        "list_of_product_ids": [
+          "5961",
+          "6789",
+          "8221",
+          "8217",
+          "10553",
+          "10605",
+          "8222",
+          "8223",
+          "12107",
+          "15811",
+          "15929",
+          "16012",
+          "16032",
+          "16026",
+          "17577",
+          "22860",
+          "26078",
+          "26074",
+          "26071",
+          "36606",
+          "33509",
+          "33510",
+          "35776",
+          "35866",
+          "39358"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: hazardous area cable gland",
+        "raw_product_name": "CABLE GLANDS ( HAZARDOUS AREA)",
+        "list_of_product_ids": [
+          "6443",
+          "5613",
+          "8218",
+          "10559",
+          "10589",
+          "10590",
+          "10604",
+          "8216",
+          "8219",
+          "8220",
+          "8224",
+          "12670",
+          "17578",
+          "23865",
+          "22857",
+          "24500",
+          "35772"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flange | material: Stainless Steel",
+        "raw_product_name": "FLANGE-STAINLESS STEEL",
+        "list_of_product_ids": [
+          "6275",
+          "5444",
+          "11593",
+          "11256",
+          "11285",
+          "11401",
+          "8449",
+          "8462",
+          "8471",
+          "8781",
+          "12343",
+          "12389",
+          "12471",
+          "12876",
+          "12885",
+          "12866",
+          "12872",
+          "12889",
+          "12895",
+          "12923",
+          "12929",
+          "12933",
+          "12938",
+          "12946",
+          "12954",
+          "12898",
+          "12903",
+          "12927",
+          "12942",
+          "12950",
+          "13299",
+          "17007",
+          "17914",
+          "18403",
+          "18897",
+          "18941",
+          "19844",
+          "21656",
+          "21700",
+          "21749",
+          "26265",
+          "26147",
+          "26199",
+          "26212",
+          "26222",
+          "26231",
+          "27707",
+          "37251"
+        ]
+      }
+    }
+  ]
+}

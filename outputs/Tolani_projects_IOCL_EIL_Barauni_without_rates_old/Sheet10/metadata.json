@@ -1,0 +1,14 @@
+{
+  "file_path": "/home/student2/Documents/GitHub/1st_AI_Project_Kothari/boq_extraction_2/pipeline_copy_2/inputs/Tolani projects IOCL EIL Barauni without rates.xlsx",
+  "sheet_name": "Sheet10",
+  "output_folder": "outputs/Tolani_projects_IOCL_EIL_Barauni_without_rates/Sheet10",
+  "schedule_path": "outputs/Tolani_projects_IOCL_EIL_Barauni_without_rates/Sheet10/schedule_only.xlsx",
+  "context_md": " |  |  |  |  | \n |  |  |  |  | \nSUMMARY FOR BARAUNI TANK |  |  |  |  | \n |  |  |  |  | ",
+  "header_md": "Sr. No. | Item | IOCL SOR |  | initial costing | Rate to be",
+  "schedule_start_idx": 5,
+  "max_col_idx": 6,
+  "tokens_used_ctx": [
+    472,
+    86
+  ]
+}

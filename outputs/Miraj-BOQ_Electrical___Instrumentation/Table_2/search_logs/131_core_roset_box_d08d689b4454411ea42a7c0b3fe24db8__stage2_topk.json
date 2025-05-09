@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: roset box | feature_or_specifications: voice tag: included, face plate: included",
+  "retrieval_results": [
+    {
+      "id": "variant-97c47e7e-d6e0-5d36-80a4-01f0fe6e1f26",
+      "score": 0.86609584,
+      "metadata": {
+        "text": "core_product_name: heat exchanger | construction_features: plates-gasketted",
+        "raw_product_name": "HEAT EXCHANGER (PLATES-GASKETTED)",
+        "list_of_product_ids": "6669,5840,12278,8820,8817,8821,23059,37943,37962,37991,38013,38043,38348,38369,37896,38404,38423",
+        "core_id": 1110.0
+      }
+    },
+    {
+      "id": "variant-5b452ea9-dd5f-5e3b-bde6-d56b975fbc36",
+      "score": 0.85627395,
+      "metadata": {
+        "text": "core_product_name: fabricated fitting | material: Plate | construction_features: Cladded",
+        "raw_product_name": "FITTINGS FABRICATED FROM PLATE - CLADDED",
+        "list_of_product_ids": "6326,5497,11561,24593,34020,34019,36846",
+        "core_id": 874.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.8556305,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-56692aba-58df-55cd-8741-8841f21911e6",
+      "score": 0.85536283,
+      "metadata": {
+        "text": "core_product_name: chequered plate",
+        "raw_product_name": "CHEQUERED PLATE",
+        "list_of_product_ids": "29410,29433,29461,29486,31097,29524,29895,29548,29858,31343,29574,31545,31127,30360,31372,30794,31577,31695,29609,30341,30913,31391,30383,31149,25253,25277,25279,25474,25418,30529,30939,25460,25446,25432,29630,30035,25511,25497,25539,25536,31168,25554,25568,25582,25726,25638,25624,25610,25596,25652,25666,25685,25698,25712,25767,25753,25738,25797,25784,25833,25847,25811,25900,25885,25870,31826,25914,25945,30551,30406,31845,31604,25984,26089,26114,29670,26127,30068,30576,31413,26186,26163,26252,26282,26314,30969,26337,26362,30601,26386,26426,26449,26497,26474,26548,26526,26580,26606,30438,30090,31437,26629,26652,26733,26710,26758,26813,29699,30112,26921,26956,30623,30992,31626,26984,26838,27015,27149,30461,30135,27194,27217,27241,30156,30650,31205,27269,27298,29726,30178,27321,27385,31017,31730,27411,27453,27565,31227,27593,29750,30674,31043,27622,27660,27694,27838,27860,27885,27944,27974,30200,31252,28008,29773,31460,28044,28094,28130,28163,30223,31648,28309,28332,31865,28366,30491,31482,28397,28437,28478,28528,30246,31272,28555,28639,28677,28708,30701,28734,28871,28849,28895,29832,30269,28931,28952,31295,31507,28983,29008,29031,30725,29058,29080,30296,31319,31526,29126,31075,31674,29147,29807,29171,29196,29221,30316,29335,29315,29359,29383,31911,31936,31955,31978,32028,32000,32056,32070,32094,32118,32149,32177,32208,32265,32251,32236,32296,32313,32339,32354,32377,32392,32415,32459,32437,32542,32519,32555,32571,32896,32589,32645,32621,32681,32684,32720,32742,32785,32828,32862,32923,32973,33056,33077,33108,33160,33138,33225,33295,33325,33362,33403,33472,33523,33584,33656,33700,33726,33747,33772,33797,33831,33881,33857,33928,33970,34050,34074,34100,34127,34183,34227,34205,34265,34294,34155,34363,34392,34431,34453,34475,34510,34531,34555,34612,34661,34714,34741,34765,34812,34788,34867,34835,34891,34939,35031,35066,35088,35110,35132,35175",
+        "core_id": 345.0
+      }
+    },
+    {
+      "id": "variant-f0c36a3d-119d-5b25-8f28-08168a4fd2ac",
+      "score": 0.8548784,
+      "metadata": {
+        "text": "core_product_name: plate",
+        "raw_product_name": "PLATES AND ROLLED SECTION",
+        "list_of_product_ids": "14139,18375,18350,22846,38280,35200,35272",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-4173582a-6ddd-5391-86a4-9c2653bc8f5a",
+      "score": 0.8528009,
+      "metadata": {
+        "text": "core_product_name: gasket",
+        "raw_product_name": "GASKET",
+        "list_of_product_ids": "9922,9923,9924,9925,9926,9927,9928,9929,14319,14759,17708,36907,36908,19453,19462,19488,19520,19533,19548,19555,23028,23022,23012,23077,23072,36596,35882",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-bef9e8d8-b371-52cc-b8d8-a94a4cb6dd98",
+      "score": 0.8527727,
+      "metadata": {
+        "text": "core_product_name: gasket",
+        "raw_product_name": "Gasket",
+        "list_of_product_ids": "6921",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-a04e326a-e012-52d5-b0cf-79c485e8ddee",
+      "score": 0.8527727,
+      "metadata": {
+        "text": "core_product_name: gasket",
+        "raw_product_name": "GASKETS",
+        "list_of_product_ids": "7738",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-d5d3a3bb-538b-5db4-9a35-07a48a0373f7",
+      "score": 0.8525043,
+      "metadata": {
+        "text": "core_product_name: gasket | type_or_class: Kamprofile",
+        "raw_product_name": "GASKET KAMPROFILE",
+        "list_of_product_ids": "5999,5178,7784,8352,8356,8361,8572,23347,23346,23345",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-27806220-c919-53b0-a8d1-1b2f4465f897",
+      "score": 0.85191584,
+      "metadata": {
+        "text": "core_product_name: marking plate",
+        "raw_product_name": "MARKING PLATE",
+        "list_of_product_ids": "1,542,818,339",
+        "core_id": 1438.0
+      }
+    },
+    {
+      "id": "variant-27d39f8f-5c88-5af7-a7c1-b8ebd1346284",
+      "score": 0.8517572,
+      "metadata": {
+        "text": "core_product_name: gate valve | construction_features: Forged",
+        "raw_product_name": "VALVE GATE FORGED",
+        "list_of_product_ids": "6215,5384,10997,11616,11636,11221,11239,11252,11276,11397,11437,9259,8278,8376,8550,8641,8617,9409,9434,9450,9249,9168,9245,9339,11977,12023,12041,12032,12096,12491,12570,12654,13254,19380,19388,17620,17816,17909,18302,18032,19708,19859,31810,31714,32699,35523",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-40f5e806-4a91-59d6-8fea-bf521847066a",
+      "score": 0.85149795,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: Forged",
+        "raw_product_name": "VALVE CHECK FORGED",
+        "list_of_product_ids": "6231,5400,11625,11641,11223,11242,11255,9246,11448,9262,8280,8383,8555,8649,8626,9412,9451,9253,9166,9343,12098,12493,12572,12656,13266,13360,19382,19390,17623,17908,18030,19711,19860,31813,36763,32701",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-bf41f846-647e-583b-a372-b0ffa5764732",
+      "score": 0.8514,
+      "metadata": {
+        "text": "core_product_name: welded heat exchanger | construction_features: plates",
+        "raw_product_name": "HEAT EXCHANGER( PLATES-WELDED)",
+        "list_of_product_ids": "6673,5844,12279,8005,23196,37895,38424",
+        "core_id": 1111.0
+      }
+    },
+    {
+      "id": "variant-83ffcc6e-df53-515c-8647-84fb481b59eb",
+      "score": 0.8511593,
+      "metadata": {
+        "text": "core_product_name: plate valve",
+        "raw_product_name": "PLATE VALVE",
+        "list_of_product_ids": "137,941,445,914,496",
+        "core_id": 1702.0
+      }
+    },
+    {
+      "id": "variant-3e1e7a81-dc6f-583b-94af-f17793c3043f",
+      "score": 0.8509204,
+      "metadata": {
+        "text": "core_product_name: speaker",
+        "raw_product_name": "SPEAKER",
+        "list_of_product_ids": "139,852,101,035,052",
+        "core_id": 2072.0
+      }
+    },
+    {
+      "id": "variant-1469320a-e6e2-5607-9729-54bb70363ee1",
+      "score": 0.84984165,
+      "metadata": {
+        "text": "core_product_name: sound power telephone",
+        "raw_product_name": "SOUND POWER TELEPHONE",
+        "list_of_product_ids": "23968,22937,22936,22935,27933",
+        "core_id": 2067.0
+      }
+    },
+    {
+      "id": "variant-b0717a7e-736c-55cc-93fc-42317ed84e45",
+      "score": 0.84960216,
+      "metadata": {
+        "text": "core_product_name: marshalling box",
+        "raw_product_name": "Marshalling Boxes",
+        "list_of_product_ids": "16914,17029,17037,35828",
+        "core_id": 1523.0
+      }
+    },
+    {
+      "id": "variant-c3bf3b5d-c7e1-567b-896e-879ca0b726dc",
+      "score": 0.8492115,
+      "metadata": {
+        "text": "core_product_name: gasket | material: Metel",
+        "raw_product_name": "Metel Gasket",
+        "list_of_product_ids": "1,421,914,239",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-9b25b784-a1a1-5ce1-9130-4075d704d02b",
+      "score": 0.84919256,
+      "metadata": {
+        "text": "core_product_name: globe valve | construction_features: forged",
+        "raw_product_name": "VALVE GLOBE FORGED",
+        "list_of_product_ids": "6222,5391,11621,11639,11241,11254,11278,8279,8380,8554,8644,8621,9386,9428,9410,9452,9251,9165,9247,9341,11976,12097,12492,12571,13261,13361,19389,17622,17817,17907,18303,18031,19861,31811,19381,32700,36762,35556",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-2e84cef9-327a-515b-8b9e-5d2b777c59cb",
+      "score": 0.8485313,
+      "metadata": {
+        "text": "core_product_name: elbowlet",
+        "raw_product_name": "ELBOWLET",
+        "list_of_product_ids": "14395,14719,14722,14725,19815,22922",
+        "core_id": 681.0
+      }
+    },
+    {
+      "id": "variant-64bca620-e696-5279-bab5-9065c12376ef",
+      "score": 0.84833944,
+      "metadata": {
+        "text": "core_product_name: structural steel | accessories_or_attachments: plates",
+        "raw_product_name": "Structural Steel (Including plates)",
+        "list_of_product_ids": "14076,20962,22587,40047",
+        "core_id": 2137.0
+      }
+    },
+    {
+      "id": "variant-4d90c084-11dd-5309-a710-bba18baf4ab9",
+      "score": 0.8478035,
+      "metadata": {
+        "text": "core_product_name: check valve | material: Cast",
+        "raw_product_name": "VALVE CHECK CAST",
+        "list_of_product_ids": "6229,5398,29399,11623,11640,11225,11237,11247,11279,11282,11259,11446,11431,6853,6858,6863,6873,6878,6883,6888,6893,6898,7697,7698,7699,7700,7701,7702,7703,7704,7705,7706,7707,7708,7866,9261,9387,9411,9407,9162,9252,9163,9175,9244,9342,12330,12429,12568,12548,12652,13364,13375,13381,6868,19359,16650,19409,18053,18383,19710,33375",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-dac42c0a-0a7d-5664-acb4-16aea5159e6b",
+      "score": 0.8475044,
+      "metadata": {
+        "text": "core_product_name: bolted structural item",
+        "raw_product_name": "STRUCTURAL ITEM (BOLTED)",
+        "list_of_product_ids": "173,371,733,527,207",
+        "core_id": 2135.0
+      }
+    },
+    {
+      "id": "variant-f04964aa-985c-5fd7-9acd-379ec435e792",
+      "score": 0.84740824,
+      "metadata": {
+        "text": "core_product_name: plate | material: Aluminium",
+        "raw_product_name": "ALUMINIUM PLATE",
+        "list_of_product_ids": "234,562,603,726,687",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-6c3737d4-39a0-5f0c-aeaf-89178b4d57df",
+      "score": 0.84739715,
+      "metadata": {
+        "text": "core_product_name: plate | material: Stainless Steel",
+        "raw_product_name": "STAINLESS STEEL PLATE",
+        "list_of_product_ids": "29507,29508,29506,29509,29511,29510,29535,32724",
+        "core_id": 87.0
+      }
+    },
+    {
+      "id": "variant-4062373c-a7af-5184-b5af-32d3b472f76f",
+      "score": 0.8471968,
+      "metadata": {
+        "text": "core_product_name: ball valve | construction_features: forged",
+        "raw_product_name": "VALVE BALL FORGED",
+        "list_of_product_ids": "140,222,209,935,458",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-710db86a-5665-5d2e-b3fd-987c788a21ba",
+      "score": 0.8471574,
+      "metadata": {
+        "text": "core_product_name: gasket | material: Rubber",
+        "raw_product_name": "RUBBER GASKETS",
+        "list_of_product_ids": "8366",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-a3b21856-928b-5ccc-9090-eb9cea2bab58",
+      "score": 0.8471557,
+      "metadata": {
+        "text": "core_product_name: gasket | material: Rubber",
+        "raw_product_name": "GASKET RUBBER",
+        "list_of_product_ids": "17840,17839,18654,22361,37308,37310,37313,37315,37318,37303",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-00b0fc93-0903-5e42-ba5a-16f0089f41f2",
+      "score": 0.84712666,
+      "metadata": {
+        "text": "core_product_name: switch plate",
+        "raw_product_name": "SWITCH PLATE",
+        "list_of_product_ids": "20511,20547,20587,20634,20689,20747",
+        "core_id": 2169.0
+      }
+    },
+    {
+      "id": "variant-f23555b4-6776-5418-b12f-82367d57d9b5",
+      "score": 0.846998,
+      "metadata": {
+        "text": "core_product_name: fitting | type_or_class: ERMETO",
+        "raw_product_name": "ERMETO FITTINGS",
+        "list_of_product_ids": "254,072,567,926,699",
+        "core_id": 273.0
+      }
+    }
+  ]
+}

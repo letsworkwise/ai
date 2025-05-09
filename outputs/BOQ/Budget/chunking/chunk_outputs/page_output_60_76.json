@@ -1,0 +1,230 @@
+{
+  "sheet_name": "Budget",
+  "boq_context": " | CONTROL CABLING : |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "S4 | 75  x 6 mm GI strip",
+      "core_product_name": "gi(galvanized iron) strip",
+      "acronymed_core_product_name": "",
+      "size": "dimension: 75 x 6 mm",
+      "feature_or_specifications": "",
+      "quantity": "1000.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "S4 | 75 x 6 mm Copper strip",
+      "core_product_name": "copper strip",
+      "acronymed_core_product_name": "",
+      "size": "dimension: 75 x 6 mm",
+      "feature_or_specifications": "",
+      "quantity": "750.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "S3 | First fill of Diesel",
+      "core_product_name": "diesel",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "4000.0",
+      "unit": "RM"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "SM | Fire extinguishers - CO2 type - 4.5kg Supply & Installation",
+      "core_product_name": "fire extinguisher",
+      "acronymed_core_product_name": "",
+      "size": "capacity: 4.5kg",
+      "feature_or_specifications": "type: co2(carbon dioxide)",
+      "quantity": "1.0",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "SM | First aid box complete with all standard first aid materials Supply & Installation",
+      "core_product_name": "first aid box",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: complete with all standard first aid materials",
+      "quantity": "1.0",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "SM | Safety Charts in English & Kannada Supply & Installation",
+      "core_product_name": "safety chart",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "language: english and kannada",
+      "quantity": "1.0",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "SM | 440V enameled Danger Board Supply & Installation",
+      "core_product_name": "danger board",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "voltage: 440v, finish: enameled",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "SM | Set of two sand buckets with stand Supply & Installation",
+      "core_product_name": "sand bucket set",
+      "acronymed_core_product_name": "",
+      "size": "set: two buckets with stand",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "SM | Professional charges towards obtaining permission for installation as well as for running of 4 nos Generator sets from Chief  of KS State Pollution Control Board and any other statutory body as may be .",
+      "core_product_name": "professional charges for obtaining statutory permission",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "OS | AS-BUILT DRAWINGS                                                                                        Drawing made on Autocad of the total work executed including 4 sets of blue prints and 1 set of original tracings and CDs.",
+      "core_product_name": "as-built drawings",
+      "acronymed_core_product_name": "",
+      "size": "sets: 4 blue prints, 1 original tracings, cds",
+      "feature_or_specifications": "software: autocad",
+      "quantity": "1.0",
+      "unit": ""
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      60,
+      75
+    ],
+    "original_rows": [
+      {
+        "0": "S3",
+        "1": "First fill of Diesel",
+        "2": "RM",
+        "3": 4000.0,
+        "4": 305760.0
+      },
+      {
+        "0": "SM",
+        "1": "Fire extinguishers - CO2 type - 4.5kg Supply & Installation",
+        "2": NaN,
+        "3": 1.0,
+        "4": 156.0
+      },
+      {
+        "0": "SM",
+        "1": "First aid box complete with all standard first aid materials Supply & Installation",
+        "2": NaN,
+        "3": 1.0,
+        "4": 156.0
+      },
+      {
+        "0": "SM",
+        "1": "Safety Charts in English & Kannada Supply & Installation",
+        "2": NaN,
+        "3": 1.0,
+        "4": 156.0
+      },
+      {
+        "0": "SM",
+        "1": "440V enameled Danger Board Supply & Installation",
+        "2": "Nos.",
+        "3": 1.0,
+        "4": 156.0
+      },
+      {
+        "0": "SM",
+        "1": "Set of two sand buckets with stand Supply & Installation",
+        "2": NaN,
+        "3": 1.0,
+        "4": 156.0
+      },
+      {
+        "0": "SM",
+        "1": "Professional charges towards obtaining permission for installation as well as for running of 4 nos Generator sets from Chief  of KS State Pollution Control Board and any other statutory body as may be .",
+        "2": "Nos.",
+        "3": 1.0,
+        "4": 234000.0
+      },
+      {
+        "0": "OS",
+        "1": "AS-BUILT DRAWINGS                                                                                        Drawing made on Autocad of the total work executed including 4 sets of blue prints and 1 set of original tracings and CDs.",
+        "2": NaN,
+        "3": 1.0,
+        "4": 31200.0
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN
+      },
+      {
+        "0": NaN,
+        "1": "TOTAL",
+        "2": NaN,
+        "3": NaN,
+        "4": 11557217.100000003
+      },
+      {
+        "0": "S1",
+        "1": "DG Installation Related",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN
+      },
+      {
+        "0": "S2",
+        "1": "Electrical System Related",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN
+      },
+      {
+        "0": "S3",
+        "1": "Fuel System Related",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN
+      },
+      {
+        "0": "S4",
+        "1": "Exhaust System Related",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN
+      },
+      {
+        "0": "SM",
+        "1": "Safety Material",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN
+      },
+      {
+        "0": "OS",
+        "1": "Other Services",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2343,
+    "completion_tokens": 1194
+  }
+}

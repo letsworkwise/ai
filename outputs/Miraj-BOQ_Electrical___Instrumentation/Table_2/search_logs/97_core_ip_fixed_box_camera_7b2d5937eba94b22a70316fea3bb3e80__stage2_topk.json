@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: ip fixed box camera | size: lens: 8MP, sensor: 1/2.5'' or better, varifocal lens: 2.8 to 8.5mm, resolution: 4k, sd card: 32GB | feature_or_specifications: listing: UL (underwriters laboratories), sensor: progressive scan CMOS, WDR, streaming: multi streaming, compression: H.264, power: PoE, DC12V/AC24V, rating: IP67, protocol: ONVIF, accessories: pole mount accessories",
+  "retrieval_results": [
+    {
+      "id": "variant-de47ff96-bd93-5d30-b6a8-28e7215a5255",
+      "score": 0.8502538,
+      "metadata": {
+        "text": "core_product_name: interface device",
+        "raw_product_name": "INTERFACE DEVICES",
+        "list_of_product_ids": "6630,5800,11596,11597,10310,11701,11702,11703,12288,8405,13108,13117,21089,21081,21077,21070",
+        "core_id": 1280.0
+      }
+    },
+    {
+      "id": "variant-a88868c3-e02b-556c-afb5-f9319567fc58",
+      "score": 0.8465774,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLES",
+        "list_of_product_ids": "15455,13721,24275,15161,16241,19098,23820,23814,21319,19315,23819,23822,24273,23829,20141,23831,24058,23836,23909,23839,23828,24685,24726,24844,24955,31590,31591,26436,26438,31740,33330",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-7f090a1a-b828-5a18-86a5-0ef23d51283a",
+      "score": 0.84637994,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLE STOCKIST/TRADERS",
+        "list_of_product_ids": "2,467,924,680",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-c80bab98-20e5-5a36-8bee-75d83743dcf7",
+      "score": 0.8439638,
+      "metadata": {
+        "text": "core_product_name: recorder",
+        "raw_product_name": "RECORDERS",
+        "list_of_product_ids": "13825,15211,20871,36627",
+        "core_id": 1875.0
+      }
+    },
+    {
+      "id": "variant-b90c3dc5-0a21-59cf-be4a-d059afd54e5f",
+      "score": 0.84306693,
+      "metadata": {
+        "text": "core_product_name: addressable detector",
+        "raw_product_name": "ADDRESSABLE DETECTOR",
+        "list_of_product_ids": "37763,37768,37773,37779,37789,37758",
+        "core_id": 47.0
+      }
+    },
+    {
+      "id": "variant-6406c4ba-b7ff-5341-92f6-c606dd1ab328",
+      "score": 0.8430208,
+      "metadata": {
+        "text": "core_product_name: encoder",
+        "raw_product_name": "ENCODER",
+        "list_of_product_ids": "19082,19099,19104,19089,19113,36721,38449,36751,38453",
+        "core_id": 744.0
+      }
+    },
+    {
+      "id": "variant-98a2749a-288e-585a-99dd-d1f8c0bff389",
+      "score": 0.8429053,
+      "metadata": {
+        "text": "core_product_name: compression fitting | type_or_class: Compression",
+        "raw_product_name": "FITTINGS - COMPRESSION",
+        "list_of_product_ids": "163,811,644,316,463",
+        "core_id": 871.0
+      }
+    },
+    {
+      "id": "variant-7e1f89f5-a582-5ff8-a6c1-b82b36bce769",
+      "score": 0.8424854,
+      "metadata": {
+        "text": "core_product_name: optical fibre cable | accessories_or_attachments: associated item",
+        "raw_product_name": "OPTICAL FIBRE CABLE & ASSOC.ITEM",
+        "list_of_product_ids": "6480,5651,10911,11309,11731,11946,19181,17780,19112,19562,23868,24032,26902,26901,19151,34333",
+        "core_id": 1597.0
+      }
+    },
+    {
+      "id": "variant-60cc1389-d2d7-5796-b91e-9be0cfc16c55",
+      "score": 0.842135,
+      "metadata": {
+        "text": "core_product_name: instrumentation fitting",
+        "raw_product_name": "INSTRUMENTATION FITTINGS",
+        "list_of_product_ids": "14372,17508,17507,17506,17505,17504,17501,17500,17496,17958,17960",
+        "core_id": 1264.0
+      }
+    },
+    {
+      "id": "variant-1ab3bbc1-7237-500d-90d8-27f6498da945",
+      "score": 0.841842,
+      "metadata": {
+        "text": "core_product_name: equipment",
+        "raw_product_name": "CONTROL ROOM EQUIPMENT",
+        "list_of_product_ids": "14034,14815,17256,21098",
+        "core_id": 460.0
+      }
+    },
+    {
+      "id": "variant-04c0253b-a0b8-5065-bbd3-97279ba79809",
+      "score": 0.84103066,
+      "metadata": {
+        "text": "core_product_name: portable calibrator",
+        "raw_product_name": "PORTABLE TEMPERATURE CALIBRATOR",
+        "list_of_product_ids": "171,831,717,327,912",
+        "core_id": 1732.0
+      }
+    },
+    {
+      "id": "variant-fcc2ab1b-58df-54d8-9ad8-c557e480c6b4",
+      "score": 0.84103066,
+      "metadata": {
+        "text": "core_product_name: portable calibrator",
+        "raw_product_name": "Portable Calibrator",
+        "list_of_product_ids": "18091,27913,37511,37498",
+        "core_id": 1732.0
+      }
+    },
+    {
+      "id": "variant-6aa0a898-71c9-566e-b82e-854055a79538",
+      "score": 0.8409764,
+      "metadata": {
+        "text": "core_product_name: embedded control system",
+        "raw_product_name": "EMBEDDED CONTROL SYSTEM",
+        "list_of_product_ids": "236,092,358,623,573",
+        "core_id": 737.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.8407342,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-24de6957-62d8-5579-9463-54c117e3e97c",
+      "score": 0.8407319,
+      "metadata": {
+        "text": "core_product_name: programmable logic controller",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLERS",
+        "list_of_product_ids": "6565,5735,11164,10154,11376,9379,9159,9221,11902,12182,36522,17895,18871,18916,29683,30474,38193,36169,36317",
+        "core_id": 1794.0
+      }
+    },
+    {
+      "id": "variant-259b2acd-8757-5df1-9884-558d4ab4d4c4",
+      "score": 0.8407112,
+      "metadata": {
+        "text": "core_product_name: data storage system",
+        "raw_product_name": "Data storage system",
+        "list_of_product_ids": "7084,7411,18425,18424",
+        "core_id": 649.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.8406795,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-0f2d4467-c754-542f-968d-543894345ba2",
+      "score": 0.84045213,
+      "metadata": {
+        "text": "core_product_name: socket",
+        "raw_product_name": "SOCKET",
+        "list_of_product_ids": "7559,7233,10501,22289,26077,26073,26072,36553,37010,37292,35869,35891,35944",
+        "core_id": 2048.0
+      }
+    },
+    {
+      "id": "variant-f0f0f159-c9f0-57bd-89ee-9689d390c903",
+      "score": 0.8400564,
+      "metadata": {
+        "text": "core_product_name: calibration",
+        "raw_product_name": "INSTRUMENTS CALIBRATION",
+        "list_of_product_ids": "24237,23794,23833,23950,23799,26879",
+        "core_id": 1265.0
+      }
+    },
+    {
+      "id": "variant-bc08e481-a9ae-551e-9e13-ace49d85e974",
+      "score": 0.8398797,
+      "metadata": {
+        "text": "core_product_name: measurement",
+        "raw_product_name": "VIBRATION MEASUREMENT",
+        "list_of_product_ids": "242,652,426,624,269",
+        "core_id": 2401.0
+      }
+    },
+    {
+      "id": "variant-b6cc49f4-1485-53a1-a1a7-68d77a587995",
+      "score": 0.83959997,
+      "metadata": {
+        "text": "core_product_name: gallery",
+        "raw_product_name": "CONVEYER GALLERIES",
+        "list_of_product_ids": "210,412,104,227,102",
+        "core_id": 473.0
+      }
+    },
+    {
+      "id": "variant-09a3b3f2-09d5-5fdc-b67e-5ebaf7119593",
+      "score": 0.839474,
+      "metadata": {
+        "text": "core_product_name: binocular",
+        "raw_product_name": "BINOCULAR",
+        "list_of_product_ids": "259,312,592,926,698",
+        "core_id": 203.0
+      }
+    },
+    {
+      "id": "variant-25256c42-dac6-5ebd-b99a-5aa3d8f05e6f",
+      "score": 0.83936006,
+      "metadata": {
+        "text": "core_product_name: gear box",
+        "raw_product_name": "Gear Box",
+        "list_of_product_ids": "7534,7208,9726,19610,19616,23496,34585,34587,34588,34597,34598,34602,34599,34629,34630,34642,34644,34645,34648,34649,34641,34643,34953,35150,35145,35147,35151,35189,35208,35207,35201,35215,35271,35269,35414,35423,35430,35440,35441,35444,35449,35417,35607,35663,35664,35660,35659,35658,35657,35661,35662,35681,35679,35689,35697,35876,35874,35872,35870,35871,35883,35859,35858,35946,35898,35897,35896,35952,35951,35948,35949,35954,35958,35967,35970,35975,35977,35984,35985,35986",
+        "core_id": 1081.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.83936,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    },
+    {
+      "id": "variant-14208e6a-14c7-5fd2-b63c-221f9251f016",
+      "score": 0.83931595,
+      "metadata": {
+        "text": "core_product_name: string monitoring box",
+        "raw_product_name": "STRING MONITORING BOX",
+        "list_of_product_ids": "22531,22583,22847,22835",
+        "core_id": 2129.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.83920044,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-ca2bafe6-22b6-5230-b196-6b0dda111306",
+      "score": 0.83915097,
+      "metadata": {
+        "text": "core_product_name: compressed breathing apparatus",
+        "raw_product_name": "BREATHING APPARATUS - COMPRESSED",
+        "list_of_product_ids": "24212,24216,26883,37472",
+        "core_id": 243.0
+      }
+    },
+    {
+      "id": "variant-f234407a-0223-56e5-932b-43ac340fc304",
+      "score": 0.83906674,
+      "metadata": {
+        "text": "core_product_name: radiography",
+        "raw_product_name": "RADIOGRAPHY",
+        "list_of_product_ids": "218,552,185,721,856",
+        "core_id": 1856.0
+      }
+    },
+    {
+      "id": "variant-7b1c16c7-5da7-5e6a-86ce-7eae6ac6bf0a",
+      "score": 0.8388445,
+      "metadata": {
+        "text": "core_product_name: network component",
+        "raw_product_name": "NETWORK COMPONENTS",
+        "list_of_product_ids": "137,882,017,621,241",
+        "core_id": 1544.0
+      }
+    },
+    {
+      "id": "variant-dccb1b8c-ce03-5353-8d7f-1894add2f041",
+      "score": 0.83868706,
+      "metadata": {
+        "text": "core_product_name: equipment insulation",
+        "raw_product_name": "EQUIPMENT INSULATION WORKS",
+        "list_of_product_ids": "358,293,583,235,880",
+        "core_id": 761.0
+      }
+    }
+  ]
+}

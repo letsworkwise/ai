@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: heat shrinkable outdoor straight through termination | size: cable: 3C x 300 sqmm | feature_or_specifications: voltage: 11 kV (unarmoured extruded), conductor material: aluminium",
+  "retrieval_results": [
+    {
+      "id": "variant-a6c0fc04-eafb-59b9-80b3-216525c393ef",
+      "score": 0.8642493,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 11KV (11 kiloVolt) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "11KV CABLE XLPE",
+        "list_of_product_ids": "23938,24087,21515,27081",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-dd81f7e2-3f3e-5582-9a0c-afea580b1559",
+      "score": 0.8638277,
+      "metadata": {
+        "text": "core_product_name: outdoor insulator and bushing | size_or_capacity: 33kV | operating_conditions: Outdoor",
+        "raw_product_name": "33kV outdoor Insulator & Bushing",
+        "list_of_product_ids": "14156,16118,17436,18328,21499",
+        "core_id": 8.0
+      }
+    },
+    {
+      "id": "variant-0ff35c17-29e9-57ef-9128-f170e7baffc4",
+      "score": 0.86063266,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 33kV | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "33kV cable XLPE",
+        "list_of_product_ids": "14154,15792,16795,20142,24052,20057,23903",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-fdcf7574-0957-5cda-841e-cd6539f58f0f",
+      "score": 0.85824704,
+      "metadata": {
+        "text": "core_product_name: outdoor circuit breaker | size_or_capacity: 33kV | operating_conditions: Outdoor",
+        "raw_product_name": "33kV outdoor Circuit Breaker",
+        "list_of_product_ids": "141,551,464,036,000",
+        "core_id": 11.0
+      }
+    },
+    {
+      "id": "variant-c6f0eba4-fa2a-56b7-bdb4-a61b5f29101a",
+      "score": 0.85744715,
+      "metadata": {
+        "text": "core_product_name: outdoor insulator and bushing | size_or_capacity: 132 kV or 220 kV | operating_conditions: outdoor",
+        "raw_product_name": "132kV/ 220 kV outdoor Insulator & Bushing",
+        "list_of_product_ids": "14148,14691,16117,17435,18327,21497",
+        "core_id": 8.0
+      }
+    },
+    {
+      "id": "variant-f11576e5-4f1f-5f19-9280-0a381aa838c0",
+      "score": 0.85655636,
+      "metadata": {
+        "text": "core_product_name: outdoor disconnecting switch | size_or_capacity: 33kV | operating_conditions: Outdoor",
+        "raw_product_name": "33kV outdoor Isolator/Disconnecting Switch",
+        "list_of_product_ids": "1,415,814,639",
+        "core_id": 10.0
+      }
+    },
+    {
+      "id": "variant-531e90d5-4203-53f1-a6a4-936602c8ea61",
+      "score": 0.8565522,
+      "metadata": {
+        "text": "core_product_name: outdoor disconnecting switch | size_or_capacity: 33kV | operating_conditions: Outdoor",
+        "raw_product_name": "33kV outdoor Isolator/ Disconnecting Switch",
+        "list_of_product_ids": "7308,7331,7936,7940,7938",
+        "core_id": 10.0
+      }
+    },
+    {
+      "id": "variant-11b5ebb2-c136-58d8-ae90-c22c25a8234c",
+      "score": 0.8561102,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 220 kV (kilovolt) | material: XLPE (cross-linked polyethylene)",
+        "raw_product_name": "220 kV CABLE XLPE",
+        "list_of_product_ids": "14151,15785,20056,24051,23902",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-81a14c31-0118-5e0b-b544-f02bc84e131a",
+      "score": 0.8557445,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 132kV (132 kilovolt) | material: XLPE (cross-linked polyethylene)",
+        "raw_product_name": "132kV CABLE XLPE",
+        "list_of_product_ids": "14146,15782,20052,24050,23901",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-42694b24-9940-5ebb-aa65-006a1a6eb034",
+      "score": 0.8535049,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 33kV (33 kilovolt)",
+        "raw_product_name": "CABLE 33kV",
+        "list_of_product_ids": "10253,10005,10017,24048,23899",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-4dd90f9e-4a1a-51a9-85b8-5801fa7498c6",
+      "score": 0.8528446,
+      "metadata": {
+        "text": "core_product_name: control cable | size_or_capacity: 1100 Volts | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "1100 VOLTS GRADE PVC CONTROL CABLES",
+        "list_of_product_ids": "23936,24085,21514,28591",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-52d36234-297c-5741-98b5-5eeff3e62a7b",
+      "score": 0.85211533,
+      "metadata": {
+        "text": "core_product_name: cable | size_or_capacity: 1100 Volts",
+        "raw_product_name": "1100 VOLTS GRADE CABLES",
+        "list_of_product_ids": "24084,21508,23935,27355",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-1a0de3d0-ed79-5450-aa41-d8815f16ff26",
+      "score": 0.8516903,
+      "metadata": {
+        "text": "core_product_name: outdoor potential transformer | acronymed_core_product_name: pt | size_or_capacity: 33kV",
+        "raw_product_name": "33kV outdoor CT/ PT",
+        "list_of_product_ids": "7061,7388,18218,18377,19058",
+        "core_id": 17.0
+      }
+    },
+    {
+      "id": "variant-f04e91be-e718-5594-8922-ca8936c0257d",
+      "score": 0.8499662,
+      "metadata": {
+        "text": "core_product_name: outdoor disconnecting switch | size_or_capacity: 132 kV or 220 kV | operating_conditions: Outdoor",
+        "raw_product_name": "132kV/ 220 kV outdoor Isolator/ Disconnecting Switch",
+        "list_of_product_ids": "7306,7333,7935,7939,7937",
+        "core_id": 10.0
+      }
+    },
+    {
+      "id": "variant-2c2aabe6-11b3-5ec3-8e67-435c537e4607",
+      "score": 0.84977853,
+      "metadata": {
+        "text": "core_product_name: outdoor circuit breaker | size_or_capacity: 132 kV or 220 kV | operating_conditions: outdoor",
+        "raw_product_name": "132kV/ 220 kV outdoor Circuit Breaker",
+        "list_of_product_ids": "1,414,714,844",
+        "core_id": 11.0
+      }
+    },
+    {
+      "id": "variant-cbea7514-cdde-58eb-b615-47afe124ab03",
+      "score": 0.8483483,
+      "metadata": {
+        "text": "core_product_name: outdoor lightning arrestor | size_or_capacity: 33kV | operating_conditions: Outdoor",
+        "raw_product_name": "33kV outdoor Lightning Arrestor",
+        "list_of_product_ids": "1,415,921,498",
+        "core_id": 12.0
+      }
+    },
+    {
+      "id": "variant-e7cca375-38d1-5fae-a31d-055eca1aeb98",
+      "score": 0.8477187,
+      "metadata": {
+        "text": "core_product_name: outdoor isolator | operating_conditions: Outdoor | type_or_class: High Voltage (H.V.) | size_or_capacity: Up to 33 kV",
+        "raw_product_name": "ISOLATOR OUTDOOR H.V. UP TO 33 KV.",
+        "list_of_product_ids": "6457,5627,12370,26076,26075",
+        "core_id": 9.0
+      }
+    },
+    {
+      "id": "variant-bb001d38-b128-522d-9d87-0b59ec1edf02",
+      "score": 0.8405967,
+      "metadata": {
+        "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+        "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+        "list_of_product_ids": "140,901,478,121,282",
+        "core_id": 313.0
+      }
+    },
+    {
+      "id": "variant-035e5d74-4fc0-5854-ace0-4826f9b36c25",
+      "score": 0.8403442,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+        "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+        "list_of_product_ids": "19885,19880,24078,23930,27348",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-9d7cef58-0c34-5334-a173-1eaa8b262868",
+      "score": 0.83934325,
+      "metadata": {
+        "text": "core_product_name: extra high voltage cable | size_or_capacity: Extra High Voltage",
+        "raw_product_name": "CABLES - EXTRA HIGH VOLTAGE",
+        "list_of_product_ids": "6425,5595,10504,10183,14821,23994,23863",
+        "core_id": 288.0
+      }
+    },
+    {
+      "id": "variant-361f0a6c-be07-52cd-995f-85d382c94f3b",
+      "score": 0.83870393,
+      "metadata": {
+        "text": "core_product_name: thermocouple wire",
+        "raw_product_name": "THERMOCOUPLE WIRE",
+        "list_of_product_ids": "220,072,203,322,053",
+        "core_id": 2243.0
+      }
+    },
+    {
+      "id": "variant-b2fd74a4-89f2-5719-ba63-b6451df8aa47",
+      "score": 0.83845085,
+      "metadata": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": "32910,32911,33009,33041,33195,33260,33562,33633,35922",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-927da072-af6d-5764-a204-18d99e962799",
+      "score": 0.8383842,
+      "metadata": {
+        "text": "core_product_name: outdoor lightning arrestor | size_or_capacity: 132 kV or 220 kV | operating_conditions: Outdoor",
+        "raw_product_name": "132kV/ 220 kV outdoor Lightning Arrestor",
+        "list_of_product_ids": "1,414,921,496",
+        "core_id": 12.0
+      }
+    },
+    {
+      "id": "variant-b95f50eb-973e-5765-ae18-09b76a4c5f2d",
+      "score": 0.8376621,
+      "metadata": {
+        "text": "core_product_name: transformer | size_or_capacity: Above 33 kV (kilovolt)",
+        "raw_product_name": "TRANSFORMER Above 33 kV",
+        "list_of_product_ids": "13957,14856,19765,35390",
+        "core_id": 1404.0
+      }
+    },
+    {
+      "id": "variant-910635db-1f6d-5b76-ae03-05bdfcbe87d3",
+      "score": 0.83763796,
+      "metadata": {
+        "text": "core_product_name: cable | acronymed_core_product_name: ht (high tension) cable | size_or_capacity: up to 11kV | type_or_class: HT (High Tension) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "HT (up to 11kV) cable XLPE",
+        "list_of_product_ids": "13659,14787,14826,15794,16794,20058,20143,24054,23905",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-fd13ccfd-2158-5657-967f-7707e9b442e3",
+      "score": 0.8375066,
+      "metadata": {
+        "text": "core_product_name: commercial cable",
+        "raw_product_name": "COMMERCIAL CABLE",
+        "list_of_product_ids": "20779,20808,20806,21176,21175,27361",
+        "core_id": 400.0
+      }
+    },
+    {
+      "id": "variant-d653c619-066e-5b89-be58-292fd0a2d594",
+      "score": 0.8371867,
+      "metadata": {
+        "text": "core_product_name: high voltage cable | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLES-HIGH VOLTAGE-XLPE",
+        "list_of_product_ids": "6420,5590,10186,10816,11366,10660,10881,12079,12087,16280,23989,23858,26941,26939,26938,26937,26936,26935,36582",
+        "core_id": 289.0
+      }
+    },
+    {
+      "id": "variant-e4955592-b0e7-5272-ad41-481377f14baf",
+      "score": 0.83707803,
+      "metadata": {
+        "text": "core_product_name: solar cable",
+        "raw_product_name": "SOLAR CABLE",
+        "list_of_product_ids": "39605,39450,38928,38829,38743,38581,38518,38664,38519,38769,38949,38607,38692,38635,38717,38860,38902,38965,38992,39020,39054,39088,39118,39165,39219,39247,39289,39339,39375,39404,39434,39485,39540,39567,39629,39657,39691,39731,39801,39829,39900",
+        "core_id": 2055.0
+      }
+    },
+    {
+      "id": "variant-d01e7f04-41a2-5983-a7cb-2052b99c5edb",
+      "score": 0.83706707,
+      "metadata": {
+        "text": "core_product_name: control cable | protection_features: Fire Survival",
+        "raw_product_name": "CONTROL CABLE - FIRE SURVIVAL",
+        "list_of_product_ids": "6424,5594,10194,10666,11369,11371,12120,13290,15814,17323,17783,23993,23862",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-bc7a2421-57c3-538d-a522-7f4c55db5987",
+      "score": 0.83684915,
+      "metadata": {
+        "text": "core_product_name: gas insulated switchgear | size_or_capacity: 33 kV",
+        "raw_product_name": "33 kV Gas Insulated Switchgear",
+        "list_of_product_ids": "141,521,463,835,821",
+        "core_id": 6.0
+      }
+    }
+  ]
+}

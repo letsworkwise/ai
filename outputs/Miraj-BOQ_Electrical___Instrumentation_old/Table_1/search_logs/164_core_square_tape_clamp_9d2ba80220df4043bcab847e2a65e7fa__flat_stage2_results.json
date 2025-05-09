@@ -1,0 +1,543 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.88810396,
+      "text": "core_product_name: clamp",
+      "core_id": 360.0,
+      "raw_product_name": "CLAMP",
+      "list_of_product_ids": [
+        "26021",
+        "26020",
+        "26693",
+        "37265"
+      ]
+    },
+    {
+      "retrieval_score": 0.88795274,
+      "text": "core_product_name: clamp",
+      "core_id": 360.0,
+      "raw_product_name": "JALI CLAMP",
+      "list_of_product_ids": [
+        "24747",
+        "24748",
+        "24775",
+        "24785",
+        "24788",
+        "24798",
+        "24802",
+        "24812",
+        "25095"
+      ]
+    },
+    {
+      "retrieval_score": 0.88154817,
+      "text": "core_product_name: fabricated clamp",
+      "core_id": 788.0,
+      "raw_product_name": "FABRICATED COMPONENT - CLAMP",
+      "list_of_product_ids": [
+        "295",
+        "032",
+        "928",
+        "329",
+        "282"
+      ]
+    },
+    {
+      "retrieval_score": 0.8802104,
+      "text": "core_product_name: clamp connector",
+      "core_id": 361.0,
+      "raw_product_name": "CLAMP CONNECTOR",
+      "list_of_product_ids": [
+        "6278",
+        "5448",
+        "10979",
+        "10981",
+        "10983",
+        "10985",
+        "10987",
+        "10980",
+        "10982",
+        "10984",
+        "10986",
+        "15793",
+        "37865",
+        "37787"
+      ]
+    },
+    {
+      "retrieval_score": 0.8739782,
+      "text": "core_product_name: flexible clamp",
+      "core_id": 915.0,
+      "raw_product_name": "FLEXIBLE CLAMP",
+      "list_of_product_ids": [
+        "24745",
+        "24746",
+        "24774",
+        "24784",
+        "24789",
+        "24799",
+        "24803",
+        "24813",
+        "25094"
+      ]
+    },
+    {
+      "retrieval_score": 0.8693106,
+      "text": "core_product_name: masking tape",
+      "core_id": 1440.0,
+      "raw_product_name": "MASKING TAPE",
+      "list_of_product_ids": [
+        "32954",
+        "32955",
+        "33016",
+        "33203",
+        "33268",
+        "33570",
+        "33641",
+        "35930"
+      ]
+    },
+    {
+      "retrieval_score": 0.86700624,
+      "text": "core_product_name: measuring tape",
+      "core_id": 1452.0,
+      "raw_product_name": "MEASURING TAPE",
+      "list_of_product_ids": [
+        "32949",
+        "32950",
+        "33014",
+        "33201",
+        "33266",
+        "33568",
+        "33639",
+        "35928"
+      ]
+    },
+    {
+      "retrieval_score": 0.864912,
+      "text": "core_product_name: insulation tape",
+      "core_id": 1275.0,
+      "raw_product_name": "INSULATION TAPE",
+      "list_of_product_ids": [
+        "211",
+        "492",
+        "114",
+        "827",
+        "368"
+      ]
+    },
+    {
+      "retrieval_score": 0.8639984,
+      "text": "core_product_name: square hollow section",
+      "core_id": 2189.0,
+      "raw_product_name": "Square Hollow Section",
+      "list_of_product_ids": [
+        "28758",
+        "28763",
+        "28760",
+        "37158"
+      ]
+    },
+    {
+      "retrieval_score": 0.8639903,
+      "text": "core_product_name: tape | material: PVC (Polyvinyl Chloride)",
+      "core_id": 815.0,
+      "raw_product_name": "PVC TAPE",
+      "list_of_product_ids": [
+        "20688",
+        "20548",
+        "20512",
+        "20595",
+        "20589",
+        "20746"
+      ]
+    },
+    {
+      "retrieval_score": 0.8633319,
+      "text": "core_product_name: studded tube",
+      "core_id": 2285.0,
+      "raw_product_name": "TUBE-STUDDED",
+      "list_of_product_ids": [
+        "5",
+        "991",
+        "517",
+        "017",
+        "614"
+      ]
+    },
+    {
+      "retrieval_score": 0.8620579,
+      "text": "core_product_name: tube fitting",
+      "core_id": 2280.0,
+      "raw_product_name": "TUBE FITTING",
+      "list_of_product_ids": [
+        "6474",
+        "5645",
+        "8110",
+        "10396",
+        "10379",
+        "10670",
+        "10674",
+        "10675",
+        "10683",
+        "8109",
+        "8111",
+        "8113",
+        "8112",
+        "8592",
+        "12052",
+        "12678",
+        "12685",
+        "12681",
+        "12693",
+        "16884",
+        "17200",
+        "17653",
+        "36870",
+        "26298",
+        "26297",
+        "26296",
+        "26295",
+        "26903",
+        "37156",
+        "36861"
+      ]
+    },
+    {
+      "retrieval_score": 0.86198294,
+      "text": "core_product_name: tape | material: Fiberglass",
+      "core_id": 815.0,
+      "raw_product_name": "FIBERGLASS TAPE",
+      "list_of_product_ids": [
+        "26025",
+        "26024",
+        "26691",
+        "28234"
+      ]
+    },
+    {
+      "retrieval_score": 0.85948855,
+      "text": "core_product_name: stud link chain",
+      "core_id": 2142.0,
+      "raw_product_name": "STUD LINK CHAIN",
+      "list_of_product_ids": [
+        "193",
+        "411",
+        "934",
+        "028",
+        "259"
+      ]
+    },
+    {
+      "retrieval_score": 0.85910106,
+      "text": "core_product_name: tap",
+      "core_id": 805.0,
+      "raw_product_name": "FAUCETS & TAPS",
+      "list_of_product_ids": [
+        "1",
+        "420",
+        "422",
+        "905"
+      ]
+    },
+    {
+      "retrieval_score": 0.8585966,
+      "text": "core_product_name: site fabricated cladding | accessories_or_attachments: column",
+      "core_id": 398.0,
+      "raw_product_name": "COLUMN-CLAD SITE FABRICATED",
+      "list_of_product_ids": [
+        "6689",
+        "5860",
+        "9699",
+        "12168",
+        "13094",
+        "23576"
+      ]
+    },
+    {
+      "retrieval_score": 0.85839593,
+      "text": "core_product_name: cable tie",
+      "core_id": 284.0,
+      "raw_product_name": "CABLE TIES",
+      "list_of_product_ids": [
+        "24081",
+        "21169",
+        "21168",
+        "23932",
+        "27351"
+      ]
+    },
+    {
+      "retrieval_score": 0.85794544,
+      "text": "core_product_name: cable | material: Rubber",
+      "core_id": 1.0,
+      "raw_product_name": "RUBBER CABLES",
+      "list_of_product_ids": [
+        "38749",
+        "38955",
+        "38670",
+        "38589",
+        "38533",
+        "38534",
+        "38615",
+        "38698",
+        "38775",
+        "38723",
+        "38643",
+        "38834",
+        "38866",
+        "38908",
+        "38934",
+        "38971",
+        "38998",
+        "39026",
+        "39060",
+        "39094",
+        "39124",
+        "39172",
+        "39225",
+        "39253",
+        "39295",
+        "39345",
+        "39381",
+        "39410",
+        "39440",
+        "39456",
+        "39491",
+        "39546",
+        "39573",
+        "39611",
+        "39635",
+        "39663",
+        "39697",
+        "39737",
+        "39807",
+        "39835",
+        "39906"
+      ]
+    },
+    {
+      "retrieval_score": 0.85785294,
+      "text": "core_product_name: coupling device",
+      "core_id": 499.0,
+      "raw_product_name": "COUPLING DEVICE",
+      "list_of_product_ids": [
+        "18582",
+        "18579",
+        "18578",
+        "18637"
+      ]
+    },
+    {
+      "retrieval_score": 0.8578199,
+      "text": "core_product_name: compensating cable",
+      "core_id": 407.0,
+      "raw_product_name": "COMPENSATING CABLE",
+      "list_of_product_ids": [
+        "24082",
+        "21244",
+        "21234",
+        "23933",
+        "28345"
+      ]
+    },
+    {
+      "retrieval_score": 0.8574509,
+      "text": "core_product_name: terminal strip",
+      "core_id": 2231.0,
+      "raw_product_name": "TERMINAL STRIPS",
+      "list_of_product_ids": [
+        "1",
+        "400",
+        "220",
+        "181"
+      ]
+    },
+    {
+      "retrieval_score": 0.8571527,
+      "text": "core_product_name: floor trap",
+      "core_id": 927.0,
+      "raw_product_name": "FLOOR TRAP (NAHANI TRAP)",
+      "list_of_product_ids": [
+        "16757",
+        "16764",
+        "27230",
+        "34415"
+      ]
+    },
+    {
+      "retrieval_score": 0.8566894,
+      "text": "core_product_name: wire rope",
+      "core_id": 2478.0,
+      "raw_product_name": "WIRE ROPE",
+      "list_of_product_ids": [
+        "19946",
+        "19945",
+        "24178",
+        "28353"
+      ]
+    },
+    {
+      "retrieval_score": 0.85658675,
+      "text": "core_product_name: sheeting screw",
+      "core_id": 2006.0,
+      "raw_product_name": "SHEETING SCREW",
+      "list_of_product_ids": [
+        "139",
+        "061",
+        "475",
+        "014",
+        "770"
+      ]
+    },
+    {
+      "retrieval_score": 0.8565439,
+      "text": "core_product_name: electrical strip",
+      "core_id": 714.0,
+      "raw_product_name": "ELECTRICAL STRIPS",
+      "list_of_product_ids": [
+        "211",
+        "512",
+        "115",
+        "528",
+        "461"
+      ]
+    },
+    {
+      "retrieval_score": 0.85647905,
+      "text": "core_product_name: level indicator | type_or_class: Float or Tape",
+      "core_id": 1332.0,
+      "raw_product_name": "LEVEL INDICATORS (FLOAT & TAPE)",
+      "list_of_product_ids": [
+        "13978",
+        "15132",
+        "15140",
+        "15148",
+        "18394",
+        "18393",
+        "21981",
+        "23535"
+      ]
+    },
+    {
+      "retrieval_score": 0.8560991,
+      "text": "core_product_name: fastener",
+      "core_id": 803.0,
+      "raw_product_name": "FASTENERS",
+      "list_of_product_ids": [
+        "6002",
+        "5181",
+        "6904",
+        "6903",
+        "6905",
+        "7743",
+        "7745",
+        "7747",
+        "10994",
+        "7742",
+        "7744",
+        "7746",
+        "10035",
+        "13118",
+        "6922",
+        "6923",
+        "7740",
+        "7741",
+        "7739",
+        "7748",
+        "9329",
+        "8799",
+        "8800",
+        "8802",
+        "8804",
+        "8798",
+        "8801",
+        "8803",
+        "13318",
+        "13414",
+        "16122",
+        "17203",
+        "17716",
+        "17715",
+        "17714",
+        "17697",
+        "17871",
+        "17887",
+        "24667",
+        "22005",
+        "22036",
+        "22029",
+        "22281",
+        "23495",
+        "23486",
+        "36650",
+        "36936",
+        "33127",
+        "37388",
+        "37385",
+        "37387",
+        "37391",
+        "36097",
+        "36272"
+      ]
+    },
+    {
+      "retrieval_score": 0.8558648,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLE STOCKIST/TRADERS",
+      "list_of_product_ids": [
+        "2",
+        "467",
+        "924",
+        "680"
+      ]
+    },
+    {
+      "retrieval_score": 0.8558351,
+      "text": "core_product_name: shackle",
+      "core_id": 2003.0,
+      "raw_product_name": "SHACKLES",
+      "list_of_product_ids": [
+        "282",
+        "372",
+        "824",
+        "428",
+        "235"
+      ]
+    },
+    {
+      "retrieval_score": 0.85583484,
+      "text": "core_product_name: valve plug",
+      "core_id": 2365.0,
+      "raw_product_name": "VALVE PLUG",
+      "list_of_product_ids": [
+        "6258",
+        "5427",
+        "11546",
+        "11540",
+        "7825",
+        "11543",
+        "7831",
+        "11250",
+        "7867",
+        "7849",
+        "7857",
+        "7836",
+        "7838",
+        "8391",
+        "12657",
+        "15484",
+        "18068",
+        "19713",
+        "31743",
+        "36588",
+        "35579",
+        "36139",
+        "39755",
+        "40004",
+        "40146"
+      ]
+    }
+  ]
+}

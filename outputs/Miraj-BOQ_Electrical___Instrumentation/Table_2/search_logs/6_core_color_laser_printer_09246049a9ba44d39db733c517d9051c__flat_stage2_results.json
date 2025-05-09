@@ -1,0 +1,501 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.85437244,
+      "text": "core_product_name: printer",
+      "core_id": 1787.0,
+      "raw_product_name": "PRINTER",
+      "list_of_product_ids": [
+        "20435",
+        "20538",
+        "20577",
+        "20641",
+        "20698",
+        "20755"
+      ]
+    },
+    {
+      "retrieval_score": 0.8526942,
+      "text": "core_product_name: colour printer | type_or_class: LaserJet (Laser Jet)",
+      "core_id": 1321.0,
+      "raw_product_name": "LASERJET COLOUR PRINTER",
+      "list_of_product_ids": [
+        "191",
+        "561",
+        "915",
+        "726",
+        "940"
+      ]
+    },
+    {
+      "retrieval_score": 0.8497852,
+      "text": "core_product_name: machine monitoring system",
+      "core_id": 1418.0,
+      "raw_product_name": "MACHINE MONITORING SYSTEMS",
+      "list_of_product_ids": [
+        "6478",
+        "5649",
+        "12455",
+        "32772",
+        "38192"
+      ]
+    },
+    {
+      "retrieval_score": 0.84624296,
+      "text": "core_product_name: fitting | standards_and_approvals: IS (Indian Standards)-1239",
+      "core_id": 273.0,
+      "raw_product_name": "FITTINGS TO IS-1239",
+      "list_of_product_ids": [
+        "14270",
+        "14771",
+        "33994",
+        "33993",
+        "33992",
+        "33991",
+        "33990"
+      ]
+    },
+    {
+      "retrieval_score": 0.84499073,
+      "text": "core_product_name: sound level monitoring",
+      "core_id": 2066.0,
+      "raw_product_name": "SOUND LEVEL MONITORING",
+      "list_of_product_ids": [
+        "243",
+        "292",
+        "433",
+        "026",
+        "872"
+      ]
+    },
+    {
+      "retrieval_score": 0.84420764,
+      "text": "core_product_name: measurement",
+      "core_id": 2401.0,
+      "raw_product_name": "VIBRATION MEASUREMENT",
+      "list_of_product_ids": [
+        "242",
+        "652",
+        "426",
+        "624",
+        "269"
+      ]
+    },
+    {
+      "retrieval_score": 0.8440631,
+      "text": "core_product_name: test and measuring equipment",
+      "core_id": 2303.0,
+      "raw_product_name": "Test & Measuring Equipment",
+      "list_of_product_ids": [
+        "1",
+        "401",
+        "515",
+        "286"
+      ]
+    },
+    {
+      "retrieval_score": 0.84378964,
+      "text": "core_product_name: light machined component",
+      "core_id": 1350.0,
+      "raw_product_name": "LIGHT MACHINED COMPONENTS",
+      "list_of_product_ids": [
+        "239",
+        "522",
+        "395",
+        "328",
+        "688"
+      ]
+    },
+    {
+      "retrieval_score": 0.8437862,
+      "text": "core_product_name: measurement system",
+      "core_id": 1451.0,
+      "raw_product_name": "MEASUREMENT SYSTEM",
+      "list_of_product_ids": [
+        "188",
+        "511",
+        "884",
+        "918",
+        "973"
+      ]
+    },
+    {
+      "retrieval_score": 0.8434208,
+      "text": "core_product_name: continuous emission monitoring system",
+      "core_id": 454.0,
+      "raw_product_name": "CONTINOUS EMISSION MONITORING SYSTEM",
+      "list_of_product_ids": [
+        "1",
+        "397",
+        "220",
+        "933"
+      ]
+    },
+    {
+      "retrieval_score": 0.843412,
+      "text": "core_product_name: local control station",
+      "core_id": 1380.0,
+      "raw_product_name": "LOCAL CONTROL STATIONS",
+      "list_of_product_ids": [
+        "99",
+        "911",
+        "003",
+        "018",
+        "831"
+      ]
+    },
+    {
+      "retrieval_score": 0.84277016,
+      "text": "core_product_name: light fabricated component",
+      "core_id": 1347.0,
+      "raw_product_name": "LIGHT FABRICATED COMPONENT",
+      "list_of_product_ids": [
+        "26019",
+        "26018",
+        "26017",
+        "26690"
+      ]
+    },
+    {
+      "retrieval_score": 0.8424629,
+      "text": "core_product_name: measuring instrument",
+      "core_id": 1450.0,
+      "raw_product_name": "MEASURING INSTRUMENTS",
+      "list_of_product_ids": [
+        "22280",
+        "22279",
+        "22278",
+        "27344",
+        "30010"
+      ]
+    },
+    {
+      "retrieval_score": 0.8417418,
+      "text": "core_product_name: fitting",
+      "core_id": 273.0,
+      "raw_product_name": "FITTINGS",
+      "list_of_product_ids": [
+        "6290",
+        "5461",
+        "11537",
+        "7894",
+        "11072",
+        "11094",
+        "11098",
+        "11099",
+        "11127",
+        "11129",
+        "10446",
+        "10452",
+        "11402",
+        "8101",
+        "8103",
+        "8105",
+        "7876",
+        "7878",
+        "7880",
+        "7882",
+        "7883",
+        "7875",
+        "7877",
+        "7879",
+        "8095",
+        "8018",
+        "8097",
+        "8099",
+        "8094",
+        "8096",
+        "8098",
+        "8100",
+        "8102",
+        "8104",
+        "8106",
+        "8130",
+        "9273",
+        "9274",
+        "8824",
+        "8107",
+        "8108",
+        "12258",
+        "12679",
+        "12666",
+        "12683",
+        "12688",
+        "13310",
+        "13317",
+        "13403",
+        "14515",
+        "14568",
+        "15748",
+        "16005",
+        "16058",
+        "16446",
+        "16530",
+        "16614",
+        "19374",
+        "19368",
+        "19267",
+        "19252",
+        "19261",
+        "17541",
+        "19356",
+        "19736",
+        "20066",
+        "21742",
+        "21303",
+        "19811",
+        "19277",
+        "16579",
+        "24581",
+        "30951",
+        "30637",
+        "30687",
+        "33435",
+        "37262",
+        "37014",
+        "37026",
+        "35746",
+        "36881",
+        "36884"
+      ]
+    },
+    {
+      "retrieval_score": 0.8415255,
+      "text": "core_product_name: addressable detector",
+      "core_id": 47.0,
+      "raw_product_name": "ADDRESSABLE DETECTOR",
+      "list_of_product_ids": [
+        "37763",
+        "37768",
+        "37773",
+        "37779",
+        "37789",
+        "37758"
+      ]
+    },
+    {
+      "retrieval_score": 0.84142685,
+      "text": "core_product_name: toner cartridge | accessories_or_attachments: computer printer",
+      "core_id": 424.0,
+      "raw_product_name": "COMPUTER PRINTER- TONER CARTRIDGE",
+      "list_of_product_ids": [
+        "193",
+        "212",
+        "338",
+        "528",
+        "071"
+      ]
+    },
+    {
+      "retrieval_score": 0.8407338,
+      "text": "core_product_name: primary structure | construction_features: bolted",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+      "list_of_product_ids": [
+        "20000",
+        "19997",
+        "20035",
+        "21038",
+        "21002",
+        "21083",
+        "21901",
+        "22017",
+        "22116",
+        "22826",
+        "22992"
+      ]
+    },
+    {
+      "retrieval_score": 0.8406232,
+      "text": "core_product_name: indicating lamp fitting",
+      "core_id": 1232.0,
+      "raw_product_name": "INDICATING LAMP FITTING",
+      "list_of_product_ids": [
+        "20128",
+        "20443",
+        "20418",
+        "20465",
+        "20506",
+        "20645"
+      ]
+    },
+    {
+      "retrieval_score": 0.8404541,
+      "text": "core_product_name: product quality analyser system",
+      "core_id": 1792.0,
+      "raw_product_name": "PRODUCT QUALITY ANALYSER SYSTEMS",
+      "list_of_product_ids": [
+        "6524",
+        "5695",
+        "10052",
+        "11185",
+        "10133",
+        "11881"
+      ]
+    },
+    {
+      "retrieval_score": 0.84038055,
+      "text": "core_product_name: level sensor",
+      "core_id": 1336.0,
+      "raw_product_name": "LEVEL SENSOR",
+      "list_of_product_ids": [
+        "19121",
+        "19128",
+        "19133",
+        "38465"
+      ]
+    },
+    {
+      "retrieval_score": 0.8400412,
+      "text": "core_product_name: as fitted drawing",
+      "core_id": 131.0,
+      "raw_product_name": "AS FITTED DRAWING",
+      "list_of_product_ids": [
+        "295",
+        "042",
+        "928",
+        "129",
+        "280"
+      ]
+    },
+    {
+      "retrieval_score": 0.8399401,
+      "text": "core_product_name: instrumentation fitting",
+      "core_id": 1264.0,
+      "raw_product_name": "INSTRUMENTATION FITTINGS",
+      "list_of_product_ids": [
+        "14372",
+        "17508",
+        "17507",
+        "17506",
+        "17505",
+        "17504",
+        "17501",
+        "17500",
+        "17496",
+        "17958",
+        "17960"
+      ]
+    },
+    {
+      "retrieval_score": 0.83921283,
+      "text": "core_product_name: ground monitoring system",
+      "core_id": 1079.0,
+      "raw_product_name": "GROUND MONITORING SYSTEMS",
+      "list_of_product_ids": [
+        "6629",
+        "5799",
+        "10305",
+        "24235",
+        "19579"
+      ]
+    },
+    {
+      "retrieval_score": 0.8391304,
+      "text": "core_product_name: indicating meter",
+      "core_id": 1230.0,
+      "raw_product_name": "INDICATING METERS",
+      "list_of_product_ids": [
+        "13682",
+        "14947",
+        "19149",
+        "19123",
+        "19142"
+      ]
+    },
+    {
+      "retrieval_score": 0.8391148,
+      "text": "core_product_name: monitor",
+      "core_id": 2443.0,
+      "raw_product_name": "WATER MONITOR",
+      "list_of_product_ids": [
+        "6039",
+        "5218",
+        "9825",
+        "9830",
+        "9835",
+        "9840",
+        "8259",
+        "8296",
+        "8316",
+        "8739",
+        "9230",
+        "16411",
+        "24091",
+        "23518",
+        "37476"
+      ]
+    },
+    {
+      "retrieval_score": 0.83873403,
+      "text": "core_product_name: positive displacement meter",
+      "core_id": 1733.0,
+      "raw_product_name": "POSITIVE DISPLACEMENT METERS",
+      "list_of_product_ids": [
+        "6573",
+        "5743",
+        "11819",
+        "11462",
+        "11464",
+        "11466",
+        "11463",
+        "11465",
+        "11467",
+        "11737",
+        "11740",
+        "19635"
+      ]
+    },
+    {
+      "retrieval_score": 0.83863497,
+      "text": "core_product_name: special measuring tool",
+      "core_id": 2079.0,
+      "raw_product_name": "SPECIAL MEASURING TOOLS",
+      "list_of_product_ids": [
+        "216",
+        "462",
+        "165",
+        "121",
+        "750"
+      ]
+    },
+    {
+      "retrieval_score": 0.8384519,
+      "text": "core_product_name: precision machined component",
+      "core_id": 1760.0,
+      "raw_product_name": "PRECESION MACHINED COMPONENTS",
+      "list_of_product_ids": [
+        "239",
+        "482",
+        "394",
+        "928",
+        "689"
+      ]
+    },
+    {
+      "retrieval_score": 0.83839726,
+      "text": "core_product_name: computer software",
+      "core_id": 423.0,
+      "raw_product_name": "COMPUTER SOFTWARE",
+      "list_of_product_ids": [
+        "193",
+        "121",
+        "931",
+        "327",
+        "257"
+      ]
+    },
+    {
+      "retrieval_score": 0.8383095,
+      "text": "core_product_name: modular accommodation",
+      "core_id": 1494.0,
+      "raw_product_name": "MODULAR ACCOMODATION",
+      "list_of_product_ids": [
+        "23416",
+        "23417",
+        "26048",
+        "26683"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: nut bolt | size: size: M20-85LG",
+  "retrieval_results": [
+    {
+      "id": "variant-58b032b2-bfc8-58c5-b09c-f758859b2d22",
+      "score": 0.8667194,
+      "metadata": {
+        "text": "core_product_name: bolt and nut | protection_features: galvanised",
+        "raw_product_name": "BOLTS & NUTS (GALVANISED)",
+        "list_of_product_ids": "21576,21573,26271,26205,26208,26210,26219,26228,21578,27711",
+        "core_id": 231.0
+      }
+    },
+    {
+      "id": "variant-c9606761-8875-5ecd-8e32-10a958b09ddd",
+      "score": 0.8651488,
+      "metadata": {
+        "text": "core_product_name: bolt",
+        "raw_product_name": "BOLT",
+        "list_of_product_ids": "13612,20911,20910,26266,26148,26200,26213,26223,26232,27708,33126,37287",
+        "core_id": 228.0
+      }
+    },
+    {
+      "id": "variant-e7d4311d-0874-5492-ad5c-6d67daad7691",
+      "score": 0.86369085,
+      "metadata": {
+        "text": "core_product_name: stud bolt and nut",
+        "raw_product_name": "STUD BOLTS & NUTS",
+        "list_of_product_ids": "14079,14737,14738,18558,18553,26269,20908,17201,26150,26202,26216,26226,26235,27709,33125,38529,35982,35987,36448",
+        "core_id": 2145.0
+      }
+    },
+    {
+      "id": "variant-f4be553a-b812-5e7f-924e-ba57c52bee3a",
+      "score": 0.8626562,
+      "metadata": {
+        "text": "core_product_name: bolt and nut | material: Chromium Plated",
+        "raw_product_name": "BOLTS & NUTS (CHROMIUM PLATED)",
+        "list_of_product_ids": "216,132,162,321,606",
+        "core_id": 231.0
+      }
+    },
+    {
+      "id": "variant-7893b0e0-30fc-5c84-95bb-8b75affd1bb3",
+      "score": 0.8625664,
+      "metadata": {
+        "text": "core_product_name: stud bolt",
+        "raw_product_name": "STUD BOLD",
+        "list_of_product_ids": "9930,9931,9932,9933,9934,9935,36597",
+        "core_id": 2140.0
+      }
+    },
+    {
+      "id": "variant-8dd0dc8c-a57c-54f1-91b4-a846d86e1aa8",
+      "score": 0.86236924,
+      "metadata": {
+        "text": "core_product_name: bolt and nut | material: Non-Ferrous",
+        "raw_product_name": "BOLTS & NUTS (NON- FERROUS)",
+        "list_of_product_ids": "19333,19334,21477,21562,21556,26206,26207,26211,26218,26229,26237,27713",
+        "core_id": 231.0
+      }
+    },
+    {
+      "id": "variant-1a8b31e7-3858-5201-9c01-17a54a4e72d0",
+      "score": 0.8610215,
+      "metadata": {
+        "text": "core_product_name: bolt and nut | material: Nickel Plated",
+        "raw_product_name": "BOLTS & NUTS (NICKEL PLATED)",
+        "list_of_product_ids": "216,142,161,921,607",
+        "core_id": 231.0
+      }
+    },
+    {
+      "id": "variant-ae12e61b-f4d8-5a46-b901-146bd7f77cb2",
+      "score": 0.85909414,
+      "metadata": {
+        "text": "core_product_name: u bolt",
+        "raw_product_name": "U- BOLT",
+        "list_of_product_ids": "15472,26267,26149,26201,26214,26224,26233,27710",
+        "core_id": 2313.0
+      }
+    },
+    {
+      "id": "variant-fc09aa45-a04c-5e8a-aa20-ad08314bbe51",
+      "score": 0.85653317,
+      "metadata": {
+        "text": "core_product_name: bolt and nut | material: MS (Mild Steel) | construction_features: Black",
+        "raw_product_name": "BOLTS & NUTS (M.S.BLACK)",
+        "list_of_product_ids": "19335,19336,21478,26270,26151,26152,26204,26217,26227,26236,27712",
+        "core_id": 231.0
+      }
+    },
+    {
+      "id": "variant-58483be8-83cb-5d82-b13a-a88989a318ab",
+      "score": 0.8548568,
+      "metadata": {
+        "text": "core_product_name: bolt and nut | construction_features: cadmium plated",
+        "raw_product_name": "BOLTS & NUTS (CADMIUM PLATED)",
+        "list_of_product_ids": "216,122,160,521,760",
+        "core_id": 231.0
+      }
+    },
+    {
+      "id": "variant-151ce4f6-5469-579f-8545-47358a95c4ad",
+      "score": 0.84953856,
+      "metadata": {
+        "text": "core_product_name: flange | material: Alloy 20",
+        "raw_product_name": "FLANGE- ALLOY 20",
+        "list_of_product_ids": "176,491,764,718,665",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-79e07e4e-9ddb-54ec-8548-dcafae92b005",
+      "score": 0.8492094,
+      "metadata": {
+        "text": "core_product_name: high tensile nut | type_or_class: High Tensile",
+        "raw_product_name": "HIGH TENSILE NUT",
+        "list_of_product_ids": "21465,21475,21473,21468,21859,28598",
+        "core_id": 1133.0
+      }
+    },
+    {
+      "id": "variant-4f0d3e8e-bc8a-58a6-b602-16fb9fcb519c",
+      "score": 0.848956,
+      "metadata": {
+        "text": "core_product_name: high tensile bolt | type_or_class: High Tensile",
+        "raw_product_name": "HIGH TENSILE BOLT",
+        "list_of_product_ids": "26268,21474,21471,21467,21464,21858,26203,26209,26215,26225,26234,27715",
+        "core_id": 1130.0
+      }
+    },
+    {
+      "id": "variant-dac42c0a-0a7d-5664-acb4-16aea5159e6b",
+      "score": 0.84755933,
+      "metadata": {
+        "text": "core_product_name: bolted structural item",
+        "raw_product_name": "STRUCTURAL ITEM (BOLTED)",
+        "list_of_product_ids": "173,371,733,527,207",
+        "core_id": 2135.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.8474353,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-2e84cef9-327a-515b-8b9e-5d2b777c59cb",
+      "score": 0.8462666,
+      "metadata": {
+        "text": "core_product_name: elbowlet",
+        "raw_product_name": "ELBOWLET",
+        "list_of_product_ids": "14395,14719,14722,14725,19815,22922",
+        "core_id": 681.0
+      }
+    },
+    {
+      "id": "variant-7fd4cfef-d998-5282-9241-7387b128f297",
+      "score": 0.84625036,
+      "metadata": {
+        "text": "core_product_name: round | material: MS (Mild Steel)",
+        "raw_product_name": "MS ROUND",
+        "list_of_product_ids": "30196,32891,13504,13511,13489,13518,13524,13530,13537,13544,13558,13551,26246,29406,16067,16106,29429,31907,17722,17738,29467,29481,29534,23326,29888,30348,29540,29570,29855,30356,31544,31688,24732,31134,24751,24759,24870,24858,24847,24894,31379,24916,24925,24903,31573,25001,30790,25020,25005,25049,25038,25031,29605,30910,25083,25074,25065,25060,25108,25117,30379,30538,25129,25138,25156,25168,25195,25184,25177,25206,25218,25236,25257,25246,25271,25287,25297,25301,25314,25339,25323,25351,25367,25390,25379,25410,30948,31144,25495,29629,30031,30399,31166,31386,31832,25862,31862,25934,30547,31337,31842,31406,31597,25976,30061,26121,26155,29682,30572,31090,26180,26274,26306,30964,31446,26332,26357,30088,30594,26378,26443,26492,26466,26534,26540,26572,26598,30434,26621,26644,26702,29697,30105,26725,26821,26830,30619,30985,26913,26949,26976,27007,27157,30457,27186,30128,31198,27233,30168,30149,30657,27261,27290,29722,27313,27393,31454,27419,27445,27557,29742,31223,27585,27614,27668,27686,27846,27893,27853,27936,27966,29771,30671,31052,28000,30487,31737,28036,28102,28152,28138,30216,31644,28324,28301,31261,28358,30243,28389,28445,28470,28520,29799,31265,31477,31619,28552,28647,28685,28700,30700,28726,28863,28857,28887,29828,28939,30265,31291,28944,28976,31683,29016,29023,30721,31514,31010,29068,29072,30305,31315,31522,31070,29160,29136,29163,29192,29229,30313,29348,29325,29351,29375,31943,31951,31974,32024,31996,32052,32090,32114,32145,32173,32207,32257,32373,32309,32335,32411,32433,32455,32538,32588,32617,32637,32665,32735,32781,32824,32855,32916,32966,33052,33072,33104,33156,33131,33221,33288,33316,33358,33399,33468,33519,33580,33654,33693,33722,33741,33765,33793,33827,33877,33853,33924,33963,34046,34067,34096,34123,34148,34179,34201,34223,34261,34290,34356,34385,34424,34446,34468,34503,34525,34548,34605,34654,34707,34737,34758,34805,34784,34860,34831,34884,34935,35024,35059,35081,35103,35125,35168",
+        "core_id": 1511.0
+      }
+    },
+    {
+      "id": "variant-1b38c2cd-48ae-5642-814d-205a8917dd9f",
+      "score": 0.84611815,
+      "metadata": {
+        "text": "core_product_name: cable lug",
+        "raw_product_name": "CABLE LUG",
+        "list_of_product_ids": "2,064,720,116",
+        "core_id": 280.0
+      }
+    },
+    {
+      "id": "variant-efd47e6d-8587-551e-b7e7-7dbe6be91061",
+      "score": 0.84524226,
+      "metadata": {
+        "text": "core_product_name: bolted duct",
+        "raw_product_name": "DUCTS (BOLTED)",
+        "list_of_product_ids": "21035,21032,21031,27184",
+        "core_id": 641.0
+      }
+    },
+    {
+      "id": "variant-cd38efd2-bbe4-53b6-8f79-c763ccc36872",
+      "score": 0.8451545,
+      "metadata": {
+        "text": "core_product_name: valve plug",
+        "raw_product_name": "VALVE PLUG",
+        "list_of_product_ids": "6258,5427,11546,11540,7825,11543,7831,11250,7867,7849,7857,7836,7838,8391,12657,15484,18068,19713,31743,36588,35579,36139,39755,40004,40146",
+        "core_id": 2365.0
+      }
+    },
+    {
+      "id": "variant-c3bf3b5d-c7e1-567b-896e-879ca0b726dc",
+      "score": 0.8450761,
+      "metadata": {
+        "text": "core_product_name: gasket | material: Metel",
+        "raw_product_name": "Metel Gasket",
+        "list_of_product_ids": "1,421,914,239",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-61a87f82-8d10-5559-a89c-b3b021162ebe",
+      "score": 0.8445276,
+      "metadata": {
+        "text": "core_product_name: lock fitting",
+        "raw_product_name": "LOCK FITTINGS",
+        "list_of_product_ids": "193,371,933,827,255",
+        "core_id": 1378.0
+      }
+    },
+    {
+      "id": "variant-4f374d94-1b89-566c-a340-967f5423bfe0",
+      "score": 0.8429643,
+      "metadata": {
+        "text": "core_product_name: gauge",
+        "raw_product_name": "ROCHESTER GAUGE",
+        "list_of_product_ids": "13848,13850,15244,15258,21980,37412",
+        "core_id": 1043.0
+      }
+    },
+    {
+      "id": "variant-7f02345e-610e-5112-b4c7-2ce6f9d24dbf",
+      "score": 0.84263176,
+      "metadata": {
+        "text": "core_product_name: level gauge",
+        "raw_product_name": "LEVEL GAUGES",
+        "list_of_product_ids": "14374,17072,18035,23121,23520,36626,36111",
+        "core_id": 1330.0
+      }
+    },
+    {
+      "id": "variant-d2f07b17-82a7-5d9a-acbe-c9fccb76fc0d",
+      "score": 0.84232044,
+      "metadata": {
+        "text": "core_product_name: fusible plug",
+        "raw_product_name": "FUSIBLE PLUGS",
+        "list_of_product_ids": "136,943,554,535,978",
+        "core_id": 992.0
+      }
+    },
+    {
+      "id": "variant-9839f173-e3c5-58d0-8588-0eb955652b7d",
+      "score": 0.8420664,
+      "metadata": {
+        "text": "core_product_name: plug",
+        "raw_product_name": "PLUGS",
+        "list_of_product_ids": "5962,6790,10607,15931,16013,16033,16027,22290,22861,33508,33511,35777,35868,35890,35943,36520",
+        "core_id": 1708.0
+      }
+    },
+    {
+      "id": "variant-4e3c6101-3853-55d3-948a-8b1f65e4ebd4",
+      "score": 0.8419085,
+      "metadata": {
+        "text": "core_product_name: hydraulic bolt tensioner",
+        "raw_product_name": "HYDRAULIC BOLT TENSIONER",
+        "list_of_product_ids": "388,203,880,138,802",
+        "core_id": 1192.0
+      }
+    },
+    {
+      "id": "variant-8273715e-02d4-53cf-8173-c6b3c8a3ecf1",
+      "score": 0.84127355,
+      "metadata": {
+        "text": "core_product_name: snatch block",
+        "raw_product_name": "SNATCH BLOCK",
+        "list_of_product_ids": "300,073,051,330,006",
+        "core_id": 2047.0
+      }
+    },
+    {
+      "id": "variant-a2d5443b-8b58-5842-81e9-dadde284f9dc",
+      "score": 0.8408815,
+      "metadata": {
+        "text": "core_product_name: ceiling girder | construction_features: bolted",
+        "raw_product_name": "CEILING GIRDER (BOLTED)",
+        "list_of_product_ids": "20959,20987,20957,21005,21905,22001,22113",
+        "core_id": 321.0
+      }
+    },
+    {
+      "id": "variant-39fce78b-8d44-56c5-9c95-7e9a9934ea56",
+      "score": 0.8408477,
+      "metadata": {
+        "text": "core_product_name: width gauge",
+        "raw_product_name": "Width Gauge",
+        "list_of_product_ids": "7552,7226,10509,18014",
+        "core_id": 2491.0
+      }
+    }
+  ]
+}

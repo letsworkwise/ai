@@ -1,0 +1,441 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.88206995,
+      "text": "core_product_name: hand glove | material: Rubber",
+      "core_id": 1946.0,
+      "raw_product_name": "Rubber Hand Gloves",
+      "list_of_product_ids": [
+        "14348",
+        "14349",
+        "14344",
+        "37470"
+      ]
+    },
+    {
+      "retrieval_score": 0.874811,
+      "text": "core_product_name: low temperature glove | material: Rubber",
+      "core_id": 1417.0,
+      "raw_product_name": "Low Temperature Rubber Gloves",
+      "list_of_product_ids": [
+        "1",
+        "546",
+        "414",
+        "338"
+      ]
+    },
+    {
+      "retrieval_score": 0.8639601,
+      "text": "core_product_name: cable | size_or_capacity: 11KV (11 kiloVolt) | material: XLPE (Cross Linked Polyethylene)",
+      "core_id": 1.0,
+      "raw_product_name": "11KV CABLE XLPE",
+      "list_of_product_ids": [
+        "23938",
+        "24087",
+        "21515",
+        "27081"
+      ]
+    },
+    {
+      "retrieval_score": 0.8617949,
+      "text": "core_product_name: cable | material: Rubber",
+      "core_id": 1.0,
+      "raw_product_name": "RUBBER CABLES",
+      "list_of_product_ids": [
+        "38749",
+        "38955",
+        "38670",
+        "38589",
+        "38533",
+        "38534",
+        "38615",
+        "38698",
+        "38775",
+        "38723",
+        "38643",
+        "38834",
+        "38866",
+        "38908",
+        "38934",
+        "38971",
+        "38998",
+        "39026",
+        "39060",
+        "39094",
+        "39124",
+        "39172",
+        "39225",
+        "39253",
+        "39295",
+        "39345",
+        "39381",
+        "39410",
+        "39440",
+        "39456",
+        "39491",
+        "39546",
+        "39573",
+        "39611",
+        "39635",
+        "39663",
+        "39697",
+        "39737",
+        "39807",
+        "39835",
+        "39906"
+      ]
+    },
+    {
+      "retrieval_score": 0.85465693,
+      "text": "core_product_name: cable | size_or_capacity: 1100 Volts",
+      "core_id": 1.0,
+      "raw_product_name": "1100 VOLTS GRADE CABLES",
+      "list_of_product_ids": [
+        "24084",
+        "21508",
+        "23935",
+        "27355"
+      ]
+    },
+    {
+      "retrieval_score": 0.8527053,
+      "text": "core_product_name: transformer | size_or_capacity: Above 33 kV (kilovolt)",
+      "core_id": 1404.0,
+      "raw_product_name": "TRANSFORMER Above 33 kV",
+      "list_of_product_ids": [
+        "13957",
+        "14856",
+        "19765",
+        "35390"
+      ]
+    },
+    {
+      "retrieval_score": 0.848316,
+      "text": "core_product_name: lining | material: Rubber",
+      "core_id": 1367.0,
+      "raw_product_name": "LINING (RUBBER)",
+      "list_of_product_ids": [
+        "6167",
+        "5337",
+        "12267",
+        "12269",
+        "12265",
+        "12268",
+        "12480"
+      ]
+    },
+    {
+      "retrieval_score": 0.8482771,
+      "text": "core_product_name: cable | size_or_capacity: 33kV (33 kilovolt)",
+      "core_id": 1.0,
+      "raw_product_name": "CABLE 33kV",
+      "list_of_product_ids": [
+        "10253",
+        "10005",
+        "10017",
+        "24048",
+        "23899"
+      ]
+    },
+    {
+      "retrieval_score": 0.84710103,
+      "text": "core_product_name: transformer | size_or_capacity: Up to 33 kV (kilovolt)",
+      "core_id": 1404.0,
+      "raw_product_name": "TRANSFORMER Up to 33 kV",
+      "list_of_product_ids": [
+        "13958",
+        "15331",
+        "19764",
+        "35391"
+      ]
+    },
+    {
+      "retrieval_score": 0.84539926,
+      "text": "core_product_name: oil type transformer | size_or_capacity: Up to 33 kV (kilovolt)",
+      "core_id": 152.0,
+      "raw_product_name": "Up to 33 kV (Oil Type) TRANSFORMER",
+      "list_of_product_ids": [
+        "9818",
+        "7567",
+        "7241",
+        "7920",
+        "7926",
+        "7911",
+        "7922",
+        "9291",
+        "8253",
+        "9292",
+        "35392"
+      ]
+    },
+    {
+      "retrieval_score": 0.84517634,
+      "text": "core_product_name: control cable | size_or_capacity: 1100 Volts | material: PVC (Polyvinyl Chloride)",
+      "core_id": 4.0,
+      "raw_product_name": "1100 VOLTS GRADE PVC CONTROL CABLES",
+      "list_of_product_ids": [
+        "23936",
+        "24085",
+        "21514",
+        "28591"
+      ]
+    },
+    {
+      "retrieval_score": 0.8441453,
+      "text": "core_product_name: oil type transformer | size_or_capacity: above 33 kV",
+      "core_id": 152.0,
+      "raw_product_name": "Above 33 kV (Oil Type) TRANSFORMER",
+      "list_of_product_ids": [
+        "7303",
+        "7351",
+        "11724",
+        "7923",
+        "7917",
+        "14854",
+        "35393"
+      ]
+    },
+    {
+      "retrieval_score": 0.84384936,
+      "text": "core_product_name: cable | size_or_capacity: 132kV (132 kilovolt) | material: XLPE (cross-linked polyethylene)",
+      "core_id": 1.0,
+      "raw_product_name": "132kV CABLE XLPE",
+      "list_of_product_ids": [
+        "14146",
+        "15782",
+        "20052",
+        "24050",
+        "23901"
+      ]
+    },
+    {
+      "retrieval_score": 0.8434092,
+      "text": "core_product_name: lubricated plug valve",
+      "core_id": 2364.0,
+      "raw_product_name": "VALVE PLUG (LUBRICATED)",
+      "list_of_product_ids": [
+        "20165",
+        "20287",
+        "20264",
+        "20315",
+        "20342",
+        "20357",
+        "35585"
+      ]
+    },
+    {
+      "retrieval_score": 0.8433708,
+      "text": "core_product_name: cable | size_or_capacity: 220 kV (kilovolt) | material: XLPE (cross-linked polyethylene)",
+      "core_id": 1.0,
+      "raw_product_name": "220 kV CABLE XLPE",
+      "list_of_product_ids": [
+        "14151",
+        "15785",
+        "20056",
+        "24051",
+        "23902"
+      ]
+    },
+    {
+      "retrieval_score": 0.8420366,
+      "text": "core_product_name: handglove | material: Cotton",
+      "core_id": 498.0,
+      "raw_product_name": "COTTON HANGLOVES",
+      "list_of_product_ids": [
+        "32885",
+        "32894",
+        "33008",
+        "33040",
+        "33194",
+        "33259",
+        "33561",
+        "33632",
+        "35921"
+      ]
+    },
+    {
+      "retrieval_score": 0.84170336,
+      "text": "core_product_name: indoor switchgear | size_or_capacity: 33 kV (kilovolt) | operating_conditions: Indoor",
+      "core_id": 15.0,
+      "raw_product_name": "33 kV Indoor Switchgear",
+      "list_of_product_ids": [
+        "1",
+        "415",
+        "314",
+        "637"
+      ]
+    },
+    {
+      "retrieval_score": 0.84112835,
+      "text": "core_product_name: indoor isolator | type_or_class: Medium Voltage (M.V.) | operating_conditions: Indoor | size_or_capacity: Up to 3.3 kV - 11 kV",
+      "core_id": 1299.0,
+      "raw_product_name": "ISOLATOR INDOOR M.V. UP TO 3.3 KV. - 11KV.",
+      "list_of_product_ids": [
+        "175",
+        "761",
+        "866",
+        "917",
+        "542"
+      ]
+    },
+    {
+      "retrieval_score": 0.84107006,
+      "text": "core_product_name: hand control valve",
+      "core_id": 1212.0,
+      "raw_product_name": "Hand Control Valves",
+      "list_of_product_ids": [
+        "18259",
+        "18261",
+        "18258",
+        "18595",
+        "18636",
+        "18260",
+        "36509"
+      ]
+    },
+    {
+      "retrieval_score": 0.8400385,
+      "text": "core_product_name: lubricated valve | type_or_class: Plug",
+      "core_id": 1834.0,
+      "raw_product_name": "Plug Valve(Lubricated)",
+      "list_of_product_ids": [
+        "8696"
+      ]
+    },
+    {
+      "retrieval_score": 0.83970267,
+      "text": "core_product_name: moulding product | material: Rubber",
+      "core_id": 1935.0,
+      "raw_product_name": "RUBBER PRODUCT(MOULDING)",
+      "list_of_product_ids": [
+        "16394",
+        "16405",
+        "16395",
+        "19947",
+        "21188",
+        "34544"
+      ]
+    },
+    {
+      "retrieval_score": 0.8396257,
+      "text": "core_product_name: outdoor isolator | operating_conditions: Outdoor | type_or_class: High Voltage (H.V.) | size_or_capacity: Up to 33 kV",
+      "core_id": 9.0,
+      "raw_product_name": "ISOLATOR OUTDOOR H.V. UP TO 33 KV.",
+      "list_of_product_ids": [
+        "6457",
+        "5627",
+        "12370",
+        "26076",
+        "26075"
+      ]
+    },
+    {
+      "retrieval_score": 0.8394304,
+      "text": "core_product_name: tile flooring | material: Rubber",
+      "core_id": 1936.0,
+      "raw_product_name": "RUBBER TILE FLOORING",
+      "list_of_product_ids": [
+        "167",
+        "461",
+        "674",
+        "527",
+        "996"
+      ]
+    },
+    {
+      "retrieval_score": 0.83941764,
+      "text": "core_product_name: electrical contact",
+      "core_id": 705.0,
+      "raw_product_name": "ELECTRICAL CONTACTS",
+      "list_of_product_ids": [
+        "211",
+        "562",
+        "115",
+        "228",
+        "503"
+      ]
+    },
+    {
+      "retrieval_score": 0.83915925,
+      "text": "core_product_name: gasket | material: Rubber",
+      "core_id": 758.0,
+      "raw_product_name": "GASKET RUBBER",
+      "list_of_product_ids": [
+        "17840",
+        "17839",
+        "18654",
+        "22361",
+        "37308",
+        "37310",
+        "37313",
+        "37315",
+        "37318",
+        "37303"
+      ]
+    },
+    {
+      "retrieval_score": 0.8388597,
+      "text": "core_product_name: gasket | material: Rubber",
+      "core_id": 758.0,
+      "raw_product_name": "RUBBER GASKETS",
+      "list_of_product_ids": [
+        "8366"
+      ]
+    },
+    {
+      "retrieval_score": 0.83863527,
+      "text": "core_product_name: fender | material: Rubber",
+      "core_id": 1932.0,
+      "raw_product_name": "RUBBER FENDERS",
+      "list_of_product_ids": [
+        "19111",
+        "19144",
+        "19118",
+        "38479"
+      ]
+    },
+    {
+      "retrieval_score": 0.8384871,
+      "text": "core_product_name: expansion compensator | material: Rubber",
+      "core_id": 784.0,
+      "raw_product_name": "Expansion Compensators (Rubber)",
+      "list_of_product_ids": [
+        "7",
+        "500",
+        "717",
+        "518",
+        "492"
+      ]
+    },
+    {
+      "retrieval_score": 0.8381837,
+      "text": "core_product_name: high voltage capacitor | size_or_capacity: High Voltage",
+      "core_id": 295.0,
+      "raw_product_name": "CAPACITORS-HIGH VOLTAGE",
+      "list_of_product_ids": [
+        "6427",
+        "5597",
+        "10503",
+        "10567",
+        "11340",
+        "12080"
+      ]
+    },
+    {
+      "retrieval_score": 0.8380858,
+      "text": "core_product_name: level switch | protection_features: Explosion Proof",
+      "core_id": 1337.0,
+      "raw_product_name": "Level Switches (Explosion Proof)",
+      "list_of_product_ids": [
+        "17095",
+        "17094",
+        "17093",
+        "17092",
+        "17091",
+        "17090",
+        "17096",
+        "27177"
+      ]
+    }
+  ]
+}

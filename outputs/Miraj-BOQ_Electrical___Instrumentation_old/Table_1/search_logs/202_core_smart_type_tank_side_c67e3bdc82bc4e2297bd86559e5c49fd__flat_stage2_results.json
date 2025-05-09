@@ -1,0 +1,520 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.85004854,
+      "text": "core_product_name: tank level instrument | type_or_class: Servo Type",
+      "core_id": 2202.0,
+      "raw_product_name": "TANK LEVEL INSTRUMENT (SERVO TYPE)",
+      "list_of_product_ids": [
+        "6586",
+        "5756",
+        "11687",
+        "11696",
+        "11712",
+        "13222",
+        "15090",
+        "15248",
+        "15262",
+        "21060",
+        "36107",
+        "36185",
+        "36333"
+      ]
+    },
+    {
+      "retrieval_score": 0.84992886,
+      "text": "core_product_name: level indicator | type_or_class: Servo Type TGM",
+      "core_id": 1332.0,
+      "raw_product_name": "LEVEL INDICATORS (SERVO TYPE TGM)",
+      "list_of_product_ids": [
+        "13980"
+      ]
+    },
+    {
+      "retrieval_score": 0.84634864,
+      "text": "core_product_name: pressure indicating controller",
+      "core_id": 1772.0,
+      "raw_product_name": "PRESSURE INDICATING CONTROLLERS",
+      "list_of_product_ids": [
+        "17056",
+        "17059",
+        "17058",
+        "17057",
+        "28751",
+        "36365",
+        "40118"
+      ]
+    },
+    {
+      "retrieval_score": 0.8451259,
+      "text": "core_product_name: special control valve | type_or_class: Segmental",
+      "core_id": 2075.0,
+      "raw_product_name": "SPECIAL CONTROL VALVES (SEGMENTAL)",
+      "list_of_product_ids": [
+        "6507",
+        "5678",
+        "8709",
+        "28773",
+        "28781",
+        "28780",
+        "28779",
+        "28778",
+        "28777",
+        "28776",
+        "28775",
+        "28774",
+        "36265",
+        "36418"
+      ]
+    },
+    {
+      "retrieval_score": 0.8446677,
+      "text": "core_product_name: site fabricated storage tank",
+      "core_id": 2038.0,
+      "raw_product_name": "SITE FABRICATED STORAGE TANKS",
+      "list_of_product_ids": [
+        "1",
+        "395",
+        "423",
+        "053"
+      ]
+    },
+    {
+      "retrieval_score": 0.8431379,
+      "text": "core_product_name: gate valve | type_or_class: Liquefied Petroleum Gas (LPG)",
+      "core_id": 1041.0,
+      "raw_product_name": "VALVE GATE - LIQUEFIED PETROLEUM GAS",
+      "list_of_product_ids": [
+        "39743",
+        "39767",
+        "39780",
+        "39852",
+        "39878",
+        "40072",
+        "40214",
+        "40305"
+      ]
+    },
+    {
+      "retrieval_score": 0.84199554,
+      "text": "core_product_name: storage tank",
+      "core_id": 1376.0,
+      "raw_product_name": "STORAGE TANK",
+      "list_of_product_ids": [
+        "20109",
+        "20123",
+        "20708",
+        "37075",
+        "35997",
+        "36142",
+        "36153",
+        "36284",
+        "36290",
+        "36303"
+      ]
+    },
+    {
+      "retrieval_score": 0.84158826,
+      "text": "core_product_name: control valve positioner",
+      "core_id": 467.0,
+      "raw_product_name": "CONTROL VALVE POSITIONER",
+      "list_of_product_ids": [
+        "6488",
+        "5659",
+        "11718",
+        "8691"
+      ]
+    },
+    {
+      "retrieval_score": 0.84007245,
+      "text": "core_product_name: special control valve | size_or_capacity: Low Cv (Low Flow Coefficient)",
+      "core_id": 2075.0,
+      "raw_product_name": "SPECIAL CONTROL VALVES (LOW CV)",
+      "list_of_product_ids": [
+        "6512",
+        "5683",
+        "28792",
+        "28791",
+        "28790",
+        "28788",
+        "28789"
+      ]
+    },
+    {
+      "retrieval_score": 0.8393255,
+      "text": "core_product_name: magnetic liquid level indicator",
+      "core_id": 1423.0,
+      "raw_product_name": "MAGNETIC LIQUID LEVEL INDICATOR",
+      "list_of_product_ids": [
+        "218",
+        "652",
+        "186",
+        "428",
+        "600"
+      ]
+    },
+    {
+      "retrieval_score": 0.83864206,
+      "text": "core_product_name: type valve control body",
+      "core_id": 2349.0,
+      "raw_product_name": "VALVE CONTROL BODY TYPE",
+      "list_of_product_ids": [
+        "14051",
+        "15178",
+        "17084",
+        "20252",
+        "22357",
+        "23086",
+        "23779",
+        "23783",
+        "36658"
+      ]
+    },
+    {
+      "retrieval_score": 0.8379162,
+      "text": "core_product_name: special control valve",
+      "core_id": 2075.0,
+      "raw_product_name": "SPECIAL CONTROL VALVES",
+      "list_of_product_ids": [
+        "13990",
+        "18539",
+        "23763",
+        "22458",
+        "22425",
+        "22487",
+        "22480",
+        "38452",
+        "40026"
+      ]
+    },
+    {
+      "retrieval_score": 0.83744997,
+      "text": "core_product_name: magnetic oil level gauge",
+      "core_id": 1424.0,
+      "raw_product_name": "MAGNETIC OIL LEVEL GAUGE",
+      "list_of_product_ids": [
+        "6465",
+        "5636",
+        "10160",
+        "12891",
+        "26083"
+      ]
+    },
+    {
+      "retrieval_score": 0.83721745,
+      "text": "core_product_name: level gauge",
+      "core_id": 1330.0,
+      "raw_product_name": "LEVEL GAUGES",
+      "list_of_product_ids": [
+        "14374",
+        "17072",
+        "18035",
+        "23121",
+        "23520",
+        "36626",
+        "36111"
+      ]
+    },
+    {
+      "retrieval_score": 0.83697295,
+      "text": "core_product_name: programmable logic controller",
+      "core_id": 1794.0,
+      "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLERS",
+      "list_of_product_ids": [
+        "6565",
+        "5735",
+        "11164",
+        "10154",
+        "11376",
+        "9379",
+        "9159",
+        "9221",
+        "11902",
+        "12182",
+        "36522",
+        "17895",
+        "18871",
+        "18916",
+        "29683",
+        "30474",
+        "38193",
+        "36169",
+        "36317"
+      ]
+    },
+    {
+      "retrieval_score": 0.83640325,
+      "text": "core_product_name: submersible pump-motor set",
+      "core_id": 2193.0,
+      "raw_product_name": "Submersible Pump-Motor Set",
+      "list_of_product_ids": [
+        "1",
+        "408",
+        "023",
+        "236"
+      ]
+    },
+    {
+      "retrieval_score": 0.83631396,
+      "text": "core_product_name: electronic level indicator | type_or_class: Boiler Drum",
+      "core_id": 723.0,
+      "raw_product_name": "ELECTRONIC BOILER DRUM LEVEL INDICATOR",
+      "list_of_product_ids": [
+        "1",
+        "388",
+        "723",
+        "155"
+      ]
+    },
+    {
+      "retrieval_score": 0.8360301,
+      "text": "core_product_name: loop powered indicator",
+      "core_id": 1383.0,
+      "raw_product_name": "LOOP POWERED INDICATORS",
+      "list_of_product_ids": [
+        "6593",
+        "5763",
+        "11632",
+        "11633",
+        "10042",
+        "10068",
+        "8403",
+        "12844",
+        "38272"
+      ]
+    },
+    {
+      "retrieval_score": 0.83601004,
+      "text": "core_product_name: pressure vessel tank",
+      "core_id": 1842.0,
+      "raw_product_name": "Pressure Vessel Tanks",
+      "list_of_product_ids": [
+        "19117",
+        "13874",
+        "19110",
+        "19095",
+        "17356",
+        "22231",
+        "22504",
+        "22501",
+        "22555",
+        "23201",
+        "19202",
+        "19192"
+      ]
+    },
+    {
+      "retrieval_score": 0.8357007,
+      "text": "core_product_name: water storage tank",
+      "core_id": 2451.0,
+      "raw_product_name": "WATER STORAGE TANK",
+      "list_of_product_ids": [
+        "157",
+        "901",
+        "585",
+        "615",
+        "871"
+      ]
+    },
+    {
+      "retrieval_score": 0.8356349,
+      "text": "core_product_name: pressure control valve",
+      "core_id": 1770.0,
+      "raw_product_name": "PRESSURE CONTROL VALVE",
+      "list_of_product_ids": [
+        "14378",
+        "14380",
+        "16837",
+        "17055",
+        "17085",
+        "17627",
+        "17851",
+        "17905",
+        "17903",
+        "18055",
+        "18045",
+        "18036",
+        "18233",
+        "20949",
+        "21592",
+        "21600",
+        "21661",
+        "22355",
+        "23084",
+        "23330",
+        "10654",
+        "10876",
+        "36298",
+        "36435",
+        "40310"
+      ]
+    },
+    {
+      "retrieval_score": 0.8353695,
+      "text": "core_product_name: programmable logic controller-fire and gas system | acronymed_core_product_name: PLC-FGS",
+      "core_id": 1706.0,
+      "raw_product_name": "PLC-FGS",
+      "list_of_product_ids": [
+        "13801",
+        "15110",
+        "20985",
+        "23214",
+        "36204",
+        "36353"
+      ]
+    },
+    {
+      "retrieval_score": 0.83535963,
+      "text": "core_product_name: level sensor",
+      "core_id": 1336.0,
+      "raw_product_name": "LEVEL SENSOR",
+      "list_of_product_ids": [
+        "19121",
+        "19128",
+        "19133",
+        "38465"
+      ]
+    },
+    {
+      "retrieval_score": 0.8353475,
+      "text": "core_product_name: sample gas pump",
+      "core_id": 1953.0,
+      "raw_product_name": "SAMPLE GAS PUMP",
+      "list_of_product_ids": [
+        "19213",
+        "19211",
+        "19658",
+        "27529",
+        "38631",
+        "39778"
+      ]
+    },
+    {
+      "retrieval_score": 0.83522296,
+      "text": "core_product_name: safety valve | operating_conditions: boiler service",
+      "core_id": 1950.0,
+      "raw_product_name": "SAFETY VALVES BOILER SERVICE",
+      "list_of_product_ids": [
+        "6504",
+        "5675",
+        "10198",
+        "8345",
+        "17586",
+        "21314",
+        "27548",
+        "28764",
+        "28766",
+        "28765",
+        "28811",
+        "36263",
+        "36416"
+      ]
+    },
+    {
+      "retrieval_score": 0.83517355,
+      "text": "core_product_name: special control valve | type_or_class: Plug",
+      "core_id": 2075.0,
+      "raw_product_name": "SPECIAL CONTROL VALVES (PLUG)",
+      "list_of_product_ids": [
+        "6508",
+        "5679",
+        "8725",
+        "23765",
+        "28782",
+        "35586"
+      ]
+    },
+    {
+      "retrieval_score": 0.8350787,
+      "text": "core_product_name: seal oil pump",
+      "core_id": 1984.0,
+      "raw_product_name": "SEAL OIL PUMP",
+      "list_of_product_ids": [
+        "138",
+        "841",
+        "523",
+        "415",
+        "235"
+      ]
+    },
+    {
+      "retrieval_score": 0.8349735,
+      "text": "core_product_name: gas metering system | special_attributes: dual chamber orifice",
+      "core_id": 1031.0,
+      "raw_product_name": "GAS METERING SYSTEM -DUAL CHAMBR ORIFICE",
+      "list_of_product_ids": [
+        "6614",
+        "5784",
+        "38506",
+        "38496"
+      ]
+    },
+    {
+      "retrieval_score": 0.8348261,
+      "text": "core_product_name: oil level controller",
+      "core_id": 1583.0,
+      "raw_product_name": "OIL LEVEL CONTROLLER",
+      "list_of_product_ids": [
+        "21631",
+        "21640",
+        "21635",
+        "21756"
+      ]
+    },
+    {
+      "retrieval_score": 0.8344965,
+      "text": "core_product_name: control valve",
+      "core_id": 468.0,
+      "raw_product_name": "CONTROL VALVES",
+      "list_of_product_ids": [
+        "6491",
+        "5662",
+        "10695",
+        "11716",
+        "8189",
+        "8692",
+        "11953",
+        "12128",
+        "12150",
+        "12173",
+        "12184",
+        "12609",
+        "12825",
+        "12826",
+        "12816",
+        "12830",
+        "13172",
+        "17317",
+        "17316",
+        "17315",
+        "17314",
+        "17478",
+        "17860",
+        "19701",
+        "19748",
+        "21532",
+        "21767",
+        "22686",
+        "27479",
+        "27478",
+        "27477",
+        "27476",
+        "27475",
+        "27474",
+        "27473",
+        "27480",
+        "35700",
+        "36122",
+        "36229",
+        "36381",
+        "39944",
+        "40005",
+        "40066",
+        "40127",
+        "40278",
+        "40269",
+        "40296"
+      ]
+    }
+  ]
+}

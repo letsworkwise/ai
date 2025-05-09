@@ -1,0 +1,60 @@
+{
+  "query": "core_product_name: h-pole structure | size: supply voltage: 11 KV | feature_or_specifications: feature: gang operated isolator, feature: d.o. (drop out) fuse with base, feature: lightning arrestors, feature: insulator, feature: earthing, feature: construction of earth pits, feature: fencing, feature: gate, feature: gravel laying, feature: padlocking, feature: signages, feature: all civil works, standard: electricity board guidelines",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: gang operated isolator",
+        "raw_product_name": "GANG OPERATED ISOLATORS",
+        "list_of_product_ids": [
+          "1",
+          "370",
+          "014",
+          "636"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Size & Capacity",
+        "Operating Conditions"
+      ],
+      "match_details": {
+        "text": "core_product_name: indoor isolator | type_or_class: Medium Voltage (M.V.) | operating_conditions: Indoor | size_or_capacity: Up to 3.3 kV - 11 kV",
+        "raw_product_name": "ISOLATOR INDOOR M.V. UP TO 3.3 KV. - 11KV.",
+        "list_of_product_ids": [
+          "175",
+          "761",
+          "866",
+          "917",
+          "542"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Operating Conditions",
+        "Type/Class",
+        "Size & Capacity"
+      ],
+      "match_details": {
+        "text": "core_product_name: outdoor isolator | operating_conditions: Outdoor | type_or_class: High Voltage (H.V.) | size_or_capacity: Up to 33 kV",
+        "raw_product_name": "ISOLATOR OUTDOOR H.V. UP TO 33 KV.",
+        "list_of_product_ids": [
+          "6457",
+          "5627",
+          "12370",
+          "26076",
+          "26075"
+        ]
+      }
+    }
+  ]
+}

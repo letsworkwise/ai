@@ -1,0 +1,560 @@
+{
+  "sheet_name": "General Civil",
+  "boq_context": "Sl. No. | PART NO | ITEM NO | DESCRIPTION | QTY | UOM | RATE | AMOUNT | TPPL Rate | Amount\n649 | 0 | 01GC | GENERAL CIVIL |  |  |  |  |  | \n650 | 0 | 01GC.5 | SITE GRADING & ROCK CUTTING FOR SITE GRADING |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "MODIFICATION AND EXTRA WORKS ( IF ANY ) Cuting,bevelling,fitup,welding of different sizes of CS piping of all thicknesses in shop ,in position, on ground and at all elevations, transportation of pipes,fittings,flanges etc. from owner's storage point to work site/workshop,making necessary scaffolding,consumables,machinery,tools,tackles,labour and supervision including attending to repairs for completing the work as per instructions of Engineer -in - charge Flame cutting CS piping",
+      "core_product_name": "flame cutting cs(carbon steel) piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: cutting, bevelling, fitup, welding, all thicknesses, in shop, in position, on ground, at all elevations, transportation, scaffolding, consumables, machinery, tools, tackles, labour, supervision, attending to repairs",
+      "quantity": "240.0",
+      "unit": "Inch Dia"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 679 | ITEM NO 01GC.27.1.2 | Hacksaw cutting CS piping",
+      "core_product_name": "hacksaw cutting cs(carbon steel) piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "240.0",
+      "unit": "Inch Dia"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 680 | ITEM NO 01GC.27.1.3 | Beveling CS piping",
+      "core_product_name": "beveling cs(carbon steel) piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "480.0",
+      "unit": "Inch Dia"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 681 | ITEM NO 01GC.27.1.4 | Fit-up and welding CS piping",
+      "core_product_name": "fit-up and welding cs(carbon steel) piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "480.0",
+      "unit": "Inch Dia"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 684 | ITEM NO 01GC.28.1.1 | DP TEST LENGTH (BW&SW)",
+      "core_product_name": "dp test length",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "test type: bw(butt weld) and sw(socket weld)",
+      "quantity": "150.0",
+      "unit": "Inch"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 685 | ITEM NO 01GC.28.1.2 | MAGNETIC PARTICLE TEST",
+      "core_product_name": "magnetic particle test",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "150.0",
+      "unit": "Inch"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 689 | ITEM NO 01GC.30.1.1.1V2 | Nominal Dia.   8 Inch",
+      "core_product_name": "valve",
+      "acronymed_core_product_name": "",
+      "size": "nominal diameter: 8 Inch",
+      "feature_or_specifications": "",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 694 | ITEM NO 01GC.32.2.1.1.1 | NB upto 1.5 inch",
+      "core_product_name": "cs(carbon steel) piping dismantling",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: upto 1.5 inch, thickness: <=10 mm",
+      "feature_or_specifications": "",
+      "quantity": "60.0",
+      "unit": "Inch Mtr"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 695 | ITEM NO 01GC.32.2.1.1.2 | NB 2 inch - 6 inch",
+      "core_product_name": "cs(carbon steel) piping dismantling",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 2 inch - 6 inch, thickness: <=10 mm",
+      "feature_or_specifications": "",
+      "quantity": "460.0",
+      "unit": "Inch Mtr"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 696 | ITEM NO 01GC.32.2.1.1.3 | NB 8 inch - 14 inch",
+      "core_product_name": "cs(carbon steel) piping dismantling",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 8 inch - 14 inch, thickness: <=10 mm",
+      "feature_or_specifications": "",
+      "quantity": "650.0",
+      "unit": "Inch Mtr"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 697 | ITEM NO 01GC.32.2.1.1.4 | NB 16 inch - 24 inch",
+      "core_product_name": "cs(carbon steel) piping dismantling",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 16 inch - 24 inch, thickness: <=10 mm",
+      "feature_or_specifications": "",
+      "quantity": "110.0",
+      "unit": "Inch Mtr"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 699 | ITEM NO 01GC.32.9.1 | Dismantling of WBM / WMM, including supply of all tools and tackles, labours, taking all necessary safety precautions etc., segregating of serviceable / unserviceable material, stacking of serviceable material any where within plant boundary limit and disposal of the unserviceable material anywhere outside the plant boundary etc. all complete for all levels, leads as specified and directed by Engineer-in- Charge. (Disposal areas shall be arranged by the Contractor at his own cost. The rate quoted shall include all royalties, right-of-way etc. complete.).",
+      "core_product_name": "dismantling of wbm(water bound macadam) or wmm(wet mix macadam)",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supply of all tools and tackles, labours, safety precautions, segregation, stacking, disposal, all levels, all leads, as specified and directed, disposal areas by contractor, all royalties, right-of-way",
+      "quantity": "5550.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 704 | ITEM NO 01GC.40.20.1.1.2 | NB 2 inch - 6 inch",
+      "core_product_name": "fabrication of cs(carbon steel) piping (non ibr)",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 2 inch - 6 inch, thickness: <=10 mm",
+      "feature_or_specifications": "",
+      "quantity": "820.0",
+      "unit": "Inch Dia"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 705 | ITEM NO 01GC.40.20.1.1.3 | NB 8 inch - 14 inch",
+      "core_product_name": "fabrication of cs(carbon steel) piping (non ibr)",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 8 inch - 14 inch, thickness: <=10 mm",
+      "feature_or_specifications": "",
+      "quantity": "580.0",
+      "unit": "Inch Dia"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      30,
+      59
+    ],
+    "original_rows": [
+      {
+        "0": 679,
+        "1": 0,
+        "2": "01GC.27.1.2",
+        "3": "Hacksaw cutting CS piping",
+        "4": 240.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 680,
+        "1": 0,
+        "2": "01GC.27.1.3",
+        "3": "Beveling CS piping",
+        "4": 480.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 681,
+        "1": 0,
+        "2": "01GC.27.1.4",
+        "3": "Fit-up and welding CS piping",
+        "4": 480.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 682,
+        "1": 0,
+        "2": "01GC.28",
+        "3": "NDT Testing",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 683,
+        "1": 0,
+        "2": "01GC.28.1",
+        "3": "DYE PENETRATION / MAGNETIC PARTICLE TEST  Performing of magnetic particle test or dye penetration test including supply of all necessary materials, equipment and labour for carrying out the work as per specs. and direction of Engineer-in -charge",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 684,
+        "1": 0,
+        "2": "01GC.28.1.1",
+        "3": "DP TEST LENGTH (BW&SW)",
+        "4": 150.0,
+        "5": "Inch",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 685,
+        "1": 0,
+        "2": "01GC.28.1.2",
+        "3": "MAGNETIC PARTICLE TEST",
+        "4": 150.0,
+        "5": "Inch",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 686,
+        "1": 0,
+        "2": "01GC.30",
+        "3": "Installation of Valve",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 687,
+        "1": 0,
+        "2": "01GC.30.1",
+        "3": "Transportation of all kind of valves( including special and motor operated valves) from owner's storage point to contractor's store/ work site and installation of valves for all rating including assembly of valve accessories, if any, fixing of gaskets, bolts/ nuts etc. complete as per specifications drawings and direction of Engineer-in-charge including returning all unused/ surplus material to owner's storage point (valves along with accessories shall be supplied by owner as free issue material)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 688,
+        "1": 0,
+        "2": "01GC.30.1.1",
+        "3": "Flanged/ Wafer Valves",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 689,
+        "1": 0,
+        "2": "01GC.30.1.1.1V2",
+        "3": "Nominal Dia.   8 Inch",
+        "4": 9.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 690,
+        "1": 0,
+        "2": "01GC.32",
+        "3": "Dismantling works",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 691,
+        "1": 0,
+        "2": "01GC.32.2",
+        "3": "Removal of existing U/G piping",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 692,
+        "1": 0,
+        "2": "01GC.32.2.1",
+        "3": "Removal of existing U/G piping including excavation in all types of soils except soft rock and hard rock, including supply of any additional material required so as to expose the pipes for removal / dismantling, taking all safety precautions, supporting existing U/G services, dewatering of surface / sub-surface water as required to facilitate dismantling of pipes, cutting of pipes in appropriate lengths for transporting purpose, removal of soft material from bottom of trench and compacting, backfilling with available selected earth including re-excavating the deposited soil excavated earlier, breaking clods, laying in thickness not exceeding 15cms, watering rolling and ramming by manual methods / mechanical Compactors to achieve 90% laboratory maximum dry density as per IS:2720 Part VII or 85% relative density as per IS:2720 part XIV as applicable, stacking of serviceable / unserviceable material, transporting and stacking of all piping material to Owner's storage point, disposal of unserviceable material anywhere outside the complex etc. , all complete as per directions of Engineer-in-Charge.(Disposal areas shall be arranged by the  contractor at his own cost. The rate quoted shall include all royalties, right-of-way etc. complete.)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 693,
+        "1": 0,
+        "2": "01GC.32.2.1.1",
+        "3": "For CS Piping dismantling, Thickness <=10 mm , For following Nominal Sizes",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 694,
+        "1": 0,
+        "2": "01GC.32.2.1.1.1",
+        "3": "NB upto 1.5 inch",
+        "4": 60.0,
+        "5": "Inch Mtr",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 695,
+        "1": 0,
+        "2": "01GC.32.2.1.1.2",
+        "3": "NB 2 inch - 6 inch",
+        "4": 460.0,
+        "5": "Inch Mtr",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 696,
+        "1": 0,
+        "2": "01GC.32.2.1.1.3",
+        "3": "NB 8 inch - 14 inch",
+        "4": 650.0,
+        "5": "Inch Mtr",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 697,
+        "1": 0,
+        "2": "01GC.32.2.1.1.4",
+        "3": "NB 16 inch - 24 inch",
+        "4": 110.0,
+        "5": "Inch Mtr",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 698,
+        "1": 0,
+        "2": "01GC.32.9",
+        "3": "Dismantling of WBM / WMM",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 699,
+        "1": 0,
+        "2": "01GC.32.9.1",
+        "3": "Dismantling of WBM / WMM, including supply of all tools and tackles, labours, taking all necessary safety precautions etc., segregating of serviceable / unserviceable material, stacking of serviceable material any where within plant boundary limit and disposal of the unserviceable material anywhere outside the plant boundary etc. all complete for all levels, leads as specified and directed by Engineer-in- Charge. (Disposal areas shall be arranged by the Contractor at his own cost. The rate quoted shall include all royalties, right-of-way etc. complete.).",
+        "4": 5550.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 700,
+        "1": 0,
+        "2": "01GC.40",
+        "3": "Fabrication and Erection of piping (underground)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 701,
+        "1": 0,
+        "2": "01GC.40.20",
+        "3": "Laying and joining of externally 3L PE pre-coated Carbon Steel pipes and specials underground including transportation of all material from Owner's storage point to worksite, earthwork in excavation in all types of soils excluding soft rock and hard rock,  for pipe trenches, saddles, etc. including dewatering, shoring and strutting if required, dressing of sides, levelling, grading and ramming of bottoms, cutting of pipes to required lengths if required, edge preparation, laying the pipes in trenches to required alignment and levels, welding the same after laying, installation of flanges, blind flanges, tapping for pressure gauges, temperature gauges and all other online instruments, fixing of nuts, bolts, gaskets and washers, welding, carrying out repairs of coating defects not attributed to owner (i.e. defects occurring after taking over of pipes from owner), coating of all field weld joints etc. as per specification, including supply of coating material for field joints,inspection and testing for the corrosion protection coating as per specification, cutting of road wherever required and making good the same,hydrostatic testing of the system, flushing, backfilling the trenches with select material from available excavated soil including re-excavating the deposited soil excavated earlier, breaking clods and laying in layers of 15 cm compacted thickness, watering, compacting with mechanical means like vibro rammers etc. to 90% of dry density as per IS:2720 Part- VII or 85% relative density as per IS: 2720 Part XIV as applicable, making good the surface, disposal of surplus earth/ unserviceable material to demarcated area anywhere within the complex limit etc. complete as per drawings, specifications and instructions of Engineer-in-Charge including connecting the pipes to manhole, including return of all unused / scrap pipes and specials to owner's storage point (All the materials except Pre-coated Pipes and fittings shall be supplied by contractor)(Pre-coated Pipes and fittings shall be",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 702,
+        "1": 0,
+        "2": "01GC.40.20.1",
+        "3": "Carbon Steel  Piping (Non IBR), Thickness <=10 mm",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 703,
+        "1": 0,
+        "2": "01GC.40.20.1.1",
+        "3": "Fabrication, For the following nominal sizes",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 704,
+        "1": 0,
+        "2": "01GC.40.20.1.1.2",
+        "3": "NB 2 inch - 6 inch",
+        "4": 820.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 705,
+        "1": 0,
+        "2": "01GC.40.20.1.1.3",
+        "3": "NB 8 inch - 14 inch",
+        "4": 580.0,
+        "5": "Inch Dia",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 706,
+        "1": 0,
+        "2": "01GC.40.20.1.3",
+        "3": "Erection including corrosion protection coating of field joints, for Waste Water Collection System (Gravity Flow), for following Nominal Sizes",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 707,
+        "1": 0,
+        "2": "01GC.40.20.1.3.2",
+        "3": "NB 2 inch - 6 inch",
+        "4": 1560.0,
+        "5": "Inch Mtr",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 708,
+        "1": 0,
+        "2": "01GC.40.20.1.3.3",
+        "3": "NB 8 inch - 14 inch",
+        "4": 3200.0,
+        "5": "Inch Mtr",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 4089,
+    "completion_tokens": 2471
+  }
+}

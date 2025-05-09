@@ -1,0 +1,124 @@
+{
+  "flat_stage2_results_for_llm": [
+    {
+      "text": "core_product_name: power distribution board | acronymed_core_product_name: pdb (power distribution board)",
+      "raw_product_name": "POWER DISTRIBUTION BOARD (PDB)"
+    },
+    {
+      "text": "core_product_name: distributed digital control, monitoring information system | acronymed_core_product_name: ddcmis",
+      "raw_product_name": "DISTRIBUTED DIGITAL CONTROL,MONITORING INFORMATION SYSTEM(DDCMIS)"
+    },
+    {
+      "text": "core_product_name: programmable logic controller | acronymed_core_product_name: plc subsystem",
+      "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER (PLC SUBSYSTEM)"
+    },
+    {
+      "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (pdb (power distribution board))",
+      "raw_product_name": "A.C. DISTRIBUTION BOARD (PDB)"
+    },
+    {
+      "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+      "raw_product_name": "DCDB"
+    },
+    {
+      "text": "core_product_name: automatic power factor correction panel | acronymed_core_product_name: apfc panel",
+      "raw_product_name": "APFC PANEL"
+    },
+    {
+      "text": "core_product_name: tank | acronymed_core_product_name: tank (CBD) | type_or_class: CBD",
+      "raw_product_name": "TANK(CBD)"
+    },
+    {
+      "text": "core_product_name: site fabricated column | acronymed_core_product_name: las (level alarm system) column",
+      "raw_product_name": "COLUMN-LAS SITE FABRICATED"
+    },
+    {
+      "text": "core_product_name: component | acronymed_core_product_name: ff (foundation fieldbus) component | type_or_class: Foundation Fieldbus",
+      "raw_product_name": "FF( FOUNDATION FIELDBUS) COMPONENTS"
+    },
+    {
+      "text": "core_product_name: supervisory control and data acquisition system | acronymed_core_product_name: SCADA SYSTEMS",
+      "raw_product_name": "SCADA SYSTEMS"
+    },
+    {
+      "text": "core_product_name: system panel",
+      "raw_product_name": "SYSTEM PANELS"
+    },
+    {
+      "text": "core_product_name: substation automation system | acronymed_core_product_name: sas system",
+      "raw_product_name": "SAS System"
+    },
+    {
+      "text": "core_product_name: system package | acronymed_core_product_name: h v system package",
+      "raw_product_name": "H V SYSTEM PACKAGE"
+    },
+    {
+      "text": "core_product_name: tank | acronymed_core_product_name: tank (IBD) | type_or_class: IBD (Inlet Buffer Drum)",
+      "raw_product_name": "TANK(IBD)"
+    },
+    {
+      "text": "core_product_name: weather monitoring system | acronymed_core_product_name: wms (weather monitoring system)",
+      "raw_product_name": "Weather Monitoring System (WMS)"
+    },
+    {
+      "text": "core_product_name: central processing unit | acronymed_core_product_name: cpu unit",
+      "raw_product_name": "CPU UNITS"
+    },
+    {
+      "text": "core_product_name: control panel | acronymed_core_product_name: control panel flp (flameproof) | protection_features: Flameproof",
+      "raw_product_name": "CONTROL PANEL FLP"
+    },
+    {
+      "text": "core_product_name: control panel instrument | acronymed_core_product_name: paga (public address and general alarm) control panel instrument",
+      "raw_product_name": "PAGA CONTROL PANEL INSTRUMENT"
+    },
+    {
+      "text": "core_product_name: input/output converter | acronymed_core_product_name: i/p converter",
+      "raw_product_name": "I/P CONVERTERS"
+    },
+    {
+      "text": "core_product_name: input convertor | acronymed_core_product_name: i/p convertor",
+      "raw_product_name": "I/P CONVERTOR"
+    },
+    {
+      "text": "core_product_name: addressable auto fire detection system | acronymed_core_product_name: afds (addressable auto fire detection system)",
+      "raw_product_name": "ADDRESSABLE AUTO FIRE DETECTION SYSTEM (AFDS)"
+    },
+    {
+      "text": "core_product_name: auxiliary column | acronymed_core_product_name: aux. column",
+      "raw_product_name": "AUX. COLUMN"
+    },
+    {
+      "text": "core_product_name: instrument panel",
+      "raw_product_name": "INSTRUMENT PANEL"
+    },
+    {
+      "text": "core_product_name: lt (low tension) control panel | acronymed_core_product_name: vfd (variable frequency drive) control panel | type_or_class: VFD (Variable Frequency Drive)",
+      "raw_product_name": "LT VFD Control Panel"
+    },
+    {
+      "text": "core_product_name: management system",
+      "raw_product_name": "TANK FARM MANAGEMENT SYSTEM"
+    },
+    {
+      "text": "core_product_name: cathodic protection system | acronymed_core_product_name: cp system",
+      "raw_product_name": "CP SYSTEM"
+    },
+    {
+      "text": "core_product_name: public address system | acronymed_core_product_name: pa system",
+      "raw_product_name": "PA SYSTEM"
+    },
+    {
+      "text": "core_product_name: technological control system",
+      "raw_product_name": "TECHNOLOGICAL CONTROL SYSTEM"
+    },
+    {
+      "text": "core_product_name: inside panel | acronymed_core_product_name: mcb (miniature circuit breaker) panel | type_or_class: Flush type only",
+      "raw_product_name": "MCB Inside Panels (Flush type only)"
+    },
+    {
+      "text": "core_product_name: biochemical oxygen demand analyzer | acronymed_core_product_name: bod analyzer",
+      "raw_product_name": "BOD ANALYZER"
+    }
+  ]
+}

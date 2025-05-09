@@ -1,0 +1,138 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Epoxy Resin - non FIM Items Providing and applying approved EPOXY RESIN (prepared as per manufacturer's recommendation) for bonding of fresh",
+      "core_product_name": "epoxy resin",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: non FIM, preparation: as per manufacturer's recommendation, application: bonding of fresh",
+      "quantity": "10.0",
+      "unit": "kg"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Dismantling Of steel works Dismantling structural steel already erected by others including provision of adequate temporary supports,",
+      "core_product_name": "structural steel dismantling",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: already erected by others, feature: provision of adequate temporary supports",
+      "quantity": "0.5",
+      "unit": "mt"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      630,
+      639
+    ],
+    "original_rows": [
+      {
+        "0": 631,
+        "1": 0,
+        "2": "01CS.14.1",
+        "3": "Epoxy Resin - non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 632,
+        "1": 0,
+        "2": "01CS.14.1.1",
+        "3": "Providing and applying approved EPOXY RESIN (prepared as per manufacturer's recommendation) for bonding of fresh",
+        "4": 10.0,
+        "5": "kg",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 633,
+        "1": 0,
+        "2": "01CS.18",
+        "3": "Mechanical works",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 634,
+        "1": 0,
+        "2": "01CS.18.9",
+        "3": "Dismantling Of steel works",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 635,
+        "1": 0,
+        "2": "01CS.18.9.1",
+        "3": "Dismantling structural steel already erected by others including provision of adequate temporary supports,",
+        "4": 0.5,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 636,
+        "1": 0,
+        "2": "01CS.22",
+        "3": "TESTING, REPAIR & REHABILITATION OF STRUCTURE",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 637,
+        "1": 0,
+        "2": "01CS.22.1",
+        "3": "Non-destructive/ Partial Destructive Testing - Non FIM Item",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 638,
+        "1": 0,
+        "2": "01CS.22.1.1",
+        "3": "Ultrasonic Pulse Velocity (UPV) measurement in accordance with IS:13311 Part-1 by measuring the time",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 639,
+        "1": 0,
+        "2": "01CS.22.1.2",
+        "3": "Measurement of Rebound Index in accordance with IS:13311 Part-2 for a location on concrete surface with",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 640,
+        "1": 0,
+        "2": "01CS.22.1.5",
+        "3": "\"Cutting and extracting undisturbed concrete core of 60 mm to 75 mm diameter preferably with its length finished after",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2231,
+    "completion_tokens": 740
+  }
+}

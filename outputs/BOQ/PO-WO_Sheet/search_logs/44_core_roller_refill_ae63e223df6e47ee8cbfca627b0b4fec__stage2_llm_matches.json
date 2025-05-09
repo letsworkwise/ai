@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: roller refill | size: width: 2 inch",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: roller screen",
+        "raw_product_name": "ROLLER SCREEN",
+        "list_of_product_ids": [
+          "400",
+          "974",
+          "013",
+          "540",
+          "158"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: crusher roller",
+        "raw_product_name": "CRUSHER ROLLER",
+        "list_of_product_ids": [
+          "7082",
+          "7409",
+          "10785",
+          "10789",
+          "10788",
+          "10790",
+          "10830",
+          "10831",
+          "9803",
+          "23279",
+          "24371",
+          "40133"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: gravity roller",
+        "raw_product_name": "CONVEYOR -ROLLER GRAVITY",
+        "list_of_product_ids": [
+          "611",
+          "352",
+          "809",
+          "718"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: dc system | size: battery capacity: 50AH, battery voltage: 220V, charger current: 25A | feature_or_specifications: battery bank: 1x100%, charger type: dual float cum boost battery charger, accessory: rack, accessory: 220V DC distribution board, accessory: interconnecting DC cable, accessory: battery isolation box, incoming feeder: 63 A DP MCCB (1 nos), outgoing feeder: 16A DP MCB (6 nos), outgoing feeder: 32A DP MCB (6 nos)",
+  "retrieval_results": [
+    {
+      "id": "variant-9996ed89-613c-525d-a389-7b03a807bfc5",
+      "score": 0.8632179,
+      "metadata": {
+        "text": "core_product_name: intelligent battery charger | acronymed_core_product_name: dcdb (direct current distribution board) | size_or_capacity: 24V DC (24 Volt Direct Current)",
+        "raw_product_name": "Intelligent Battery charger 24V DC DCDB",
+        "list_of_product_ids": "1,375,215,290",
+        "core_id": 1304.0
+      }
+    },
+    {
+      "id": "variant-9f75ab9f-58c3-5e7a-b315-dcac094725b9",
+      "score": 0.85282475,
+      "metadata": {
+        "text": "core_product_name: battery charger",
+        "raw_product_name": "BATTERY CHARGERS",
+        "list_of_product_ids": "6397,5568,10499,10517,10625,10846,11842,12051,12085,12083,12152,12302,12351,12542,12733,15519,15898,15517,16152,16179,16239,19100,17025,17768,19208,20444,20419,20466,20507,20769,35678,36164,36312",
+        "core_id": 184.0
+      }
+    },
+    {
+      "id": "variant-bdc7e6c8-8278-5302-b598-f9283af3f043",
+      "score": 0.8486266,
+      "metadata": {
+        "text": "core_product_name: regulated power supply unit | type_or_class: Direct Current (DC)",
+        "raw_product_name": "REGULATED DC POWER SUPPLY UNIT",
+        "list_of_product_ids": "1,383,315,284",
+        "core_id": 1889.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.8486118,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-81436a4b-3141-5607-a7c1-37ad5b5c930d",
+      "score": 0.8467133,
+      "metadata": {
+        "text": "core_product_name: battery",
+        "raw_product_name": "BATTERY",
+        "list_of_product_ids": "17766,17749,18656,18679,18678,18677,36615",
+        "core_id": 183.0
+      }
+    },
+    {
+      "id": "variant-5a73e69c-15f9-5a05-bb58-ca64903b361a",
+      "score": 0.84611714,
+      "metadata": {
+        "text": "core_product_name: panel mounted power supply | size_or_capacity: 24 V DC (volts direct current)",
+        "raw_product_name": "PANEL MOUNTED 24 V DC POWER SUPPLY",
+        "list_of_product_ids": "215,712,156,927,440",
+        "core_id": 1635.0
+      }
+    },
+    {
+      "id": "variant-738cd5f2-c22c-5ccb-9803-2b7dfbc4d751",
+      "score": 0.845977,
+      "metadata": {
+        "text": "core_product_name: battery bank",
+        "raw_product_name": "Battery Bank",
+        "list_of_product_ids": "7505,7180,16186,16181,17028,17772,18420",
+        "core_id": 264.0
+      }
+    },
+    {
+      "id": "variant-73d9ba9c-65e5-5398-850b-7196101d3b59",
+      "score": 0.8454798,
+      "metadata": {
+        "text": "core_product_name: intelligent battery charger | size_or_capacity: 24V DC (24 Volt Direct Current) | type_or_class: BHMS",
+        "raw_product_name": "Intelligent Battery charger 24V DC BHMS",
+        "list_of_product_ids": "1,375,115,291",
+        "core_id": 1304.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.84547627,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-a0cc804f-786e-5e0d-9873-48678c41c829",
+      "score": 0.8450012,
+      "metadata": {
+        "text": "core_product_name: charge controller",
+        "raw_product_name": "CHARGE CONTROLLER",
+        "list_of_product_ids": "138,141,486,714,865",
+        "core_id": 337.0
+      }
+    },
+    {
+      "id": "variant-52d62d81-7e27-5380-9910-9f2a47ce6302",
+      "score": 0.8430679,
+      "metadata": {
+        "text": "core_product_name: electrical rack",
+        "raw_product_name": "ELECTRICAL RACK",
+        "list_of_product_ids": "36911,24771,24772,33475,33497,33498,33502,33503,33682",
+        "core_id": 708.0
+      }
+    },
+    {
+      "id": "variant-c2ce30a2-5af4-5288-a342-7c5519d90a13",
+      "score": 0.8417052,
+      "metadata": {
+        "text": "core_product_name: bulk power supply",
+        "raw_product_name": "BULK POWER SUPPLY",
+        "list_of_product_ids": "7,561,723,518,220",
+        "core_id": 254.0
+      }
+    },
+    {
+      "id": "variant-48cfead3-0cd8-53ed-aef5-38ff9160c78c",
+      "score": 0.84150106,
+      "metadata": {
+        "text": "core_product_name: automotive battery",
+        "raw_product_name": "AUTOMOTIVE BATTERIES",
+        "list_of_product_ids": "194,851,948,127,927",
+        "core_id": 145.0
+      }
+    },
+    {
+      "id": "variant-95f74893-d69d-504d-9c31-33cbdcb88ed4",
+      "score": 0.8414974,
+      "metadata": {
+        "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+        "raw_product_name": "DCDB",
+        "list_of_product_ids": "15387,13587,14607,14780,19662,21388,36160",
+        "core_id": 559.0
+      }
+    },
+    {
+      "id": "variant-272261cc-0ac7-5e62-bdc4-b8b3ba555a0a",
+      "score": 0.84144425,
+      "metadata": {
+        "text": "core_product_name: power cable",
+        "raw_product_name": "POWER CABLE",
+        "list_of_product_ids": "13440,14645,15813,29442,29447,29448,24045,23896,36583,36611,38139",
+        "core_id": 3.0
+      }
+    },
+    {
+      "id": "variant-41a6c6d9-ef4d-520f-b9f3-af2822f8dcef",
+      "score": 0.8412861,
+      "metadata": {
+        "text": "core_product_name: power supply",
+        "raw_product_name": "BUIL POWER SUPPLY",
+        "list_of_product_ids": "5,937,676,612,114",
+        "core_id": 250.0
+      }
+    },
+    {
+      "id": "variant-c03e0ba5-aa70-53fc-9eb3-267f46d459cb",
+      "score": 0.8402866,
+      "metadata": {
+        "text": "core_product_name: cathodic protection power supply module",
+        "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+        "list_of_product_ids": "6413,5583,8417,12209",
+        "core_id": 315.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.84002244,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.8399015,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    },
+    {
+      "id": "variant-eac04853-0cd4-54f1-a18f-72d0534f33b6",
+      "score": 0.8398658,
+      "metadata": {
+        "text": "core_product_name: electrical converter",
+        "raw_product_name": "ELECTRICAL CONVERTER",
+        "list_of_product_ids": "20850,20849,27075,20848",
+        "core_id": 706.0
+      }
+    },
+    {
+      "id": "variant-bb96db43-a603-5b08-b082-1a787ab9db3c",
+      "score": 0.8393353,
+      "metadata": {
+        "text": "core_product_name: conduit accessory",
+        "raw_product_name": "CONDUIT ACCESSORIES",
+        "list_of_product_ids": "20550,20514,20591,20632,20686,20744",
+        "core_id": 439.0
+      }
+    },
+    {
+      "id": "variant-ae867c34-870c-5fb2-9e21-88a49123dfbc",
+      "score": 0.83912855,
+      "metadata": {
+        "text": "core_product_name: electric block",
+        "raw_product_name": "ELECTRIC BLOCK",
+        "list_of_product_ids": "196,271,962,627,101",
+        "core_id": 682.0
+      }
+    },
+    {
+      "id": "variant-8eacc00b-ac12-5620-9ec9-24342650e47a",
+      "score": 0.8384054,
+      "metadata": {
+        "text": "core_product_name: electrical component | accessories_or_attachments: Accessories",
+        "raw_product_name": "ELECTRICAL COMPONENTS & ACCESSORIES",
+        "list_of_product_ids": "222,862,228,728,574",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-3d2c5e9d-79ab-553c-a008-b82b69a9551b",
+      "score": 0.8380875,
+      "metadata": {
+        "text": "core_product_name: capacitor bank",
+        "raw_product_name": "CAPACITOR BANK",
+        "list_of_product_ids": "7118,7445,11170,10847,12360",
+        "core_id": 293.0
+      }
+    },
+    {
+      "id": "variant-74d303aa-2799-5e8d-8b8a-412a8da4a4f2",
+      "score": 0.8377636,
+      "metadata": {
+        "text": "core_product_name: electrical spare",
+        "raw_product_name": "ELECTRICAL SPARES",
+        "list_of_product_ids": "207,782,077,728,462",
+        "core_id": 710.0
+      }
+    },
+    {
+      "id": "variant-3eeb4429-0c98-5866-91ea-e859fefb8e31",
+      "score": 0.8377347,
+      "metadata": {
+        "text": "core_product_name: rectifier panel",
+        "raw_product_name": "RECTIFIER PANEL",
+        "list_of_product_ids": "171,741,717,527,078",
+        "core_id": 1877.0
+      }
+    },
+    {
+      "id": "variant-422cbdb7-baa2-5d7a-a646-890becaf5d56",
+      "score": 0.83745074,
+      "metadata": {
+        "text": "core_product_name: hydraulic power pack",
+        "raw_product_name": "HYDRAULIC POWER PACK",
+        "list_of_product_ids": "14401,14575,19255,19584,21861,23530",
+        "core_id": 1198.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.83688,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-745186da-8439-5835-b0bb-45dee6aa1cbe",
+      "score": 0.83687943,
+      "metadata": {
+        "text": "core_product_name: differential pressure transmitter",
+        "raw_product_name": "DIFFERENTIAL PRESSURE TRANSMITTER",
+        "list_of_product_ids": "10006,10015,10039,15083,18209,19852,36178,36326",
+        "core_id": 589.0
+      }
+    },
+    {
+      "id": "variant-4ee544d6-0f39-5064-8d24-8c48472ff71a",
+      "score": 0.8368087,
+      "metadata": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": "5954,6782,12132,14671,14679,18191,20174,36159",
+        "core_id": 2156.0
+      }
+    }
+  ]
+}

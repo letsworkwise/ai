@@ -1,0 +1,68 @@
+{
+  "query": "core_product_name: street lighting panel | feature_or_specifications: voltage: 415 v ac (alternating current), phases: 3ph (three phase), bus: 4w (four wire), incomer: one 63a 4p mcb (miniature circuit breaker), 63a tp (triple pole) contactor, synchronous timer, auto/manual selector switch, photo electric switch, by pass switch for timer/photo switch, push buttons, indicating lamps, outgoing: 20a 6 nos. 240v ac (dp (double pole) type) rcbo (residual current circuit breaker with overcurrent protection), enclosure: sheet steel, light sensor: enclosed in separate weather proof enclosure, degree of protection: ip 55",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: hazardous area lighting panel | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF - HAZARDOUS AREA LIGHTING PANEL",
+        "list_of_product_ids": [
+          "19706",
+          "19705",
+          "19702",
+          "19700",
+          "19695",
+          "19670",
+          "27175",
+          "35892",
+          "35945",
+          "40178",
+          "40228"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: sub lighting distribution board",
+        "raw_product_name": "SUB LIGHTING DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "19061",
+          "19062",
+          "19056",
+          "36641"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting and power distribution panel",
+        "raw_product_name": "Lighting & Power Distribution Panel",
+        "list_of_product_ids": [
+          "18723",
+          "18718",
+          "18735",
+          "18734",
+          "18733",
+          "19012",
+          "18997",
+          "18728",
+          "19000",
+          "38293",
+          "35861",
+          "38156"
+        ]
+      }
+    }
+  ]
+}

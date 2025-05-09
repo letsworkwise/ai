@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: digital multimeter | feature_or_specifications: make: FLUKE or YAKOGAWA",
+  "retrieval_results": [
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.8590026,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    },
+    {
+      "id": "variant-18909d01-ade7-5b6d-8f15-e409a6ab83ac",
+      "score": 0.857376,
+      "metadata": {
+        "text": "core_product_name: digital indicator",
+        "raw_product_name": "DIGITAL INDICATOR",
+        "list_of_product_ids": "1,365,123,180",
+        "core_id": 590.0
+      }
+    },
+    {
+      "id": "variant-bd421ff8-d26f-5bdf-9169-191ddfd379a4",
+      "score": 0.8560392,
+      "metadata": {
+        "text": "core_product_name: digital switch | operating_conditions: Temperature | mounting_or_installation: Panel mounted",
+        "raw_product_name": "DIGITAL TEMP SWITCH PANEL MOUNTED TYPE",
+        "list_of_product_ids": "164,041,650,716,513",
+        "core_id": 592.0
+      }
+    },
+    {
+      "id": "variant-ce3340f0-4981-5b69-907c-467bbb0fd41b",
+      "score": 0.8551748,
+      "metadata": {
+        "text": "core_product_name: electrical instrument | type_or_class: Voltmeter",
+        "raw_product_name": "ELECTRICAL INSTRUMENTS (VOLTMETER)",
+        "list_of_product_ids": "164,211,652,016,522",
+        "core_id": 707.0
+      }
+    },
+    {
+      "id": "variant-98ffb5b2-ba7e-59ba-975e-6977c0b87585",
+      "score": 0.854445,
+      "metadata": {
+        "text": "core_product_name: analogue meter",
+        "raw_product_name": "ANALOGUE METER",
+        "list_of_product_ids": "181,191,811,818,590",
+        "core_id": 104.0
+      }
+    },
+    {
+      "id": "variant-0eb5d02c-397d-58fc-80d8-1ab2e3a705cc",
+      "score": 0.8544177,
+      "metadata": {
+        "text": "core_product_name: test and measuring equipment",
+        "raw_product_name": "Test & Measuring Equipment",
+        "list_of_product_ids": "1,401,515,286",
+        "core_id": 2303.0
+      }
+    },
+    {
+      "id": "variant-7b84b9d7-6c76-5b4d-9aaf-d57ecafe4b91",
+      "score": 0.8541014,
+      "metadata": {
+        "text": "core_product_name: electrical-instrumentation work",
+        "raw_product_name": "ELECTRICAL-INSTRUMENTATION WORKS",
+        "list_of_product_ids": "36860,36857,36888,36892",
+        "core_id": 711.0
+      }
+    },
+    {
+      "id": "variant-a0035dd1-f740-526c-9e6b-edd8cceff95c",
+      "score": 0.85401726,
+      "metadata": {
+        "text": "core_product_name: flow meter",
+        "raw_product_name": "FLOW METER",
+        "list_of_product_ids": "9516,9556,20013,20023,20018,36586",
+        "core_id": 938.0
+      }
+    },
+    {
+      "id": "variant-d337814d-4caf-55de-a5cc-ad63eedc8308",
+      "score": 0.8540004,
+      "metadata": {
+        "text": "core_product_name: instrument and meter",
+        "raw_product_name": "INSTRUMENT & METER",
+        "list_of_product_ids": "20461,20502,20648,20115",
+        "core_id": 1248.0
+      }
+    },
+    {
+      "id": "variant-d2eab6c2-d22b-57e1-8719-4f726583379e",
+      "score": 0.85303533,
+      "metadata": {
+        "text": "core_product_name: magnetic level instrument",
+        "raw_product_name": "MAGNETIC LEVEL INSTRUMENTS",
+        "list_of_product_ids": "6583,5753,11811,11274,10573,10581,10196,10669,8393,11949,11948,12069,12219,12239,12778,12834,12833,12842,18396,22199",
+        "core_id": 1422.0
+      }
+    },
+    {
+      "id": "variant-035e5d74-4fc0-5854-ace0-4826f9b36c25",
+      "score": 0.85261744,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+        "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+        "list_of_product_ids": "19885,19880,24078,23930,27348",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-e015dccb-5f49-5d0f-aa32-a40814dff6c3",
+      "score": 0.8522645,
+      "metadata": {
+        "text": "core_product_name: millivolt meter",
+        "raw_product_name": "MILLIVOLT METER",
+        "list_of_product_ids": "219,972,203,128,609",
+        "core_id": 1477.0
+      }
+    },
+    {
+      "id": "variant-89a2347f-1a82-5551-9f1b-80bf9155df99",
+      "score": 0.85225296,
+      "metadata": {
+        "text": "core_product_name: magnetic flow meter",
+        "raw_product_name": "MAGNETIC FLOW METERS",
+        "list_of_product_ids": "5741,6571,11580,11586,11691,10064,11682,11808,10094,10124,10108,10571,11707,11872,12210,13112,13385,13396,18228,18264,18885,18931,32952,36224,36376",
+        "core_id": 1421.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.8521084,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-89a5c131-f178-5da7-9060-dd340393808b",
+      "score": 0.8517143,
+      "metadata": {
+        "text": "core_product_name: target flowmeter",
+        "raw_product_name": "TARGET FLOWMETERS",
+        "list_of_product_ids": "65,755,745",
+        "core_id": 2207.0
+      }
+    },
+    {
+      "id": "variant-20b3895d-9b45-5d06-b9e3-a64122dd885d",
+      "score": 0.8513113,
+      "metadata": {
+        "text": "core_product_name: digital storage oscilloscope",
+        "raw_product_name": "DIGITAL STORAGE OSCILLOSCOPE",
+        "list_of_product_ids": "1,543,418,782",
+        "core_id": 591.0
+      }
+    },
+    {
+      "id": "variant-4631b049-0640-5618-9496-c0fe6ae42671",
+      "score": 0.8512817,
+      "metadata": {
+        "text": "core_product_name: electrical instrument | type_or_class: Ammeter",
+        "raw_product_name": "ELECTRICAL INSTRUMENTS (AMMETER)",
+        "list_of_product_ids": "16420,16519,16523,16618",
+        "core_id": 707.0
+      }
+    },
+    {
+      "id": "variant-700fd141-780c-57aa-8e1f-36a01481b5bb",
+      "score": 0.8508122,
+      "metadata": {
+        "text": "core_product_name: electronic marker",
+        "raw_product_name": "ELECTRONIC MARKER",
+        "list_of_product_ids": "13904",
+        "core_id": 727.0
+      }
+    },
+    {
+      "id": "variant-23ddd03b-4ec1-5137-adee-501343ea8d64",
+      "score": 0.85078025,
+      "metadata": {
+        "text": "core_product_name: multi-combination meter",
+        "raw_product_name": "MULTI-COMBINATION METER",
+        "list_of_product_ids": "137,821,494,616,620",
+        "core_id": 1514.0
+      }
+    },
+    {
+      "id": "variant-c4e119cc-aafe-5001-a6b3-3284be36811b",
+      "score": 0.85017484,
+      "metadata": {
+        "text": "core_product_name: turnkey instrumentation",
+        "raw_product_name": "TURNKEY INSTRUMENTATION",
+        "list_of_product_ids": "6627,5797,10074,8347,30050,29691,27064,30481,38274,32771,38190,37692,37693,37700,37702,37706,37710,34960,36098,36246,36399",
+        "core_id": 2299.0
+      }
+    },
+    {
+      "id": "variant-a947ab69-11c3-5478-b1b6-fa5978c60e03",
+      "score": 0.850067,
+      "metadata": {
+        "text": "core_product_name: flushing apparatus",
+        "raw_product_name": "FLUSHING APPARATUS",
+        "list_of_product_ids": "143,601,444,714,482",
+        "core_id": 958.0
+      }
+    },
+    {
+      "id": "variant-c4429bf1-1aff-5068-a5e0-723c1197ab5f",
+      "score": 0.84902817,
+      "metadata": {
+        "text": "core_product_name: drum level instrument | type_or_class: Electronic",
+        "raw_product_name": "DRUM LEVEL INSTRUMENTS (ELECTRONIC)",
+        "list_of_product_ids": "5750,6580,10947,10950,11314,35427",
+        "core_id": 629.0
+      }
+    },
+    {
+      "id": "variant-2f824904-7a85-5dc5-b4d5-cb5597db0ca7",
+      "score": 0.84802675,
+      "metadata": {
+        "text": "core_product_name: indicating meter",
+        "raw_product_name": "INDICATING METERS",
+        "list_of_product_ids": "13682,14947,19149,19123,19142",
+        "core_id": 1230.0
+      }
+    },
+    {
+      "id": "variant-a32d8296-ea3c-51d4-95de-73a3824167db",
+      "score": 0.8475517,
+      "metadata": {
+        "text": "core_product_name: measurement system",
+        "raw_product_name": "MEASUREMENT SYSTEM",
+        "list_of_product_ids": "188,511,884,918,973",
+        "core_id": 1451.0
+      }
+    },
+    {
+      "id": "variant-a34f1f1e-82d9-5e87-b46b-8d2eb35aca6c",
+      "score": 0.84752876,
+      "metadata": {
+        "text": "core_product_name: tachometer",
+        "raw_product_name": "TACHOMETER",
+        "list_of_product_ids": "164,341,646,822,032",
+        "core_id": 2208.0
+      }
+    },
+    {
+      "id": "variant-ceb0a573-d64e-5eb7-a450-39581bf427ab",
+      "score": 0.8474472,
+      "metadata": {
+        "text": "core_product_name: electronic counter",
+        "raw_product_name": "ELECTRONIC COUNTER",
+        "list_of_product_ids": "219,702,196,827,076",
+        "core_id": 726.0
+      }
+    },
+    {
+      "id": "variant-12f8cb87-d7ae-56b3-a0ce-f7aa3df05f4f",
+      "score": 0.8473214,
+      "metadata": {
+        "text": "core_product_name: plummer block",
+        "raw_product_name": "Plummer Block",
+        "list_of_product_ids": "7,049,737,610,812",
+        "core_id": 1835.0
+      }
+    },
+    {
+      "id": "variant-8cab609d-81bc-5515-ab6b-14bc64e36228",
+      "score": 0.8472373,
+      "metadata": {
+        "text": "core_product_name: liquid metering system | type_or_class: Turbine",
+        "raw_product_name": "LIQUID METERING SYSTEM (TURBINE)",
+        "list_of_product_ids": "5786,6616,11754,11816,11826,11831,10123,11748,11752,11871,12211,16989,38504,38471,38476,38484,38494",
+        "core_id": 1372.0
+      }
+    },
+    {
+      "id": "variant-7e796f6f-0d17-514d-aca4-a14dcdb48ba7",
+      "score": 0.84695727,
+      "metadata": {
+        "text": "core_product_name: fluid power equipment",
+        "raw_product_name": "FLUID POWER EQUIPMENT",
+        "list_of_product_ids": "1,364,936,946",
+        "core_id": 949.0
+      }
+    },
+    {
+      "id": "variant-e989a7c2-db03-5440-a92d-22d0ec0f0d2c",
+      "score": 0.8469448,
+      "metadata": {
+        "text": "core_product_name: float operated level instrument | accessories_or_attachments: tank",
+        "raw_product_name": "TANK LEVEL INSTRUMENTS (FLOAT OPERATED)",
+        "list_of_product_ids": "6582,5752,11686,11695,11711,12356,13221,21059,38277",
+        "core_id": 2203.0
+      }
+    }
+  ]
+}

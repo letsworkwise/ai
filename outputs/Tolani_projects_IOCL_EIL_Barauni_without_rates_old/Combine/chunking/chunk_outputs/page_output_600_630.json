@@ -1,0 +1,488 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68- 0009) > CLASS 5.0  at all depths -Non FIM Items",
+      "full_product_description": "Providing and laying BRICK MASONRY WITH BRICKS OF CLASS 5.0 in cement mortar 1:6 (1 Cement : 6 Sand) in one",
+      "core_product_name": "brick masonry",
+      "size": "",
+      "feature_or_specifications": "brick class: 5.0, mortar: cement mortar 1:6 (1 cement : 6 sand), feature: providing and laying",
+      "acronymed_core_product_name": "",
+      "quantity": "0.5",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68- 0009) > CLASS 5.0  at all depths -Non FIM Items",
+      "full_product_description": "Providing and laying HALF BRICK MASONRY with bricks of CLASS 5.0 in cement mortar 1:4 (1 Cement : 4 Sand)in any",
+      "core_product_name": "half brick masonry",
+      "size": "",
+      "feature_or_specifications": "brick class: 5.0, mortar: cement mortar 1:4 (1 cement : 4 sand), feature: providing and laying",
+      "acronymed_core_product_name": "",
+      "quantity": "5.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Demolishing BRICKWORK (taking all necessary safety precautions) for all depths below plinth level including supply",
+      "core_product_name": "brickwork",
+      "size": "depth: below plinth level",
+      "feature_or_specifications": "feature: demolishing, feature: taking all necessary safety precautions, feature: including supply",
+      "acronymed_core_product_name": "",
+      "quantity": "30.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Demolishing BRICKWORK (taking all necessary safety precautions) for all heights above plinth level including",
+      "core_product_name": "brickwork",
+      "size": "height: above plinth level",
+      "feature_or_specifications": "feature: demolishing, feature: taking all necessary safety precautions, feature: including",
+      "acronymed_core_product_name": "",
+      "quantity": "30.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Chipping of RCC WORK (taking all necessary safety precautions) by CHISELLING, upto & inclusive of 25mm",
+      "core_product_name": "rcc work",
+      "size": "thickness: upto & inclusive of 25mm",
+      "feature_or_specifications": "feature: chipping, feature: taking all necessary safety precautions, method: chiselling",
+      "acronymed_core_product_name": "",
+      "quantity": "0.5",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Chipping of RCC WORK (taking all necessary safety precautions) by CHISELLING, beyond 25mm and upto &",
+      "core_product_name": "rcc work",
+      "size": "thickness: beyond 25mm and upto &",
+      "feature_or_specifications": "feature: chipping, feature: taking all necessary safety precautions, method: chiselling",
+      "acronymed_core_product_name": "",
+      "quantity": "0.5",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Making cut-outs in RCC slab/ wall upto a thickness of 400mm (taking all necessary safety precautions) by",
+      "core_product_name": "rcc slab or wall",
+      "size": "thickness: upto 400mm",
+      "feature_or_specifications": "feature: making cut-outs, feature: taking all necessary safety precautions",
+      "acronymed_core_product_name": "",
+      "quantity": "0.5",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Cutting/ Dismantling RCC work in pavement, slabs, beams, columns, etc upto a depth of 450 mm by using vibration-less",
+      "core_product_name": "rcc work",
+      "size": "depth: upto 450 mm",
+      "feature_or_specifications": "feature: cutting, feature: dismantling, feature: using vibration-less",
+      "acronymed_core_product_name": "",
+      "quantity": "0.5",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Cutting/ Dismantling of RCC block foundations, raft foundations, pile caps, mass concrete, equipment",
+      "core_product_name": "rcc block foundations, raft foundations, pile caps, mass concrete, equipment",
+      "size": "",
+      "feature_or_specifications": "feature: cutting, feature: dismantling",
+      "acronymed_core_product_name": "",
+      "quantity": "0.5",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Demolishing RCC WORK (taking all necessary safety precautions) for all depths below plinth level including supply",
+      "core_product_name": "rcc work",
+      "size": "depth: below plinth level",
+      "feature_or_specifications": "feature: demolishing, feature: taking all necessary safety precautions, feature: including supply",
+      "acronymed_core_product_name": "",
+      "quantity": "450.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Demolishing RCC WORK (taking all necessary safety precautions) for all heights above plinth level including",
+      "core_product_name": "rcc work",
+      "size": "height: above plinth level",
+      "feature_or_specifications": "feature: demolishing, feature: taking all necessary safety precautions, feature: including",
+      "acronymed_core_product_name": "",
+      "quantity": "50.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Demolishing PLAIN CEMENT CONCRETE work (taking all necessary safety precautions) for all depths below plinth",
+      "core_product_name": "plain cement concrete work",
+      "size": "depth: below plinth",
+      "feature_or_specifications": "feature: demolishing, feature: taking all necessary safety precautions",
+      "acronymed_core_product_name": "",
+      "quantity": "100.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Demolishing PLAIN CEMENT CONCRETE work (taking all necessary safety precautions) for all heights above plinth",
+      "core_product_name": "plain cement concrete work",
+      "size": "height: above plinth",
+      "feature_or_specifications": "feature: demolishing, feature: taking all necessary safety precautions",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Dismantling bolted/rivetted/welded STRUCTURAL STEEL WORK of all descriptions (taking all necessary safety",
+      "core_product_name": "structural steel work",
+      "size": "",
+      "feature_or_specifications": "feature: dismantling, feature: bolted, feature: rivetted, feature: welded, feature: taking all necessary safety",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "MT"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Dismantling GI/asbestos/translucent sheets, ridges, gutters etc. (taking all necessary safety precautions) in roofings and",
+      "core_product_name": "gi sheets",
+      "size": "",
+      "feature_or_specifications": "feature: dismantling, material: gi, material: asbestos, material: translucent, feature: ridges, feature: gutters, feature: taking all necessary safety precautions, application: roofings",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Supplying and filling approved SAND of specified quality under floors, in foundations, plinths, tank foundations etc. for",
+      "core_product_name": "sand",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, feature: filling, quality: approved, application: under floors, application: in foundations, application: plinths, application: tank foundations",
+      "acronymed_core_product_name": "",
+      "quantity": "4200.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Supplying and mixing of approved brand of BI-POLAR CONCRETE PENETRATING CORROSION INHIBITING",
+      "core_product_name": "bi-polar concrete penetrating corrosion inhibiting admixture",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, feature: mixing, brand: approved",
+      "acronymed_core_product_name": "",
+      "quantity": "7850.0",
+      "unit": "kg"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      600,
+      629
+    ],
+    "original_rows": [
+      {
+        "0": 601,
+        "1": 0,
+        "2": "01CS.7.9.4",
+        "3": "Providing and laying BRICK MASONRY WITH BRICKS OF CLASS 5.0 in cement mortar 1:6 (1 Cement : 6 Sand) in one",
+        "4": 0.5,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 602,
+        "1": 0,
+        "2": "01CS.7.11",
+        "3": "HALF BRICK MASONARY  with bricks of CLASS 5.0-Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 603,
+        "1": 0,
+        "2": "01CS.7.11.1",
+        "3": "Providing and laying HALF BRICK MASONRY with bricks of CLASS 5.0 in cement mortar 1:4 (1 Cement : 4 Sand)in any",
+        "4": 5.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 604,
+        "1": 0,
+        "2": "01CS.10",
+        "3": "DEMOLISHING AND DISMANTLING (REFER SPEC NO. 6- 68-0012)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 605,
+        "1": 0,
+        "2": "01CS.10.1",
+        "3": "Brickwork - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 606,
+        "1": 0,
+        "2": "01CS.10.1.1",
+        "3": "Demolishing BRICKWORK (taking all necessary safety precautions) for all depths below plinth level including supply",
+        "4": 30.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 607,
+        "1": 0,
+        "2": "01CS.10.1.2",
+        "3": "Demolishing BRICKWORK (taking all necessary safety precautions) for all heights above plinth level including",
+        "4": 30.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 608,
+        "1": 0,
+        "2": "01CS.10.2",
+        "3": "RCC - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 609,
+        "1": 0,
+        "2": "01CS.10.2.3",
+        "3": "Chipping of RCC WORK (taking all necessary safety precautions) by CHISELLING, upto & inclusive of 25mm",
+        "4": 0.5,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 610,
+        "1": 0,
+        "2": "01CS.10.2.4",
+        "3": "Chipping of RCC WORK (taking all necessary safety precautions) by CHISELLING, beyond 25mm and upto &",
+        "4": 0.5,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 611,
+        "1": 0,
+        "2": "01CS.10.2.11",
+        "3": "Making cut-outs in RCC slab/ wall upto a thickness of 400mm (taking all necessary safety precautions) by",
+        "4": 0.5,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 612,
+        "1": 0,
+        "2": "01CS.10.2.12",
+        "3": "Cutting/ Dismantling RCC work in pavement, slabs, beams, columns, etc upto a depth of 450 mm by using vibration-less",
+        "4": 0.5,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 613,
+        "1": 0,
+        "2": "01CS.10.2.13",
+        "3": "Cutting/ Dismantling of RCC block foundations, raft foundations, pile caps, mass concrete, equipment",
+        "4": 0.5,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 614,
+        "1": 0,
+        "2": "01CS.10.2.21",
+        "3": "Demolishing RCC WORK (taking all necessary safety precautions) for all depths below plinth level including supply",
+        "4": 450.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 615,
+        "1": 0,
+        "2": "01CS.10.2.22",
+        "3": "Demolishing RCC WORK (taking all necessary safety precautions) for all heights above plinth level including",
+        "4": 50.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 616,
+        "1": 0,
+        "2": "01CS.10.4",
+        "3": "PCC _ Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 617,
+        "1": 0,
+        "2": "01CS.10.4.1",
+        "3": "Demolishing PLAIN CEMENT CONCRETE work (taking all necessary safety precautions) for all depths below plinth",
+        "4": 100.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 618,
+        "1": 0,
+        "2": "01CS.10.4.2",
+        "3": "Demolishing PLAIN CEMENT CONCRETE work (taking all necessary safety precautions) for all heights above plinth",
+        "4": 1.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 619,
+        "1": 0,
+        "2": "01CS.10.6",
+        "3": "Steelwork - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 620,
+        "1": 0,
+        "2": "01CS.10.6.1",
+        "3": "Dismantling bolted/rivetted/welded STRUCTURAL STEEL WORK of all descriptions (taking all necessary safety",
+        "4": 1.0,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 621,
+        "1": 0,
+        "2": "01CS.10.7",
+        "3": "AC / GI Sheets  - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 622,
+        "1": 0,
+        "2": "01CS.10.7.1",
+        "3": "Dismantling GI/asbestos/translucent sheets, ridges, gutters etc. (taking all necessary safety precautions) in roofings and",
+        "4": 1.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 623,
+        "1": 0,
+        "2": "01CS.11",
+        "3": "MISCELLANEOUS ITEMS (REFER SPECIFICATION NO. 6- 68-0013)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 624,
+        "1": 0,
+        "2": "01CS.11.6",
+        "3": "Sand Filling - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 625,
+        "1": 0,
+        "2": "01CS.11.6.1",
+        "3": "Supplying and filling approved SAND of specified quality under floors, in foundations, plinths, tank foundations etc. for",
+        "4": 4200.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 626,
+        "1": 0,
+        "2": "01CS.11.10",
+        "3": "BI-POLAR CONCRETE PENETRATING CORROSION INHIBITING ADMIXTURE",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 627,
+        "1": 0,
+        "2": "01CS.11.10.1",
+        "3": "Supplying and mixing of approved brand of BI-POLAR CONCRETE PENETRATING CORROSION INHIBITING",
+        "4": 7850.0,
+        "5": "kg",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 628,
+        "1": 0,
+        "2": "01CS.11.13",
+        "3": "Thermal Isolation Barrier at Tank bottom - Non-FIM Item",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 629,
+        "1": 0,
+        "2": "01CS.11.13.ME01",
+        "3": "Supplying, Providing and Laying appropriate coating on foundation concrete followed by laying of dry sand, suitable",
+        "4": 1000.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 630,
+        "1": 0,
+        "2": "01CS.14",
+        "3": "BONDING FRESH CONCRETE TO OLD CONCRETE BY EPOXY RESIN BONDING SYSTEM (REFER",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 3613,
+    "completion_tokens": 2641
+  }
+}

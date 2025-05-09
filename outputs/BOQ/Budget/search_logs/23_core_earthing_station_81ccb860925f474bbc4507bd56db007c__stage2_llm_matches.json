@@ -1,0 +1,63 @@
+{
+  "query": "core_product_name: earthing station | size: inspection chamber: 400(L)x400(W)x450(D)mm, thickness: 150 mm, CI pipe: 100 mm ID, pipe thickness: 13 mm, excavation: 400(W & L) | feature_or_specifications: inspection chamber: block work with CI(cast iron) cover/lid hinged to CI frame, watering funnel with wire mesh, salt, charcoal, M10 bolts & nuts, universal stainless steel clamps, standard: IS3043(indian standard 3043)-2018, NBC 2016(national building code 2016), excavation and back filling around the rod/pipe",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: fitting | material: Cast Iron (CI)",
+        "raw_product_name": "FITTINGS -CAST IRON (CI)",
+        "list_of_product_ids": [
+          "7618",
+          "7292",
+          "7881",
+          "15941",
+          "16290",
+          "16308",
+          "34586",
+          "35732",
+          "35733"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: casting | material: Cast Iron",
+        "raw_product_name": "CASTING -CAST IRON",
+        "list_of_product_ids": [
+          "21885",
+          "21883",
+          "24612",
+          "39753",
+          "39842",
+          "39868",
+          "39927",
+          "40032"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: access chamber",
+        "raw_product_name": "ACCESS CHAMBER",
+        "list_of_product_ids": [
+          "158",
+          "151",
+          "585",
+          "815",
+          "880"
+        ]
+      }
+    }
+  ]
+}

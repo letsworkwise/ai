@@ -1,0 +1,418 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS",
+      "full_product_description": "Supply of following FLP/Div.2 lighting fixtures complete with lamps, requisite FLP cable glands, plugs and necessary Type FLP-LED-1 Fixtures.",
+      "core_product_name": "flp lighting fixtures",
+      "size": "",
+      "feature_or_specifications": "type: Div.2, feature: complete with lamps, feature: requisite FLP cable glands, feature: plugs, type: FLP-LED-1",
+      "acronymed_core_product_name": "",
+      "quantity": "20.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS",
+      "full_product_description": "Supply and installation of Type-`A' clamps(for bracket mounted lighting fixtures) including bolt (MOC SS304) for",
+      "core_product_name": "clamp",
+      "size": "",
+      "feature_or_specifications": "type: A, mounting: bracket, bolt material: ss304(stainless steel 304)",
+      "acronymed_core_product_name": "",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS",
+      "full_product_description": "Supply and installation of Type-`B' clamps(for ceiling mounted lighting fixtures) including bolt (MOC SS304) for",
+      "core_product_name": "clamp",
+      "size": "",
+      "feature_or_specifications": "type: B, mounting: ceiling, bolt material: ss304(stainless steel 304)",
+      "acronymed_core_product_name": "",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > LIGHTING / POWER PANELS AND DISTRIBUTION BOARDS",
+      "full_product_description": "Supply, installation, connection, testing and commissioning of  flame proof weather proof lighting/power panels  (for gas 40 A, 4 pole incomer MCB isolator and ELCB and 12 Nos. outgoing  double pole  MCBs (upto 20 A).",
+      "core_product_name": "lighting/power panels",
+      "size": "incomer rating: 40 A, poles: 4, outgoing mcb quantity: 12, outgoing mcb rating: upto 20 A",
+      "feature_or_specifications": "feature: flame proof, feature: weather proof, feature: with MCB isolator and ELCB",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > WIRING",
+      "full_product_description": "Circuit wiring in hazardous areas using (sizes given below) copper conductor, XLPE insulated, FRLS outer sleeve 3 C x 2.5 sq. mm",
+      "core_product_name": "circuit wiring",
+      "size": "cable size: 3 C x 2.5 sq. mm",
+      "feature_or_specifications": "conductor: copper, insulation: XLPE, outer sleeve: FRLS, area: hazardous",
+      "acronymed_core_product_name": "",
+      "quantity": "500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > EARTH ELECTRODES",
+      "full_product_description": "Supply, installation, testing and commissioning of GI earth electrodes, complete with earth pit as per std. 7-51-0102 GI earth electrode as per std. 7-51-0102.",
+      "core_product_name": "gi earth electrode",
+      "size": "",
+      "feature_or_specifications": "material: gi(galvanized iron), standard: std. 7-51-0102, feature: complete with earth pit",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > EARTH STRIPS",
+      "full_product_description": "Supply, installation and connection of following GI earthing strip along the cable trenches or cable trays or fixing to walls 50 x 6 mm",
+      "core_product_name": "gi earthing strip",
+      "size": "strip size: 50 x 6 mm",
+      "feature_or_specifications": "material: gi(galvanized iron), installation: along cable trenches or cable trays or fixing to walls",
+      "acronymed_core_product_name": "",
+      "quantity": "300.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > EARTH STRIPS",
+      "full_product_description": "Supply, installation and connection of following GI earthing strip along the cable trenches or cable trays or fixing to walls 25 x 3 mm",
+      "core_product_name": "gi earthing strip",
+      "size": "strip size: 25 x 3 mm",
+      "feature_or_specifications": "material: gi(galvanized iron), installation: along cable trenches or cable trays or fixing to walls",
+      "acronymed_core_product_name": "",
+      "quantity": "100.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > EARTH STRIPS",
+      "full_product_description": "Supply, installation and connection of following GI earthing strip buried individually at a depth of 500 mm including 50 x 6 mm",
+      "core_product_name": "gi earthing strip",
+      "size": "strip size: 50 x 6 mm, burial depth: 500 mm",
+      "feature_or_specifications": "material: gi(galvanized iron), installation: buried individually",
+      "acronymed_core_product_name": "",
+      "quantity": "250.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "ELECTRICAL WORKS > EARTH STRIPS",
+      "full_product_description": "Supply, installation and connection of following GI earthing strip buried individually at a depth of 500 mm including 25 x 3 mm",
+      "core_product_name": "gi earthing strip",
+      "size": "strip size: 25 x 3 mm, burial depth: 500 mm",
+      "feature_or_specifications": "material: gi(galvanized iron), installation: buried individually",
+      "acronymed_core_product_name": "",
+      "quantity": "100.0",
+      "unit": "m"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      210,
+      239
+    ],
+    "original_rows": [
+      {
+        "0": 211,
+        "1": 0,
+        "2": "01EE.3030.20.520",
+        "3": "Type FLP-LED-1 Fixtures.",
+        "4": 20.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 212,
+        "1": 0,
+        "2": "01EE.3030.30",
+        "3": "Supply and installation of Type-`A' clamps(for bracket mounted lighting fixtures) including bolt (MOC SS304) for",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 213,
+        "1": 0,
+        "2": "01EE.3030.40",
+        "3": "Supply and installation of Type-`B' clamps(for ceiling mounted lighting fixtures) including bolt (MOC SS304) for",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 214,
+        "1": 0,
+        "2": "01EE.3090",
+        "3": "LIGHTING / POWER PANELS AND DISTRIBUTION BOARDS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 215,
+        "1": 0,
+        "2": "01EE.3090.10",
+        "3": "Supply, installation, connection, testing and commissioning of  flame proof weather proof lighting/power panels  (for gas",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 216,
+        "1": 0,
+        "2": "01EE.3090.10.50",
+        "3": "40 A, 4 pole incomer MCB isolator and ELCB and 12 Nos. outgoing  double pole  MCBs (upto 20 A).",
+        "4": 2.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 217,
+        "1": 0,
+        "2": "01EE.3100",
+        "3": "WIRING",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 218,
+        "1": 0,
+        "2": "01EE.3100.120",
+        "3": "Circuit wiring in hazardous areas using (sizes given below) copper conductor, XLPE insulated, FRLS outer sleeve",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 219,
+        "1": 0,
+        "2": "01EE.3100.120.10",
+        "3": "3 C x 2.5 sq. mm",
+        "4": 500.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 220,
+        "1": 0,
+        "2": "01EE.4020",
+        "3": "EARTH ELECTRODES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 221,
+        "1": 0,
+        "2": "01EE.4020.10",
+        "3": "Supply, installation, testing and commissioning of GI earth electrodes, complete with earth pit as per std. 7-51-0102",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 222,
+        "1": 0,
+        "2": "01EE.4020.10.10",
+        "3": "GI earth electrode as per std. 7-51-0102.",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 223,
+        "1": 0,
+        "2": "01EE.4030",
+        "3": "EARTH STRIPS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 224,
+        "1": 0,
+        "2": "01EE.4030.10",
+        "3": "Supply, installation and connection of following GI earthing strip along the cable trenches or cable trays or fixing to walls",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 225,
+        "1": 0,
+        "2": "01EE.4030.10.20",
+        "3": "50 x 6 mm",
+        "4": 300.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 226,
+        "1": 0,
+        "2": "01EE.4030.10.40",
+        "3": "25 x 3 mm",
+        "4": 100.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 227,
+        "1": 0,
+        "2": "01EE.4030.20",
+        "3": "Supply, installation and connection of following GI earthing strip buried individually at a depth of 500 mm including",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 228,
+        "1": 0,
+        "2": "01EE.4030.20.20",
+        "3": "50 x 6 mm",
+        "4": 250.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 229,
+        "1": 0,
+        "2": "01EE.4030.20.40",
+        "3": "25 x 3 mm",
+        "4": 100.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 230,
+        "1": 0,
+        "2": "01EE.4040",
+        "3": "EARTHING CONNECTION",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 231,
+        "1": 0,
+        "2": "01EE.4040.10",
+        "3": "Connecting individual equipment to the earth strip or earth plate with following sizes of G.I. wire / G.I. wire rope",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 232,
+        "1": 0,
+        "2": "01EE.4040.10.10",
+        "3": "3/8\" dia (10 mm) flexible rope.",
+        "4": 100.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 233,
+        "1": 0,
+        "2": "01EE.4040.10.20",
+        "3": "5/8\" dia (16 mm) flexible rope.",
+        "4": 100.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 234,
+        "1": 0,
+        "2": "01EE.4040.10.30",
+        "3": "8 SWG GI Wire.",
+        "4": 20.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 235,
+        "1": 0,
+        "2": "01EE.4040.30",
+        "3": "Supply and installation of 25 sq. mm (168/0.01772\") copper flexibles of following length with copper lugs crimped on",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 236,
+        "1": 0,
+        "2": "01EE.4040.30.10",
+        "3": "300 mm",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 237,
+        "1": 0,
+        "2": "01EE.4040.30.20",
+        "3": "500 mm",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 238,
+        "1": 0,
+        "2": "01EE.4040.30.30",
+        "3": "1500 mm",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 239,
+        "1": 0,
+        "2": "01EE.4050",
+        "3": "EARTH PLATES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 240,
+        "1": 0,
+        "2": "01EE.4050.10",
+        "3": "Supply, installation and connection of GI earth plates as per std. 7-51-0103, complete with anchor bolts, including all",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 3096,
+    "completion_tokens": 2374
+  }
+}

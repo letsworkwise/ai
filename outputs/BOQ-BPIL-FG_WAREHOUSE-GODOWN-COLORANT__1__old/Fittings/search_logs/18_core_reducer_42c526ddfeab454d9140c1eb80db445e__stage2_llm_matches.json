@@ -1,0 +1,51 @@
+{
+  "query": "core_product_name: reducer | feature_or_specifications: type: grooved, type: concentric",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: reducer fitting",
+        "raw_product_name": "FITTINGS \u0013REDUCER",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: gear reducer",
+        "raw_product_name": "Gear Reducer",
+        "list_of_product_ids": [
+          "7533",
+          "7207",
+          "9725",
+          "27767",
+          "27757",
+          "27747",
+          "27737",
+          "27727",
+          "27772"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: reducing socket",
+        "raw_product_name": "REDUCING SOCKET",
+        "list_of_product_ids": [
+          "1",
+          "547",
+          "915",
+          "481"
+        ]
+      }
+    }
+  ]
+}

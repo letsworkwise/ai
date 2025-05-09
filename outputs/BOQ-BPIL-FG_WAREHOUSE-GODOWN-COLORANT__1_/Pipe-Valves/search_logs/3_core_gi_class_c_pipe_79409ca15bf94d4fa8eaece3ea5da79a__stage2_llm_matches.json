@@ -1,0 +1,118 @@
+{
+  "query": "core_product_name: gi class c pipe | size: size: 80NB | feature_or_specifications: standard: indian standard 1239 (part-i), make: tata",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "Standards & Approvals"
+      ],
+      "match_details": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards) 1239 | construction_features: Black | construction_features: GI (Galvanized Iron)",
+        "raw_product_name": "PIPE-CARBON STEEL IS - 1239 (BLACK & GI)",
+        "list_of_product_ids": [
+          "13923",
+          "21043",
+          "21299",
+          "21563",
+          "22892",
+          "37032",
+          "37034",
+          "37013",
+          "37017",
+          "37033"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Standards & Approvals"
+      ],
+      "match_details": {
+        "text": "core_product_name: carbon steel pipe | standards_and_approvals: IS (Indian Standards): 1239",
+        "raw_product_name": "PIPE-CARBON STEEL IS: 1239",
+        "list_of_product_ids": [
+          "13999",
+          "15697",
+          "21642",
+          "22745",
+          "22894"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Standards & Approvals"
+      ],
+      "match_details": {
+        "text": "core_product_name: pipe-carbon steel",
+        "raw_product_name": "PIPE-CARBON STEEL",
+        "list_of_product_ids": [
+          "6135",
+          "5453",
+          "11148",
+          "11346",
+          "10703",
+          "9257",
+          "7749",
+          "7750",
+          "7782",
+          "7789",
+          "7787",
+          "9298",
+          "9299",
+          "9309",
+          "9311",
+          "8035",
+          "8046",
+          "8048",
+          "8050",
+          "8053",
+          "8055",
+          "8057",
+          "8059",
+          "8061",
+          "8045",
+          "8047",
+          "8049",
+          "8052",
+          "8054",
+          "8056",
+          "8058",
+          "8060",
+          "9335",
+          "9396",
+          "9398",
+          "9391",
+          "9420",
+          "9176",
+          "9297",
+          "9177",
+          "9300",
+          "9308",
+          "9312",
+          "12253",
+          "12563",
+          "12999",
+          "17640",
+          "18867",
+          "18913",
+          "21056",
+          "21641",
+          "24436",
+          "30012",
+          "30011",
+          "30013",
+          "32041",
+          "40009",
+          "40080"
+        ]
+      }
+    }
+  ]
+}

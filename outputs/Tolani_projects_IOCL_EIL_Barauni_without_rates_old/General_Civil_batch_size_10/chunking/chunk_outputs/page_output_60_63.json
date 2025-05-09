@@ -1,0 +1,74 @@
+{
+  "sheet_name": "General Civil",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > RCC PIPE CULVERTS & ELECTRICAL ROAD CROSSINGS ETC.",
+      "full_product_description": "Repairing of the 3LPE coating of the pipe by Coating of pipe and fittings with Liquid epoxy coating (EP) as per DIN EN 10289, Class C, Type 3 including supply of coating material, inspection and testing for the coating as per specification and directions of Engineer-in-Charge. (Sl. No. 710, ITEM NO 01GC.52.1)",
+      "core_product_name": "liquid epoxy coating",
+      "acronymed_core_product_name": "ep",
+      "size": "",
+      "feature_or_specifications": "feature: repairing of the 3LPE coating of the pipe, feature: coating of pipe and fittings, standard: din en 10289 class c type 3, feature: including supply of coating material, inspection and testing for the coating as per specification and directions of engineer-in-charge",
+      "quantity": "1.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > RCC PIPE CULVERTS & ELECTRICAL ROAD CROSSINGS ETC.",
+      "full_product_description": "Coating of pipe and fittings with Liquid epoxy coating (EP) as per DIN EN 10289, Class C, Type 3 at site including supply of coating material, inspection and testing for the coating as per specification and directions of Engineer-in-Charge (Sl. No. 711, ITEM NO 01GC.52.2)",
+      "core_product_name": "liquid epoxy coating",
+      "acronymed_core_product_name": "ep",
+      "size": "",
+      "feature_or_specifications": "feature: coating of pipe and fittings, standard: din en 10289 class c type 3, feature: at site, feature: including supply of coating material, inspection and testing for the coating as per specification and directions of engineer-in-charge",
+      "quantity": "25.0",
+      "unit": "m²"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      60,
+      62
+    ],
+    "original_rows": [
+      {
+        "0": 709,
+        "1": 0,
+        "2": "01GC.52",
+        "3": "3LPE coating",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 710,
+        "1": 0,
+        "2": "01GC.52.1",
+        "3": "Repairing of the 3LPE coating of the pipe by Coating of pipe and fittings with Liquid epoxy coating (EP) as per DIN EN 10289, Class C, Type 3 including supply of coating material, inspection and testing for the coating as per specification and directions of Engineer-in-Charge.",
+        "4": 1.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 711,
+        "1": 0,
+        "2": "01GC.52.2",
+        "3": "Coating of pipe and fittings with Liquid epoxy coating (EP) as per DIN EN 10289, Class C, Type 3 at site including supply of coating material, inspection and testing for the coating as per specification and directions of Engineer-in-Charge",
+        "4": 25.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2459,
+    "completion_tokens": 453
+  }
+}

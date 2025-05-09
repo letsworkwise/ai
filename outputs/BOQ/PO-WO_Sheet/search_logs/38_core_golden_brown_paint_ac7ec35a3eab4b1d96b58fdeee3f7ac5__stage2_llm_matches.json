@@ -1,0 +1,71 @@
+{
+  "query": "core_product_name: golden brown paint | size: quantity: 20 ltr",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: paint | material: Acrylic Emulsion",
+        "raw_product_name": "ACRYLIC EMULSION Paint",
+        "list_of_product_ids": [
+          "7041",
+          "7368",
+          "11500",
+          "12195",
+          "15679",
+          "14311",
+          "18879",
+          "18925",
+          "22556",
+          "30744",
+          "30769",
+          "30808",
+          "31893",
+          "34033",
+          "34242"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: emulsion paint | material: Plastic",
+        "raw_product_name": "Plastic Emulsion Paint",
+        "list_of_product_ids": [
+          "13444",
+          "14315",
+          "14462",
+          "30751",
+          "30777",
+          "30816",
+          "31898",
+          "35640",
+          "35639",
+          "35641",
+          "35642",
+          "35643"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "Paints",
+        "list_of_product_ids": [
+          "8191"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: 24v supply module | feature_or_specifications: type: fixed, voltage: 24v (twenty four volts), transformer rating: 500 va, transformer voltage ratio: 240/26.5 volt, primary side isolation: dp mcb (double pole miniature circuit breaker) with hrc (high rupturing capacity) fuse, isolation rating: 16a, hrc (high rupturing capacity) fuse rating: 6a, secondary side isolation: spn mcb (single pole and neutral miniature circuit breaker) with hrc (high rupturing capacity) fuse, isolation rating: 6a, hrc (high rupturing capacity) fuse rating: 16a, module type: fixed type with receptacle distribution panel",
+  "retrieval_results": [
+    {
+      "id": "variant-5a73e69c-15f9-5a05-bb58-ca64903b361a",
+      "score": 0.86307245,
+      "metadata": {
+        "text": "core_product_name: panel mounted power supply | size_or_capacity: 24 V DC (volts direct current)",
+        "raw_product_name": "PANEL MOUNTED 24 V DC POWER SUPPLY",
+        "list_of_product_ids": "215,712,156,927,440",
+        "core_id": 1635.0
+      }
+    },
+    {
+      "id": "variant-74d303aa-2799-5e8d-8b8a-412a8da4a4f2",
+      "score": 0.86117345,
+      "metadata": {
+        "text": "core_product_name: electrical spare",
+        "raw_product_name": "ELECTRICAL SPARES",
+        "list_of_product_ids": "207,782,077,728,462",
+        "core_id": 710.0
+      }
+    },
+    {
+      "id": "variant-8c60a1ce-e935-5daf-b164-6e8411da4e0c",
+      "score": 0.8596061,
+      "metadata": {
+        "text": "core_product_name: miniature circuit breaker | acronymed_core_product_name: mcb",
+        "raw_product_name": "MCB",
+        "list_of_product_ids": "6462,5633,10157,10663,9350,9447,9151,9187,9219,9361,11905,11944,17873,19028,19645,19652,20775,21203,19140,38290,36563",
+        "core_id": 1446.0
+      }
+    },
+    {
+      "id": "variant-c03e0ba5-aa70-53fc-9eb3-267f46d459cb",
+      "score": 0.8582845,
+      "metadata": {
+        "text": "core_product_name: cathodic protection power supply module",
+        "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+        "list_of_product_ids": "6413,5583,8417,12209",
+        "core_id": 315.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.8575471,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-3891317a-aff8-5713-acbe-b3188d03a526",
+      "score": 0.8567105,
+      "metadata": {
+        "text": "core_product_name: power or distribution transformer",
+        "raw_product_name": "POWER & DISTRIBUTION TRANSFORMERS",
+        "list_of_product_ids": "7020,7340,10181,10195,10207,10180,10218,11723,14858,21601,35405,35845",
+        "core_id": 1739.0
+      }
+    },
+    {
+      "id": "variant-41a6c6d9-ef4d-520f-b9f3-af2822f8dcef",
+      "score": 0.8556478,
+      "metadata": {
+        "text": "core_product_name: power supply",
+        "raw_product_name": "BUIL POWER SUPPLY",
+        "list_of_product_ids": "5,937,676,612,114",
+        "core_id": 250.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.855506,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-63f28b5e-8d64-503f-938b-d41f4b31f2fd",
+      "score": 0.85361916,
+      "metadata": {
+        "text": "core_product_name: industrial receptacle",
+        "raw_product_name": "INDUSTRIAL RECEPTACLE",
+        "list_of_product_ids": "136,891,479,414,813",
+        "core_id": 1235.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.8533674,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-eac04853-0cd4-54f1-a18f-72d0534f33b6",
+      "score": 0.85327417,
+      "metadata": {
+        "text": "core_product_name: electrical converter",
+        "raw_product_name": "ELECTRICAL CONVERTER",
+        "list_of_product_ids": "20850,20849,27075,20848",
+        "core_id": 706.0
+      }
+    },
+    {
+      "id": "variant-ee48fd04-aac6-5563-843f-394434e324ee",
+      "score": 0.8529265,
+      "metadata": {
+        "text": "core_product_name: distribution transformer",
+        "raw_product_name": "DISTRIBUTION TRANSFORMERS",
+        "list_of_product_ids": "15552,15542,15546,13684,15548,14869,15539,15550",
+        "core_id": 606.0
+      }
+    },
+    {
+      "id": "variant-61e99eb5-9c35-529a-b779-cf379fb6ce1f",
+      "score": 0.85286045,
+      "metadata": {
+        "text": "core_product_name: module",
+        "raw_product_name": "MODULES",
+        "list_of_product_ids": "9868,9810,9817,9850,9860",
+        "core_id": 1495.0
+      }
+    },
+    {
+      "id": "variant-4ee544d6-0f39-5064-8d24-8c48472ff71a",
+      "score": 0.8526257,
+      "metadata": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": "5954,6782,12132,14671,14679,18191,20174,36159",
+        "core_id": 2156.0
+      }
+    },
+    {
+      "id": "variant-c2ce30a2-5af4-5288-a342-7c5519d90a13",
+      "score": 0.8523089,
+      "metadata": {
+        "text": "core_product_name: bulk power supply",
+        "raw_product_name": "BULK POWER SUPPLY",
+        "list_of_product_ids": "7,561,723,518,220",
+        "core_id": 254.0
+      }
+    },
+    {
+      "id": "variant-715b67e7-4a72-52f4-af86-a85029b3260d",
+      "score": 0.851305,
+      "metadata": {
+        "text": "core_product_name: rectifier diode module",
+        "raw_product_name": "Diode Module (Rectifier Card)",
+        "list_of_product_ids": "1,421,414,221",
+        "core_id": 652.0
+      }
+    },
+    {
+      "id": "variant-1e873921-9127-5bd6-b008-69d92c15ef29",
+      "score": 0.8509458,
+      "metadata": {
+        "text": "core_product_name: moulded case circuit breaker",
+        "raw_product_name": "MOULDED CASE CIRCUIT BREAKER",
+        "list_of_product_ids": "178,541,784,318,652",
+        "core_id": 1508.0
+      }
+    },
+    {
+      "id": "variant-dccb1b8c-ce03-5353-8d7f-1894add2f041",
+      "score": 0.85084623,
+      "metadata": {
+        "text": "core_product_name: equipment insulation",
+        "raw_product_name": "EQUIPMENT INSULATION WORKS",
+        "list_of_product_ids": "358,293,583,235,880",
+        "core_id": 761.0
+      }
+    },
+    {
+      "id": "variant-713fd69d-ab73-5753-944b-8d88aa60d791",
+      "score": 0.85063183,
+      "metadata": {
+        "text": "core_product_name: inside panel | acronymed_core_product_name: mcb (miniature circuit breaker) panel | type_or_class: Flush type only",
+        "raw_product_name": "MCB Inside Panels (Flush type only)",
+        "list_of_product_ids": "1,371,214,885",
+        "core_id": 1448.0
+      }
+    },
+    {
+      "id": "variant-04557174-00a9-5154-8b28-71d131bdaca2",
+      "score": 0.85062474,
+      "metadata": {
+        "text": "core_product_name: lighting and power distribution panel",
+        "raw_product_name": "Lighting & Power Distribution Panel",
+        "list_of_product_ids": "18723,18718,18735,18734,18733,19012,18997,18728,19000,38293,35861,38156",
+        "core_id": 1413.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.8505323,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-ba3d7620-8f6f-5c5a-bdc1-21d5c6b75b6f",
+      "score": 0.8501699,
+      "metadata": {
+        "text": "core_product_name: insulation material",
+        "raw_product_name": "INSULATION MATERIAL",
+        "list_of_product_ids": "10251,10256,10261,10266,10273,10278,10281,7088,7415,10172,10221,10226,10230,10234,10240,10245,11862,13008,38431,33383",
+        "core_id": 1274.0
+      }
+    },
+    {
+      "id": "variant-96f7e30b-e45b-5a5a-a66f-28b1790f7ff3",
+      "score": 0.84956527,
+      "metadata": {
+        "text": "core_product_name: power transformer",
+        "raw_product_name": "POWER TRANSFORMER",
+        "list_of_product_ids": "16988,16987,16984,16983,17024,17038,17019,17013,17198,17177,17171,17163,17258,17247,17246,17240,17229,17220,35402,35820,35963",
+        "core_id": 1747.0
+      }
+    },
+    {
+      "id": "variant-699a43b0-7687-5c69-996f-3aebb9c05522",
+      "score": 0.8490824,
+      "metadata": {
+        "text": "core_product_name: disposal level transmitter",
+        "raw_product_name": "Disposal Level Transmitters",
+        "list_of_product_ids": "17087,17086,17996,17997,18641",
+        "core_id": 653.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.8489357,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    },
+    {
+      "id": "variant-4767cd47-647c-5110-873c-535ec6cae8a2",
+      "score": 0.8489231,
+      "metadata": {
+        "text": "core_product_name: thermal fuse",
+        "raw_product_name": "THERMAL FUSE",
+        "list_of_product_ids": "6628,5798,19654,19647",
+        "core_id": 2241.0
+      }
+    },
+    {
+      "id": "variant-30ba7b7c-4349-5ae1-b9ed-81ec0b2af986",
+      "score": 0.8488431,
+      "metadata": {
+        "text": "core_product_name: high voltage capacitor | size_or_capacity: High Voltage",
+        "raw_product_name": "CAPACITORS-HIGH VOLTAGE",
+        "list_of_product_ids": "6427,5597,10503,10567,11340,12080",
+        "core_id": 295.0
+      }
+    },
+    {
+      "id": "variant-f54c914d-9cf4-5252-893a-012bf8e07ce1",
+      "score": 0.84881395,
+      "metadata": {
+        "text": "core_product_name: electric tube",
+        "raw_product_name": "ELECTRIC TUBES",
+        "list_of_product_ids": "20835,20804,20802,28500",
+        "core_id": 699.0
+      }
+    },
+    {
+      "id": "variant-05c9db43-5c4d-52ba-ab45-526ce58a2d3e",
+      "score": 0.8487953,
+      "metadata": {
+        "text": "core_product_name: thermal insulation",
+        "raw_product_name": "Thermal Insulation",
+        "list_of_product_ids": "7572,7247,11774,11775,7759,7755,7757,9770,12863,13002,13009,16997,17020,17014,34601",
+        "core_id": 2305.0
+      }
+    },
+    {
+      "id": "variant-a28a5702-2741-52e7-bbee-c9ec9500bcb3",
+      "score": 0.8486666,
+      "metadata": {
+        "text": "core_product_name: transformer-rectifier unit",
+        "raw_product_name": "TRANSFORMER-RECTIFIER UNIT",
+        "list_of_product_ids": "21792,21799,27105,35396",
+        "core_id": 2273.0
+      }
+    }
+  ]
+}

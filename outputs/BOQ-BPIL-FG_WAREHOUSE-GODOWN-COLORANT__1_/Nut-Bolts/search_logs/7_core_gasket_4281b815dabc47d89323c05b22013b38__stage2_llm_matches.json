@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: gasket | size: size: 80NB",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: gasket | material: Compressed Fibre Asbestos Free",
+        "raw_product_name": "GASKET (COMPRESSED FIBRE ASBESTOS FREE)",
+        "list_of_product_ids": [
+          "8365"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: gasket | material: Rubber",
+        "raw_product_name": "GASKET RUBBER",
+        "list_of_product_ids": [
+          "17840",
+          "17839",
+          "18654",
+          "22361",
+          "37308",
+          "37310",
+          "37313",
+          "37315",
+          "37318",
+          "37303"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: gasket | material: Rubber",
+        "raw_product_name": "RUBBER GASKETS",
+        "list_of_product_ids": [
+          "8366"
+        ]
+      }
+    }
+  ]
+}

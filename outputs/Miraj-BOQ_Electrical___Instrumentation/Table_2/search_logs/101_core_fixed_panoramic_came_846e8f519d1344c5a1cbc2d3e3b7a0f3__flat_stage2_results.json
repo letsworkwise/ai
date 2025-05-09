@@ -1,0 +1,479 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8331267,
+      "text": "core_product_name: globe valve | construction_features: forged",
+      "core_id": 1062.0,
+      "raw_product_name": "VALVE GLOBE FORGED",
+      "list_of_product_ids": [
+        "6222",
+        "5391",
+        "11621",
+        "11639",
+        "11241",
+        "11254",
+        "11278",
+        "8279",
+        "8380",
+        "8554",
+        "8644",
+        "8621",
+        "9386",
+        "9428",
+        "9410",
+        "9452",
+        "9251",
+        "9165",
+        "9247",
+        "9341",
+        "11976",
+        "12097",
+        "12492",
+        "12571",
+        "13261",
+        "13361",
+        "19389",
+        "17622",
+        "17817",
+        "17907",
+        "18303",
+        "18031",
+        "19861",
+        "31811",
+        "19381",
+        "32700",
+        "36762",
+        "35556"
+      ]
+    },
+    {
+      "retrieval_score": 0.8314816,
+      "text": "core_product_name: non-proprietary package | type_or_class: High Quality Disr and Inl-Unengin",
+      "core_id": 1561.0,
+      "raw_product_name": "NON-PROP PKG,HIGH QUAL DISR& INL-UNENGIN",
+      "list_of_product_ids": [
+        "6189",
+        "5357",
+        "8979",
+        "9125",
+        "12408",
+        "19941",
+        "24347"
+      ]
+    },
+    {
+      "retrieval_score": 0.83077633,
+      "text": "core_product_name: binocular",
+      "core_id": 203.0,
+      "raw_product_name": "BINOCULAR",
+      "list_of_product_ids": [
+        "259",
+        "312",
+        "592",
+        "926",
+        "698"
+      ]
+    },
+    {
+      "retrieval_score": 0.83061564,
+      "text": "core_product_name: check valve | construction_features: Forged",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK FORGED",
+      "list_of_product_ids": [
+        "6231",
+        "5400",
+        "11625",
+        "11641",
+        "11223",
+        "11242",
+        "11255",
+        "9246",
+        "11448",
+        "9262",
+        "8280",
+        "8383",
+        "8555",
+        "8649",
+        "8626",
+        "9412",
+        "9451",
+        "9253",
+        "9166",
+        "9343",
+        "12098",
+        "12493",
+        "12572",
+        "12656",
+        "13266",
+        "13360",
+        "19382",
+        "19390",
+        "17623",
+        "17908",
+        "18030",
+        "19711",
+        "19860",
+        "31813",
+        "36763",
+        "32701"
+      ]
+    },
+    {
+      "retrieval_score": 0.8303326,
+      "text": "core_product_name: primary structure | construction_features: bolted",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+      "list_of_product_ids": [
+        "20000",
+        "19997",
+        "20035",
+        "21038",
+        "21002",
+        "21083",
+        "21901",
+        "22017",
+        "22116",
+        "22826",
+        "22992"
+      ]
+    },
+    {
+      "retrieval_score": 0.82832706,
+      "text": "core_product_name: ball valve | construction_features: forged",
+      "core_id": 172.0,
+      "raw_product_name": "VALVE BALL FORGED",
+      "list_of_product_ids": [
+        "140",
+        "222",
+        "209",
+        "935",
+        "458"
+      ]
+    },
+    {
+      "retrieval_score": 0.82832223,
+      "text": "core_product_name: portable oscilloscope",
+      "core_id": 1729.0,
+      "raw_product_name": "PORTABLE OSCILLOSCOPE",
+      "list_of_product_ids": [
+        "59",
+        "516",
+        "780"
+      ]
+    },
+    {
+      "retrieval_score": 0.8275153,
+      "text": "core_product_name: long range monitor",
+      "core_id": 1382.0,
+      "raw_product_name": "LONG RANGE MONITOR",
+      "list_of_product_ids": [
+        "6041",
+        "5220",
+        "9827",
+        "9832",
+        "9837",
+        "9842",
+        "8295",
+        "8318"
+      ]
+    },
+    {
+      "retrieval_score": 0.8274036,
+      "text": "core_product_name: telescopic access platform",
+      "core_id": 2216.0,
+      "raw_product_name": "TELESCOPIC ACCESS PLATFORM",
+      "list_of_product_ids": [
+        "61",
+        "805",
+        "351"
+      ]
+    },
+    {
+      "retrieval_score": 0.8269618,
+      "text": "core_product_name: video wall",
+      "core_id": 2418.0,
+      "raw_product_name": "Video wall",
+      "list_of_product_ids": [
+        "7081",
+        "7408",
+        "18012",
+        "18421",
+        "18416"
+      ]
+    },
+    {
+      "retrieval_score": 0.8259766,
+      "text": "core_product_name: recorder",
+      "core_id": 1875.0,
+      "raw_product_name": "RECORDERS",
+      "list_of_product_ids": [
+        "13825",
+        "15211",
+        "20871",
+        "36627"
+      ]
+    },
+    {
+      "retrieval_score": 0.825507,
+      "text": "core_product_name: primary structure | construction_features: welded",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+      "list_of_product_ids": [
+        "19999",
+        "20036",
+        "22016",
+        "21003",
+        "21084",
+        "21900",
+        "22115",
+        "21039",
+        "19993",
+        "22825",
+        "22991"
+      ]
+    },
+    {
+      "retrieval_score": 0.8253873,
+      "text": "core_product_name: portable calibrator",
+      "core_id": 1732.0,
+      "raw_product_name": "Portable Calibrator",
+      "list_of_product_ids": [
+        "18091",
+        "27913",
+        "37511",
+        "37498"
+      ]
+    },
+    {
+      "retrieval_score": 0.8253873,
+      "text": "core_product_name: portable calibrator",
+      "core_id": 1732.0,
+      "raw_product_name": "PORTABLE TEMPERATURE CALIBRATOR",
+      "list_of_product_ids": [
+        "171",
+        "831",
+        "717",
+        "327",
+        "912"
+      ]
+    },
+    {
+      "retrieval_score": 0.8251936,
+      "text": "core_product_name: bracing",
+      "core_id": 239.0,
+      "raw_product_name": "BRACING",
+      "list_of_product_ids": [
+        "20880",
+        "20863",
+        "20902",
+        "21910",
+        "21951",
+        "22023",
+        "22088",
+        "22121"
+      ]
+    },
+    {
+      "retrieval_score": 0.82501936,
+      "text": "core_product_name: resilient mounting",
+      "core_id": 1900.0,
+      "raw_product_name": "RESILIENT MOUNTINGS",
+      "list_of_product_ids": [
+        "22948",
+        "22951",
+        "22952",
+        "28652"
+      ]
+    },
+    {
+      "retrieval_score": 0.8249443,
+      "text": "core_product_name: angle holder",
+      "core_id": 114.0,
+      "raw_product_name": "ANGLE OLDER",
+      "list_of_product_ids": [
+        "20489",
+        "20488",
+        "20545",
+        "20585",
+        "20636",
+        "20691",
+        "20749"
+      ]
+    },
+    {
+      "retrieval_score": 0.82470894,
+      "text": "core_product_name: remote controlled monitor",
+      "core_id": 1896.0,
+      "raw_product_name": "REMOTE CONTROLLED MONITORS",
+      "list_of_product_ids": [
+        "6042",
+        "5221",
+        "8319",
+        "24103",
+        "22791"
+      ]
+    },
+    {
+      "retrieval_score": 0.82411766,
+      "text": "core_product_name: surge protection device",
+      "core_id": 2156.0,
+      "raw_product_name": "SURG PROTECTION DEVICES",
+      "list_of_product_ids": [
+        "5954",
+        "6782",
+        "12132",
+        "14671",
+        "14679",
+        "18191",
+        "20174",
+        "36159"
+      ]
+    },
+    {
+      "retrieval_score": 0.82393926,
+      "text": "core_product_name: dew point monitor",
+      "core_id": 578.0,
+      "raw_product_name": "DEW POINT MONITOR",
+      "list_of_product_ids": [
+        "20257",
+        "20345",
+        "20481",
+        "20474",
+        "20662",
+        "20720",
+        "39322"
+      ]
+    },
+    {
+      "retrieval_score": 0.8232443,
+      "text": "core_product_name: manifold",
+      "core_id": 1106.0,
+      "raw_product_name": "HEADERS MANIFOLDS",
+      "list_of_product_ids": [
+        "210",
+        "852",
+        "138",
+        "027",
+        "793"
+      ]
+    },
+    {
+      "retrieval_score": 0.8230597,
+      "text": "core_product_name: video conferencing",
+      "core_id": 2405.0,
+      "raw_product_name": "VIDEO CONFERENCING",
+      "list_of_product_ids": [
+        "213",
+        "892",
+        "139",
+        "028",
+        "585"
+      ]
+    },
+    {
+      "retrieval_score": 0.8230014,
+      "text": "core_product_name: digital storage oscilloscope",
+      "core_id": 591.0,
+      "raw_product_name": "DIGITAL STORAGE OSCILLOSCOPE",
+      "list_of_product_ids": [
+        "1",
+        "543",
+        "418",
+        "782"
+      ]
+    },
+    {
+      "retrieval_score": 0.82262635,
+      "text": "core_product_name: compression fitting | type_or_class: Compression",
+      "core_id": 871.0,
+      "raw_product_name": "FITTINGS - COMPRESSION",
+      "list_of_product_ids": [
+        "163",
+        "811",
+        "644",
+        "316",
+        "463"
+      ]
+    },
+    {
+      "retrieval_score": 0.8225053,
+      "text": "core_product_name: single chamber orifice fitting",
+      "core_id": 2035.0,
+      "raw_product_name": "SINGLE CHAMBER ORIFICE FITTINGS",
+      "list_of_product_ids": [
+        "20395",
+        "20396",
+        "20477",
+        "20471",
+        "20716",
+        "20658"
+      ]
+    },
+    {
+      "retrieval_score": 0.82250214,
+      "text": "core_product_name: fixed switch board | mounting_or_installation: for package equipments | protection_features: flame proof",
+      "core_id": 2168.0,
+      "raw_product_name": "SWITCH BOARD FIXED FOR PACKAGE EQUIPMENTS FLAME PROOF",
+      "list_of_product_ids": [
+        "13973",
+        "14603",
+        "14849",
+        "19440",
+        "20280",
+        "22864",
+        "35781"
+      ]
+    },
+    {
+      "retrieval_score": 0.8223443,
+      "text": "core_product_name: hand held multifunctional calibrator",
+      "core_id": 1211.0,
+      "raw_product_name": "Hand Held Multifunctional Calibrator",
+      "list_of_product_ids": [
+        "18090",
+        "28750",
+        "37512",
+        "37499"
+      ]
+    },
+    {
+      "retrieval_score": 0.8222739,
+      "text": "core_product_name: high voltage capacitor | size_or_capacity: High Voltage",
+      "core_id": 295.0,
+      "raw_product_name": "CAPACITORS-HIGH VOLTAGE",
+      "list_of_product_ids": [
+        "6427",
+        "5597",
+        "10503",
+        "10567",
+        "11340",
+        "12080"
+      ]
+    },
+    {
+      "retrieval_score": 0.8222448,
+      "text": "core_product_name: large case field recorder",
+      "core_id": 1407.0,
+      "raw_product_name": "Large Case Field Recorders",
+      "list_of_product_ids": [
+        "17062",
+        "17061",
+        "17060",
+        "27436"
+      ]
+    },
+    {
+      "retrieval_score": 0.822231,
+      "text": "core_product_name: fieldbus monitor",
+      "core_id": 821.0,
+      "raw_product_name": "FIELDBUS MONITOR",
+      "list_of_product_ids": [
+        "5",
+        "948",
+        "677",
+        "710",
+        "076"
+      ]
+    }
+  ]
+}

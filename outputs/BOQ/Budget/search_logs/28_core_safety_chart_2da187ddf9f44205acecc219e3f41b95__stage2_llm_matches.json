@@ -1,0 +1,72 @@
+{
+  "query": "core_product_name: safety chart | feature_or_specifications: language: English & Kannada",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: safety coverall | material: Dangri | special_attributes: Orange",
+        "raw_product_name": "ORANGE SAFETY DANGRI COVERALL",
+        "list_of_product_ids": [
+          "32880",
+          "32884",
+          "33004",
+          "33037",
+          "33191",
+          "33256",
+          "33558",
+          "33629",
+          "35918"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: safety helmet",
+        "raw_product_name": "SAFETY HELMET",
+        "list_of_product_ids": [
+          "21456",
+          "21455",
+          "27053",
+          "33007",
+          "33039",
+          "33193",
+          "36662",
+          "33258",
+          "33559",
+          "33630",
+          "37471",
+          "35920"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: safety goggle",
+        "raw_product_name": "SAFETY GOGGLES",
+        "list_of_product_ids": [
+          "32936",
+          "32937",
+          "33006",
+          "33044",
+          "33198",
+          "36663",
+          "33263",
+          "33563",
+          "33636",
+          "35925"
+        ]
+      }
+    }
+  ]
+}

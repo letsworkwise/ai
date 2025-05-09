@@ -1,0 +1,468 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8670709,
+      "text": "core_product_name: power distribution board | acronymed_core_product_name: pdb (power distribution board)",
+      "core_id": 1743.0,
+      "raw_product_name": "POWER DISTRIBUTION BOARD (PDB)",
+      "list_of_product_ids": [
+        "13892",
+        "14644",
+        "14778",
+        "14809",
+        "17930",
+        "17917",
+        "17892",
+        "17949",
+        "17939",
+        "18026",
+        "18008",
+        "18049",
+        "20762",
+        "20761",
+        "27494"
+      ]
+    },
+    {
+      "retrieval_score": 0.8651832,
+      "text": "core_product_name: miniature circuit breaker | acronymed_core_product_name: mcb",
+      "core_id": 1446.0,
+      "raw_product_name": "MCB",
+      "list_of_product_ids": [
+        "6462",
+        "5633",
+        "10157",
+        "10663",
+        "9350",
+        "9447",
+        "9151",
+        "9187",
+        "9219",
+        "9361",
+        "11905",
+        "11944",
+        "17873",
+        "19028",
+        "19645",
+        "19652",
+        "20775",
+        "21203",
+        "19140",
+        "38290",
+        "36563"
+      ]
+    },
+    {
+      "retrieval_score": 0.8648032,
+      "text": "core_product_name: inside panel | acronymed_core_product_name: mcb (miniature circuit breaker) panel | type_or_class: Flush type only",
+      "core_id": 1448.0,
+      "raw_product_name": "MCB Inside Panels (Flush type only)",
+      "list_of_product_ids": [
+        "1",
+        "371",
+        "214",
+        "885"
+      ]
+    },
+    {
+      "retrieval_score": 0.8640542,
+      "text": "core_product_name: flame proof local distribution board | acronymed_core_product_name: ldb (local distribution board) | protection_features: Flame proof",
+      "core_id": 889.0,
+      "raw_product_name": "FLAME PROOF LDB’S",
+      "list_of_product_ids": [
+        "13570",
+        "22218",
+        "22257",
+        "22862",
+        "35778"
+      ]
+    },
+    {
+      "retrieval_score": 0.86371017,
+      "text": "core_product_name: motor protection circuit breaker | acronymed_core_product_name: mpcb (motor protection circuit breaker)",
+      "core_id": 1528.0,
+      "raw_product_name": "Motor Protection Circuit Breaker (MPCB)",
+      "list_of_product_ids": [
+        "7492",
+        "7167",
+        "11205",
+        "10539",
+        "10192",
+        "19629"
+      ]
+    },
+    {
+      "retrieval_score": 0.86099994,
+      "text": "core_product_name: molded case circuit breaker | acronymed_core_product_name: MCCB (Molded Case Circuit Breaker)",
+      "core_id": 1449.0,
+      "raw_product_name": "MCCB",
+      "list_of_product_ids": [
+        "6463",
+        "5634",
+        "10536",
+        "10191",
+        "9351",
+        "9152",
+        "9154",
+        "11938",
+        "19030",
+        "19029",
+        "20774",
+        "21202",
+        "36564",
+        "38080"
+      ]
+    },
+    {
+      "retrieval_score": 0.85598487,
+      "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+      "core_id": 899.0,
+      "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+      "list_of_product_ids": [
+        "13583",
+        "14851",
+        "20281",
+        "22858",
+        "26788",
+        "26787",
+        "26786",
+        "26789",
+        "35773"
+      ]
+    },
+    {
+      "retrieval_score": 0.8535368,
+      "text": "core_product_name: outdoor circuit breaker | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 11.0,
+      "raw_product_name": "33kV outdoor Circuit Breaker",
+      "list_of_product_ids": [
+        "141",
+        "551",
+        "464",
+        "036",
+        "000"
+      ]
+    },
+    {
+      "retrieval_score": 0.851315,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    },
+    {
+      "retrieval_score": 0.8504095,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (pdb (power distribution board))",
+      "core_id": 20.0,
+      "raw_product_name": "A.C. DISTRIBUTION BOARD (PDB)",
+      "list_of_product_ids": [
+        "14164",
+        "14792",
+        "14811",
+        "19308"
+      ]
+    },
+    {
+      "retrieval_score": 0.85025346,
+      "text": "core_product_name: flameproof lighting and distribution board | protection_features: Flameproof",
+      "core_id": 895.0,
+      "raw_product_name": "FLAMEPROOF LIGHTING & DISTRIBUTION BOARD",
+      "list_of_product_ids": [
+        "13578",
+        "14601",
+        "14847",
+        "24098"
+      ]
+    },
+    {
+      "retrieval_score": 0.85003334,
+      "text": "core_product_name: flameproof switch | protection_features: Flameproof",
+      "core_id": 2173.0,
+      "raw_product_name": "SWITCH- FLAMEPROOF",
+      "list_of_product_ids": [
+        "228",
+        "782",
+        "301",
+        "335",
+        "779"
+      ]
+    },
+    {
+      "retrieval_score": 0.8498891,
+      "text": "core_product_name: outdoor potential transformer | acronymed_core_product_name: pt | size_or_capacity: 33kV",
+      "core_id": 17.0,
+      "raw_product_name": "33kV outdoor CT/ PT",
+      "list_of_product_ids": [
+        "7061",
+        "7388",
+        "18218",
+        "18377",
+        "19058"
+      ]
+    },
+    {
+      "retrieval_score": 0.8496947,
+      "text": "core_product_name: flameproof equipment | protection_features: Flameproof",
+      "core_id": 894.0,
+      "raw_product_name": "FLAMEPROOF EQUIPMENT",
+      "list_of_product_ids": [
+        "13446",
+        "13447",
+        "13448",
+        "13449",
+        "13450",
+        "13473",
+        "13477"
+      ]
+    },
+    {
+      "retrieval_score": 0.8496622,
+      "text": "core_product_name: fire proofing material | protection_features: Fireproof",
+      "core_id": 856.0,
+      "raw_product_name": "FIRE PROOFING MATERIAL",
+      "list_of_product_ids": [
+        "38658",
+        "38561",
+        "38562",
+        "38566"
+      ]
+    },
+    {
+      "retrieval_score": 0.8492706,
+      "text": "core_product_name: flameproof plug | protection_features: Flameproof",
+      "core_id": 897.0,
+      "raw_product_name": "FLAMEPROOF PLUG",
+      "list_of_product_ids": [
+        "201",
+        "172",
+        "041",
+        "520",
+        "651"
+      ]
+    },
+    {
+      "retrieval_score": 0.8492263,
+      "text": "core_product_name: lighting and power panel | acronymed_core_product_name: FLP (Flameproof) panel | protection_features: Flameproof",
+      "core_id": 1351.0,
+      "raw_product_name": "LIGHTING & POWER PANELS (FLP)",
+      "list_of_product_ids": [
+        "6418",
+        "5588",
+        "7009",
+        "10306",
+        "10579",
+        "10558",
+        "10588",
+        "10602",
+        "18874",
+        "18920",
+        "22851",
+        "26777",
+        "26773",
+        "26754",
+        "26750",
+        "35770"
+      ]
+    },
+    {
+      "retrieval_score": 0.84875506,
+      "text": "core_product_name: main lighting distribution board | acronymed_core_product_name: MLDB (Main Lighting Distribution Board)",
+      "core_id": 1487.0,
+      "raw_product_name": "MLDB",
+      "list_of_product_ids": [
+        "15386",
+        "13768",
+        "14606",
+        "14779",
+        "17931",
+        "17918",
+        "17893",
+        "17950",
+        "17940",
+        "17945",
+        "18027",
+        "18009",
+        "18050",
+        "19060",
+        "19661"
+      ]
+    },
+    {
+      "retrieval_score": 0.8487306,
+      "text": "core_product_name: outdoor circuit breaker | size_or_capacity: 132 kV or 220 kV | operating_conditions: outdoor",
+      "core_id": 11.0,
+      "raw_product_name": "132kV/ 220 kV outdoor Circuit Breaker",
+      "list_of_product_ids": [
+        "1",
+        "414",
+        "714",
+        "844"
+      ]
+    },
+    {
+      "retrieval_score": 0.8483519,
+      "text": "core_product_name: electrical item",
+      "core_id": 713.0,
+      "raw_product_name": "ELECTRICALS ITEMS",
+      "list_of_product_ids": [
+        "240",
+        "232",
+        "403",
+        "028",
+        "576"
+      ]
+    },
+    {
+      "retrieval_score": 0.8482115,
+      "text": "core_product_name: surge protection device",
+      "core_id": 2156.0,
+      "raw_product_name": "SURG PROTECTION DEVICES",
+      "list_of_product_ids": [
+        "5954",
+        "6782",
+        "12132",
+        "14671",
+        "14679",
+        "18191",
+        "20174",
+        "36159"
+      ]
+    },
+    {
+      "retrieval_score": 0.8480676,
+      "text": "core_product_name: moulded case circuit breaker",
+      "core_id": 1508.0,
+      "raw_product_name": "MOULDED CASE CIRCUIT BREAKER",
+      "list_of_product_ids": [
+        "178",
+        "541",
+        "784",
+        "318",
+        "652"
+      ]
+    },
+    {
+      "retrieval_score": 0.847845,
+      "text": "core_product_name: switch | acronymed_core_product_name: flp (flameproof) switch | protection_features: Flameproof",
+      "core_id": 603.0,
+      "raw_product_name": "FLP SWITCH",
+      "list_of_product_ids": [
+        "22872",
+        "22870",
+        "27608",
+        "35765"
+      ]
+    },
+    {
+      "retrieval_score": 0.84736055,
+      "text": "core_product_name: electric block",
+      "core_id": 682.0,
+      "raw_product_name": "ELECTRIC BLOCK",
+      "list_of_product_ids": [
+        "196",
+        "271",
+        "962",
+        "627",
+        "101"
+      ]
+    },
+    {
+      "retrieval_score": 0.84729713,
+      "text": "core_product_name: flameproof socket | protection_features: Flameproof",
+      "core_id": 900.0,
+      "raw_product_name": "FLAMEPROOF SOCKET",
+      "list_of_product_ids": [
+        "20118",
+        "20440",
+        "20416",
+        "20650",
+        "22853"
+      ]
+    },
+    {
+      "retrieval_score": 0.8469206,
+      "text": "core_product_name: outdoor circuit breaker | acronymed_core_product_name: vcb (vacuum circuit breaker) circuit breaker | type_or_class: VCB (Vacuum Circuit Breaker) | operating_conditions: HV (High Voltage)",
+      "core_id": 11.0,
+      "raw_product_name": "CIRCUIT BREAKERS-VCB OUTDOOR (HV)",
+      "list_of_product_ids": [
+        "24482",
+        "24481",
+        "24483",
+        "26851"
+      ]
+    },
+    {
+      "retrieval_score": 0.84627646,
+      "text": "core_product_name: electrical spare",
+      "core_id": 710.0,
+      "raw_product_name": "ELECTRICAL SPARES",
+      "list_of_product_ids": [
+        "207",
+        "782",
+        "077",
+        "728",
+        "462"
+      ]
+    },
+    {
+      "retrieval_score": 0.84626,
+      "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+      "core_id": 559.0,
+      "raw_product_name": "DCDB",
+      "list_of_product_ids": [
+        "15387",
+        "13587",
+        "14607",
+        "14780",
+        "19662",
+        "21388",
+        "36160"
+      ]
+    },
+    {
+      "retrieval_score": 0.84624624,
+      "text": "core_product_name: lightning distribution board | acronymed_core_product_name: ldb (lightning distribution board)",
+      "core_id": 1357.0,
+      "raw_product_name": "LIGHTNING DISTRIBUTION BOARD/LDB",
+      "list_of_product_ids": [
+        "10002",
+        "10019",
+        "10242",
+        "15385",
+        "14605",
+        "14777",
+        "14808",
+        "17874",
+        "17933",
+        "17919",
+        "17894",
+        "17951",
+        "17941",
+        "17944",
+        "18029",
+        "18010",
+        "18051",
+        "19660",
+        "19141"
+      ]
+    },
+    {
+      "retrieval_score": 0.84569234,
+      "text": "core_product_name: flameproof convenience outlet | protection_features: Flameproof",
+      "core_id": 892.0,
+      "raw_product_name": "FLAMEPROOF - CONVENIENCE OUTLETS",
+      "list_of_product_ids": [
+        "19657",
+        "19639",
+        "19667",
+        "28279"
+      ]
+    }
+  ]
+}

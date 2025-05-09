@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: lighting cable | size: voltage grade: 0.6/1 kv, cores: 3c, conductor size: 2.5 sqmm | feature_or_specifications: conductor material: cu (copper), insulation: xlpe (cross-linked polyethylene), sheathing: frls (flame retardant low smoke) pvc (polyvinyl chloride)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable | material: Copper",
+        "raw_product_name": "CABLE -COPPER",
+        "list_of_product_ids": [
+          "32910",
+          "32911",
+          "33009",
+          "33041",
+          "33195",
+          "33260",
+          "33562",
+          "33633",
+          "35922"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable | acronymed_core_product_name: xlpe cable | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "XLPE CABLE",
+        "list_of_product_ids": [
+          "23937",
+          "24086",
+          "21510",
+          "27082"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: power and control cable | type_or_class: LT (Low Tension) Power and Control | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLE \u0013 LT POWER & CONTROL(XPLE)",
+        "list_of_product_ids": []
+      }
+    }
+  ]
+}

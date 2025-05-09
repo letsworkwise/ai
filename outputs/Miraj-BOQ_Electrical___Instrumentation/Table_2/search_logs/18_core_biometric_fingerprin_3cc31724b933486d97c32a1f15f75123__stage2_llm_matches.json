@@ -1,0 +1,74 @@
+{
+  "query": "core_product_name: biometric fingerprint cum contactless type smart card reader | feature_or_specifications: location: outdoor, feature: accessories including controller, software, programming kit, entry & exit both side",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Accessories"
+      ],
+      "match_details": {
+        "text": "core_product_name: control panel | accessories_or_attachments: accessories",
+        "raw_product_name": "CONTROL PANEL & ACCESSORIES",
+        "list_of_product_ids": [
+          "6599",
+          "5769",
+          "9463",
+          "8213",
+          "8215",
+          "8212",
+          "8214",
+          "9377",
+          "9156",
+          "9178",
+          "9378",
+          "9464",
+          "12191",
+          "8211",
+          "10743",
+          "31063",
+          "37694",
+          "37698",
+          "37703",
+          "37708",
+          "37712"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Accessories"
+      ],
+      "match_details": {
+        "text": "core_product_name: electrical component | accessories_or_attachments: Accessories",
+        "raw_product_name": "ELECTRICAL COMPONENTS & ACCESSORIES",
+        "list_of_product_ids": [
+          "222",
+          "862",
+          "228",
+          "728",
+          "574"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: computer software",
+        "raw_product_name": "COMPUTER SOFTWARE",
+        "list_of_product_ids": [
+          "193",
+          "121",
+          "931",
+          "327",
+          "257"
+        ]
+      }
+    }
+  ]
+}

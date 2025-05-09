@@ -1,0 +1,544 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.87251264,
+      "text": "core_product_name: scaffolding platform",
+      "core_id": 1970.0,
+      "raw_product_name": "SCAFFOLDING PLATFORM",
+      "list_of_product_ids": [
+        "24768",
+        "24767",
+        "24783",
+        "24793",
+        "24797",
+        "24811",
+        "24807",
+        "24778",
+        "25093"
+      ]
+    },
+    {
+      "retrieval_score": 0.8620545,
+      "text": "core_product_name: structural | material: Aluminium",
+      "core_id": 2134.0,
+      "raw_product_name": "STRUCTURAL ALUMINIUM",
+      "list_of_product_ids": [
+        "234",
+        "572",
+        "603",
+        "826",
+        "686"
+      ]
+    },
+    {
+      "retrieval_score": 0.8598528,
+      "text": "core_product_name: scaffolding plank",
+      "core_id": 1971.0,
+      "raw_product_name": "SCAFFOLDING PLANKS",
+      "list_of_product_ids": [
+        "24766",
+        "24791",
+        "24781",
+        "24765",
+        "24776",
+        "24809",
+        "24795",
+        "24805",
+        "25091"
+      ]
+    },
+    {
+      "retrieval_score": 0.857611,
+      "text": "core_product_name: plate | material: Aluminium",
+      "core_id": 87.0,
+      "raw_product_name": "ALUMINIUM PLATE",
+      "list_of_product_ids": [
+        "234",
+        "562",
+        "603",
+        "726",
+        "687"
+      ]
+    },
+    {
+      "retrieval_score": 0.8564628,
+      "text": "core_product_name: ladder | material: Aluminium",
+      "core_id": 96.0,
+      "raw_product_name": "ALUMINIUM LADDERS",
+      "list_of_product_ids": [
+        "274",
+        "922",
+        "751",
+        "027",
+        "487"
+      ]
+    },
+    {
+      "retrieval_score": 0.851118,
+      "text": "core_product_name: section | material: Aluminum",
+      "core_id": 100.0,
+      "raw_product_name": "ALUMINUM SECTION",
+      "list_of_product_ids": [
+        "20555",
+        "20518",
+        "20605",
+        "20596",
+        "20682",
+        "20740",
+        "38548",
+        "39312"
+      ]
+    },
+    {
+      "retrieval_score": 0.8509681,
+      "text": "core_product_name: fabricated component | material: Aluminium",
+      "core_id": 97.0,
+      "raw_product_name": "ALUMINIUM FABRICATED COMPONENT",
+      "list_of_product_ids": [
+        "23962",
+        "23964",
+        "23963",
+        "28691"
+      ]
+    },
+    {
+      "retrieval_score": 0.85030425,
+      "text": "core_product_name: cast product | material: Aluminium",
+      "core_id": 305.0,
+      "raw_product_name": "CAST ALUMINIUM",
+      "list_of_product_ids": [
+        "249",
+        "682",
+        "496",
+        "726",
+        "776"
+      ]
+    },
+    {
+      "retrieval_score": 0.8499444,
+      "text": "core_product_name: floating roof | material: Aluminium",
+      "core_id": 95.0,
+      "raw_product_name": "ALUMINIUM FLOATING ROOF",
+      "list_of_product_ids": [
+        "19452",
+        "19457",
+        "19458",
+        "19511",
+        "19472",
+        "19468",
+        "39918"
+      ]
+    },
+    {
+      "retrieval_score": 0.8484911,
+      "text": "core_product_name: scaffolding pipe",
+      "core_id": 1968.0,
+      "raw_product_name": "SCAFFOLDING PIPE",
+      "list_of_product_ids": [
+        "24790",
+        "24780",
+        "24744",
+        "24743",
+        "24804",
+        "24773",
+        "24808",
+        "24794",
+        "25090",
+        "25097"
+      ]
+    },
+    {
+      "retrieval_score": 0.84786695,
+      "text": "core_product_name: tower | material: Titanium",
+      "core_id": 399.0,
+      "raw_product_name": "COLUMN/TOWER TITANIUM.",
+      "list_of_product_ids": [
+        "6653",
+        "5824",
+        "9025",
+        "18520"
+      ]
+    },
+    {
+      "retrieval_score": 0.84475493,
+      "text": "core_product_name: primary structure | construction_features: bolted",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+      "list_of_product_ids": [
+        "20000",
+        "19997",
+        "20035",
+        "21038",
+        "21002",
+        "21083",
+        "21901",
+        "22017",
+        "22116",
+        "22826",
+        "22992"
+      ]
+    },
+    {
+      "retrieval_score": 0.84457827,
+      "text": "core_product_name: partition | material: Aluminium",
+      "core_id": 1637.0,
+      "raw_product_name": "PATITIONS - ALUMINIUM",
+      "list_of_product_ids": [
+        "15639",
+        "15633",
+        "15618",
+        "15724"
+      ]
+    },
+    {
+      "retrieval_score": 0.8437556,
+      "text": "core_product_name: primary structure | construction_features: welded",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+      "list_of_product_ids": [
+        "19999",
+        "20036",
+        "22016",
+        "21003",
+        "21084",
+        "21900",
+        "22115",
+        "21039",
+        "19993",
+        "22825",
+        "22991"
+      ]
+    },
+    {
+      "retrieval_score": 0.8434929,
+      "text": "core_product_name: tower | material: Carbon Steel",
+      "core_id": 399.0,
+      "raw_product_name": "COLUMN/TOWER CARBON STEEL",
+      "list_of_product_ids": [
+        "6647",
+        "5818",
+        "10974",
+        "10969",
+        "11023",
+        "8513",
+        "8541",
+        "9019",
+        "9641",
+        "9683",
+        "11968",
+        "16941",
+        "17394",
+        "17603",
+        "22047",
+        "22063",
+        "22062",
+        "22060",
+        "22058",
+        "22110",
+        "22098",
+        "22089",
+        "22073",
+        "22072",
+        "22070",
+        "22124",
+        "22109",
+        "22137",
+        "22135",
+        "22131",
+        "22130",
+        "22129",
+        "22128",
+        "22061",
+        "38307",
+        "38074",
+        "38087",
+        "38122",
+        "37729",
+        "37745"
+      ]
+    },
+    {
+      "retrieval_score": 0.843317,
+      "text": "core_product_name: wall span | material: Aluminum",
+      "core_id": 102.0,
+      "raw_product_name": "ALUMINUM WALL SPANS",
+      "list_of_product_ids": [
+        "20476",
+        "20541",
+        "20580",
+        "20638",
+        "20695"
+      ]
+    },
+    {
+      "retrieval_score": 0.84254533,
+      "text": "core_product_name: panel | material: Aluminium | type_or_class: Composite",
+      "core_id": 92.0,
+      "raw_product_name": "ALUMINIUM COMPOSITE PANEL",
+      "list_of_product_ids": [
+        "6376",
+        "5547",
+        "15606",
+        "15553",
+        "15522",
+        "15592",
+        "15514",
+        "15569",
+        "15579"
+      ]
+    },
+    {
+      "retrieval_score": 0.8424294,
+      "text": "core_product_name: high mast tower",
+      "core_id": 1126.0,
+      "raw_product_name": "HIGH MAST TOWER",
+      "list_of_product_ids": [
+        "17725",
+        "17692",
+        "17684",
+        "17683",
+        "18661"
+      ]
+    },
+    {
+      "retrieval_score": 0.8413648,
+      "text": "core_product_name: tower | material: Stainless Steel",
+      "core_id": 399.0,
+      "raw_product_name": "COLUMN/TOWER STAINLESS STEEL",
+      "list_of_product_ids": [
+        "6648",
+        "5819",
+        "10975",
+        "11024",
+        "12284",
+        "11673",
+        "8542",
+        "9020",
+        "9642",
+        "9684",
+        "12004",
+        "11969",
+        "12056",
+        "12155",
+        "12581",
+        "12982",
+        "13081",
+        "16944",
+        "17395",
+        "17604",
+        "22159",
+        "22155",
+        "22153",
+        "22146",
+        "22203",
+        "22200",
+        "22151",
+        "37933",
+        "37972",
+        "37981",
+        "38023",
+        "38308",
+        "38033",
+        "38075",
+        "38339",
+        "38086",
+        "38123",
+        "38378",
+        "38393",
+        "37728",
+        "37744"
+      ]
+    },
+    {
+      "retrieval_score": 0.8411813,
+      "text": "core_product_name: heli deck | material: Aluminium",
+      "core_id": 94.0,
+      "raw_product_name": "ALUMINIUM HELI DECK",
+      "list_of_product_ids": [
+        "19185",
+        "28075",
+        "39385",
+        "39419",
+        "39445",
+        "39467",
+        "39469"
+      ]
+    },
+    {
+      "retrieval_score": 0.8409547,
+      "text": "core_product_name: adhesive | material: Aluminium",
+      "core_id": 99.0,
+      "raw_product_name": "ALUMINIUM WORK - ADHESIVE",
+      "list_of_product_ids": [
+        "15588",
+        "15916",
+        "19655",
+        "16974",
+        "37009",
+        "24159"
+      ]
+    },
+    {
+      "retrieval_score": 0.84046924,
+      "text": "core_product_name: construction chemical",
+      "core_id": 444.0,
+      "raw_product_name": "CONSTRUCTION CHEMICALS",
+      "list_of_product_ids": [
+        "15531",
+        "13971",
+        "15530",
+        "15944",
+        "17467",
+        "22627",
+        "23888",
+        "15529",
+        "15528",
+        "35652"
+      ]
+    },
+    {
+      "retrieval_score": 0.84025127,
+      "text": "core_product_name: ventilator | material: Aluminium",
+      "core_id": 614.0,
+      "raw_product_name": "DOORS/ WINDOWS/ VENTILATORS - ALUMINIUM",
+      "list_of_product_ids": [
+        "6344",
+        "5515",
+        "12509",
+        "15638",
+        "15632",
+        "15658",
+        "15660",
+        "15776",
+        "17292"
+      ]
+    },
+    {
+      "retrieval_score": 0.84017205,
+      "text": "core_product_name: activated ball | material: Alumina",
+      "core_id": 42.0,
+      "raw_product_name": "ACTIVATED ALUMINA BALLS",
+      "list_of_product_ids": [
+        "949",
+        "195",
+        "919",
+        "774"
+      ]
+    },
+    {
+      "retrieval_score": 0.8400561,
+      "text": "core_product_name: portable power tool",
+      "core_id": 1731.0,
+      "raw_product_name": "PORTABLE POWER TOOLS",
+      "list_of_product_ids": [
+        "22271",
+        "22267",
+        "27798",
+        "40082",
+        "40084",
+        "40117",
+        "40191",
+        "40192",
+        "40193",
+        "40195",
+        "40198",
+        "40200",
+        "40199",
+        "40201",
+        "40202",
+        "40227",
+        "40194",
+        "40197",
+        "40255",
+        "40294"
+      ]
+    },
+    {
+      "retrieval_score": 0.84001935,
+      "text": "core_product_name: welded structural item",
+      "core_id": 2136.0,
+      "raw_product_name": "STRUCTURAL ITEM (WELDED)",
+      "list_of_product_ids": [
+        "173",
+        "361",
+        "733",
+        "427",
+        "923"
+      ]
+    },
+    {
+      "retrieval_score": 0.8396543,
+      "text": "core_product_name: telescopic access platform",
+      "core_id": 2216.0,
+      "raw_product_name": "TELESCOPIC ACCESS PLATFORM",
+      "list_of_product_ids": [
+        "61",
+        "805",
+        "351"
+      ]
+    },
+    {
+      "retrieval_score": 0.8392739,
+      "text": "core_product_name: bolted structural item",
+      "core_id": 2135.0,
+      "raw_product_name": "STRUCTURAL ITEM (BOLTED)",
+      "list_of_product_ids": [
+        "173",
+        "371",
+        "733",
+        "527",
+        "207"
+      ]
+    },
+    {
+      "retrieval_score": 0.8391314,
+      "text": "core_product_name: tower | material: CS (Carbon Steel) | material: LAS (Low Alloy Steel) | material: SS (Stainless Steel) | construction_features: cladded",
+      "core_id": 399.0,
+      "raw_product_name": "COLUMN/TOWER-CS/LAS+SS CLADDED",
+      "list_of_product_ids": [
+        "6652",
+        "5823",
+        "11027",
+        "12285",
+        "9687",
+        "8545",
+        "9024",
+        "12006",
+        "12057",
+        "12158",
+        "12584",
+        "12984",
+        "13084",
+        "16947",
+        "17607",
+        "22459",
+        "22460",
+        "22454",
+        "22453",
+        "22452",
+        "22500",
+        "22499",
+        "22485",
+        "22529",
+        "38311",
+        "38073",
+        "38088",
+        "38121",
+        "37731",
+        "37747"
+      ]
+    },
+    {
+      "retrieval_score": 0.8380832,
+      "text": "core_product_name: resilient mounting",
+      "core_id": 1900.0,
+      "raw_product_name": "RESILIENT MOUNTINGS",
+      "list_of_product_ids": [
+        "22948",
+        "22951",
+        "22952",
+        "28652"
+      ]
+    }
+  ]
+}

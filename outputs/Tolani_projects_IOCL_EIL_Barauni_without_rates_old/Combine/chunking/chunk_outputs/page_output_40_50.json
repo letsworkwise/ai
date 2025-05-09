@@ -1,0 +1,148 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "NB  4.000                     INCHES",
+      "core_product_name": "pipe",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 4.000 inches",
+      "feature_or_specifications": "",
+      "quantity": "20.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "LOW FRICTION PADS: Supply, fabrication and fixing of low friction pads with suitable bonding materials / fasteners, as TEFLON PAD WITH COMPRESSIVE STRENGTH (0.25 OFFSET) :1870 PSI",
+      "core_product_name": "low friction pad",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: teflon, compressive strength: 1870 psi, offset: 0.25, bonding materials: suitable, fasteners: suitable",
+      "quantity": "0.07",
+      "unit": "cu. m"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "LOW FRICTION PADS: Supply, fabrication and fixing of low friction pads with suitable bonding materials / fasteners, as GRAPHITE PAD WITH COMPRESSIVE STRENGTH : 2877 PSI",
+      "core_product_name": "low friction pad",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: graphite, compressive strength: 2877 psi, bonding materials: suitable, fasteners: suitable",
+      "quantity": "0.07",
+      "unit": "cu. m"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      40,
+      49
+    ],
+    "original_rows": [
+      {
+        "0": 41,
+        "1": 0,
+        "2": "M23901001300",
+        "3": "NB  4.000                     INCHES",
+        "4": 20.0,
+        "5": "Nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 42,
+        "1": 0,
+        "2": "M24100000000",
+        "3": "LOW FRICTION PADS: Supply, fabrication and fixing of low friction pads with suitable bonding materials / fasteners, as",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 43,
+        "1": 0,
+        "2": "M24101000000",
+        "3": "TEFLON PAD WITH COMPRESSIVE STRENGTH (0.25 OFFSET) :1870 PSI",
+        "4": 0.07,
+        "5": "Cu. M",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 44,
+        "1": 0,
+        "2": "M24102000000",
+        "3": "GRAPHITE PAD WITH COMPRESSIVE STRENGTH : 2877 PSI",
+        "4": 0.07,
+        "5": "Cu. M",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 45,
+        "1": 0,
+        "2": "M26100000000",
+        "3": "OPENING & BOXING-UP OF PIPING / EQUIPMENT FLANGES & BLINDING OF FLANGESJOINTS:",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 46,
+        "1": 0,
+        "2": "M26101000000",
+        "3": "FLANGE ASSEMBLY 150#",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 47,
+        "1": 0,
+        "2": "M26101000400",
+        "3": "NB  0.500                     INCHES",
+        "4": 1.0,
+        "5": "Nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 48,
+        "1": 0,
+        "2": "M26101000500",
+        "3": "NB  0.750                     INCHES",
+        "4": 1.0,
+        "5": "Nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 49,
+        "1": 0,
+        "2": "M26101000600",
+        "3": "NB  1.000                     INCHES",
+        "4": 1.0,
+        "5": "Nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 50,
+        "1": 0,
+        "2": "M26101000800",
+        "3": "NB  1.500                     INCHES",
+        "4": 1.0,
+        "5": "Nos",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2252,
+    "completion_tokens": 1062
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "query": "core_product_name: led tube light fixture | size: lamp wattage: 2x36W | feature_or_specifications: feature: explosion proof",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: tube light fixture",
+        "raw_product_name": "TUBE LIGHT FIXTURES",
+        "list_of_product_ids": [
+          "139",
+          "811",
+          "494",
+          "021",
+          "021"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: panel tube light",
+        "raw_product_name": "PANEL TUBE LIGHT",
+        "list_of_product_ids": [
+          "19668",
+          "19677",
+          "19680",
+          "19684",
+          "24243"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: fluorescent lighting fixture",
+        "raw_product_name": "FLUORESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": [
+          "19025",
+          "19023",
+          "19021",
+          "19019",
+          "19164"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: pdb panel for tfms",
+  "retrieval_results": [
+    {
+      "id": "variant-ffb04dda-0f09-5456-8607-4f01ee0b5982",
+      "score": 0.8726172,
+      "metadata": {
+        "text": "core_product_name: power distribution board | acronymed_core_product_name: pdb (power distribution board)",
+        "raw_product_name": "POWER DISTRIBUTION BOARD (PDB)",
+        "list_of_product_ids": "13892,14644,14778,14809,17930,17917,17892,17949,17939,18026,18008,18049,20762,20761,27494",
+        "core_id": 1743.0
+      }
+    },
+    {
+      "id": "variant-9d54fd87-21ea-5c1a-ae13-333a826234cd",
+      "score": 0.8679383,
+      "metadata": {
+        "text": "core_product_name: system panel",
+        "raw_product_name": "SYSTEM PANELS",
+        "list_of_product_ids": "1,413,621,099",
+        "core_id": 2180.0
+      }
+    },
+    {
+      "id": "variant-7dce4d21-d1e9-5d82-98f9-329565ede5d1",
+      "score": 0.86532134,
+      "metadata": {
+        "text": "core_product_name: fieldbus monitor",
+        "raw_product_name": "FIELDBUS MONITOR",
+        "list_of_product_ids": "5,948,677,710,076",
+        "core_id": 821.0
+      }
+    },
+    {
+      "id": "variant-95725655-b9d5-5abd-b826-0ad218cf768a",
+      "score": 0.8641911,
+      "metadata": {
+        "text": "core_product_name: instrument panel",
+        "raw_product_name": "INSTRUMENT PANEL",
+        "list_of_product_ids": "13720,14806,14814,14824,21097,22773,36101",
+        "core_id": 1256.0
+      }
+    },
+    {
+      "id": "variant-b15e4332-fd46-5fd8-b4fb-936a9774dd2d",
+      "score": 0.8636269,
+      "metadata": {
+        "text": "core_product_name: fast bus transfer panel",
+        "raw_product_name": "FAST BUS TRANSFER PANEL",
+        "list_of_product_ids": "14205,36918,22097,24831,24819,24934,24945,33490,33680,36146",
+        "core_id": 801.0
+      }
+    },
+    {
+      "id": "variant-bd421ff8-d26f-5bdf-9169-191ddfd379a4",
+      "score": 0.8625653,
+      "metadata": {
+        "text": "core_product_name: digital switch | operating_conditions: Temperature | mounting_or_installation: Panel mounted",
+        "raw_product_name": "DIGITAL TEMP SWITCH PANEL MOUNTED TYPE",
+        "list_of_product_ids": "164,041,650,716,513",
+        "core_id": 592.0
+      }
+    },
+    {
+      "id": "variant-ec24adf3-64c0-5cab-a601-956105d3788f",
+      "score": 0.85952467,
+      "metadata": {
+        "text": "core_product_name: fieldbus tester",
+        "raw_product_name": "FIELDBUS TESTER",
+        "list_of_product_ids": "5,949,677,810,923",
+        "core_id": 823.0
+      }
+    },
+    {
+      "id": "variant-6cd09d55-0b7c-585f-820b-4a2cf13a2437",
+      "score": 0.85912764,
+      "metadata": {
+        "text": "core_product_name: thermal mass flow meter",
+        "raw_product_name": "THERMAL MASS FLOW METER",
+        "list_of_product_ids": "14013,18172,24191,36113",
+        "core_id": 2253.0
+      }
+    },
+    {
+      "id": "variant-42e08f95-d7cd-57f5-ba2f-6871ab20420b",
+      "score": 0.85798794,
+      "metadata": {
+        "text": "core_product_name: control panel",
+        "raw_product_name": "CONTROL PANEL",
+        "list_of_product_ids": "7620,10723,10724,7294,11348,10704,10706,10708,10709,10705,10707,7889,8210,16017,16030,16028,36914,16897,18294,18873,18919,19439,20784,20783,21195,24829,24817,24932,24943,21198,36654,36677,33483,33678,35056",
+        "core_id": 453.0
+      }
+    },
+    {
+      "id": "variant-b7376535-2715-5ef8-8c57-c6ece399fec9",
+      "score": 0.85722053,
+      "metadata": {
+        "text": "core_product_name: distributed digital control, monitoring information system | acronymed_core_product_name: ddcmis",
+        "raw_product_name": "DISTRIBUTED DIGITAL CONTROL,MONITORING INFORMATION SYSTEM(DDCMIS)",
+        "list_of_product_ids": "1,361,820,927",
+        "core_id": 605.0
+      }
+    },
+    {
+      "id": "variant-48f2033c-304e-52d2-acd9-1d9a493e771a",
+      "score": 0.8569825,
+      "metadata": {
+        "text": "core_product_name: telemetry interface cabinet",
+        "raw_product_name": "TELEMETRY INTERFACE CABINET",
+        "list_of_product_ids": "13988,18052,18994,19044,21698",
+        "core_id": 2214.0
+      }
+    },
+    {
+      "id": "variant-413ae249-19f3-5238-9e1e-81c9b8824457",
+      "score": 0.85666925,
+      "metadata": {
+        "text": "core_product_name: addressable fire alarm panel",
+        "raw_product_name": "ADDRESSABLE FIRE ALARM PANEL",
+        "list_of_product_ids": "37759,37764,37769,37774,37780,37790",
+        "core_id": 48.0
+      }
+    },
+    {
+      "id": "variant-325a655e-9218-5188-8848-bce7e2d80808",
+      "score": 0.85647106,
+      "metadata": {
+        "text": "core_product_name: mimic panel",
+        "raw_product_name": "MIMIC PANELS",
+        "list_of_product_ids": "13756,18853,18911,36917,23153,24834,24822,24936,24948,33485,33679",
+        "core_id": 1478.0
+      }
+    },
+    {
+      "id": "variant-0a9290b3-8ea7-59a2-a8d9-9ba99d3dbdaa",
+      "score": 0.8551755,
+      "metadata": {
+        "text": "core_product_name: machine monitoring system",
+        "raw_product_name": "MACHINE MONITORING SYSTEMS",
+        "list_of_product_ids": "6478,5649,12455,32772,38192",
+        "core_id": 1418.0
+      }
+    },
+    {
+      "id": "variant-7e79e2f4-50f1-5eb2-ad00-d8225fbf09a8",
+      "score": 0.8549377,
+      "metadata": {
+        "text": "core_product_name: power management system",
+        "raw_product_name": "POWER MANAGEMENT SYSTEM",
+        "list_of_product_ids": "138,561,462,423,212",
+        "core_id": 1744.0
+      }
+    },
+    {
+      "id": "variant-3eeb4429-0c98-5866-91ea-e859fefb8e31",
+      "score": 0.8544799,
+      "metadata": {
+        "text": "core_product_name: rectifier panel",
+        "raw_product_name": "RECTIFIER PANEL",
+        "list_of_product_ids": "171,741,717,527,078",
+        "core_id": 1877.0
+      }
+    },
+    {
+      "id": "variant-e7c3a8c8-2d49-5297-bb93-4f2e288fa355",
+      "score": 0.85441625,
+      "metadata": {
+        "text": "core_product_name: panel tube light",
+        "raw_product_name": "PANEL TUBE LIGHT",
+        "list_of_product_ids": "19668,19677,19680,19684,24243",
+        "core_id": 1636.0
+      }
+    },
+    {
+      "id": "variant-14208e6a-14c7-5fd2-b63c-221f9251f016",
+      "score": 0.8540274,
+      "metadata": {
+        "text": "core_product_name: string monitoring box",
+        "raw_product_name": "STRING MONITORING BOX",
+        "list_of_product_ids": "22531,22583,22847,22835",
+        "core_id": 2129.0
+      }
+    },
+    {
+      "id": "variant-e2c5e19f-b004-5e9a-af92-357a7b21565d",
+      "score": 0.8539646,
+      "metadata": {
+        "text": "core_product_name: technological control system",
+        "raw_product_name": "TECHNOLOGICAL CONTROL SYSTEM",
+        "list_of_product_ids": "236,112,356,823,584",
+        "core_id": 2209.0
+      }
+    },
+    {
+      "id": "variant-a4ebd8e5-7045-562f-b9cd-963999de4c2c",
+      "score": 0.8539364,
+      "metadata": {
+        "text": "core_product_name: fire alarm panel",
+        "raw_product_name": "FIRE ALARM PANEL",
+        "list_of_product_ids": "8896,8906,9845,9853,9863,8933,9076,9137,14320,14321,10735,16601,16125,34974,35217,36088,36458",
+        "core_id": 837.0
+      }
+    },
+    {
+      "id": "variant-4bf24592-bcad-5836-920c-14c13c81f014",
+      "score": 0.85353094,
+      "metadata": {
+        "text": "core_product_name: priority panel",
+        "raw_product_name": "PRIORITY PANEL",
+        "list_of_product_ids": "19172,19174,36915,28074,33481,33496,33499,33500,33504,33676",
+        "core_id": 1786.0
+      }
+    },
+    {
+      "id": "variant-dd725dee-67a2-56b7-aa3c-f6e233946ece",
+      "score": 0.85350144,
+      "metadata": {
+        "text": "core_product_name: automatic power factor correction panel | acronymed_core_product_name: apfc panel",
+        "raw_product_name": "APFC PANEL",
+        "list_of_product_ids": "14207,14608,14633,36913,24833,24821,24947,33479,33501,33677",
+        "core_id": 125.0
+      }
+    },
+    {
+      "id": "variant-76a537fd-4820-56a7-88c5-8afdfe1b50c2",
+      "score": 0.8519193,
+      "metadata": {
+        "text": "core_product_name: tubular product | accessories_or_attachments: coils | accessories_or_attachments: panels",
+        "raw_product_name": "TUBULAR PRODUCT(COILS & PANELS)",
+        "list_of_product_ids": "213,822,109,428,548",
+        "core_id": 2292.0
+      }
+    },
+    {
+      "id": "variant-72ca9b83-8000-5f34-839f-39a54cda3423",
+      "score": 0.85170084,
+      "metadata": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (pdb (power distribution board))",
+        "raw_product_name": "A.C. DISTRIBUTION BOARD (PDB)",
+        "list_of_product_ids": "14164,14792,14811,19308",
+        "core_id": 20.0
+      }
+    },
+    {
+      "id": "variant-2ad888d5-9143-5033-b2a0-2ff4d351f985",
+      "score": 0.85167354,
+      "metadata": {
+        "text": "core_product_name: wellhead control panel",
+        "raw_product_name": "WELLHEAD CONTROL PANEL",
+        "list_of_product_ids": "15459,16750,24836,24824,16753,24938,24950,37081,36630,36115",
+        "core_id": 2470.0
+      }
+    },
+    {
+      "id": "variant-a34f1f1e-82d9-5e87-b46b-8d2eb35aca6c",
+      "score": 0.8515669,
+      "metadata": {
+        "text": "core_product_name: tachometer",
+        "raw_product_name": "TACHOMETER",
+        "list_of_product_ids": "164,341,646,822,032",
+        "core_id": 2208.0
+      }
+    },
+    {
+      "id": "variant-09fda6e0-1a13-5098-925f-788f30f1f21d",
+      "score": 0.85150385,
+      "metadata": {
+        "text": "core_product_name: stack emission monitoring system",
+        "raw_product_name": "STACK EMMISSION MONITORING SYSTEM",
+        "list_of_product_ids": "1,403,321,845",
+        "core_id": 2097.0
+      }
+    },
+    {
+      "id": "variant-85822593-c017-5f2c-b98f-d8c30da250b2",
+      "score": 0.8512381,
+      "metadata": {
+        "text": "core_product_name: panel filter | operating_conditions: Air",
+        "raw_product_name": "Panel Filter For Air",
+        "list_of_product_ids": "7126,7453,11869,11950,18108,18107",
+        "core_id": 1829.0
+      }
+    },
+    {
+      "id": "variant-74473618-f368-5f8e-9f75-5bb7b011cde3",
+      "score": 0.85091865,
+      "metadata": {
+        "text": "core_product_name: ground monitoring system",
+        "raw_product_name": "GROUND MONITORING SYSTEMS",
+        "list_of_product_ids": "6629,5799,10305,24235,19579",
+        "core_id": 1079.0
+      }
+    },
+    {
+      "id": "variant-cd52aca8-dd3e-59e7-b179-e704fd4294e9",
+      "score": 0.8509027,
+      "metadata": {
+        "text": "core_product_name: management system",
+        "raw_product_name": "TANK FARM MANAGEMENT SYSTEM",
+        "list_of_product_ids": "6585,5755,11689,11698,10102,10116,11714,13223,21062,35434",
+        "core_id": 2200.0
+      }
+    }
+  ]
+}

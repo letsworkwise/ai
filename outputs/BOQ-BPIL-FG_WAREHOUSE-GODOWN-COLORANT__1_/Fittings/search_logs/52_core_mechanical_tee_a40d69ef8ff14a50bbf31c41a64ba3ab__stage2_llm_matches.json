@@ -1,0 +1,72 @@
+{
+  "query": "core_product_name: mechanical tee | size: tee size: 150 x 25 NB | feature_or_specifications: feature: threaded outlet",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: mechanical miscellaneous work",
+        "raw_product_name": "MECHANICAL-MISCELLANEOUS WORKS",
+        "list_of_product_ids": [
+          "36859",
+          "35838",
+          "35841",
+          "35881",
+          "36516"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: flow tee | material: CS (Carbon Steel) | operating_conditions: Subsea",
+        "raw_product_name": "FLOW TEE CS - SUBSEA",
+        "list_of_product_ids": [
+          "19419",
+          "27765",
+          "27745",
+          "27735",
+          "27725",
+          "27776",
+          "27783",
+          "27755"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: flow tee",
+        "raw_product_name": "FLOW TEE",
+        "list_of_product_ids": [
+          "5371",
+          "6067",
+          "11152",
+          "11151",
+          "10737",
+          "11283",
+          "10560",
+          "12908",
+          "15980",
+          "17555",
+          "27536",
+          "27759",
+          "27749",
+          "27739",
+          "27729",
+          "27719",
+          "27782",
+          "36526"
+        ]
+      }
+    }
+  ]
+}

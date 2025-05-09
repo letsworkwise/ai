@@ -1,0 +1,59 @@
+{
+  "query": "core_product_name: earth pit | feature_or_specifications: type: maintenance free (chemical) earth electrode, included: all parts, hardware, test link, application: equipment earthing, neutral earthing, lightning protection, specification: as per specification, attachment-29 lpg.eng.117.06.03.2001, standard: indian standard, included: supply of commissioning and 2 years o&m(operation & maintenance) spares",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: earthing material",
+        "raw_product_name": "EARTHING MATERIALS",
+        "list_of_product_ids": [
+          "378",
+          "733",
+          "788",
+          "037",
+          "898"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: instrumentation earthing",
+        "raw_product_name": "INSTRUMENTATION EARTHING",
+        "list_of_product_ids": [
+          "13420"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: electrode",
+        "raw_product_name": "ELECTRODE",
+        "list_of_product_ids": [
+          "21773",
+          "21781",
+          "21777",
+          "26028",
+          "26689",
+          "32986",
+          "33019",
+          "33173",
+          "33240",
+          "33540",
+          "33612",
+          "35900"
+        ]
+      }
+    }
+  ]
+}

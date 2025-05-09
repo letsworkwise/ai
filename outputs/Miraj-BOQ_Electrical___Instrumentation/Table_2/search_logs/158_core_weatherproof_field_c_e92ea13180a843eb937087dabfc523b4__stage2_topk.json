@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: weatherproof field call station | feature_or_specifications: weatherproof: yes",
+  "retrieval_results": [
+    {
+      "id": "variant-d1ed7999-c290-5ac5-bd30-16bab33dd055",
+      "score": 0.91240317,
+      "metadata": {
+        "text": "core_product_name: weatherproof control station | protection_features: Weatherproof",
+        "raw_product_name": "CONTROL STATIONS- WEATHERPROOF",
+        "list_of_product_ids": "6395,5566,10308,10609,9189,9211,9212,9294,9188,9190,9303,9376,19438,24491,24489,24494,24493,38268,35766",
+        "core_id": 459.0
+      }
+    },
+    {
+      "id": "variant-f6f82d72-06c9-560b-9c54-9f2cd13f98d1",
+      "score": 0.9092562,
+      "metadata": {
+        "text": "core_product_name: weatherproof test station | protection_features: Weatherproof",
+        "raw_product_name": "TEST STATION (WEATHERPROOF)",
+        "list_of_product_ids": "215,472,153,627,678",
+        "core_id": 2238.0
+      }
+    },
+    {
+      "id": "variant-035bb6e4-a7d4-5f12-9d32-b43f858be59a",
+      "score": 0.8806558,
+      "metadata": {
+        "text": "core_product_name: weatherproof junction box | protection_features: Weatherproof",
+        "raw_product_name": "JUNCTION BOX (WEATHERPROOF)",
+        "list_of_product_ids": "215,532,156,528,596",
+        "core_id": 1310.0
+      }
+    },
+    {
+      "id": "variant-62910790-3afc-5300-9796-f3874f331d36",
+      "score": 0.8708977,
+      "metadata": {
+        "text": "core_product_name: flame proof control station | protection_features: Flame proof",
+        "raw_product_name": "CONTROL STATIONS-FLAME PROOF",
+        "list_of_product_ids": "6396,5567,10309,10586,10556,10599,16896,24100,22849,24498,24497,24496,24495,35767",
+        "core_id": 463.0
+      }
+    },
+    {
+      "id": "variant-856bb272-a0de-5132-8ff2-cd7de33b398f",
+      "score": 0.86703205,
+      "metadata": {
+        "text": "core_product_name: flameproof push button station | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF PUSH BUTTON STATION",
+        "list_of_product_ids": "13585,14846,15921,20279",
+        "core_id": 898.0
+      }
+    },
+    {
+      "id": "variant-9143306f-1c3d-5e36-b761-385a5aeb8e3b",
+      "score": 0.86673886,
+      "metadata": {
+        "text": "core_product_name: explosion proof control station | protection_features: Explosion proof",
+        "raw_product_name": "CONTROL STATIONS - EXPLOSION PROOF",
+        "list_of_product_ids": "19797,19862,19850,19865,19864,28286,35867,35889,35942",
+        "core_id": 461.0
+      }
+    },
+    {
+      "id": "variant-6f51bba4-79b9-5d92-928d-652b82cce02e",
+      "score": 0.86073726,
+      "metadata": {
+        "text": "core_product_name: flameproof equipment | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF EQUIPMENT",
+        "list_of_product_ids": "13446,13447,13448,13449,13450,13473,13477",
+        "core_id": 894.0
+      }
+    },
+    {
+      "id": "variant-8401d0f1-45ce-557e-9f42-8b47eb19d29d",
+      "score": 0.8586042,
+      "metadata": {
+        "text": "core_product_name: internal wall | protection_features: fireproof",
+        "raw_product_name": "INTERNAL FIRE WALL",
+        "list_of_product_ids": "19216,28252,39669,39674,39745,39812,39784,39913",
+        "core_id": 1288.0
+      }
+    },
+    {
+      "id": "variant-501f4268-336a-5e01-af3e-8edf7d0a9e1c",
+      "score": 0.8546349,
+      "metadata": {
+        "text": "core_product_name: fire proofing material | protection_features: Fireproof",
+        "raw_product_name": "FIRE PROOFING MATERIAL",
+        "list_of_product_ids": "38658,38561,38562,38566",
+        "core_id": 856.0
+      }
+    },
+    {
+      "id": "variant-6f388475-f466-5ff3-ba8a-3d0e206bd2c6",
+      "score": 0.8538008,
+      "metadata": {
+        "text": "core_product_name: flameproof plug | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF PLUG",
+        "list_of_product_ids": "201,172,041,520,651",
+        "core_id": 897.0
+      }
+    },
+    {
+      "id": "variant-7c3e9537-bad4-5736-9cce-b57a0949b499",
+      "score": 0.8526654,
+      "metadata": {
+        "text": "core_product_name: external fire proofing | protection_features: Fireproof | type_or_class: A Rated",
+        "raw_product_name": "EXTERNAL FIRE PROOFING A RATED",
+        "list_of_product_ids": "39642,39670,39676,39673,39744",
+        "core_id": 776.0
+      }
+    },
+    {
+      "id": "variant-760f80e5-c1c7-5bd9-a10f-267445f26362",
+      "score": 0.8525332,
+      "metadata": {
+        "text": "core_product_name: telephone system",
+        "raw_product_name": "TELEPHONE SYSTEM",
+        "list_of_product_ids": "193,772,764,139,783",
+        "core_id": 2217.0
+      }
+    },
+    {
+      "id": "variant-3ddc3bca-68aa-59de-bad1-3710e64d9b3e",
+      "score": 0.8520206,
+      "metadata": {
+        "text": "core_product_name: fixed switch board | mounting_or_installation: for package equipments | protection_features: flame proof",
+        "raw_product_name": "SWITCH BOARD FIXED FOR PACKAGE EQUIPMENTS FLAME PROOF",
+        "list_of_product_ids": "13973,14603,14849,19440,20280,22864,35781",
+        "core_id": 2168.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.85201097,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-0c3f77fa-76a3-5c86-a778-78ccb3ad95e4",
+      "score": 0.85156614,
+      "metadata": {
+        "text": "core_product_name: wireless communication equipment",
+        "raw_product_name": "Wireless Communication Equipment",
+        "list_of_product_ids": "7073,7400,18829,18864",
+        "core_id": 2493.0
+      }
+    },
+    {
+      "id": "variant-9f830cf9-aaed-5a97-8a1b-c000701412dd",
+      "score": 0.85104644,
+      "metadata": {
+        "text": "core_product_name: for cementitious surface water proofing",
+        "raw_product_name": "WATER PROOFING FOR CEMENTITIONS SURFACE",
+        "list_of_product_ids": "14088,22464,24156,23887,22879,35650",
+        "core_id": 2445.0
+      }
+    },
+    {
+      "id": "variant-a0c0bcb6-a4e3-59a2-a30a-467701880557",
+      "score": 0.8506507,
+      "metadata": {
+        "text": "core_product_name: flameproof socket | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF SOCKET",
+        "list_of_product_ids": "20118,20440,20416,20650,22853",
+        "core_id": 900.0
+      }
+    },
+    {
+      "id": "variant-6f41ca38-b46b-522d-bf50-5c00f9a6fd4f",
+      "score": 0.8505692,
+      "metadata": {
+        "text": "core_product_name: telephone",
+        "raw_product_name": "TELEPHONE",
+        "list_of_product_ids": "181,681,816,518,576",
+        "core_id": 2215.0
+      }
+    },
+    {
+      "id": "variant-e516e659-612c-582a-b731-007fc95acd57",
+      "score": 0.8505175,
+      "metadata": {
+        "text": "core_product_name: level switch | protection_features: Explosion Proof",
+        "raw_product_name": "Level Switches (Explosion Proof)",
+        "list_of_product_ids": "17095,17094,17093,17092,17091,17090,17096,27177",
+        "core_id": 1337.0
+      }
+    },
+    {
+      "id": "variant-73ac1663-9c33-5076-bc1d-29bfe0484357",
+      "score": 0.8503878,
+      "metadata": {
+        "text": "core_product_name: telecommunication system",
+        "raw_product_name": "TELECOMMUNICATION SYSTEM",
+        "list_of_product_ids": "14203,18336,22435,36100",
+        "core_id": 2212.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.8498054,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-264dbf59-32e9-5b3f-8f2f-ff8fd311b4c0",
+      "score": 0.849796,
+      "metadata": {
+        "text": "core_product_name: resilient mounting",
+        "raw_product_name": "RESILIENT MOUNTINGS",
+        "list_of_product_ids": "22948,22951,22952,28652",
+        "core_id": 1900.0
+      }
+    },
+    {
+      "id": "variant-fc1f7925-7372-55a1-9253-aba90e14a95e",
+      "score": 0.8495064,
+      "metadata": {
+        "text": "core_product_name: external fire proofing | protection_features: Fireproof | type_or_class: H Rated",
+        "raw_product_name": "EXTERNAL FIRE PROOFING H RATED",
+        "list_of_product_ids": "19201,28251,39639,39672",
+        "core_id": 776.0
+      }
+    },
+    {
+      "id": "variant-d4c7835c-88ad-51a6-8148-be43d9246c12",
+      "score": 0.84918034,
+      "metadata": {
+        "text": "core_product_name: acid resistant castable | protection_features: acid resistant",
+        "raw_product_name": "ACID RESISTANT CASTABLE",
+        "list_of_product_ids": "614,153,118,834",
+        "core_id": 33.0
+      }
+    },
+    {
+      "id": "variant-64683814-d005-5886-9723-6ec80b92c8c2",
+      "score": 0.84865797,
+      "metadata": {
+        "text": "core_product_name: telephone instrument",
+        "raw_product_name": "TELEPHONE INSTRUMENT",
+        "list_of_product_ids": "20448,20540,20579,20639,20696,20753",
+        "core_id": 2218.0
+      }
+    },
+    {
+      "id": "variant-dabf5d56-8f55-5cec-9e22-9cbc798de226",
+      "score": 0.8485355,
+      "metadata": {
+        "text": "core_product_name: external wireless communication",
+        "raw_product_name": "EXTERNAL WIRELESS COMMUNICATION",
+        "list_of_product_ids": "28233,28245,28232,34348,34347,34346",
+        "core_id": 778.0
+      }
+    },
+    {
+      "id": "variant-659e6f59-3ec0-5adc-a93a-772536b141f6",
+      "score": 0.8483105,
+      "metadata": {
+        "text": "core_product_name: water proofing compound",
+        "raw_product_name": "WATER PROOFING COMPOUND",
+        "list_of_product_ids": "14089,14317,18284,18283,18276,18288,19039,19038,19037,23890,30779,30818,31887,30753,38283,38440,38443,33351,37884,37889,38468,37891,38147,38130,35418,38454,38427",
+        "core_id": 2444.0
+      }
+    },
+    {
+      "id": "variant-651e7de1-5940-5447-b20c-de1f1785c37c",
+      "score": 0.84813696,
+      "metadata": {
+        "text": "core_product_name: flameproof convenience outlet | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF - CONVENIENCE OUTLETS",
+        "list_of_product_ids": "19657,19639,19667,28279",
+        "core_id": 892.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.84813315,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-64cf4fe0-bb0c-526b-aab5-82a9f5bae62c",
+      "score": 0.8479009,
+      "metadata": {
+        "text": "core_product_name: flameproof switch | protection_features: Flameproof",
+        "raw_product_name": "SWITCH- FLAMEPROOF",
+        "list_of_product_ids": "228,782,301,335,779",
+        "core_id": 2173.0
+      }
+    }
+  ]
+}

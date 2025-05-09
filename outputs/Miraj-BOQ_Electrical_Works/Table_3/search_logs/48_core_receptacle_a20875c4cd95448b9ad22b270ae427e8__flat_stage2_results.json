@@ -1,0 +1,414 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.89056045,
+      "text": "core_product_name: industrial receptacle",
+      "core_id": 1235.0,
+      "raw_product_name": "INDUSTRIAL RECEPTACLE",
+      "list_of_product_ids": [
+        "136",
+        "891",
+        "479",
+        "414",
+        "813"
+      ]
+    },
+    {
+      "retrieval_score": 0.88327765,
+      "text": "core_product_name: welding receptacle",
+      "core_id": 2460.0,
+      "raw_product_name": "WELDING RECEPTACLES",
+      "list_of_product_ids": [
+        "19666",
+        "19656",
+        "19638",
+        "27341"
+      ]
+    },
+    {
+      "retrieval_score": 0.86803114,
+      "text": "core_product_name: electrical accessory",
+      "core_id": 701.0,
+      "raw_product_name": "ELECTRICAL ACCESSORIES",
+      "list_of_product_ids": [
+        "211",
+        "632",
+        "705",
+        "121",
+        "165"
+      ]
+    },
+    {
+      "retrieval_score": 0.86668235,
+      "text": "core_product_name: dense castable | material: Refractory",
+      "core_id": 569.0,
+      "raw_product_name": "DENSE REFRACTORY CASTABLE",
+      "list_of_product_ids": [
+        "6139",
+        "5309",
+        "10462",
+        "8832",
+        "8835",
+        "8847",
+        "8849",
+        "8865",
+        "9604",
+        "9620",
+        "9628",
+        "9661",
+        "9666",
+        "9657",
+        "9801",
+        "13155",
+        "24304",
+        "24300",
+        "24301",
+        "24302"
+      ]
+    },
+    {
+      "retrieval_score": 0.86662656,
+      "text": "core_product_name: electrical rack",
+      "core_id": 708.0,
+      "raw_product_name": "ELECTRICAL RACK",
+      "list_of_product_ids": [
+        "36911",
+        "24771",
+        "24772",
+        "33475",
+        "33497",
+        "33498",
+        "33502",
+        "33503",
+        "33682"
+      ]
+    },
+    {
+      "retrieval_score": 0.86653656,
+      "text": "core_product_name: high voltage capacitor | size_or_capacity: High Voltage",
+      "core_id": 295.0,
+      "raw_product_name": "CAPACITORS-HIGH VOLTAGE",
+      "list_of_product_ids": [
+        "6427",
+        "5597",
+        "10503",
+        "10567",
+        "11340",
+        "12080"
+      ]
+    },
+    {
+      "retrieval_score": 0.8651952,
+      "text": "core_product_name: level instrument | type_or_class: Capacitance",
+      "core_id": 1335.0,
+      "raw_product_name": "LEVEL INSTRUMENTS CAPACITANCE",
+      "list_of_product_ids": [
+        "1",
+        "357",
+        "636",
+        "109"
+      ]
+    },
+    {
+      "retrieval_score": 0.86492777,
+      "text": "core_product_name: electrical terminal",
+      "core_id": 712.0,
+      "raw_product_name": "ELECTRICAL TERMINALS",
+      "list_of_product_ids": [
+        "21153",
+        "21157",
+        "28575",
+        "36610"
+      ]
+    },
+    {
+      "retrieval_score": 0.8649169,
+      "text": "core_product_name: level switch | type_or_class: Capacitance Type",
+      "core_id": 1337.0,
+      "raw_product_name": "LEVEL SWITCHES (CAPACITANCE TYPE)",
+      "list_of_product_ids": [
+        "13589",
+        "15247",
+        "15261",
+        "19429"
+      ]
+    },
+    {
+      "retrieval_score": 0.86478096,
+      "text": "core_product_name: miniature type hardwire console item",
+      "core_id": 1480.0,
+      "raw_product_name": "MINIATURE TYPE HARDWIRE CONSOLE ITEMS",
+      "list_of_product_ids": [
+        "5935",
+        "6764",
+        "10918",
+        "10920",
+        "10919"
+      ]
+    },
+    {
+      "retrieval_score": 0.86406,
+      "text": "core_product_name: rectifier",
+      "core_id": 1876.0,
+      "raw_product_name": "RECTIFIER",
+      "list_of_product_ids": [
+        "20789",
+        "20788",
+        "21192",
+        "27088"
+      ]
+    },
+    {
+      "retrieval_score": 0.86267126,
+      "text": "core_product_name: column tray | size_or_capacity: High Capacity",
+      "core_id": 393.0,
+      "raw_product_name": "COLUMN TRAYS-HIGH CAPACITY",
+      "list_of_product_ids": [
+        "6",
+        "705",
+        "587",
+        "612",
+        "418"
+      ]
+    },
+    {
+      "retrieval_score": 0.8623739,
+      "text": "core_product_name: reciprocating compressor | type_or_class: Diaphragm",
+      "core_id": 415.0,
+      "raw_product_name": "COMPRESSURE-RECIPRO(DIAPHRAGM)",
+      "list_of_product_ids": [
+        "5910",
+        "6739",
+        "10843",
+        "26945"
+      ]
+    },
+    {
+      "retrieval_score": 0.8623365,
+      "text": "core_product_name: insulator | accessories_or_attachments: hardware accessories",
+      "core_id": 1276.0,
+      "raw_product_name": "INSULATOR & HARDWARE ACCESSORIES",
+      "list_of_product_ids": [
+        "18804",
+        "18813",
+        "18984",
+        "18992",
+        "18979",
+        "18981",
+        "18987",
+        "18980",
+        "18978",
+        "37519",
+        "37688",
+        "37714",
+        "37719"
+      ]
+    },
+    {
+      "retrieval_score": 0.8623365,
+      "text": "core_product_name: insulator | accessories_or_attachments: hardware accessories",
+      "core_id": 1276.0,
+      "raw_product_name": "INSULATOR AND HARDWARE ACCESSORIES",
+      "list_of_product_ids": [
+        "1",
+        "883",
+        "029",
+        "108"
+      ]
+    },
+    {
+      "retrieval_score": 0.86123025,
+      "text": "core_product_name: inlet feed device | type_or_class: Vane Type",
+      "core_id": 1245.0,
+      "raw_product_name": "INLET FEED DEVICE (VANE TYPE)",
+      "list_of_product_ids": [
+        "6190",
+        "5358",
+        "10851",
+        "8980",
+        "9126",
+        "24348",
+        "24349",
+        "19942"
+      ]
+    },
+    {
+      "retrieval_score": 0.86121684,
+      "text": "core_product_name: primary structure | accessories_or_attachments: Fabrication | accessories_or_attachments: Supply",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE (FABRICATION & SUPPLY)",
+      "list_of_product_ids": [
+        "237",
+        "742",
+        "105",
+        "321",
+        "052"
+      ]
+    },
+    {
+      "retrieval_score": 0.8612001,
+      "text": "core_product_name: conduit accessory",
+      "core_id": 439.0,
+      "raw_product_name": "CONDUIT ACCESSORIES",
+      "list_of_product_ids": [
+        "20550",
+        "20514",
+        "20591",
+        "20632",
+        "20686",
+        "20744"
+      ]
+    },
+    {
+      "retrieval_score": 0.8611087,
+      "text": "core_product_name: rectifier panel",
+      "core_id": 1877.0,
+      "raw_product_name": "RECTIFIER PANEL",
+      "list_of_product_ids": [
+        "171",
+        "741",
+        "717",
+        "527",
+        "078"
+      ]
+    },
+    {
+      "retrieval_score": 0.86099714,
+      "text": "core_product_name: start up drain re-circulation pump | type_or_class: Boiler",
+      "core_id": 269.0,
+      "raw_product_name": "Boiler Start Up Drain Re-Circulation Pump",
+      "list_of_product_ids": [
+        "13594",
+        "14652",
+        "18863",
+        "22183"
+      ]
+    },
+    {
+      "retrieval_score": 0.86095047,
+      "text": "core_product_name: coupling device",
+      "core_id": 499.0,
+      "raw_product_name": "COUPLING DEVICE",
+      "list_of_product_ids": [
+        "18582",
+        "18579",
+        "18578",
+        "18637"
+      ]
+    },
+    {
+      "retrieval_score": 0.86090547,
+      "text": "core_product_name: proximity switch | type_or_class: Inductive",
+      "core_id": 1799.0,
+      "raw_product_name": "PROXIMITY SWITCHES (INDUCTIVE)",
+      "list_of_product_ids": [
+        "19091",
+        "19106",
+        "19087",
+        "36749",
+        "38450",
+        "36719"
+      ]
+    },
+    {
+      "retrieval_score": 0.86076856,
+      "text": "core_product_name: resistance temperature detector | accessories_or_attachments: Thermowell",
+      "core_id": 1901.0,
+      "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR(THERMOWELL)",
+      "list_of_product_ids": [
+        "182",
+        "131",
+        "856",
+        "318",
+        "203"
+      ]
+    },
+    {
+      "retrieval_score": 0.8607258,
+      "text": "core_product_name: coil | material: Rayon",
+      "core_id": 1722.0,
+      "raw_product_name": "RAYON COILS",
+      "list_of_product_ids": [
+        "950",
+        "695",
+        "669",
+        "789"
+      ]
+    },
+    {
+      "retrieval_score": 0.8601391,
+      "text": "core_product_name: lubricated valve | type_or_class: Plug",
+      "core_id": 1834.0,
+      "raw_product_name": "Plug Valve(Lubricated)",
+      "list_of_product_ids": [
+        "8696"
+      ]
+    },
+    {
+      "retrieval_score": 0.86008966,
+      "text": "core_product_name: electrical spare",
+      "core_id": 710.0,
+      "raw_product_name": "ELECTRICAL SPARES",
+      "list_of_product_ids": [
+        "207",
+        "782",
+        "077",
+        "728",
+        "462"
+      ]
+    },
+    {
+      "retrieval_score": 0.8597659,
+      "text": "core_product_name: electrical item",
+      "core_id": 713.0,
+      "raw_product_name": "ELECTRICALS ITEMS",
+      "list_of_product_ids": [
+        "240",
+        "232",
+        "403",
+        "028",
+        "576"
+      ]
+    },
+    {
+      "retrieval_score": 0.85956246,
+      "text": "core_product_name: electric light fitting | accessories_or_attachments: accessories",
+      "core_id": 704.0,
+      "raw_product_name": "ELECTRIC LIGHT FITTINGS (COMM) & ACCESSORIES",
+      "list_of_product_ids": [
+        "208",
+        "382",
+        "083",
+        "728",
+        "502"
+      ]
+    },
+    {
+      "retrieval_score": 0.85946697,
+      "text": "core_product_name: fan assembly | type_or_class: Cooling Tower",
+      "core_id": 799.0,
+      "raw_product_name": "FAN ASSEMBLY-COOLING TOWER",
+      "list_of_product_ids": [
+        "23468",
+        "23478",
+        "31768",
+        "27087",
+        "31767",
+        "33669"
+      ]
+    },
+    {
+      "retrieval_score": 0.85942376,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    }
+  ]
+}

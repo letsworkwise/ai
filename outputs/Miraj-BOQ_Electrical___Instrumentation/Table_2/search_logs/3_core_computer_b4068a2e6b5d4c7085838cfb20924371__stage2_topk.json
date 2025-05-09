@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: computer | size: monitor size: 22 inch | feature_or_specifications: feature: led colour monitor, feature: standard keyboard, feature: for sap terminal, feature: for generating printing invoice",
+  "retrieval_results": [
+    {
+      "id": "variant-a6f3a592-88ba-56f4-9258-7043fb0c99c6",
+      "score": 0.8517692,
+      "metadata": {
+        "text": "core_product_name: large screen display",
+        "raw_product_name": "Large Screen Display",
+        "list_of_product_ids": "7076,7403,11853,11845",
+        "core_id": 1408.0
+      }
+    },
+    {
+      "id": "variant-f0337ba8-6950-573f-8620-dd7b8c06adeb",
+      "score": 0.8484833,
+      "metadata": {
+        "text": "core_product_name: monitor",
+        "raw_product_name": "WATER MONITOR",
+        "list_of_product_ids": "6039,5218,9825,9830,9835,9840,8259,8296,8316,8739,9230,16411,24091,23518,37476",
+        "core_id": 2443.0
+      }
+    },
+    {
+      "id": "variant-d41b47e0-c170-5525-aca8-c8be10b91f9d",
+      "score": 0.8478575,
+      "metadata": {
+        "text": "core_product_name: printer",
+        "raw_product_name": "PRINTER",
+        "list_of_product_ids": "20435,20538,20577,20641,20698,20755",
+        "core_id": 1787.0
+      }
+    },
+    {
+      "id": "variant-0b710dea-0307-51f6-a77b-222f52cab575",
+      "score": 0.8464599,
+      "metadata": {
+        "text": "core_product_name: laptop",
+        "raw_product_name": "LAPTOPS",
+        "list_of_product_ids": "142,481,529,918,835",
+        "core_id": 1320.0
+      }
+    },
+    {
+      "id": "variant-d3184bd5-867c-5333-aa27-0d8d3f250563",
+      "score": 0.84641093,
+      "metadata": {
+        "text": "core_product_name: computer software",
+        "raw_product_name": "COMPUTER SOFTWARE",
+        "list_of_product_ids": "193,121,931,327,257",
+        "core_id": 423.0
+      }
+    },
+    {
+      "id": "variant-18909d01-ade7-5b6d-8f15-e409a6ab83ac",
+      "score": 0.84281105,
+      "metadata": {
+        "text": "core_product_name: digital indicator",
+        "raw_product_name": "DIGITAL INDICATOR",
+        "list_of_product_ids": "1,365,123,180",
+        "core_id": 590.0
+      }
+    },
+    {
+      "id": "variant-72eec985-31f4-579d-8d75-17ce3f807158",
+      "score": 0.8421161,
+      "metadata": {
+        "text": "core_product_name: terminal block",
+        "raw_product_name": "TERMINAL BLOCKS",
+        "list_of_product_ids": "5940,6769,12287,11388,8256,9278,17855,18812",
+        "core_id": 2228.0
+      }
+    },
+    {
+      "id": "variant-bdbbab12-6b76-547e-b7a7-3c4a98d7f8b3",
+      "score": 0.84155136,
+      "metadata": {
+        "text": "core_product_name: computer training",
+        "raw_product_name": "COMPUTER TRAINING",
+        "list_of_product_ids": "193,251,932,627,256",
+        "core_id": 427.0
+      }
+    },
+    {
+      "id": "variant-c9536e29-6040-5b31-b6a1-431e7654733e",
+      "score": 0.8412501,
+      "metadata": {
+        "text": "core_product_name: computer maintenance",
+        "raw_product_name": "COMPUTER MAINTENANCE",
+        "list_of_product_ids": "193,231,932,428,719",
+        "core_id": 422.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.8410979,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-45f30585-adff-5e4b-bbc3-e07459a7212f",
+      "score": 0.8408478,
+      "metadata": {
+        "text": "core_product_name: toner cartridge | accessories_or_attachments: computer printer",
+        "raw_product_name": "COMPUTER PRINTER- TONER CARTRIDGE",
+        "list_of_product_ids": "193,212,338,528,071",
+        "core_id": 424.0
+      }
+    },
+    {
+      "id": "variant-b30e197e-9677-59c6-b107-5d09ac3b3026",
+      "score": 0.8403308,
+      "metadata": {
+        "text": "core_product_name: colour printer | type_or_class: LaserJet (Laser Jet)",
+        "raw_product_name": "LASERJET COLOUR PRINTER",
+        "list_of_product_ids": "191,561,915,726,940",
+        "core_id": 1321.0
+      }
+    },
+    {
+      "id": "variant-9d54fd87-21ea-5c1a-ae13-333a826234cd",
+      "score": 0.83967036,
+      "metadata": {
+        "text": "core_product_name: system panel",
+        "raw_product_name": "SYSTEM PANELS",
+        "list_of_product_ids": "1,413,621,099",
+        "core_id": 2180.0
+      }
+    },
+    {
+      "id": "variant-6406c4ba-b7ff-5341-92f6-c606dd1ab328",
+      "score": 0.8392822,
+      "metadata": {
+        "text": "core_product_name: encoder",
+        "raw_product_name": "ENCODER",
+        "list_of_product_ids": "19082,19099,19104,19089,19113,36721,38449,36751,38453",
+        "core_id": 744.0
+      }
+    },
+    {
+      "id": "variant-9aa71497-c36b-5d95-8704-0b97aab3763f",
+      "score": 0.83916014,
+      "metadata": {
+        "text": "core_product_name: annunciation panel",
+        "raw_product_name": "ANNUNCIATION PANELS",
+        "list_of_product_ids": "14179,18854,18912,23154",
+        "core_id": 118.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.8391099,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-700fd141-780c-57aa-8e1f-36a01481b5bb",
+      "score": 0.83838683,
+      "metadata": {
+        "text": "core_product_name: electronic marker",
+        "raw_product_name": "ELECTRONIC MARKER",
+        "list_of_product_ids": "13904",
+        "core_id": 727.0
+      }
+    },
+    {
+      "id": "variant-370c43d3-b815-5435-9810-24d97f958927",
+      "score": 0.8381973,
+      "metadata": {
+        "text": "core_product_name: indicating lamp fitting",
+        "raw_product_name": "INDICATING LAMP FITTING",
+        "list_of_product_ids": "20128,20443,20418,20465,20506,20645",
+        "core_id": 1232.0
+      }
+    },
+    {
+      "id": "variant-85d05add-ce4b-5ec4-8d7c-6379e84d5bea",
+      "score": 0.8379471,
+      "metadata": {
+        "text": "core_product_name: semi-rugged laptop",
+        "raw_product_name": "Semi-Rugged Laptop",
+        "list_of_product_ids": "7080,7407,11852,11854",
+        "core_id": 2183.0
+      }
+    },
+    {
+      "id": "variant-b0c2061a-aa8d-5939-97cc-7b5703645203",
+      "score": 0.83793926,
+      "metadata": {
+        "text": "core_product_name: terminal box",
+        "raw_product_name": "TERMINAL BOX",
+        "list_of_product_ids": "141,951,736,936,609",
+        "core_id": 2230.0
+      }
+    },
+    {
+      "id": "variant-815cfa85-79ff-5a89-89e7-6398f6ad8f78",
+      "score": 0.8375452,
+      "metadata": {
+        "text": "core_product_name: control desk",
+        "raw_product_name": "CONTROL DESK",
+        "list_of_product_ids": "14011,17257,19417,19412,36643",
+        "core_id": 452.0
+      }
+    },
+    {
+      "id": "variant-3f759d0a-60b8-5ef5-8b84-66b7c71e0420",
+      "score": 0.8374379,
+      "metadata": {
+        "text": "core_product_name: cabinet",
+        "raw_product_name": "CABINETS",
+        "list_of_product_ids": "5,936,676,512,192",
+        "core_id": 276.0
+      }
+    },
+    {
+      "id": "variant-0fa8cdf8-1424-53e2-b353-07d5262f388b",
+      "score": 0.83728665,
+      "metadata": {
+        "text": "core_product_name: precision machined component",
+        "raw_product_name": "PRECESION MACHINED COMPONENTS",
+        "list_of_product_ids": "239,482,394,928,689",
+        "core_id": 1760.0
+      }
+    },
+    {
+      "id": "variant-fc9c78d2-e784-5091-9837-34a9a00a62c9",
+      "score": 0.8372631,
+      "metadata": {
+        "text": "core_product_name: cap",
+        "raw_product_name": "CAP",
+        "list_of_product_ids": "13736,14905,16051,19802,20063,22663,22658,22917,19405,37064,36445",
+        "core_id": 294.0
+      }
+    },
+    {
+      "id": "variant-96f0d271-0132-58b0-a5ff-30856e6f26b3",
+      "score": 0.8370684,
+      "metadata": {
+        "text": "core_product_name: semiconductor",
+        "raw_product_name": "SEMICONDUCTORS",
+        "list_of_product_ids": "1,642,716,476",
+        "core_id": 1994.0
+      }
+    },
+    {
+      "id": "variant-571eec7a-6e40-518d-bc9e-aca92a0117a9",
+      "score": 0.8370676,
+      "metadata": {
+        "text": "core_product_name: remote controlled monitor",
+        "raw_product_name": "REMOTE CONTROLLED MONITORS",
+        "list_of_product_ids": "6042,5221,8319,24103,22791",
+        "core_id": 1896.0
+      }
+    },
+    {
+      "id": "variant-0ea9e5f6-ccd4-5364-bbd1-e4bf6dcb09de",
+      "score": 0.83642143,
+      "metadata": {
+        "text": "core_product_name: terminal automation system",
+        "raw_product_name": "TERMINAL AUTOMATION SYSTEM",
+        "list_of_product_ids": "6572,5742,10065,10150,11898,19578,30475",
+        "core_id": 2229.0
+      }
+    },
+    {
+      "id": "variant-48f2033c-304e-52d2-acd9-1d9a493e771a",
+      "score": 0.83591884,
+      "metadata": {
+        "text": "core_product_name: telemetry interface cabinet",
+        "raw_product_name": "TELEMETRY INTERFACE CABINET",
+        "list_of_product_ids": "13988,18052,18994,19044,21698",
+        "core_id": 2214.0
+      }
+    },
+    {
+      "id": "variant-ddb1abf6-893f-5dce-8646-5ce69a208251",
+      "score": 0.8357653,
+      "metadata": {
+        "text": "core_product_name: flow computer",
+        "raw_product_name": "FLOW COMPUTER",
+        "list_of_product_ids": "13625,15172,15209,17965,37509,36219,36371",
+        "core_id": 931.0
+      }
+    },
+    {
+      "id": "variant-41a6c6d9-ef4d-520f-b9f3-af2822f8dcef",
+      "score": 0.8356144,
+      "metadata": {
+        "text": "core_product_name: power supply",
+        "raw_product_name": "BUIL POWER SUPPLY",
+        "list_of_product_ids": "5,937,676,612,114",
+        "core_id": 250.0
+      }
+    }
+  ]
+}

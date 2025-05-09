@@ -1,0 +1,95 @@
+{
+  "query": "core_product_name: pipe electrode | size: length: 3000 mm, nominal bore: 65 mm | feature_or_specifications: type: heavy duty, material: ms(mild steel) pipe",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: pipe-ms (mild steel) | material: MS (Mild Steel) | construction_features: GI (Galvanized Iron) coating",
+        "raw_product_name": "PIPES-MS-(GI)",
+        "list_of_product_ids": [
+          "13947",
+          "14615",
+          "14654",
+          "14664",
+          "19769",
+          "21055",
+          "21413",
+          "22593",
+          "29948",
+          "29951",
+          "29953",
+          "35289",
+          "35310",
+          "35314"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: black ms (mild steel) pipe",
+        "raw_product_name": "PIPES-MS-(BLACK)",
+        "list_of_product_ids": [
+          "13946",
+          "14614",
+          "14653",
+          "14663",
+          "19768",
+          "21054",
+          "29949",
+          "29952",
+          "29954",
+          "28753",
+          "29950",
+          "29947"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: ms (mild steel) pipe",
+        "raw_product_name": "MS PIPE",
+        "list_of_product_ids": [
+          "13780",
+          "14665",
+          "19247",
+          "17239",
+          "17228",
+          "18434",
+          "39305",
+          "22590",
+          "22621",
+          "22726",
+          "22761",
+          "22750",
+          "22744",
+          "22790",
+          "23133",
+          "30896",
+          "30927",
+          "30958",
+          "39306",
+          "27364",
+          "29739",
+          "28917",
+          "28966",
+          "35311",
+          "35312",
+          "40051"
+        ]
+      }
+    }
+  ]
+}

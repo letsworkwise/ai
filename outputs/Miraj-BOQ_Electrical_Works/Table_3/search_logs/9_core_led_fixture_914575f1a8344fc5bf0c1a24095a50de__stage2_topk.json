@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: led fixture | feature_or_specifications: type: high bay, type: industrial, driver: integral",
+  "retrieval_results": [
+    {
+      "id": "variant-0e4d04c7-96ab-5803-96ea-fa89fe6f4c0f",
+      "score": 0.8682254,
+      "metadata": {
+        "text": "core_product_name: indicating pilot | type_or_class: HI-LO (High-Low) | construction_features: dial type",
+        "raw_product_name": "HI-LO PILOTS (INDICATING DIAL TYPE)",
+        "list_of_product_ids": "13816,38324,35544,36103",
+        "core_id": 1125.0
+      }
+    },
+    {
+      "id": "variant-cf977c7c-e368-56f7-9ce9-23eb8659bb38",
+      "score": 0.8646609,
+      "metadata": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": "13606,16555,16546,16591,16576,17657,17650,17702,17682,18058,20306,20834,21315,22108,23384,35044",
+        "core_id": 1006.0
+      }
+    },
+    {
+      "id": "variant-eb58eb3c-f1fc-59ff-ba71-ccf7d770f771",
+      "score": 0.8637225,
+      "metadata": {
+        "text": "core_product_name: incandescent lighting fixture",
+        "raw_product_name": "INCANDESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19026,19024,19022,19020,19163",
+        "core_id": 1228.0
+      }
+    },
+    {
+      "id": "variant-5ce39e66-51d3-5c8d-8399-07e58423611b",
+      "score": 0.8557819,
+      "metadata": {
+        "text": "core_product_name: tube light fixture",
+        "raw_product_name": "TUBE LIGHT FIXTURES",
+        "list_of_product_ids": "139,811,494,021,021",
+        "core_id": 2282.0
+      }
+    },
+    {
+      "id": "variant-63f28b5e-8d64-503f-938b-d41f4b31f2fd",
+      "score": 0.8551608,
+      "metadata": {
+        "text": "core_product_name: industrial receptacle",
+        "raw_product_name": "INDUSTRIAL RECEPTACLE",
+        "list_of_product_ids": "136,891,479,414,813",
+        "core_id": 1235.0
+      }
+    },
+    {
+      "id": "variant-2e53d84e-e3e8-5b7a-9692-1dff85b1b95f",
+      "score": 0.8545836,
+      "metadata": {
+        "text": "core_product_name: aviation marker lighting fixture | type_or_class: Div.2 (Division 2)",
+        "raw_product_name": "Div.2 Aviation Marker Lighting Fixtures",
+        "list_of_product_ids": "18715,18711,19014,37433",
+        "core_id": 659.0
+      }
+    },
+    {
+      "id": "variant-2871fae9-7edc-5be1-b153-13a90cdb9355",
+      "score": 0.8539093,
+      "metadata": {
+        "text": "core_product_name: lighting fixture | acronymed_core_product_name: LTG (Lighting) Fixtures | type_or_class: Fluorescent or Incandescent | type_or_class: Class-B",
+        "raw_product_name": "Fluorescent / Incandescent Class-“B” LTG Fixtures",
+        "list_of_product_ids": "18685,18686,18683,32299,18684,19018,35809,35860,35884,35937",
+        "core_id": 1006.0
+      }
+    },
+    {
+      "id": "variant-8971ab23-b860-595e-888e-8ef24922c459",
+      "score": 0.8532936,
+      "metadata": {
+        "text": "core_product_name: high mast lighting system",
+        "raw_product_name": "HIGH MAST LIGHTING SYSTEM",
+        "list_of_product_ids": "6416,5586,10566,10176,10177",
+        "core_id": 1127.0
+      }
+    },
+    {
+      "id": "variant-e86062e6-2903-51eb-9c92-a29d8a2c92b5",
+      "score": 0.85270125,
+      "metadata": {
+        "text": "core_product_name: fluorescent lighting fixture",
+        "raw_product_name": "FLUORESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19025,19023,19021,19019,19164",
+        "core_id": 951.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.8523393,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.8517971,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.8515924,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-0cb3d965-6b71-56dc-a522-f463c04698ee",
+      "score": 0.850709,
+      "metadata": {
+        "text": "core_product_name: light fabricated component",
+        "raw_product_name": "LIGHT FABRICATED COMPONENT",
+        "list_of_product_ids": "26019,26018,26017,26690",
+        "core_id": 1347.0
+      }
+    },
+    {
+      "id": "variant-d3918fb3-1dcf-5330-9bbe-6452020c252d",
+      "score": 0.8492185,
+      "metadata": {
+        "text": "core_product_name: plumbing fitting and fixture",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+        "list_of_product_ids": "6364,5535,7874,12489,12648,12649,34680,34681",
+        "core_id": 1961.0
+      }
+    },
+    {
+      "id": "variant-370c43d3-b815-5435-9810-24d97f958927",
+      "score": 0.84864926,
+      "metadata": {
+        "text": "core_product_name: indicating lamp fitting",
+        "raw_product_name": "INDICATING LAMP FITTING",
+        "list_of_product_ids": "20128,20443,20418,20465,20506,20645",
+        "core_id": 1232.0
+      }
+    },
+    {
+      "id": "variant-8b814fd7-106f-5fd3-a273-6c9340ea527b",
+      "score": 0.8486196,
+      "metadata": {
+        "text": "core_product_name: interior",
+        "raw_product_name": "CONTROL ROOM INTERIOR",
+        "list_of_product_ids": "19384,19379,28261,38713",
+        "core_id": 458.0
+      }
+    },
+    {
+      "id": "variant-6f5ecfa8-6693-52e0-8ba6-d305343e1ef8",
+      "score": 0.84810776,
+      "metadata": {
+        "text": "core_product_name: inline inductor",
+        "raw_product_name": "INLINE INDUCTORS",
+        "list_of_product_ids": "6029,5208,8476,8737,16410,23830",
+        "core_id": 1250.0
+      }
+    },
+    {
+      "id": "variant-6f2bfa9b-ce42-5ef5-b318-d6059759baaa",
+      "score": 0.8478859,
+      "metadata": {
+        "text": "core_product_name: induction motor | type_or_class: MV (Medium Voltage) | type_or_class: Industrial Type | operating_conditions: Safe Area",
+        "raw_product_name": "MOTOR INDUCTION-MV (INDL.TYPE SAFE AREA)",
+        "list_of_product_ids": "6403,5574,9346,9368,8373,9375,9416,9169,9171,9360,15503,15502,19441,23471,24524,24522,24521",
+        "core_id": 1506.0
+      }
+    },
+    {
+      "id": "variant-a807b261-d030-557d-80c2-edb07d018ba1",
+      "score": 0.8476009,
+      "metadata": {
+        "text": "core_product_name: accessory lighting fixture | protection_features: Non Hazardous",
+        "raw_product_name": "LIGHTING FIXTURE & ACCESORY-NON HZARDOUS",
+        "list_of_product_ids": "5630,6459,10568,10188,10179,19512,19508,19540,26082",
+        "core_id": 1352.0
+      }
+    },
+    {
+      "id": "variant-8383cdc4-4669-51eb-9ff6-98d97836179f",
+      "score": 0.84735096,
+      "metadata": {
+        "text": "core_product_name: ball valve | construction_features: metal seated",
+        "raw_product_name": "VALVE BALL (METEL SEATED)",
+        "list_of_product_ids": "7299,7347,8139,8144,22518,22650,37224,37225,37226,37228,37227,37232,35477",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-e250c010-85e4-5944-91ae-fde2f1037108",
+      "score": 0.8472429,
+      "metadata": {
+        "text": "core_product_name: ball valve | construction_features: metal seated",
+        "raw_product_name": "BALL VALVES (METAL SEATED)",
+        "list_of_product_ids": "8689",
+        "core_id": 172.0
+      }
+    },
+    {
+      "id": "variant-f3c208ff-562e-5afc-9e7f-901d48807d6b",
+      "score": 0.8470672,
+      "metadata": {
+        "text": "core_product_name: long rod insulator | type_or_class: Long Rod",
+        "raw_product_name": "INSULATORS (LONG ROD TYPE)",
+        "list_of_product_ids": "34284,34308,34381,34353,34498",
+        "core_id": 1277.0
+      }
+    },
+    {
+      "id": "variant-e29a7a21-0d76-5a3d-8a3c-beb8e46fc788",
+      "score": 0.8469453,
+      "metadata": {
+        "text": "core_product_name: high tensile stud | type_or_class: High Tensile",
+        "raw_product_name": "HIGH TENSILE STUD",
+        "list_of_product_ids": "21476,21466,21469,21472,21860,28599",
+        "core_id": 1135.0
+      }
+    },
+    {
+      "id": "variant-372e8f70-418c-535c-b89c-aa496a87c6c8",
+      "score": 0.8468985,
+      "metadata": {
+        "text": "core_product_name: hi-lo-hi drive",
+        "raw_product_name": "HI- LO-HI DRIVE",
+        "list_of_product_ids": "1,357,523,149",
+        "core_id": 1124.0
+      }
+    },
+    {
+      "id": "variant-187e5083-0dd5-5de7-ab92-ca8cd1688311",
+      "score": 0.8468831,
+      "metadata": {
+        "text": "core_product_name: non-proprietary package | type_or_class: High Quality Disr and Inl-Unengin",
+        "raw_product_name": "NON-PROP PKG,HIGH QUAL DISR& INL-UNENGIN",
+        "list_of_product_ids": "6189,5357,8979,9125,12408,19941,24347",
+        "core_id": 1561.0
+      }
+    },
+    {
+      "id": "variant-4e381784-20ca-59a6-9a76-6d02296a6502",
+      "score": 0.8468629,
+      "metadata": {
+        "text": "core_product_name: electrical component",
+        "raw_product_name": "ELECTRICAL COMPONENTS",
+        "list_of_product_ids": "211,642,116,227,423",
+        "core_id": 703.0
+      }
+    },
+    {
+      "id": "variant-d11ddc0c-ab4c-5cbd-8b87-dd31c119c41c",
+      "score": 0.8454742,
+      "metadata": {
+        "text": "core_product_name: level indicator | type_or_class: Servo Type TGM",
+        "raw_product_name": "LEVEL INDICATORS (SERVO TYPE TGM)",
+        "list_of_product_ids": "13980",
+        "core_id": 1332.0
+      }
+    },
+    {
+      "id": "variant-1b90235e-1746-5b7a-a919-353235e01195",
+      "score": 0.8454114,
+      "metadata": {
+        "text": "core_product_name: proximity switch | type_or_class: Inductive",
+        "raw_product_name": "PROXIMITY SWITCHES (INDUCTIVE)",
+        "list_of_product_ids": "19091,19106,19087,36749,38450,36719",
+        "core_id": 1799.0
+      }
+    },
+    {
+      "id": "variant-e4b3d538-ba38-5529-966b-8ba26cabef70",
+      "score": 0.84520686,
+      "metadata": {
+        "text": "core_product_name: fitting and fixture | type_or_class: sanitary | type_or_class: plumbing | accessories_or_attachments: mirror or glass",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - MIRROR / GLASS",
+        "list_of_product_ids": "6365,5536,12516,17444,19499,34682",
+        "core_id": 1964.0
+      }
+    },
+    {
+      "id": "variant-7ca03090-7818-58e9-b746-b20c802cbb9f",
+      "score": 0.84475684,
+      "metadata": {
+        "text": "core_product_name: light machined component",
+        "raw_product_name": "LIGHT MACHINED COMPONENTS",
+        "list_of_product_ids": "239,522,395,328,688",
+        "core_id": 1350.0
+      }
+    }
+  ]
+}

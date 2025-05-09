@@ -1,0 +1,158 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "DESIGN TEMP GROUP: -16 TO 80 (DEG C)Surface Preparation & Pre-erection / Shop Primer: SSPC-SP-10; PIPES NB: .5        Inches",
+      "core_product_name": "pipes",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 0.5 inches",
+      "feature_or_specifications": "design temperature group: -16 to 80 deg c, surface preparation: sspc-sp-10, pre-erection/shop primer: sspc-sp-10",
+      "quantity": "590.0",
+      "unit": "metres"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "DESIGN TEMP GROUP: -16 TO 80 (DEG C)Surface Preparation & Pre-erection / Shop Primer: SSPC-SP-10; VALVES NB: .75       Inches",
+      "core_product_name": "valves",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 0.75 inches",
+      "feature_or_specifications": "design temperature group: -16 to 80 deg c, surface preparation: sspc-sp-10, pre-erection/shop primer: sspc-sp-10",
+      "quantity": "1.0",
+      "unit": "nos."
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "DESIGN TEMP GROUP: -16 TO 80 (DEG C)Surface Preparation & Pre-erection / Shop Primer: SSPC-SP-10; VALVES NB: 3         Inches",
+      "core_product_name": "valves",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 3 inches",
+      "feature_or_specifications": "design temperature group: -16 to 80 deg c, surface preparation: sspc-sp-10, pre-erection/shop primer: sspc-sp-10",
+      "quantity": "1.0",
+      "unit": "nos."
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "DESIGN TEMP GROUP: 81 TO 250 (DEG C)Surface Preparation & Pre-erection / Shop Primer: SSPC-SP-10; PIPES NB: .5        Inches",
+      "core_product_name": "pipes",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 0.5 inches",
+      "feature_or_specifications": "design temperature group: 81 to 250 deg c, surface preparation: sspc-sp-10, pre-erection/shop primer: sspc-sp-10",
+      "quantity": "130.0",
+      "unit": "metres"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      80,
+      89
+    ],
+    "original_rows": [
+      {
+        "0": 81,
+        "1": 0,
+        "2": "M49101000000",
+        "3": "DESIGN TEMP GROUP: -16 TO 80 (DEG C)Surface Preparation & Pre-erection / Shop Primer: SSPC-SP-10; 1",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 82,
+        "1": 0,
+        "2": "M49101010000",
+        "3": "PIPES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 83,
+        "1": 0,
+        "2": "M49101010400",
+        "3": "NB: .5        Inches",
+        "4": 590.0,
+        "5": "Metres",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 84,
+        "1": 0,
+        "2": "M49101020000",
+        "3": "VALVES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 85,
+        "1": 0,
+        "2": "M49101020500",
+        "3": "NB: .75       Inches",
+        "4": 1.0,
+        "5": "Nos.",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 86,
+        "1": 0,
+        "2": "M49101021100",
+        "3": "NB: 3         Inches",
+        "4": 1.0,
+        "5": "Nos.",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 87,
+        "1": 0,
+        "2": "M49102000000",
+        "3": "DESIGN TEMP GROUP: 81 TO 250 (DEG C)Surface Preparation & Pre-erection / Shop Primer: SSPC-SP-10; 1",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 88,
+        "1": 0,
+        "2": "M49102010000",
+        "3": "PIPES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 89,
+        "1": 0,
+        "2": "M49102010400",
+        "3": "NB: .5        Inches",
+        "4": 130.0,
+        "5": "Metres",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 90,
+        "1": 0,
+        "2": "M49200000000",
+        "3": "COATING SYSTEM FOR ALL INSULATED CS, LTCS & LOW ALLOY STEEL PIPING, VALVES, ETC. AS PER",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2250,
+    "completion_tokens": 984
+  }
+}

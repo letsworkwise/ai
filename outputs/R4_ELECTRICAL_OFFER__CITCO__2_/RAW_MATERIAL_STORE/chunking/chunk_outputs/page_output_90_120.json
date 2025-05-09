@@ -1,0 +1,438 @@
+{
+  "sheet_name": "RAW MATERIAL STORE",
+  "boq_context": "Annexure I |  |  |  |  |  |  | \nP.O. No. 317047               Dt. 24.11.23 |  |  |  |  |  |  | \n |  |  |  |  |  |  | \nScope of Supply & Erection : |  |  |  |  |  |  | \n |  |  |  |  |  |  |",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "K | RAW MATERIAL STORE > K4 | FDA SYSTEM",
+      "full_product_description": "5 | Supply, erction, testing & commissioning of analogue addressable Control Module",
+      "core_product_name": "control module",
+      "size": "",
+      "feature_or_specifications": "type: analogue addressable",
+      "acronymed_core_product_name": "",
+      "quantity": "3.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "K | RAW MATERIAL STORE > K4 | FDA SYSTEM",
+      "full_product_description": "6 | Supply, erection, testing & commissioning of analogue addressable Isolator Module",
+      "core_product_name": "isolator module",
+      "size": "",
+      "feature_or_specifications": "type: analogue addressable",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "K | RAW MATERIAL STORE > K4 | FDA SYSTEM",
+      "full_product_description": "7 | Supply, erection, testing & commissioning of analogue addressable Monitor module",
+      "core_product_name": "monitor module",
+      "size": "",
+      "feature_or_specifications": "type: analogue addressable",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "K | RAW MATERIAL STORE > K4 | FDA SYSTEM",
+      "full_product_description": "8a | 2C x 1.5 mm2 Armoured ( Loop cable)",
+      "core_product_name": "armoured cable",
+      "size": "configuration: 2C x 1.5 mm2",
+      "feature_or_specifications": "type: armoured, application: loop cable",
+      "acronymed_core_product_name": "",
+      "quantity": "754.0",
+      "unit": "Mtr"
+    },
+    {
+      "section_context_for_this_product_block": "K | RAW MATERIAL STORE > K4 | FDA SYSTEM",
+      "full_product_description": "9a | 2C x 1.5 mm2 Armoured ( Power cable)",
+      "core_product_name": "armoured cable",
+      "size": "configuration: 2C x 1.5 mm2",
+      "feature_or_specifications": "type: armoured, application: power cable",
+      "acronymed_core_product_name": "",
+      "quantity": "297.0",
+      "unit": "Mtr"
+    },
+    {
+      "section_context_for_this_product_block": "K | RAW MATERIAL STORE > K4 | FDA SYSTEM",
+      "full_product_description": "10a | 2C x 0.5 mm2 Armoured ( Telephone cable)",
+      "core_product_name": "armoured cable",
+      "size": "configuration: 2C x 0.5 mm2",
+      "feature_or_specifications": "type: armoured, application: telephone cable, type: FRLS (flame retardant low smoke)",
+      "acronymed_core_product_name": "",
+      "quantity": "20.0",
+      "unit": "Mtr"
+    },
+    {
+      "section_context_for_this_product_block": "K | RAW MATERIAL STORE > K4 | FDA SYSTEM",
+      "full_product_description": "11 | Supply, installation, testing and commissioning of aspiration detector with CMOS imager combined with multiple photodiode for reliable very early warning in a wide range of environments with minimal nuisance alarms. The detector should have 4 pipe inlet and min 100m pipelength support per inlet.The detector should have Smart on-board filter retains dust count and remaining filter life for predictable maintenance& coverage area of min 5000 Sq.",
+      "core_product_name": "aspiration detector",
+      "size": "pipe inlet: 4, pipelength support per inlet: min 100m, coverage area: min 5000 Sq.",
+      "feature_or_specifications": "imager: CMOS, sensor: multiple photodiode, feature: very early warning, feature: minimal nuisance alarms, feature: smart on-board filter retains dust count and remaining filter life for predictable maintenance",
+      "acronymed_core_product_name": "",
+      "quantity": "6.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "K | RAW MATERIAL STORE > K4 | FDA SYSTEM",
+      "full_product_description": "12 | Supply,Installation,Testing & Commissioning of  UL/VDS listed CPVC Pipe 25 mm Dia & Pipe Accessories for the Aspiration detection.",
+      "core_product_name": "cpvc pipe",
+      "size": "diameter: 25 mm",
+      "feature_or_specifications": "certification: UL(underwriters laboratories), certification: VDS, application: aspiration detection, material: CPVC (chlorinated polyvinyl chloride)",
+      "acronymed_core_product_name": "",
+      "quantity": "441.0",
+      "unit": "Mtr"
+    },
+    {
+      "section_context_for_this_product_block": "K | RAW MATERIAL STORE > K4 | FDA SYSTEM",
+      "full_product_description": "13 | Supply, fabrication, erection & testing of GI CABLE TRAYS FOR LAYING ALL TYPE OF CABLES AS INDICATED ABOVE INCLUDING ALL NECESSARY STRUCTURAL SUPPORTS.",
+      "core_product_name": "gi cable trays",
+      "size": "",
+      "feature_or_specifications": "material: GI (galvanized iron), application: laying all type of cables, feature: including all necessary structural supports",
+      "acronymed_core_product_name": "",
+      "quantity": "754.0",
+      "unit": "Mtr"
+    },
+    {
+      "section_context_for_this_product_block": "K | RAW MATERIAL STORE > K5 | PA SYSTEM",
+      "full_product_description": "1 | IP based Networkable touch screen paging station for selection of zones, supervision of system status, setting of scheduled broadcasts with the following functions: . Central exchage with Stand by CPU  . Built-in monitoring loudspeaker  . Goose-neck microphone  . LCD touchscreen display  . Audio input",
+      "core_product_name": "paging station",
+      "size": "",
+      "feature_or_specifications": "type: IP based networkable, feature: touch screen, feature: selection of zones, feature: supervision of system status, feature: scheduled broadcasts, feature: central exchange with standby CPU, feature: built-in monitoring loudspeaker, feature: goose-neck microphone, feature: LCD touchscreen display, feature: audio input",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "K | RAW MATERIAL STORE > K5 | PA SYSTEM",
+      "full_product_description": "2 | 30 W High Efficiency  Horn type of Speaker with weather protection IP 65 (Weatherproof Type, Suitable for Outdoor Area)",
+      "core_product_name": "horn speaker",
+      "size": "power: 30 W",
+      "feature_or_specifications": "efficiency: high, protection: IP 65, feature: weatherproof, application: suitable for outdoor area",
+      "acronymed_core_product_name": "",
+      "quantity": "8.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "K | RAW MATERIAL STORE > K5 | PA SYSTEM",
+      "full_product_description": "3 | 15 W High Efficiency  Horn type of Speaker with weather protection IP 65 (Weatherproof Type, Suitable for Outdoor Area)",
+      "core_product_name": "horn speaker",
+      "size": "power: 15 W",
+      "feature_or_specifications": "efficiency: high, protection: IP 65, feature: weatherproof, application: suitable for outdoor area",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "Nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      90,
+      119
+    ],
+    "original_rows": [
+      {
+        "0": "5",
+        "1": "Supply, erction, testing & commissioning of analogue addressable Control Module",
+        "2": "Nos",
+        "3": 3.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "6",
+        "1": "Supply, erection, testing & commissioning of analogue addressable Isolator Module",
+        "2": "Nos",
+        "3": 2.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "7",
+        "1": "Supply, erection, testing & commissioning of analogue addressable Monitor module",
+        "2": "Nos",
+        "3": 2.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "8",
+        "1": "Providing & fixing ARMOURED CABLING complete with lugs, laying and termination of both ends.",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "a",
+        "1": "2C x 1.5 mm2 Armoured ( Loop cable)",
+        "2": "Mtr",
+        "3": 754.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "9",
+        "1": "Providing & fixing ARMOURED CABLING complete with lugs, laying and termination of both ends.",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "a",
+        "1": "2C x 1.5 mm2 Armoured ( Power cable)",
+        "2": "Mtr",
+        "3": 297.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "10",
+        "1": "Providing & fixing FRLS CABLING complete with lugs, laying and termination of both ends.",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "a",
+        "1": "2C x 0.5 mm2 Armoured ( Telephone cable)",
+        "2": "Mtr",
+        "3": 20.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "11",
+        "1": "Supply, installation, testing and commissioning of aspiration detector with CMOS imager combined with multiple photodiode for reliable very early warning in a wide range of environments with minimal nuisance alarms. The detector should have 4 pipe inlet and min 100m pipelength support per inlet.The detector should have Smart on-board filter retains dust count and remaining filter life for predictable maintenance& coverage area of min 5000 Sq.",
+        "2": "Nos",
+        "3": 6.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "12",
+        "1": "Supply,Installation,Testing & Commissioning of  UL/VDS listed CPVC Pipe 25 mm Dia & Pipe Accessories for the Aspiration detection.",
+        "2": "Mtr",
+        "3": 441.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "13",
+        "1": "Supply, fabrication, erection & testing of GI CABLE TRAYS FOR LAYING ALL TYPE OF CABLES AS INDICATED ABOVE INCLUDING ALL NECESSARY STRUCTURAL SUPPORTS.",
+        "2": "Mtr",
+        "3": 754.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "K5",
+        "1": "PA SYSTEM",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "1",
+        "1": "IP based Networkable touch screen paging station for selection of zones, supervision of system status, setting of scheduled broadcasts with the following functions: . Central exchage with Stand by CPU  . Built-in monitoring loudspeaker  . Goose-neck microphone  . LCD touchscreen display  . Audio input",
+        "2": "Nos",
+        "3": 1.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "2",
+        "1": "30 W High Efficiency  Horn type of Speaker with weather protection IP 65 (Weatherproof Type, Suitable for Outdoor Area)",
+        "2": "Nos",
+        "3": 8.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "3",
+        "1": "15 W High Efficiency  Horn type of Speaker with weather protection IP 65 (Weatherproof Type, Suitable for Outdoor Area)",
+        "2": "Nos",
+        "3": 1.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "4",
+        "1": "Rack Mounted  250 watt Power Amplifier with battery back up (Wattage shall be as per requirement)",
+        "2": "Nos",
+        "3": 1.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2851,
+    "completion_tokens": 2175
+  }
+}

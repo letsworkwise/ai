@@ -1,0 +1,86 @@
+{
+  "sheet_name": "Instrumentation",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Identification of instrument items wherever required including supply of approved  colour of paint/ paints (Fluorescent), painting of tag number (approx 25-50 mm high)on instrument item like transmitter, switches, level gauges, control valves etc. as specified by Engineer-in-Charge. Identification of instrument items",
+      "core_product_name": "identification of instrument items",
+      "acronymed_core_product_name": "",
+      "size": "tag number height: approx 25-50 mm",
+      "feature_or_specifications": "feature: supply of approved colour of paint or paints (fluorescent), feature: painting of tag number on instrument item, applicable items: transmitter, switches, level gauges, control valves, as specified by: engineer-in-charge",
+      "quantity": "100.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "CHIEF CONTROLLER OF EXPLOSIVE( CCE) CERTIFICATES FOR FIELD ELECTRICAL/ ELECTRONIC INSTRUMENTS & ACCESSORIES AND EQUIPMENTS Obtaining  certificate of approval from Chief Controller Of Explosives( CCE) for field electrical/electronic  instruments & accessories  and equipments  based on type test certificate made available from the instrument vendors including submission of  application to statutory authorities , necessary fees, all test certificates, equipment drawings in required volumes, interaction with the authorities, follow-up for  approval, obtaining necessary approval certificate before energization of field electrical/electronic  instruments & accessories  and equipments.",
+      "core_product_name": "certificate of approval for field electrical or electronic instruments and accessories and equipments",
+      "acronymed_core_product_name": "cce certificate",
+      "size": "",
+      "feature_or_specifications": "issuing authority: chief controller of explosives (cce), based on: type test certificate from instrument vendors, includes: submission of application to statutory authorities, includes: necessary fees, includes: all test certificates, includes: equipment drawings in required volumes, includes: interaction with authorities, includes: follow-up for approval, includes: obtaining necessary approval certificate before energization",
+      "quantity": "1.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      180,
+      183
+    ],
+    "original_rows": [
+      {
+        "0": 422,
+        "1": 0,
+        "2": "01II.900.40",
+        "3": "Identification of instrument items wherever required including supply of approved  colour of paint/ paints (Fluorescent), painting of tag number (approx 25-50 mm high)on instrument item like transmitter, switches, level gauges, control valves etc. as specified by Engineer-in-Charge.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 423,
+        "1": 0,
+        "2": "01II.900.40.1",
+        "3": "Identification of instrument items",
+        "4": 100.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 424,
+        "1": 0,
+        "2": "01II.900.60",
+        "3": "CHIEF CONTROLLER OF EXPLOSIVE( CCE) CERTIFICATES FOR FIELD ELECTRICAL/ ELECTRONIC INSTRUMENTS & ACCESSORIES AND EQUIPMENTS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 425,
+        "1": 0,
+        "2": "01II.900.60.1",
+        "3": "Obtaining  certificate of approval from Chief Controller Of Explosives( CCE) for field electrical/electronic  instruments & accessories  and equipments  based on type test certificate made available from the instrument vendors including submission of  application to statutory authorities , necessary fees, all test certificates, equipment drawings in required volumes, interaction with the authorities, follow-up for  approval, obtaining necessary approval certificate before energization of field electrical/electronic  instruments & accessories  and equipments.",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2242,
+    "completion_tokens": 551
+  }
+}

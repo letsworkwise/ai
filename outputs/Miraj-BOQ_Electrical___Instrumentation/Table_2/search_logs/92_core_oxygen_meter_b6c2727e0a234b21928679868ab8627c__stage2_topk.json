@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: oxygen meter",
+  "retrieval_results": [
+    {
+      "id": "variant-8c65b49d-0337-5355-b0b0-c268b6784810",
+      "score": 0.9212671,
+      "metadata": {
+        "text": "core_product_name: oxygen analyser",
+        "raw_product_name": "OXYGEN ANALYSER",
+        "list_of_product_ids": "13864,15102,15309,15317,36196,36345,40056",
+        "core_id": 1607.0
+      }
+    },
+    {
+      "id": "variant-78443036-3ff8-5091-b071-64441d2c17b9",
+      "score": 0.9190488,
+      "metadata": {
+        "text": "core_product_name: oxygen detector",
+        "raw_product_name": "OXYGEN DETECTOR",
+        "list_of_product_ids": "164,771,647,816,500",
+        "core_id": 1610.0
+      }
+    },
+    {
+      "id": "variant-4dc5e158-8e7b-5543-bb2e-924207635a3f",
+      "score": 0.9065305,
+      "metadata": {
+        "text": "core_product_name: oxidation reduction potential meter | acronymed_core_product_name: orp meter",
+        "raw_product_name": "ORP METER",
+        "list_of_product_ids": "1,383,623,182",
+        "core_id": 1605.0
+      }
+    },
+    {
+      "id": "variant-2f824904-7a85-5dc5-b4d5-cb5597db0ca7",
+      "score": 0.90384126,
+      "metadata": {
+        "text": "core_product_name: indicating meter",
+        "raw_product_name": "INDICATING METERS",
+        "list_of_product_ids": "13682,14947,19149,19123,19142",
+        "core_id": 1230.0
+      }
+    },
+    {
+      "id": "variant-1ac5d110-6c9d-59d6-bd4c-32269eda6ffd",
+      "score": 0.9026131,
+      "metadata": {
+        "text": "core_product_name: meter",
+        "raw_product_name": "WOBBE METERS",
+        "list_of_product_ids": "6564,5734,18968,37761,35704",
+        "core_id": 1470.0
+      }
+    },
+    {
+      "id": "variant-a3ea87f7-7dcb-5836-840f-58464d7fabbb",
+      "score": 0.9025035,
+      "metadata": {
+        "text": "core_product_name: meter",
+        "raw_product_name": "METERS",
+        "list_of_product_ids": "6464,5635,9440,9449,9457,9465,9224,9223,20438,20412,20968",
+        "core_id": 1470.0
+      }
+    },
+    {
+      "id": "variant-d1365a8c-84b3-5290-9344-b2b83a9fb93d",
+      "score": 0.901854,
+      "metadata": {
+        "text": "core_product_name: energy meter",
+        "raw_product_name": "ENERGY METER",
+        "list_of_product_ids": "20130,20445,20420,20467,20508,20644,36515",
+        "core_id": 746.0
+      }
+    },
+    {
+      "id": "variant-ab48ce98-b287-532d-8615-eb4a893cadbc",
+      "score": 0.9017409,
+      "metadata": {
+        "text": "core_product_name: biochemical oxygen demand analyzer | acronymed_core_product_name: bod analyzer",
+        "raw_product_name": "BOD ANALYZER",
+        "list_of_product_ids": "1,425,323,186",
+        "core_id": 215.0
+      }
+    },
+    {
+      "id": "variant-afab6dc3-050d-5261-8459-27f733291778",
+      "score": 0.899651,
+      "metadata": {
+        "text": "core_product_name: conductivity meter",
+        "raw_product_name": "CONDUCTIVITY METER",
+        "list_of_product_ids": "1,383,823,184",
+        "core_id": 438.0
+      }
+    },
+    {
+      "id": "variant-a0035dd1-f740-526c-9e6b-edd8cceff95c",
+      "score": 0.8988627,
+      "metadata": {
+        "text": "core_product_name: flow meter",
+        "raw_product_name": "FLOW METER",
+        "list_of_product_ids": "9516,9556,20013,20023,20018,36586",
+        "core_id": 938.0
+      }
+    },
+    {
+      "id": "variant-451e2de6-2b85-5224-b6b0-6701b38aa743",
+      "score": 0.8986475,
+      "metadata": {
+        "text": "core_product_name: chemical oxygen demand analyzer | acronymed_core_product_name: cod analyzer",
+        "raw_product_name": "COD ANALYZER",
+        "list_of_product_ids": "1,391,023,187",
+        "core_id": 383.0
+      }
+    },
+    {
+      "id": "variant-e9b41e38-0dd4-520a-a25c-a5d682936284",
+      "score": 0.8981388,
+      "metadata": {
+        "text": "core_product_name: water quality analyser | type_or_class: Dissolved Oxygen",
+        "raw_product_name": "WATER QUALITY ANALYSER-DISSOLVED OXYGEN",
+        "list_of_product_ids": "6516,5687,11779,11178,10046,11798,11796,10127,11759,11875,13399,18232,28804,28803,28802,28808,28807,28806,28805,33122,33341,36267,36420",
+        "core_id": 2447.0
+      }
+    },
+    {
+      "id": "variant-df6c6ec9-1910-56e7-8d88-e60ee8e51334",
+      "score": 0.8978581,
+      "metadata": {
+        "text": "core_product_name: oxygen scavenger reaction vessel",
+        "raw_product_name": "OXYGEN SCAVENGER REACTION VESSEL",
+        "list_of_product_ids": "15775,15774,15827,15801,15842,15909,16065,16023,16193,16608,16573,16879,33338",
+        "core_id": 1614.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.89755106,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-94ea3340-bef6-5933-8416-982a342511aa",
+      "score": 0.89742386,
+      "metadata": {
+        "text": "core_product_name: turbine meter | operating_conditions: liquid services",
+        "raw_product_name": "TURBINE METER – LIQUID SERVICES",
+        "list_of_product_ids": "14192",
+        "core_id": 2295.0
+      }
+    },
+    {
+      "id": "variant-22d616a9-27b2-5045-8c46-dc2ca062c176",
+      "score": 0.89693916,
+      "metadata": {
+        "text": "core_product_name: viscosity meter",
+        "raw_product_name": "VISCOSITY METER",
+        "list_of_product_ids": "6,607,577,711,317",
+        "core_id": 2409.0
+      }
+    },
+    {
+      "id": "variant-d337814d-4caf-55de-a5cc-ad63eedc8308",
+      "score": 0.8960759,
+      "metadata": {
+        "text": "core_product_name: instrument and meter",
+        "raw_product_name": "INSTRUMENT & METER",
+        "list_of_product_ids": "20461,20502,20648,20115",
+        "core_id": 1248.0
+      }
+    },
+    {
+      "id": "variant-c8c4458f-8852-5dea-81c4-d57bf70e8c1b",
+      "score": 0.89561,
+      "metadata": {
+        "text": "core_product_name: water meter",
+        "raw_product_name": "WATER METER",
+        "list_of_product_ids": "15380,14091,17869,17886",
+        "core_id": 2441.0
+      }
+    },
+    {
+      "id": "variant-55c4b5b6-8065-54c8-b9f6-e13a04e05b7e",
+      "score": 0.89540565,
+      "metadata": {
+        "text": "core_product_name: membrane oxygen plant",
+        "raw_product_name": "MEMBRANE OXYGEN PLANT",
+        "list_of_product_ids": "2,448,826,826",
+        "core_id": 1460.0
+      }
+    },
+    {
+      "id": "variant-30453020-7b88-55b3-8cef-647ee7ab265c",
+      "score": 0.8951424,
+      "metadata": {
+        "text": "core_product_name: breathing equipment",
+        "raw_product_name": "BREATHING EQUIPMENT",
+        "list_of_product_ids": "188,191,880,228,060",
+        "core_id": 247.0
+      }
+    },
+    {
+      "id": "variant-a32d8296-ea3c-51d4-95de-73a3824167db",
+      "score": 0.89482015,
+      "metadata": {
+        "text": "core_product_name: measurement system",
+        "raw_product_name": "MEASUREMENT SYSTEM",
+        "list_of_product_ids": "188,511,884,918,973",
+        "core_id": 1451.0
+      }
+    },
+    {
+      "id": "variant-bc08e481-a9ae-551e-9e13-ace49d85e974",
+      "score": 0.8947578,
+      "metadata": {
+        "text": "core_product_name: measurement",
+        "raw_product_name": "VIBRATION MEASUREMENT",
+        "list_of_product_ids": "242,652,426,624,269",
+        "core_id": 2401.0
+      }
+    },
+    {
+      "id": "variant-98ffb5b2-ba7e-59ba-975e-6977c0b87585",
+      "score": 0.8945618,
+      "metadata": {
+        "text": "core_product_name: analogue meter",
+        "raw_product_name": "ANALOGUE METER",
+        "list_of_product_ids": "181,191,811,818,590",
+        "core_id": 104.0
+      }
+    },
+    {
+      "id": "variant-e015dccb-5f49-5d0f-aa32-a40814dff6c3",
+      "score": 0.894412,
+      "metadata": {
+        "text": "core_product_name: millivolt meter",
+        "raw_product_name": "MILLIVOLT METER",
+        "list_of_product_ids": "219,972,203,128,609",
+        "core_id": 1477.0
+      }
+    },
+    {
+      "id": "variant-a8db3448-b0b2-5ef1-a215-ab5bf6aac376",
+      "score": 0.89360815,
+      "metadata": {
+        "text": "core_product_name: cone meter",
+        "raw_product_name": "Cone Meter",
+        "list_of_product_ids": "1,860,527,441",
+        "core_id": 548.0
+      }
+    },
+    {
+      "id": "variant-cfdcfc5e-82d1-51b1-a9cd-6654f5bdf698",
+      "score": 0.89350444,
+      "metadata": {
+        "text": "core_product_name: process stream analyser | type_or_class: O2 (Oxygen)-Zirconia",
+        "raw_product_name": "PROCESS STREAM ANALYSERS (O2-ZIRCONIA)",
+        "list_of_product_ids": "6518,5689,11656,11780,11180,10048,10128,11760,11876,19567,28972,28971,28970,28968,28973,33815,36270,36423",
+        "core_id": 1790.0
+      }
+    },
+    {
+      "id": "variant-3e48178f-5c06-56a3-8668-4e1ad2ec2508",
+      "score": 0.8933943,
+      "metadata": {
+        "text": "core_product_name: ultrasonic flow meter",
+        "raw_product_name": "ULTRASONIC FLOW METER",
+        "list_of_product_ids": "6574,5744,11654,11727,11729,11728,11749,11922,13398,17968,18231,19176,38508,36840,35992,38498",
+        "core_id": 2315.0
+      }
+    },
+    {
+      "id": "variant-da5ea033-5953-5c0d-8d52-42fd4e59e2af",
+      "score": 0.8933134,
+      "metadata": {
+        "text": "core_product_name: flue gas analyser | type_or_class: O2 (Oxygen) analyser",
+        "raw_product_name": "FLUE GAS ANALYSER {O2 ANALYSER (LT)}",
+        "list_of_product_ids": "1,364,515,338",
+        "core_id": 944.0
+      }
+    },
+    {
+      "id": "variant-73cc7443-3984-55be-b48f-83f6af6ca35d",
+      "score": 0.89314467,
+      "metadata": {
+        "text": "core_product_name: turbine flow meter",
+        "raw_product_name": "TURBINE FLOW METERS",
+        "list_of_product_ids": "6577,5747,37191,11755,11820,10151,11750,11753,11899,12147,12149,12212,19329,16990,17113,19495,24208,37229,38482,38478,35606,36214,36366,40119",
+        "core_id": 2291.0
+      }
+    },
+    {
+      "id": "variant-86b7fc98-7361-5489-9af1-070a461775ff",
+      "score": 0.89309597,
+      "metadata": {
+        "text": "core_product_name: level sensor",
+        "raw_product_name": "LEVEL SENSOR",
+        "list_of_product_ids": "19121,19128,19133,38465",
+        "core_id": 1336.0
+      }
+    }
+  ]
+}

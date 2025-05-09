@@ -1,0 +1,62 @@
+{
+  "query": "core_product_name: flexible pvc conduit | size: diameter: 20 mm | feature_or_specifications: material: pvc, type: flexible, colour: RAL 9002",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC Conduit",
+        "list_of_product_ids": [
+          "16287",
+          "17401",
+          "21575",
+          "16288"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "Accessories"
+      ],
+      "match_details": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride) | accessories_or_attachments: accessories",
+        "raw_product_name": "PVC Conduit and accessories",
+        "list_of_product_ids": [
+          "7222",
+          "7548",
+          "10494",
+          "10502"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: pvc pipe | accessories_or_attachments: fittings | type_or_class: cable conduit",
+        "raw_product_name": "PVC PIPES AND FITTINGS (CABLE CONDUITS)",
+        "list_of_product_ids": [
+          "16289",
+          "16286",
+          "16284",
+          "16283",
+          "16291",
+          "27072",
+          "34651",
+          "35164"
+        ]
+      }
+    }
+  ]
+}

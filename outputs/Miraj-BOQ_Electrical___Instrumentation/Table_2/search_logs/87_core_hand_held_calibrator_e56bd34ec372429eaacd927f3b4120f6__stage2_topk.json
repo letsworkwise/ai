@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: hand held calibrator or hart calibrator | acronymed_core_product_name: hart calibrator | feature_or_specifications: type: universal",
+  "retrieval_results": [
+    {
+      "id": "variant-c6142dce-03db-5441-8a18-40fa29bb5592",
+      "score": 0.8887227,
+      "metadata": {
+        "text": "core_product_name: hand held multifunctional calibrator",
+        "raw_product_name": "Hand Held Multifunctional Calibrator",
+        "list_of_product_ids": "18090,28750,37512,37499",
+        "core_id": 1211.0
+      }
+    },
+    {
+      "id": "variant-b888a06b-2b11-50b0-befe-40c5aff7a9a0",
+      "score": 0.8730489,
+      "metadata": {
+        "text": "core_product_name: instrument | acronymed_core_product_name: level (l) instrument | type_or_class: Level (L)",
+        "raw_product_name": "Level (L) Instruments",
+        "list_of_product_ids": "6803,5972,6800,7003,7004,7002",
+        "core_id": 455.0
+      }
+    },
+    {
+      "id": "variant-6850dda6-9311-5fcc-967e-cee0b9bf2666",
+      "score": 0.8705626,
+      "metadata": {
+        "text": "core_product_name: converter | acronymed_core_product_name: i/h converter | type_or_class: electrical to hydraulic",
+        "raw_product_name": "CONVERTER I/H (ELECTRICAL TO HYDRAULIC)",
+        "list_of_product_ids": "164,611,648,116,383",
+        "core_id": 472.0
+      }
+    },
+    {
+      "id": "variant-fc8540c6-39ef-5bd8-94da-9b9420f9b06a",
+      "score": 0.86947626,
+      "metadata": {
+        "text": "core_product_name: input convertor | acronymed_core_product_name: i/p convertor",
+        "raw_product_name": "I/P CONVERTOR",
+        "list_of_product_ids": "1,542,023,681",
+        "core_id": 1222.0
+      }
+    },
+    {
+      "id": "variant-f0f0f159-c9f0-57bd-89ee-9689d390c903",
+      "score": 0.8683965,
+      "metadata": {
+        "text": "core_product_name: calibration",
+        "raw_product_name": "INSTRUMENTS CALIBRATION",
+        "list_of_product_ids": "24237,23794,23833,23950,23799,26879",
+        "core_id": 1265.0
+      }
+    },
+    {
+      "id": "variant-04c0253b-a0b8-5065-bbd3-97279ba79809",
+      "score": 0.8662893,
+      "metadata": {
+        "text": "core_product_name: portable calibrator",
+        "raw_product_name": "PORTABLE TEMPERATURE CALIBRATOR",
+        "list_of_product_ids": "171,831,717,327,912",
+        "core_id": 1732.0
+      }
+    },
+    {
+      "id": "variant-fcc2ab1b-58df-54d8-9ad8-c557e480c6b4",
+      "score": 0.8662893,
+      "metadata": {
+        "text": "core_product_name: portable calibrator",
+        "raw_product_name": "Portable Calibrator",
+        "list_of_product_ids": "18091,27913,37511,37498",
+        "core_id": 1732.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.8660693,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-f0b3c83f-340f-5359-af01-5f3abf8a29c7",
+      "score": 0.86484426,
+      "metadata": {
+        "text": "core_product_name: input/output converter | acronymed_core_product_name: i/p converter",
+        "raw_product_name": "I/P CONVERTERS",
+        "list_of_product_ids": "13678,14948,14949,15078,15105,15307,15315,17477,20895,23179,36199,36348",
+        "core_id": 1221.0
+      }
+    },
+    {
+      "id": "variant-de016709-426e-5f64-87fb-0bc2a92d1c2c",
+      "score": 0.86448485,
+      "metadata": {
+        "text": "core_product_name: central processing unit | acronymed_core_product_name: cpu unit",
+        "raw_product_name": "CPU UNITS",
+        "list_of_product_ids": "192,651,410,722,373",
+        "core_id": 505.0
+      }
+    },
+    {
+      "id": "variant-676f7f9e-13f4-5f2d-95c5-6b3194f152fb",
+      "score": 0.86405396,
+      "metadata": {
+        "text": "core_product_name: infrared detector | acronymed_core_product_name: ir detector",
+        "raw_product_name": "IR DETECTOR",
+        "list_of_product_ids": "980,798,149,854",
+        "core_id": 1295.0
+      }
+    },
+    {
+      "id": "variant-ca694e51-3374-5197-85d2-8095dd13a553",
+      "score": 0.8637017,
+      "metadata": {
+        "text": "core_product_name: rotary screw compressor | acronymed_core_product_name: ps",
+        "raw_product_name": "COMPRESSURE ROTARY.SCREW(PS)",
+        "list_of_product_ids": "5919,6748,10938,19826,23978",
+        "core_id": 417.0
+      }
+    },
+    {
+      "id": "variant-3c7d06a9-b03e-50f4-8458-d95b916a3373",
+      "score": 0.86315984,
+      "metadata": {
+        "text": "core_product_name: rotary liquid ring compressor | acronymed_core_product_name: vp(as)",
+        "raw_product_name": "COMPRESSURE ROTARY.LIQUID RING / VP(AS)",
+        "list_of_product_ids": "5,918,674,719,147",
+        "core_id": 408.0
+      }
+    },
+    {
+      "id": "variant-fbbd54ff-ec53-502c-8905-ce58c349321a",
+      "score": 0.8629618,
+      "metadata": {
+        "text": "core_product_name: associated internals package | acronymed_core_product_name: STRD. PKGS. | special_attributes: Proprietory",
+        "raw_product_name": "STRD.PKGS.& ASSOC.INTERNALS(PROPRIETORY)",
+        "list_of_product_ids": "6702,5873,8973,8984,9119,9130,12415,12350,19937",
+        "core_id": 2128.0
+      }
+    },
+    {
+      "id": "variant-60759c1d-1484-5fdf-a6d4-d96e4e97573f",
+      "score": 0.8623421,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: u.p.s. system",
+        "raw_product_name": "U.P.S.SYSTEM",
+        "list_of_product_ids": "6399,5570,11076,11073,10496,10624,12084,12082,12245,24506,24504,36163,36311",
+        "core_id": 2314.0
+      }
+    },
+    {
+      "id": "variant-0f1e1ce5-671f-518b-b863-86f86d8242c6",
+      "score": 0.8620134,
+      "metadata": {
+        "text": "core_product_name: motor control center | acronymed_core_product_name: mcc package",
+        "raw_product_name": "MCC PACKAGE",
+        "list_of_product_ids": "23571,23614,23565,23559,23554,23549,23541,23532",
+        "core_id": 1447.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.86165553,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    },
+    {
+      "id": "variant-41a75cd5-cb92-5e2a-97f9-cdb632b8a42d",
+      "score": 0.8612114,
+      "metadata": {
+        "text": "core_product_name: control transformer | acronymed_core_product_name: ct (control transformer)",
+        "raw_product_name": "CONTROL TRANSFORMER CT",
+        "list_of_product_ids": "21718,21725,21703,35383",
+        "core_id": 465.0
+      }
+    },
+    {
+      "id": "variant-57d96592-6666-5304-a0b5-3483499c39fc",
+      "score": 0.86112803,
+      "metadata": {
+        "text": "core_product_name: system package | acronymed_core_product_name: h v system package",
+        "raw_product_name": "H V SYSTEM PACKAGE",
+        "list_of_product_ids": "6393,5564,10763,24478,24477,24476",
+        "core_id": 1089.0
+      }
+    },
+    {
+      "id": "variant-4ed83870-c8d2-5f69-ba76-674bbe8ff2b1",
+      "score": 0.86076665,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: ups system",
+        "raw_product_name": "UPS SYSTEM",
+        "list_of_product_ids": "14194,15283,15287,15895,17799,17789,17897,18615,18614,18613,18612",
+        "core_id": 2314.0
+      }
+    },
+    {
+      "id": "variant-dd725dee-67a2-56b7-aa3c-f6e233946ece",
+      "score": 0.86071205,
+      "metadata": {
+        "text": "core_product_name: automatic power factor correction panel | acronymed_core_product_name: apfc panel",
+        "raw_product_name": "APFC PANEL",
+        "list_of_product_ids": "14207,14608,14633,36913,24833,24821,24947,33479,33501,33677",
+        "core_id": 125.0
+      }
+    },
+    {
+      "id": "variant-60cc1389-d2d7-5796-b91e-9be0cfc16c55",
+      "score": 0.86035335,
+      "metadata": {
+        "text": "core_product_name: instrumentation fitting",
+        "raw_product_name": "INSTRUMENTATION FITTINGS",
+        "list_of_product_ids": "14372,17508,17507,17506,17505,17504,17501,17500,17496,17958,17960",
+        "core_id": 1264.0
+      }
+    },
+    {
+      "id": "variant-62d1e6bd-b338-5af3-8dbe-a6aef8e2a92e",
+      "score": 0.86025625,
+      "metadata": {
+        "text": "core_product_name: public address equipment | acronymed_core_product_name: pa equipment",
+        "raw_product_name": "PA EQUIPMENTS",
+        "list_of_product_ids": "980,898,159,862",
+        "core_id": 1617.0
+      }
+    },
+    {
+      "id": "variant-a28f217c-33b3-55f8-9958-274b5f02542e",
+      "score": 0.8602413,
+      "metadata": {
+        "text": "core_product_name: special measuring tool",
+        "raw_product_name": "SPECIAL MEASURING TOOLS",
+        "list_of_product_ids": "216,462,165,121,750",
+        "core_id": 2079.0
+      }
+    },
+    {
+      "id": "variant-9601f61c-0e7b-5ee1-b70a-37f58d52b2b6",
+      "score": 0.8598707,
+      "metadata": {
+        "text": "core_product_name: rotary liquid ring compressor | acronymed_core_product_name: comp-rot.liquid ring / vp(as)",
+        "raw_product_name": "COMP-ROT.LIQUID RING / VP(AS)",
+        "list_of_product_ids": "7,100,742,717,377",
+        "core_id": 408.0
+      }
+    },
+    {
+      "id": "variant-70142178-e6ad-5393-8113-4788a6523929",
+      "score": 0.8598177,
+      "metadata": {
+        "text": "core_product_name: rotary positive displacement meter | acronymed_core_product_name: rpd meter",
+        "raw_product_name": "RPD METER",
+        "list_of_product_ids": "1,386,220,236",
+        "core_id": 1931.0
+      }
+    },
+    {
+      "id": "variant-d252e41c-389f-54d6-a47b-bbb108061f54",
+      "score": 0.85957325,
+      "metadata": {
+        "text": "core_product_name: hydraulic press | acronymed_core_product_name: m/c (machine)",
+        "raw_product_name": "HYDRAULIC PRESS M/C",
+        "list_of_product_ids": "13670,17355,18199,18193,18185",
+        "core_id": 1199.0
+      }
+    },
+    {
+      "id": "variant-c3c5f2e6-43d8-54dc-a454-4b05fd86ee82",
+      "score": 0.859274,
+      "metadata": {
+        "text": "core_product_name: auxiliary column | acronymed_core_product_name: aux. column",
+        "raw_product_name": "AUX. COLUMN",
+        "list_of_product_ids": "20899,20876,21908,21952,22021,22119,20853",
+        "core_id": 147.0
+      }
+    },
+    {
+      "id": "variant-8a7d8efc-f69f-5f72-ba1c-d03dbf9a1790",
+      "score": 0.8592221,
+      "metadata": {
+        "text": "core_product_name: variable frequency drive | acronymed_core_product_name: vfd | size_or_capacity: <1.1kV",
+        "raw_product_name": "Variable frequency drive (VFD)<1.1kV",
+        "list_of_product_ids": "7545,7219,10507,10506,10629,18011,23473,35376",
+        "core_id": 2419.0
+      }
+    },
+    {
+      "id": "variant-65e4b5c0-874a-5fb2-b108-70a12f290192",
+      "score": 0.85906297,
+      "metadata": {
+        "text": "core_product_name: hand control valve",
+        "raw_product_name": "Hand Control Valves",
+        "list_of_product_ids": "18259,18261,18258,18595,18636,18260,36509",
+        "core_id": 1212.0
+      }
+    }
+  ]
+}

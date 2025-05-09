@@ -1,0 +1,482 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.88539195,
+      "text": "core_product_name: octagonal pole | material: GI (Galvanized Iron)",
+      "core_id": 1057.0,
+      "raw_product_name": "GI-OCTAGONAL POLE",
+      "list_of_product_ids": [
+        "180",
+        "571",
+        "805",
+        "618",
+        "592"
+      ]
+    },
+    {
+      "retrieval_score": 0.8837957,
+      "text": "core_product_name: earthing wire | material: GI (Galvanized Iron)",
+      "core_id": 1053.0,
+      "raw_product_name": "GI EARTHING WIRE",
+      "list_of_product_ids": [
+        "13437"
+      ]
+    },
+    {
+      "retrieval_score": 0.8757401,
+      "text": "core_product_name: hi-rib roofing sheet | material: GI (Galvanized Iron) | accessories_or_attachments: accessories",
+      "core_id": 1922.0,
+      "raw_product_name": "ROOFING SHEETS & ACCESSORIES - GI HI-RIB",
+      "list_of_product_ids": [
+        "16184",
+        "16199",
+        "16211",
+        "16205",
+        "16248",
+        "16269",
+        "16330",
+        "16323",
+        "16351",
+        "34571"
+      ]
+    },
+    {
+      "retrieval_score": 0.873221,
+      "text": "core_product_name: cable tray | acronymed_core_product_name: gi cable tray | material: GI (Galvanized Iron)",
+      "core_id": 283.0,
+      "raw_product_name": "GI CABLE TRAYS",
+      "list_of_product_ids": [
+        "9939",
+        "9940",
+        "9943",
+        "9945",
+        "9944",
+        "9946",
+        "13481",
+        "15701",
+        "15731",
+        "15765",
+        "15788",
+        "15745",
+        "15824",
+        "18876",
+        "18922",
+        "15817",
+        "15848",
+        "15777",
+        "26430",
+        "32139"
+      ]
+    },
+    {
+      "retrieval_score": 0.8717524,
+      "text": "core_product_name: hi-rib roofing sheet | material: GI (Galvanized Iron) | construction_features: colour coated",
+      "core_id": 1922.0,
+      "raw_product_name": "ROOFING SHEETS & ACCESSORIES - GI HI-RIB COLOUR COATED",
+      "list_of_product_ids": [
+        "16185",
+        "16198",
+        "16213",
+        "16206",
+        "16249",
+        "16270",
+        "16324",
+        "16352",
+        "16331",
+        "34572"
+      ]
+    },
+    {
+      "retrieval_score": 0.86902994,
+      "text": "core_product_name: pipe fitting | acronymed_core_product_name: gi (galvanized iron) pipe fittings | material: GI (Galvanized Iron)",
+      "core_id": 182.0,
+      "raw_product_name": "GI PIPE FITTINGS",
+      "list_of_product_ids": [
+        "137",
+        "342",
+        "283",
+        "228",
+        "756"
+      ]
+    },
+    {
+      "retrieval_score": 0.8669772,
+      "text": "core_product_name: flexible cable tray support system | acronymed_core_product_name: gi (galvanized iron) cable tray support system | material: GI (Galvanized Iron)",
+      "core_id": 1055.0,
+      "raw_product_name": "GI FLEXIBLE CABLE TRAY SUPPORT SYSTEM",
+      "list_of_product_ids": [
+        "7302",
+        "7350",
+        "7900",
+        "16236",
+        "20193",
+        "16264"
+      ]
+    },
+    {
+      "retrieval_score": 0.8662263,
+      "text": "core_product_name: lattice structure | material: Galvanized Steel",
+      "core_id": 1012.0,
+      "raw_product_name": "GALVANIZED STEEL STRUCTURES- LATTICE",
+      "list_of_product_ids": [
+        "21292",
+        "21290",
+        "21283",
+        "21279",
+        "21265",
+        "21263",
+        "21311",
+        "21295",
+        "27932"
+      ]
+    },
+    {
+      "retrieval_score": 0.86481726,
+      "text": "core_product_name: galvanized iron pipe | acronymed_core_product_name: gi pipe",
+      "core_id": 1007.0,
+      "raw_product_name": "GI PIPE",
+      "list_of_product_ids": [
+        "15427",
+        "17238",
+        "17227",
+        "30897",
+        "30959",
+        "27363",
+        "28754",
+        "28918",
+        "28967",
+        "35290",
+        "35308",
+        "35313",
+        "39993"
+      ]
+    },
+    {
+      "retrieval_score": 0.8626645,
+      "text": "core_product_name: perforated cable tray | acronymed_core_product_name: gi (galvanized iron) cable tray | material: GI (Galvanized Iron) | accessories_or_attachments: Accessories | type_or_class: Perforated",
+      "core_id": 1054.0,
+      "raw_product_name": "GI CABLE TRAYS AND ACCESSORIES (PERFORATED TYPE)",
+      "list_of_product_ids": [
+        "7301",
+        "7349",
+        "7899",
+        "17491",
+        "26434"
+      ]
+    },
+    {
+      "retrieval_score": 0.86240935,
+      "text": "core_product_name: galvanized structure | material: Steel",
+      "core_id": 1011.0,
+      "raw_product_name": "GALVANIZED STEEL STRUCTURES",
+      "list_of_product_ids": [
+        "13697",
+        "16818",
+        "16886",
+        "16869",
+        "17140",
+        "18104",
+        "18096",
+        "22747"
+      ]
+    },
+    {
+      "retrieval_score": 0.86042416,
+      "text": "core_product_name: galvanized iron pipe | acronymed_core_product_name: gi pipe (galvanized iron pipe)",
+      "core_id": 1007.0,
+      "raw_product_name": "GALVANIZED IRON PIPES(GI)",
+      "list_of_product_ids": [
+        "7600",
+        "11065",
+        "7275",
+        "8051"
+      ]
+    },
+    {
+      "retrieval_score": 0.8592308,
+      "text": "core_product_name: pipe-ms (mild steel) | material: MS (Mild Steel) | construction_features: GI (Galvanized Iron) coating",
+      "core_id": 1690.0,
+      "raw_product_name": "PIPES-MS-(GI)",
+      "list_of_product_ids": [
+        "13947",
+        "14615",
+        "14654",
+        "14664",
+        "19769",
+        "21055",
+        "21413",
+        "22593",
+        "29948",
+        "29951",
+        "29953",
+        "35289",
+        "35310",
+        "35314"
+      ]
+    },
+    {
+      "retrieval_score": 0.8566271,
+      "text": "core_product_name: ladder cable tray | acronymed_core_product_name: gi (galvanized iron) cable trays | material: GI (Galvanized Iron) | accessories_or_attachments: Accessories | type_or_class: Ladder",
+      "core_id": 1052.0,
+      "raw_product_name": "GI CABLE TRAYS AND ACCESSORIES (LADDER TYPE)",
+      "list_of_product_ids": [
+        "7300",
+        "7348",
+        "7898",
+        "16218",
+        "16242",
+        "16233",
+        "16262",
+        "16774",
+        "16809",
+        "16865",
+        "17490",
+        "20192",
+        "16861"
+      ]
+    },
+    {
+      "retrieval_score": 0.85435516,
+      "text": "core_product_name: electrical strip",
+      "core_id": 714.0,
+      "raw_product_name": "ELECTRICAL STRIPS",
+      "list_of_product_ids": [
+        "211",
+        "512",
+        "115",
+        "528",
+        "461"
+      ]
+    },
+    {
+      "retrieval_score": 0.85395443,
+      "text": "core_product_name: roofing sheet | material: Precoated | construction_features: Profiled | material: G.I. (Galvanized Iron) | material: Galvalume | material: Zincalume | accessories_or_attachments: Accessories",
+      "core_id": 1921.0,
+      "raw_product_name": "ROOFING SHEETS & ACCESSORIES - PRECOATED PROFILED G.I./ GALVALUME/ ZINCALUME SHEETS",
+      "list_of_product_ids": [
+        "5529",
+        "6358",
+        "12558",
+        "12562",
+        "12559",
+        "12574",
+        "12604",
+        "12605",
+        "12638",
+        "12643",
+        "12635",
+        "12641",
+        "12644",
+        "17306",
+        "17295",
+        "34679",
+        "38550",
+        "38551",
+        "38552",
+        "38553"
+      ]
+    },
+    {
+      "retrieval_score": 0.8538352,
+      "text": "core_product_name: fitting | material: Cast Iron (CI)",
+      "core_id": 273.0,
+      "raw_product_name": "FITTINGS -CAST IRON (CI)",
+      "list_of_product_ids": [
+        "7618",
+        "7292",
+        "7881",
+        "15941",
+        "16290",
+        "16308",
+        "34586",
+        "35732",
+        "35733"
+      ]
+    },
+    {
+      "retrieval_score": 0.85301775,
+      "text": "core_product_name: sheet | acronymed_core_product_name: C.G.I. (corrugated galvanized iron) sheet | material: Corrugated Galvanized Iron | accessories_or_attachments: Accessories",
+      "core_id": 132.0,
+      "raw_product_name": "ROOFING SHEETS & ACCESSORIES - C.G.I. SHEET",
+      "list_of_product_ids": [
+        "6359",
+        "5530",
+        "13015",
+        "15462",
+        "15847",
+        "17280",
+        "17099",
+        "35783"
+      ]
+    },
+    {
+      "retrieval_score": 0.85179466,
+      "text": "core_product_name: galvanized steel pipe | material: Galvanized Steel",
+      "core_id": 1014.0,
+      "raw_product_name": "GALVANIZED STEEL STRUCTURES- PIPE",
+      "list_of_product_ids": [
+        "21293",
+        "21291",
+        "21284",
+        "21280",
+        "21266",
+        "21264",
+        "21296",
+        "21312",
+        "27931"
+      ]
+    },
+    {
+      "retrieval_score": 0.85134476,
+      "text": "core_product_name: gi (galvanized iron) pipe | acronymed_core_product_name: gi pipe (erw) | special_attributes: erw (electric resistance welded)",
+      "core_id": 1056.0,
+      "raw_product_name": "GI PIPE(ERW)",
+      "list_of_product_ids": [
+        "29650",
+        "29098",
+        "29099",
+        "29097",
+        "35291",
+        "35309",
+        "35315"
+      ]
+    },
+    {
+      "retrieval_score": 0.8511775,
+      "text": "core_product_name: flat | acronymed_core_product_name: g. i. flat (galvanized iron flat) | material: Galvanized Iron",
+      "core_id": 1008.0,
+      "raw_product_name": "GALVANIZED IRON FLAT (G. I. FLAT)",
+      "list_of_product_ids": [
+        "17147",
+        "17136",
+        "17122",
+        "17130",
+        "17127",
+        "17157",
+        "17158",
+        "27365",
+        "28915",
+        "35812"
+      ]
+    },
+    {
+      "retrieval_score": 0.84974474,
+      "text": "core_product_name: terminal strip",
+      "core_id": 2231.0,
+      "raw_product_name": "TERMINAL STRIPS",
+      "list_of_product_ids": [
+        "1",
+        "400",
+        "220",
+        "181"
+      ]
+    },
+    {
+      "retrieval_score": 0.847942,
+      "text": "core_product_name: gate valve | material: SG (Spheroidal Graphite) Iron",
+      "core_id": 1041.0,
+      "raw_product_name": "VALVE GATE SG IRON",
+      "list_of_product_ids": [
+        "7134",
+        "7461",
+        "11513",
+        "11980",
+        "17820",
+        "35525"
+      ]
+    },
+    {
+      "retrieval_score": 0.8463643,
+      "text": "core_product_name: backing flange | material: Mild Steel | construction_features: Galvanised",
+      "core_id": 1476.0,
+      "raw_product_name": "MILD STEEL GALVANISED BACKING FLANGES",
+      "list_of_product_ids": [
+        "17443",
+        "24565",
+        "24653",
+        "17446"
+      ]
+    },
+    {
+      "retrieval_score": 0.8457313,
+      "text": "core_product_name: gate valve | material: Cast Iron",
+      "core_id": 1041.0,
+      "raw_product_name": "VALVE GATE CAST IRON",
+      "list_of_product_ids": [
+        "7133",
+        "7460",
+        "11512",
+        "11979",
+        "17819",
+        "35528",
+        "39520",
+        "39843",
+        "39869",
+        "39928",
+        "40203"
+      ]
+    },
+    {
+      "retrieval_score": 0.84487283,
+      "text": "core_product_name: tube | material: Alloy Steel",
+      "core_id": 88.0,
+      "raw_product_name": "ALLOY STEEL TUBES",
+      "list_of_product_ids": [
+        "14174",
+        "14880",
+        "29977",
+        "29980",
+        "29975"
+      ]
+    },
+    {
+      "retrieval_score": 0.8444867,
+      "text": "core_product_name: plug valve | material: CI (Cast Iron)",
+      "core_id": 2366.0,
+      "raw_product_name": "VALVE PLUG CI",
+      "list_of_product_ids": [
+        "14077",
+        "23666",
+        "23304",
+        "23289",
+        "23650",
+        "35583"
+      ]
+    },
+    {
+      "retrieval_score": 0.84371513,
+      "text": "core_product_name: ball valve | material: CI (Cast Iron)",
+      "core_id": 172.0,
+      "raw_product_name": "VALVE BALL CI",
+      "list_of_product_ids": [
+        "8656"
+      ]
+    },
+    {
+      "retrieval_score": 0.8435281,
+      "text": "core_product_name: expansion bellow | material: Metallic",
+      "core_id": 1526.0,
+      "raw_product_name": "Mettalic Expansion Bellows",
+      "list_of_product_ids": [
+        "13753",
+        "22100",
+        "23437",
+        "23436",
+        "32732"
+      ]
+    },
+    {
+      "retrieval_score": 0.8431578,
+      "text": "core_product_name: section | material: Stainless Steel",
+      "core_id": 100.0,
+      "raw_product_name": "STAINLESS STEEL SECTIONS",
+      "list_of_product_ids": [
+        "17974",
+        "17973",
+        "17975",
+        "17972",
+        "18646"
+      ]
+    }
+  ]
+}

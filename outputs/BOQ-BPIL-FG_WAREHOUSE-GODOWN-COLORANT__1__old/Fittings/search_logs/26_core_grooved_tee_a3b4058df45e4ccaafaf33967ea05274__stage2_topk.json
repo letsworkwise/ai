@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: grooved tee | size: nominal bore: 200",
+  "retrieval_results": [
+    {
+      "id": "variant-7200274a-d707-5227-ac1e-143a15e80f5e",
+      "score": 0.8642186,
+      "metadata": {
+        "text": "core_product_name: barred tee",
+        "raw_product_name": "BARRED TEE",
+        "list_of_product_ids": "14187,22417,27760,27750,27740,27730,27720,27781,36527",
+        "core_id": 175.0
+      }
+    },
+    {
+      "id": "variant-663cf76d-ffc4-5b4c-934a-31949f5c06be",
+      "score": 0.8622792,
+      "metadata": {
+        "text": "core_product_name: tee fitting",
+        "raw_product_name": "FITTINGS \u2013TEES",
+        "list_of_product_ids": "14267,14693,14668,14710,14903,14915,15996,16049,18892,19403,18960,19725,19800,19793,20062,20171,20936,21919,22661,22656,22915,23197,27761,27751,27741,27731,27721,27780,37063,36444,36528",
+        "core_id": 881.0
+      }
+    },
+    {
+      "id": "variant-0ac14aa8-88e6-5346-8d34-683abe9ee02e",
+      "score": 0.85109663,
+      "metadata": {
+        "text": "core_product_name: flow tee",
+        "raw_product_name": "FLOW TEE",
+        "list_of_product_ids": "5371,6067,11152,11151,10737,11283,10560,12908,15980,17555,27536,27759,27749,27739,27729,27719,27782,36526",
+        "core_id": 940.0
+      }
+    },
+    {
+      "id": "variant-5935ee01-a444-52d8-9615-fa4b0239701e",
+      "score": 0.848641,
+      "metadata": {
+        "text": "core_product_name: geared motor",
+        "raw_product_name": "Geared Motor",
+        "list_of_product_ids": "7,543,721,735,410",
+        "core_id": 1084.0
+      }
+    },
+    {
+      "id": "variant-6a2eb1b0-38c1-5e50-8fd3-5808f51bb1ee",
+      "score": 0.8450207,
+      "metadata": {
+        "text": "core_product_name: bearing",
+        "raw_product_name": "Bearing",
+        "list_of_product_ids": "7047,7374,15509,15505,18776,20394,20653,19595,37012",
+        "core_id": 267.0
+      }
+    },
+    {
+      "id": "variant-1fe7927e-8e90-5f04-8015-9cb017b97836",
+      "score": 0.8443271,
+      "metadata": {
+        "text": "core_product_name: tube | material: Titanium",
+        "raw_product_name": "TUBE-TITANIUM",
+        "list_of_product_ids": "6307,5478,13304,30877",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.84412706,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    },
+    {
+      "id": "variant-d65edc80-7bd6-5e0a-a085-b9a403bb222d",
+      "score": 0.843917,
+      "metadata": {
+        "text": "core_product_name: thrust bearing",
+        "raw_product_name": "THRUST BEARING",
+        "list_of_product_ids": "236,132,357,723,575",
+        "core_id": 2248.0
+      }
+    },
+    {
+      "id": "variant-10dc0a41-9ee6-56ed-9d8e-405a29cccb61",
+      "score": 0.8438934,
+      "metadata": {
+        "text": "core_product_name: studded tube",
+        "raw_product_name": "TUBE-STUDDED",
+        "list_of_product_ids": "5,991,517,017,614",
+        "core_id": 2285.0
+      }
+    },
+    {
+      "id": "variant-223a653f-ce26-546e-9630-21d058f384c7",
+      "score": 0.84363735,
+      "metadata": {
+        "text": "core_product_name: grating",
+        "raw_product_name": "GRATINGS",
+        "list_of_product_ids": "218,522,185,428,606",
+        "core_id": 1068.0
+      }
+    },
+    {
+      "id": "variant-6caf8017-d55b-5441-bf5f-7eaed4cb420b",
+      "score": 0.8428678,
+      "metadata": {
+        "text": "core_product_name: grout",
+        "raw_product_name": "GROUT",
+        "list_of_product_ids": "13748,16708,16707,19125,22869,33348,38480,35419,35432",
+        "core_id": 1078.0
+      }
+    },
+    {
+      "id": "variant-145bf8a5-2999-5fbf-8101-fe9937866c4f",
+      "score": 0.8428619,
+      "metadata": {
+        "text": "core_product_name: full bore ball valve",
+        "raw_product_name": "FULL BORE BALL VALVE",
+        "list_of_product_ids": "13495,14676,14684,14870,14927,15073,15125,22526,34318,35460",
+        "core_id": 986.0
+      }
+    },
+    {
+      "id": "variant-c4dd5da8-ce81-5c61-9d83-f5bcb7ada524",
+      "score": 0.8414538,
+      "metadata": {
+        "text": "core_product_name: scrapper tee",
+        "raw_product_name": "SCRAPPER TEES",
+        "list_of_product_ids": "13878,14911,15978,16124,17264,17263,17262,17550,18295,27762,27752,27742,27732,27722,27779,34727,34729,34855",
+        "core_id": 1975.0
+      }
+    },
+    {
+      "id": "variant-72b130b8-f65d-5293-b166-916a12f6b2f4",
+      "score": 0.84088385,
+      "metadata": {
+        "text": "core_product_name: impulse tube",
+        "raw_product_name": "IMPULSE PIPES/TUBES",
+        "list_of_product_ids": "1,368,121,414",
+        "core_id": 1227.0
+      }
+    },
+    {
+      "id": "variant-123f81c9-bb37-5180-9d3f-25fcda640179",
+      "score": 0.84066015,
+      "metadata": {
+        "text": "core_product_name: gear",
+        "raw_product_name": "GEARS",
+        "list_of_product_ids": "23954,23955,24993,25023",
+        "core_id": 1045.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8406429,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-2e84cef9-327a-515b-8b9e-5d2b777c59cb",
+      "score": 0.8405973,
+      "metadata": {
+        "text": "core_product_name: elbowlet",
+        "raw_product_name": "ELBOWLET",
+        "list_of_product_ids": "14395,14719,14722,14725,19815,22922",
+        "core_id": 681.0
+      }
+    },
+    {
+      "id": "variant-3efeda5d-6e70-51e8-8f2e-ad8a9436822e",
+      "score": 0.8405787,
+      "metadata": {
+        "text": "core_product_name: bend",
+        "raw_product_name": "BENDS",
+        "list_of_product_ids": "219,382,194,421,936",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-371b3ece-a606-5c8d-9ec9-de52fb9e3846",
+      "score": 0.84039134,
+      "metadata": {
+        "text": "core_product_name: tube | material: Copper | construction_features: Coated | construction_features: Bare",
+        "raw_product_name": "COPPER TUBES(COATED,BARE)",
+        "list_of_product_ids": "6,487,565,818,967",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-f9d0f089-635a-5d99-871b-36ab7568eaca",
+      "score": 0.840165,
+      "metadata": {
+        "text": "core_product_name: cross fitting | special_attributes: Seamless (pipes)",
+        "raw_product_name": "FIITINGS CROSS-FROM SEAMLESS PIPES",
+        "list_of_product_ids": "6319,5490,11288,33988,33987,33986",
+        "core_id": 822.0
+      }
+    },
+    {
+      "id": "variant-0f4440ea-bde2-5092-9bec-3a611b7ce624",
+      "score": 0.84013057,
+      "metadata": {
+        "text": "core_product_name: weldolet",
+        "raw_product_name": "WELDOLETS",
+        "list_of_product_ids": "14393,14717,14720,14723,19813,22920,37261",
+        "core_id": 2465.0
+      }
+    },
+    {
+      "id": "variant-2f93d8f7-a73a-5975-bf77-9375f12bceaf",
+      "score": 0.8396481,
+      "metadata": {
+        "text": "core_product_name: geared motor | size_or_capacity: below 5 kW",
+        "raw_product_name": "Geared Motor(below 5 kW)",
+        "list_of_product_ids": "7027,7355,10478,10515,10519,10531,10521,10808,10806,35411",
+        "core_id": 1084.0
+      }
+    },
+    {
+      "id": "variant-f126676e-a62f-52a6-ba06-b09e7951e71e",
+      "score": 0.83878726,
+      "metadata": {
+        "text": "core_product_name: forged fitting",
+        "raw_product_name": "FORGED FITTINGS",
+        "list_of_product_ids": "13660,22252,24586,36933",
+        "core_id": 972.0
+      }
+    },
+    {
+      "id": "variant-7cc5ca9a-c9fd-5cb7-8b41-1167a6d57856",
+      "score": 0.8387797,
+      "metadata": {
+        "text": "core_product_name: turbine generator set",
+        "raw_product_name": "TURBINE GENERATOR SET",
+        "list_of_product_ids": "9481,9594,14798,24321,37420,36130,37401",
+        "core_id": 2290.0
+      }
+    },
+    {
+      "id": "variant-9aa36f08-e097-54b1-94fe-8359583782f8",
+      "score": 0.83851576,
+      "metadata": {
+        "text": "core_product_name: orifice fitting",
+        "raw_product_name": "ORIFICE - FITTINGS",
+        "list_of_product_ids": "36537,36541,36539,36546",
+        "core_id": 1602.0
+      }
+    },
+    {
+      "id": "variant-23894e47-9978-5e2c-8f43-aa14371a8bf4",
+      "score": 0.83842266,
+      "metadata": {
+        "text": "core_product_name: bearing | type_or_class: CE (Closed End) and TE (Thrust End)",
+        "raw_product_name": "Bearing (CE & TE)",
+        "list_of_product_ids": "1,550,429,100",
+        "core_id": 267.0
+      }
+    },
+    {
+      "id": "variant-30af54ab-8cc5-5bd5-b441-fb4223f3c8a8",
+      "score": 0.83825004,
+      "metadata": {
+        "text": "core_product_name: tube mill",
+        "raw_product_name": "TUBE MILLS",
+        "list_of_product_ids": "233,392,337,323,333",
+        "core_id": 2283.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.83816224,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-30800f6e-df01-550b-8e26-5c88a2657e32",
+      "score": 0.8379142,
+      "metadata": {
+        "text": "core_product_name: welded fin tube",
+        "raw_product_name": "TUBE-WELDED FIN",
+        "list_of_product_ids": "5,990,516,917,613",
+        "core_id": 2287.0
+      }
+    },
+    {
+      "id": "variant-ea615f6d-ddd7-5bf3-89fb-13bae00fb9b0",
+      "score": 0.83762825,
+      "metadata": {
+        "text": "core_product_name: seamless tube | special_attributes: Seamless",
+        "raw_product_name": "SEAMLESS TUBES",
+        "list_of_product_ids": "13885,14712,14878,21559,27372,36957,36666,37273",
+        "core_id": 1987.0
+      }
+    }
+  ]
+}

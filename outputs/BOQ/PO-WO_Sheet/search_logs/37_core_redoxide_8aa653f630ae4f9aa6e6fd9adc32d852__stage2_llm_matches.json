@@ -1,0 +1,55 @@
+{
+  "query": "core_product_name: redoxide | size: quantity: 20 ltr",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: construction chemical",
+        "raw_product_name": "CONSTRUCTION CHEMICALS",
+        "list_of_product_ids": [
+          "15531",
+          "13971",
+          "15530",
+          "15944",
+          "17467",
+          "22627",
+          "23888",
+          "15529",
+          "15528",
+          "35652"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: chemical cleaning material",
+        "raw_product_name": "CLEANING MATERIAL (CHEMICALS)",
+        "list_of_product_ids": [
+          "196",
+          "021",
+          "960",
+          "127",
+          "958"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: corrosion inhibitor",
+        "raw_product_name": "CORROSION INHIBITOR",
+        "list_of_product_ids": [
+          "218",
+          "162",
+          "181",
+          "327",
+          "795"
+        ]
+      }
+    }
+  ]
+}

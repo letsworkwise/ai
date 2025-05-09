@@ -1,0 +1,419 @@
+{
+  "sheet_name": "Table 1",
+  "boq_context": "MIRAJ ENGINEERING SERVICES PVT. LTD. |  |  | \nBOQ - ELECTRICAL AND INSTRUMENTATION WORKS FOR IOCL MEGHALAYA |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "1.1 | Design and supply of H-pole Structure for 11 KV Incoming Power Supply with Gang operated isolator, D.O. fuse with base, lightning arrestors, Insulator, earthing, construction of earth Pits, fencing, gate, gravel laying, padlocking, signages including all civil works for 11 KV Supply.  The design shall be in line with Electricity board guidelines.",
+      "core_product_name": "h-pole structure",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "voltage: 11 kv, feature: gang operated isolator, feature: d.o. (drop out) fuse with base, feature: lightning arrestors, feature: insulator, feature: earthing, feature: construction of earth pits, feature: fencing, feature: gate, feature: gravel laying, feature: padlocking, feature: signages, feature: all civil works for 11 kv supply, standard: electricity board guidelines",
+      "quantity": "1.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "2.1 | 11 KV, 630 A, VCB panel indoor type comprising of metering and protection system including numerical relay, auxiliary relay, CTs, PTs , indication lamp, switches along with Weather proof double compression Ni plated brass cable gland and crimping type cable lugs for all incoming and outgoing cables and as per specfication..",
+      "core_product_name": "vcb panel",
+      "acronymed_core_product_name": "vcb panel",
+      "size": "voltage: 11 kv, current: 630 a",
+      "feature_or_specifications": "type: indoor, feature: metering and protection system, feature: numerical relay, feature: auxiliary relay, feature: cts (current transformers), feature: pts (potential transformers), feature: indication lamp, feature: switches, feature: weather proof double compression ni (nickel) plated brass cable gland, feature: crimping type cable lugs for all incoming and outgoing cables, feature: as per specification",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "3.1 | 500 KVA, 11KV/433V,  Dyn11,  AN type with off load  tap changer power transformer complete with all accessories as per attached specifications & DS.",
+      "core_product_name": "power transformer",
+      "acronymed_core_product_name": "",
+      "size": "capacity: 500 kva, voltage: 11kv/433v",
+      "feature_or_specifications": "vector group: dyn11, cooling type: an (air natural), feature: off load tap changer, feature: complete with all accessories, feature: as per attached specifications & ds (data sheet)",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "3.2 | 200KVA, 415V/433V, Dyn1, natural air cooled Dry type Lighting transformer as per attached specifications & DS.",
+      "core_product_name": "lighting transformer",
+      "acronymed_core_product_name": "",
+      "size": "capacity: 200kva, voltage: 415v/433v",
+      "feature_or_specifications": "vector group: dyn1, cooling type: natural air cooled dry type, feature: as per attached specifications & ds (data sheet)",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "4.1 | PMCC:  415V, 3phase, 4 wire, 50 Hz, 800A, 50 KA for 1second, double front fully draw out type  PMCC comprising of ACBs, CTs/PTs, relays, indicating lamps etc. as per attached SLDs, specifications & DS.",
+      "core_product_name": "pmcc",
+      "acronymed_core_product_name": "pmcc",
+      "size": "voltage: 415v, phase: 3phase, wire: 4 wire, frequency: 50 hz, current: 800a, short circuit rating: 50 ka for 1 second",
+      "feature_or_specifications": "type: double front fully draw out, feature: comprising of acbs (air circuit breakers), cts (current transformers)/pts (potential transformers), relays, indicating lamps, feature: as per attached slds (single line diagrams), specifications & ds (data sheet)",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "4.2 | MLDB: 415V, 3phase, 4 wire, 50 Hz, 400A, 25KA for 1second MLDB including as per attached SLD, specifications & DS.",
+      "core_product_name": "mldb",
+      "acronymed_core_product_name": "mldb",
+      "size": "voltage: 415v, phase: 3phase, wire: 4 wire, frequency: 50 hz, current: 400a, short circuit rating: 25ka for 1 second",
+      "feature_or_specifications": "feature: as per attached sld (single line diagram), specifications & ds (data sheet)",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "4.3 | Fire water MCC: 415V, 3phase, 4 wire, 50 Hz, 400A, 50KA for 1second MCC including as per attached SLD, specifications & DS.",
+      "core_product_name": "fire water mcc",
+      "acronymed_core_product_name": "mcc",
+      "size": "voltage: 415v, phase: 3phase, wire: 4 wire, frequency: 50 hz, current: 400a, short circuit rating: 50ka for 1 second",
+      "feature_or_specifications": "feature: as per attached sld (single line diagram), specifications & ds (data sheet)",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "4.4 | CAPACITOR  PANEL : 415V, 3Ph-N, 50Hz,  50KA for 1second, 250KVAR capacitor panel with capacitors 2X75, 1X50, 2X25 KVAR) and APFC relay, protections, filters etc. as per attached SLD, specifications & DS including weather proof double compression Ni plated brass cable glands and lugs for all incoming and outgoing feeders.",
+      "core_product_name": "capacitor panel",
+      "acronymed_core_product_name": "",
+      "size": "voltage: 415v, phase: 3ph-n, frequency: 50hz, short circuit rating: 50ka for 1 second, capacity: 250kvar",
+      "feature_or_specifications": "capacitors: 2x75, 1x50, 2x25 kvar, feature: apfc (automatic power factor correction) relay, feature: protections, feature: filters, feature: as per attached sld (single line diagram), specifications & ds (data sheet), feature: weather proof double compression ni (nickel) plated brass cable glands and lugs for all incoming and outgoing feeders",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "5.1 | LDB / LP, W eatherproof, IP 65, incomer 63A, 3 Phase, 4 wire, 3 Way LDB, 10kA for 1 sec with RCBO",
+      "core_product_name": "ldb",
+      "acronymed_core_product_name": "ldb",
+      "size": "incomer: 63a, phase: 3 phase, wire: 4 wire, way: 3 way, short circuit rating: 10ka for 1 sec",
+      "feature_or_specifications": "type: weatherproof, protection: ip 65, feature: with rcbo (residual current circuit breaker with overcurrent protection)",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "5.2 | LDB / LP, W eatherproof, IP 65, incomer 63A, 3 Phase, 4 wire, 6 Way LDB, 10kA for 1 sec with RCBO",
+      "core_product_name": "ldb",
+      "acronymed_core_product_name": "ldb",
+      "size": "incomer: 63a, phase: 3 phase, wire: 4 wire, way: 6 way, short circuit rating: 10ka for 1 sec",
+      "feature_or_specifications": "type: weatherproof, protection: ip 65, feature: with rcbo (residual current circuit breaker with overcurrent protection)",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "5.3 | LDB / LP, Outdoor type, Flame proof (FLP) Type, IP class suitable for FLP and minimum protection shall be IP-65, incomer 63A, 3 Phase, 4 wire, 3 Way LDB, 10kA for 1 sec with RCBO",
+      "core_product_name": "ldb",
+      "acronymed_core_product_name": "ldb",
+      "size": "incomer: 63a, phase: 3 phase, wire: 4 wire, way: 3 way, short circuit rating: 10ka for 1 sec",
+      "feature_or_specifications": "type: outdoor, type: flame proof (flp), protection: ip class suitable for flp, minimum protection: ip-65, feature: with rcbo (residual current circuit breaker with overcurrent protection)",
+      "quantity": "5.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "5.4 | LDB / LP, Outdoor type, Flame proof (FLP) Type, IP class suitable for FLP and minimum protection shall be IP-65 , incomer 63A, 3 Phase, 4 wire, 6 Way LDB, 10kA for 1 sec with RCBO",
+      "core_product_name": "ldb",
+      "acronymed_core_product_name": "ldb",
+      "size": "incomer: 63a, phase: 3 phase, wire: 4 wire, way: 6 way, short circuit rating: 10ka for 1 sec",
+      "feature_or_specifications": "type: outdoor, type: flame proof (flp), protection: ip class suitable for flp, minimum protection: ip-65, feature: with rcbo (residual current circuit breaker with overcurrent protection)",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "5.5 | UPS  DB - 230V, 50Hz,Outdoor type, Flame proof (FLP) Type, IP class suitable for FLP and minimum protection shall be IP-65,  incomer 63A, 3 Phase, 4 wire, 3 Way LDB, 10kA for 1 sec with RCBO",
+      "core_product_name": "ups db",
+      "acronymed_core_product_name": "db",
+      "size": "voltage: 230v, frequency: 50hz, incomer: 63a, phase: 3 phase, wire: 4 wire, way: 3 way, short circuit rating: 10ka for 1 sec",
+      "feature_or_specifications": "type: outdoor, type: flame proof (flp), protection: ip class suitable for flp, minimum protection: ip-65, feature: with rcbo (residual current circuit breaker with overcurrent protection)",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "5.6 | Feeder Pillar for street Lighting . 415V, 3Ph,  50Hz,  Flame proof (IP class suitable for FLP and minimum protection shall be IP-65)  sheet steel enclosure column/structural mounted, with photovoltic cell based control with A/M selector switch, start/stop PB, indicating lamps etc. with 3mm thick FRP  canopy and side cover of the following incoming and outgoing feeders: i) 1no.-Incomer 63A, 3 phase RCBO 30 mA ii) 3nos.-O/G 16A TPN MCB",
+      "core_product_name": "feeder pillar",
+      "acronymed_core_product_name": "",
+      "size": "voltage: 415v, phase: 3ph, frequency: 50hz, enclosure thickness: 3mm frp (fiber reinforced plastic) canopy and side cover, incomer: 63a, outgoing: 16a tpn mcb",
+      "feature_or_specifications": "type: flame proof, protection: ip class suitable for flp (flame proof), minimum protection: ip-65, enclosure: sheet steel, mounting: column/structural, control: photovoltic cell based, selector switch: a/m (auto/manual), feature: start/stop pb (push button), feature: indicating lamps, feature: with 1no.-incomer 63a, 3 phase rcbo 30 ma, feature: 3nos.-o/g (outgoing) 16a tpn (triple pole neutral) mcb (miniature circuit breaker)",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "5.7 | PDB at outdoor location . 415V, 3Ph,  50Hz,  W eatherproof and Flame proof  (IP class suitable for FLP and minimum protection shall be IP-65)  sheet steel enclosure column/structural mounted, start/stop PB, indicating lamps etc. with 3mm thick FRP  canopy and side cover of the following incoming and outgoing feeders: i) 1no.-Incomer 100A TPN MCCB ii) 5nos.-O/G 32A TPN MCCB One outgoing shall be provided with photovoltic cell based control with A/M selector switch, start/stop PB, indicating lamps etc to feed the street light.",
+      "core_product_name": "pdb",
+      "acronymed_core_product_name": "pdb",
+      "size": "voltage: 415v, phase: 3ph, frequency: 50hz, enclosure thickness: 3mm frp (fiber reinforced plastic) canopy and side cover, incomer: 100a tpn mccb, outgoing: 32a tpn mccb",
+      "feature_or_specifications": "type: weatherproof, type: flame proof, protection: ip class suitable for flp (flame proof), minimum protection: ip-65, enclosure: sheet steel, mounting: column/structural, feature: start/stop pb (push button), feature: indicating lamps, feature: with 1no.-incomer 100a tpn (triple pole neutral) mccb (moulded case circuit breaker), feature: 5nos.-o/g (outgoing) 32a tpn mccb, feature: one outgoing with photovoltic cell based control with a/m (auto/manual) selector switch, start/stop pb, indicating lamps to feed the street light",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "6.1 | 110V, 10A BATTERY CHARGER consisting of dual float cum boost charger and Ni-Cd type battery (43AH) with two hour back up capacity as per attached specifications & DS.",
+      "core_product_name": "battery charger",
+      "acronymed_core_product_name": "",
+      "size": "voltage: 110v, current: 10a, battery capacity: 43ah, backup time: two hour",
+      "feature_or_specifications": "feature: dual float cum boost charger, battery type: ni-cd (nickel-cadmium), feature: as per attached specifications & ds (data sheet)",
+      "quantity": "1.0",
+      "unit": "No."
+    },
+    {
+      "section_context_for_this_product_block": [
+        "ELE",
+        "PART A - SUPPLY OF ELECTRICAL ITEMS"
+      ],
+      "full_product_description": "6.2 | DC DISTRIBUTION BOARD: 110V DC, 2 wire 63A DC Distribution Board fed by duel float cum boost charger as per attached SLD, specifications & DS. Incomer: 63A DP MCB Outgoing: 15nos. 16A DP MCB",
+      "core_product_name": "dc distribution board",
+      "acronymed_core_product_name": "",
+      "size": "voltage: 110v dc, wire: 2 wire, incomer: 63a dp mcb, outgoing: 15nos. 16a dp mcb",
+      "feature_or_specifications": "fed by: duel float cum boost charger, feature: as per attached sld (single line diagram), specifications & ds (data sheet)",
+      "quantity": "1.0",
+      "unit": "No."
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      0,
+      29
+    ],
+    "original_rows": [
+      {
+        "0": "ELE",
+        "1": "PART A - SUPPLY OF ELECTRICAL ITEMS",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "1",
+        "1": "H POLE  STRUCTURE",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "1.1",
+        "1": "Design and supply of H-pole Structure for 11 KV Incoming Power Supply with Gang operated isolator, D.O. fuse with base, lightning arrestors, Insulator, earthing, construction of earth Pits, fencing, gate, gravel laying, padlocking, signages including all civil works for 11 KV Supply.  The design shall be in line with Electricity board guidelines.",
+        "2": "Set",
+        "3": 1.0
+      },
+      {
+        "0": "2",
+        "1": "11 KV indoor VCB Panel",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "2.1",
+        "1": "11 KV, 630 A, VCB panel indoor type comprising of metering and protection system including numerical relay, auxiliary relay, CTs, PTs , indication lamp, switches along with Weather proof double compression Ni plated brass cable gland and crimping type cable lugs for all incoming and outgoing cables and as per specfication..",
+        "2": "No.",
+        "3": 1.0
+      },
+      {
+        "0": "3",
+        "1": "POWER TRANSFORMER AND LIGHTING TRANSFORMER",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "3.1",
+        "1": "500 KVA, 11KV/433V,  Dyn11,  AN type with off load  tap changer power transformer complete with all accessories as per attached specifications & DS.",
+        "2": "No.",
+        "3": 1.0
+      },
+      {
+        "0": "3.2",
+        "1": "200KVA, 415V/433V, Dyn1, natural air cooled Dry type Lighting transformer as per attached specifications & DS.",
+        "2": "No.",
+        "3": 1.0
+      },
+      {
+        "0": "4",
+        "1": "MV/LV SWITCH BOARDS/ PANELS",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "4.1",
+        "1": "PMCC:  415V, 3phase, 4 wire, 50 Hz, 800A, 50 KA for 1second, double front fully draw out type  PMCC comprising of ACBs, CTs/PTs, relays, indicating lamps etc. as per attached SLDs, specifications & DS.",
+        "2": "No.",
+        "3": 1.0
+      },
+      {
+        "0": "4.2",
+        "1": "MLDB: 415V, 3phase, 4 wire, 50 Hz, 400A, 25KA for 1second MLDB including as per attached SLD, specifications & DS.",
+        "2": "No.",
+        "3": 1.0
+      },
+      {
+        "0": "4.3",
+        "1": "Fire water MCC: 415V, 3phase, 4 wire, 50 Hz, 400A, 50KA for 1second MCC including as per attached SLD, specifications & DS.",
+        "2": "No.",
+        "3": 1.0
+      },
+      {
+        "0": "4.4",
+        "1": "CAPACITOR  PANEL : 415V, 3Ph-N, 50Hz,  50KA for 1second, 250KVAR capacitor panel with capacitors 2X75, 1X50, 2X25 KVAR) and APFC relay, protections, filters etc. as per attached SLD, specifications & DS including weather proof double compression Ni plated brass cable glands and lugs for all incoming and outgoing feeders.",
+        "2": "No.",
+        "3": 1.0
+      },
+      {
+        "0": "5",
+        "1": "LDB and SUB-LDB",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "5.1",
+        "1": "LDB / LP, W eatherproof, IP 65, incomer 63A, 3 Phase, 4 wire, 3 Way LDB, 10kA for 1 sec with RCBO",
+        "2": "No.",
+        "3": 1.0
+      },
+      {
+        "0": "5.2",
+        "1": "LDB / LP, W eatherproof, IP 65, incomer 63A, 3 Phase, 4 wire, 6 Way LDB, 10kA for 1 sec with RCBO",
+        "2": "No.",
+        "3": 1.0
+      },
+      {
+        "0": "5.3",
+        "1": "LDB / LP, Outdoor type, Flame proof (FLP) Type, IP class suitable for FLP and minimum protection shall be IP-65, incomer 63A, 3 Phase, 4 wire, 3 Way LDB, 10kA for 1 sec with RCBO",
+        "2": "No.",
+        "3": 5.0
+      },
+      {
+        "0": "5.4",
+        "1": "LDB / LP, Outdoor type, Flame proof (FLP) Type, IP class suitable for FLP and minimum protection shall be IP-65 , incomer 63A, 3 Phase, 4 wire, 6 Way LDB, 10kA for 1 sec with RCBO",
+        "2": "No.",
+        "3": 1.0
+      },
+      {
+        "0": "5.5",
+        "1": "UPS  DB - 230V, 50Hz,Outdoor type, Flame proof (FLP) Type, IP class suitable for FLP and minimum protection shall be IP-65,  incomer 63A, 3 Phase, 4 wire, 3 Way LDB, 10kA for 1 sec with RCBO",
+        "2": "No.",
+        "3": 1.0
+      },
+      {
+        "0": "5.6",
+        "1": "Feeder Pillar for street Lighting . 415V, 3Ph,  50Hz,  Flame proof (IP class suitable for FLP and minimum protection shall be IP-65)  sheet steel enclosure column/structural mounted, with photovoltic cell based control with A/M selector switch, start/stop PB, indicating lamps etc. with 3mm thick FRP  canopy and side cover of the following incoming and outgoing feeders: i) 1no.-Incomer 63A, 3 phase RCBO 30 mA ii) 3nos.-O/G 16A TPN MCB",
+        "2": "No.",
+        "3": 1.0
+      },
+      {
+        "0": "5.7",
+        "1": "PDB at outdoor location . 415V, 3Ph,  50Hz,  W eatherproof and Flame proof  (IP class suitable for FLP and minimum protection shall be IP-65)  sheet steel enclosure column/structural mounted, start/stop PB, indicating lamps etc. with 3mm thick FRP  canopy and side cover of the following incoming and outgoing feeders: i) 1no.-Incomer 100A TPN MCCB ii) 5nos.-O/G 32A TPN MCCB One outgoing shall be provided with photovoltic cell based control with A/M selector switch, start/stop PB, indicating lamps etc to feed the street light.",
+        "2": "No.",
+        "3": 1.0
+      },
+      {
+        "0": "6",
+        "1": "BATTERY CHARGER WITH BATTERY & DC DB",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "6.1",
+        "1": "110V, 10A BATTERY CHARGER consisting of dual float cum boost charger and Ni-Cd type battery (43AH) with two hour back up capacity as per attached specifications & DS.",
+        "2": "No.",
+        "3": 1.0
+      },
+      {
+        "0": "6.2",
+        "1": "DC DISTRIBUTION BOARD: 110V DC, 2 wire 63A DC Distribution Board fed by duel float cum boost charger as per attached SLD, specifications & DS. Incomer: 63A DP MCB Outgoing: 15nos. 16A DP MCB",
+        "2": "No.",
+        "3": 1.0
+      },
+      {
+        "0": "7",
+        "1": "LIGHTING FIXTURES  & ACCESSORIES",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": "7.1",
+        "1": "Supply of  Flameproof lighting fixtures, Lamps & Accessories as per attached specification. (All Lighting fixtures shall be provided with required no. of FLP double compression stainless steel cable glands and FLP stopping plug and control gear boxes etc. All fixtures shall have inbuilt JBs for loop in loop out facility of 3Cx2.5 sqmm Cu lighting cables)",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": NaN,
+        "1": "230 Volt AC, 40W Well glass Flameproof Ex'd',LED  lighting fixtures and all other accessories",
+        "2": "Nos.",
+        "3": 135.0
+      },
+      {
+        "0": "7.2",
+        "1": "Supply of weatherproof lighting fixtures, Lamps & Accessories as per attached specification. (All Lighting fixtures shall be provided with required no. of double compression stainless steel cable glands and stopping plug. All control gear boxes shall be provided with 3mm thick FRP  canopy with side cover. .All fixtures shall have inbuilt JBs for loop in loop out facility of 3Cx2.5 sqmm Cu lighting cables)",
+        "2": NaN,
+        "3": NaN
+      },
+      {
+        "0": NaN,
+        "1": "230 Volt AC, 40W Well glass weatherproof ,LED lighting fixtures and all other accessories",
+        "2": "Nos.",
+        "3": 22.0
+      },
+      {
+        "0": "8",
+        "1": "JUNCTION BOX",
+        "2": NaN,
+        "3": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 3516,
+    "completion_tokens": 4719
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "query": "core_product_name: grooved unequal tee | size: nominal bore: 150X80X150",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: unequal tee",
+        "raw_product_name": "UNEQUAL TEE",
+        "list_of_product_ids": [
+          "15470",
+          "27764",
+          "27754",
+          "27744",
+          "27734",
+          "27724",
+          "27777"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: tee fitting",
+        "raw_product_name": "FITTINGS \u001aTEES",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: pipe-glass reinforced epoxy (gre)",
+        "raw_product_name": "PIPE-GRE",
+        "list_of_product_ids": [
+          "6299",
+          "5470",
+          "10643",
+          "12715",
+          "13148",
+          "13161",
+          "13179",
+          "13191",
+          "13196",
+          "13204",
+          "13170",
+          "13185",
+          "17881"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8529614,
+      "text": "core_product_name: miniature circuit breaker | acronymed_core_product_name: mcb",
+      "core_id": 1446.0,
+      "raw_product_name": "MCB",
+      "list_of_product_ids": [
+        "6462",
+        "5633",
+        "10157",
+        "10663",
+        "9350",
+        "9447",
+        "9151",
+        "9187",
+        "9219",
+        "9361",
+        "11905",
+        "11944",
+        "17873",
+        "19028",
+        "19645",
+        "19652",
+        "20775",
+        "21203",
+        "19140",
+        "38290",
+        "36563"
+      ]
+    },
+    {
+      "retrieval_score": 0.8509384,
+      "text": "core_product_name: inside panel | acronymed_core_product_name: mcb (miniature circuit breaker) panel | type_or_class: Flush type only",
+      "core_id": 1448.0,
+      "raw_product_name": "MCB Inside Panels (Flush type only)",
+      "list_of_product_ids": [
+        "1",
+        "371",
+        "214",
+        "885"
+      ]
+    },
+    {
+      "retrieval_score": 0.8407451,
+      "text": "core_product_name: street light pole",
+      "core_id": 2127.0,
+      "raw_product_name": "STREET LIGHT POLES",
+      "list_of_product_ids": [
+        "241",
+        "872",
+        "418",
+        "827",
+        "640"
+      ]
+    },
+    {
+      "retrieval_score": 0.8405196,
+      "text": "core_product_name: molded case circuit breaker | acronymed_core_product_name: MCCB (Molded Case Circuit Breaker)",
+      "core_id": 1449.0,
+      "raw_product_name": "MCCB",
+      "list_of_product_ids": [
+        "6463",
+        "5634",
+        "10536",
+        "10191",
+        "9351",
+        "9152",
+        "9154",
+        "11938",
+        "19030",
+        "19029",
+        "20774",
+        "21202",
+        "36564",
+        "38080"
+      ]
+    },
+    {
+      "retrieval_score": 0.8380284,
+      "text": "core_product_name: polygonal pole",
+      "core_id": 1728.0,
+      "raw_product_name": "POLYGONAL POLE",
+      "list_of_product_ids": [
+        "17349",
+        "17339",
+        "20226",
+        "20351"
+      ]
+    },
+    {
+      "retrieval_score": 0.8379258,
+      "text": "core_product_name: electrical accessory",
+      "core_id": 701.0,
+      "raw_product_name": "ELECTRICAL ACCESSORIES",
+      "list_of_product_ids": [
+        "211",
+        "632",
+        "705",
+        "121",
+        "165"
+      ]
+    },
+    {
+      "retrieval_score": 0.8375087,
+      "text": "core_product_name: cable termination and jointing kit",
+      "core_id": 282.0,
+      "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+      "list_of_product_ids": [
+        "6444",
+        "5614",
+        "11000",
+        "12263",
+        "12344",
+        "15781",
+        "23866",
+        "24503"
+      ]
+    },
+    {
+      "retrieval_score": 0.8343892,
+      "text": "core_product_name: lighting fixture",
+      "core_id": 1006.0,
+      "raw_product_name": "LIGHTING FIXTURES",
+      "list_of_product_ids": [
+        "13606",
+        "16555",
+        "16546",
+        "16591",
+        "16576",
+        "17657",
+        "17650",
+        "17702",
+        "17682",
+        "18058",
+        "20306",
+        "20834",
+        "21315",
+        "22108",
+        "23384",
+        "35044"
+      ]
+    },
+    {
+      "retrieval_score": 0.8339658,
+      "text": "core_product_name: motor protection circuit breaker | acronymed_core_product_name: mpcb (motor protection circuit breaker)",
+      "core_id": 1528.0,
+      "raw_product_name": "Motor Protection Circuit Breaker (MPCB)",
+      "list_of_product_ids": [
+        "7492",
+        "7167",
+        "11205",
+        "10539",
+        "10192",
+        "19629"
+      ]
+    },
+    {
+      "retrieval_score": 0.83339834,
+      "text": "core_product_name: miniature type hardwire console item",
+      "core_id": 1480.0,
+      "raw_product_name": "MINIATURE TYPE HARDWIRE CONSOLE ITEMS",
+      "list_of_product_ids": [
+        "5935",
+        "6764",
+        "10918",
+        "10920",
+        "10919"
+      ]
+    },
+    {
+      "retrieval_score": 0.83304703,
+      "text": "core_product_name: electric light fitting | accessories_or_attachments: accessories",
+      "core_id": 704.0,
+      "raw_product_name": "ELECTRIC LIGHT FITTINGS (COMM) & ACCESSORIES",
+      "list_of_product_ids": [
+        "208",
+        "382",
+        "083",
+        "728",
+        "502"
+      ]
+    },
+    {
+      "retrieval_score": 0.8328406,
+      "text": "core_product_name: lighting and power distribution panel",
+      "core_id": 1413.0,
+      "raw_product_name": "Lighting & Power Distribution Panel",
+      "list_of_product_ids": [
+        "18723",
+        "18718",
+        "18735",
+        "18734",
+        "18733",
+        "19012",
+        "18997",
+        "18728",
+        "19000",
+        "38293",
+        "35861",
+        "38156"
+      ]
+    },
+    {
+      "retrieval_score": 0.8324898,
+      "text": "core_product_name: outdoor circuit breaker | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 11.0,
+      "raw_product_name": "33kV outdoor Circuit Breaker",
+      "list_of_product_ids": [
+        "141",
+        "551",
+        "464",
+        "036",
+        "000"
+      ]
+    },
+    {
+      "retrieval_score": 0.8318539,
+      "text": "core_product_name: compensating cable",
+      "core_id": 407.0,
+      "raw_product_name": "COMPENSATING CABLE",
+      "list_of_product_ids": [
+        "24082",
+        "21244",
+        "21234",
+        "23933",
+        "28345"
+      ]
+    },
+    {
+      "retrieval_score": 0.8317843,
+      "text": "core_product_name: lighting mast",
+      "core_id": 1363.0,
+      "raw_product_name": "Lighting Masts",
+      "list_of_product_ids": [
+        "15628",
+        "24242",
+        "15727",
+        "15629"
+      ]
+    },
+    {
+      "retrieval_score": 0.83175814,
+      "text": "core_product_name: lighting mast",
+      "core_id": 1363.0,
+      "raw_product_name": "LIGHTING MAST",
+      "list_of_product_ids": [
+        "17348",
+        "17346",
+        "17338",
+        "17520",
+        "17538",
+        "18673",
+        "17707",
+        "32167",
+        "32166",
+        "32193",
+        "35983",
+        "35989"
+      ]
+    },
+    {
+      "retrieval_score": 0.83168674,
+      "text": "core_product_name: pin bush or bibby coupling | size_or_capacity: 10kW and above",
+      "core_id": 1831.0,
+      "raw_product_name": "Pin Bush/ Bibby Coupling (10kW and above)",
+      "list_of_product_ids": [
+        "7043",
+        "7370",
+        "9731",
+        "18766"
+      ]
+    },
+    {
+      "retrieval_score": 0.83122456,
+      "text": "core_product_name: cable | size_or_capacity: 11KV (11 kiloVolt) | material: XLPE (Cross Linked Polyethylene)",
+      "core_id": 1.0,
+      "raw_product_name": "11KV CABLE XLPE",
+      "list_of_product_ids": [
+        "23938",
+        "24087",
+        "21515",
+        "27081"
+      ]
+    },
+    {
+      "retrieval_score": 0.83036894,
+      "text": "core_product_name: tube light fixture",
+      "core_id": 2282.0,
+      "raw_product_name": "TUBE LIGHT FIXTURES",
+      "list_of_product_ids": [
+        "139",
+        "811",
+        "494",
+        "021",
+        "021"
+      ]
+    },
+    {
+      "retrieval_score": 0.8301631,
+      "text": "core_product_name: cable hanger | mounting_or_installation: hanger",
+      "core_id": 281.0,
+      "raw_product_name": "CABLE HANGER",
+      "list_of_product_ids": [
+        "19960",
+        "19959",
+        "19974",
+        "24080",
+        "21181",
+        "21179",
+        "23931",
+        "27354"
+      ]
+    },
+    {
+      "retrieval_score": 0.82965493,
+      "text": "core_product_name: main lighting distribution board | acronymed_core_product_name: MLDB (Main Lighting Distribution Board)",
+      "core_id": 1487.0,
+      "raw_product_name": "MLDB",
+      "list_of_product_ids": [
+        "15386",
+        "13768",
+        "14606",
+        "14779",
+        "17931",
+        "17918",
+        "17893",
+        "17950",
+        "17940",
+        "17945",
+        "18027",
+        "18009",
+        "18050",
+        "19060",
+        "19661"
+      ]
+    },
+    {
+      "retrieval_score": 0.82959646,
+      "text": "core_product_name: hazardous lighting fixture | accessories_or_attachments: accessories",
+      "core_id": 1353.0,
+      "raw_product_name": "LIGHTING FIXTURE & ACCESSORIES-HAZARDOUS",
+      "list_of_product_ids": [
+        "6414",
+        "5584",
+        "10587",
+        "10557",
+        "10600",
+        "17341",
+        "17357",
+        "19480",
+        "19473",
+        "22850",
+        "35768",
+        "35810",
+        "35886",
+        "35864",
+        "35939",
+        "35950",
+        "36518"
+      ]
+    },
+    {
+      "retrieval_score": 0.8294803,
+      "text": "core_product_name: moulded case circuit breaker",
+      "core_id": 1508.0,
+      "raw_product_name": "MOULDED CASE CIRCUIT BREAKER",
+      "list_of_product_ids": [
+        "178",
+        "541",
+        "784",
+        "318",
+        "652"
+      ]
+    },
+    {
+      "retrieval_score": 0.82942086,
+      "text": "core_product_name: hanger | mounting_or_installation: Supports",
+      "core_id": 1215.0,
+      "raw_product_name": "Hangers & Supports",
+      "list_of_product_ids": [
+        "7538",
+        "11523",
+        "10958",
+        "7212",
+        "9703",
+        "11838",
+        "14955"
+      ]
+    },
+    {
+      "retrieval_score": 0.82925844,
+      "text": "core_product_name: lighting wire | type_or_class: Fire Retardant",
+      "core_id": 1355.0,
+      "raw_product_name": "LIGHTING WIRES FIRE RETARDANT TYPE",
+      "list_of_product_ids": [
+        "1",
+        "360",
+        "714",
+        "791"
+      ]
+    },
+    {
+      "retrieval_score": 0.8288278,
+      "text": "core_product_name: indicating lamp fitting",
+      "core_id": 1232.0,
+      "raw_product_name": "INDICATING LAMP FITTING",
+      "list_of_product_ids": [
+        "20128",
+        "20443",
+        "20418",
+        "20465",
+        "20506",
+        "20645"
+      ]
+    },
+    {
+      "retrieval_score": 0.82843125,
+      "text": "core_product_name: outdoor circuit breaker | size_or_capacity: 132 kV or 220 kV | operating_conditions: outdoor",
+      "core_id": 11.0,
+      "raw_product_name": "132kV/ 220 kV outdoor Circuit Breaker",
+      "list_of_product_ids": [
+        "1",
+        "414",
+        "714",
+        "844"
+      ]
+    },
+    {
+      "retrieval_score": 0.82797676,
+      "text": "core_product_name: electrical item",
+      "core_id": 713.0,
+      "raw_product_name": "ELECTRICALS ITEMS",
+      "list_of_product_ids": [
+        "240",
+        "232",
+        "403",
+        "028",
+        "576"
+      ]
+    },
+    {
+      "retrieval_score": 0.8279717,
+      "text": "core_product_name: cable | size_or_capacity: 33kV | material: XLPE (Cross-Linked Polyethylene)",
+      "core_id": 1.0,
+      "raw_product_name": "33kV cable XLPE",
+      "list_of_product_ids": [
+        "14154",
+        "15792",
+        "16795",
+        "20142",
+        "24052",
+        "20057",
+        "23903"
+      ]
+    },
+    {
+      "retrieval_score": 0.8273402,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    }
+  ]
+}

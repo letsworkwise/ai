@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: junction box | size: type: JB-S | feature_or_specifications: terminals: four way stud type, terminal capacity: 2 x 3.5Cx50 mm2 stranded aluminium conductors per terminal, fuse: 6A HRC (high rupturing capacity), link: included",
+  "retrieval_results": [
+    {
+      "id": "variant-5504c024-4b72-5368-8851-9130177d4a4c",
+      "score": 0.85905796,
+      "metadata": {
+        "text": "core_product_name: junction box",
+        "raw_product_name": "JUNCTION BOXES",
+        "list_of_product_ids": "5960,6788,10303,10552,10606,8206,8209,15928,17373,18803,24168,22859,27495,36562,36607,35775,35887,35865,35940,36519,39357",
+        "core_id": 1311.0
+      }
+    },
+    {
+      "id": "variant-c078d442-499e-5fef-af59-18af5b47f64b",
+      "score": 0.8447104,
+      "metadata": {
+        "text": "core_product_name: flame proof junction box | protection_features: Flame proof",
+        "raw_product_name": "JUNCTION BOXES (FLAME PROOF)",
+        "list_of_product_ids": "6417,5587,11078,11075,10304,11324,10578,10585,10555,10601,10686,8207,8208,8402,15922,16008,16029,16025,26747,26746,33512,35769",
+        "core_id": 1315.0
+      }
+    },
+    {
+      "id": "variant-56b7d82c-4d60-5981-9e71-2a2116640d2f",
+      "score": 0.84140384,
+      "metadata": {
+        "text": "core_product_name: stud link chain",
+        "raw_product_name": "STUD LINK CHAIN",
+        "list_of_product_ids": "193,411,934,028,259",
+        "core_id": 2142.0
+      }
+    },
+    {
+      "id": "variant-5f6025f4-d869-56e7-bced-6488b91fa952",
+      "score": 0.8405435,
+      "metadata": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": "6444,5614,11000,12263,12344,15781,23866,24503",
+        "core_id": 282.0
+      }
+    },
+    {
+      "id": "variant-6da117f2-6ca6-5943-8dfa-eb600e5fe2eb",
+      "score": 0.83965725,
+      "metadata": {
+        "text": "core_product_name: distribution board | acronymed_core_product_name: db | accessories_or_attachments: HRC (High Rupturing Capacity) fuse",
+        "raw_product_name": "DB WITH HRC",
+        "list_of_product_ids": "13580,14783,15328,18070",
+        "core_id": 20.0
+      }
+    },
+    {
+      "id": "variant-4d61d445-0ca2-5a71-a2b2-abf92cbb9dac",
+      "score": 0.8380304,
+      "metadata": {
+        "text": "core_product_name: communication cable | construction_features: jelly filled",
+        "raw_product_name": "CABLES COMMN. (JELLY FILLED)",
+        "list_of_product_ids": "6426,5596,11747,12089,12121,13297,23995,23864",
+        "core_id": 287.0
+      }
+    },
+    {
+      "id": "variant-9d2158ab-d010-5725-b5af-46d905377129",
+      "score": 0.8340356,
+      "metadata": {
+        "text": "core_product_name: fuse base | acronymed_core_product_name: hrc (high rupturing capacity) fuse base | type_or_class: HRC (High Rupturing Capacity)",
+        "raw_product_name": "HRC FUSE BASE",
+        "list_of_product_ids": "20126,20442,20417,20464,20505,20646",
+        "core_id": 1174.0
+      }
+    },
+    {
+      "id": "variant-7381a209-b240-5642-b653-8b90fb24843d",
+      "score": 0.83335,
+      "metadata": {
+        "text": "core_product_name: fuse | acronymed_core_product_name: HRC (High Rupturing Capacity) fuse | type_or_class: HRC (High Rupturing Capacity)",
+        "raw_product_name": "HRC FUSE",
+        "list_of_product_ids": "2,012,020,709",
+        "core_id": 989.0
+      }
+    },
+    {
+      "id": "variant-1add35e1-4ea7-55db-98f9-5f81a376c15c",
+      "score": 0.8326444,
+      "metadata": {
+        "text": "core_product_name: hardware | acronymed_core_product_name: ff hardware | accessories_or_attachments: JB (Junction Box) | accessories_or_attachments: field barrier",
+        "raw_product_name": "FF HARDWARE INCLUDING JB AND FIELD BARRIER",
+        "list_of_product_ids": "5,934,676,312,702",
+        "core_id": 810.0
+      }
+    },
+    {
+      "id": "variant-fbc7aef8-6ded-5b2f-ace5-db6c3dad188c",
+      "score": 0.8324816,
+      "metadata": {
+        "text": "core_product_name: fuse switch combination",
+        "raw_product_name": "FUSE SWITCH COMBINATION",
+        "list_of_product_ids": "6470,5641,10189,19034,19033,19032,26087,38285",
+        "core_id": 991.0
+      }
+    },
+    {
+      "id": "variant-b0c2061a-aa8d-5939-97cc-7b5703645203",
+      "score": 0.8314332,
+      "metadata": {
+        "text": "core_product_name: terminal box",
+        "raw_product_name": "TERMINAL BOX",
+        "list_of_product_ids": "141,951,736,936,609",
+        "core_id": 2230.0
+      }
+    },
+    {
+      "id": "variant-035bb6e4-a7d4-5f12-9d32-b43f858be59a",
+      "score": 0.830857,
+      "metadata": {
+        "text": "core_product_name: weatherproof junction box | protection_features: Weatherproof",
+        "raw_product_name": "JUNCTION BOX (WEATHERPROOF)",
+        "list_of_product_ids": "215,532,156,528,596",
+        "core_id": 1310.0
+      }
+    },
+    {
+      "id": "variant-e29a7a21-0d76-5a3d-8a3c-beb8e46fc788",
+      "score": 0.82986,
+      "metadata": {
+        "text": "core_product_name: high tensile stud | type_or_class: High Tensile",
+        "raw_product_name": "HIGH TENSILE STUD",
+        "list_of_product_ids": "21476,21466,21469,21472,21860,28599",
+        "core_id": 1135.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.8294439,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-2ce23efe-d588-56de-9aaa-187d700a65d1",
+      "score": 0.8292227,
+      "metadata": {
+        "text": "core_product_name: column tray | size_or_capacity: High Capacity",
+        "raw_product_name": "COLUMN TRAYS-HIGH CAPACITY",
+        "list_of_product_ids": "6,705,587,612,418",
+        "core_id": 393.0
+      }
+    },
+    {
+      "id": "variant-76a3b279-5fd8-543f-ba01-801914162ba6",
+      "score": 0.82860494,
+      "metadata": {
+        "text": "core_product_name: structural | material: Aluminium",
+        "raw_product_name": "STRUCTURAL ALUMINIUM",
+        "list_of_product_ids": "234,572,603,826,686",
+        "core_id": 2134.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.8280321,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-b55a4457-928b-5d4f-a0d7-6fb8f7583369",
+      "score": 0.8273527,
+      "metadata": {
+        "text": "core_product_name: insulating joint",
+        "raw_product_name": "INSULATING JOINTS",
+        "list_of_product_ids": "6206,5375,12910,31006,31054,31064",
+        "core_id": 1269.0
+      }
+    },
+    {
+      "id": "variant-4767cd47-647c-5110-873c-535ec6cae8a2",
+      "score": 0.82686985,
+      "metadata": {
+        "text": "core_product_name: thermal fuse",
+        "raw_product_name": "THERMAL FUSE",
+        "list_of_product_ids": "6628,5798,19654,19647",
+        "core_id": 2241.0
+      }
+    },
+    {
+      "id": "variant-694e9b22-1590-52c8-9da7-95e6af8ae4f3",
+      "score": 0.82575434,
+      "metadata": {
+        "text": "core_product_name: terminal strip",
+        "raw_product_name": "TERMINAL STRIPS",
+        "list_of_product_ids": "1,400,220,181",
+        "core_id": 2231.0
+      }
+    },
+    {
+      "id": "variant-482da660-70c1-5f28-bd3f-e18509d891eb",
+      "score": 0.8253674,
+      "metadata": {
+        "text": "core_product_name: re-wirable fuse",
+        "raw_product_name": "RE-WIRABLE FUSE",
+        "list_of_product_ids": "13808,14784,15329,18071",
+        "core_id": 1863.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.82521033,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    },
+    {
+      "id": "variant-852e0cf7-491f-5120-8c23-037d62b5cec0",
+      "score": 0.8251123,
+      "metadata": {
+        "text": "core_product_name: solid conductor | material: Copper",
+        "raw_product_name": "SOLID COPPER CONDUCTOR",
+        "list_of_product_ids": "180,781,807,918,591",
+        "core_id": 2063.0
+      }
+    },
+    {
+      "id": "variant-0a2c8e44-9013-5d8c-80c7-198b456cf8f7",
+      "score": 0.8248822,
+      "metadata": {
+        "text": "core_product_name: miniature type hardwire console item",
+        "raw_product_name": "MINIATURE TYPE HARDWIRE CONSOLE ITEMS",
+        "list_of_product_ids": "5935,6764,10918,10920,10919",
+        "core_id": 1480.0
+      }
+    },
+    {
+      "id": "variant-0859b49b-78bf-5420-917f-73bdcad0fd3d",
+      "score": 0.8248676,
+      "metadata": {
+        "text": "core_product_name: partition | material: Aluminium",
+        "raw_product_name": "PATITIONS - ALUMINIUM",
+        "list_of_product_ids": "15639,15633,15618,15724",
+        "core_id": 1637.0
+      }
+    },
+    {
+      "id": "variant-9d7cef58-0c34-5334-a173-1eaa8b262868",
+      "score": 0.8248373,
+      "metadata": {
+        "text": "core_product_name: extra high voltage cable | size_or_capacity: Extra High Voltage",
+        "raw_product_name": "CABLES - EXTRA HIGH VOLTAGE",
+        "list_of_product_ids": "6425,5595,10504,10183,14821,23994,23863",
+        "core_id": 288.0
+      }
+    },
+    {
+      "id": "variant-92e1ce16-ba84-593a-9661-24d5c90189eb",
+      "score": 0.8246262,
+      "metadata": {
+        "text": "core_product_name: horn gap fuse",
+        "raw_product_name": "HORN GAP FUSE",
+        "list_of_product_ids": "32300,32303,32329,32730,33536",
+        "core_id": 1143.0
+      }
+    },
+    {
+      "id": "variant-aced03b4-d6e4-5165-b3cf-7a7e7de87bc6",
+      "score": 0.82461953,
+      "metadata": {
+        "text": "core_product_name: perforated cable tray",
+        "raw_product_name": "Perforrated Cable Tray",
+        "list_of_product_ids": "7,013,732,126,432",
+        "core_id": 1054.0
+      }
+    },
+    {
+      "id": "variant-d2f07b17-82a7-5d9a-acbe-c9fccb76fc0d",
+      "score": 0.82454956,
+      "metadata": {
+        "text": "core_product_name: fusible plug",
+        "raw_product_name": "FUSIBLE PLUGS",
+        "list_of_product_ids": "136,943,554,535,978",
+        "core_id": 992.0
+      }
+    },
+    {
+      "id": "variant-f2d4af06-494c-576d-904c-5608ebb84565",
+      "score": 0.8242676,
+      "metadata": {
+        "text": "core_product_name: section | material: Aluminum",
+        "raw_product_name": "ALUMINUM SECTION",
+        "list_of_product_ids": "20555,20518,20605,20596,20682,20740,38548,39312",
+        "core_id": 100.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: nas based cctv storage array | acronymed_core_product_name: nas cctv storage array | size: storage: cumulative 220 TB minimum, ssd: 1TB, internal memory: 32 GB DDR3 ECC or better, hard disk: min. 90 days recording, monitor: min 21\" widescreen LED | feature_or_specifications: for: network server, throughput: 350 Mbps or 120 streams, processor: intel xeon E3-1276 v3 or better, operating system: microsoft windows server 2012, RAID: RAID 6 for HDD redundancy, NVR: UL (underwriters laboratories) listed, power supply: internal, redundant, accessories: dual redundant network video recorder (NVR) server, KVM switch",
+  "retrieval_results": [
+    {
+      "id": "variant-259b2acd-8757-5df1-9884-558d4ab4d4c4",
+      "score": 0.85963005,
+      "metadata": {
+        "text": "core_product_name: data storage system",
+        "raw_product_name": "Data storage system",
+        "list_of_product_ids": "7084,7411,18425,18424",
+        "core_id": 649.0
+      }
+    },
+    {
+      "id": "variant-72f4379c-8cca-53f1-a228-27f73550df0f",
+      "score": 0.85546553,
+      "metadata": {
+        "text": "core_product_name: closed circuit television | acronymed_core_product_name: cctv",
+        "raw_product_name": "CLOSED CIRCUIT TV",
+        "list_of_product_ids": "6592,5762,10914,10889,11962,12202,12473,16497,19259,19269,30476,31285,37696,37697,37705,37709,37713,40236,40237,40234,40235,40257",
+        "core_id": 323.0
+      }
+    },
+    {
+      "id": "variant-1602c630-3be0-5bb6-b04e-5ecca52f1c28",
+      "score": 0.85220754,
+      "metadata": {
+        "text": "core_product_name: closed circuit television | acronymed_core_product_name: CCTV",
+        "raw_product_name": "CCTV",
+        "list_of_product_ids": "5956,6784,11071,10174,11373,11847,11851,11843,12201,31186,34966,34976,34986,34997,35008,35017,40277,40256,40261,40260,40259,40258,40295",
+        "core_id": 323.0
+      }
+    },
+    {
+      "id": "variant-c80bab98-20e5-5a36-8bee-75d83743dcf7",
+      "score": 0.848759,
+      "metadata": {
+        "text": "core_product_name: recorder",
+        "raw_product_name": "RECORDERS",
+        "list_of_product_ids": "13825,15211,20871,36627",
+        "core_id": 1875.0
+      }
+    },
+    {
+      "id": "variant-f234407a-0223-56e5-932b-43ac340fc304",
+      "score": 0.8486015,
+      "metadata": {
+        "text": "core_product_name: radiography",
+        "raw_product_name": "RADIOGRAPHY",
+        "list_of_product_ids": "218,552,185,721,856",
+        "core_id": 1856.0
+      }
+    },
+    {
+      "id": "variant-c399c3a6-7cb3-5843-914c-5c2a50239ee6",
+      "score": 0.8466636,
+      "metadata": {
+        "text": "core_product_name: large case field recorder",
+        "raw_product_name": "Large Case Field Recorders",
+        "list_of_product_ids": "17062,17061,17060,27436",
+        "core_id": 1407.0
+      }
+    },
+    {
+      "id": "variant-20b3895d-9b45-5d06-b9e3-a64122dd885d",
+      "score": 0.8465113,
+      "metadata": {
+        "text": "core_product_name: digital storage oscilloscope",
+        "raw_product_name": "DIGITAL STORAGE OSCILLOSCOPE",
+        "list_of_product_ids": "1,543,418,782",
+        "core_id": 591.0
+      }
+    },
+    {
+      "id": "variant-bbfa8c6b-a309-5003-853d-bf8bbe5d3058",
+      "score": 0.84635574,
+      "metadata": {
+        "text": "core_product_name: site fabricated column | acronymed_core_product_name: las (level alarm system) column",
+        "raw_product_name": "COLUMN-LAS SITE FABRICATED",
+        "list_of_product_ids": "6688,5859,9698,23521",
+        "core_id": 396.0
+      }
+    },
+    {
+      "id": "variant-de016709-426e-5f64-87fb-0bc2a92d1c2c",
+      "score": 0.84608895,
+      "metadata": {
+        "text": "core_product_name: central processing unit | acronymed_core_product_name: cpu unit",
+        "raw_product_name": "CPU UNITS",
+        "list_of_product_ids": "192,651,410,722,373",
+        "core_id": 505.0
+      }
+    },
+    {
+      "id": "variant-6406c4ba-b7ff-5341-92f6-c606dd1ab328",
+      "score": 0.84605354,
+      "metadata": {
+        "text": "core_product_name: encoder",
+        "raw_product_name": "ENCODER",
+        "list_of_product_ids": "19082,19099,19104,19089,19113,36721,38449,36751,38453",
+        "core_id": 744.0
+      }
+    },
+    {
+      "id": "variant-0cd6a304-ead2-5deb-91e8-b4c74619be10",
+      "score": 0.8455492,
+      "metadata": {
+        "text": "core_product_name: drive arrangement",
+        "raw_product_name": "DRIVE ARRANGEMENT FOR CLINKER GRINDER",
+        "list_of_product_ids": "1,344,114,445",
+        "core_id": 624.0
+      }
+    },
+    {
+      "id": "variant-1ab3bbc1-7237-500d-90d8-27f6498da945",
+      "score": 0.84527564,
+      "metadata": {
+        "text": "core_product_name: equipment",
+        "raw_product_name": "CONTROL ROOM EQUIPMENT",
+        "list_of_product_ids": "14034,14815,17256,21098",
+        "core_id": 460.0
+      }
+    },
+    {
+      "id": "variant-f5caed72-7869-557b-9294-522f8b133ecb",
+      "score": 0.8451433,
+      "metadata": {
+        "text": "core_product_name: video wall",
+        "raw_product_name": "Video wall",
+        "list_of_product_ids": "7081,7408,18012,18421,18416",
+        "core_id": 2418.0
+      }
+    },
+    {
+      "id": "variant-49123560-ea61-5cc9-8cba-948cd6479642",
+      "score": 0.84425575,
+      "metadata": {
+        "text": "core_product_name: chemical storage and dosing system",
+        "raw_product_name": "CHEMICAL STORAGE & DOSING SYSTEM",
+        "list_of_product_ids": "7053,7380,17865,18358,21023,21294,21252,21316,37071,37082,39187,39201",
+        "core_id": 344.0
+      }
+    },
+    {
+      "id": "variant-b90c3dc5-0a21-59cf-be4a-d059afd54e5f",
+      "score": 0.84397376,
+      "metadata": {
+        "text": "core_product_name: addressable detector",
+        "raw_product_name": "ADDRESSABLE DETECTOR",
+        "list_of_product_ids": "37763,37768,37773,37779,37789,37758",
+        "core_id": 47.0
+      }
+    },
+    {
+      "id": "variant-f0337ba8-6950-573f-8620-dd7b8c06adeb",
+      "score": 0.84379524,
+      "metadata": {
+        "text": "core_product_name: monitor",
+        "raw_product_name": "WATER MONITOR",
+        "list_of_product_ids": "6039,5218,9825,9830,9835,9840,8259,8296,8316,8739,9230,16411,24091,23518,37476",
+        "core_id": 2443.0
+      }
+    },
+    {
+      "id": "variant-c03e0ba5-aa70-53fc-9eb3-267f46d459cb",
+      "score": 0.8436242,
+      "metadata": {
+        "text": "core_product_name: cathodic protection power supply module",
+        "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+        "list_of_product_ids": "6413,5583,8417,12209",
+        "core_id": 315.0
+      }
+    },
+    {
+      "id": "variant-7d04081b-d5d3-5b6a-b6cd-1f114a2ef9de",
+      "score": 0.84288234,
+      "metadata": {
+        "text": "core_product_name: server",
+        "raw_product_name": "SERVERS",
+        "list_of_product_ids": "13899,15300,15302,18836",
+        "core_id": 1999.0
+      }
+    },
+    {
+      "id": "variant-4ee544d6-0f39-5064-8d24-8c48472ff71a",
+      "score": 0.8428243,
+      "metadata": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": "5954,6782,12132,14671,14679,18191,20174,36159",
+        "core_id": 2156.0
+      }
+    },
+    {
+      "id": "variant-8fe75b2b-6667-5672-92af-b5e2b55f30aa",
+      "score": 0.842765,
+      "metadata": {
+        "text": "core_product_name: cathodic protection system",
+        "raw_product_name": "Cathodic Protection System",
+        "list_of_product_ids": "18681,19166,21519,18680,36550",
+        "core_id": 503.0
+      }
+    },
+    {
+      "id": "variant-0a9290b3-8ea7-59a2-a8d9-9ba99d3dbdaa",
+      "score": 0.8426853,
+      "metadata": {
+        "text": "core_product_name: machine monitoring system",
+        "raw_product_name": "MACHINE MONITORING SYSTEMS",
+        "list_of_product_ids": "6478,5649,12455,32772,38192",
+        "core_id": 1418.0
+      }
+    },
+    {
+      "id": "variant-de47ff96-bd93-5d30-b6a8-28e7215a5255",
+      "score": 0.8423312,
+      "metadata": {
+        "text": "core_product_name: interface device",
+        "raw_product_name": "INTERFACE DEVICES",
+        "list_of_product_ids": "6630,5800,11596,11597,10310,11701,11702,11703,12288,8405,13108,13117,21089,21081,21077,21070",
+        "core_id": 1280.0
+      }
+    },
+    {
+      "id": "variant-d0f552b2-d11a-5a71-b720-0a35c5f7d153",
+      "score": 0.84225345,
+      "metadata": {
+        "text": "core_product_name: erection hardware",
+        "raw_product_name": "ERECTION HARDWARE",
+        "list_of_product_ids": "1,394,215,266",
+        "core_id": 762.0
+      }
+    },
+    {
+      "id": "variant-c9536e29-6040-5b31-b6a1-431e7654733e",
+      "score": 0.8421498,
+      "metadata": {
+        "text": "core_product_name: computer maintenance",
+        "raw_product_name": "COMPUTER MAINTENANCE",
+        "list_of_product_ids": "193,231,932,428,719",
+        "core_id": 422.0
+      }
+    },
+    {
+      "id": "variant-7b1c16c7-5da7-5e6a-86ce-7eae6ac6bf0a",
+      "score": 0.8418034,
+      "metadata": {
+        "text": "core_product_name: network component",
+        "raw_product_name": "NETWORK COMPONENTS",
+        "list_of_product_ids": "137,882,017,621,241",
+        "core_id": 1544.0
+      }
+    },
+    {
+      "id": "variant-0b710dea-0307-51f6-a77b-222f52cab575",
+      "score": 0.84174335,
+      "metadata": {
+        "text": "core_product_name: laptop",
+        "raw_product_name": "LAPTOPS",
+        "list_of_product_ids": "142,481,529,918,835",
+        "core_id": 1320.0
+      }
+    },
+    {
+      "id": "variant-808cb5c1-0ad0-5acd-a87d-fc7689db9ddd",
+      "score": 0.84173495,
+      "metadata": {
+        "text": "core_product_name: tube suppression system",
+        "raw_product_name": "TUBE SUPPRESSION SYSTEM",
+        "list_of_product_ids": "3,247,232,473",
+        "core_id": 2284.0
+      }
+    },
+    {
+      "id": "variant-74473618-f368-5f8e-9f75-5bb7b011cde3",
+      "score": 0.84121865,
+      "metadata": {
+        "text": "core_product_name: ground monitoring system",
+        "raw_product_name": "GROUND MONITORING SYSTEMS",
+        "list_of_product_ids": "6629,5799,10305,24235,19579",
+        "core_id": 1079.0
+      }
+    },
+    {
+      "id": "variant-676f7f9e-13f4-5f2d-95c5-6b3194f152fb",
+      "score": 0.8411718,
+      "metadata": {
+        "text": "core_product_name: infrared detector | acronymed_core_product_name: ir detector",
+        "raw_product_name": "IR DETECTOR",
+        "list_of_product_ids": "980,798,149,854",
+        "core_id": 1295.0
+      }
+    },
+    {
+      "id": "variant-a595b92c-c451-5f5b-a7d2-c3960b5cbbce",
+      "score": 0.84115976,
+      "metadata": {
+        "text": "core_product_name: temperature recorder",
+        "raw_product_name": "TEMPERATURE RECORDERS",
+        "list_of_product_ids": "6620,5790,10045,10155,11903,12893,12892",
+        "core_id": 2223.0
+      }
+    }
+  ]
+}

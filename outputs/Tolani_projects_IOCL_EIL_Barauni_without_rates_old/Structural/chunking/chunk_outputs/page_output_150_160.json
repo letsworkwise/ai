@@ -1,0 +1,168 @@
+{
+  "sheet_name": "Structural",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Supplying and filling approved SAND of specified quality under floors, in foundations, plinths, tank foundations etc. for all depths and heights including cost of sand, royalties, transportation to site for all leads and lifts, including loading, unloading, spreading in layers of loose thickness not exceeding 150 mm, watering, ramming, compacting with mechanical compactors and/or other equipment to the specified levels to achieve 85% relative density as per IS:2720 Part XIV, including preparation of subgrade to the required slope, providing testing apparatus and testing the degree of consolidation all complete as per drawings, specifications and direction of Engineer- in-charge. The rates shall be inclusive of the cost of all labour, material, equipments etc. all complete .",
+      "core_product_name": "sand filling",
+      "acronymed_core_product_name": "",
+      "size": "layer thickness: not exceeding 150 mm, depth: all, height: all",
+      "feature_or_specifications": "material: sand, quality: approved and specified, royalty: included, transportation: all leads and lifts, spreading: in layers, watering: included, ramming: included, compaction: mechanical compactors and/or other equipment, density: 85% relative density, standard: IS 2720 Part XIV (indian standard 2720 Part XIV), subgrade: prepared to required slope, testing: apparatus and degree of consolidation, includes: all labour, material, equipments, as per drawings, specifications and direction of Engineer-in-charge",
+      "quantity": "4200.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Supplying and mixing of approved brand of BI-POLAR CONCRETE PENETRATING CORROSION INHIBITING ADMIXTURE (confirming to EIL Specification No. 6-68-0017) in concrete as per manufacturer's specification for protection of reinforcement against corrosion. Supply of admixture in Contractor's scope.",
+      "core_product_name": "concrete penetrating corrosion inhibiting admixture",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "brand: approved, type: bi-polar, application: in concrete, specification: EIL Specification No. 6-68-0017, manufacturer: as per manufacturer's specification, feature: protection of reinforcement against corrosion, supply: in contractor's scope",
+      "quantity": "7850.0",
+      "unit": "kg"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL > BRICK MASONRY (REFER SPECIFICATION NO.6-68-0009)",
+      "full_product_description": "Supplying, Providing and Laying appropriate coating on foundation concrete followed by laying of dry sand, suitable thickness cellular glass insulation with interleaving felts & adhesives as per EIL Job specification B568-000-06-43-IL-S002. (SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE).",
+      "core_product_name": "thermal isolation barrier",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: tank bottom, coating: appropriate on foundation concrete, insulation: cellular glass, insulation thickness: suitable, interleaving: felts & adhesives, specification: EIL Job specification B568-000-06-43-IL-S002, supply: all materials in contractor's scope",
+      "quantity": "1000.0",
+      "unit": "m²"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      150,
+      159
+    ],
+    "original_rows": [
+      {
+        "0": 625,
+        "1": 0,
+        "2": "01CS.11.6.1",
+        "3": "Supplying and filling approved SAND of specified quality under floors, in foundations, plinths, tank foundations etc. for all depths and heights including cost of sand, royalties, transportation to site for all leads and lifts, including loading, unloading, spreading in layers of loose thickness not exceeding 150 mm, watering, ramming, compacting with mechanical compactors and/or other equipment to the specified levels to achieve 85% relative density as per IS:2720 Part XIV, including preparation of subgrade to the required slope, providing testing apparatus and testing the degree of consolidation all complete as per drawings, specifications and direction of Engineer- in-charge. The rates shall be inclusive of the cost of all labour, material, equipments etc. all complete .",
+        "4": 4200.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 626,
+        "1": 0,
+        "2": "01CS.11.10",
+        "3": "BI-POLAR CONCRETE PENETRATING CORROSION INHIBITING ADMIXTURE",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 627,
+        "1": 0,
+        "2": "01CS.11.10.1",
+        "3": "Supplying and mixing of approved brand of BI-POLAR CONCRETE PENETRATING CORROSION INHIBITING ADMIXTURE (confirming to EIL Specification No. 6-68-0017) in concrete as per manufacturer's specification for protection of reinforcement against corrosion. Supply of admixture in Contractor's scope.",
+        "4": 7850.0,
+        "5": "kg",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 628,
+        "1": 0,
+        "2": "01CS.11.13",
+        "3": "Thermal Isolation Barrier at Tank bottom - Non-FIM Item",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 629,
+        "1": 0,
+        "2": "01CS.11.13.ME01",
+        "3": "Supplying, Providing and Laying appropriate coating on foundation concrete followed by laying of dry sand, suitable thickness cellular glass insulation with interleaving felts & adhesives as per EIL Job specification B568-000-06-43-IL-S002. (SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE).",
+        "4": 1000.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 630,
+        "1": 0,
+        "2": "01CS.14",
+        "3": "BONDING FRESH CONCRETE TO OLD CONCRETE BY EPOXY RESIN BONDING SYSTEM (REFER SPECIFICATION NO. 6-68-0056)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 631,
+        "1": 0,
+        "2": "01CS.14.1",
+        "3": "Epoxy Resin - non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 632,
+        "1": 0,
+        "2": "01CS.14.1.1",
+        "3": "Providing and applying approved EPOXY RESIN (prepared as per manufacturer's recommendation) for bonding of fresh concrete to old concrete in all types of  structure at all depths and heights including cleaning of concrete surface, removing of all loose concrete pieces, making rough by chiselling, taking off the skin of concrete, application of Epoxy Resin System by spraying, necessary working platforms, props, scaffolding and other safety measures, removal of same after completion etc. all complete as specified and directed. (Excavation, backfilling, removal of surplus earth, keeping pit dry by pumping/bailing subsoil water shall be paid separately under relevant items).",
+        "4": 10.0,
+        "5": "kg",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 633,
+        "1": 0,
+        "2": "01CS.18",
+        "3": "Mechanical works",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 634,
+        "1": 0,
+        "2": "01CS.18.9",
+        "3": "Dismantling Of steel works",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2834,
+    "completion_tokens": 1207
+  }
+}

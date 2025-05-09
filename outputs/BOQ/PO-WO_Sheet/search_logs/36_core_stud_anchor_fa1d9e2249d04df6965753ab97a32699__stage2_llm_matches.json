@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: stud anchor | size: size: m12x100 | feature_or_specifications: type: hsv, pack: 17, quantity per pack: 30 nos",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: anchor",
+        "raw_product_name": "ANCHOR",
+        "list_of_product_ids": [
+          "239",
+          "442",
+          "394",
+          "628",
+          "664"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: anchor accessory",
+        "raw_product_name": "ANCHOR ACCESSORIES",
+        "list_of_product_ids": [
+          "239",
+          "452",
+          "394",
+          "727",
+          "897"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: stud bolt",
+        "raw_product_name": "STUD BOLD",
+        "list_of_product_ids": [
+          "9930",
+          "9931",
+          "9932",
+          "9933",
+          "9934",
+          "9935",
+          "36597"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "query": "core_product_name: 90 degree vertical bend (inside) perforated",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: bend",
+        "raw_product_name": "BENDS",
+        "list_of_product_ids": [
+          "219",
+          "382",
+          "194",
+          "421",
+          "936"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: hot induction bend",
+        "raw_product_name": "HOT INDUCTION BEND",
+        "list_of_product_ids": [
+          "6304",
+          "5475",
+          "10335",
+          "11399",
+          "12134",
+          "31798",
+          "31799",
+          "31797",
+          "34691"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: long radius bend",
+        "raw_product_name": "LONG RADIUS BENDS",
+        "list_of_product_ids": [
+          "6202",
+          "5370",
+          "11212",
+          "19493",
+          "30761",
+          "30763",
+          "30764",
+          "30590",
+          "37861",
+          "37394",
+          "39923",
+          "40028",
+          "40092",
+          "40121"
+        ]
+      }
+    }
+  ]
+}

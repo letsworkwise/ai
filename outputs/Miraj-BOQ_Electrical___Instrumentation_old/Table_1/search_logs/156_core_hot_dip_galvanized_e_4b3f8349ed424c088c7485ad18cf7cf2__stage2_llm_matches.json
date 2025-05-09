@@ -1,0 +1,78 @@
+{
+  "query": "core_product_name: hot dip galvanized earth connection bar | size: holes: 10, hole diameter: 13 mm, plate size: 550 mm x 50 mm x 6 mm | feature_or_specifications: coating: hot dip galvanized, coating thickness: 120 microns of zinc, includes: fixing materials/accessories, hardware: ss(stainless steel)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: electro-forged grating | construction_features: electro-forged | material: galvanised",
+        "raw_product_name": "ELECTRO-FORGED GALVANISED GRATINGS",
+        "list_of_product_ids": [
+          "6383",
+          "5554",
+          "9766",
+          "12486",
+          "15791",
+          "17489",
+          "17479",
+          "17486",
+          "24230",
+          "19930",
+          "17493",
+          "24247",
+          "19899",
+          "24233",
+          "19987",
+          "20019",
+          "24239",
+          "24346",
+          "21838",
+          "35257"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: lattice structure | material: Galvanized Steel",
+        "raw_product_name": "GALVANIZED STEEL STRUCTURES- LATTICE",
+        "list_of_product_ids": [
+          "21292",
+          "21290",
+          "21283",
+          "21279",
+          "21265",
+          "21263",
+          "21311",
+          "21295",
+          "27932"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: galvanized structure | material: Steel",
+        "raw_product_name": "GALVANIZED STEEL STRUCTURES",
+        "list_of_product_ids": [
+          "13697",
+          "16818",
+          "16886",
+          "16869",
+          "17140",
+          "18104",
+          "18096",
+          "22747"
+        ]
+      }
+    }
+  ]
+}

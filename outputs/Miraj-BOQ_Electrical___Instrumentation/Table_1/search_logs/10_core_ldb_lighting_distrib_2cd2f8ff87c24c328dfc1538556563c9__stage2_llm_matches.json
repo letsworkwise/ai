@@ -1,0 +1,68 @@
+{
+  "query": "core_product_name: ldb (lighting distribution board) | acronymed_core_product_name: ldb | size: incomer: 63 A, phases: 3 phase, wires: 4 wire, ways: 3 way, short circuit withstand: 10 KA for 1 sec | feature_or_specifications: type: outdoor, type: flame proof (flp), protection: ip class suitable for flp, minimum protection: ip-65, feature: rcbo (residual current circuit breaker with overcurrent protection)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "Type/Class",
+        "Protection"
+      ],
+      "match_details": {
+        "text": "core_product_name: flame proof local distribution board | acronymed_core_product_name: ldb (local distribution board) | protection_features: Flame proof",
+        "raw_product_name": "FLAME PROOF LDB\u0019S",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lightning distribution board | acronymed_core_product_name: ldb (lightning distribution board)",
+        "raw_product_name": "LIGHTNING DISTRIBUTION BOARD/LDB",
+        "list_of_product_ids": [
+          "10002",
+          "10019",
+          "10242",
+          "15385",
+          "14605",
+          "14777",
+          "14808",
+          "17874",
+          "17933",
+          "17919",
+          "17894",
+          "17951",
+          "17941",
+          "17944",
+          "18029",
+          "18010",
+          "18051",
+          "19660",
+          "19141"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Protection"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof lighting and distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF LIGHTING & DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13578",
+          "14601",
+          "14847",
+          "24098"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: quick response sprinkler | acronymed_core_product_name: q.b sprinkler | size: type: pendent, temperature rating: 68° c, k-factor: 80 | feature_or_specifications: make: newage",
+  "retrieval_results": [
+    {
+      "id": "variant-7fa3b25f-1368-5176-aad5-701306d3255c",
+      "score": 0.85872805,
+      "metadata": {
+        "text": "core_product_name: sprinkler",
+        "raw_product_name": "SPRINKLER",
+        "list_of_product_ids": "13482,13498,13499,31059,37496,35014,37488,37491,37492,37495",
+        "core_id": 2090.0
+      }
+    },
+    {
+      "id": "variant-db5bf6a9-26d9-5efa-913d-ef1f02ca3c2b",
+      "score": 0.8584087,
+      "metadata": {
+        "text": "core_product_name: water sprinkler",
+        "raw_product_name": "WATER SPRINKLER",
+        "list_of_product_ids": "6032,5211,8921,8925,8928,8956,8959,9061,9066,9070,9101,9105,22756,31060,34994",
+        "core_id": 2455.0
+      }
+    },
+    {
+      "id": "variant-7c83b144-2261-5ef3-ada0-0823013e3c85",
+      "score": 0.85032284,
+      "metadata": {
+        "text": "core_product_name: fire water sprinkler system",
+        "raw_product_name": "FIRE WATER SPRINKLER SYSTEM",
+        "list_of_product_ids": "23980,23982,23983,27056",
+        "core_id": 864.0
+      }
+    },
+    {
+      "id": "variant-7ff74fb8-0733-5a78-b024-455c93c2edc4",
+      "score": 0.8486217,
+      "metadata": {
+        "text": "core_product_name: foam sprinkler",
+        "raw_product_name": "FOAM SPRINKLER",
+        "list_of_product_ids": "8996,8995,9062,9067,9071,9102,24711",
+        "core_id": 970.0
+      }
+    },
+    {
+      "id": "variant-0f65ae9a-96f2-5688-a949-d7158ab2dd48",
+      "score": 0.84394234,
+      "metadata": {
+        "text": "core_product_name: quick connect fitting | construction_features: quick connect | construction_features: quick connect",
+        "raw_product_name": "FITTINGS-QUICK CONNECT BODY & STEM",
+        "list_of_product_ids": "229,102,291,128,622",
+        "core_id": 883.0
+      }
+    },
+    {
+      "id": "variant-7606644a-4edd-5fea-81c9-7414b8a77e6e",
+      "score": 0.841522,
+      "metadata": {
+        "text": "core_product_name: spray nozzle",
+        "raw_product_name": "SPRAY NOZZLES",
+        "list_of_product_ids": "8288",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-ea91e298-a5e8-5fb5-9567-6e22f6a8d8d7",
+      "score": 0.8390101,
+      "metadata": {
+        "text": "core_product_name: quick opening closure | type_or_class: pipelines",
+        "raw_product_name": "QUICK OPENING CLOSURE(PIPELINES)",
+        "list_of_product_ids": "5373,6204,11485,16151,23564,30766,30901,36603",
+        "core_id": 1849.0
+      }
+    },
+    {
+      "id": "variant-69a162c2-fe75-51be-a600-71c641b536d4",
+      "score": 0.8387033,
+      "metadata": {
+        "text": "core_product_name: precision air conditioning",
+        "raw_product_name": "Precision Air Conditioning",
+        "list_of_product_ids": "7,518,719,218,507",
+        "core_id": 1843.0
+      }
+    },
+    {
+      "id": "variant-f728934d-c014-58cf-ab93-6d273256cf71",
+      "score": 0.8386747,
+      "metadata": {
+        "text": "core_product_name: reciprocating pump",
+        "raw_product_name": "Reciprocating Pumps",
+        "list_of_product_ids": "7129,7456,11957,21457,37042,37092,36695,37107,37123,37004,37020",
+        "core_id": 1815.0
+      }
+    },
+    {
+      "id": "variant-f137bdce-af71-511f-9954-636b434a08d5",
+      "score": 0.8375044,
+      "metadata": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPARETURE GAUGE",
+        "list_of_product_ids": "13992,36535,17284,17283,17282,23171,35667,35957,35960,35972,37406",
+        "core_id": 2222.0
+      }
+    },
+    {
+      "id": "variant-5b1e3e9d-8ae5-5f6a-8ddd-8f228cb065b7",
+      "score": 0.83743995,
+      "metadata": {
+        "text": "core_product_name: wet pit pump | mounting_or_installation: vertical",
+        "raw_product_name": "WET PIT PUMPS - VERTICAL",
+        "list_of_product_ids": "37846,37847,37848,37849,37804,37810,37843,37844,37845",
+        "core_id": 2471.0
+      }
+    },
+    {
+      "id": "variant-7a81ebd3-21d8-54a3-a240-c819d8c11843",
+      "score": 0.8371108,
+      "metadata": {
+        "text": "core_product_name: quick opening end closure",
+        "raw_product_name": "QUICK OPENING END CLOSURE",
+        "list_of_product_ids": "15436,18787,22338,36605,34856",
+        "core_id": 1851.0
+      }
+    },
+    {
+      "id": "variant-f36f9a26-b202-54c5-b8bf-b0bf8137e3a4",
+      "score": 0.8370014,
+      "metadata": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPERATURE GAUGES",
+        "list_of_product_ids": "19536,19516,27065,37528,35959,35961,37407",
+        "core_id": 2222.0
+      }
+    },
+    {
+      "id": "variant-9988271a-59ee-57cb-9616-702a2cea2636",
+      "score": 0.8364885,
+      "metadata": {
+        "text": "core_product_name: spray nozzle | type_or_class: Fire Fighting",
+        "raw_product_name": "SPRAY NOZZLE- FIRE FIGHTING",
+        "list_of_product_ids": "6036,5215,8013,8012,8262,8263,8294,8738,8923,8927,8929,8958,9064,9069,9072,9104,9145,19631,24003,21213,19986,36157",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-d57d54de-f40c-539e-8057-478b97a834b0",
+      "score": 0.83638406,
+      "metadata": {
+        "text": "core_product_name: thermal relief valve",
+        "raw_product_name": "THERMAL RELIEF VALVE",
+        "list_of_product_ids": "14016,15348,15353,15358,22349,36633,37438,37439,34694,34696,34698,34700",
+        "core_id": 2242.0
+      }
+    },
+    {
+      "id": "variant-78bf7588-3bdf-5def-b574-e5f78d7dad2b",
+      "score": 0.83616096,
+      "metadata": {
+        "text": "core_product_name: water cooled condenser",
+        "raw_product_name": "CONDENSER (WATER COOLED)",
+        "list_of_product_ids": "13955,15205,15202,16847,21545,21585",
+        "core_id": 432.0
+      }
+    },
+    {
+      "id": "variant-264dbf59-32e9-5b3f-8f2f-ff8fd311b4c0",
+      "score": 0.8359341,
+      "metadata": {
+        "text": "core_product_name: resilient mounting",
+        "raw_product_name": "RESILIENT MOUNTINGS",
+        "list_of_product_ids": "22948,22951,22952,28652",
+        "core_id": 1900.0
+      }
+    },
+    {
+      "id": "variant-5cab0b16-4402-5956-badd-9d7271a6904a",
+      "score": 0.8356221,
+      "metadata": {
+        "text": "core_product_name: quick erect scaffolding | type_or_class: Furnace",
+        "raw_product_name": "QUICK ERECT SCAFFOLDING - FURNACE",
+        "list_of_product_ids": "22517,22543,22548,22557,35422",
+        "core_id": 1848.0
+      }
+    },
+    {
+      "id": "variant-d3918fb3-1dcf-5330-9bbe-6452020c252d",
+      "score": 0.8354795,
+      "metadata": {
+        "text": "core_product_name: plumbing fitting and fixture",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+        "list_of_product_ids": "6364,5535,7874,12489,12648,12649,34680,34681",
+        "core_id": 1961.0
+      }
+    },
+    {
+      "id": "variant-4f8eeda9-b182-5e71-b249-50a86a4f2f70",
+      "score": 0.83529955,
+      "metadata": {
+        "text": "core_product_name: buzzer",
+        "raw_product_name": "BUZZER",
+        "list_of_product_ids": "200,472,009,020,712",
+        "core_id": 263.0
+      }
+    },
+    {
+      "id": "variant-0947737c-a6cf-5ac8-ba4d-7dd6a79307d2",
+      "score": 0.8351974,
+      "metadata": {
+        "text": "core_product_name: quick opening hinged closure | acronymed_core_product_name: QOC (Quick Opening Closure)",
+        "raw_product_name": "QUICK OPENING CLOSURE(QOC) HINGED",
+        "list_of_product_ids": "139,181,869,434,853",
+        "core_id": 1854.0
+      }
+    },
+    {
+      "id": "variant-b6be6587-f30d-5e04-856c-202eed73a5a4",
+      "score": 0.83507544,
+      "metadata": {
+        "text": "core_product_name: reflex level gauge",
+        "raw_product_name": "LEVEL GAUGES (REFLEX)",
+        "list_of_product_ids": "13571,17073,21346,21755,23033,23533",
+        "core_id": 1334.0
+      }
+    },
+    {
+      "id": "variant-012a16b4-3c1c-55ac-8432-5207ed419e71",
+      "score": 0.8349039,
+      "metadata": {
+        "text": "core_product_name: high temperature fastener",
+        "raw_product_name": "FASTENERS:HIGH TEMPERATURE",
+        "list_of_product_ids": "8374,8614,8615,14005,20926,20923,22363,22641,22639,23550,23540,23539,24670,36096",
+        "core_id": 811.0
+      }
+    },
+    {
+      "id": "variant-5d85dfa7-d18f-5df7-8d35-c16992e8f01e",
+      "score": 0.83489704,
+      "metadata": {
+        "text": "core_product_name: air cooled condenser",
+        "raw_product_name": "CONDENSER (AIR COOLED)",
+        "list_of_product_ids": "15382,13948,17372,18456,18442,18794,18798,18445,37477",
+        "core_id": 431.0
+      }
+    },
+    {
+      "id": "variant-2d11ea10-b743-53e1-a8ca-900dfe4f9749",
+      "score": 0.834655,
+      "metadata": {
+        "text": "core_product_name: control valve positioner",
+        "raw_product_name": "CONTROL VALVE POSITIONER",
+        "list_of_product_ids": "6488,5659,11718,8691",
+        "core_id": 467.0
+      }
+    },
+    {
+      "id": "variant-6cc691d7-8031-5369-a831-96267fada815",
+      "score": 0.83463705,
+      "metadata": {
+        "text": "core_product_name: pressure relief valve",
+        "raw_product_name": "PRESSURE RELIEF VALVE",
+        "list_of_product_ids": "6492,5663,11547,10292,10320,10698,8344,8601,8932,9075,12223,12712,12713,12714,12785,12776,13174,13200,13327,16836,17528,17631,17802,18044,21313,21320,28809,36592,35687,35699,36147,36150,36166,36297,36314,36434,40007",
+        "core_id": 1776.0
+      }
+    },
+    {
+      "id": "variant-751ad058-fdfd-583d-9869-ca9671210d00",
+      "score": 0.83451533,
+      "metadata": {
+        "text": "core_product_name: air conditioning",
+        "raw_product_name": "AIR CONDITIONING",
+        "list_of_product_ids": "21444,21434,21452,21450,21447,22930,22932,24988,26753",
+        "core_id": 67.0
+      }
+    },
+    {
+      "id": "variant-7d4185e6-7325-57dd-af24-4bcbffd24a52",
+      "score": 0.834263,
+      "metadata": {
+        "text": "core_product_name: water level controller",
+        "raw_product_name": "WATER LEVEL CONTROLLER",
+        "list_of_product_ids": "21634,21627,21637,21759",
+        "core_id": 2448.0
+      }
+    },
+    {
+      "id": "variant-6b1e6458-8264-518c-b9ce-88fee3a7e3c1",
+      "score": 0.8341844,
+      "metadata": {
+        "text": "core_product_name: suspended ceiling | type_or_class: B-15",
+        "raw_product_name": "SUSPENDED CEILING B-15",
+        "list_of_product_ids": "19220,27550,39785,39814,40000",
+        "core_id": 2165.0
+      }
+    },
+    {
+      "id": "variant-aac0580e-dc58-50b6-aa9f-ef718f4e38a5",
+      "score": 0.83417445,
+      "metadata": {
+        "text": "core_product_name: water cooler",
+        "raw_product_name": "Water Cooler",
+        "list_of_product_ids": "7021,7341,10208,23222",
+        "core_id": 2486.0
+      }
+    }
+  ]
+}

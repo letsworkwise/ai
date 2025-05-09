@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: quick response sprinkler | acronymed_core_product_name: q.b sprinkler | feature_or_specifications: make: newage, type: esfr sprinkler-upright, temperature rating: 68° c, k-factor: 200",
+  "retrieval_results": [
+    {
+      "id": "variant-7fa3b25f-1368-5176-aad5-701306d3255c",
+      "score": 0.85344267,
+      "metadata": {
+        "text": "core_product_name: sprinkler",
+        "raw_product_name": "SPRINKLER",
+        "list_of_product_ids": "13482,13498,13499,31059,37496,35014,37488,37491,37492,37495",
+        "core_id": 2090.0
+      }
+    },
+    {
+      "id": "variant-db5bf6a9-26d9-5efa-913d-ef1f02ca3c2b",
+      "score": 0.8526209,
+      "metadata": {
+        "text": "core_product_name: water sprinkler",
+        "raw_product_name": "WATER SPRINKLER",
+        "list_of_product_ids": "6032,5211,8921,8925,8928,8956,8959,9061,9066,9070,9101,9105,22756,31060,34994",
+        "core_id": 2455.0
+      }
+    },
+    {
+      "id": "variant-7c83b144-2261-5ef3-ada0-0823013e3c85",
+      "score": 0.85023475,
+      "metadata": {
+        "text": "core_product_name: fire water sprinkler system",
+        "raw_product_name": "FIRE WATER SPRINKLER SYSTEM",
+        "list_of_product_ids": "23980,23982,23983,27056",
+        "core_id": 864.0
+      }
+    },
+    {
+      "id": "variant-7ff74fb8-0733-5a78-b024-455c93c2edc4",
+      "score": 0.8467094,
+      "metadata": {
+        "text": "core_product_name: foam sprinkler",
+        "raw_product_name": "FOAM SPRINKLER",
+        "list_of_product_ids": "8996,8995,9062,9067,9071,9102,24711",
+        "core_id": 970.0
+      }
+    },
+    {
+      "id": "variant-7606644a-4edd-5fea-81c9-7414b8a77e6e",
+      "score": 0.83942723,
+      "metadata": {
+        "text": "core_product_name: spray nozzle",
+        "raw_product_name": "SPRAY NOZZLES",
+        "list_of_product_ids": "8288",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-9988271a-59ee-57cb-9616-702a2cea2636",
+      "score": 0.8389998,
+      "metadata": {
+        "text": "core_product_name: spray nozzle | type_or_class: Fire Fighting",
+        "raw_product_name": "SPRAY NOZZLE- FIRE FIGHTING",
+        "list_of_product_ids": "6036,5215,8013,8012,8262,8263,8294,8738,8923,8927,8929,8958,9064,9069,9072,9104,9145,19631,24003,21213,19986,36157",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-0f65ae9a-96f2-5688-a949-d7158ab2dd48",
+      "score": 0.8362642,
+      "metadata": {
+        "text": "core_product_name: quick connect fitting | construction_features: quick connect | construction_features: quick connect",
+        "raw_product_name": "FITTINGS-QUICK CONNECT BODY & STEM",
+        "list_of_product_ids": "229,102,291,128,622",
+        "core_id": 883.0
+      }
+    },
+    {
+      "id": "variant-a17fd78e-0a80-5e83-8bfc-b675b3dda993",
+      "score": 0.83484644,
+      "metadata": {
+        "text": "core_product_name: refilling service fire extinguisher",
+        "raw_product_name": "FIRE EXTINGUISHER REFILLING SERVICE",
+        "list_of_product_ids": "22319,22315,22312,27052",
+        "core_id": 853.0
+      }
+    },
+    {
+      "id": "variant-ea91e298-a5e8-5fb5-9567-6e22f6a8d8d7",
+      "score": 0.8335497,
+      "metadata": {
+        "text": "core_product_name: quick opening closure | type_or_class: pipelines",
+        "raw_product_name": "QUICK OPENING CLOSURE(PIPELINES)",
+        "list_of_product_ids": "5373,6204,11485,16151,23564,30766,30901,36603",
+        "core_id": 1849.0
+      }
+    },
+    {
+      "id": "variant-5cab0b16-4402-5956-badd-9d7271a6904a",
+      "score": 0.83330923,
+      "metadata": {
+        "text": "core_product_name: quick erect scaffolding | type_or_class: Furnace",
+        "raw_product_name": "QUICK ERECT SCAFFOLDING - FURNACE",
+        "list_of_product_ids": "22517,22543,22548,22557,35422",
+        "core_id": 1848.0
+      }
+    },
+    {
+      "id": "variant-f6a18ba6-80f9-5f03-b07c-23de6db1ad6c",
+      "score": 0.83243537,
+      "metadata": {
+        "text": "core_product_name: fire water service",
+        "raw_product_name": "FIRE WATER SERVICES",
+        "list_of_product_ids": "142,571,640,921,796",
+        "core_id": 862.0
+      }
+    },
+    {
+      "id": "variant-d57d54de-f40c-539e-8057-478b97a834b0",
+      "score": 0.8321799,
+      "metadata": {
+        "text": "core_product_name: thermal relief valve",
+        "raw_product_name": "THERMAL RELIEF VALVE",
+        "list_of_product_ids": "14016,15348,15353,15358,22349,36633,37438,37439,34694,34696,34698,34700",
+        "core_id": 2242.0
+      }
+    },
+    {
+      "id": "variant-47fd86fe-de58-5526-978d-5a567f35e2d7",
+      "score": 0.8317185,
+      "metadata": {
+        "text": "core_product_name: air heater | type_or_class: Direct Fired",
+        "raw_product_name": "AIR HEATER (DIRECT FIRED)",
+        "list_of_product_ids": "5986,5165,10747,10753,8325,8433,8870,33905",
+        "core_id": 72.0
+      }
+    },
+    {
+      "id": "variant-0b1eb72b-24d6-57b1-8753-3b0839932dde",
+      "score": 0.8316999,
+      "metadata": {
+        "text": "core_product_name: vapour absorption refrigeration system",
+        "raw_product_name": "REFRIGERATION SYSTEM- VAPOUR ABSORPTION",
+        "list_of_product_ids": "7025,7353,10213,19825,22804",
+        "core_id": 1885.0
+      }
+    },
+    {
+      "id": "variant-f728934d-c014-58cf-ab93-6d273256cf71",
+      "score": 0.831413,
+      "metadata": {
+        "text": "core_product_name: reciprocating pump",
+        "raw_product_name": "Reciprocating Pumps",
+        "list_of_product_ids": "7129,7456,11957,21457,37042,37092,36695,37107,37123,37004,37020",
+        "core_id": 1815.0
+      }
+    },
+    {
+      "id": "variant-a947ab69-11c3-5478-b1b6-fa5978c60e03",
+      "score": 0.8310388,
+      "metadata": {
+        "text": "core_product_name: flushing apparatus",
+        "raw_product_name": "FLUSHING APPARATUS",
+        "list_of_product_ids": "143,601,444,714,482",
+        "core_id": 958.0
+      }
+    },
+    {
+      "id": "variant-7a81ebd3-21d8-54a3-a240-c819d8c11843",
+      "score": 0.8307206,
+      "metadata": {
+        "text": "core_product_name: quick opening end closure",
+        "raw_product_name": "QUICK OPENING END CLOSURE",
+        "list_of_product_ids": "15436,18787,22338,36605,34856",
+        "core_id": 1851.0
+      }
+    },
+    {
+      "id": "variant-e710300d-3583-5d7e-8fed-45342f49a4f0",
+      "score": 0.8305493,
+      "metadata": {
+        "text": "core_product_name: special control valve",
+        "raw_product_name": "SPECIAL CONTROL VALVES",
+        "list_of_product_ids": "13990,18539,23763,22458,22425,22487,22480,38452,40026",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-00f51218-255e-5e84-b9b5-3bd24df941ba",
+      "score": 0.8304199,
+      "metadata": {
+        "text": "core_product_name: fire hydrant system",
+        "raw_product_name": "FIRE HYDRANT SYSTEM",
+        "list_of_product_ids": "14125,20105,38855,38687,38883,38824,38885,38889",
+        "core_id": 855.0
+      }
+    },
+    {
+      "id": "variant-2ba5bcd4-a54a-5296-8dad-fc0ac3d9896f",
+      "score": 0.8302735,
+      "metadata": {
+        "text": "core_product_name: slurry reciprocating pump",
+        "raw_product_name": "PUMP-SLURRY.RECIPRO",
+        "list_of_product_ids": "5,900,672,910,837",
+        "core_id": 1820.0
+      }
+    },
+    {
+      "id": "variant-7d4185e6-7325-57dd-af24-4bcbffd24a52",
+      "score": 0.8300921,
+      "metadata": {
+        "text": "core_product_name: water level controller",
+        "raw_product_name": "WATER LEVEL CONTROLLER",
+        "list_of_product_ids": "21634,21627,21637,21759",
+        "core_id": 2448.0
+      }
+    },
+    {
+      "id": "variant-69a162c2-fe75-51be-a600-71c641b536d4",
+      "score": 0.83006334,
+      "metadata": {
+        "text": "core_product_name: precision air conditioning",
+        "raw_product_name": "Precision Air Conditioning",
+        "list_of_product_ids": "7,518,719,218,507",
+        "core_id": 1843.0
+      }
+    },
+    {
+      "id": "variant-7e796f6f-0d17-514d-aca4-a14dcdb48ba7",
+      "score": 0.82996017,
+      "metadata": {
+        "text": "core_product_name: fluid power equipment",
+        "raw_product_name": "FLUID POWER EQUIPMENT",
+        "list_of_product_ids": "1,364,936,946",
+        "core_id": 949.0
+      }
+    },
+    {
+      "id": "variant-59caacf0-2771-53a3-844e-b2c03e89997d",
+      "score": 0.8296734,
+      "metadata": {
+        "text": "core_product_name: special temperature element",
+        "raw_product_name": "SPECIAL TEMPERATURE ELEMENTS",
+        "list_of_product_ids": "6548,5719,10143,11458,11891,12796,31357,31333,35160,35199,35204,35212",
+        "core_id": 2078.0
+      }
+    },
+    {
+      "id": "variant-eb1a4b06-b649-5f63-ada7-72c171b54c39",
+      "score": 0.82932365,
+      "metadata": {
+        "text": "core_product_name: heat exchanger",
+        "raw_product_name": "HEAT EXCHANGER",
+        "list_of_product_ids": "6660,5831,8523,11965,12047,12855,12976,16931,17274,17385,23724,23754,21191,26141,36717,36587,36648,37716,37721,36077,36287,36281",
+        "core_id": 1110.0
+      }
+    },
+    {
+      "id": "variant-751ad058-fdfd-583d-9869-ca9671210d00",
+      "score": 0.82922685,
+      "metadata": {
+        "text": "core_product_name: air conditioning",
+        "raw_product_name": "AIR CONDITIONING",
+        "list_of_product_ids": "21444,21434,21452,21450,21447,22930,22932,24988,26753",
+        "core_id": 67.0
+      }
+    },
+    {
+      "id": "variant-4f8eeda9-b182-5e71-b249-50a86a4f2f70",
+      "score": 0.8291312,
+      "metadata": {
+        "text": "core_product_name: buzzer",
+        "raw_product_name": "BUZZER",
+        "list_of_product_ids": "200,472,009,020,712",
+        "core_id": 263.0
+      }
+    },
+    {
+      "id": "variant-35c0b277-6a3b-5856-9c86-096972d7c0d3",
+      "score": 0.82891107,
+      "metadata": {
+        "text": "core_product_name: temperature transmitter",
+        "raw_product_name": "TEMPERATURE TRANSMITTER",
+        "list_of_product_ids": "13422,36532,15082,15245,15259,15305,15312,17117,17116,17115,17114,18212,36177,36325,36511",
+        "core_id": 2226.0
+      }
+    },
+    {
+      "id": "variant-97cbc8ba-611a-5353-a338-5d335a0d64e6",
+      "score": 0.82888263,
+      "metadata": {
+        "text": "core_product_name: fire hydrant",
+        "raw_product_name": "FIRE HYDRANT",
+        "list_of_product_ids": "14251,14745,24220,22341,22764,22792,23512,38854,34993,35013,38823,38884,38888,38686",
+        "core_id": 852.0
+      }
+    },
+    {
+      "id": "variant-aac0580e-dc58-50b6-aa9f-ef718f4e38a5",
+      "score": 0.82866216,
+      "metadata": {
+        "text": "core_product_name: water cooler",
+        "raw_product_name": "Water Cooler",
+        "list_of_product_ids": "7021,7341,10208,23222",
+        "core_id": 2486.0
+      }
+    }
+  ]
+}

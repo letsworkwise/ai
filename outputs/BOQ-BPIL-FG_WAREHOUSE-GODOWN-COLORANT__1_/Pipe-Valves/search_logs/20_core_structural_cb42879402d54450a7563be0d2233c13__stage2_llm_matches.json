@@ -1,0 +1,79 @@
+{
+  "query": "core_product_name: structural | feature_or_specifications: feature: for supporting pipes",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: structural | special_attributes: Stockist or Traders",
+        "raw_product_name": "STRUCTURAL (STOCKIST/TRADERS)",
+        "list_of_product_ids": [
+          "24600",
+          "24601",
+          "24735",
+          "24762",
+          "24754",
+          "24850",
+          "24861"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: support structure",
+        "raw_product_name": "GANTRY AND EQUIPMENT SUPPORT STRUCTURE",
+        "list_of_product_ids": [
+          "17432",
+          "17331",
+          "17332",
+          "17347",
+          "17351",
+          "17358",
+          "17370",
+          "17376",
+          "17382",
+          "17400",
+          "17423",
+          "17424",
+          "17442",
+          "17449",
+          "17454",
+          "17521",
+          "17519",
+          "17648",
+          "17655",
+          "17706",
+          "17693",
+          "18666",
+          "17537",
+          "17710",
+          "32192",
+          "35981",
+          "35988"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: structural steel | accessories_or_attachments: plates",
+        "raw_product_name": "Structural Steel (Including plates)",
+        "list_of_product_ids": [
+          "14076",
+          "20962",
+          "22587",
+          "40047"
+        ]
+      }
+    }
+  ]
+}

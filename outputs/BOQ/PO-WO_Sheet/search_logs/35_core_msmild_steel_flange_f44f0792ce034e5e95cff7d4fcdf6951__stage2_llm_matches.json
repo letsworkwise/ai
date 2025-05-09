@@ -1,0 +1,76 @@
+{
+  "query": "core_product_name: ms(mild steel) flange | size: diameter: 40 nb(nominal bore) | feature_or_specifications: type: sorf(slipped on raised face), class: 150#",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: flange | material: MS (Mild Steel)",
+        "raw_product_name": "FLANGE (MS) /Mild Steel Flange",
+        "list_of_product_ids": [
+          "10255",
+          "10260",
+          "10265",
+          "10270",
+          "10277",
+          "9941",
+          "9942",
+          "9947",
+          "9948",
+          "10225",
+          "9964",
+          "10238",
+          "10239",
+          "10244",
+          "10249",
+          "13101",
+          "17431",
+          "24567",
+          "25825"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "Connection Details"
+      ],
+      "match_details": {
+        "text": "core_product_name: flange | material: Mild Steel (MS) | connection_details: Screwed",
+        "raw_product_name": "FLANGE MILD STEEL SCREWED",
+        "list_of_product_ids": [
+          "174",
+          "451",
+          "744",
+          "727",
+          "926"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: flange | acronymed_core_product_name: SORF (Slip On Raised Face) flange | type_or_class: Slip On Raised Face",
+        "raw_product_name": "SORF FLANGE",
+        "list_of_product_ids": [
+          "13340",
+          "13335",
+          "13330",
+          "13342",
+          "13344",
+          "13334"
+        ]
+      }
+    }
+  ]
+}

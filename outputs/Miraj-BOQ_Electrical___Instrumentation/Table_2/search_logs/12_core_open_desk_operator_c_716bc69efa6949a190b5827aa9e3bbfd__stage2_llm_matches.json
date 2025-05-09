@@ -1,0 +1,86 @@
+{
+  "query": "core_product_name: open desk operator console | feature_or_specifications: location: cmh (central monitoring hub) room, feature: carousal, sap (systems, applications, and products), acs (access control system), ews (engineering workstation)/ows (operator workstation), tfms (tank farm management system), gms (gas monitoring system), cctv (closed circuit television), location: security room, feature: weigh bridge, cylinder inventory, cctv, feature: electrical wiring, sockets: 2 nos., buttons: 2 nos., mcbs (miniature circuit breakers) as required, light, louvers, fan number as required",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: miniature type hardwire console item",
+        "raw_product_name": "MINIATURE TYPE HARDWIRE CONSOLE ITEMS",
+        "list_of_product_ids": [
+          "5935",
+          "6764",
+          "10918",
+          "10920",
+          "10919"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: control desk",
+        "raw_product_name": "CONTROL DESK",
+        "list_of_product_ids": [
+          "14011",
+          "17257",
+          "19417",
+          "19412",
+          "36643"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: control panel",
+        "raw_product_name": "CONTROL PANEL",
+        "list_of_product_ids": [
+          "7620",
+          "10723",
+          "10724",
+          "7294",
+          "11348",
+          "10704",
+          "10706",
+          "10708",
+          "10709",
+          "10705",
+          "10707",
+          "7889",
+          "8210",
+          "16017",
+          "16030",
+          "16028",
+          "36914",
+          "16897",
+          "18294",
+          "18873",
+          "18919",
+          "19439",
+          "20784",
+          "20783",
+          "21195",
+          "24829",
+          "24817",
+          "24932",
+          "24943",
+          "21198",
+          "36654",
+          "36677",
+          "33483",
+          "33678",
+          "35056"
+        ]
+      }
+    }
+  ]
+}

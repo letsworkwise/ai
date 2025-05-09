@@ -1,0 +1,66 @@
+{
+  "query": "core_product_name: esd push button station",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: emergency stop push button station",
+        "raw_product_name": "EMERGENCY STOP PUSH BUTTON STATION NEAR TANK",
+        "list_of_product_ids": [
+          "216",
+          "582",
+          "165",
+          "721",
+          "730"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof push button station | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF PUSH BUTTON STATION",
+        "list_of_product_ids": [
+          "13585",
+          "14846",
+          "15921",
+          "20279"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: push button and indicating lamp",
+        "raw_product_name": "PUSH BUTTON AND INDICATING LAMPS",
+        "list_of_product_ids": [
+          "6469",
+          "5640",
+          "9352",
+          "9148",
+          "9153",
+          "9155",
+          "11848",
+          "19079",
+          "17539",
+          "17810",
+          "19007",
+          "20969",
+          "36691",
+          "38266",
+          "38081"
+        ]
+      }
+    }
+  ]
+}

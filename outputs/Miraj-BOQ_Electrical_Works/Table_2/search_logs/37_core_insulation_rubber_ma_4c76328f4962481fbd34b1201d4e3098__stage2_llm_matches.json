@@ -1,0 +1,58 @@
+{
+  "query": "core_product_name: insulation rubber mat | size: thickness: 2.5 mm | feature_or_specifications: grade: 11 kv, standard: indian standard 15652, class: b type, max leakage current: 10 mamp, feature: flame retardant, feature: anti skid",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: insulation | material: Nitrile Rubber",
+        "raw_product_name": "INSULATION NITRILE RUBBER",
+        "list_of_product_ids": [
+          "7503",
+          "7178",
+          "7762",
+          "8172"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: sheet | material: Rubber",
+        "raw_product_name": "RUBBER SHEETS",
+        "list_of_product_ids": [
+          "19950",
+          "19949",
+          "19948",
+          "21187",
+          "25144"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: lining | material: Rubber",
+        "raw_product_name": "LINING (RUBBER)",
+        "list_of_product_ids": [
+          "6167",
+          "5337",
+          "12267",
+          "12269",
+          "12265",
+          "12268",
+          "12480"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "sheet_name": "Budget",
+  "boq_context": " | CONTROL CABLING : |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "CONTROL CABLING :",
+      "full_product_description": "M1 | 12C x 2.5 sq.mm Armoured Cu Cable  (PCC - Control Panel) Supply & Laying",
+      "core_product_name": "armoured copper cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 12C, cross section: 2.5 sq.mm",
+      "feature_or_specifications": "material: copper, type: armoured, application: PCC - Control Panel",
+      "quantity": "265.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CONTROL CABLING :",
+      "full_product_description": "M2 | End Termination Supply & Installation",
+      "core_product_name": "end termination",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "8.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CONTROL CABLING :",
+      "full_product_description": "M3 | 10 C x 2.5 Sq.mm Arm. Cu cable (PCC - Control Panel) Supply & Laying",
+      "core_product_name": "armoured copper cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 10C, cross section: 2.5 sq.mm",
+      "feature_or_specifications": "material: copper, type: armoured, application: PCC - Control Panel",
+      "quantity": "265.0",
+      "unit": "Mtrs."
+    },
+    {
+      "section_context_for_this_product_block": "CONTROL CABLING :",
+      "full_product_description": "M4 | End Termination Supply & Laying",
+      "core_product_name": "end termination",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "8.0",
+      "unit": "Mtrs."
+    },
+    {
+      "section_context_for_this_product_block": "CONTROL CABLING :",
+      "full_product_description": "M5 | 6 C x 2.5 Sq.mm Arm Cu cable (Alternator to Control panel) Supply & Laying",
+      "core_product_name": "armoured copper cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 6C, cross section: 2.5 sq.mm",
+      "feature_or_specifications": "material: copper, type: armoured, application: Alternator to Control panel",
+      "quantity": "265.0",
+      "unit": "Mtrs."
+    },
+    {
+      "section_context_for_this_product_block": "CONTROL CABLING :",
+      "full_product_description": "M6 | End Termination Supply & Laying",
+      "core_product_name": "end termination",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "8.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CONTROL CABLING :",
+      "full_product_description": "M7 | 4C x 2.5 Sq.mm Cu Flexible shielded cable (PCC - PCC) Supply & Laying",
+      "core_product_name": "flexible shielded copper cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 4C, cross section: 2.5 sq.mm",
+      "feature_or_specifications": "material: copper, type: flexible shielded, application: PCC - PCC",
+      "quantity": "1500.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CONTROL CABLING :",
+      "full_product_description": "M8 | End Termination Supply & Laying",
+      "core_product_name": "end termination",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "26.0",
+      "unit": "Mtrs."
+    },
+    {
+      "section_context_for_this_product_block": "CONTROL CABLING :",
+      "full_product_description": "M9 | 3C x 2.5 Sq.mm Arm Cu cable (PCC TO PCC) Supply & Laying",
+      "core_product_name": "armoured copper cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 3C, cross section: 2.5 sq.mm",
+      "feature_or_specifications": "material: copper, type: armoured, application: PCC TO PCC",
+      "quantity": "1500.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CONTROL CABLING :",
+      "full_product_description": "M10 | End Termination Supply & Laying",
+      "core_product_name": "end termination",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "26.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CONTROL CABLING :",
+      "full_product_description": "M11 | 2C x 4 sq.mm Armoured Cu Cable (Battery Charger - DG Batteries) Supply & Laying",
+      "core_product_name": "armoured copper cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 2C, cross section: 4 sq.mm",
+      "feature_or_specifications": "material: copper, type: armoured, application: Battery Charger - DG Batteries",
+      "quantity": "265.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CONTROL CABLING :",
+      "full_product_description": "M12 | End Termination Supply & Laying",
+      "core_product_name": "end termination",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "8.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CONTROL CABLING :",
+      "full_product_description": "M13 | 2C x 2.5 Sq.mm Arm. Cu cable (Accoustic - Control Panel / Aviation light - Control Panel ) Supply & Laying",
+      "core_product_name": "armoured copper cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 2C, cross section: 2.5 sq.mm",
+      "feature_or_specifications": "material: copper, type: armoured, application: Accoustic - Control Panel or Aviation light - Control Panel",
+      "quantity": "265.0",
+      "unit": "Mtrs."
+    },
+    {
+      "section_context_for_this_product_block": "CONTROL CABLING :",
+      "full_product_description": "M14 | End Termination Supply & Laying",
+      "core_product_name": "end termination",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "8.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CONTROL CABLING :",
+      "full_product_description": "M15 | Supply and installation of 10 Triad x 1 sq mm Sheilded Armoured Multistrand (1 Run) Supply & Laying",
+      "core_product_name": "shielded armoured multistrand cable",
+      "acronymed_core_product_name": "",
+      "size": "triad: 10, cross section: 1 sq mm, run: 1",
+      "feature_or_specifications": "type: shielded armoured multistrand",
+      "quantity": "240.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "CONTROL CABLING :",
+      "full_product_description": "M16 | End Termination Supply & Laying",
+      "core_product_name": "end termination",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "8.0",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "M17 | 2\" Class 'C' MS pipe for 1500 KVA  DG Set Supply, Erection, Testing & Commissioning",
+      "core_product_name": "ms(mild steel) pipe",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 2 inch",
+      "feature_or_specifications": "class: C, application: 1500 KVA DG Set",
+      "quantity": "325.0",
+      "unit": "Mtrs."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "M18 | Fuel Fittings like Bends, Valves Flages",
+      "core_product_name": "fuel fittings",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: bends, valves, flanges",
+      "quantity": "8.0",
+      "unit": "Mtrs."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "M19 | Day tank of 990 L mounted on the elevated steel structure for gravity flow of fuel to DG sets Supply & Installation",
+      "core_product_name": "day tank",
+      "acronymed_core_product_name": "",
+      "size": "tank capacity: 990 L",
+      "feature_or_specifications": "feature: mounted on the elevated steel structure for gravity flow of fuel to DG sets",
+      "quantity": "6.0",
+      "unit": "KG"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "M20 | 5 mm thick  MS pipe Class B 10\" Exhaust Pipe with 50mm thick Rock wool insulation thickness of 64 Kg/m3, 26 SWG Aluminium cladding before Residential Silencer. Supply , Erection, Testing & Commissioning",
+      "core_product_name": "ms(mild steel) pipe",
+      "acronymed_core_product_name": "",
+      "size": "thickness: 5 mm, class: B, diameter: 10 inch, insulation thickness: 50 mm, insulation density: 64 Kg/m3, cladding thickness: 26 SWG",
+      "feature_or_specifications": "material: mild steel, insulation: rock wool, cladding: aluminium, application: exhaust pipe before residential silencer",
+      "quantity": "65.0",
+      "unit": "Mtrs."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "M21 | 5 mm thick  MS pipe Class B 16\" Exhaust Pipe with Glass wool insulation thickness of 64 Kg/m3, 26 SWG Aluminium cladding after Residential Silencer. Supply , Erection, Testing & Commissioning",
+      "core_product_name": "ms(mild steel) pipe",
+      "acronymed_core_product_name": "",
+      "size": "thickness: 5 mm, class: B, diameter: 16 inch, insulation thickness: 64 Kg/m3, cladding thickness: 26 SWG",
+      "feature_or_specifications": "material: mild steel, insulation: glass wool, cladding: aluminium, application: exhaust pipe after residential silencer",
+      "quantity": "340.0",
+      "unit": "Mtrs."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "M22 | Supply, fabrication, commisioning and erection of steel structure & painting  with two coats of primer and two coats of approved enamel paint. The arrangement of structure shall be for individual stack. Design of the stack to be approved by the Structure consultant. Supply , Erection, Testing & Commissioning",
+      "core_product_name": "steel structure",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: painting with two coats of primer and two coats of approved enamel paint, arrangement for individual stack, design approval by structure consultant",
+      "quantity": "15000.0",
+      "unit": "KG"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "M23 | Providing, installing, testing and commissioning of Plate electrode earthing station as per IS3043 including the following items  1.400(L)x400(W)x450(D)mm, 150mm thick block work inspection chamber with CI Cover/ Lid.  2. 600x600x3mm copper plate, 15mm GI line / funnel, 50mm line for watering , CI frame and CI cover,Salt & charcoal mixture,M10 bolts & nuts, universal stainless steel clamps. System shall be in full compliance with IS:3043 - 2018 Earthing Standards/ NBC 2016 (latest).  3. Cost to include 75x6 Cu. strips, 3meter lenght connecting clamps with copper plate, brass bolts & nuts as per standards.  4. Cost to include necessary excavation to an extent of 400(W & L), back filling around the Plate.",
+      "core_product_name": "plate electrode earthing station",
+      "acronymed_core_product_name": "",
+      "size": "inspection chamber: 400(L)x400(W)x450(D)mm, block work thickness: 150mm, copper plate: 600x600x3mm, GI(galvanized iron) line: 15mm, watering line: 50mm, copper strip: 75x6mm, connecting clamp length: 3 meter, excavation: 400(W & L)",
+      "feature_or_specifications": "standard: IS3043(indian standard 3043) - 2018, standard: NBC 2016(national building code 2016), inspection chamber cover: CI(cast iron), copper plate, GI(galvanized iron) line/funnel, CI(cast iron) frame and cover, salt & charcoal mixture, M10 bolts & nuts, universal stainless steel clamps, brass bolts & nuts, feature: back filling around the plate",
+      "quantity": "8.0",
+      "unit": "Mtr"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "M24 | Providing, installing, testing and commissioning of earthing station including the following items  1.400(L)x400(W)x450(D)mm, 150mm thick block work inspection chamber with CI Cover/ Lid hinged to CI frame .  2. 100mm ID dia 13mm thick, CI pipe, watering funnel with wire mesh , Salt, charcoal,M10 bolts & nuts, universal stainless steel clamps ,  .  System shall be in full compliance with IS:3043-2018 Earthing Standards/ NBC 2016 (latest).  3. Cost to include necessary excavation to an extent of 400(W & L), back filling around the Rod/ Pipe.",
+      "core_product_name": "earthing station",
+      "acronymed_core_product_name": "",
+      "size": "inspection chamber: 400(L)x400(W)x450(D)mm, block work thickness: 150mm, pipe diameter: 100mm ID, pipe thickness: 13mm, excavation: 400(W & L)",
+      "feature_or_specifications": "inspection chamber cover: CI(cast iron), CI(cast iron) pipe, watering funnel with wire mesh, salt, charcoal, M10 bolts & nuts, universal stainless steel clamps, standard: IS3043(indian standard 3043)-2018, standard: NBC 2016(national building code 2016), feature: back filling around the rod or pipe",
+      "quantity": "8.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "M25 | 75  x 6 mm GI strip",
+      "core_product_name": "gi(galvanized iron) strip",
+      "acronymed_core_product_name": "",
+      "size": "strip: 75 x 6 mm",
+      "feature_or_specifications": "",
+      "quantity": "1000.0",
+      "unit": "Mtrs."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "M26 | 75 x 6 mm Copper strip",
+      "core_product_name": "copper strip",
+      "acronymed_core_product_name": "",
+      "size": "strip: 75 x 6 mm",
+      "feature_or_specifications": "",
+      "quantity": "750.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "M27 | Fire extinguishers - CO2 type - 4.5kg Supply & Installation",
+      "core_product_name": "fire extinguisher",
+      "acronymed_core_product_name": "",
+      "size": "capacity: 4.5kg",
+      "feature_or_specifications": "type: CO2(carbon dioxide)",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "M28 | First aid box complete with all standard first aid materials Supply & Installation",
+      "core_product_name": "first aid box",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: complete with all standard first aid materials",
+      "quantity": "1.0",
+      "unit": "Mtr"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      0,
+      29
+    ],
+    "original_rows": [
+      {
+        "0": NaN,
+        "1": "CONTROL CABLING :",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN
+      },
+      {
+        "0": "M1",
+        "1": "12C x 2.5 sq.mm Armoured Cu Cable  (PCC - Control Panel) Supply & Laying",
+        "2": "Nos",
+        "3": 265.0,
+        "4": 85065.0
+      },
+      {
+        "0": "M2",
+        "1": "End Termination Supply & Installation",
+        "2": "Nos",
+        "3": 8.0,
+        "4": 5008.0
+      },
+      {
+        "0": "M3",
+        "1": "10 C x 2.5 Sq.mm Arm. Cu cable (PCC - Control Panel) Supply & Laying",
+        "2": "Mtrs.",
+        "3": 265.0,
+        "4": 166420.0
+      },
+      {
+        "0": "M4",
+        "1": "End Termination Supply & Laying",
+        "2": "Mtrs.",
+        "3": 8.0,
+        "4": 4624.0
+      },
+      {
+        "0": "M5",
+        "1": "6 C x 2.5 Sq.mm Arm Cu cable (Alternator to Control panel) Supply & Laying",
+        "2": "Mtrs.",
+        "3": 265.0,
+        "4": 98580.0
+      },
+      {
+        "0": "M6",
+        "1": "End Termination Supply & Laying",
+        "2": "Nos",
+        "3": 8.0,
+        "4": 3056.0
+      },
+      {
+        "0": "M7",
+        "1": "4C x 2.5 Sq.mm Cu Flexible shielded cable (PCC - PCC) Supply & Laying",
+        "2": "Nos",
+        "3": 1500.0,
+        "4": 361500.0
+      },
+      {
+        "0": "M8",
+        "1": "End Termination Supply & Laying",
+        "2": "Mtrs.",
+        "3": 26.0,
+        "4": 13130.0
+      },
+      {
+        "0": "M9",
+        "1": "3C x 2.5 Sq.mm Arm Cu cable (PCC TO PCC) Supply & Laying",
+        "2": "Nos",
+        "3": 1500.0,
+        "4": 184500.0
+      },
+      {
+        "0": "M10",
+        "1": "End Termination Supply & Laying",
+        "2": "Nos",
+        "3": 26.0,
+        "4": 11102.0
+      },
+      {
+        "0": "M11",
+        "1": "2C x 4 sq.mm Armoured Cu Cable (Battery Charger - DG Batteries) Supply & Laying",
+        "2": "Nos",
+        "3": 265.0,
+        "4": 30740.0
+      },
+      {
+        "0": "M12",
+        "1": "End Termination Supply & Laying",
+        "2": "Nos",
+        "3": 8.0,
+        "4": 2440.0
+      },
+      {
+        "0": "M13",
+        "1": "2C x 2.5 Sq.mm Arm. Cu cable (Accoustic - Control Panel / Aviation light - Control Panel ) Supply & Laying",
+        "2": "Mtrs.",
+        "3": 265.0,
+        "4": 26235.0
+      },
+      {
+        "0": "M14",
+        "1": "End Termination Supply & Laying",
+        "2": "Nos",
+        "3": 8.0,
+        "4": 1928.0
+      },
+      {
+        "0": "M15",
+        "1": "Supply and installation of 10 Triad x 1 sq mm Sheilded Armoured Multistrand (1 Run) Supply & Laying",
+        "2": "Nos",
+        "3": 240.0,
+        "4": 132000.0
+      },
+      {
+        "0": "M16",
+        "1": "End Termination Supply & Laying",
+        "2": NaN,
+        "3": 8.0,
+        "4": 3984.0
+      },
+      {
+        "0": "M17",
+        "1": "2\" Class 'C' MS pipe for 1500 KVA  DG Set Supply, Erection, Testing & Commissioning",
+        "2": "Mtrs.",
+        "3": 325.0,
+        "4": 143000.0
+      },
+      {
+        "0": "M18",
+        "1": "Fuel Fittings like Bends, Valves Flages",
+        "2": "Mtrs.",
+        "3": 8.0,
+        "4": 56000.0
+      },
+      {
+        "0": "M19",
+        "1": "Day tank of 990 L mounted on the elevated steel structure for gravity flow of fuel to DG sets Supply & Installation",
+        "2": "KG",
+        "3": 6.0,
+        "4": 324000.0
+      },
+      {
+        "0": "M20",
+        "1": "5 mm thick  MS pipe Class B 10\" Exhaust Pipe with 50mm thick Rock wool insulation thickness of 64 Kg/m3, 26 SWG Aluminium cladding before Residential Silencer. Supply , Erection, Testing & Commissioning",
+        "2": "Mtrs.",
+        "3": 65.0,
+        "4": 295360.0
+      },
+      {
+        "0": "M21",
+        "1": "5 mm thick  MS pipe Class B 16\" Exhaust Pipe with Glass wool insulation thickness of 64 Kg/m3, 26 SWG Aluminium cladding after Residential Silencer. Supply , Erection, Testing & Commissioning",
+        "2": "Mtrs.",
+        "3": 340.0,
+        "4": 2025380.0
+      },
+      {
+        "0": "M22",
+        "1": "Supply, fabrication, commisioning and erection of steel structure & painting  with two coats of primer and two coats of approved enamel paint. The arrangement of structure shall be for individual stack. Design of the stack to be approved by the Structure consultant. Supply , Erection, Testing & Commissioning",
+        "2": "KG",
+        "3": 15000.0,
+        "4": 1050000.0
+      },
+      {
+        "0": "M23",
+        "1": "Providing, installing, testing and commissioning of Plate electrode earthing station as per IS3043 including the following items  1.400(L)x400(W)x450(D)mm, 150mm thick block work inspection chamber with CI Cover/ Lid.  2. 600x600x3mm copper plate, 15mm GI line / funnel, 50mm line for watering , CI frame and CI cover,Salt & charcoal mixture,M10 bolts & nuts, universal stainless steel clamps. System shall be in full compliance with IS:3043 - 2018 Earthing Standards/ NBC 2016 (latest).  3. Cost to include 75x6 Cu. strips, 3meter lenght connecting clamps with copper plate, brass bolts & nuts as per standards.  4. Cost to include necessary excavation to an extent of 400(W & L), back filling around the Plate.",
+        "2": "Mtr",
+        "3": 8.0,
+        "4": 202000.0
+      },
+      {
+        "0": "M24",
+        "1": "Providing, installing, testing and commissioning of earthing station including the following items  1.400(L)x400(W)x450(D)mm, 150mm thick block work inspection chamber with CI Cover/ Lid hinged to CI frame .  2. 100mm ID dia 13mm thick, CI pipe, watering funnel with wire mesh , Salt, charcoal,M10 bolts & nuts, universal stainless steel clamps ,  .  System shall be in full compliance with IS:3043-2018 Earthing Standards/ NBC 2016 (latest).  3. Cost to include necessary excavation to an extent of 400(W & L), back filling around the Rod/ Pipe.",
+        "2": "Nos",
+        "3": 8.0,
+        "4": 128000.0
+      },
+      {
+        "0": "M25",
+        "1": "75  x 6 mm GI strip",
+        "2": "Mtrs.",
+        "3": 1000.0,
+        "4": 400000.0
+      },
+      {
+        "0": "M26",
+        "1": "75 x 6 mm Copper strip",
+        "2": "Set",
+        "3": 750.0,
+        "4": 3112500.0
+      },
+      {
+        "0": "M27",
+        "1": "Fire extinguishers - CO2 type - 4.5kg Supply & Installation",
+        "2": "Nos.",
+        "3": 1.0,
+        "4": 5400.0
+      },
+      {
+        "0": "M28",
+        "1": "First aid box complete with all standard first aid materials Supply & Installation",
+        "2": "Mtr",
+        "3": 1.0,
+        "4": 2200.0
+      },
+      {
+        "0": "M29",
+        "1": "Safety Charts in English & Kannada Supply & Installation",
+        "2": "Mtr",
+        "3": 1.0,
+        "4": 900.0
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 3191,
+    "completion_tokens": 4079
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups | size: capacity: 5 kVA, backup: 1 hr | feature_or_specifications: type: stand-alone, feature: SCVS (static constant voltage stabilizer) bypass, battery bank: 1x100%, mounting: stainless steel rack, accessory: battery isolation box, accessory: intercell connectors, accessory: required cable & cabling accessories for UPS, battery bank, UPS ACDB, application: raw water reservoir control room, incoming feeder: 63 A DP MCCB (2 nos), outgoing feeder: 16A DP MCB (12 nos), outgoing feeder: 32A DP MCB (4 nos), outgoing feeder: 6A DP MCB (4 nos)",
+  "retrieval_results": [
+    {
+      "id": "variant-4ed83870-c8d2-5f69-ba76-674bbe8ff2b1",
+      "score": 0.8861596,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: ups system",
+        "raw_product_name": "UPS SYSTEM",
+        "list_of_product_ids": "14194,15283,15287,15895,17799,17789,17897,18615,18614,18613,18612",
+        "core_id": 2314.0
+      }
+    },
+    {
+      "id": "variant-615436f0-585e-5bc3-84d1-0d858c65a484",
+      "score": 0.8860797,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups | accessories_or_attachments: acdb (alternating current distribution board)",
+        "raw_product_name": "UPS With ACDB",
+        "list_of_product_ids": "1,419,636,134",
+        "core_id": 2316.0
+      }
+    },
+    {
+      "id": "variant-aefb8f92-80fa-5763-b0f1-30caae087481",
+      "score": 0.8845763,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups (uninterruptible power supply)",
+        "raw_product_name": "UN-INTERRUPTIBLE POWER SUPPLY (UPS)",
+        "list_of_product_ids": "141,931,781,320,002",
+        "core_id": 2316.0
+      }
+    },
+    {
+      "id": "variant-60759c1d-1484-5fdf-a6d4-d96e4e97573f",
+      "score": 0.88312167,
+      "metadata": {
+        "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: u.p.s. system",
+        "raw_product_name": "U.P.S.SYSTEM",
+        "list_of_product_ids": "6399,5570,11076,11073,10496,10624,12084,12082,12245,24506,24504,36163,36311",
+        "core_id": 2314.0
+      }
+    },
+    {
+      "id": "variant-c03e0ba5-aa70-53fc-9eb3-267f46d459cb",
+      "score": 0.8507497,
+      "metadata": {
+        "text": "core_product_name: cathodic protection power supply module",
+        "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+        "list_of_product_ids": "6413,5583,8417,12209",
+        "core_id": 315.0
+      }
+    },
+    {
+      "id": "variant-41a6c6d9-ef4d-520f-b9f3-af2822f8dcef",
+      "score": 0.84888643,
+      "metadata": {
+        "text": "core_product_name: power supply",
+        "raw_product_name": "BUIL POWER SUPPLY",
+        "list_of_product_ids": "5,937,676,612,114",
+        "core_id": 250.0
+      }
+    },
+    {
+      "id": "variant-fffe43b9-b089-5b6d-9125-4a5cf297e594",
+      "score": 0.8485986,
+      "metadata": {
+        "text": "core_product_name: power supply unit | acronymed_core_product_name: psu (power supply unit)",
+        "raw_product_name": "POWER SUPPLY UNIT (PSU)",
+        "list_of_product_ids": "191,622,743,919,161",
+        "core_id": 1746.0
+      }
+    },
+    {
+      "id": "variant-0a015ab5-d5df-5517-bd30-88c4f9cc9670",
+      "score": 0.8467096,
+      "metadata": {
+        "text": "core_product_name: switch mode power supply | acronymed_core_product_name: smps (switch mode power supply)",
+        "raw_product_name": "Switch Mode Power Supply (SMPS)",
+        "list_of_product_ids": "13563,13565,13567,14197,15285,19641,35007",
+        "core_id": 2199.0
+      }
+    },
+    {
+      "id": "variant-8c60a1ce-e935-5daf-b164-6e8411da4e0c",
+      "score": 0.8466161,
+      "metadata": {
+        "text": "core_product_name: miniature circuit breaker | acronymed_core_product_name: mcb",
+        "raw_product_name": "MCB",
+        "list_of_product_ids": "6462,5633,10157,10663,9350,9447,9151,9187,9219,9361,11905,11944,17873,19028,19645,19652,20775,21203,19140,38290,36563",
+        "core_id": 1446.0
+      }
+    },
+    {
+      "id": "variant-1e46909f-5be3-54cb-af61-1774897dadd6",
+      "score": 0.8463938,
+      "metadata": {
+        "text": "core_product_name: cathodic protection system | acronymed_core_product_name: cp system",
+        "raw_product_name": "CP SYSTEM",
+        "list_of_product_ids": "15360,15379,15381,15383,18186,19518,40163,40168,40190,40238,40233",
+        "core_id": 503.0
+      }
+    },
+    {
+      "id": "variant-74d303aa-2799-5e8d-8b8a-412a8da4a4f2",
+      "score": 0.8458247,
+      "metadata": {
+        "text": "core_product_name: electrical spare",
+        "raw_product_name": "ELECTRICAL SPARES",
+        "list_of_product_ids": "207,782,077,728,462",
+        "core_id": 710.0
+      }
+    },
+    {
+      "id": "variant-1a0de3d0-ed79-5450-aa41-d8815f16ff26",
+      "score": 0.84528846,
+      "metadata": {
+        "text": "core_product_name: outdoor potential transformer | acronymed_core_product_name: pt | size_or_capacity: 33kV",
+        "raw_product_name": "33kV outdoor CT/ PT",
+        "list_of_product_ids": "7061,7388,18218,18377,19058",
+        "core_id": 17.0
+      }
+    },
+    {
+      "id": "variant-c2ce30a2-5af4-5288-a342-7c5519d90a13",
+      "score": 0.8447275,
+      "metadata": {
+        "text": "core_product_name: bulk power supply",
+        "raw_product_name": "BULK POWER SUPPLY",
+        "list_of_product_ids": "7,561,723,518,220",
+        "core_id": 254.0
+      }
+    },
+    {
+      "id": "variant-7f342f16-0dd1-50df-bb92-f2e717b86126",
+      "score": 0.8445155,
+      "metadata": {
+        "text": "core_product_name: relief valve",
+        "raw_product_name": "VALVE RELIEF",
+        "list_of_product_ids": "14046,15292,22346,30833,36632",
+        "core_id": 2370.0
+      }
+    },
+    {
+      "id": "variant-fc8540c6-39ef-5bd8-94da-9b9420f9b06a",
+      "score": 0.8441822,
+      "metadata": {
+        "text": "core_product_name: input convertor | acronymed_core_product_name: i/p convertor",
+        "raw_product_name": "I/P CONVERTOR",
+        "list_of_product_ids": "1,542,023,681",
+        "core_id": 1222.0
+      }
+    },
+    {
+      "id": "variant-382db73b-224d-52d5-b573-ac219d56b64e",
+      "score": 0.8440505,
+      "metadata": {
+        "text": "core_product_name: permanent cathodic protection system",
+        "raw_product_name": "PERMANENT CATHODIC PROTECTION SYSTEM",
+        "list_of_product_ids": "8413,19238,19231,21566,22411,22607,19230",
+        "core_id": 1641.0
+      }
+    },
+    {
+      "id": "variant-4ee544d6-0f39-5064-8d24-8c48472ff71a",
+      "score": 0.84338784,
+      "metadata": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": "5954,6782,12132,14671,14679,18191,20174,36159",
+        "core_id": 2156.0
+      }
+    },
+    {
+      "id": "variant-bbad95d9-b94a-500e-b33a-e10ab8250567",
+      "score": 0.84315586,
+      "metadata": {
+        "text": "core_product_name: safety relief valve",
+        "raw_product_name": "Safety Relief Valve",
+        "list_of_product_ids": "7520,7194,10321,9958,12013,12014,12015,12091,12784,12758,12775,17529,18043,22348,36631,34693,34695,34697,34699,35702,36144,36151,39885",
+        "core_id": 2181.0
+      }
+    },
+    {
+      "id": "variant-3b6fd501-a4aa-5f0e-a5f4-14d273ad963d",
+      "score": 0.84303224,
+      "metadata": {
+        "text": "core_product_name: surge relief valve",
+        "raw_product_name": "SURGE RELIEF VALVE",
+        "list_of_product_ids": "6505,5676,12130,22347,28768",
+        "core_id": 2159.0
+      }
+    },
+    {
+      "id": "variant-30453020-7b88-55b3-8cef-647ee7ab265c",
+      "score": 0.84279096,
+      "metadata": {
+        "text": "core_product_name: breathing equipment",
+        "raw_product_name": "BREATHING EQUIPMENT",
+        "list_of_product_ids": "188,191,880,228,060",
+        "core_id": 247.0
+      }
+    },
+    {
+      "id": "variant-30ba7b7c-4349-5ae1-b9ed-81ec0b2af986",
+      "score": 0.8427861,
+      "metadata": {
+        "text": "core_product_name: high voltage capacitor | size_or_capacity: High Voltage",
+        "raw_product_name": "CAPACITORS-HIGH VOLTAGE",
+        "list_of_product_ids": "6427,5597,10503,10567,11340,12080",
+        "core_id": 295.0
+      }
+    },
+    {
+      "id": "variant-f0b3c83f-340f-5359-af01-5f3abf8a29c7",
+      "score": 0.8427693,
+      "metadata": {
+        "text": "core_product_name: input/output converter | acronymed_core_product_name: i/p converter",
+        "raw_product_name": "I/P CONVERTERS",
+        "list_of_product_ids": "13678,14948,14949,15078,15105,15307,15315,17477,20895,23179,36199,36348",
+        "core_id": 1221.0
+      }
+    },
+    {
+      "id": "variant-dccb1b8c-ce03-5353-8d7f-1894add2f041",
+      "score": 0.84222245,
+      "metadata": {
+        "text": "core_product_name: equipment insulation",
+        "raw_product_name": "EQUIPMENT INSULATION WORKS",
+        "list_of_product_ids": "358,293,583,235,880",
+        "core_id": 761.0
+      }
+    },
+    {
+      "id": "variant-7e796f6f-0d17-514d-aca4-a14dcdb48ba7",
+      "score": 0.8420632,
+      "metadata": {
+        "text": "core_product_name: fluid power equipment",
+        "raw_product_name": "FLUID POWER EQUIPMENT",
+        "list_of_product_ids": "1,364,936,946",
+        "core_id": 949.0
+      }
+    },
+    {
+      "id": "variant-95f74893-d69d-504d-9c31-33cbdcb88ed4",
+      "score": 0.84199184,
+      "metadata": {
+        "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+        "raw_product_name": "DCDB",
+        "list_of_product_ids": "15387,13587,14607,14780,19662,21388,36160",
+        "core_id": 559.0
+      }
+    },
+    {
+      "id": "variant-c3c5f2e6-43d8-54dc-a454-4b05fd86ee82",
+      "score": 0.84170884,
+      "metadata": {
+        "text": "core_product_name: auxiliary column | acronymed_core_product_name: aux. column",
+        "raw_product_name": "AUX. COLUMN",
+        "list_of_product_ids": "20899,20876,21908,21952,22021,22119,20853",
+        "core_id": 147.0
+      }
+    },
+    {
+      "id": "variant-8fe75b2b-6667-5672-92af-b5e2b55f30aa",
+      "score": 0.84153944,
+      "metadata": {
+        "text": "core_product_name: cathodic protection system",
+        "raw_product_name": "Cathodic Protection System",
+        "list_of_product_ids": "18681,19166,21519,18680,36550",
+        "core_id": 503.0
+      }
+    },
+    {
+      "id": "variant-3d2c5e9d-79ab-553c-a008-b82b69a9551b",
+      "score": 0.8415106,
+      "metadata": {
+        "text": "core_product_name: capacitor bank",
+        "raw_product_name": "CAPACITOR BANK",
+        "list_of_product_ids": "7118,7445,11170,10847,12360",
+        "core_id": 293.0
+      }
+    },
+    {
+      "id": "variant-ca2bafe6-22b6-5230-b196-6b0dda111306",
+      "score": 0.841016,
+      "metadata": {
+        "text": "core_product_name: compressed breathing apparatus",
+        "raw_product_name": "BREATHING APPARATUS - COMPRESSED",
+        "list_of_product_ids": "24212,24216,26883,37472",
+        "core_id": 243.0
+      }
+    },
+    {
+      "id": "variant-d57d54de-f40c-539e-8057-478b97a834b0",
+      "score": 0.84095234,
+      "metadata": {
+        "text": "core_product_name: thermal relief valve",
+        "raw_product_name": "THERMAL RELIEF VALVE",
+        "list_of_product_ids": "14016,15348,15353,15358,22349,36633,37438,37439,34694,34696,34698,34700",
+        "core_id": 2242.0
+      }
+    }
+  ]
+}

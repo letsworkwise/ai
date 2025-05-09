@@ -1,0 +1,55 @@
+{
+  "query": "core_product_name: fixed panoramic camera | size: resolution: not less than 8 MP | feature_or_specifications: type: ultra high definition, compression: high profile H.264, recording: constant 360 degree, feature: simultaneous multiple angles of view using one sensor, protocol: ONVIF, feature: 3D client side dewarping, feature: no blind spots, power: POE enabled, certification: UL (underwriters laboratories), accessories: surge protectors, mounting bracket (same make as camera)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Accessories"
+      ],
+      "match_details": {
+        "text": "core_product_name: surge protection device",
+        "raw_product_name": "SURG PROTECTION DEVICES",
+        "list_of_product_ids": [
+          "5954",
+          "6782",
+          "12132",
+          "14671",
+          "14679",
+          "18191",
+          "20174",
+          "36159"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: video wall",
+        "raw_product_name": "Video wall",
+        "list_of_product_ids": [
+          "7081",
+          "7408",
+          "18012",
+          "18421",
+          "18416"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: recorder",
+        "raw_product_name": "RECORDERS",
+        "list_of_product_ids": [
+          "13825",
+          "15211",
+          "20871",
+          "36627"
+        ]
+      }
+    }
+  ]
+}

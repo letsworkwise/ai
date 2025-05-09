@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: tee joint",
+  "retrieval_results": [
+    {
+      "id": "variant-663cf76d-ffc4-5b4c-934a-31949f5c06be",
+      "score": 0.9070567,
+      "metadata": {
+        "text": "core_product_name: tee fitting",
+        "raw_product_name": "FITTINGS –TEES",
+        "list_of_product_ids": "14267,14693,14668,14710,14903,14915,15996,16049,18892,19403,18960,19725,19800,19793,20062,20171,20936,21919,22661,22656,22915,23197,27761,27751,27741,27731,27721,27780,37063,36444,36528",
+        "core_id": 881.0
+      }
+    },
+    {
+      "id": "variant-b55a4457-928b-5d4f-a0d7-6fb8f7583369",
+      "score": 0.90131,
+      "metadata": {
+        "text": "core_product_name: insulating joint",
+        "raw_product_name": "INSULATING JOINTS",
+        "list_of_product_ids": "6206,5375,12910,31006,31054,31064",
+        "core_id": 1269.0
+      }
+    },
+    {
+      "id": "variant-0ac14aa8-88e6-5346-8d34-683abe9ee02e",
+      "score": 0.89613086,
+      "metadata": {
+        "text": "core_product_name: flow tee",
+        "raw_product_name": "FLOW TEE",
+        "list_of_product_ids": "5371,6067,11152,11151,10737,11283,10560,12908,15980,17555,27536,27759,27749,27739,27729,27719,27782,36526",
+        "core_id": 940.0
+      }
+    },
+    {
+      "id": "variant-c054d8e4-1e8c-5ea7-b013-ef07cbeba8a2",
+      "score": 0.8959078,
+      "metadata": {
+        "text": "core_product_name: split tee",
+        "raw_product_name": "SPLIT TEE",
+        "list_of_product_ids": "14008,14586,27763,27753,27743,27733,27723,27778,36529",
+        "core_id": 2084.0
+      }
+    },
+    {
+      "id": "variant-7200274a-d707-5227-ac1e-143a15e80f5e",
+      "score": 0.8940864,
+      "metadata": {
+        "text": "core_product_name: barred tee",
+        "raw_product_name": "BARRED TEE",
+        "list_of_product_ids": "14187,22417,27760,27750,27740,27730,27720,27781,36527",
+        "core_id": 175.0
+      }
+    },
+    {
+      "id": "variant-62e1328f-a4a8-559d-b785-e1a43a8f7314",
+      "score": 0.8892051,
+      "metadata": {
+        "text": "core_product_name: expansion joint filler",
+        "raw_product_name": "EXPANSION JOINT FILLER",
+        "list_of_product_ids": "15670,15672,27046,15671",
+        "core_id": 772.0
+      }
+    },
+    {
+      "id": "variant-d8d2ec4b-e90c-5b1c-91aa-aece6242d68e",
+      "score": 0.88744533,
+      "metadata": {
+        "text": "core_product_name: expansion joint | material: Fabric",
+        "raw_product_name": "EXPANSION JOINT-(FABRIC)",
+        "list_of_product_ids": "5993,5172,8564,8857,17223,36601",
+        "core_id": 773.0
+      }
+    },
+    {
+      "id": "variant-8b08aed3-7c60-5bf1-8758-bc5bc5707a0a",
+      "score": 0.88413566,
+      "metadata": {
+        "text": "core_product_name: coupling",
+        "raw_product_name": "COUPLING",
+        "list_of_product_ids": "14102,19606,19603,21430,24786,24777,24787,24800,24801,24814,25096,37417,37437",
+        "core_id": 497.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.8838797,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    },
+    {
+      "id": "variant-578b44d5-4ccd-58bf-bd00-e0a7f89f00d6",
+      "score": 0.8836059,
+      "metadata": {
+        "text": "core_product_name: grass-jointed tile",
+        "raw_product_name": "GRASS-JOINTED TILES",
+        "list_of_product_ids": "9534,9543,14436,14506,14508,20240,23698,35256,35255",
+        "core_id": 1067.0
+      }
+    },
+    {
+      "id": "variant-58e28365-c6c2-529a-82ba-2565d75277c0",
+      "score": 0.88322216,
+      "metadata": {
+        "text": "core_product_name: expansion joint | material: Metallic",
+        "raw_product_name": "EXPANSION JOINT-METALLIC",
+        "list_of_product_ids": "6695,5866,11090,11089,11839,11997,11995,17224,18354,21780,22205,22568,22569,22570,22571,22573,22559,37429,36602,37295,37299",
+        "core_id": 773.0
+      }
+    },
+    {
+      "id": "variant-deea28cc-31c8-5758-80c5-6dd7e2b7b560",
+      "score": 0.8825707,
+      "metadata": {
+        "text": "core_product_name: admixture",
+        "raw_product_name": "CONCRETE ADMIXTURES",
+        "list_of_product_ids": "6378,5549,15526,15527,15945,17466,23827,24160,23891,38570,38571,38572,35649",
+        "core_id": 426.0
+      }
+    },
+    {
+      "id": "variant-30af54ab-8cc5-5bd5-b441-fb4223f3c8a8",
+      "score": 0.88250476,
+      "metadata": {
+        "text": "core_product_name: tube mill",
+        "raw_product_name": "TUBE MILLS",
+        "list_of_product_ids": "233,392,337,323,333",
+        "core_id": 2283.0
+      }
+    },
+    {
+      "id": "variant-4fb30fd1-f740-5dce-ba1c-6f3397e94929",
+      "score": 0.88186014,
+      "metadata": {
+        "text": "core_product_name: product | material: Teak",
+        "raw_product_name": "TEAK",
+        "list_of_product_ids": "199,571,995,428,416",
+        "core_id": 211.0
+      }
+    },
+    {
+      "id": "variant-c184836f-fc8c-5421-96c9-57703770e0df",
+      "score": 0.88163,
+      "metadata": {
+        "text": "core_product_name: thermocouple",
+        "raw_product_name": "THERMOCOUPLES",
+        "list_of_product_ids": "6546,5717,16564,17217,24281,36622",
+        "core_id": 2246.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.8815501,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    },
+    {
+      "id": "variant-5504c024-4b72-5368-8851-9130177d4a4c",
+      "score": 0.8814004,
+      "metadata": {
+        "text": "core_product_name: junction box",
+        "raw_product_name": "JUNCTION BOXES",
+        "list_of_product_ids": "5960,6788,10303,10552,10606,8206,8209,15928,17373,18803,24168,22859,27495,36562,36607,35775,35887,35865,35940,36519,39357",
+        "core_id": 1311.0
+      }
+    },
+    {
+      "id": "variant-9ab89513-d45f-5b41-a6ca-41ece6c44144",
+      "score": 0.8812472,
+      "metadata": {
+        "text": "core_product_name: tile",
+        "raw_product_name": "TILES",
+        "list_of_product_ids": "16686,16685,16749,16748,27035,39313,34417,35274,35320,35331,35335",
+        "core_id": 2.0
+      }
+    },
+    {
+      "id": "variant-bf83fc29-4344-5cdf-ad0a-680397ade823",
+      "score": 0.8805195,
+      "metadata": {
+        "text": "core_product_name: tap",
+        "raw_product_name": "FAUCETS & TAPS",
+        "list_of_product_ids": "1,420,422,905",
+        "core_id": 805.0
+      }
+    },
+    {
+      "id": "variant-b8c4f5e0-8923-57e8-b479-e98457d37dd1",
+      "score": 0.8804373,
+      "metadata": {
+        "text": "core_product_name: unequal tee",
+        "raw_product_name": "UNEQUAL TEE",
+        "list_of_product_ids": "15470,27764,27754,27744,27734,27724,27777",
+        "core_id": 2320.0
+      }
+    },
+    {
+      "id": "variant-6ae87484-c17d-524b-9648-b1c3df821dad",
+      "score": 0.8800987,
+      "metadata": {
+        "text": "core_product_name: expansion joint | material: Rubber",
+        "raw_product_name": "EXPANSION JOINTS (RUBBER)",
+        "list_of_product_ids": "6003,5182,8566,11999,12266,17245,23574,37430,36600",
+        "core_id": 773.0
+      }
+    },
+    {
+      "id": "variant-5a0293ff-dbed-5801-88f0-a1eb7f4d1cad",
+      "score": 0.8800806,
+      "metadata": {
+        "text": "core_product_name: monolithic insulation joint",
+        "raw_product_name": "MONOLOTHICAL INSULATION JOINT",
+        "list_of_product_ids": "1,377,822,418",
+        "core_id": 1500.0
+      }
+    },
+    {
+      "id": "variant-3dd425cf-1bbc-512c-93e2-ce9bb8683978",
+      "score": 0.88000304,
+      "metadata": {
+        "text": "core_product_name: compound gauge",
+        "raw_product_name": "COMPOUND GAUGE",
+        "list_of_product_ids": "16562,16548,16617,16592,16588,27801",
+        "core_id": 412.0
+      }
+    },
+    {
+      "id": "variant-05a84004-6a4f-5ca8-ad5a-2de6290ce45f",
+      "score": 0.88000035,
+      "metadata": {
+        "text": "core_product_name: flexible board | accessories_or_attachments: for expansion joint",
+        "raw_product_name": "FLEXIBLE BOARD FOR EXPANSION JOINT",
+        "list_of_product_ids": "156,691,360,015,668",
+        "core_id": 911.0
+      }
+    },
+    {
+      "id": "variant-e3fc160f-86a8-516c-9218-6f88fcbeec2d",
+      "score": 0.8796906,
+      "metadata": {
+        "text": "core_product_name: unit pak",
+        "raw_product_name": "UNIT PAK",
+        "list_of_product_ids": "951,495,549,797",
+        "core_id": 2322.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8796563,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-c4dd5da8-ce81-5c61-9d83-f5bcb7ada524",
+      "score": 0.8796256,
+      "metadata": {
+        "text": "core_product_name: scrapper tee",
+        "raw_product_name": "SCRAPPER TEES",
+        "list_of_product_ids": "13878,14911,15978,16124,17264,17263,17262,17550,18295,27762,27752,27742,27732,27722,27779,34727,34729,34855",
+        "core_id": 1975.0
+      }
+    },
+    {
+      "id": "variant-a370d0e8-6e3b-5d1b-a880-6031e1eeda21",
+      "score": 0.87950265,
+      "metadata": {
+        "text": "core_product_name: joist",
+        "raw_product_name": "BEAM /JOIST",
+        "list_of_product_ids": "32893,26250,13506,13513,13491,13520,13526,13532,13539,13546,13560,13553,29768,31909,29407,16069,16098,29431,17724,17740,29466,24734,29484,29531,23322,29542,30346,29856,31338,29571,31541,30358,31092,31131,24753,24761,24872,24860,24849,24896,31575,31690,24918,24927,24905,30792,31377,25002,29606,29890,30911,25022,25007,25051,25040,25033,25058,25085,25076,25070,25110,25119,25132,25141,25158,25171,25199,25186,25179,25220,25208,25240,25259,25248,25273,25285,25295,25303,25316,25340,25325,25353,25369,25392,25385,25412,30378,30533,30943,31146,29626,25494,30032,31164,31389,25864,31830,31863,25936,30548,31599,25978,30573,31408,26123,26157,30063,26184,26276,26308,30087,26333,26360,30596,30967,26380,26447,26495,26468,26532,26542,26574,26600,30435,31441,26623,26646,29696,29677,30621,26727,26704,26819,26832,30107,30987,26915,26951,26978,30459,31843,27009,31621,27155,27188,30129,27211,27235,30654,31200,27263,27292,30171,30151,31012,27315,27391,31456,31735,27417,29723,27447,27559,27587,29744,31225,30197,30669,27616,27666,27688,27844,27891,27855,27938,27968,31047,31256,28002,31646,28038,28100,28154,28136,28326,28303,30401,30489,28360,28391,30244,28443,28472,28522,31480,28558,28645,28683,28702,31267,30267,30697,28728,28865,28855,28889,31293,28937,28946,28978,31511,29014,29025,31678,29065,29074,30298,30722,31524,29829,31073,31317,29144,29130,29165,29194,29801,29227,29241,30218,29333,29320,29353,29377,30314,31940,31953,31976,32026,31998,32054,32092,32116,32147,32175,32204,32255,32311,32337,32375,32413,32435,32457,32540,32591,32618,32639,32662,32737,32783,32826,32857,32918,32968,33053,33073,33106,33158,33133,33223,33290,33318,33359,33401,33521,33582,33470,33653,33695,33724,33742,33767,33795,33829,33879,33855,33926,33965,34048,34069,34098,34125,34150,34181,34292,34203,34225,34263,34358,34387,34426,34448,34470,34505,34527,34550,34607,34655,34709,34739,34760,34807,34786,34862,34833,34886,34936,35026,35061,35083,35105,35127,35170",
+        "core_id": 190.0
+      }
+    },
+    {
+      "id": "variant-b3814c6e-4ced-59a6-a3f6-bcef41a0b77d",
+      "score": 0.87947136,
+      "metadata": {
+        "text": "core_product_name: metallic expansion joint | material: Metallic",
+        "raw_product_name": "Metallic Expansion Joint",
+        "list_of_product_ids": "7366,12812,12789,10815,10813,8796,7039",
+        "core_id": 1471.0
+      }
+    },
+    {
+      "id": "variant-255592ac-75b1-5a79-b5d9-4fc71fec7d16",
+      "score": 0.8792265,
+      "metadata": {
+        "text": "core_product_name: metallic expansion joint | material: Metallic",
+        "raw_product_name": "METALLIC EXPANSION JOINT FOR DUCTS",
+        "list_of_product_ids": "13750,22751,22824,22841,22904,23240",
+        "core_id": 1471.0
+      }
+    }
+  ]
+}

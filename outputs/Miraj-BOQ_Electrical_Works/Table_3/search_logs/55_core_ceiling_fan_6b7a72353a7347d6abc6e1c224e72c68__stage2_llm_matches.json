@@ -1,0 +1,63 @@
+{
+  "query": "core_product_name: ceiling fan | size: sweep: 1200 mm",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: ceiling fan",
+        "raw_product_name": "CEILING FANS",
+        "list_of_product_ids": [
+          "14323",
+          "14786",
+          "16553",
+          "17416"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fan",
+        "raw_product_name": "FAN",
+        "list_of_product_ids": [
+          "14325",
+          "19642",
+          "19649",
+          "19692",
+          "20765",
+          "27716",
+          "37513",
+          "37517",
+          "37520",
+          "37525",
+          "37527",
+          "34405",
+          "37500",
+          "37516",
+          "37505"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: fan | material: Aluminum",
+        "raw_product_name": "FANS (ALUMINUM BLADES)",
+        "list_of_product_ids": [
+          "7",
+          "474",
+          "714",
+          "910",
+          "860"
+        ]
+      }
+    }
+  ]
+}

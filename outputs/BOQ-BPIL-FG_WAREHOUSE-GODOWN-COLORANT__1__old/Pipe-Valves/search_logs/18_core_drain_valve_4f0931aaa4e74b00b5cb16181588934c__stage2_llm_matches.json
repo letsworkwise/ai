@@ -1,0 +1,51 @@
+{
+  "query": "core_product_name: drain valve",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: drain valve | type_or_class: 2-way",
+        "raw_product_name": "2-WAY DRAIN VALVES",
+        "list_of_product_ids": [
+          "8604",
+          "14150",
+          "22610",
+          "22890"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: drain",
+        "raw_product_name": "DRAINS",
+        "list_of_product_ids": [
+          "15784",
+          "15853",
+          "15875",
+          "15869"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: closed drain",
+        "raw_product_name": "CLOSED DRAIN CUM FLARE",
+        "list_of_product_ids": [
+          "1",
+          "384",
+          "520",
+          "992"
+        ]
+      }
+    }
+  ]
+}

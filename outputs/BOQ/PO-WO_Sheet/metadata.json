@@ -1,0 +1,14 @@
+{
+  "file_path": "/home/student2/Documents/GitHub/1st_AI_Project_Kothari/boq_extraction_2/pipeline_copy_2/inputs/BOQ.xlsx",
+  "sheet_name": "PO-WO Sheet",
+  "output_folder": "outputs/BOQ/PO-WO_Sheet",
+  "schedule_path": "outputs/BOQ/PO-WO_Sheet/schedule_only.xlsx",
+  "context_md": "",
+  "header_md": "Text:\nSO Line Item Details | Unit | Qty",
+  "schedule_start_idx": 0,
+  "max_col_idx": 3,
+  "tokens_used_ctx": [
+    689,
+    27
+  ]
+}

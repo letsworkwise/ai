@@ -1,0 +1,69 @@
+{
+  "query": "core_product_name: fire bucket | size: quantity per set: 4nos. | feature_or_specifications: included: sand & ms(mild steel) hooks / stand",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire bucket",
+        "raw_product_name": "FIRE BUCKET",
+        "list_of_product_ids": [
+          "19466",
+          "19467",
+          "19465",
+          "19463",
+          "19523",
+          "19530",
+          "19551",
+          "19558"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: fire fighting accessory",
+        "raw_product_name": "FIRE FIGHTING ACCESSORIES",
+        "list_of_product_ids": [
+          "16168",
+          "16173",
+          "16277",
+          "16274",
+          "16273",
+          "16272",
+          "16271",
+          "16266",
+          "21064",
+          "21057",
+          "34088"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: fire fighting equipment",
+        "raw_product_name": "FIRE FIGHTING EQUIPMENT",
+        "list_of_product_ids": [
+          "19962",
+          "21484",
+          "21482",
+          "21480",
+          "24379",
+          "26862",
+          "19964",
+          "37442",
+          "37440",
+          "37441",
+          "37443",
+          "37444",
+          "34995"
+        ]
+      }
+    }
+  ]
+}

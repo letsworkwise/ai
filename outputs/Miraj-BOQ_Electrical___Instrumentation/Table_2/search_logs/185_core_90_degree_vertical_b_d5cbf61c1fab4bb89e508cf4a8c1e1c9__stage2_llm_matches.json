@@ -1,0 +1,72 @@
+{
+  "query": "core_product_name: 90 degree vertical bend (outside) perforated | size: width: 150 mm",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: bend",
+        "raw_product_name": "BENDS",
+        "list_of_product_ids": [
+          "219",
+          "382",
+          "194",
+          "421",
+          "936"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: long radius bend",
+        "raw_product_name": "LONG RADIUS BENDS",
+        "list_of_product_ids": [
+          "6202",
+          "5370",
+          "11212",
+          "19493",
+          "30761",
+          "30763",
+          "30764",
+          "30590",
+          "37861",
+          "37394",
+          "39923",
+          "40028",
+          "40092",
+          "40121"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "special_attributes"
+      ],
+      "match_details": {
+        "text": "core_product_name: bend | special_attributes: 5D (5 times diameter) radius",
+        "raw_product_name": "5D BENDS",
+        "list_of_product_ids": [
+          "14162",
+          "18289",
+          "20009",
+          "20007",
+          "19998",
+          "21405",
+          "23291",
+          "37862",
+          "37395",
+          "40120",
+          "40094"
+        ]
+      }
+    }
+  ]
+}

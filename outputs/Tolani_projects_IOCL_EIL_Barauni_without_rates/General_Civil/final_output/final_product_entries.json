@@ -1,0 +1,423 @@
+{
+  "sheet_name": "General Civil",
+  "boq_context": "Sl. No. | PART NO | ITEM NO | DESCRIPTION | QTY | UOM | RATE | AMOUNT | TPPL Rate | Amount\n649 | 0 | 01GC | GENERAL CIVIL |  |  |  |  |  | \n650 | 0 | 01GC.5 | SITE GRADING & ROCK CUTTING FOR SITE GRADING |  |  |  |  |  | ",
+  "header_rows": "Sl. No. | PART NO | ITEM NO | DESCRIPTION | QTY | UOM | RATE | AMOUNT | TPPL Rate | Amount",
+  "products_entries": [
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "SITE GRADING & ROCK CUTTING FOR SITE GRADING"
+      ],
+      "full_product_description": "Clearing and stripping of the areas earmarked for removing shrubs, grass, bushes, vegetables growth and other objectionable materials, trees upto and inclusive of girth of 30 cms. (girth measured at a height of one metre from ground level) including uprooting of roots, etc. leveling, dressing and consolidating the surface and stacking the serviceable material/ unserviceable material as directed by Engineer-in-Charge including dumping and dressing the same in demarcated areas etc. anywhere within the plant boundary limit and disposal of unserviceable materials outside the plant boundary limit as directed by Engineer-in-Charge.  (Disposal area shall be arranged by Contractor at his own cost. The rate quoted shall include all royalties, right-of-way etc. complete.)",
+      "core_product_name": "clearing and stripping",
+      "acronymed_core_product_name": "",
+      "size": "tree girth: upto and inclusive of 30 cms (measured at a height of one metre from ground level)",
+      "feature_or_specifications": "feature: leveling, dressing, consolidating, stacking, dumping, disposal, uprooting of roots, includes all royalties and right-of-way",
+      "quantity": "0.63",
+      "unit": "ha"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)"
+      ],
+      "full_product_description": "Supplying and laying of stone aggregate of 63mm down to 45mm size for WBM layer Base Course, tough, sound, clean and durable including cost of stone aggregate, all royalties, taxes, handling, transportation to site, unloading the same by the side of road with all leads and lifts, spreading and laying to form water bound macadam in one layer of 75mm compacted thickness to proper grade, camber and level, filling voids with screenings and binding material of plasticity index upto 6%, including cost of supply of screening and binding material, consolidating with power driven road roller, watering, with all leads and lifts etc. complete as per drawings, specifications and directions of Engineer-in-Charge.",
+      "core_product_name": "stone aggregate for wbm layer base course",
+      "acronymed_core_product_name": "",
+      "size": "aggregate size: 63mm down to 45mm, layer thickness: 75mm compacted",
+      "feature_or_specifications": "feature: tough, sound, clean, durable, includes cost of stone aggregate, all royalties, taxes, handling, transportation, spreading, laying, filling voids, consolidating, watering, as per drawings and specifications, plasticity index: upto 6%",
+      "quantity": "5940.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)"
+      ],
+      "full_product_description": "Earthwork in filling with borrow earth for all heights and depths for road embankments, shoulders or any other place as directed to proper levels, slopes, grades and camber with selected earth (having CBR 8%) obtained from approved borrow areas for all leads from Complex Limit including excavation of earth at borrow areas, clearing and stripping at borrow areas (if necessary) loading, unloading, transportation etc., clearing and stripping as per specifications, uprooting of vegetation, roots and disposal of the shrubs, bushes, roots etc., breaking clods, spreading in layers not exceeding 20 cm loose thickness, watering, ramming and compacting with road roller to give at least 97% of laboratory dry density with heavy compaction as per  IS:2720 Part-VIII, providing testing apparatus and testing the degree of consolidation, dressing and leveling, etc. complete including disposal of all unserviceable materials if any beyond the boundary limit for all leads etc. as per drawings, specifications and directions of Engineer-in- Charge. (Borrow areas shall be arranged by Contractor at his own cost. The rate quoted shall include all royalties, right-of-way etc. complete)",
+      "core_product_name": "earthwork in filling with borrow earth",
+      "acronymed_core_product_name": "",
+      "size": "layer thickness: not exceeding 20 cm loose thickness",
+      "feature_or_specifications": "feature: for road embankments, shoulders, selected earth (CBR 8%), includes excavation, clearing, stripping, loading, unloading, transportation, uprooting, breaking clods, watering, ramming, compacting, testing, disposal, as per IS:2720 Part-VIII, 97% laboratory dry density, includes all royalties and right-of-way",
+      "quantity": "500.0",
+      "unit": "cum"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)"
+      ],
+      "full_product_description": "Supplying and laying of stone aggregate of 53mm and down size for GRANULAR SUB- BASE COURSE (conforming to the Grading II of Table 400-1 and physical properties of Table 400-2 of MORTH Specification of Road & Bridge works) tough, sound, clean and durable including cost of stone aggregate, all royalties, taxes, handling, transportation to site, unloading the same by the side of road with all leads and lifts, spreading and laying to form Granular Sub-base layer in layers not exceeding 100mm compacted thickness to proper grade, camber and level, filling voids with screenings and binding the surface with binding material of plasticity index up to 6% including cost of supply of screening and binding material, consolidating with power driven road roller, watering, with all leads and lifts including preparation of camber below first layer etc. complete as per drawings, specifications (MORTH, EIL) and directions of Engineer-in- Charge.",
+      "core_product_name": "stone aggregate for granular sub-base course",
+      "acronymed_core_product_name": "",
+      "size": "aggregate size: 53mm and down, layer thickness: not exceeding 100mm compacted",
+      "feature_or_specifications": "feature: tough, sound, clean, durable, conforms to MORTH Grading II Table 400-1, Table 400-2, includes cost of stone aggregate, all royalties, taxes, handling, transportation, spreading, laying, filling voids, consolidating, watering, preparation of camber, as per MORTH and EIL specifications, plasticity index: up to 6%",
+      "quantity": "150.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "RCC PIPE CULVERTS & ELECTRICAL ROAD CROSSINGS ETC."
+      ],
+      "full_product_description": "Supplying and laying in position RCC pipes with collars conforming to IS:458 for pipe culverts, cable crossings etc. including cutting the pipe if necessary, lowering, laying  in position to proper levels, slopes etc. caulking the joints with spun yarn soaked in neat cement slurry and finishing with cement mortar 1:2 (1 cement : 2 sand) curing etc. all complete as per drawings, specifications and directions of Engineer-in-Charge. For following Class and Internal PIPE DIA (MM) PIPE CLASS   NP3   Internal Pipe dia.   500 mm",
+      "core_product_name": "rcc pipes",
+      "acronymed_core_product_name": "",
+      "size": "internal pipe diameter: 500 mm",
+      "feature_or_specifications": "collar: with collars, standard: IS:458, pipe class: NP3, feature: caulking joints with spun yarn soaked in neat cement slurry, finishing with cement mortar 1:2, curing, for pipe culverts and cable crossings",
+      "quantity": "10.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "RCC PIPE CULVERTS & ELECTRICAL ROAD CROSSINGS ETC."
+      ],
+      "full_product_description": "Supplying and laying in position PVC pipes conforming to IS:4985 Class - I for cable crossings, including cutting the pipe if necessary, lowering, laying in position to proper levels, slopes ,providing proper jointing as per code requirements or manufacturers recommendations, sealing the open ends of pipes with  removable type PVC cap (Sealing cap will be paid separately under relevant items)etc. all complete as per drawings, specifications and directions of Engineer-in-Charge. For following NOMINAL OUTSIDE PIPE DIA (MM) Pipe Class   PVC   Nominal outside pipe dia.   160 mm",
+      "core_product_name": "pvc pipes",
+      "acronymed_core_product_name": "",
+      "size": "nominal outside pipe diameter: 160 mm",
+      "feature_or_specifications": "standard: IS:4985, pipe class: Class - I, feature: for cable crossings, includes proper jointing, sealing open ends with removable type PVC cap",
+      "quantity": "60.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "RCC PIPE CULVERTS & ELECTRICAL ROAD CROSSINGS ETC."
+      ],
+      "full_product_description": "Supplying and fixing in the encasement concrete, cable crossing indicator, made out of 6mm thick MS circular of dia. 150mm welded to 16mm dia. MS Rod of approximately 1.0M length, painted with 2 coats of approved enamel paint over a coat of red oxide primer etc. complete. (All materials in contractor's scope of supply).",
+      "core_product_name": "cable crossing indicator",
+      "acronymed_core_product_name": "",
+      "size": "ms circular thickness: 6mm, ms circular diameter: 150mm, ms rod diameter: 16mm, ms rod length: approximately 1.0M",
+      "feature_or_specifications": "material: ms(mild steel), finish: painted with 2 coats of approved enamel paint over a coat of red oxide primer, feature: welded, all materials in contractor's scope of supply",
+      "quantity": "1.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "RCC PIPE CULVERTS & ELECTRICAL ROAD CROSSINGS ETC."
+      ],
+      "full_product_description": "Supplying and Providing removable type PVC Cap at the open end of pipe all complete etc. as per drawings, standards, specifications and directions of Engineer-in-charge for following nominal outside pipe dia. (mm) Outer dia. of pipe   160 mm",
+      "core_product_name": "pvc cap",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter of pipe: 160 mm",
+      "feature_or_specifications": "feature: removable type, for open end of pipe",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "MISC. CIVIL AND STRUCTURAL WORKS FOR U/G PIPING AND OTHER CIVIL WORKS"
+      ],
+      "full_product_description": "Supplying and fixing in position medium/ heavy duty CI manhole frame with lugs and cover conforming to IS-1726 including breaking of brick masonry or concrete surface to receive frame with lugs and making good the same with CM 1:3 including applying two coats of anticorrosive paint inclusive of all labours and materials etc. complete circular size 500 mm dia. Medium duty of grade MD-10",
+      "core_product_name": "ci manhole frame with lugs and cover",
+      "acronymed_core_product_name": "",
+      "size": "circular size: 500 mm dia.",
+      "feature_or_specifications": "duty: medium/heavy, material: ci(cast iron), standard: IS-1726, grade: MD-10, finish: two coats of anticorrosive paint, includes breaking of brick masonry or concrete surface, making good with CM 1:3",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "MISC. CIVIL AND STRUCTURAL WORKS FOR U/G PIPING AND OTHER CIVIL WORKS"
+      ],
+      "full_product_description": "Supplying, fabricating and fixing in position in RCC or brick masonry walls MS rungs made out of 20mm dia. reinforcement bar of grade Fe500 TMT bar conforming to IS: 1786 .Including laying or welding to keep in proper position etc. complete as per drawings, specifications and instructions of Engineer-in-Charge.",
+      "core_product_name": "ms rungs",
+      "acronymed_core_product_name": "",
+      "size": "reinforcement bar diameter: 20mm",
+      "feature_or_specifications": "material: ms(mild steel), grade: Fe500, type: TMT bar, standard: IS: 1786, feature: for RCC or brick masonry walls, includes laying or welding",
+      "quantity": "55.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "MISC. CIVIL AND STRUCTURAL WORKS FOR U/G PIPING AND OTHER CIVIL WORKS"
+      ],
+      "full_product_description": "Supply of all materials, fabrication and erection in position, funnels, clean outs, plugs, flame arrester in vent pipe, bird mesh in vent pipe etc. including the cost of cutting, bolting/welding, painting with two coats of chlorinated rubber zinc phosphate primer @ 40µ DFT per coat and finish painting consisting of 2 coats of chlorinated rubber paint @ 40µ DFT per coat, etc. complete as per drawings, specifications and direction of Engineer-in-Charge.",
+      "core_product_name": "funnels, clean outs, plugs, flame arrester in vent pipe, bird mesh in vent pipe",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: fabrication and erection, includes cutting, bolting/welding, painting with two coats of chlorinated rubber zinc phosphate primer @ 40µ DFT per coat, finish painting with 2 coats of chlorinated rubber paint @ 40µ DFT per coat",
+      "quantity": "630.0",
+      "unit": "kg"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "FILM LINING WITH CONCRETE LINING FOR EARTHEN RESERVOIR"
+      ],
+      "full_product_description": "Providing 20mm wide x 20mm deep contraction/construction joint in lining for reservoir, channel, etc. including cleaning the joints of all loose materials and filling with approved mastic filler conforming to IS:13143, clearing the joints, applying primer as per IS:5356 clearing the adjoining surface after sealing etc. including construction of PCC sleepers under joints in M20 grade and treatment on top of the sleeper complete as per drawings, specifications and the directions of Engineer- in- Charge. (All material including cement shall be supplied by contractor) for lining depth of 100mm",
+      "core_product_name": "contraction or construction joint in lining",
+      "acronymed_core_product_name": "",
+      "size": "joint width: 20mm, joint depth: 20mm, lining depth: 100mm",
+      "feature_or_specifications": "feature: cleaning, filling with approved mastic filler, standard: IS:13143, applying primer as per IS:5356, construction of PCC sleepers in M20 grade, all material including cement supplied by contractor",
+      "quantity": "2250.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "FILM LINING WITH CONCRETE LINING FOR EARTHEN RESERVOIR"
+      ],
+      "full_product_description": "Providing 20mm wide expansion joints in lining for reservoir, channel, etc. including cleaning the joint of all loose materials and filling with bitumen mix filler to full depth except for 25mm depth at top, filling top portion of 25mm depth with approved hot sealing compound conforming to IS:13143, clearing the joints, applying primer as per IS:5356 clearing of the adjoining surface after sealing etc., including construction of PCC sleepers under joints in M20 grade and treatment on top of the sleeper,  complete as per drawings, specifications and the directions of Engineer-in-Charge. (All material including cement shall be supplied by contractor) for lining depth of 100mm",
+      "core_product_name": "expansion joint in lining",
+      "acronymed_core_product_name": "",
+      "size": "joint width: 20mm, lining depth: 100mm, top portion depth: 25mm",
+      "feature_or_specifications": "feature: cleaning, filling with bitumen mix filler, top portion with approved hot sealing compound, standard: IS:13143, applying primer as per IS:5356, construction of PCC sleepers in M20 grade, all material including cement supplied by contractor",
+      "quantity": "570.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "FILM LINING WITH CONCRETE LINING FOR EARTHEN RESERVOIR"
+      ],
+      "full_product_description": "Supplying and laying film lining with cement concrete lining of M-20 grade with 20mm and down size graded stone aggregates in reservoir, channels, etc. , including preparation of sub-grade, 75MM thick fine sand fill over sub-grade, laying Laminated High Density Polyethylene (HDPE) Woven Fabric (Geo-Membrane) 0.25 mm thick (Type-I), as per IS: 15351, jointing of film as per manufacturers recommendations including providing overlap,   providing 10mm thick 1:6 cement mortar plaster on the film, disposal of surplus earth/ unserviceable material  within a lead of 500M as directed, rolling and testing, laying concrete, leaving pockets, making drains, laying in alternate panels, shuttering the edges, curing, finishing the top surface smooth including complete cost of taking and testing concrete cubes and testing of reservoir/ pond after completion of work, including dewatering of accumulated water from any source and keeping the surface dry for subsequent works etc. complete as per drawings, specifications and directions of Engineer-in-Charge. For lining thickness of 100 mm on horizontal surface (All material including cement supplied by the contractor)",
+      "core_product_name": "film lining with cement concrete lining",
+      "acronymed_core_product_name": "",
+      "size": "lining thickness: 100 mm on horizontal surface, stone aggregate size: 20mm and down, fine sand fill thickness: 75mm, hdpe woven fabric thickness: 0.25 mm",
+      "feature_or_specifications": "concrete grade: M-20, material: hdpe(high density polyethylene) woven fabric (geo-membrane), type: Type-I, standard: IS:15351, cement mortar plaster: 1:6, feature: preparation of sub-grade, jointing of film as per manufacturers recommendations, providing overlap, rolling, testing, curing, finishing, dewatering, all material including cement supplied by contractor",
+      "quantity": "4580.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "MODIFICATION AND EXTRA WORKS ( IF ANY ) Cuting,bevelling,fitup,welding of different sizes of CS piping of all thicknesses in shop ,in position, on ground and at all elevations, transportation of pipes,fittings,flanges etc. from owner's storage point to work site/workshop,making necessary scaffolding,consumables,machinery,tools,tackles,labour and supervision including attending to repairs for completing the work as per instructions of Engineer -in - charge Flame cutting CS piping",
+      "core_product_name": "flame cutting cs(carbon steel) piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: cutting, bevelling, fitup, welding, all thicknesses, in shop, in position, on ground, at all elevations, transportation, scaffolding, consumables, machinery, tools, tackles, labour, supervision, attending to repairs",
+      "quantity": "240.0",
+      "unit": "Inch Dia"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 679 | ITEM NO 01GC.27.1.2 | Hacksaw cutting CS piping",
+      "core_product_name": "hacksaw cutting cs(carbon steel) piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "240.0",
+      "unit": "Inch Dia"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 680 | ITEM NO 01GC.27.1.3 | Beveling CS piping",
+      "core_product_name": "beveling cs(carbon steel) piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "480.0",
+      "unit": "Inch Dia"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 681 | ITEM NO 01GC.27.1.4 | Fit-up and welding CS piping",
+      "core_product_name": "fit-up and welding cs(carbon steel) piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "480.0",
+      "unit": "Inch Dia"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 684 | ITEM NO 01GC.28.1.1 | DP TEST LENGTH (BW&SW)",
+      "core_product_name": "dp test length",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "test type: bw(butt weld) and sw(socket weld)",
+      "quantity": "150.0",
+      "unit": "Inch"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 685 | ITEM NO 01GC.28.1.2 | MAGNETIC PARTICLE TEST",
+      "core_product_name": "magnetic particle test",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "150.0",
+      "unit": "Inch"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 689 | ITEM NO 01GC.30.1.1.1V2 | Nominal Dia.   8 Inch",
+      "core_product_name": "valve",
+      "acronymed_core_product_name": "",
+      "size": "nominal diameter: 8 Inch",
+      "feature_or_specifications": "",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 694 | ITEM NO 01GC.32.2.1.1.1 | NB upto 1.5 inch",
+      "core_product_name": "cs(carbon steel) piping dismantling",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: upto 1.5 inch, thickness: <=10 mm",
+      "feature_or_specifications": "",
+      "quantity": "60.0",
+      "unit": "Inch Mtr"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 695 | ITEM NO 01GC.32.2.1.1.2 | NB 2 inch - 6 inch",
+      "core_product_name": "cs(carbon steel) piping dismantling",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 2 inch - 6 inch, thickness: <=10 mm",
+      "feature_or_specifications": "",
+      "quantity": "460.0",
+      "unit": "Inch Mtr"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 696 | ITEM NO 01GC.32.2.1.1.3 | NB 8 inch - 14 inch",
+      "core_product_name": "cs(carbon steel) piping dismantling",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 8 inch - 14 inch, thickness: <=10 mm",
+      "feature_or_specifications": "",
+      "quantity": "650.0",
+      "unit": "Inch Mtr"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 697 | ITEM NO 01GC.32.2.1.1.4 | NB 16 inch - 24 inch",
+      "core_product_name": "cs(carbon steel) piping dismantling",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 16 inch - 24 inch, thickness: <=10 mm",
+      "feature_or_specifications": "",
+      "quantity": "110.0",
+      "unit": "Inch Mtr"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 699 | ITEM NO 01GC.32.9.1 | Dismantling of WBM / WMM, including supply of all tools and tackles, labours, taking all necessary safety precautions etc., segregating of serviceable / unserviceable material, stacking of serviceable material any where within plant boundary limit and disposal of the unserviceable material anywhere outside the plant boundary etc. all complete for all levels, leads as specified and directed by Engineer-in- Charge. (Disposal areas shall be arranged by the Contractor at his own cost. The rate quoted shall include all royalties, right-of-way etc. complete.).",
+      "core_product_name": "dismantling of wbm(water bound macadam) or wmm(wet mix macadam)",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supply of all tools and tackles, labours, safety precautions, segregation, stacking, disposal, all levels, all leads, as specified and directed, disposal areas by contractor, all royalties, right-of-way",
+      "quantity": "5550.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 704 | ITEM NO 01GC.40.20.1.1.2 | NB 2 inch - 6 inch",
+      "core_product_name": "fabrication of cs(carbon steel) piping (non ibr)",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 2 inch - 6 inch, thickness: <=10 mm",
+      "feature_or_specifications": "",
+      "quantity": "820.0",
+      "unit": "Inch Dia"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 705 | ITEM NO 01GC.40.20.1.1.3 | NB 8 inch - 14 inch",
+      "core_product_name": "fabrication of cs(carbon steel) piping (non ibr)",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 8 inch - 14 inch, thickness: <=10 mm",
+      "feature_or_specifications": "",
+      "quantity": "580.0",
+      "unit": "Inch Dia"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 707 | ITEM NO 01GC.40.20.1.3.2 | NB 2 inch - 6 inch",
+      "core_product_name": "erection of cs(carbon steel) piping (non ibr) for waste water collection system (gravity flow)",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 2 inch - 6 inch, thickness: <=10 mm",
+      "feature_or_specifications": "system: waste water collection (gravity flow), feature: corrosion protection coating of field joints",
+      "quantity": "1560.0",
+      "unit": "Inch Mtr"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 708 | ITEM NO 01GC.40.20.1.3.3 | NB 8 inch - 14 inch",
+      "core_product_name": "erection of cs(carbon steel) piping (non ibr) for waste water collection system (gravity flow)",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 8 inch - 14 inch, thickness: <=10 mm",
+      "feature_or_specifications": "system: waste water collection (gravity flow), feature: corrosion protection coating of field joints",
+      "quantity": "3200.0",
+      "unit": "Inch Mtr"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 710 | ITEM NO 01GC.52.1 | Repairing of the 3LPE coating of the pipe by Coating of pipe and fittings with Liquid epoxy coating (EP) as per DIN EN 10289, Class C, Type 3 including supply of coating material, inspection and testing for the coating as per specification and directions of Engineer-in-Charge.",
+      "core_product_name": "repairing of 3lpe coating of pipe and fittings with liquid epoxy coating",
+      "acronymed_core_product_name": "ep coating",
+      "size": "",
+      "feature_or_specifications": "standard: din en 10289 class c type 3, feature: supply of coating material, feature: inspection and testing for the coating as per specification and directions of engineer-in-charge",
+      "quantity": "1.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GENERAL CIVIL",
+        "Modification Works"
+      ],
+      "full_product_description": "Sl. No. 711 | ITEM NO 01GC.52.2 | Coating of pipe and fittings with Liquid epoxy coating (EP) as per DIN EN 10289, Class C, Type 3 at site including supply of coating material, inspection and testing for the coating as per specification and directions of Engineer-in-Charge",
+      "core_product_name": "coating of pipe and fittings with liquid epoxy coating",
+      "acronymed_core_product_name": "ep coating",
+      "size": "",
+      "feature_or_specifications": "standard: din en 10289 class c type 3, feature: at site, feature: supply of coating material, feature: inspection and testing for the coating as per specification and directions of engineer-in-charge",
+      "quantity": "25.0",
+      "unit": "m²"
+    }
+  ]
+}

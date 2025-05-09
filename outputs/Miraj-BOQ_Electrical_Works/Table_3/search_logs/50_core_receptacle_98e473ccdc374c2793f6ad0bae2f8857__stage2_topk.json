@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: receptacle | size: type: RB",
+  "retrieval_results": [
+    {
+      "id": "variant-63f28b5e-8d64-503f-938b-d41f4b31f2fd",
+      "score": 0.88869137,
+      "metadata": {
+        "text": "core_product_name: industrial receptacle",
+        "raw_product_name": "INDUSTRIAL RECEPTACLE",
+        "list_of_product_ids": "136,891,479,414,813",
+        "core_id": 1235.0
+      }
+    },
+    {
+      "id": "variant-656a3a9a-c5a4-5f97-a8e6-8f208083dcbb",
+      "score": 0.8806958,
+      "metadata": {
+        "text": "core_product_name: welding receptacle",
+        "raw_product_name": "WELDING RECEPTACLES",
+        "list_of_product_ids": "19666,19656,19638,27341",
+        "core_id": 2460.0
+      }
+    },
+    {
+      "id": "variant-30ba7b7c-4349-5ae1-b9ed-81ec0b2af986",
+      "score": 0.8716221,
+      "metadata": {
+        "text": "core_product_name: high voltage capacitor | size_or_capacity: High Voltage",
+        "raw_product_name": "CAPACITORS-HIGH VOLTAGE",
+        "list_of_product_ids": "6427,5597,10503,10567,11340,12080",
+        "core_id": 295.0
+      }
+    },
+    {
+      "id": "variant-31da5c6b-4e12-5e2a-a351-fa1c0833a677",
+      "score": 0.8706169,
+      "metadata": {
+        "text": "core_product_name: reciprocating compressor | type_or_class: Diaphragm",
+        "raw_product_name": "COMPRESSURE-RECIPRO(DIAPHRAGM)",
+        "list_of_product_ids": "5910,6739,10843,26945",
+        "core_id": 415.0
+      }
+    },
+    {
+      "id": "variant-73c03567-8ec4-5d6f-94e6-ba4bf3c55486",
+      "score": 0.87047446,
+      "metadata": {
+        "text": "core_product_name: reciprocating or metering pump | type_or_class: Controlled Volume",
+        "raw_product_name": "RECIPROCATING / METERING PUMPS – CONTROLLED VOLUME",
+        "list_of_product_ids": "7497,7172,16648,18101,38803,38517,38853,38881,39070,39084,39111,39139",
+        "core_id": 1871.0
+      }
+    },
+    {
+      "id": "variant-f2ac1e37-b35c-5116-bd5e-47a63da76831",
+      "score": 0.8680833,
+      "metadata": {
+        "text": "core_product_name: cable | material: Rubber",
+        "raw_product_name": "RUBBER CABLES",
+        "list_of_product_ids": "38749,38955,38670,38589,38533,38534,38615,38698,38775,38723,38643,38834,38866,38908,38934,38971,38998,39026,39060,39094,39124,39172,39225,39253,39295,39345,39381,39410,39440,39456,39491,39546,39573,39611,39635,39663,39697,39737,39807,39835,39906",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-30a59d18-8e3f-5025-b1bf-41fb738c649f",
+      "score": 0.86758876,
+      "metadata": {
+        "text": "core_product_name: rotary pump | type_or_class: Lobe",
+        "raw_product_name": "PUMP-ROTARY(LOBE)",
+        "list_of_product_ids": "5899,6728,26351,26537,37199",
+        "core_id": 1816.0
+      }
+    },
+    {
+      "id": "variant-1abf7ace-96b0-59e6-9e39-c2509942914f",
+      "score": 0.86739194,
+      "metadata": {
+        "text": "core_product_name: level switch | type_or_class: Capacitance Type",
+        "raw_product_name": "LEVEL SWITCHES (CAPACITANCE TYPE)",
+        "list_of_product_ids": "13589,15247,15261,19429",
+        "core_id": 1337.0
+      }
+    },
+    {
+      "id": "variant-5ee013d9-ca8a-51ef-bc06-e88dc7073f3e",
+      "score": 0.8673393,
+      "metadata": {
+        "text": "core_product_name: electrical accessory",
+        "raw_product_name": "ELECTRICAL ACCESSORIES",
+        "list_of_product_ids": "211,632,705,121,165",
+        "core_id": 701.0
+      }
+    },
+    {
+      "id": "variant-b69b044a-2768-56c5-9f67-eff769e1508e",
+      "score": 0.86733633,
+      "metadata": {
+        "text": "core_product_name: level instrument | type_or_class: Capacitance",
+        "raw_product_name": "LEVEL INSTRUMENTS CAPACITANCE",
+        "list_of_product_ids": "1,357,636,109",
+        "core_id": 1335.0
+      }
+    },
+    {
+      "id": "variant-bba82e27-1deb-56d8-ade2-d0100ba76378",
+      "score": 0.86718726,
+      "metadata": {
+        "text": "core_product_name: lubricated valve | type_or_class: Plug",
+        "raw_product_name": "Plug Valve(Lubricated)",
+        "list_of_product_ids": "8696",
+        "core_id": 1834.0
+      }
+    },
+    {
+      "id": "variant-ad611a63-e2e3-5493-a954-d9c9c9c4b937",
+      "score": 0.8669472,
+      "metadata": {
+        "text": "core_product_name: reciprocating compressor | type_or_class: Labyrinth",
+        "raw_product_name": "COMPRESSURE RECIPRO(LABYRINTH)",
+        "list_of_product_ids": "5911,6740,10917,10936,13146",
+        "core_id": 415.0
+      }
+    },
+    {
+      "id": "variant-fa3435b9-0759-5334-b68d-5171248fbf55",
+      "score": 0.8664215,
+      "metadata": {
+        "text": "core_product_name: dense castable | material: Refractory",
+        "raw_product_name": "DENSE REFRACTORY CASTABLE",
+        "list_of_product_ids": "6139,5309,10462,8832,8835,8847,8849,8865,9604,9620,9628,9661,9666,9657,9801,13155,24304,24300,24301,24302",
+        "core_id": 569.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.86641484,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    },
+    {
+      "id": "variant-3b34fa26-6d5b-5da6-a44d-64cc3a911258",
+      "score": 0.86543393,
+      "metadata": {
+        "text": "core_product_name: expansion compensator | material: Rubber",
+        "raw_product_name": "Expansion Compensators (Rubber)",
+        "list_of_product_ids": "7,500,717,518,492",
+        "core_id": 784.0
+      }
+    },
+    {
+      "id": "variant-629646df-66aa-5bcd-891a-94a1d0fb1903",
+      "score": 0.8650964,
+      "metadata": {
+        "text": "core_product_name: rectifier",
+        "raw_product_name": "RECTIFIER",
+        "list_of_product_ids": "20789,20788,21192,27088",
+        "core_id": 1876.0
+      }
+    },
+    {
+      "id": "variant-2ce23efe-d588-56de-9aaa-187d700a65d1",
+      "score": 0.8638842,
+      "metadata": {
+        "text": "core_product_name: column tray | size_or_capacity: High Capacity",
+        "raw_product_name": "COLUMN TRAYS-HIGH CAPACITY",
+        "list_of_product_ids": "6,705,587,612,418",
+        "core_id": 393.0
+      }
+    },
+    {
+      "id": "variant-710db86a-5665-5d2e-b3fd-987c788a21ba",
+      "score": 0.8638657,
+      "metadata": {
+        "text": "core_product_name: gasket | material: Rubber",
+        "raw_product_name": "RUBBER GASKETS",
+        "list_of_product_ids": "8366",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-a3b21856-928b-5ccc-9090-eb9cea2bab58",
+      "score": 0.8637641,
+      "metadata": {
+        "text": "core_product_name: gasket | material: Rubber",
+        "raw_product_name": "GASKET RUBBER",
+        "list_of_product_ids": "17840,17839,18654,22361,37308,37310,37313,37315,37318,37303",
+        "core_id": 758.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.8632481,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-c5aa3f54-c6fa-5d71-b8e0-1a7171d0775d",
+      "score": 0.86232984,
+      "metadata": {
+        "text": "core_product_name: start up drain re-circulation pump | type_or_class: Boiler",
+        "raw_product_name": "Boiler Start Up Drain Re-Circulation Pump",
+        "list_of_product_ids": "13594,14652,18863,22183",
+        "core_id": 269.0
+      }
+    },
+    {
+      "id": "variant-0a2c8e44-9013-5d8c-80c7-198b456cf8f7",
+      "score": 0.86228126,
+      "metadata": {
+        "text": "core_product_name: miniature type hardwire console item",
+        "raw_product_name": "MINIATURE TYPE HARDWIRE CONSOLE ITEMS",
+        "list_of_product_ids": "5935,6764,10918,10920,10919",
+        "core_id": 1480.0
+      }
+    },
+    {
+      "id": "variant-3eeb4429-0c98-5866-91ea-e859fefb8e31",
+      "score": 0.8622166,
+      "metadata": {
+        "text": "core_product_name: rectifier panel",
+        "raw_product_name": "RECTIFIER PANEL",
+        "list_of_product_ids": "171,741,717,527,078",
+        "core_id": 1877.0
+      }
+    },
+    {
+      "id": "variant-6b7311ab-4db0-5323-b993-9b941b27e8de",
+      "score": 0.862097,
+      "metadata": {
+        "text": "core_product_name: resistance temperature detector | accessories_or_attachments: Thermowell",
+        "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR(THERMOWELL)",
+        "list_of_product_ids": "182,131,856,318,203",
+        "core_id": 1901.0
+      }
+    },
+    {
+      "id": "variant-2750c753-642a-560b-982a-ebaf6599dc73",
+      "score": 0.861793,
+      "metadata": {
+        "text": "core_product_name: turbine pump | mounting_or_installation: vertical",
+        "raw_product_name": "TURBINE PUMPS-VERTICAL",
+        "list_of_product_ids": "37783,37784,37785,37794,37795,37796,37797,37809",
+        "core_id": 2294.0
+      }
+    },
+    {
+      "id": "variant-74d303aa-2799-5e8d-8b8a-412a8da4a4f2",
+      "score": 0.86171645,
+      "metadata": {
+        "text": "core_product_name: electrical spare",
+        "raw_product_name": "ELECTRICAL SPARES",
+        "list_of_product_ids": "207,782,077,728,462",
+        "core_id": 710.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.8615947,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    },
+    {
+      "id": "variant-7230ddf6-78f4-56d9-aadd-a874276a64dd",
+      "score": 0.8610677,
+      "metadata": {
+        "text": "core_product_name: sheet | material: Rubber",
+        "raw_product_name": "RUBBER SHEETS",
+        "list_of_product_ids": "19950,19949,19948,21187,25144",
+        "core_id": 132.0
+      }
+    },
+    {
+      "id": "variant-cf48d592-c958-55c5-94cd-da65d30a680d",
+      "score": 0.8610193,
+      "metadata": {
+        "text": "core_product_name: moulding product | material: Rubber",
+        "raw_product_name": "RUBBER PRODUCT(MOULDING)",
+        "list_of_product_ids": "16394,16405,16395,19947,21188,34544",
+        "core_id": 1935.0
+      }
+    },
+    {
+      "id": "variant-75491e27-6159-59e2-8f64-6202dfa3d716",
+      "score": 0.86066407,
+      "metadata": {
+        "text": "core_product_name: refrigerator",
+        "raw_product_name": "REFRIGERATOR",
+        "list_of_product_ids": "208,332,083,127,430",
+        "core_id": 1890.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "query": "core_product_name: ups power distribution panel | acronymed_core_product_name: ups power distribution panel | feature_or_specifications: feature: for powering plc (programmable logic controller) panel, esd (emergency shutdown) system panel, lrcs, oic (operator interface console) & ews (engineering workstation) stations, tfms (tank farm management system) system, ttes, bay instruments, tank farm instruments, cctv (closed circuit television) system, local control panels, fire detection system, fire alarm panels, access control system, pneumatic, header line instruments, tas (terminal automation software) equipments, feature: for uninterrupted operation, feature: as per oem recommendation, feature: suitable mccbs (molded case circuit breakers) for isolation, feature: indication lamps, feature: control wiring, voltmeter, ammeter, feature: minimum 20% spare power points",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting and power distribution panel",
+        "raw_product_name": "Lighting & Power Distribution Panel",
+        "list_of_product_ids": [
+          "18723",
+          "18718",
+          "18735",
+          "18734",
+          "18733",
+          "19012",
+          "18997",
+          "18728",
+          "19000",
+          "38293",
+          "35861",
+          "38156"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: power distribution board | acronymed_core_product_name: pdb (power distribution board)",
+        "raw_product_name": "POWER DISTRIBUTION BOARD (PDB)",
+        "list_of_product_ids": [
+          "13892",
+          "14644",
+          "14778",
+          "14809",
+          "17930",
+          "17917",
+          "17892",
+          "17949",
+          "17939",
+          "18026",
+          "18008",
+          "18049",
+          "20762",
+          "20761",
+          "27494"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13583",
+          "14851",
+          "20281",
+          "22858",
+          "26788",
+          "26787",
+          "26786",
+          "26789",
+          "35773"
+        ]
+      }
+    }
+  ]
+}

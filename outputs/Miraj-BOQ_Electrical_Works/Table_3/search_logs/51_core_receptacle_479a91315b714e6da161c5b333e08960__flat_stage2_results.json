@@ -1,0 +1,435 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.88838625,
+      "text": "core_product_name: industrial receptacle",
+      "core_id": 1235.0,
+      "raw_product_name": "INDUSTRIAL RECEPTACLE",
+      "list_of_product_ids": [
+        "136",
+        "891",
+        "479",
+        "414",
+        "813"
+      ]
+    },
+    {
+      "retrieval_score": 0.88042605,
+      "text": "core_product_name: welding receptacle",
+      "core_id": 2460.0,
+      "raw_product_name": "WELDING RECEPTACLES",
+      "list_of_product_ids": [
+        "19666",
+        "19656",
+        "19638",
+        "27341"
+      ]
+    },
+    {
+      "retrieval_score": 0.8736869,
+      "text": "core_product_name: pipe fitting | material: RCC (Reinforced Cement Concrete)",
+      "core_id": 182.0,
+      "raw_product_name": "RCC Pipe Fittings",
+      "list_of_product_ids": [
+        "13805",
+        "19896",
+        "22897",
+        "23252"
+      ]
+    },
+    {
+      "retrieval_score": 0.87218046,
+      "text": "core_product_name: electrical rack",
+      "core_id": 708.0,
+      "raw_product_name": "ELECTRICAL RACK",
+      "list_of_product_ids": [
+        "36911",
+        "24771",
+        "24772",
+        "33475",
+        "33497",
+        "33498",
+        "33502",
+        "33503",
+        "33682"
+      ]
+    },
+    {
+      "retrieval_score": 0.8719694,
+      "text": "core_product_name: high voltage capacitor | size_or_capacity: High Voltage",
+      "core_id": 295.0,
+      "raw_product_name": "CAPACITORS-HIGH VOLTAGE",
+      "list_of_product_ids": [
+        "6427",
+        "5597",
+        "10503",
+        "10567",
+        "11340",
+        "12080"
+      ]
+    },
+    {
+      "retrieval_score": 0.8717947,
+      "text": "core_product_name: electrical accessory",
+      "core_id": 701.0,
+      "raw_product_name": "ELECTRICAL ACCESSORIES",
+      "list_of_product_ids": [
+        "211",
+        "632",
+        "705",
+        "121",
+        "165"
+      ]
+    },
+    {
+      "retrieval_score": 0.86832535,
+      "text": "core_product_name: rectifier",
+      "core_id": 1876.0,
+      "raw_product_name": "RECTIFIER",
+      "list_of_product_ids": [
+        "20789",
+        "20788",
+        "21192",
+        "27088"
+      ]
+    },
+    {
+      "retrieval_score": 0.8678336,
+      "text": "core_product_name: miniature type hardwire console item",
+      "core_id": 1480.0,
+      "raw_product_name": "MINIATURE TYPE HARDWIRE CONSOLE ITEMS",
+      "list_of_product_ids": [
+        "5935",
+        "6764",
+        "10918",
+        "10920",
+        "10919"
+      ]
+    },
+    {
+      "retrieval_score": 0.86776805,
+      "text": "core_product_name: electrical terminal",
+      "core_id": 712.0,
+      "raw_product_name": "ELECTRICAL TERMINALS",
+      "list_of_product_ids": [
+        "21153",
+        "21157",
+        "28575",
+        "36610"
+      ]
+    },
+    {
+      "retrieval_score": 0.86735314,
+      "text": "core_product_name: level switch | type_or_class: Capacitance Type",
+      "core_id": 1337.0,
+      "raw_product_name": "LEVEL SWITCHES (CAPACITANCE TYPE)",
+      "list_of_product_ids": [
+        "13589",
+        "15247",
+        "15261",
+        "19429"
+      ]
+    },
+    {
+      "retrieval_score": 0.86727977,
+      "text": "core_product_name: level instrument | type_or_class: Capacitance",
+      "core_id": 1335.0,
+      "raw_product_name": "LEVEL INSTRUMENTS CAPACITANCE",
+      "list_of_product_ids": [
+        "1",
+        "357",
+        "636",
+        "109"
+      ]
+    },
+    {
+      "retrieval_score": 0.86662054,
+      "text": "core_product_name: reciprocating or metering pump | type_or_class: Controlled Volume",
+      "core_id": 1871.0,
+      "raw_product_name": "RECIPROCATING / METERING PUMPS – CONTROLLED VOLUME",
+      "list_of_product_ids": [
+        "7497",
+        "7172",
+        "16648",
+        "18101",
+        "38803",
+        "38517",
+        "38853",
+        "38881",
+        "39070",
+        "39084",
+        "39111",
+        "39139"
+      ]
+    },
+    {
+      "retrieval_score": 0.86610556,
+      "text": "core_product_name: reciprocating compressor | type_or_class: Diaphragm",
+      "core_id": 415.0,
+      "raw_product_name": "COMPRESSURE-RECIPRO(DIAPHRAGM)",
+      "list_of_product_ids": [
+        "5910",
+        "6739",
+        "10843",
+        "26945"
+      ]
+    },
+    {
+      "retrieval_score": 0.8655633,
+      "text": "core_product_name: lubricated valve | type_or_class: Plug",
+      "core_id": 1834.0,
+      "raw_product_name": "Plug Valve(Lubricated)",
+      "list_of_product_ids": [
+        "8696"
+      ]
+    },
+    {
+      "retrieval_score": 0.86536777,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    },
+    {
+      "retrieval_score": 0.8646211,
+      "text": "core_product_name: special control valve | type_or_class: Plug",
+      "core_id": 2075.0,
+      "raw_product_name": "SPECIAL CONTROL VALVES (PLUG)",
+      "list_of_product_ids": [
+        "6508",
+        "5679",
+        "8725",
+        "23765",
+        "28782",
+        "35586"
+      ]
+    },
+    {
+      "retrieval_score": 0.86431986,
+      "text": "core_product_name: electrical item",
+      "core_id": 713.0,
+      "raw_product_name": "ELECTRICALS ITEMS",
+      "list_of_product_ids": [
+        "240",
+        "232",
+        "403",
+        "028",
+        "576"
+      ]
+    },
+    {
+      "retrieval_score": 0.8642672,
+      "text": "core_product_name: conventional valve | type_or_class: Check",
+      "core_id": 471.0,
+      "raw_product_name": "CONVENTIONAL VALVES (CHECK)",
+      "list_of_product_ids": [
+        "7289",
+        "7615",
+        "11053",
+        "11056",
+        "11139",
+        "7856",
+        "30846",
+        "30856",
+        "30860",
+        "30863",
+        "30866",
+        "30868"
+      ]
+    },
+    {
+      "retrieval_score": 0.86426103,
+      "text": "core_product_name: conduit accessory",
+      "core_id": 439.0,
+      "raw_product_name": "CONDUIT ACCESSORIES",
+      "list_of_product_ids": [
+        "20550",
+        "20514",
+        "20591",
+        "20632",
+        "20686",
+        "20744"
+      ]
+    },
+    {
+      "retrieval_score": 0.8631367,
+      "text": "core_product_name: dense castable | material: Refractory",
+      "core_id": 569.0,
+      "raw_product_name": "DENSE REFRACTORY CASTABLE",
+      "list_of_product_ids": [
+        "6139",
+        "5309",
+        "10462",
+        "8832",
+        "8835",
+        "8847",
+        "8849",
+        "8865",
+        "9604",
+        "9620",
+        "9628",
+        "9661",
+        "9666",
+        "9657",
+        "9801",
+        "13155",
+        "24304",
+        "24300",
+        "24301",
+        "24302"
+      ]
+    },
+    {
+      "retrieval_score": 0.86294574,
+      "text": "core_product_name: rectifier panel",
+      "core_id": 1877.0,
+      "raw_product_name": "RECTIFIER PANEL",
+      "list_of_product_ids": [
+        "171",
+        "741",
+        "717",
+        "527",
+        "078"
+      ]
+    },
+    {
+      "retrieval_score": 0.86290693,
+      "text": "core_product_name: electrical spare",
+      "core_id": 710.0,
+      "raw_product_name": "ELECTRICAL SPARES",
+      "list_of_product_ids": [
+        "207",
+        "782",
+        "077",
+        "728",
+        "462"
+      ]
+    },
+    {
+      "retrieval_score": 0.8626288,
+      "text": "core_product_name: coupling device",
+      "core_id": 499.0,
+      "raw_product_name": "COUPLING DEVICE",
+      "list_of_product_ids": [
+        "18582",
+        "18579",
+        "18578",
+        "18637"
+      ]
+    },
+    {
+      "retrieval_score": 0.8624756,
+      "text": "core_product_name: special control valve | type_or_class: Segmental",
+      "core_id": 2075.0,
+      "raw_product_name": "SPECIAL CONTROL VALVES (SEGMENTAL)",
+      "list_of_product_ids": [
+        "6507",
+        "5678",
+        "8709",
+        "28773",
+        "28781",
+        "28780",
+        "28779",
+        "28778",
+        "28777",
+        "28776",
+        "28775",
+        "28774",
+        "36265",
+        "36418"
+      ]
+    },
+    {
+      "retrieval_score": 0.8623582,
+      "text": "core_product_name: column tray | size_or_capacity: High Capacity",
+      "core_id": 393.0,
+      "raw_product_name": "COLUMN TRAYS-HIGH CAPACITY",
+      "list_of_product_ids": [
+        "6",
+        "705",
+        "587",
+        "612",
+        "418"
+      ]
+    },
+    {
+      "retrieval_score": 0.86222714,
+      "text": "core_product_name: capacitance type level transmitter | type_or_class: Capacitance Type",
+      "core_id": 297.0,
+      "raw_product_name": "CAPACITANCE TYPE LEVEL TRANSMITTER",
+      "list_of_product_ids": [
+        "1",
+        "374",
+        "336",
+        "110"
+      ]
+    },
+    {
+      "retrieval_score": 0.8622026,
+      "text": "core_product_name: insulator | accessories_or_attachments: hardware accessories",
+      "core_id": 1276.0,
+      "raw_product_name": "INSULATOR & HARDWARE ACCESSORIES",
+      "list_of_product_ids": [
+        "18804",
+        "18813",
+        "18984",
+        "18992",
+        "18979",
+        "18981",
+        "18987",
+        "18980",
+        "18978",
+        "37519",
+        "37688",
+        "37714",
+        "37719"
+      ]
+    },
+    {
+      "retrieval_score": 0.8622026,
+      "text": "core_product_name: insulator | accessories_or_attachments: hardware accessories",
+      "core_id": 1276.0,
+      "raw_product_name": "INSULATOR AND HARDWARE ACCESSORIES",
+      "list_of_product_ids": [
+        "1",
+        "883",
+        "029",
+        "108"
+      ]
+    },
+    {
+      "retrieval_score": 0.8621754,
+      "text": "core_product_name: rectifier diode module",
+      "core_id": 652.0,
+      "raw_product_name": "Diode Module (Rectifier Card)",
+      "list_of_product_ids": [
+        "1",
+        "421",
+        "414",
+        "221"
+      ]
+    },
+    {
+      "retrieval_score": 0.8619435,
+      "text": "core_product_name: inlet feed device | type_or_class: Vane Type",
+      "core_id": 1245.0,
+      "raw_product_name": "INLET FEED DEVICE (VANE TYPE)",
+      "list_of_product_ids": [
+        "6190",
+        "5358",
+        "10851",
+        "8980",
+        "9126",
+        "24348",
+        "24349",
+        "19942"
+      ]
+    }
+  ]
+}

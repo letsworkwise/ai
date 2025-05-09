@@ -1,0 +1,462 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8647728,
+      "text": "core_product_name: associated internals package | acronymed_core_product_name: STRD. PKGS. | special_attributes: Proprietory",
+      "core_id": 2128.0,
+      "raw_product_name": "STRD.PKGS.& ASSOC.INTERNALS(PROPRIETORY)",
+      "list_of_product_ids": [
+        "6702",
+        "5873",
+        "8973",
+        "8984",
+        "9119",
+        "9130",
+        "12415",
+        "12350",
+        "19937"
+      ]
+    },
+    {
+      "retrieval_score": 0.8595603,
+      "text": "core_product_name: supervisory control and data acquisition system | acronymed_core_product_name: SCADA SYSTEMS",
+      "core_id": 1969.0,
+      "raw_product_name": "SCADA SYSTEMS",
+      "list_of_product_ids": [
+        "6625",
+        "5795",
+        "10073",
+        "11202",
+        "10804",
+        "10871",
+        "10873",
+        "11374",
+        "11377",
+        "30049",
+        "29687",
+        "27063",
+        "30480",
+        "38273",
+        "32770",
+        "36655",
+        "36679",
+        "36002",
+        "36005",
+        "36004",
+        "36003",
+        "36001",
+        "36245",
+        "36398",
+        "36523"
+      ]
+    },
+    {
+      "retrieval_score": 0.8483034,
+      "text": "core_product_name: substation automation system | acronymed_core_product_name: sas system",
+      "core_id": 1963.0,
+      "raw_product_name": "SAS System",
+      "list_of_product_ids": [
+        "7566",
+        "7240",
+        "11203",
+        "10872",
+        "10874",
+        "11375"
+      ]
+    },
+    {
+      "retrieval_score": 0.8438229,
+      "text": "core_product_name: valve | acronymed_core_product_name: SCRD (Screwed) valve | connection_details: Screwed",
+      "core_id": 307.0,
+      "raw_product_name": "SCRD VALVE",
+      "list_of_product_ids": [
+        "8883",
+        "8916",
+        "9041",
+        "9042"
+      ]
+    },
+    {
+      "retrieval_score": 0.8408006,
+      "text": "core_product_name: life saving appliance | acronymed_core_product_name: lsa (life saving appliance)",
+      "core_id": 2012.0,
+      "raw_product_name": "SHIP REPAIR- LIFE SAVING APPLIANCE (LSA)",
+      "list_of_product_ids": [
+        "29500",
+        "29291",
+        "29288",
+        "29286"
+      ]
+    },
+    {
+      "retrieval_score": 0.8398523,
+      "text": "core_product_name: system package | acronymed_core_product_name: h v system package",
+      "core_id": 1089.0,
+      "raw_product_name": "H V SYSTEM PACKAGE",
+      "list_of_product_ids": [
+        "6393",
+        "5564",
+        "10763",
+        "24478",
+        "24477",
+        "24476"
+      ]
+    },
+    {
+      "retrieval_score": 0.83966506,
+      "text": "core_product_name: auxiliary column | acronymed_core_product_name: aux. column",
+      "core_id": 147.0,
+      "raw_product_name": "AUX. COLUMN",
+      "list_of_product_ids": [
+        "20899",
+        "20876",
+        "21908",
+        "21952",
+        "22021",
+        "22119",
+        "20853"
+      ]
+    },
+    {
+      "retrieval_score": 0.83881307,
+      "text": "core_product_name: portal | acronymed_core_product_name: ofa portal",
+      "core_id": 1577.0,
+      "raw_product_name": "OFA PORTAL",
+      "list_of_product_ids": [
+        "14021",
+        "14660",
+        "19995",
+        "20124"
+      ]
+    },
+    {
+      "retrieval_score": 0.83877224,
+      "text": "core_product_name: port | acronymed_core_product_name: aa port",
+      "core_id": 21.0,
+      "raw_product_name": "AA PORT",
+      "list_of_product_ids": [
+        "14144",
+        "14661",
+        "19996",
+        "20125"
+      ]
+    },
+    {
+      "retrieval_score": 0.8385987,
+      "text": "core_product_name: computer software",
+      "core_id": 423.0,
+      "raw_product_name": "COMPUTER SOFTWARE",
+      "list_of_product_ids": [
+        "193",
+        "121",
+        "931",
+        "327",
+        "257"
+      ]
+    },
+    {
+      "retrieval_score": 0.83828,
+      "text": "core_product_name: public address system | acronymed_core_product_name: pa system",
+      "core_id": 1620.0,
+      "raw_product_name": "PA SYSTEM",
+      "list_of_product_ids": [
+        "13866",
+        "24268",
+        "21000",
+        "31192",
+        "34985"
+      ]
+    },
+    {
+      "retrieval_score": 0.83812964,
+      "text": "core_product_name: public address equipment | acronymed_core_product_name: pa equipment",
+      "core_id": 1617.0,
+      "raw_product_name": "PA EQUIPMENTS",
+      "list_of_product_ids": [
+        "980",
+        "898",
+        "159",
+        "862"
+      ]
+    },
+    {
+      "retrieval_score": 0.8379535,
+      "text": "core_product_name: digital versatile disc player | acronymed_core_product_name: dvd player",
+      "core_id": 646.0,
+      "raw_product_name": "DVD PLAYER",
+      "list_of_product_ids": [
+        "20436",
+        "20539",
+        "20578",
+        "20640",
+        "20697",
+        "20754"
+      ]
+    },
+    {
+      "retrieval_score": 0.83788663,
+      "text": "core_product_name: fire safe damper valve | acronymed_core_product_name: fsd valve",
+      "core_id": 983.0,
+      "raw_product_name": "FSD VALVE",
+      "list_of_product_ids": [
+        "17285",
+        "17287",
+        "25960",
+        "26144",
+        "35979",
+        "40246"
+      ]
+    },
+    {
+      "retrieval_score": 0.83778834,
+      "text": "core_product_name: programmable logic controller | acronymed_core_product_name: plc subsystem",
+      "core_id": 1794.0,
+      "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER (PLC SUBSYSTEM)",
+      "list_of_product_ids": [
+        "13889",
+        "15107",
+        "20015",
+        "20010",
+        "36350",
+        "37195",
+        "36201"
+      ]
+    },
+    {
+      "retrieval_score": 0.8373509,
+      "text": "core_product_name: closed circuit television | acronymed_core_product_name: cctv",
+      "core_id": 323.0,
+      "raw_product_name": "CLOSED CIRCUIT TV",
+      "list_of_product_ids": [
+        "6592",
+        "5762",
+        "10914",
+        "10889",
+        "11962",
+        "12202",
+        "12473",
+        "16497",
+        "19259",
+        "19269",
+        "30476",
+        "31285",
+        "37696",
+        "37697",
+        "37705",
+        "37709",
+        "37713",
+        "40236",
+        "40237",
+        "40234",
+        "40235",
+        "40257"
+      ]
+    },
+    {
+      "retrieval_score": 0.83627504,
+      "text": "core_product_name: local area network switch | acronymed_core_product_name: LAN SWITCH",
+      "core_id": 1317.0,
+      "raw_product_name": "LAN SWITCH",
+      "list_of_product_ids": [
+        "19153",
+        "19154",
+        "27610",
+        "37883",
+        "37888",
+        "37890"
+      ]
+    },
+    {
+      "retrieval_score": 0.8362508,
+      "text": "core_product_name: outlet fitting | acronymed_core_product_name: o-let",
+      "core_id": 1575.0,
+      "raw_product_name": "O-LETS",
+      "list_of_product_ids": [
+        "6312",
+        "5483",
+        "10359",
+        "10377",
+        "11349",
+        "10679",
+        "12307",
+        "39230",
+        "21806",
+        "32506",
+        "32507",
+        "32508",
+        "32509",
+        "32510",
+        "32511",
+        "32512"
+      ]
+    },
+    {
+      "retrieval_score": 0.83615804,
+      "text": "core_product_name: direct current distribution board | acronymed_core_product_name: dcdb",
+      "core_id": 559.0,
+      "raw_product_name": "DCDB",
+      "list_of_product_ids": [
+        "15387",
+        "13587",
+        "14607",
+        "14780",
+        "19662",
+        "21388",
+        "36160"
+      ]
+    },
+    {
+      "retrieval_score": 0.8357381,
+      "text": "core_product_name: extraction column | acronymed_core_product_name: dso extraction column",
+      "core_id": 636.0,
+      "raw_product_name": "DSO EXTRACTION COLUMN",
+      "list_of_product_ids": [
+        "6",
+        "021",
+        "520",
+        "012",
+        "349"
+      ]
+    },
+    {
+      "retrieval_score": 0.83554614,
+      "text": "core_product_name: log | acronymed_core_product_name: em log",
+      "core_id": 736.0,
+      "raw_product_name": "EM LOG",
+      "list_of_product_ids": [
+        "23412",
+        "23409",
+        "23406",
+        "28226",
+        "28247"
+      ]
+    },
+    {
+      "retrieval_score": 0.8352879,
+      "text": "core_product_name: material | acronymed_core_product_name: ets material",
+      "core_id": 353.0,
+      "raw_product_name": "ETS MATERIAL",
+      "list_of_product_ids": [
+        "139",
+        "563",
+        "828",
+        "136",
+        "667"
+      ]
+    },
+    {
+      "retrieval_score": 0.83511585,
+      "text": "core_product_name: protection and metering substation automation system | acronymed_core_product_name: sas system (substation automation system)",
+      "core_id": 1965.0,
+      "raw_product_name": "SAS System (PROTECTION & METERING)",
+      "list_of_product_ids": [
+        "1",
+        "387",
+        "214",
+        "853"
+      ]
+    },
+    {
+      "retrieval_score": 0.83488643,
+      "text": "core_product_name: motor control center | acronymed_core_product_name: mcc package",
+      "core_id": 1447.0,
+      "raw_product_name": "MCC PACKAGE",
+      "list_of_product_ids": [
+        "23571",
+        "23614",
+        "23565",
+        "23559",
+        "23554",
+        "23549",
+        "23541",
+        "23532"
+      ]
+    },
+    {
+      "retrieval_score": 0.8348537,
+      "text": "core_product_name: primary structure | accessories_or_attachments: Fabrication | accessories_or_attachments: Supply",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE (FABRICATION & SUPPLY)",
+      "list_of_product_ids": [
+        "237",
+        "742",
+        "105",
+        "321",
+        "052"
+      ]
+    },
+    {
+      "retrieval_score": 0.83471024,
+      "text": "core_product_name: solar photovoltaic module | acronymed_core_product_name: spv module",
+      "core_id": 2093.0,
+      "raw_product_name": "SPV Module",
+      "list_of_product_ids": [
+        "18702",
+        "18701",
+        "24267",
+        "22772",
+        "22779",
+        "22775",
+        "22819",
+        "22812",
+        "22800"
+      ]
+    },
+    {
+      "retrieval_score": 0.83443516,
+      "text": "core_product_name: surge protective device | acronymed_core_product_name: SPD (Surge Protective Device)",
+      "core_id": 2194.0,
+      "raw_product_name": "Surge Protective Devices(SPD)",
+      "list_of_product_ids": [
+        "1",
+        "421",
+        "322",
+        "381"
+      ]
+    },
+    {
+      "retrieval_score": 0.83398926,
+      "text": "core_product_name: distributed digital control, monitoring information system | acronymed_core_product_name: ddcmis",
+      "core_id": 605.0,
+      "raw_product_name": "DISTRIBUTED DIGITAL CONTROL,MONITORING INFORMATION SYSTEM(DDCMIS)",
+      "list_of_product_ids": [
+        "1",
+        "361",
+        "820",
+        "927"
+      ]
+    },
+    {
+      "retrieval_score": 0.8339546,
+      "text": "core_product_name: input convertor | acronymed_core_product_name: i/p convertor",
+      "core_id": 1222.0,
+      "raw_product_name": "I/P CONVERTOR",
+      "list_of_product_ids": [
+        "1",
+        "542",
+        "023",
+        "681"
+      ]
+    },
+    {
+      "retrieval_score": 0.83333623,
+      "text": "core_product_name: input/output converter | acronymed_core_product_name: i/p converter",
+      "core_id": 1221.0,
+      "raw_product_name": "I/P CONVERTERS",
+      "list_of_product_ids": [
+        "13678",
+        "14948",
+        "14949",
+        "15078",
+        "15105",
+        "15307",
+        "15315",
+        "17477",
+        "20895",
+        "23179",
+        "36199",
+        "36348"
+      ]
+    }
+  ]
+}

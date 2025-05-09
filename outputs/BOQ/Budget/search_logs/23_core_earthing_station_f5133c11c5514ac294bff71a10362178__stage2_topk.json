@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: earthing station | size: inspection chamber: 400(L)x400(W)x450(D)mm, block work thickness: 150mm, pipe diameter: 100mm ID, pipe thickness: 13mm, excavation: 400(W & L) | feature_or_specifications: inspection chamber cover: CI(cast iron), CI(cast iron) pipe, watering funnel with wire mesh, salt, charcoal, M10 bolts & nuts, universal stainless steel clamps, standard: IS3043(indian standard 3043)-2018, standard: NBC 2016(national building code 2016), feature: back filling around the rod or pipe",
+  "retrieval_results": [
+    {
+      "id": "variant-c877b74e-265d-5bd4-bb90-01b78c749417",
+      "score": 0.8660381,
+      "metadata": {
+        "text": "core_product_name: instrumentation earthing",
+        "raw_product_name": "INSTRUMENTATION EARTHING",
+        "list_of_product_ids": "13420",
+        "core_id": 1263.0
+      }
+    },
+    {
+      "id": "variant-9cab3a59-4c3f-5408-9e1e-d68d6a3b5435",
+      "score": 0.864424,
+      "metadata": {
+        "text": "core_product_name: earthing material",
+        "raw_product_name": "EARTHING MATERIALS",
+        "list_of_product_ids": "378,733,788,037,898",
+        "core_id": 672.0
+      }
+    },
+    {
+      "id": "variant-a4af7647-e144-53ae-8ed6-61b5112af85e",
+      "score": 0.8608869,
+      "metadata": {
+        "text": "core_product_name: cast iron pipe",
+        "raw_product_name": "PIPE CAST IRON",
+        "list_of_product_ids": "7576,7251,11128,11130,7830,14420,14532,15940,16307,23714,39752,39929",
+        "core_id": 1658.0
+      }
+    },
+    {
+      "id": "variant-cb60c123-5699-54ec-a71e-3a8bc891b611",
+      "score": 0.86011,
+      "metadata": {
+        "text": "core_product_name: soldering station",
+        "raw_product_name": "SOLDERING STATION",
+        "list_of_product_ids": "154,291,875,238,511",
+        "core_id": 2064.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.8592533,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-067779a2-122f-53f1-9469-d03371626e54",
+      "score": 0.85716456,
+      "metadata": {
+        "text": "core_product_name: pipe insulation",
+        "raw_product_name": "PIPE INSULATION",
+        "list_of_product_ids": "13921,16092,16635,16633,18103,23466,23458,34600",
+        "core_id": 1662.0
+      }
+    },
+    {
+      "id": "variant-71375a23-b4b8-5f79-9289-52ed93bee593",
+      "score": 0.8563953,
+      "metadata": {
+        "text": "core_product_name: fitting | material: Cast Iron (CI)",
+        "raw_product_name": "FITTINGS -CAST IRON (CI)",
+        "list_of_product_ids": "7618,7292,7881,15941,16290,16308,34586,35732,35733",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-1021c327-1f23-56c6-a5b2-2af09e1e62e1",
+      "score": 0.8560846,
+      "metadata": {
+        "text": "core_product_name: instrument tubing",
+        "raw_product_name": "INSTRUMENT TUBING",
+        "list_of_product_ids": "6476,5647,10324,10217,10680,10682,10685,12053,12684,12686,18270,18269,21301,37132",
+        "core_id": 1260.0
+      }
+    },
+    {
+      "id": "variant-7cfebded-b78b-5dff-b574-85a8c89bc044",
+      "score": 0.8551796,
+      "metadata": {
+        "text": "core_product_name: pipe alloy cast iron",
+        "raw_product_name": "PIPE ALLOY CAST IRON",
+        "list_of_product_ids": "7609,7284,7835,7837,33434",
+        "core_id": 1657.0
+      }
+    },
+    {
+      "id": "variant-63f28b5e-8d64-503f-938b-d41f4b31f2fd",
+      "score": 0.8551038,
+      "metadata": {
+        "text": "core_product_name: industrial receptacle",
+        "raw_product_name": "INDUSTRIAL RECEPTACLE",
+        "list_of_product_ids": "136,891,479,414,813",
+        "core_id": 1235.0
+      }
+    },
+    {
+      "id": "variant-050f3a46-318d-52e8-96bb-a1996b61b938",
+      "score": 0.85501575,
+      "metadata": {
+        "text": "core_product_name: cast iron centrifugal pipe",
+        "raw_product_name": "CAST IRON CENTRIFUGAL PIPE",
+        "list_of_product_ids": "144,001,457,435,656",
+        "core_id": 304.0
+      }
+    },
+    {
+      "id": "variant-7e2d6aa3-d1a8-5e98-bd8c-ce8cbb63daf6",
+      "score": 0.85432583,
+      "metadata": {
+        "text": "core_product_name: casting | material: Cast Iron",
+        "raw_product_name": "CASTING -CAST IRON",
+        "list_of_product_ids": "21885,21883,24612,39753,39842,39868,39927,40032",
+        "core_id": 91.0
+      }
+    },
+    {
+      "id": "variant-dccb1b8c-ce03-5353-8d7f-1894add2f041",
+      "score": 0.8536912,
+      "metadata": {
+        "text": "core_product_name: equipment insulation",
+        "raw_product_name": "EQUIPMENT INSULATION WORKS",
+        "list_of_product_ids": "358,293,583,235,880",
+        "core_id": 761.0
+      }
+    },
+    {
+      "id": "variant-99814b7f-a5a9-53b4-9918-db65f44c3ba0",
+      "score": 0.85368586,
+      "metadata": {
+        "text": "core_product_name: alloy cast iron pipe",
+        "raw_product_name": "ALLOY CAST IRON PIPE",
+        "list_of_product_ids": "9561,9521,14413,14415,14417,14424",
+        "core_id": 86.0
+      }
+    },
+    {
+      "id": "variant-60ac988e-1ca9-5dd1-b253-73e3c9d8f94b",
+      "score": 0.85367364,
+      "metadata": {
+        "text": "core_product_name: precast manhole chamber",
+        "raw_product_name": "PRECAST MANHOLE CHAMBERS",
+        "list_of_product_ids": "157,831,585,015,866",
+        "core_id": 1758.0
+      }
+    },
+    {
+      "id": "variant-ba3d7620-8f6f-5c5a-bdc1-21d5c6b75b6f",
+      "score": 0.8536324,
+      "metadata": {
+        "text": "core_product_name: insulation material",
+        "raw_product_name": "INSULATION MATERIAL",
+        "list_of_product_ids": "10251,10256,10261,10266,10273,10278,10281,7088,7415,10172,10221,10226,10230,10234,10240,10245,11862,13008,38431,33383",
+        "core_id": 1274.0
+      }
+    },
+    {
+      "id": "variant-60cc1389-d2d7-5796-b91e-9be0cfc16c55",
+      "score": 0.8527706,
+      "metadata": {
+        "text": "core_product_name: instrumentation fitting",
+        "raw_product_name": "INSTRUMENTATION FITTINGS",
+        "list_of_product_ids": "14372,17508,17507,17506,17505,17504,17501,17500,17496,17958,17960",
+        "core_id": 1264.0
+      }
+    },
+    {
+      "id": "variant-d3ae732e-341e-59ff-8cf0-ba6aa27af8a7",
+      "score": 0.85267866,
+      "metadata": {
+        "text": "core_product_name: electrical measuring instrument",
+        "raw_product_name": "ELECTRICAL MEASURING INSTRUMENTS",
+        "list_of_product_ids": "24296,20768,20767,24283",
+        "core_id": 709.0
+      }
+    },
+    {
+      "id": "variant-b08f61d2-026c-567b-80fb-92881d8ff8f7",
+      "score": 0.8525063,
+      "metadata": {
+        "text": "core_product_name: boiler structure",
+        "raw_product_name": "BOILER STRUCTURES",
+        "list_of_product_ids": "22984,22978,22977,23378",
+        "core_id": 224.0
+      }
+    },
+    {
+      "id": "variant-95725655-b9d5-5abd-b826-0ad218cf768a",
+      "score": 0.85248977,
+      "metadata": {
+        "text": "core_product_name: instrument panel",
+        "raw_product_name": "INSTRUMENT PANEL",
+        "list_of_product_ids": "13720,14806,14814,14824,21097,22773,36101",
+        "core_id": 1256.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.85215664,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-fa9f8ed7-2f4d-56d8-8db2-ddfc1250d2ed",
+      "score": 0.85149217,
+      "metadata": {
+        "text": "core_product_name: insulation",
+        "raw_product_name": "INSULATION WORK",
+        "list_of_product_ids": "7089,7416,11863,19372,39269,39319,39323,39417",
+        "core_id": 404.0
+      }
+    },
+    {
+      "id": "variant-5c0ed834-f6a7-520f-bb06-2d5857ac4b23",
+      "score": 0.85140055,
+      "metadata": {
+        "text": "core_product_name: access chamber",
+        "raw_product_name": "ACCESS CHAMBER",
+        "list_of_product_ids": "158,151,585,815,880",
+        "core_id": 26.0
+      }
+    },
+    {
+      "id": "variant-d3918fb3-1dcf-5330-9bbe-6452020c252d",
+      "score": 0.8512909,
+      "metadata": {
+        "text": "core_product_name: plumbing fitting and fixture",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+        "list_of_product_ids": "6364,5535,7874,12489,12648,12649,34680,34681",
+        "core_id": 1961.0
+      }
+    },
+    {
+      "id": "variant-bc08e481-a9ae-551e-9e13-ace49d85e974",
+      "score": 0.85127896,
+      "metadata": {
+        "text": "core_product_name: measurement",
+        "raw_product_name": "VIBRATION MEASUREMENT",
+        "list_of_product_ids": "242,652,426,624,269",
+        "core_id": 2401.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.85121566,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-c5db7b1e-e157-5769-bf42-abcaf65a88ce",
+      "score": 0.8511776,
+      "metadata": {
+        "text": "core_product_name: insulation",
+        "raw_product_name": "COMPARTMENTS INSULATION",
+        "list_of_product_ids": "23464,23467,23465,28660",
+        "core_id": 404.0
+      }
+    },
+    {
+      "id": "variant-8b17e0b9-66f6-5d0e-86c3-90233954cdce",
+      "score": 0.8510901,
+      "metadata": {
+        "text": "core_product_name: pipe fitting",
+        "raw_product_name": "PIPE FITTINGS",
+        "list_of_product_ids": "22332,22331,22330,23352,23353,24583,36871,30825,36882,37027,28815,37304,36590,33279,33280,33281,37015,37157,36862,35736,35737,35738,35739,35740,35741,35742,36885,36524",
+        "core_id": 182.0
+      }
+    },
+    {
+      "id": "variant-656a3a9a-c5a4-5f97-a8e6-8f208083dcbb",
+      "score": 0.85100126,
+      "metadata": {
+        "text": "core_product_name: welding receptacle",
+        "raw_product_name": "WELDING RECEPTACLES",
+        "list_of_product_ids": "19666,19656,19638,27341",
+        "core_id": 2460.0
+      }
+    },
+    {
+      "id": "variant-818e7d99-2e76-50e3-ae9d-2d7e5a8b0eb1",
+      "score": 0.85089797,
+      "metadata": {
+        "text": "core_product_name: insulating refractory castable",
+        "raw_product_name": "INSULATING REFRACTORY CASTABLE",
+        "list_of_product_ids": "6140,5310,10463,8833,8836,8850,8866,9621,9629,9662,9667,9658,9802,13156,24310",
+        "core_id": 1271.0
+      }
+    }
+  ]
+}

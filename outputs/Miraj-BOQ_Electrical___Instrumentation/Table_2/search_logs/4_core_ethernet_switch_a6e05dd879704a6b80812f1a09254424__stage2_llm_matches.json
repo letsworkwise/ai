@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: ethernet switch | size: number of ports: 24 | feature_or_specifications: feature: redundant, feature: managed, feature: l2, feature: 10/100/1000 mbps, feature: for connecting led display, feature: 20% spare ports",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: local area network switch | acronymed_core_product_name: LAN SWITCH",
+        "raw_product_name": "LAN SWITCH",
+        "list_of_product_ids": [
+          "19153",
+          "19154",
+          "27610",
+          "37883",
+          "37888",
+          "37890"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: network switch",
+        "raw_product_name": "NETWORK SWITCHES",
+        "list_of_product_ids": [
+          "5945",
+          "6774",
+          "7942",
+          "7941",
+          "11855"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: modular switch",
+        "raw_product_name": "MODULAR SWITCH",
+        "list_of_product_ids": [
+          "756",
+          "072",
+          "347",
+          "934"
+        ]
+      }
+    }
+  ]
+}

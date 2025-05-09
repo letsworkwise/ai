@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: cable route marker",
+  "retrieval_results": [
+    {
+      "id": "variant-a88868c3-e02b-556c-afb5-f9319567fc58",
+      "score": 0.88085866,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLES",
+        "list_of_product_ids": "15455,13721,24275,15161,16241,19098,23820,23814,21319,19315,23819,23822,24273,23829,20141,23831,24058,23836,23909,23839,23828,24685,24726,24844,24955,31590,31591,26436,26438,31740,33330",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-7f090a1a-b828-5a18-86a5-0ef23d51283a",
+      "score": 0.8807185,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLE STOCKIST/TRADERS",
+        "list_of_product_ids": "2,467,924,680",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-700fd141-780c-57aa-8e1f-36a01481b5bb",
+      "score": 0.8782016,
+      "metadata": {
+        "text": "core_product_name: electronic marker",
+        "raw_product_name": "ELECTRONIC MARKER",
+        "list_of_product_ids": "13904",
+        "core_id": 727.0
+      }
+    },
+    {
+      "id": "variant-035e5d74-4fc0-5854-ace0-4826f9b36c25",
+      "score": 0.87558764,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+        "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+        "list_of_product_ids": "19885,19880,24078,23930,27348",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-8788ef44-6564-50af-bfce-061ba690a1fd",
+      "score": 0.8735812,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | type_or_class: Alarm",
+        "raw_product_name": "INSTRUMENTATION CABLES (ALARM)",
+        "list_of_product_ids": "13722,14713,14727,14734,14741,14751,14772,14832,15157,15183,15167,15833,20043,24059,23910,38757,38842,38598,38624,38706,38731,38652,38783,38874,38916,38942,38678,38979,39006,39034,39049,39102,39132,39180,39208,39261,39282,39328,39364,39393,39423,39474,39529,39556,39594,39618,39646,39680,39720,39790,39818,39889",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-eb27b5f9-bf8c-5a76-a3bd-a37a256c7a30",
+      "score": 0.87309045,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | type_or_class: Signal",
+        "raw_product_name": "INSTRUMENTATION CABLES (SIGNAL)",
+        "list_of_product_ids": "13724,14728,14735,14742,14765,14773,14833,15158,15184,15168,15835,19884,20048,24061,23912,38599,38758,38679,38625,38707,38653,38784,38843,38875,38917,38943,38732,38980,39007,39035,39050,39103,39133,39181,39209,39262,39283,39329,39365,39394,39424,39475,39530,39557,39595,39619,39647,39681,39721,39791,39819,39890",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-5199ab2c-72e1-55de-929a-5ccc5de62bfd",
+      "score": 0.8729571,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | type_or_class: Control",
+        "raw_product_name": "INSTRUMENTATION CABLES (CONTROL)",
+        "list_of_product_ids": "13723,14729,14736,14743,14766,14774,14834,15159,15185,15169,15834,19883,24060,23911,20049,38759,38600,38680,38626,38708,38654,38733,38785,38844,38876,38918,38944,38981,39008,39036,39051,39104,39134,39182,39210,39263,39284,39330,39366,39395,39425,39476,39531,39558,39596,39620,39648,39682,39722,39792,39820,39891",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-323bf0e7-9d8f-5ea5-9cad-eb58b0ac6448",
+      "score": 0.8702654,
+      "metadata": {
+        "text": "core_product_name: special cable",
+        "raw_product_name": "SPECIAL CABLES",
+        "list_of_product_ids": "13989,14840,20102,20070,24071,23923",
+        "core_id": 2074.0
+      }
+    },
+    {
+      "id": "variant-be5a644e-c1be-5f61-b865-672cf25b939f",
+      "score": 0.8693292,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | type_or_class: Instrumentation",
+        "raw_product_name": "INSTRUMENTATION CABLES",
+        "list_of_product_ids": "38831,38746,38638,38667,38525,38526,38584,38610,38695,38772,38720,38863,38905,38931,38952,38968,38995,39023,39057,39091,39121,39169,39222,39250,39292,39342,39378,39407,39437,39453,39488,39543,39570,39608,39660,39632,39694,39734,39804,39832,39903",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-2f3d4af2-7b00-59f5-b626-fa655b836441",
+      "score": 0.8687993,
+      "metadata": {
+        "text": "core_product_name: signal cable | type_or_class: Signal",
+        "raw_product_name": "SIGNAL CABLES",
+        "list_of_product_ids": "6479,5650,11733,9365,9389,9394,9426,9455,9180,9182,9184,9185,9225,9226,9183,9227,9237,9358,11744,12116,13293,17787,24031,23867,36638,38756,38597,38623,38705,38651,38730,38782,38873,38841,38915,38941,38677,38978,39005,39033,39069,39101,39131,39179,39218,39260,39302,39338,39374,39403,39433,39484,39539,39566,39604,39628,39656,39690,39730,39800,39828,39899,40318,40322,40333,40334",
+        "core_id": 826.0
+      }
+    },
+    {
+      "id": "variant-fd13ccfd-2158-5657-967f-7707e9b442e3",
+      "score": 0.8686198,
+      "metadata": {
+        "text": "core_product_name: commercial cable",
+        "raw_product_name": "COMMERCIAL CABLE",
+        "list_of_product_ids": "20779,20808,20806,21176,21175,27361",
+        "core_id": 400.0
+      }
+    },
+    {
+      "id": "variant-c89cc3fc-3f9d-59f3-a746-d6e464ff68e9",
+      "score": 0.8681754,
+      "metadata": {
+        "text": "core_product_name: cable trench",
+        "raw_product_name": "CABLE TRENCHES",
+        "list_of_product_ids": "15786,15854,15876,15870,24073,23925",
+        "core_id": 285.0
+      }
+    },
+    {
+      "id": "variant-272261cc-0ac7-5e62-bdc4-b8b3ba555a0a",
+      "score": 0.86796796,
+      "metadata": {
+        "text": "core_product_name: power cable",
+        "raw_product_name": "POWER CABLE",
+        "list_of_product_ids": "13440,14645,15813,29442,29447,29448,24045,23896,36583,36611,38139",
+        "core_id": 3.0
+      }
+    },
+    {
+      "id": "variant-8dcd2249-d82a-5cdd-9f90-9b99266c6532",
+      "score": 0.8675978,
+      "metadata": {
+        "text": "core_product_name: communication cable | type_or_class: Communication",
+        "raw_product_name": "COMMUNICATION CABLES",
+        "list_of_product_ids": "13928,14726,14769,14836,15182,15180,15332,19318,19184,20041,20093,24068,22823,23920,38661,38857,38580,38606,38766,36639,38634,38825,38899,38925,38689,38714,38740,38962,38989,39017,39046,39085,39115,39160,39205,39244,39279,39325,39361,39390,39420,39471,39526,39553,39591,39615,39643,39677,39717,39787,39815,39886",
+        "core_id": 287.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.86729264,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-dc9bd585-6e63-5149-b6ce-8c3a23715608",
+      "score": 0.8671736,
+      "metadata": {
+        "text": "core_product_name: control cable | type_or_class: Control",
+        "raw_product_name": "CABLES:CONTROL",
+        "list_of_product_ids": "10003,10018,10247,14646,36569,24046,23897",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-284f9d05-aaa4-5e4a-8ceb-e477294a9150",
+      "score": 0.8670764,
+      "metadata": {
+        "text": "core_product_name: instrument cable | type_or_class: Instrument",
+        "raw_product_name": "INSTRUMENT CABLES",
+        "list_of_product_ids": "13423,14837,15806,18600,18599,18602,18601,18604,18603,20099,20189,24047,23898,38138",
+        "core_id": 1253.0
+      }
+    },
+    {
+      "id": "variant-d6171005-2a99-53db-a388-670f27dc51ec",
+      "score": 0.86695623,
+      "metadata": {
+        "text": "core_product_name: control cable | type_or_class: Control",
+        "raw_product_name": "CONTROL CABLE",
+        "list_of_product_ids": "14006,15171,15812,15972,36570,20132",
+        "core_id": 4.0
+      }
+    },
+    {
+      "id": "variant-1b38c2cd-48ae-5642-814d-205a8917dd9f",
+      "score": 0.8668022,
+      "metadata": {
+        "text": "core_product_name: cable lug",
+        "raw_product_name": "CABLE LUG",
+        "list_of_product_ids": "2,064,720,116",
+        "core_id": 280.0
+      }
+    },
+    {
+      "id": "variant-559c3a2e-c5b7-59ae-a285-f76553e6dc59",
+      "score": 0.86666864,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | type_or_class: Paired",
+        "raw_product_name": "INSTRUMENTATION CABLES (PAIRED)",
+        "list_of_product_ids": "19886,19882,24079,23913,27347",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-7e1aa705-6ce6-5c4a-a6c2-4d65697224b6",
+      "score": 0.8665089,
+      "metadata": {
+        "text": "core_product_name: cable tie",
+        "raw_product_name": "CABLE TIES",
+        "list_of_product_ids": "24081,21169,21168,23932,27351",
+        "core_id": 284.0
+      }
+    },
+    {
+      "id": "variant-d4488e74-7ba6-52a3-b14c-753ad5ee81b4",
+      "score": 0.86649597,
+      "metadata": {
+        "text": "core_product_name: signal cable | type_or_class: Field Bus (Fieldbus)",
+        "raw_product_name": "FIELD BUS SIGNAL CABLES",
+        "list_of_product_ids": "6481,5652,23869,24033,26910,26909,26908,26907,26906,26905,26904",
+        "core_id": 826.0
+      }
+    },
+    {
+      "id": "variant-78d4f458-5f1c-5e98-ae99-653602ddc2c8",
+      "score": 0.86618465,
+      "metadata": {
+        "text": "core_product_name: cable tray",
+        "raw_product_name": "CABLE TRAY",
+        "list_of_product_ids": "7297,7345,10639,10642,7895,7896,16219,18875,18921,19965,19975,24240,21182,21180,22148,26429",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-132bc33e-1820-578a-b8b2-93a4a87caf3c",
+      "score": 0.8645937,
+      "metadata": {
+        "text": "core_product_name: cable hanger | mounting_or_installation: hanger",
+        "raw_product_name": "CABLE HANGER",
+        "list_of_product_ids": "19960,19959,19974,24080,21181,21179,23931,27354",
+        "core_id": 281.0
+      }
+    },
+    {
+      "id": "variant-b722d3a4-0ea7-52cf-9586-094ccbee23e0",
+      "score": 0.8638174,
+      "metadata": {
+        "text": "core_product_name: screened cable | special_attributes: Screened cable",
+        "raw_product_name": "SCREENED CABLES",
+        "list_of_product_ids": "13881,14838,15808,20059,20100,24067,23919",
+        "core_id": 1976.0
+      }
+    },
+    {
+      "id": "variant-c494559f-6933-56e2-adde-0523363c2f5c",
+      "score": 0.8633657,
+      "metadata": {
+        "text": "core_product_name: router",
+        "raw_product_name": "ROUTERS",
+        "list_of_product_ids": "1,386,015,301",
+        "core_id": 1930.0
+      }
+    },
+    {
+      "id": "variant-c4a9e024-2e88-5401-a87a-3e881e1c0e22",
+      "score": 0.8629885,
+      "metadata": {
+        "text": "core_product_name: paired cable | type_or_class: Fire Alarm | type_or_class: Communication | type_or_class: Control",
+        "raw_product_name": "CABLES-FIRE ALARM, COMMUNICATION AND CONTROL PAIRED",
+        "list_of_product_ids": "8998,8993,9371,9194,9200,9204,9207,9238,14647,19040,24042,23893,38754,38620,38839,38594,38703,38780,38648,38728,38871,38913,38939,38675,38976,39003,39031,39099,39067,39129,39177,39216,39258,39300,39336,39372,39401,39431,39482,39537,39564,39602,39626,39654,39688,39728,39798,39826,39897",
+        "core_id": 290.0
+      }
+    },
+    {
+      "id": "variant-2f824904-7a85-5dc5-b4d5-cb5597db0ca7",
+      "score": 0.8629644,
+      "metadata": {
+        "text": "core_product_name: indicating meter",
+        "raw_product_name": "INDICATING METERS",
+        "list_of_product_ids": "13682,14947,19149,19123,19142",
+        "core_id": 1230.0
+      }
+    },
+    {
+      "id": "variant-7e1f89f5-a582-5ff8-a6c1-b82b36bce769",
+      "score": 0.86270124,
+      "metadata": {
+        "text": "core_product_name: optical fibre cable | accessories_or_attachments: associated item",
+        "raw_product_name": "OPTICAL FIBRE CABLE & ASSOC.ITEM",
+        "list_of_product_ids": "6480,5651,10911,11309,11731,11946,19181,17780,19112,19562,23868,24032,26902,26901,19151,34333",
+        "core_id": 1597.0
+      }
+    },
+    {
+      "id": "variant-b282183e-bc8e-5a78-bf84-96bc3fea7930",
+      "score": 0.8626889,
+      "metadata": {
+        "text": "core_product_name: cable gland",
+        "raw_product_name": "CABLE GLANDS",
+        "list_of_product_ids": "5961,6789,8221,8217,10553,10605,8222,8223,12107,15811,15929,16012,16032,16026,17577,22860,26078,26074,26071,36606,33509,33510,35776,35866,39358",
+        "core_id": 278.0
+      }
+    }
+  ]
+}

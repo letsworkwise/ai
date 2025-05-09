@@ -1,0 +1,59 @@
+{
+  "query": "core_product_name: shock treatment charts | feature_or_specifications: feature: complete with frame and glass",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: sight glass",
+        "raw_product_name": "SIGHT GLASSES",
+        "list_of_product_ids": [
+          "6280",
+          "5450",
+          "10295",
+          "10549",
+          "10582",
+          "10668",
+          "12669",
+          "28239",
+          "36774",
+          "35605"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: gauge | material: Glass",
+        "raw_product_name": "GAUGE GIASS",
+        "list_of_product_ids": [
+          "164",
+          "191",
+          "652",
+          "834",
+          "576"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: lining | material: Glass",
+        "raw_product_name": "LINING (GLASS)",
+        "list_of_product_ids": [
+          "6",
+          "165",
+          "533",
+          "519",
+          "742"
+        ]
+      }
+    }
+  ]
+}

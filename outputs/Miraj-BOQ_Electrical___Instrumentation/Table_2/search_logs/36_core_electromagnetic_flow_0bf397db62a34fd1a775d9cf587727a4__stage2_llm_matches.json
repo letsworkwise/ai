@@ -1,0 +1,76 @@
+{
+  "query": "core_product_name: electromagnetic flow meter | size: range: 0~50 m3/hr, water line: 100mm",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: magnetic flow meter",
+        "raw_product_name": "MAGNETIC FLOW METERS",
+        "list_of_product_ids": [
+          "5741",
+          "6571",
+          "11580",
+          "11586",
+          "11691",
+          "10064",
+          "11682",
+          "11808",
+          "10094",
+          "10124",
+          "10108",
+          "10571",
+          "11707",
+          "11872",
+          "12210",
+          "13112",
+          "13385",
+          "13396",
+          "18228",
+          "18264",
+          "18885",
+          "18931",
+          "32952",
+          "36224",
+          "36376"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: flow meter",
+        "raw_product_name": "FLOW METER",
+        "list_of_product_ids": [
+          "9516",
+          "9556",
+          "20013",
+          "20023",
+          "20018",
+          "36586"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: flow instrument | type_or_class: Flow (F)",
+        "raw_product_name": "Flow (F) Instruments",
+        "list_of_product_ids": [
+          "597",
+          "167",
+          "996",
+          "804"
+        ]
+      }
+    }
+  ]
+}

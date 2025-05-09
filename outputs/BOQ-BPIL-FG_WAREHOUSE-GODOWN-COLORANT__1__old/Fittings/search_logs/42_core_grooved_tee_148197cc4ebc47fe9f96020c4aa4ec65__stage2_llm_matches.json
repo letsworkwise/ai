@@ -1,0 +1,76 @@
+{
+  "query": "core_product_name: grooved tee | size: nominal bore: 40 x 25",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: flow tee | material: CS (Carbon Steel) | operating_conditions: Subsea",
+        "raw_product_name": "FLOW TEE CS - SUBSEA",
+        "list_of_product_ids": [
+          "19419",
+          "27765",
+          "27745",
+          "27735",
+          "27725",
+          "27776",
+          "27783",
+          "27755"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: flow tee",
+        "raw_product_name": "FLOW TEE",
+        "list_of_product_ids": [
+          "5371",
+          "6067",
+          "11152",
+          "11151",
+          "10737",
+          "11283",
+          "10560",
+          "12908",
+          "15980",
+          "17555",
+          "27536",
+          "27759",
+          "27749",
+          "27739",
+          "27729",
+          "27719",
+          "27782",
+          "36526"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: split tee",
+        "raw_product_name": "SPLIT TEE",
+        "list_of_product_ids": [
+          "14008",
+          "14586",
+          "27763",
+          "27753",
+          "27743",
+          "27733",
+          "27723",
+          "27778",
+          "36529"
+        ]
+      }
+    }
+  ]
+}

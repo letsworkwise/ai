@@ -1,0 +1,93 @@
+{
+  "query": "core_product_name: high mast lighting tower | size: height: 30 m | feature_or_specifications: finish: hot dip galvanised, accessories: 24 nos. high mast lantern carriage, 16 nos. 350 watt led fixture with lamp, head frame, stainless steel rope, double drum winch, flameproof junction boxes, flameproof plugs and sockets, flameproof feeder pillar, galvanised lantern carrier arrangement, cables and cable accessories, control panel for feeder pillar, feature: as per specification, data sheet and direction of engineer-in-charge, feature: supply of commissioning and 2 years o&m (operation and maintenance) spares",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: high mast tower",
+        "raw_product_name": "HIGH MAST TOWER",
+        "list_of_product_ids": [
+          "17725",
+          "17692",
+          "17684",
+          "17683",
+          "18661"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: high mast lighting system",
+        "raw_product_name": "HIGH MAST LIGHTING SYSTEM",
+        "list_of_product_ids": [
+          "6416",
+          "5586",
+          "10566",
+          "10176",
+          "10177"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: tower | material: Stainless Steel",
+        "raw_product_name": "COLUMN/TOWER STAINLESS STEEL",
+        "list_of_product_ids": [
+          "6648",
+          "5819",
+          "10975",
+          "11024",
+          "12284",
+          "11673",
+          "8542",
+          "9020",
+          "9642",
+          "9684",
+          "12004",
+          "11969",
+          "12056",
+          "12155",
+          "12581",
+          "12982",
+          "13081",
+          "16944",
+          "17395",
+          "17604",
+          "22159",
+          "22155",
+          "22153",
+          "22146",
+          "22203",
+          "22200",
+          "22151",
+          "37933",
+          "37972",
+          "37981",
+          "38023",
+          "38308",
+          "38033",
+          "38075",
+          "38339",
+          "38086",
+          "38123",
+          "38378",
+          "38393",
+          "37728",
+          "37744"
+        ]
+      }
+    }
+  ]
+}

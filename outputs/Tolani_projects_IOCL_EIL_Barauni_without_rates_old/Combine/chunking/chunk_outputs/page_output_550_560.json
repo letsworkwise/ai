@@ -1,0 +1,168 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and laying separating layer of approved polythylene sheet of mass 1 kg/sqm (minimum) in between",
+      "core_product_name": "polythylene sheet separating layer",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: polythylene, mass: 1 kg/sqm (minimum), approval: approved",
+      "quantity": "10.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, Fabricating at CONTRACTOR's shop outside the plant boundary, transporting fabricated items to site,",
+      "core_product_name": "fabricated items",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "fabrication location: contractor's shop outside the plant boundary, feature: transporting fabricated items to site",
+      "quantity": "2.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, Fabricating at CONTRACTOR's shop outside the plant boundary, transporting fabricated items to site,",
+      "core_product_name": "fabricated items",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "fabrication location: contractor's shop outside the plant boundary, feature: transporting fabricated items to site",
+      "quantity": "3.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and applying COATING (Post-erection/ Field) of approved quality and shade as per Sl. No. 9.2 of Table 9.0",
+      "core_product_name": "coating",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: post-erection/field, approval: approved quality and shade, reference: as per sl. no. 9.2 of table 9.0",
+      "quantity": "3.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and applying COATING (Post-erection/ Field) of approved quality and shade as per Sl. No. 8.1 of Table 8.0",
+      "core_product_name": "coating",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: post-erection/field, approval: approved quality and shade, reference: as per sl. no. 8.1 of table 8.0",
+      "quantity": "50.0",
+      "unit": "mt"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      550,
+      559
+    ],
+    "original_rows": [
+      {
+        "0": 551,
+        "1": 0,
+        "2": "01CS.3.6",
+        "3": "Separation Layer - NonFIM Item",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 552,
+        "1": 0,
+        "2": "01CS.3.6.1",
+        "3": "Supplying and laying separating layer of approved polythylene sheet of mass 1 kg/sqm (minimum) in between",
+        "4": 10.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 553,
+        "1": 0,
+        "2": "01CS.4",
+        "3": "STRUCTURAL STEEL WORKS  SPEC NO. 6-68-0006",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 554,
+        "1": 0,
+        "2": "01CS.4.3",
+        "3": "General Steel Works - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 555,
+        "1": 0,
+        "2": "01CS.4.3.5",
+        "3": "Supplying, Fabricating at CONTRACTOR's shop outside the plant boundary, transporting fabricated items to site,",
+        "4": 2.0,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 556,
+        "1": 0,
+        "2": "01CS.4.3.15",
+        "3": "\"Supplying, Fabricating at CONTRACTOR's shop outside the plant boundary, transporting fabricated items to site,",
+        "4": 3.0,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 557,
+        "1": 0,
+        "2": "01CS.4.4",
+        "3": "Painting - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 558,
+        "1": 0,
+        "2": "01CS.4.4.8",
+        "3": "Supplying and applying COATING (Post-erection/ Field) of approved quality and shade as per Sl. No. 9.2 of Table 9.0",
+        "4": 3.0,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 559,
+        "1": 0,
+        "2": "01CS.4.4.11",
+        "3": "Supplying and applying COATING (Post-erection/ Field) of approved quality and shade as per Sl. No. 8.1 of Table 8.0",
+        "4": 50.0,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 560,
+        "1": 0,
+        "2": "01CS.4.4.12",
+        "3": "Supplying and applying FIELD PAINT SYSTEM of approved quality and shade as per Sl. no. 10.2 of Table 10.0 of EIL",
+        "4": 2.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2302,
+    "completion_tokens": 934
+  }
+}

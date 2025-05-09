@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: power and control cable termination | size: cable: 1Cx630 sqmm | feature_or_specifications: voltage: 1.1kV, temperature rating: 90 deg.c, conductor material: aluminium, insulation: XLPE (cross-linked polyethylene), sheath: PVC (polyvinyl chloride), inner sheath: FRLS (flame retardant low smoke) type-ST2, armour: aluminium round wire (single core), armour: galvanized steel strip/wire (multi core), overall sheath: PVC (polyvinyl chloride), FR-LSH (flame retardant low smoke halogen) type-ST2, termination kit: included",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: power and control cable | type_or_class: LT (Low Tension) Power and Control | material: XLPE (Cross-Linked Polyethylene)",
+        "raw_product_name": "CABLE \u0013 LT POWER & CONTROL(XPLE)",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": [
+          "6444",
+          "5614",
+          "11000",
+          "12263",
+          "12344",
+          "15781",
+          "23866",
+          "24503"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "acronymed_core_product_name",
+        "type_or_class",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire retardant low smoke cable | acronymed_core_product_name: frls cable (fire retardant low smoke cable) | size_or_capacity: 1.1 KV | protection_features: fire retardant | protection_features: low smoke | type_or_class: FRLS (Fire Retardant Low Smoke)",
+        "raw_product_name": "1.1 KV FIRE RETARDANT LOW SMOKE CABLES(FRLS)",
+        "list_of_product_ids": [
+          "1",
+          "029",
+          "021",
+          "403"
+        ]
+      }
+    }
+  ]
+}

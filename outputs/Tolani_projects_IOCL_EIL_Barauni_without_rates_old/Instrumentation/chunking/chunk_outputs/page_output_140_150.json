@@ -1,0 +1,168 @@
+{
+  "sheet_name": "Instrumentation",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Supply, laying and termination of both ends of earthing cables from earth grid pit to the DCS/ Local panels/ Barrier earth bus bars in trays/ conduits/ trenches as required. At both ends of earth grid/ Instruments of GI wire (12 AWG) in trays and conduits as required excluding earth-pit preparation and electrode installation.",
+      "core_product_name": "earthing cable laying and termination",
+      "acronymed_core_product_name": "",
+      "size": "wire size: 12 AWG",
+      "feature_or_specifications": "material: gi(galvanized iron), location: trays and conduits, excludes: earth-pit preparation and electrode installation",
+      "quantity": "500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Supply, laying and termination of both ends of earthing cables from earth grid pit to the DCS/ Local panels/ Barrier earth bus bars in trays/ conduits/ trenches as required. For earthing cable 25 mm² size with PVC insulation.",
+      "core_product_name": "earthing cable laying and termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 25 mm²",
+      "feature_or_specifications": "insulation: pvc",
+      "quantity": "30.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Laying of copper tube for steam tracing of Instruments, primary impulse lines with steam traps/valve accessories including clamping, supply of clamps termination at both ends, providing and fixing metallic tags and hydraulic testing as per Standard given below but exclusive of supply of tube/ fitting and insulation as per standards For sizes 1/4\"/ 6 mm",
+      "core_product_name": "copper tube laying for steam tracing",
+      "acronymed_core_product_name": "",
+      "size": "tube size: 1/4\" or 6 mm",
+      "feature_or_specifications": "material: copper, includes: clamping, supply of clamps, termination at both ends, metallic tags, hydraulic testing, excludes: supply of tube/fitting and insulation",
+      "quantity": "100.0",
+      "unit": "m"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      140,
+      149
+    ],
+    "original_rows": [
+      {
+        "0": 382,
+        "1": 0,
+        "2": "01II.650",
+        "3": "EARTHING",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 383,
+        "1": 0,
+        "2": "01II.650.10",
+        "3": "Supply, laying and termination of both ends of earthing cables from earth grid pit to the DCS/ Local panels/ Barrier earth bus bars in trays/ conduits/ trenches as required.",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 384,
+        "1": 0,
+        "2": "01II.650.10.1",
+        "3": "At both ends of earth grid/ Instruments of GI wire (12 AWG) in trays and conduits as required excluding earth-pit preparation and electrode installation.",
+        "4": 500.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 385,
+        "1": 0,
+        "2": "01II.650.10.3",
+        "3": "For earthing cable 25 mm² size with PVC insulation.",
+        "4": 30.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 386,
+        "1": 0,
+        "2": "01II.700",
+        "3": "PIPING / TUBING / FABRICATION WORK",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 387,
+        "1": 0,
+        "2": "01II.700.5",
+        "3": "Laying of copper tube for steam tracing of Instruments, primary impulse lines with steam traps/valve accessories including clamping, supply of clamps termination at both ends, providing and fixing metallic tags and hydraulic testing as per Standard given below but exclusive of supply of tube/ fitting and insulation as per standards",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 388,
+        "1": 0,
+        "2": "01II.700.5.MC10",
+        "3": "For sizes 1/4\"/ 6 mm",
+        "4": 100.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 389,
+        "1": 0,
+        "2": "01II.750",
+        "3": "DRILLING AND THREADING OF BLIND FLANGES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 390,
+        "1": 0,
+        "2": "01II.750.10",
+        "3": "Making of 1/2\" screwed connections on 1-1/2\" blind flanges of specified materials/ ratings, by drilling holes and tapping",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 391,
+        "1": 0,
+        "2": "01II.750.10.1V1",
+        "3": "In   Carbon Steel   ,   150#   flange",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2415,
+    "completion_tokens": 751
+  }
+}

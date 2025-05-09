@@ -1,0 +1,58 @@
+{
+  "query": "core_product_name: civil works | feature_or_specifications: feature: including supply of cement, brick, concrete & sand",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: board | material: Cement",
+        "raw_product_name": "CEMENT BOARD",
+        "list_of_product_ids": [
+          "156",
+          "861",
+          "903",
+          "127",
+          "990"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: pressed tile | material: Cement Concrete",
+        "raw_product_name": "PRESSED CEMENT CONCRETE TILES",
+        "list_of_product_ids": [
+          "16742",
+          "16741",
+          "16740",
+          "16738",
+          "27995"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: interlocking block | material: Concrete",
+        "raw_product_name": "INTERLOCKING CONCRETE BLOCKS",
+        "list_of_product_ids": [
+          "15533",
+          "15534",
+          "15536",
+          "27036",
+          "15535",
+          "15532"
+        ]
+      }
+    }
+  ]
+}

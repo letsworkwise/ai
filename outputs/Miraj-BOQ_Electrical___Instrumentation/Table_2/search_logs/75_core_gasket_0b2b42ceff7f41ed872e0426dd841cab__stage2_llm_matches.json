@@ -1,0 +1,72 @@
+{
+  "query": "core_product_name: gasket | size: diameter: 2\" | feature_or_specifications: pressure rating: 150#, material: SS316 (stainless steel 316), filler: graphite, type: spiral wound",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: spiral wound gasket",
+        "raw_product_name": "GASKET SPIRAL WOUND",
+        "list_of_product_ids": [
+          "5997",
+          "5176",
+          "7736",
+          "9282",
+          "6914",
+          "6920",
+          "6911",
+          "7729",
+          "7730",
+          "7731",
+          "7732",
+          "7733",
+          "7734",
+          "7735",
+          "7737",
+          "8202",
+          "8329",
+          "8350",
+          "8354",
+          "8360",
+          "8364",
+          "8367",
+          "9283",
+          "6917",
+          "13079",
+          "37378",
+          "37379",
+          "37382"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: gasket",
+        "raw_product_name": "GASKET",
+        "list_of_product_ids": [
+          "6921"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: gasket",
+        "raw_product_name": "Gasket",
+        "list_of_product_ids": [
+          "6921"
+        ]
+      }
+    }
+  ]
+}

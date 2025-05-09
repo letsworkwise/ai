@@ -1,0 +1,59 @@
+{
+  "query": "core_product_name: emergency exit light | size: backup duration: 2 hours | feature_or_specifications: fittings: led, battery: sealed maintenance free, charger: included, plug: included, extension card: included, enclosure: suitable for 240V AC supply",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: emergency lighting system",
+        "raw_product_name": "EMERGENCY LIGHTING SYSTEM",
+        "list_of_product_ids": [
+          "3",
+          "216",
+          "232",
+          "163"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: accessory lighting fixture | protection_features: Non Hazardous",
+        "raw_product_name": "LIGHTING FIXTURE & ACCESORY-NON HZARDOUS",
+        "list_of_product_ids": [
+          "5630",
+          "6459",
+          "10568",
+          "10188",
+          "10179",
+          "19512",
+          "19508",
+          "19540",
+          "26082"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: electric light fitting | accessories_or_attachments: accessories",
+        "raw_product_name": "ELECTRIC LIGHT FITTINGS (COMM) & ACCESSORIES",
+        "list_of_product_ids": [
+          "208",
+          "382",
+          "083",
+          "728",
+          "502"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "query": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups | size: capacity: 5 kVA, backup: 1 hr | feature_or_specifications: type: stand-alone, feature: SCVS (static constant voltage stabilizer) bypass, battery bank: 1x100%, mounting: stainless steel rack, accessory: battery isolation box, accessory: intercell connectors, accessory: required cable & cabling accessories for UPS, battery bank, UPS ACDB, application: raw water reservoir control room, incoming feeder: 63 A DP MCCB (2 nos), outgoing feeder: 16A DP MCB (12 nos), outgoing feeder: 32A DP MCB (4 nos), outgoing feeder: 6A DP MCB (4 nos)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups (uninterruptible power supply)",
+        "raw_product_name": "UN-INTERRUPTIBLE POWER SUPPLY (UPS)",
+        "list_of_product_ids": [
+          "141",
+          "931",
+          "781",
+          "320",
+          "002"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "Accessories"
+      ],
+      "match_details": {
+        "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups | accessories_or_attachments: acdb (alternating current distribution board)",
+        "raw_product_name": "UPS With ACDB",
+        "list_of_product_ids": [
+          "1",
+          "419",
+          "636",
+          "134"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: uninterruptible power supply system | acronymed_core_product_name: ups system",
+        "raw_product_name": "UPS SYSTEM",
+        "list_of_product_ids": [
+          "14194",
+          "15283",
+          "15287",
+          "15895",
+          "17799",
+          "17789",
+          "17897",
+          "18615",
+          "18614",
+          "18613",
+          "18612"
+        ]
+      }
+    }
+  ]
+}

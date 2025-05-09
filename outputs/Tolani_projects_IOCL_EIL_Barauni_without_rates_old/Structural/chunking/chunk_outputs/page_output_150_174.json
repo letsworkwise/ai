@@ -1,0 +1,406 @@
+{
+  "sheet_name": "Structural",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Supplying and filling approved SAND of specified quality under floors, in foundations, plinths, tank foundations etc. for all depths and heights including cost of sand, royalties, transportation to site for all leads and lifts, including loading, unloading, spreading in layers of loose thickness not exceeding 150 mm, watering, ramming, compacting with mechanical compactors and/or other equipment to the specified levels to achieve 85% relative density as per IS:2720 Part XIV, including preparation of subgrade to the required slope, providing testing apparatus and testing the degree of consolidation all complete as per drawings, specifications and direction of Engineer- in-charge. The rates shall be inclusive of the cost of all labour, material, equipments etc. all complete .",
+      "core_product_name": "sand filling",
+      "size": "layer thickness: not exceeding 150 mm, relative density: 85%",
+      "feature_or_specifications": "material: sand, application: under floors, foundations, plinths, tank foundations, royalty: included, transportation: all leads and lifts, operation: loading, unloading, spreading, watering, ramming, compacting, equipment: mechanical compactors and/or other equipment, standard: indian standard 2720 part xiv, subgrade preparation: required slope, testing: apparatus and degree of consolidation, supply: all labour, material, equipments",
+      "acronymed_core_product_name": "",
+      "quantity": "4200.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Supplying and mixing of approved brand of BI-POLAR CONCRETE PENETRATING CORROSION INHIBITING ADMIXTURE (confirming to EIL Specification No. 6-68-0017) in concrete as per manufacturer's specification for protection of reinforcement against corrosion. Supply of admixture in Contractor's scope.",
+      "core_product_name": "bi-polar concrete penetrating corrosion inhibiting admixture",
+      "size": "",
+      "feature_or_specifications": "brand: approved, specification: EIL Specification No. 6-68-0017, application: in concrete, function: protection of reinforcement against corrosion, supply: admixture in contractor's scope",
+      "acronymed_core_product_name": "",
+      "quantity": "7850.0",
+      "unit": "kg"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Supplying, Providing and Laying appropriate coating on foundation concrete followed by laying of dry sand, suitable thickness cellular glass insulation with interleaving felts & adhesives as per EIL Job specification B568-000-06-43-IL-S002. (SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE).",
+      "core_product_name": "thermal isolation barrier",
+      "size": "",
+      "feature_or_specifications": "application: foundation concrete, operation: coating, laying dry sand, insulation: cellular glass with interleaving felts & adhesives, specification: EIL Job specification B568-000-06-43-IL-S002, supply: all materials in contractor's scope",
+      "acronymed_core_product_name": "",
+      "quantity": "1000.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Providing and applying approved EPOXY RESIN (prepared as per manufacturer's recommendation) for bonding of fresh concrete to old concrete in all types of  structure at all depths and heights including cleaning of concrete surface, removing of all loose concrete pieces, making rough by chiselling, taking off the skin of concrete, application of Epoxy Resin System by spraying, necessary working platforms, props, scaffolding and other safety measures, removal of same after completion etc. all complete as specified and directed. (Excavation, backfilling, removal of surplus earth, keeping pit dry by pumping/bailing subsoil water shall be paid separately under relevant items).",
+      "core_product_name": "epoxy resin",
+      "size": "",
+      "feature_or_specifications": "type: approved, preparation: as per manufacturer's recommendation, application: bonding fresh concrete to old concrete, operation: cleaning, chiselling, spraying, safety: working platforms, props, scaffolding, safety measures, removal after completion",
+      "acronymed_core_product_name": "",
+      "quantity": "10.0",
+      "unit": "kg"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Dismantling structural steel already erected by others including provision of adequate temporary supports, bracings etc. wherever required, to ensure safety of the affected structure or part thereof, and replacing back all original members into their respective positions true to line and level, removing all temporary supports/bracings, welding/bolting of the end connections, splicing or strengthening the member and their joints to regain original strengths, all complete as directed by the Engineer-in- Charge. Note: The weight of dismantled and re- erected structure shall be measured only once.(SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE)",
+      "core_product_name": "structural steel dismantling",
+      "size": "",
+      "feature_or_specifications": "material: structural steel, operation: dismantling, temporary supports/bracings: provided as required, safety: ensured, replacement: original members to respective positions, welding/bolting: end connections, splicing/strengthening: members and joints, supply: all materials in contractor's scope",
+      "acronymed_core_product_name": "",
+      "quantity": "0.5",
+      "unit": "MT"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Ultrasonic Pulse Velocity (UPV) measurement in accordance with IS:13311 Part-1 by measuring the time taken for travel of a known distance through concrete medium being tested. The rate shall include the necessary surface preparation including its smoothening and making it flat, application of petroleum jelly, etc necessary for intimate contact of the transmitter & receiver with the concrete surface, recording the minimum & stable reading, necessary scaffolding and platform, presentation of results in an acceptable format etc all complete. All materials, tools, tackles, etc. shall be in contractor's scope.",
+      "core_product_name": "ultrasonic pulse velocity measurement",
+      "size": "",
+      "feature_or_specifications": "standard: indian standard 13311 part-1, application: concrete, operation: surface preparation, smoothening, petroleum jelly application, transmitter & receiver contact, recording readings, scaffolding, platform, presentation of results, supply: all materials, tools, tackles in contractor's scope",
+      "acronymed_core_product_name": "upv measurement",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Measurement of Rebound Index in accordance with IS:13311 Part-2 for a location on concrete surface with calibrated rebound hammer placed perpendicular to the surface and taking required number of rebound readings. The rate shall include surface preparation, which shall cover removal of surface plaster, if any, with chisel etc, removal of cement slurry layer from concrete surface with grinding stone, making surface even & smooth, necessary scaffolding and platform, presentation of results in an acceptable format etc. all complete. All materials, tools, tackles, etc. shall be in contractor's scope.",
+      "core_product_name": "rebound index measurement",
+      "size": "",
+      "feature_or_specifications": "standard: indian standard 13311 part-2, application: concrete surface, tool: calibrated rebound hammer, operation: surface preparation, plaster removal, chisel, cement slurry removal, grinding stone, scaffolding, platform, presentation of results, supply: all materials, tools, tackles in contractor's scope",
+      "acronymed_core_product_name": "",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "\"Cutting and extracting undisturbed concrete core of 60 mm to 75 mm diameter preferably with its length finished after end preparation equal to twice the diameter but in any case not less than the diameter of the core, without encountering any steel reinforcement from the RCC members at specified locations with portable power driven core cutting equipment. After the core has been extracted, the hole shall be made good by plugging with dry pack concrete and finished as per the existing finish. The rate shall include necessary scaffolding and platform and cost of all the operations, scanning T&P and materials etc complete and testing the extracted concrete cores (as per relevant BIS / BS / ASTM codes) for the following: a) Evaluating compressive strength b) Determining density of concrete c) Determining permeability of concrete d) Determining depth of carbonation with phenolphthalein indicator e) Determining the total acid soluble chloride content in concrete as per BS 1881: Part 124 f) Determining the total sulphate contents in concrete expressed as sulphate by mass of concrete as per BS 1881: Part 124 g) Determining pH value of concrete sample using pH meter electrode conforming to IS:2711 and testing according to IS 13435: Part 4\"",
+      "core_product_name": "concrete core cutting and testing",
+      "size": "core diameter: 60 mm to 75 mm, core length: equal to twice the diameter (not less than diameter)",
+      "feature_or_specifications": "operation: cutting and extracting undisturbed concrete core, equipment: portable power driven core cutting, application: RCC members, after extraction: plugging with dry pack concrete, finish: as per existing, scaffolding and platform: included, testing: compressive strength, density, permeability, carbonation depth, chloride content (BS 1881: Part 124), sulphate content (BS 1881: Part 124), pH value (IS:2711, IS 13435: Part 4), standard: BIS/BS/ASTM codes, supply: all operations, scanning T&P, materials",
+      "acronymed_core_product_name": "",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "\"Scanning the concrete surface with standard non-destructive embedded metal detecting instrument and plotting the reinforcement scan, determining its diameter and concrete cover thickness and providing the following: a) Plot of reinforcement (spacing etc.) b) Cover thickness c) Bar diameter\"",
+      "core_product_name": "reinforcement scanning",
+      "size": "",
+      "feature_or_specifications": "method: non-destructive, instrument: embedded metal detecting, operation: scanning, plotting reinforcement, determining diameter, cover thickness, output: plot of reinforcement, cover thickness, bar diameter",
+      "acronymed_core_product_name": "",
+      "quantity": "20.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "STRUCTURAL",
+      "full_product_description": "Preparation of complete health assessment report based on conducted visual inspection and non-destructive/ partial destructive testing as per relevant items, which should include detailed observation and results of tests, test interpretation, test procedures, crack profile in detail and indicating crack location, dimension & thickness, record of regular calibration of the NDT equipments test results, recommendations & suggestive retrofitting/ repair schemes etc. in drawing/ document format for improving the structural integrity all complete. Record/ documents and reports shall be provided given in neatly typed, bound and in professionally prepared volumes. All the inspection/ measurement locations shall be defined on proper developed sketches of structure. Obtaining owner's observations/ comments and incorporating the same in the report.",
+      "core_product_name": "health assessment report preparation",
+      "size": "",
+      "feature_or_specifications": "basis: visual inspection, non-destructive/partial destructive testing, content: detailed observation, test results, interpretation, procedures, crack profile, location, dimension, thickness, calibration record, recommendations, retrofitting/repair schemes, format: drawing/document, output: typed, bound, professional volumes, sketches of structure, owner's comments incorporated",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "Set"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      150,
+      173
+    ],
+    "original_rows": [
+      {
+        "0": 625,
+        "1": 0,
+        "2": "01CS.11.6.1",
+        "3": "Supplying and filling approved SAND of specified quality under floors, in foundations, plinths, tank foundations etc. for all depths and heights including cost of sand, royalties, transportation to site for all leads and lifts, including loading, unloading, spreading in layers of loose thickness not exceeding 150 mm, watering, ramming, compacting with mechanical compactors and/or other equipment to the specified levels to achieve 85% relative density as per IS:2720 Part XIV, including preparation of subgrade to the required slope, providing testing apparatus and testing the degree of consolidation all complete as per drawings, specifications and direction of Engineer- in-charge. The rates shall be inclusive of the cost of all labour, material, equipments etc. all complete .",
+        "4": 4200.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 626,
+        "1": 0,
+        "2": "01CS.11.10",
+        "3": "BI-POLAR CONCRETE PENETRATING CORROSION INHIBITING ADMIXTURE",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 627,
+        "1": 0,
+        "2": "01CS.11.10.1",
+        "3": "Supplying and mixing of approved brand of BI-POLAR CONCRETE PENETRATING CORROSION INHIBITING ADMIXTURE (confirming to EIL Specification No. 6-68-0017) in concrete as per manufacturer's specification for protection of reinforcement against corrosion. Supply of admixture in Contractor's scope.",
+        "4": 7850.0,
+        "5": "kg",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 628,
+        "1": 0,
+        "2": "01CS.11.13",
+        "3": "Thermal Isolation Barrier at Tank bottom - Non-FIM Item",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 629,
+        "1": 0,
+        "2": "01CS.11.13.ME01",
+        "3": "Supplying, Providing and Laying appropriate coating on foundation concrete followed by laying of dry sand, suitable thickness cellular glass insulation with interleaving felts & adhesives as per EIL Job specification B568-000-06-43-IL-S002. (SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE).",
+        "4": 1000.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 630,
+        "1": 0,
+        "2": "01CS.14",
+        "3": "BONDING FRESH CONCRETE TO OLD CONCRETE BY EPOXY RESIN BONDING SYSTEM (REFER SPECIFICATION NO. 6-68-0056)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 631,
+        "1": 0,
+        "2": "01CS.14.1",
+        "3": "Epoxy Resin - non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 632,
+        "1": 0,
+        "2": "01CS.14.1.1",
+        "3": "Providing and applying approved EPOXY RESIN (prepared as per manufacturer's recommendation) for bonding of fresh concrete to old concrete in all types of  structure at all depths and heights including cleaning of concrete surface, removing of all loose concrete pieces, making rough by chiselling, taking off the skin of concrete, application of Epoxy Resin System by spraying, necessary working platforms, props, scaffolding and other safety measures, removal of same after completion etc. all complete as specified and directed. (Excavation, backfilling, removal of surplus earth, keeping pit dry by pumping/bailing subsoil water shall be paid separately under relevant items).",
+        "4": 10.0,
+        "5": "kg",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 633,
+        "1": 0,
+        "2": "01CS.18",
+        "3": "Mechanical works",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 634,
+        "1": 0,
+        "2": "01CS.18.9",
+        "3": "Dismantling Of steel works",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 635,
+        "1": 0,
+        "2": "01CS.18.9.1",
+        "3": "Dismantling structural steel already erected by others including provision of adequate temporary supports, bracings etc. wherever required, to ensure safety of the affected structure or part thereof, and replacing back all original members into their respective positions true to line and level, removing all temporary supports/bracings, welding/bolting of the end connections, splicing or strengthening the member and their joints to regain original strengths, all complete as directed by the Engineer-in- Charge. Note: The weight of dismantled and re- erected structure shall be measured only once.(SUPPLY OF ALL MATERIALS IN CONTRACTOR'S SCOPE)",
+        "4": 0.5,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 636,
+        "1": 0,
+        "2": "01CS.22",
+        "3": "TESTING, REPAIR & REHABILITATION OF STRUCTURE",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 637,
+        "1": 0,
+        "2": "01CS.22.1",
+        "3": "Non-destructive/ Partial Destructive Testing - Non FIM Item",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 638,
+        "1": 0,
+        "2": "01CS.22.1.1",
+        "3": "Ultrasonic Pulse Velocity (UPV) measurement in accordance with IS:13311 Part-1 by measuring the time taken for travel of a known distance through concrete medium being tested. The rate shall include the necessary surface preparation including its smoothening and making it flat, application of petroleum jelly, etc necessary for intimate contact of the transmitter & receiver with the concrete surface, recording the minimum & stable reading, necessary scaffolding and platform, presentation of results in an acceptable format etc all complete. All materials, tools, tackles, etc. shall be in contractor's scope.",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 639,
+        "1": 0,
+        "2": "01CS.22.1.2",
+        "3": "Measurement of Rebound Index in accordance with IS:13311 Part-2 for a location on concrete surface with calibrated rebound hammer placed perpendicular to the surface and taking required number of rebound readings. The rate shall include surface preparation, which shall cover removal of surface plaster, if any, with chisel etc, removal of cement slurry layer from concrete surface with grinding stone, making surface even & smooth, necessary scaffolding and platform, presentation of results in an acceptable format etc. all complete. All materials, tools, tackles, etc. shall be in contractor's scope.",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 640,
+        "1": 0,
+        "2": "01CS.22.1.5",
+        "3": "\"Cutting and extracting undisturbed concrete core of 60 mm to 75 mm diameter preferably with its length finished after end preparation equal to twice the diameter but in any case not less than the diameter of the core, without encountering any steel reinforcement from the RCC members at specified locations with portable power driven core cutting equipment. After the core has been extracted, the hole shall be made good by plugging with dry pack concrete and finished as per the existing finish. The rate shall include necessary scaffolding and platform and cost of all the operations, scanning T&P and materials etc complete and testing the extracted concrete cores (as per relevant BIS / BS / ASTM codes) for the following: a) Evaluating compressive strength b) Determining density of concrete c) Determining permeability of concrete d) Determining depth of carbonation with phenolphthalein indicator e) Determining the total acid soluble chloride content in concrete as per BS 1881: Part 124 f) Determining the total sulphate contents in concrete expressed as sulphate by mass of concrete as per BS 1881: Part 124 g) Determining pH value of concrete sample using pH meter electrode conforming to IS:2711 and testing according to IS 13435: Part 4\"",
+        "4": 5.0,
+        "5": "each",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 641,
+        "1": 0,
+        "2": "01CS.22.1.7",
+        "3": "\"Scanning the concrete surface with standard non-destructive embedded metal detecting instrument and plotting the reinforcement scan, determining its diameter and concrete cover thickness and providing the following: a) Plot of reinforcement (spacing etc.) b) Cover thickness c) Bar diameter\"",
+        "4": 20.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 642,
+        "1": 0,
+        "2": "01CS.22.1.9",
+        "3": "Preparation of complete health assessment report based on conducted visual inspection and non-destructive/ partial destructive testing as per relevant items, which should include detailed observation and results of tests, test interpretation, test procedures, crack profile in detail and indicating crack location, dimension & thickness, record of regular calibration of the NDT equipments test results, recommendations & suggestive retrofitting/ repair schemes etc. in drawing/ document format for improving the structural integrity all complete. Record/ documents and reports shall be provided given in neatly typed, bound and in professionally prepared volumes. All the inspection/ measurement locations shall be defined on proper developed sketches of structure. Obtaining owner's observations/ comments and incorporating the same in the report.",
+        "4": 2.0,
+        "5": "Set",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 643,
+        "1": 0,
+        "2": "01CS.23",
+        "3": "SAFETY (REFER EIL SPECIFICATION)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 644,
+        "1": 0,
+        "2": "01CS.23.2",
+        "3": "Supply of Safety Personnel",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 645,
+        "1": 0,
+        "2": "01CS.23.2.1",
+        "3": "Supply of HSE personnel SAFETY STEWARD over and above the requirement as specified in EIL Standard Specification No. 6-82-0001 at site as per the written instructions of Engineer-in-charge (the rates shall be inclusive of all other payments such as PF, ESI, other benefits payable to the workmen as per the prevalent labour laws).",
+        "4": 20.0,
+        "5": "Man month",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 646,
+        "1": 0,
+        "2": "01CS.23.2.2",
+        "3": "Supply of HSE personnel SAFETY SUPERVISOR over and above the requirement as specified in EIL Standard Specification No. 6-82-0001 at site as per the written instructions of Engineer-in-charge (the rates shall be inclusive of all other payments such as PF, ESI, other benefits payable to the workmen as per the prevalent labour laws).",
+        "4": 10.0,
+        "5": "Man month",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 647,
+        "1": 0,
+        "2": "01CS.23.2.3",
+        "3": "Supply of HSE personnel SAFETY OFFICER over and above the requirement as specified in EIL Standard Specification No. 6-82-0001 at site as per the written instructions of Engineer-in-charge (the rates shall be inclusive of all other payments such as PF, ESI, other benefits payable to the workmen as per the prevalent labour laws).",
+        "4": 10.0,
+        "5": "Man month",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 648,
+        "1": 0,
+        "2": "01CS.23.2.4",
+        "3": "Supply of HSE personnel HOUSE-KEEPING SUPERVISOR over and above the requirement as specified in EIL Standard Specification No. 6-82-0001 at site as per the written instructions of Engineer-in-charge (the rates shall be inclusive of all other payments such as PF, ESI, other benefits payable to the workmen as per the prevalent labour laws).",
+        "4": 10.0,
+        "5": "Man month",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 4404,
+    "completion_tokens": 3562
+  }
+}

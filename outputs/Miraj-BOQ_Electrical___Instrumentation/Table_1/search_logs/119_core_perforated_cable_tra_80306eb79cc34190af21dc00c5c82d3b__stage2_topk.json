@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: perforated cable tray horizontal bend | size: width: 300mm | feature_or_specifications: bend angle: 90 degree, type: perforated, feature: shall be decided as per detail engineering",
+  "retrieval_results": [
+    {
+      "id": "variant-aced03b4-d6e4-5165-b3cf-7a7e7de87bc6",
+      "score": 0.86573863,
+      "metadata": {
+        "text": "core_product_name: perforated cable tray",
+        "raw_product_name": "Perforrated Cable Tray",
+        "list_of_product_ids": "7,013,732,126,432",
+        "core_id": 1054.0
+      }
+    },
+    {
+      "id": "variant-98279854-84dd-59c7-9a77-4d59d712ced7",
+      "score": 0.85041034,
+      "metadata": {
+        "text": "core_product_name: bend | special_attributes: 5D (5 times diameter) radius",
+        "raw_product_name": "5D BENDS",
+        "list_of_product_ids": "14162,18289,20009,20007,19998,21405,23291,37862,37395,40120,40094",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-3efeda5d-6e70-51e8-8f2e-ad8a9436822e",
+      "score": 0.84813327,
+      "metadata": {
+        "text": "core_product_name: bend",
+        "raw_product_name": "BENDS",
+        "list_of_product_ids": "219,382,194,421,936",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-78d4f458-5f1c-5e98-ae99-653602ddc2c8",
+      "score": 0.84751767,
+      "metadata": {
+        "text": "core_product_name: cable tray",
+        "raw_product_name": "CABLE TRAY",
+        "list_of_product_ids": "7297,7345,10639,10642,7895,7896,16219,18875,18921,19965,19975,24240,21182,21180,22148,26429",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-c272cfc6-cf4b-5ec8-ab5f-7397cd5600cc",
+      "score": 0.8418653,
+      "metadata": {
+        "text": "core_product_name: horizontal brace",
+        "raw_product_name": "HORIZONTAL BRACE",
+        "list_of_product_ids": "199,091,991,428,350",
+        "core_id": 1141.0
+      }
+    },
+    {
+      "id": "variant-5a518091-1505-5c53-a5e9-7c4a82cceeab",
+      "score": 0.8416591,
+      "metadata": {
+        "text": "core_product_name: perforated cable tray | acronymed_core_product_name: gi (galvanized iron) cable tray | material: GI (Galvanized Iron) | accessories_or_attachments: Accessories | type_or_class: Perforated",
+        "raw_product_name": "GI CABLE TRAYS AND ACCESSORIES (PERFORATED TYPE)",
+        "list_of_product_ids": "7301,7349,7899,17491,26434",
+        "core_id": 1054.0
+      }
+    },
+    {
+      "id": "variant-323bf0e7-9d8f-5ea5-9cad-eb58b0ac6448",
+      "score": 0.83820313,
+      "metadata": {
+        "text": "core_product_name: special cable",
+        "raw_product_name": "SPECIAL CABLES",
+        "list_of_product_ids": "13989,14840,20102,20070,24071,23923",
+        "core_id": 2074.0
+      }
+    },
+    {
+      "id": "variant-74503a1f-fa22-5c08-ac97-9f8dba31f1f4",
+      "score": 0.83762854,
+      "metadata": {
+        "text": "core_product_name: conduit fitting",
+        "raw_product_name": "FITTINGS (CONDUIT)",
+        "list_of_product_ids": "165,391,654,021,574",
+        "core_id": 870.0
+      }
+    },
+    {
+      "id": "variant-cd16e3d1-fe34-56f4-aeb9-d37bca739e72",
+      "score": 0.8373683,
+      "metadata": {
+        "text": "core_product_name: tray",
+        "raw_product_name": "SOAP TRAY",
+        "list_of_product_ids": "16316,16370,26428,34411",
+        "core_id": 395.0
+      }
+    },
+    {
+      "id": "variant-2ce23efe-d588-56de-9aaa-187d700a65d1",
+      "score": 0.83713484,
+      "metadata": {
+        "text": "core_product_name: column tray | size_or_capacity: High Capacity",
+        "raw_product_name": "COLUMN TRAYS-HIGH CAPACITY",
+        "list_of_product_ids": "6,705,587,612,418",
+        "core_id": 393.0
+      }
+    },
+    {
+      "id": "variant-f13d17eb-f844-5c45-9d81-533c78f874e4",
+      "score": 0.8367358,
+      "metadata": {
+        "text": "core_product_name: cable tray | material: Fibre Glass",
+        "raw_product_name": "FIBRE GLASS CABLE TRAYS",
+        "list_of_product_ids": "7064,7391,10455,10640,10641,26435",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-c89cc3fc-3f9d-59f3-a746-d6e464ff68e9",
+      "score": 0.836332,
+      "metadata": {
+        "text": "core_product_name: cable trench",
+        "raw_product_name": "CABLE TRENCHES",
+        "list_of_product_ids": "15786,15854,15876,15870,24073,23925",
+        "core_id": 285.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.8361836,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    },
+    {
+      "id": "variant-39fce78b-8d44-56c5-9c95-7e9a9934ea56",
+      "score": 0.8360039,
+      "metadata": {
+        "text": "core_product_name: width gauge",
+        "raw_product_name": "Width Gauge",
+        "list_of_product_ids": "7552,7226,10509,18014",
+        "core_id": 2491.0
+      }
+    },
+    {
+      "id": "variant-a8af20a3-6309-5504-b1b4-ba416fb90ee4",
+      "score": 0.8357577,
+      "metadata": {
+        "text": "core_product_name: circular hollow section",
+        "raw_product_name": "CIRCULAR HOLLOW SECTION",
+        "list_of_product_ids": "199,101,991,528,351",
+        "core_id": 356.0
+      }
+    },
+    {
+      "id": "variant-7f090a1a-b828-5a18-86a5-0ef23d51283a",
+      "score": 0.83574486,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLE STOCKIST/TRADERS",
+        "list_of_product_ids": "2,467,924,680",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-a88868c3-e02b-556c-afb5-f9319567fc58",
+      "score": 0.8356627,
+      "metadata": {
+        "text": "core_product_name: cable",
+        "raw_product_name": "CABLES",
+        "list_of_product_ids": "15455,13721,24275,15161,16241,19098,23820,23814,21319,19315,23819,23822,24273,23829,20141,23831,24058,23836,23909,23839,23828,24685,24726,24844,24955,31590,31591,26436,26438,31740,33330",
+        "core_id": 1.0
+      }
+    },
+    {
+      "id": "variant-035e5d74-4fc0-5854-ace0-4826f9b36c25",
+      "score": 0.83503264,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+        "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+        "list_of_product_ids": "19885,19880,24078,23930,27348",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-3db894e5-e02e-5e9a-b192-8d3acc970269",
+      "score": 0.834761,
+      "metadata": {
+        "text": "core_product_name: rectangular hollow section",
+        "raw_product_name": "Rectangular Hollow Section",
+        "list_of_product_ids": "28759,28757,28762,37159",
+        "core_id": 1942.0
+      }
+    },
+    {
+      "id": "variant-510d9426-29cd-560d-9a23-66266118ef65",
+      "score": 0.83451176,
+      "metadata": {
+        "text": "core_product_name: long radius bend",
+        "raw_product_name": "LONG RADIUS BENDS",
+        "list_of_product_ids": "6202,5370,11212,19493,30761,30763,30764,30590,37861,37394,39923,40028,40092,40121",
+        "core_id": 1381.0
+      }
+    },
+    {
+      "id": "variant-f126676e-a62f-52a6-ba06-b09e7951e71e",
+      "score": 0.83407813,
+      "metadata": {
+        "text": "core_product_name: forged fitting",
+        "raw_product_name": "FORGED FITTINGS",
+        "list_of_product_ids": "13660,22252,24586,36933",
+        "core_id": 972.0
+      }
+    },
+    {
+      "id": "variant-086b9eed-56e2-5efe-b5a1-8607125d7cf1",
+      "score": 0.8333966,
+      "metadata": {
+        "text": "core_product_name: hinged closure",
+        "raw_product_name": "HINGED CLOSURES",
+        "list_of_product_ids": "16126,16175,17330,17551,36725,34728,34730,34754,34851",
+        "core_id": 1134.0
+      }
+    },
+    {
+      "id": "variant-b722d3a4-0ea7-52cf-9586-094ccbee23e0",
+      "score": 0.83335763,
+      "metadata": {
+        "text": "core_product_name: screened cable | special_attributes: Screened cable",
+        "raw_product_name": "SCREENED CABLES",
+        "list_of_product_ids": "13881,14838,15808,20059,20100,24067,23919",
+        "core_id": 1976.0
+      }
+    },
+    {
+      "id": "variant-b29f45f6-c600-525a-969d-04357eb2ecc6",
+      "score": 0.83326054,
+      "metadata": {
+        "text": "core_product_name: cable tray | accessories_or_attachments: accessories",
+        "raw_product_name": "CABLE TRAYS & ACCESSORIES",
+        "list_of_product_ids": "14375,19396,19397,24231,19501,26433",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-0d2b59fc-65fd-5169-91ae-b2bc22f3ed34",
+      "score": 0.83312565,
+      "metadata": {
+        "text": "core_product_name: bent line pipe",
+        "raw_product_name": "Line pipe, bent",
+        "list_of_product_ids": "759,072,658,031",
+        "core_id": 1414.0
+      }
+    },
+    {
+      "id": "variant-64dfb27c-c276-51e0-8afb-6b83f25ff191",
+      "score": 0.83310586,
+      "metadata": {
+        "text": "core_product_name: compensating cable",
+        "raw_product_name": "COMPENSATING CABLE",
+        "list_of_product_ids": "24082,21244,21234,23933,28345",
+        "core_id": 407.0
+      }
+    },
+    {
+      "id": "variant-87a566b6-5a86-509b-86ac-e597dd349665",
+      "score": 0.832661,
+      "metadata": {
+        "text": "core_product_name: welded structural item",
+        "raw_product_name": "STRUCTURAL ITEM (WELDED)",
+        "list_of_product_ids": "173,361,733,427,923",
+        "core_id": 2136.0
+      }
+    },
+    {
+      "id": "variant-0d864684-0c5c-5fb0-b8da-da3982f30c1f",
+      "score": 0.8326465,
+      "metadata": {
+        "text": "core_product_name: cable tray | material: FRP (Fibre Reinforced Plastic)",
+        "raw_product_name": "CABLE TRAYS-FRP",
+        "list_of_product_ids": "6448,5618,7011,10644,7897,8783,8785,8786,8784,9181,17329,17325,18877,18923,26431,36084",
+        "core_id": 283.0
+      }
+    },
+    {
+      "id": "variant-16a4d4d7-96d8-531b-82ed-4c81799abe8e",
+      "score": 0.83188194,
+      "metadata": {
+        "text": "core_product_name: column tray | type_or_class: Unengineered",
+        "raw_product_name": "COLUMN TRAYS (UNENGINEERED)",
+        "list_of_product_ids": "6703,5874,8985,9131,12416,19938",
+        "core_id": 393.0
+      }
+    },
+    {
+      "id": "variant-383781f7-59ee-5d5b-8a29-cf16569a65fc",
+      "score": 0.8315753,
+      "metadata": {
+        "text": "core_product_name: welded fitting",
+        "raw_product_name": "FITTINGS – AS WELDED",
+        "list_of_product_ids": "14259,15973,19406,19805,19790,20139,22666,37085,37098",
+        "core_id": 878.0
+      }
+    }
+  ]
+}

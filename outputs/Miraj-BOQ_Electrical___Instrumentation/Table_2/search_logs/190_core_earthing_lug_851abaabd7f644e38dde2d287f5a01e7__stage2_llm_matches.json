@@ -1,0 +1,47 @@
+{
+  "query": "core_product_name: earthing lug | size: cable: 1 core x 6 mm2 | feature_or_specifications: cable: pvc (polyvinyl chloride) (al) (aluminium), colour: green",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable lug",
+        "raw_product_name": "CABLE LUG",
+        "list_of_product_ids": [
+          "2",
+          "064",
+          "720",
+          "116"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable lug | accessories_or_attachments: Lugs",
+        "raw_product_name": "CABLE \u0013 LUGS",
+        "list_of_product_ids": []
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: earthing material",
+        "raw_product_name": "EARTHING MATERIALS",
+        "list_of_product_ids": [
+          "378",
+          "733",
+          "788",
+          "037",
+          "898"
+        ]
+      }
+    }
+  ]
+}

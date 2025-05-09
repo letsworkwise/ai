@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: sprinkler | feature_or_specifications: type: ESFR, orientation: upright, temperature: 68° C, k-factor: 200, manufacturer: newage",
+  "retrieval_results": [
+    {
+      "id": "variant-7fa3b25f-1368-5176-aad5-701306d3255c",
+      "score": 0.8667563,
+      "metadata": {
+        "text": "core_product_name: sprinkler",
+        "raw_product_name": "SPRINKLER",
+        "list_of_product_ids": "13482,13498,13499,31059,37496,35014,37488,37491,37492,37495",
+        "core_id": 2090.0
+      }
+    },
+    {
+      "id": "variant-db5bf6a9-26d9-5efa-913d-ef1f02ca3c2b",
+      "score": 0.8618512,
+      "metadata": {
+        "text": "core_product_name: water sprinkler",
+        "raw_product_name": "WATER SPRINKLER",
+        "list_of_product_ids": "6032,5211,8921,8925,8928,8956,8959,9061,9066,9070,9101,9105,22756,31060,34994",
+        "core_id": 2455.0
+      }
+    },
+    {
+      "id": "variant-7ff74fb8-0733-5a78-b024-455c93c2edc4",
+      "score": 0.85561955,
+      "metadata": {
+        "text": "core_product_name: foam sprinkler",
+        "raw_product_name": "FOAM SPRINKLER",
+        "list_of_product_ids": "8996,8995,9062,9067,9071,9102,24711",
+        "core_id": 970.0
+      }
+    },
+    {
+      "id": "variant-7c83b144-2261-5ef3-ada0-0823013e3c85",
+      "score": 0.855393,
+      "metadata": {
+        "text": "core_product_name: fire water sprinkler system",
+        "raw_product_name": "FIRE WATER SPRINKLER SYSTEM",
+        "list_of_product_ids": "23980,23982,23983,27056",
+        "core_id": 864.0
+      }
+    },
+    {
+      "id": "variant-7606644a-4edd-5fea-81c9-7414b8a77e6e",
+      "score": 0.8464549,
+      "metadata": {
+        "text": "core_product_name: spray nozzle",
+        "raw_product_name": "SPRAY NOZZLES",
+        "list_of_product_ids": "8288",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-9988271a-59ee-57cb-9616-702a2cea2636",
+      "score": 0.84605837,
+      "metadata": {
+        "text": "core_product_name: spray nozzle | type_or_class: Fire Fighting",
+        "raw_product_name": "SPRAY NOZZLE- FIRE FIGHTING",
+        "list_of_product_ids": "6036,5215,8013,8012,8262,8263,8294,8738,8923,8927,8929,8958,9064,9069,9072,9104,9145,19631,24003,21213,19986,36157",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-a947ab69-11c3-5478-b1b6-fa5978c60e03",
+      "score": 0.8373749,
+      "metadata": {
+        "text": "core_product_name: flushing apparatus",
+        "raw_product_name": "FLUSHING APPARATUS",
+        "list_of_product_ids": "143,601,444,714,482",
+        "core_id": 958.0
+      }
+    },
+    {
+      "id": "variant-f27251ed-1fd0-5168-8cec-9afc08bd55ac",
+      "score": 0.83723766,
+      "metadata": {
+        "text": "core_product_name: spray nozzle | type_or_class: Process",
+        "raw_product_name": "SPRAY NOZZLE-PROCESS",
+        "list_of_product_ids": "6193,5361,7958,7960,7957,7959,19632,36761",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-7e796f6f-0d17-514d-aca4-a14dcdb48ba7",
+      "score": 0.83617735,
+      "metadata": {
+        "text": "core_product_name: fluid power equipment",
+        "raw_product_name": "FLUID POWER EQUIPMENT",
+        "list_of_product_ids": "1,364,936,946",
+        "core_id": 949.0
+      }
+    },
+    {
+      "id": "variant-47fd86fe-de58-5526-978d-5a567f35e2d7",
+      "score": 0.8360015,
+      "metadata": {
+        "text": "core_product_name: air heater | type_or_class: Direct Fired",
+        "raw_product_name": "AIR HEATER (DIRECT FIRED)",
+        "list_of_product_ids": "5986,5165,10747,10753,8325,8433,8870,33905",
+        "core_id": 72.0
+      }
+    },
+    {
+      "id": "variant-751ad058-fdfd-583d-9869-ca9671210d00",
+      "score": 0.8359446,
+      "metadata": {
+        "text": "core_product_name: air conditioning",
+        "raw_product_name": "AIR CONDITIONING",
+        "list_of_product_ids": "21444,21434,21452,21450,21447,22930,22932,24988,26753",
+        "core_id": 67.0
+      }
+    },
+    {
+      "id": "variant-e1e11915-0733-5349-a968-20b8807ed711",
+      "score": 0.835926,
+      "metadata": {
+        "text": "core_product_name: flare system",
+        "raw_product_name": "FLARE SYSTEM",
+        "list_of_product_ids": "13593,18504,38501,22848,38462,38489,38491",
+        "core_id": 910.0
+      }
+    },
+    {
+      "id": "variant-4eadce78-5ec1-5cb0-8032-3ed669ded9c9",
+      "score": 0.8354936,
+      "metadata": {
+        "text": "core_product_name: refrigeration plant",
+        "raw_product_name": "REFRIGERATION PLANT",
+        "list_of_product_ids": "21436,21446,21449,24990,26751",
+        "core_id": 1884.0
+      }
+    },
+    {
+      "id": "variant-faf3e95e-554f-5c8b-8920-860c5d0630da",
+      "score": 0.8353164,
+      "metadata": {
+        "text": "core_product_name: fabrication and erection boiler",
+        "raw_product_name": "BOILER - FABRICATION & ERECTION",
+        "list_of_product_ids": "16071,16114,16150,16136,35833",
+        "core_id": 217.0
+      }
+    },
+    {
+      "id": "variant-eb1a4b06-b649-5f63-ada7-72c171b54c39",
+      "score": 0.8352875,
+      "metadata": {
+        "text": "core_product_name: heat exchanger",
+        "raw_product_name": "HEAT EXCHANGER",
+        "list_of_product_ids": "6660,5831,8523,11965,12047,12855,12976,16931,17274,17385,23724,23754,21191,26141,36717,36587,36648,37716,37721,36077,36287,36281",
+        "core_id": 1110.0
+      }
+    },
+    {
+      "id": "variant-298f2c6e-2bc0-5c2f-b94c-30f82a72d824",
+      "score": 0.8352503,
+      "metadata": {
+        "text": "core_product_name: nozzle",
+        "raw_product_name": "NOZZLE",
+        "list_of_product_ids": "24248,24222,22342,22340,22766,22794,26877",
+        "core_id": 1547.0
+      }
+    },
+    {
+      "id": "variant-40f5e806-4a91-59d6-8fea-bf521847066a",
+      "score": 0.8352157,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: Forged",
+        "raw_product_name": "VALVE CHECK FORGED",
+        "list_of_product_ids": "6231,5400,11625,11641,11223,11242,11255,9246,11448,9262,8280,8383,8555,8649,8626,9412,9451,9253,9166,9343,12098,12493,12572,12656,13266,13360,19382,19390,17623,17908,18030,19711,19860,31813,36763,32701",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-31a63a03-e3b0-5171-8ec3-c5e3e1658862",
+      "score": 0.835192,
+      "metadata": {
+        "text": "core_product_name: flange | material: Carbon steel | construction_features: Raised Face (RF)",
+        "raw_product_name": "Carbon steel Flange (RF)",
+        "list_of_product_ids": "68,157,318",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-362532a2-e112-5faa-8c15-f4f72229a291",
+      "score": 0.8349847,
+      "metadata": {
+        "text": "core_product_name: air conditioner",
+        "raw_product_name": "AIR CONDITIONERS",
+        "list_of_product_ids": "143,302,076,623,224",
+        "core_id": 55.0
+      }
+    },
+    {
+      "id": "variant-35c0b277-6a3b-5856-9c86-096972d7c0d3",
+      "score": 0.8348057,
+      "metadata": {
+        "text": "core_product_name: temperature transmitter",
+        "raw_product_name": "TEMPERATURE TRANSMITTER",
+        "list_of_product_ids": "13422,36532,15082,15245,15259,15305,15312,17117,17116,17115,17114,18212,36177,36325,36511",
+        "core_id": 2226.0
+      }
+    },
+    {
+      "id": "variant-7d467917-439b-526b-86e2-6d7684487571",
+      "score": 0.8345248,
+      "metadata": {
+        "text": "core_product_name: flare stack",
+        "raw_product_name": "FLARE STACK",
+        "list_of_product_ids": "7099,7426,11802,8321,8429",
+        "core_id": 906.0
+      }
+    },
+    {
+      "id": "variant-59caacf0-2771-53a3-844e-b2c03e89997d",
+      "score": 0.8343818,
+      "metadata": {
+        "text": "core_product_name: special temperature element",
+        "raw_product_name": "SPECIAL TEMPERATURE ELEMENTS",
+        "list_of_product_ids": "6548,5719,10143,11458,11891,12796,31357,31333,35160,35199,35204,35212",
+        "core_id": 2078.0
+      }
+    },
+    {
+      "id": "variant-21302b14-ae7b-560d-b67c-e795da2ec93b",
+      "score": 0.8341101,
+      "metadata": {
+        "text": "core_product_name: special control valve | type_or_class: Angle",
+        "raw_product_name": "SPECIAL CONTROL VALVES (ANGLE)",
+        "list_of_product_ids": "13991,15407,15408,20249,23768,22455,22422,22477",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-62679370-d163-5e5f-9b77-f001aa20131b",
+      "score": 0.83396286,
+      "metadata": {
+        "text": "core_product_name: water maker",
+        "raw_product_name": "WATER MAKER",
+        "list_of_product_ids": "38441,38442,38447,38212,38213,38415,38417",
+        "core_id": 2440.0
+      }
+    },
+    {
+      "id": "variant-8dc24b6d-5968-5ab6-bdfd-656a88c69cda",
+      "score": 0.8335991,
+      "metadata": {
+        "text": "core_product_name: check cryogenic valve | construction_features: forged",
+        "raw_product_name": "VALVE CHECK CRYOGENIC FORGED",
+        "list_of_product_ids": "6232,5401,11626,10425,11418,8650,8627",
+        "core_id": 2346.0
+      }
+    },
+    {
+      "id": "variant-97bb412d-4936-5179-95e7-472a007d9f13",
+      "score": 0.8333589,
+      "metadata": {
+        "text": "core_product_name: tippler",
+        "raw_product_name": "TIPPLERS",
+        "list_of_product_ids": "6173,5344,18040,23282",
+        "core_id": 2252.0
+      }
+    },
+    {
+      "id": "variant-aac0580e-dc58-50b6-aa9f-ef718f4e38a5",
+      "score": 0.8332394,
+      "metadata": {
+        "text": "core_product_name: water cooler",
+        "raw_product_name": "Water Cooler",
+        "list_of_product_ids": "7021,7341,10208,23222",
+        "core_id": 2486.0
+      }
+    },
+    {
+      "id": "variant-f33d0a7e-0b00-525a-89f2-33ee968fb551",
+      "score": 0.8330048,
+      "metadata": {
+        "text": "core_product_name: winding temperature indicator",
+        "raw_product_name": "WINDING TEMPERATURE INDICATOR",
+        "list_of_product_ids": "6473,5644,15948,16112",
+        "core_id": 2474.0
+      }
+    },
+    {
+      "id": "variant-64fa1118-ab14-5669-9c06-569ca21af817",
+      "score": 0.83279115,
+      "metadata": {
+        "text": "core_product_name: geyser",
+        "raw_product_name": "Geyser",
+        "list_of_product_ids": "173,781,737,921,425",
+        "core_id": 1086.0
+      }
+    },
+    {
+      "id": "variant-c3e31784-7a55-5e03-ad35-80ecbe477acc",
+      "score": 0.83259,
+      "metadata": {
+        "text": "core_product_name: central air conditioning system",
+        "raw_product_name": "AIR CONDITIONING SYSTEM - CENTRAL",
+        "list_of_product_ids": "6043,5222,10728,10729,10203,6949,10820,10882,8499,19674,19821,23220",
+        "core_id": 58.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "query": "core_product_name: trefoil cable clamp | size: cable: 1Cx185 mm2, diameter: 40mm | feature_or_specifications: voltage: 6.6 kV (unarmoured extruded), conductor material: aluminium, insulation: XLPE (cross-linked polyethylene), sheath: FRLS (flame retardant low smoke) PVC (polyvinyl chloride), sheathed: armoured cables, material: PVC (polyvinyl chloride)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: tube | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC TUBE",
+        "list_of_product_ids": [
+          "223",
+          "352",
+          "233",
+          "327",
+          "804"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC Conduit",
+        "list_of_product_ids": [
+          "16287",
+          "17401",
+          "21575",
+          "16288"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: handrail | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC HANDRAIL",
+        "list_of_product_ids": [
+          "20552",
+          "20516",
+          "20593",
+          "20630",
+          "20684",
+          "20742",
+          "37427"
+        ]
+      }
+    }
+  ]
+}

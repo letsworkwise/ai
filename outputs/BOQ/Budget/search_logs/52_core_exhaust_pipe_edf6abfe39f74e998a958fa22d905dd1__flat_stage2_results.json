@@ -1,0 +1,528 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8673579,
+      "text": "core_product_name: insulation product | material: Rock Wool",
+      "core_id": 1070.0,
+      "raw_product_name": "ROCK WOOL INSULATION PRODUCTS",
+      "list_of_product_ids": [
+        "6145",
+        "5315",
+        "8806",
+        "8808",
+        "8805",
+        "8807",
+        "8809",
+        "18881",
+        "18927",
+        "24317",
+        "24318",
+        "24319",
+        "33284"
+      ]
+    },
+    {
+      "retrieval_score": 0.86277205,
+      "text": "core_product_name: pipe insulation",
+      "core_id": 1662.0,
+      "raw_product_name": "PIPE INSULATION",
+      "list_of_product_ids": [
+        "13921",
+        "16092",
+        "16635",
+        "16633",
+        "18103",
+        "23466",
+        "23458",
+        "34600"
+      ]
+    },
+    {
+      "retrieval_score": 0.860514,
+      "text": "core_product_name: acoustic insulation",
+      "core_id": 37.0,
+      "raw_product_name": "ACOUSTIC INSULATION",
+      "list_of_product_ids": [
+        "15674",
+        "15675",
+        "15676",
+        "15673",
+        "27988"
+      ]
+    },
+    {
+      "retrieval_score": 0.8586673,
+      "text": "core_product_name: insulation material",
+      "core_id": 1274.0,
+      "raw_product_name": "INSULATION MATERIAL",
+      "list_of_product_ids": [
+        "10251",
+        "10256",
+        "10261",
+        "10266",
+        "10273",
+        "10278",
+        "10281",
+        "7088",
+        "7415",
+        "10172",
+        "10221",
+        "10226",
+        "10230",
+        "10234",
+        "10240",
+        "10245",
+        "11862",
+        "13008",
+        "38431",
+        "33383"
+      ]
+    },
+    {
+      "retrieval_score": 0.85746074,
+      "text": "core_product_name: thermal insulation",
+      "core_id": 2305.0,
+      "raw_product_name": "Thermal Insulation",
+      "list_of_product_ids": [
+        "7572",
+        "7247",
+        "11774",
+        "11775",
+        "7759",
+        "7755",
+        "7757",
+        "9770",
+        "12863",
+        "13002",
+        "13009",
+        "16997",
+        "17020",
+        "17014",
+        "34601"
+      ]
+    },
+    {
+      "retrieval_score": 0.85558933,
+      "text": "core_product_name: duct insulation",
+      "core_id": 639.0,
+      "raw_product_name": "DUCT INSULATION",
+      "list_of_product_ids": [
+        "13749",
+        "16142",
+        "22567",
+        "22558",
+        "37316"
+      ]
+    },
+    {
+      "retrieval_score": 0.85497457,
+      "text": "core_product_name: check valve | construction_features: pre-insulation",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK PRE-INSULATION",
+      "list_of_product_ids": [
+        "1",
+        "544",
+        "118",
+        "796"
+      ]
+    },
+    {
+      "retrieval_score": 0.85410064,
+      "text": "core_product_name: insulation product | material: Glass Wool",
+      "core_id": 1070.0,
+      "raw_product_name": "GLASS WOOL INSULATION PRODUCTS",
+      "list_of_product_ids": [
+        "6",
+        "146",
+        "531",
+        "624",
+        "323"
+      ]
+    },
+    {
+      "retrieval_score": 0.8533095,
+      "text": "core_product_name: insulation",
+      "core_id": 404.0,
+      "raw_product_name": "INSULATION WORK",
+      "list_of_product_ids": [
+        "7089",
+        "7416",
+        "11863",
+        "19372",
+        "39269",
+        "39319",
+        "39323",
+        "39417"
+      ]
+    },
+    {
+      "retrieval_score": 0.85292566,
+      "text": "core_product_name: insulation",
+      "core_id": 404.0,
+      "raw_product_name": "COMPARTMENTS INSULATION",
+      "list_of_product_ids": [
+        "23464",
+        "23467",
+        "23465",
+        "28660"
+      ]
+    },
+    {
+      "retrieval_score": 0.85185885,
+      "text": "core_product_name: pre-insulated pre-insulated pipe",
+      "core_id": 1754.0,
+      "raw_product_name": "PRE-INSULATED PIPE",
+      "list_of_product_ids": [
+        "243",
+        "272",
+        "432",
+        "826",
+        "873"
+      ]
+    },
+    {
+      "retrieval_score": 0.84941345,
+      "text": "core_product_name: pre-insulated tubing",
+      "core_id": 1756.0,
+      "raw_product_name": "PRE-INSULATED TUBING",
+      "list_of_product_ids": [
+        "3",
+        "089",
+        "330",
+        "898"
+      ]
+    },
+    {
+      "retrieval_score": 0.84911954,
+      "text": "core_product_name: equipment insulation",
+      "core_id": 761.0,
+      "raw_product_name": "EQUIPMENT INSULATION WORKS",
+      "list_of_product_ids": [
+        "358",
+        "293",
+        "583",
+        "235",
+        "880"
+      ]
+    },
+    {
+      "retrieval_score": 0.848797,
+      "text": "core_product_name: insulating brick",
+      "core_id": 1267.0,
+      "raw_product_name": "INSULATING BRICKS",
+      "list_of_product_ids": [
+        "6137",
+        "5304",
+        "8830",
+        "8851",
+        "8855",
+        "8862",
+        "8863",
+        "8864",
+        "9618",
+        "9623",
+        "9625",
+        "9659",
+        "9800",
+        "13152",
+        "24285"
+      ]
+    },
+    {
+      "retrieval_score": 0.8487181,
+      "text": "core_product_name: large-diameter pipe",
+      "core_id": 1410.0,
+      "raw_product_name": "Large-diameter pipe",
+      "list_of_product_ids": [
+        "758",
+        "772",
+        "628",
+        "028"
+      ]
+    },
+    {
+      "retrieval_score": 0.8485737,
+      "text": "core_product_name: insulation tape",
+      "core_id": 1275.0,
+      "raw_product_name": "INSULATION TAPE",
+      "list_of_product_ids": [
+        "211",
+        "492",
+        "114",
+        "827",
+        "368"
+      ]
+    },
+    {
+      "retrieval_score": 0.84595865,
+      "text": "core_product_name: insulating material | material: Ceramic",
+      "core_id": 336.0,
+      "raw_product_name": "CERAMIC INSULATING MATERIALS",
+      "list_of_product_ids": [
+        "23418",
+        "23419",
+        "27486",
+        "27512"
+      ]
+    },
+    {
+      "retrieval_score": 0.8456557,
+      "text": "core_product_name: insulating refractory castable",
+      "core_id": 1271.0,
+      "raw_product_name": "INSULATING REFRACTORY CASTABLE",
+      "list_of_product_ids": [
+        "6140",
+        "5310",
+        "10463",
+        "8833",
+        "8836",
+        "8850",
+        "8866",
+        "9621",
+        "9629",
+        "9662",
+        "9667",
+        "9658",
+        "9802",
+        "13156",
+        "24310"
+      ]
+    },
+    {
+      "retrieval_score": 0.84489447,
+      "text": "core_product_name: composite insulator | material: Polymer",
+      "core_id": 411.0,
+      "raw_product_name": "COMPOSITE POLYMER INSULATOR",
+      "list_of_product_ids": [
+        "3",
+        "448",
+        "834",
+        "589"
+      ]
+    },
+    {
+      "retrieval_score": 0.84432817,
+      "text": "core_product_name: cladded pipe",
+      "core_id": 359.0,
+      "raw_product_name": "CLADDED PIPE",
+      "list_of_product_ids": [
+        "6295",
+        "5466",
+        "11562",
+        "7764",
+        "7783",
+        "7799",
+        "13030",
+        "13031"
+      ]
+    },
+    {
+      "retrieval_score": 0.8443242,
+      "text": "core_product_name: insulating oil",
+      "core_id": 1270.0,
+      "raw_product_name": "INSULATING OIL",
+      "list_of_product_ids": [
+        "18524",
+        "18500",
+        "18499",
+        "28032"
+      ]
+    },
+    {
+      "retrieval_score": 0.8435976,
+      "text": "core_product_name: silencer",
+      "core_id": 2028.0,
+      "raw_product_name": "SILENCER",
+      "list_of_product_ids": [
+        "6692",
+        "5863",
+        "7008",
+        "7626",
+        "7629",
+        "10726",
+        "10727",
+        "8767",
+        "12694",
+        "17305",
+        "18480",
+        "18461",
+        "18448",
+        "18443",
+        "22896"
+      ]
+    },
+    {
+      "retrieval_score": 0.84331274,
+      "text": "core_product_name: tank insulation",
+      "core_id": 2201.0,
+      "raw_product_name": "TANK INSULATION",
+      "list_of_product_ids": [
+        "1",
+        "663",
+        "716",
+        "640"
+      ]
+    },
+    {
+      "retrieval_score": 0.8425138,
+      "text": "core_product_name: underdeck insulation",
+      "core_id": 1273.0,
+      "raw_product_name": "INSULATION - UNDERDECK INSULATION",
+      "list_of_product_ids": [
+        "6370",
+        "5541",
+        "9768",
+        "15692",
+        "15693",
+        "33283",
+        "35247",
+        "35248"
+      ]
+    },
+    {
+      "retrieval_score": 0.8423003,
+      "text": "core_product_name: acoustic marine exhaust system",
+      "core_id": 36.0,
+      "raw_product_name": "ACOUSTIC MARINE EXHAUST SYSTEM",
+      "list_of_product_ids": [
+        "22923",
+        "22924",
+        "22925",
+        "22926",
+        "28650"
+      ]
+    },
+    {
+      "retrieval_score": 0.8421547,
+      "text": "core_product_name: insulator",
+      "core_id": 1276.0,
+      "raw_product_name": "INSULATORS",
+      "list_of_product_ids": [
+        "13735",
+        "16095",
+        "16113",
+        "16245",
+        "16250",
+        "16327",
+        "16424",
+        "16423",
+        "16418",
+        "16417",
+        "16438",
+        "16460",
+        "16529",
+        "23142",
+        "16504"
+      ]
+    },
+    {
+      "retrieval_score": 0.84177476,
+      "text": "core_product_name: overdeck insulation",
+      "core_id": 1272.0,
+      "raw_product_name": "INSULATION - OVERDECK INSULATION",
+      "list_of_product_ids": [
+        "6371",
+        "5542",
+        "9769",
+        "15691",
+        "15689",
+        "23825",
+        "33346"
+      ]
+    },
+    {
+      "retrieval_score": 0.8416667,
+      "text": "core_product_name: primary structure | construction_features: welded",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+      "list_of_product_ids": [
+        "19999",
+        "20036",
+        "22016",
+        "21003",
+        "21084",
+        "21900",
+        "22115",
+        "21039",
+        "19993",
+        "22825",
+        "22991"
+      ]
+    },
+    {
+      "retrieval_score": 0.84124416,
+      "text": "core_product_name: welded carbon steel pipe",
+      "core_id": 1668.0,
+      "raw_product_name": "PIPE-CARBON STEEL(WELDED)",
+      "list_of_product_ids": [
+        "6285",
+        "5456",
+        "10297",
+        "11150",
+        "10323",
+        "10338",
+        "10393",
+        "10395",
+        "11216",
+        "10576",
+        "10598",
+        "10612",
+        "10619",
+        "10673",
+        "7773",
+        "7758",
+        "7763",
+        "7792",
+        "8069",
+        "8071",
+        "8074",
+        "8077",
+        "8067",
+        "8070",
+        "9271",
+        "9272",
+        "9286",
+        "8072",
+        "8073",
+        "12255",
+        "12565",
+        "12673",
+        "12675",
+        "12690",
+        "13007",
+        "13020",
+        "13011",
+        "13023",
+        "13227",
+        "13230",
+        "13233",
+        "13238",
+        "13242",
+        "13278",
+        "13285",
+        "13292",
+        "13328",
+        "17573",
+        "17570",
+        "17626",
+        "17761",
+        "17279",
+        "22204"
+      ]
+    },
+    {
+      "retrieval_score": 0.84112835,
+      "text": "core_product_name: alloy cast iron pipe",
+      "core_id": 86.0,
+      "raw_product_name": "ALLOY CAST IRON PIPE",
+      "list_of_product_ids": [
+        "9561",
+        "9521",
+        "14413",
+        "14415",
+        "14417",
+        "14424"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "query": "core_product_name: professional charges for obtaining statutory permission",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: engineering service provider",
+        "raw_product_name": "ENGINEERING SERVICE PROVIDERS",
+        "list_of_product_ids": [
+          "17042",
+          "17049",
+          "17128",
+          "17151",
+          "17143",
+          "17159",
+          "17176"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: third party inspection agency",
+        "raw_product_name": "THIRD PARTY INSPECTION AGENCY",
+        "list_of_product_ids": [
+          "21803",
+          "21834",
+          "27909",
+          "35826"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: testing, inspection, survey agency",
+        "raw_product_name": "TESTING, INSPECTION, SURVEY AGENCIES",
+        "list_of_product_ids": [
+          "16973",
+          "17022",
+          "27085",
+          "16890",
+          "34961",
+          "35827",
+          "35823"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "query": "core_product_name: electrically operated barrier gate | size: boom length: approx. 7 m | feature_or_specifications: feature: detection mechanism, feature: manual bypass control, feature: ex-proof (explosion proof) motor, feature: exproof traffic lamp, feature: electronics, feature: configurable closing & opening time, feature: sensors for detection of vehicle crossing, feature: supporting structure, fittings, cable supports, location: security entry and exit at licence area, bulk truck entry/exit",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: gate",
+        "raw_product_name": "GATES",
+        "list_of_product_ids": [
+          "137",
+          "191",
+          "954",
+          "523",
+          "241"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: motor operated gate valve",
+        "raw_product_name": "VALVE GATE (MOTOR OPERATED)",
+        "list_of_product_ids": [
+          "6218",
+          "5387",
+          "11618",
+          "11637",
+          "10421",
+          "11240",
+          "11253",
+          "11261",
+          "11414",
+          "8378",
+          "8552",
+          "8619",
+          "12325",
+          "12447",
+          "13255",
+          "16547",
+          "19370",
+          "17641",
+          "21275",
+          "31563",
+          "24877",
+          "31716",
+          "34952",
+          "35533"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: electric block",
+        "raw_product_name": "ELECTRIC BLOCK",
+        "list_of_product_ids": [
+          "196",
+          "271",
+          "962",
+          "627",
+          "101"
+        ]
+      }
+    }
+  ]
+}

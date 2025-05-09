@@ -1,0 +1,55 @@
+{
+  "query": "core_product_name: lighting pole | size: height: 9.5 mtr | feature_or_specifications: type: polygonal, mounting: base, accessories: mcb (miniature circuit breaker) and terminal block, jb (junction box) as applicable, hardware: zinc passivated for fixtures support and pole support, cable protection: pipe with earthing rod or wire as applicable, accessories: clamps, nuts, bolts, etc.",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: polygonal pole",
+        "raw_product_name": "POLYGONAL POLE",
+        "list_of_product_ids": [
+          "17349",
+          "17339",
+          "20226",
+          "20351"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: street light pole",
+        "raw_product_name": "STREET LIGHT POLES",
+        "list_of_product_ids": [
+          "241",
+          "872",
+          "418",
+          "827",
+          "640"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting mast",
+        "raw_product_name": "Lighting Masts",
+        "list_of_product_ids": [
+          "15628",
+          "24242",
+          "15727",
+          "15629"
+        ]
+      }
+    }
+  ]
+}

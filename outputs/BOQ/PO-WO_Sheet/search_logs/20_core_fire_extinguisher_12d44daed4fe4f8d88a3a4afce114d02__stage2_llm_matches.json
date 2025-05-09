@@ -1,0 +1,96 @@
+{
+  "query": "core_product_name: fire extinguisher | size: type: co2(carbon dioxide), weight: 4.5kg | feature_or_specifications: manufacturer: kanex",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire extinguisher",
+        "raw_product_name": "FIRE EXTINGUISHERS",
+        "list_of_product_ids": [
+          "6022",
+          "5201",
+          "8260",
+          "8312",
+          "8475",
+          "8924",
+          "9065",
+          "14404",
+          "15759",
+          "16244",
+          "16252",
+          "16390",
+          "19167",
+          "18179",
+          "19188",
+          "19455",
+          "19461",
+          "19522",
+          "19531",
+          "19550",
+          "19557",
+          "21036",
+          "21063",
+          "21214",
+          "21458",
+          "23513",
+          "21470",
+          "20756",
+          "19568",
+          "19165",
+          "28059",
+          "36560",
+          "36561",
+          "36559",
+          "36558",
+          "37456",
+          "33787",
+          "34087",
+          "34954",
+          "34965",
+          "34984",
+          "35003",
+          "35021"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: portable fire extinguisher",
+        "raw_product_name": "Portable Fire Extinguishers",
+        "list_of_product_ids": [
+          "7103",
+          "7430",
+          "8261",
+          "15762",
+          "16407",
+          "18427",
+          "23511",
+          "38383",
+          "37506"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: trolley mounted fire extinguisher | acronymed_core_product_name: CAF (Compressed Air Foam) fire extinguisher | type_or_class: Water Mist | type_or_class: CAF (Compressed Air Foam)",
+        "raw_product_name": "WATER MIST & CAF FIRE EXTINGUISHER TROLLEY MOUNTED",
+        "list_of_product_ids": [
+          "189",
+          "542",
+          "806",
+          "418",
+          "910"
+        ]
+      }
+    }
+  ]
+}

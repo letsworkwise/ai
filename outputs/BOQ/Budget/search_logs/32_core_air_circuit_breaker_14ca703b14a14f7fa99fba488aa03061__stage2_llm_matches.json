@@ -1,0 +1,74 @@
+{
+  "query": "core_product_name: air circuit breaker | acronymed_core_product_name: acb | size: current rating: 2500A (2500 amperes), poles: 4P (4 poles) | feature_or_specifications: feature: earth fault (EF), feature: overcurrent (o/c), feature: short circuit (s/c), feature: earth fault (e/f) releases, mounting: on alternator, accessory: adopter box suitable for cable termination",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: air circuit breaker",
+        "raw_product_name": "AIR CIRCUIT BREAKER",
+        "list_of_product_ids": [
+          "6437",
+          "5607",
+          "11168",
+          "11217",
+          "20772",
+          "21201",
+          "24462",
+          "24461",
+          "24449",
+          "38509",
+          "38082"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: moulded case circuit breaker",
+        "raw_product_name": "MOULDED CASE CIRCUIT BREAKER",
+        "list_of_product_ids": [
+          "178",
+          "541",
+          "784",
+          "318",
+          "652"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: miniature circuit breaker | acronymed_core_product_name: mcb",
+        "raw_product_name": "MCB",
+        "list_of_product_ids": [
+          "6462",
+          "5633",
+          "10157",
+          "10663",
+          "9350",
+          "9447",
+          "9151",
+          "9187",
+          "9219",
+          "9361",
+          "11905",
+          "11944",
+          "17873",
+          "19028",
+          "19645",
+          "19652",
+          "20775",
+          "21203",
+          "19140",
+          "38290",
+          "36563"
+        ]
+      }
+    }
+  ]
+}

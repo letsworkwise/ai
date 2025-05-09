@@ -1,0 +1,118 @@
+{
+  "query": "core_product_name: drain valve | size: size: 25NB | feature_or_specifications: type: ball valve",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: drain valve | type_or_class: 2-way",
+        "raw_product_name": "2-WAY DRAIN VALVES",
+        "list_of_product_ids": [
+          "8604",
+          "14150",
+          "22610",
+          "22890"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "type_or_class"
+      ],
+      "match_details": {
+        "text": "core_product_name: ball valve | type_or_class: FS (Full Bore or Full Size)",
+        "raw_product_name": "VALVE BALL FS",
+        "list_of_product_ids": [
+          "8659"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: ball valve",
+        "raw_product_name": "VALVE BALL",
+        "list_of_product_ids": [
+          "6237",
+          "5406",
+          "11008",
+          "11005",
+          "29396",
+          "10351",
+          "10404",
+          "10409",
+          "11226",
+          "11395",
+          "9949",
+          "9951",
+          "9954",
+          "6846",
+          "6850",
+          "6855",
+          "6860",
+          "6865",
+          "6870",
+          "6875",
+          "6880",
+          "6885",
+          "6890",
+          "6895",
+          "7868",
+          "7869",
+          "8147",
+          "8156",
+          "8162",
+          "8141",
+          "8145",
+          "8150",
+          "8157",
+          "8598",
+          "8727",
+          "8789",
+          "12309",
+          "12569",
+          "12696",
+          "13281",
+          "9950",
+          "15595",
+          "17774",
+          "17756",
+          "17834",
+          "18076",
+          "18082",
+          "18089",
+          "18093",
+          "18095",
+          "18943",
+          "19750",
+          "19905",
+          "23740",
+          "22358",
+          "31567",
+          "30829",
+          "30836",
+          "30838",
+          "30842",
+          "30848",
+          "29302",
+          "36589",
+          "35452",
+          "35713",
+          "36452",
+          "39882",
+          "39941",
+          "40280",
+          "40272"
+        ]
+      }
+    }
+  ]
+}

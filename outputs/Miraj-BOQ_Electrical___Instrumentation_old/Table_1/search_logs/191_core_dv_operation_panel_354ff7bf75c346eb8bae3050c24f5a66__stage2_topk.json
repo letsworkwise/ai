@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: dv operation panel | feature_or_specifications: integration: plc(programmable logic controller), pb(push button), indication: operation lamp for 'dv on fire' and 'dv operated', for: deluge valve (9 nos + 1 spare), included: all hardware and software, installation: fire water pump house, main gate security room",
+  "retrieval_results": [
+    {
+      "id": "variant-36546641-c966-56c1-bc4e-3a8fa0c0e909",
+      "score": 0.8524436,
+      "metadata": {
+        "text": "core_product_name: programmable logic controller-fire and gas system | acronymed_core_product_name: PLC-FGS",
+        "raw_product_name": "PLC-FGS",
+        "list_of_product_ids": "13801,15110,20985,23214,36204,36353",
+        "core_id": 1706.0
+      }
+    },
+    {
+      "id": "variant-46b33277-ca09-5aed-94ae-7473c55450ef",
+      "score": 0.84448814,
+      "metadata": {
+        "text": "core_product_name: pressure balanced plug valve | type_or_class: Fire Safe (FS)",
+        "raw_product_name": "VALVE PLUG PRESSURE BALANCED (FS)",
+        "list_of_product_ids": "6211,5380,7840,8136,8699,35591",
+        "core_id": 2369.0
+      }
+    },
+    {
+      "id": "variant-de77b19c-5920-5260-afdf-af161f80d91f",
+      "score": 0.8442417,
+      "metadata": {
+        "text": "core_product_name: programmable logic controller system | acronymed_core_product_name: plc system (programmable logic controller)",
+        "raw_product_name": "PLC system (Programmable Logic Controller)",
+        "list_of_product_ids": "12296,12295,12297,12301,14199,14322,14405,14406,17988,17987,17986,17985,17984,17983,20020,20145,20144,37679,36223,36375",
+        "core_id": 1704.0
+      }
+    },
+    {
+      "id": "variant-bd421ff8-d26f-5bdf-9169-191ddfd379a4",
+      "score": 0.8437081,
+      "metadata": {
+        "text": "core_product_name: digital switch | operating_conditions: Temperature | mounting_or_installation: Panel mounted",
+        "raw_product_name": "DIGITAL TEMP SWITCH PANEL MOUNTED TYPE",
+        "list_of_product_ids": "164,041,650,716,513",
+        "core_id": 592.0
+      }
+    },
+    {
+      "id": "variant-96e42f53-7dee-5b27-ad19-00ef4397fc52",
+      "score": 0.84300035,
+      "metadata": {
+        "text": "core_product_name: programmable logic controller | acronymed_core_product_name: plc subsystem",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER (PLC SUBSYSTEM)",
+        "list_of_product_ids": "13889,15107,20015,20010,36350,37195,36201",
+        "core_id": 1794.0
+      }
+    },
+    {
+      "id": "variant-67b26ec1-b16a-558a-a6bb-0ea3206762e1",
+      "score": 0.8414571,
+      "metadata": {
+        "text": "core_product_name: push button and indicating lamp",
+        "raw_product_name": "PUSH BUTTON AND INDICATING LAMPS",
+        "list_of_product_ids": "6469,5640,9352,9148,9153,9155,11848,19079,17539,17810,19007,20969,36691,38266,38081",
+        "core_id": 1821.0
+      }
+    },
+    {
+      "id": "variant-6ce5df1a-62a3-53a5-9aca-7d1652976509",
+      "score": 0.84138274,
+      "metadata": {
+        "text": "core_product_name: lighting and power panel | acronymed_core_product_name: FLP (Flameproof) panel | protection_features: Flameproof",
+        "raw_product_name": "LIGHTING & POWER PANELS (FLP)",
+        "list_of_product_ids": "6418,5588,7009,10306,10579,10558,10588,10602,18874,18920,22851,26777,26773,26754,26750,35770",
+        "core_id": 1351.0
+      }
+    },
+    {
+      "id": "variant-958dd18c-6227-509f-8329-a37240545b6c",
+      "score": 0.8413069,
+      "metadata": {
+        "text": "core_product_name: patch cable | acronymed_core_product_name: plc (programmable logic controller) patch cable | type_or_class: PLC (Programmable Logic Controller) Patch",
+        "raw_product_name": "PLC PATCH CABLES",
+        "list_of_product_ids": "13796,18811,20179,24065,23917",
+        "core_id": 1705.0
+      }
+    },
+    {
+      "id": "variant-c449a816-ca9b-53e9-8395-3149f299de11",
+      "score": 0.83911777,
+      "metadata": {
+        "text": "core_product_name: check valve | operating_conditions: LP (Low Pressure) application",
+        "raw_product_name": "Valves check for LP application",
+        "list_of_product_ids": "8343",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-9a913960-e86a-57a6-99fb-869ab0a4d202",
+      "score": 0.83911777,
+      "metadata": {
+        "text": "core_product_name: check valve | operating_conditions: LP (Low Pressure) application",
+        "raw_product_name": "Valve check for LP application",
+        "list_of_product_ids": "14071,14931,22241,22353",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-24de6957-62d8-5579-9463-54c117e3e97c",
+      "score": 0.83742905,
+      "metadata": {
+        "text": "core_product_name: programmable logic controller",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLERS",
+        "list_of_product_ids": "6565,5735,11164,10154,11376,9379,9159,9221,11902,12182,36522,17895,18871,18916,29683,30474,38193,36169,36317",
+        "core_id": 1794.0
+      }
+    },
+    {
+      "id": "variant-22d16fba-0576-5731-939b-292a6a276060",
+      "score": 0.83704895,
+      "metadata": {
+        "text": "core_product_name: non return valve | operating_conditions: Liquefied Petroleum Gas (LPG)",
+        "raw_product_name": "VALVE NON RETURN - LIQUEFIED PETROLEUM GAS",
+        "list_of_product_ids": "39747,39769,39781,39854,39880,40074,40216,40307",
+        "core_id": 1555.0
+      }
+    },
+    {
+      "id": "variant-46fe9328-f322-5cf5-9c7f-ff3a8d430ae6",
+      "score": 0.8369379,
+      "metadata": {
+        "text": "core_product_name: pressure control valve",
+        "raw_product_name": "PRESSURE CONTROL VALVE",
+        "list_of_product_ids": "14378,14380,16837,17055,17085,17627,17851,17905,17903,18055,18045,18036,18233,20949,21592,21600,21661,22355,23084,23330,10654,10876,36298,36435,40310",
+        "core_id": 1770.0
+      }
+    },
+    {
+      "id": "variant-413ae249-19f3-5238-9e1e-81c9b8824457",
+      "score": 0.8368313,
+      "metadata": {
+        "text": "core_product_name: addressable fire alarm panel",
+        "raw_product_name": "ADDRESSABLE FIRE ALARM PANEL",
+        "list_of_product_ids": "37759,37764,37769,37774,37780,37790",
+        "core_id": 48.0
+      }
+    },
+    {
+      "id": "variant-ab7c0fe6-7f89-58bd-a77d-96e26004063c",
+      "score": 0.83594286,
+      "metadata": {
+        "text": "core_product_name: gate valve | operating_conditions: LP (Low Pressure) application",
+        "raw_product_name": "Valve gate for LP application",
+        "list_of_product_ids": "14074,14930,22240,22352,35540",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-f6b16a22-323d-5f34-bc15-d289c18f7ea2",
+      "score": 0.835636,
+      "metadata": {
+        "text": "core_product_name: gate valve | type_or_class: Liquefied Petroleum Gas (LPG)",
+        "raw_product_name": "VALVE GATE - LIQUEFIED PETROLEUM GAS",
+        "list_of_product_ids": "39743,39767,39780,39852,39878,40072,40214,40305",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-61a25548-383b-5b43-b6f5-a3fe1adbb579",
+      "score": 0.8354082,
+      "metadata": {
+        "text": "core_product_name: fire protection system | accessories_or_attachments: Valves and Accessories",
+        "raw_product_name": "FIRE PROTECTION SYSTEM (VALVES & ACC.)",
+        "list_of_product_ids": "6603,5773,10731,7858,35221",
+        "core_id": 858.0
+      }
+    },
+    {
+      "id": "variant-291e72e9-4ff3-5fec-b97d-e2333a7f5ad3",
+      "score": 0.8351089,
+      "metadata": {
+        "text": "core_product_name: pilot operated safety valve",
+        "raw_product_name": "PILOT OPERATED SAFETY VALVES",
+        "list_of_product_ids": "6503,5674,10294,10699,12189,12786,12847,12850,12913,13199,28219,28218,28217,28216,28215,28810,36167,36299,36315,36436",
+        "core_id": 1654.0
+      }
+    },
+    {
+      "id": "variant-55df606f-6c3e-57a0-a4b7-5cb034b404b6",
+      "score": 0.8350565,
+      "metadata": {
+        "text": "core_product_name: plug multiport valve | protection_features: Non Fire Safe",
+        "raw_product_name": "VALVE PLUG MULTIPORT - NON FIRE SAFE",
+        "list_of_product_ids": "6,264,543,335,593",
+        "core_id": 2368.0
+      }
+    },
+    {
+      "id": "variant-b28cfd5b-efed-577a-b4eb-6e1125cc375b",
+      "score": 0.8347487,
+      "metadata": {
+        "text": "core_product_name: plug valve | type_or_class: FS (Fire Safe)",
+        "raw_product_name": "VALVE PLUG FS",
+        "list_of_product_ids": "14041,23307,23295,23368,23669,23653,35580",
+        "core_id": 2366.0
+      }
+    },
+    {
+      "id": "variant-1b301242-51fc-526a-84ff-a5c917de276a",
+      "score": 0.8347067,
+      "metadata": {
+        "text": "core_product_name: pressure indicating controller",
+        "raw_product_name": "PRESSURE INDICATING CONTROLLERS",
+        "list_of_product_ids": "17056,17059,17058,17057,28751,36365,40118",
+        "core_id": 1772.0
+      }
+    },
+    {
+      "id": "variant-a3130879-dbb1-5a85-b586-b7532fa00f58",
+      "score": 0.83445305,
+      "metadata": {
+        "text": "core_product_name: plug valve | type_or_class: DBB (Double Block and Bleed) Expanding Type",
+        "raw_product_name": "VALVE PLUG DBB EXPANDING TYPE",
+        "list_of_product_ids": "6263,5432,7826,35587",
+        "core_id": 2366.0
+      }
+    },
+    {
+      "id": "variant-daf01be2-4034-5588-bc5d-1ce881dcd7a8",
+      "score": 0.834313,
+      "metadata": {
+        "text": "core_product_name: portable mounted fire pump",
+        "raw_product_name": "PORTABLE MOUNTED FIRE PUMP",
+        "list_of_product_ids": "169,951,698,627,535",
+        "core_id": 1727.0
+      }
+    },
+    {
+      "id": "variant-a4ea8586-2f68-5a84-8133-1b60d2515db2",
+      "score": 0.833737,
+      "metadata": {
+        "text": "core_product_name: double disc gate valve",
+        "raw_product_name": "VALVE DOUBLE DISC GATE",
+        "list_of_product_ids": "62,675,436",
+        "core_id": 2354.0
+      }
+    },
+    {
+      "id": "variant-4ac8de47-d4ec-5a19-abfc-7860f49138c9",
+      "score": 0.8336888,
+      "metadata": {
+        "text": "core_product_name: deluge valve",
+        "raw_product_name": "DELUGE VALVE",
+        "list_of_product_ids": "6385,5556,6997,7010,9956,9957,8289,8298,8735,8882,8922,8926,8930,8957,9063,9068,9073,9103,9146,12394,18887,18933,23761,24221,22765,22793",
+        "core_id": 565.0
+      }
+    },
+    {
+      "id": "variant-09f84e2a-cf4a-5a65-bf36-29d0593de5b2",
+      "score": 0.8333907,
+      "metadata": {
+        "text": "core_product_name: globe valve | operating_conditions: LP (Low Pressure) application",
+        "raw_product_name": "Valve globe for LP application",
+        "list_of_product_ids": "14081,14929,22239,22351,35567",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-bcf82008-5c80-57da-9b07-8197c58dabea",
+      "score": 0.8333512,
+      "metadata": {
+        "text": "core_product_name: diaphragm pump | operating_conditions: Natural Gas Operated",
+        "raw_product_name": "PUMP -NATURAL GAS OPERATED DIAPHRAGM",
+        "list_of_product_ids": "385,413,854,238,545",
+        "core_id": 1810.0
+      }
+    },
+    {
+      "id": "variant-432d6d96-2d4e-59ab-83ec-fe9f39d46527",
+      "score": 0.8332156,
+      "metadata": {
+        "text": "core_product_name: fire safe valve | operating_conditions: Steam | protection_features: Fire safe",
+        "raw_product_name": "FIRE SAFE VALVE - STEAM",
+        "list_of_product_ids": "39713,39741,39766,39856,39937,40069,40210,40303",
+        "core_id": 857.0
+      }
+    },
+    {
+      "id": "variant-856bb272-a0de-5132-8ff2-cd7de33b398f",
+      "score": 0.8331913,
+      "metadata": {
+        "text": "core_product_name: flameproof push button station | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF PUSH BUTTON STATION",
+        "list_of_product_ids": "13585,14846,15921,20279",
+        "core_id": 898.0
+      }
+    },
+    {
+      "id": "variant-cdfcd3fd-4f2c-5abe-8c10-dfa71f7ec1b2",
+      "score": 0.83267033,
+      "metadata": {
+        "text": "core_product_name: on-off valve | type_or_class: Plug",
+        "raw_product_name": "ON-OFF VALVES (PLUG)",
+        "list_of_product_ids": "20283,20311,20480,20473,20661,20719,35584",
+        "core_id": 1594.0
+      }
+    }
+  ]
+}

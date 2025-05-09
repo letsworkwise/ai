@@ -1,0 +1,90 @@
+{
+  "query": "core_product_name: flameproof solenoid valve | size: voltage: 24v dc, connection: 1/2\" npt | feature_or_specifications: suitable for: hazardous area zone-1, certification: iia/iib t3, included: 9 nos for dv(deluge valve) + 2 nos spares",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: solenoid valve",
+        "raw_product_name": "SOLENOID VALVES",
+        "list_of_product_ids": [
+          "6490",
+          "5661",
+          "11653",
+          "11670",
+          "11456",
+          "11454",
+          "8822",
+          "9136",
+          "12122",
+          "12126",
+          "12138",
+          "12145",
+          "12137",
+          "12176",
+          "12175",
+          "12206",
+          "12207",
+          "17141",
+          "17142",
+          "18479",
+          "18900",
+          "18944",
+          "23735",
+          "22264",
+          "36629",
+          "31448",
+          "36947",
+          "37248",
+          "36688",
+          "40244",
+          "40297"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof equipment | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF EQUIPMENT",
+        "list_of_product_ids": [
+          "13446",
+          "13447",
+          "13448",
+          "13449",
+          "13450",
+          "13473",
+          "13477"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "protection_features"
+      ],
+      "match_details": {
+        "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+        "list_of_product_ids": [
+          "13583",
+          "14851",
+          "20281",
+          "22858",
+          "26788",
+          "26787",
+          "26786",
+          "26789",
+          "35773"
+        ]
+      }
+    }
+  ]
+}

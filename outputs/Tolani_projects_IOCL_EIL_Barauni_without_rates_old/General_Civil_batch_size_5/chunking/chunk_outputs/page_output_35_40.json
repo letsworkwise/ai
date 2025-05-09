@@ -1,0 +1,118 @@
+{
+  "sheet_name": "General Civil",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)",
+      "full_product_description": "DYE PENETRATION / MAGNETIC PARTICLE TEST  Performing of magnetic particle test or dye penetration test including supply of all necessary materials, equipment and labour for carrying out the work as per specs. and direction of Engineer-in -charge (ITEM NO: 01GC.28.1) DP TEST LENGTH (BW&SW) (ITEM NO: 01GC.28.1.1)",
+      "core_product_name": "dye penetration or magnetic particle test",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "includes: supply of all necessary materials, equipment and labour, as per specs and direction of engineer-in-charge",
+      "quantity": "150.0",
+      "unit": "inch"
+    },
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)",
+      "full_product_description": "DYE PENETRATION / MAGNETIC PARTICLE TEST  Performing of magnetic particle test or dye penetration test including supply of all necessary materials, equipment and labour for carrying out the work as per specs. and direction of Engineer-in -charge (ITEM NO: 01GC.28.1) MAGNETIC PARTICLE TEST (ITEM NO: 01GC.28.1.2)",
+      "core_product_name": "dye penetration or magnetic particle test",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "includes: supply of all necessary materials, equipment and labour, as per specs and direction of engineer-in-charge",
+      "quantity": "150.0",
+      "unit": "inch"
+    },
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)",
+      "full_product_description": "Installation of Valve (ITEM NO: 01GC.30)",
+      "core_product_name": "valve installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)",
+      "full_product_description": "Transportation of all kind of valves( including special and motor operated valves) from owner's storage point to contractor's store/ work site and installation of valves for all rating including assembly of valve accessories, if any, fixing of gaskets, bolts/ nuts etc. complete as per specifications drawings and direction of Engineer-in-charge including returning all unused/ surplus material to owner's storage point (valves along with accessories shall be supplied by owner as free issue material) (ITEM NO: 01GC.30.1)",
+      "core_product_name": "valve transportation and installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "includes: assembly of valve accessories, fixing of gaskets, bolts/ nuts, as per specifications drawings and direction of engineer-in-charge, returning all unused/ surplus material to owner's storage point, valves along with accessories shall be supplied by owner as free issue material",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      35,
+      39
+    ],
+    "original_rows": [
+      {
+        "0": 684,
+        "1": 0,
+        "2": "01GC.28.1.1",
+        "3": "DP TEST LENGTH (BW&SW)",
+        "4": 150.0,
+        "5": "Inch",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 685,
+        "1": 0,
+        "2": "01GC.28.1.2",
+        "3": "MAGNETIC PARTICLE TEST",
+        "4": 150.0,
+        "5": "Inch",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 686,
+        "1": 0,
+        "2": "01GC.30",
+        "3": "Installation of Valve",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 687,
+        "1": 0,
+        "2": "01GC.30.1",
+        "3": "Transportation of all kind of valves( including special and motor operated valves) from owner's storage point to contractor's store/ work site and installation of valves for all rating including assembly of valve accessories, if any, fixing of gaskets, bolts/ nuts etc. complete as per specifications drawings and direction of Engineer-in-charge including returning all unused/ surplus material to owner's storage point (valves along with accessories shall be supplied by owner as free issue material)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 688,
+        "1": 0,
+        "2": "01GC.30.1.1",
+        "3": "Flanged/ Wafer Valves",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2389,
+    "completion_tokens": 924
+  }
+}

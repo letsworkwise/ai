@@ -1,0 +1,138 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and placing in position HIGH YEILD-STRENGTH DEFORMED STEEL BARS REINFORCEMENT of Grade",
+      "core_product_name": "high yield-strength deformed steel bars reinforcement",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "300.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing and laying Reinforced Cement Concrete of grade M-30 with 20mm and down size graded stone aggregates",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "grade: m-30, aggregate size: 20mm and down size graded stone aggregates",
+      "quantity": "1.0",
+      "unit": "m³"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      520,
+      529
+    ],
+    "original_rows": [
+      {
+        "0": 521,
+        "1": 0,
+        "2": "01CS.2.23",
+        "3": "HYD Bars / MS Bars - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 522,
+        "1": 0,
+        "2": "01CS.2.23.8",
+        "3": "Supplying and placing in position HIGH YEILD-STRENGTH DEFORMED STEEL BARS REINFORCEMENT of Grade",
+        "4": 300.0,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 523,
+        "1": 0,
+        "2": "01CS.2.24",
+        "3": "Conc. Encasing - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 524,
+        "1": 0,
+        "2": "01CS.2.24.4",
+        "3": "Providing and laying Reinforced Cement Concrete of grade M-30 with 20mm and down size graded stone aggregates",
+        "4": 1.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 525,
+        "1": 0,
+        "2": "01CS.2.25",
+        "3": "Centering and Shuttering - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 526,
+        "1": 0,
+        "2": "01CS.2.25.1",
+        "3": "Providing and fixing CENTERING AND SHUTTERING in foundations, footings,raft beams, slabs, pile caps, retaining",
+        "4": 6000.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 527,
+        "1": 0,
+        "2": "01CS.2.25.2",
+        "3": "Providing and fixing CENTERING AND SHUTTERING in superstrctures in retaining walls, jambs, counter-forts,",
+        "4": 1600.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 528,
+        "1": 0,
+        "2": "01CS.2.25.7",
+        "3": "Providing and fixing CENTERING AND SHUTTERING for CURVED SHUTTERING in foundations in all types for",
+        "4": 800.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 529,
+        "1": 0,
+        "2": "01CS.2.25.8",
+        "3": "Providing and fixing CENTERING AND SHUTTERING for CURVED SHUTTERING in superstructures in all types for",
+        "4": 1000.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 530,
+        "1": 0,
+        "2": "01CS.2.26",
+        "3": "Expansion joints - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2552,
+    "completion_tokens": 744
+  }
+}

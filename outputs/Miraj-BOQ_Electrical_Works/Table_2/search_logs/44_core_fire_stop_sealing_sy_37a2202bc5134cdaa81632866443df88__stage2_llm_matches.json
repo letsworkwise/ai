@@ -1,0 +1,61 @@
+{
+  "query": "core_product_name: fire stop sealing system | feature_or_specifications: fire rating: 2 hours, application: opening below panels, switchgears, control panels, cable or cable trays opening, class: b type, type: wool sheet or slab type",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire sealing system | type_or_class: Type B",
+        "raw_product_name": "Fire sealing system Type B",
+        "list_of_product_ids": [
+          "731",
+          "273",
+          "277",
+          "979"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire sealing system | type_or_class: Type A",
+        "raw_product_name": "Fire sealing system Type A",
+        "list_of_product_ids": [
+          "11092",
+          "11091",
+          "7314",
+          "7315",
+          "7981"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire suppression system",
+        "raw_product_name": "FIRE SUPPRESSION SYSTEM",
+        "list_of_product_ids": [
+          "32132",
+          "32131",
+          "36678",
+          "34971",
+          "34964",
+          "34983",
+          "34992",
+          "35004",
+          "35222"
+        ]
+      }
+    }
+  ]
+}

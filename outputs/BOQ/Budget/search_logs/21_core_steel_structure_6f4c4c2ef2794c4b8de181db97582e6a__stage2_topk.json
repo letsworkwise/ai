@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: steel structure | feature_or_specifications: feature: painting with two coats of primer and two coats of approved enamel paint, arrangement for individual stack, design approval by structure consultant",
+  "retrieval_results": [
+    {
+      "id": "variant-e073d2ae-f2d1-5e74-9d31-5194d6319446",
+      "score": 0.86122984,
+      "metadata": {
+        "text": "core_product_name: structural painting work",
+        "raw_product_name": "PAINTING WORK-STRUCTURAL",
+        "list_of_product_ids": "1,658,927,816",
+        "core_id": 1624.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.8513581,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-e253088d-4ef0-56ec-9d5a-d5f3bacd86f4",
+      "score": 0.8482942,
+      "metadata": {
+        "text": "core_product_name: decorative textured coating",
+        "raw_product_name": "PAINTING WORKS - DECORATIVE TEXTURED COATING",
+        "list_of_product_ids": "6355,5526,12540,12556,15688,14818,14816,15687,16295,20197,20237,20216,34677",
+        "core_id": 1627.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.84816885,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-0d36c74f-f1d5-5e9d-a811-76f62093a877",
+      "score": 0.8478276,
+      "metadata": {
+        "text": "core_product_name: synthetic painting work | material: Enamel | special_attributes: For Building Works",
+        "raw_product_name": "PAINTING WORKS - SYNTHETIC ENAMEL (FOR BUILDING WORKS)",
+        "list_of_product_ids": "6353,5524,12197,12544,12554,14309,16294,16293,16292,22318,30747,30773,30812,28834,28832,28830,28828,28823,31890,34336,35226,35227,35228,35267,35337,35369,35343,35406,35364",
+        "core_id": 1631.0
+      }
+    },
+    {
+      "id": "variant-2b08d0da-e4f6-5446-b266-62cb61bc42c4",
+      "score": 0.8476841,
+      "metadata": {
+        "text": "core_product_name: colour coated cladding | construction_features: colour coated",
+        "raw_product_name": "COLOUR COATED CLADDING",
+        "list_of_product_ids": "13930,17836,21325,21322",
+        "core_id": 391.0
+      }
+    },
+    {
+      "id": "variant-0e0c90c9-780c-50d5-a034-058ce6617e37",
+      "score": 0.84524393,
+      "metadata": {
+        "text": "core_product_name: painting",
+        "raw_product_name": "PAINTING",
+        "list_of_product_ids": "239,702,397,227,813",
+        "core_id": 1625.0
+      }
+    },
+    {
+      "id": "variant-33525379-9060-5b76-8e53-8f90b0e2a756",
+      "score": 0.8447807,
+      "metadata": {
+        "text": "core_product_name: surface texture paint | operating_conditions: Interior",
+        "raw_product_name": "SURFACE TEXTURE PAINT(INTERIOR)",
+        "list_of_product_ids": "200,842,008,020,714",
+        "core_id": 2154.0
+      }
+    },
+    {
+      "id": "variant-83351410-76f3-5cb0-86b0-0ae6f6887ba6",
+      "score": 0.84433013,
+      "metadata": {
+        "text": "core_product_name: surface texture paint | operating_conditions: exterior",
+        "raw_product_name": "SURFACE TEXTURE PAINT(EXTERIOR)",
+        "list_of_product_ids": "200,832,007,920,715",
+        "core_id": 2154.0
+      }
+    },
+    {
+      "id": "variant-bc4bdf0d-5ea4-54b0-b9ae-c7ba8ea12df4",
+      "score": 0.844264,
+      "metadata": {
+        "text": "core_product_name: pre-fabricated structural steel",
+        "raw_product_name": "PRE-FABRICATED STRUCTURAL STEEL",
+        "list_of_product_ids": "30025,30048,30051,30213,30507,37877",
+        "core_id": 1755.0
+      }
+    },
+    {
+      "id": "variant-27834032-9ff1-56f1-aa48-bbc29b08fc65",
+      "score": 0.84411764,
+      "metadata": {
+        "text": "core_product_name: bitumastic paint | protection_features: Anti-corrosive",
+        "raw_product_name": "ANTI CORROSIVE BITUMASTIC PAINT",
+        "list_of_product_ids": "15685,15682,15683,30758,30784,30823,27989,15684,31895",
+        "core_id": 122.0
+      }
+    },
+    {
+      "id": "variant-ffb09cea-650c-5da0-8837-2e39ba2b060a",
+      "score": 0.84315246,
+      "metadata": {
+        "text": "core_product_name: structural steel",
+        "raw_product_name": "STRUCTURAL STEEL",
+        "list_of_product_ids": "9524,9544,13038,14422,15849,17276,17978,17977,17976,17979,31114,31137,31138,25221,31005,31007,31030,31053,31055,31056,31057,31061,31065",
+        "core_id": 2137.0
+      }
+    },
+    {
+      "id": "variant-04253410-e270-5f7e-b389-5683411f6454",
+      "score": 0.84250844,
+      "metadata": {
+        "text": "core_product_name: stove enamel paint",
+        "raw_product_name": "STOVE ENAMEL PAINT",
+        "list_of_product_ids": "22316,22317,28623,28822,28833,28831,28829,28827,35327,35340,35346,35367,35372,35409",
+        "core_id": 2120.0
+      }
+    },
+    {
+      "id": "variant-ae413c56-b2e1-58fc-b7c0-83629b95ba1c",
+      "score": 0.8407637,
+      "metadata": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "paints",
+        "list_of_product_ids": "8191",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-014c7bb6-6ec5-54af-848e-7964ab04ac83",
+      "score": 0.8407009,
+      "metadata": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "PAINTS (STOCKIST/TRADERS)",
+        "list_of_product_ids": "2,457,824,577",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-57fecfed-c79f-5acd-b247-15bf21cbd5a3",
+      "score": 0.8406384,
+      "metadata": {
+        "text": "core_product_name: paint",
+        "raw_product_name": "Paints",
+        "list_of_product_ids": "7573,7248,10288,11486,7766,12146,12193,12340,12341,14307,16998,17021,17015,18878,18924,24661,24663,24684,24681,24678,24676,24675,24672,24697,24690,24694,24700,24725,24723,24722,24729,30771,24738,15680,15678,15677,30810,25163,25264,25278,25308,25299,25345,25552,25781,26145,26116,26220,25680,31891,30742,34244,38228,38229,38230,38231,38232,38233,35616,35617,35618,35619,35622,35703,35698,35707,35785,35816,35817,36023",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-dc61bb4b-3a37-5c73-9e84-36303b19eb2d",
+      "score": 0.84028816,
+      "metadata": {
+        "text": "core_product_name: based paint | material: Cement",
+        "raw_product_name": "CEMENT BASED PAINT",
+        "list_of_product_ids": "35632,35633,35634,35631,35670",
+        "core_id": 327.0
+      }
+    },
+    {
+      "id": "variant-ffccfbbe-0b59-55ae-99a5-d39d2aa1a0ab",
+      "score": 0.8391799,
+      "metadata": {
+        "text": "core_product_name: naval patternized paint",
+        "raw_product_name": "PAINTS (NAVAL PATTERNIZED)",
+        "list_of_product_ids": "22310,22313,22311,28614,29101,29103,29102,35326,35339,35345,35366,35371,35408",
+        "core_id": 1633.0
+      }
+    },
+    {
+      "id": "variant-64bca620-e696-5279-bab5-9065c12376ef",
+      "score": 0.8390222,
+      "metadata": {
+        "text": "core_product_name: structural steel | accessories_or_attachments: plates",
+        "raw_product_name": "Structural Steel (Including plates)",
+        "list_of_product_ids": "14076,20962,22587,40047",
+        "core_id": 2137.0
+      }
+    },
+    {
+      "id": "variant-1ab41630-8bae-5046-a614-3fa1aa8f914d",
+      "score": 0.8380759,
+      "metadata": {
+        "text": "core_product_name: spray painting equipment",
+        "raw_product_name": "SPRAY PAINTING EQUIPMENTS",
+        "list_of_product_ids": "223,092,230,827,039",
+        "core_id": 2089.0
+      }
+    },
+    {
+      "id": "variant-f738e894-86c9-56df-9ce8-d404ffa6bc11",
+      "score": 0.8377994,
+      "metadata": {
+        "text": "core_product_name: support structure",
+        "raw_product_name": "GANTRY AND EQUIPMENT SUPPORT STRUCTURE",
+        "list_of_product_ids": "17432,17331,17332,17347,17351,17358,17370,17376,17382,17400,17423,17424,17442,17449,17454,17521,17519,17648,17655,17706,17693,18666,17537,17710,32192,35981,35988",
+        "core_id": 127.0
+      }
+    },
+    {
+      "id": "variant-bde35e43-a847-596a-bcdb-70b022fe3390",
+      "score": 0.83771986,
+      "metadata": {
+        "text": "core_product_name: primary structure",
+        "raw_product_name": "PRIMARY STRUCTURES",
+        "list_of_product_ids": "237,872,378,828,073",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-6bcc96d8-032f-56aa-854b-e9d5990731a4",
+      "score": 0.8375512,
+      "metadata": {
+        "text": "core_product_name: rolled section | material: Steel | type_or_class: Structural",
+        "raw_product_name": "STRUCTURAL STEEL ( ROLLED SECTIONS)",
+        "list_of_product_ids": "9,525,954,513,013",
+        "core_id": 2139.0
+      }
+    },
+    {
+      "id": "variant-5efbfc9f-bc75-5353-9be4-8456266d9a3b",
+      "score": 0.83687687,
+      "metadata": {
+        "text": "core_product_name: column | material: CS (Carbon Steel) | construction_features: site fabricated",
+        "raw_product_name": "COLUMN-CS SITE FABRICATED",
+        "list_of_product_ids": "6687,5858,9697,12010,12167,12592,13093,23509,37860,37727,37743",
+        "core_id": 392.0
+      }
+    },
+    {
+      "id": "variant-61ed1a5a-d988-5f1a-b288-7fc04abf584a",
+      "score": 0.83555156,
+      "metadata": {
+        "text": "core_product_name: paint | material: Acrylic Emulsion",
+        "raw_product_name": "ACRYLIC EMULSION Paint",
+        "list_of_product_ids": "7041,7368,11500,12195,15679,14311,18879,18925,22556,30744,30769,30808,31893,34033,34242",
+        "core_id": 39.0
+      }
+    },
+    {
+      "id": "variant-60a25ec0-7d9a-559d-ad5d-f5376070cc0e",
+      "score": 0.83505934,
+      "metadata": {
+        "text": "core_product_name: coating | material: Concrete",
+        "raw_product_name": "CONCRETE COATING",
+        "list_of_product_ids": "13941,19476,19470,23076,40166",
+        "core_id": 428.0
+      }
+    },
+    {
+      "id": "variant-053579c3-3498-5b60-8344-1f2872278138",
+      "score": 0.8349759,
+      "metadata": {
+        "text": "core_product_name: painting tank",
+        "raw_product_name": "TANK - PAINTING WORK",
+        "list_of_product_ids": "168,882,781,434,496",
+        "core_id": 2198.0
+      }
+    },
+    {
+      "id": "variant-b0d9c4df-3690-59a3-8c9a-dfab3097ac82",
+      "score": 0.83490086,
+      "metadata": {
+        "text": "core_product_name: based paint | material: Polymer",
+        "raw_product_name": "POLYMER BASED PAINT",
+        "list_of_product_ids": "138,272,388,622,463",
+        "core_id": 327.0
+      }
+    },
+    {
+      "id": "variant-945cb381-6e55-59f4-8edf-a854939688fe",
+      "score": 0.8348551,
+      "metadata": {
+        "text": "core_product_name: marine paint | operating_conditions: Offshore Structure",
+        "raw_product_name": "MARINE PAINTS FOR OFFSHORE STRUCTURE",
+        "list_of_product_ids": "19168,19160,30755,30781,30820,28072,19158,31896,38528,34489,35268,35338,35344,35365,35370,35407,39320,39324",
+        "core_id": 1439.0
+      }
+    },
+    {
+      "id": "variant-cf079358-169a-5baf-943d-cca385aae7e4",
+      "score": 0.83469313,
+      "metadata": {
+        "text": "core_product_name: casting | material: Steel",
+        "raw_product_name": "STEEL CASTING",
+        "list_of_product_ids": "24961,24958,26780,39754,39847,39875,39930,40008,40298",
+        "core_id": 91.0
+      }
+    }
+  ]
+}

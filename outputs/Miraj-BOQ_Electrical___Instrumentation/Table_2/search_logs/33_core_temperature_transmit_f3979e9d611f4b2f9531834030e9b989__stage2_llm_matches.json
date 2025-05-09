@@ -1,0 +1,78 @@
+{
+  "query": "core_product_name: temperature transmitter | size: calibration range: 0~100°C | feature_or_specifications: accessories: temperature elements & cable from element to transmitter",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: temperature transmitter",
+        "raw_product_name": "TEMPERATURE TRANSMITTER",
+        "list_of_product_ids": [
+          "13422",
+          "36532",
+          "15082",
+          "15245",
+          "15259",
+          "15305",
+          "15312",
+          "17117",
+          "17116",
+          "17115",
+          "17114",
+          "18212",
+          "36177",
+          "36325",
+          "36511"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: transmitter",
+        "raw_product_name": "TRANSMITTER",
+        "list_of_product_ids": [
+          "13839",
+          "24344",
+          "23185",
+          "36621"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: temperature instrument | operating_conditions: Temperature (T) (Temperature)",
+        "raw_product_name": "Temperature (T) Instruments",
+        "list_of_product_ids": [
+          "5973",
+          "6802",
+          "6801",
+          "6809",
+          "10712",
+          "6810",
+          "10714",
+          "10717",
+          "6950",
+          "7001",
+          "7623",
+          "9979",
+          "10722",
+          "7627",
+          "10736",
+          "10741",
+          "10658",
+          "10710"
+        ]
+      }
+    }
+  ]
+}

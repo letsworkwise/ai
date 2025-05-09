@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: hand operated siren | feature_or_specifications: location: lpg pump house, security room, tld bay, empty cum filling shed",
+  "retrieval_results": [
+    {
+      "id": "variant-9a913960-e86a-57a6-99fb-869ab0a4d202",
+      "score": 0.8441411,
+      "metadata": {
+        "text": "core_product_name: check valve | operating_conditions: LP (Low Pressure) application",
+        "raw_product_name": "Valve check for LP application",
+        "list_of_product_ids": "14071,14931,22241,22353",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-c449a816-ca9b-53e9-8395-3149f299de11",
+      "score": 0.8441411,
+      "metadata": {
+        "text": "core_product_name: check valve | operating_conditions: LP (Low Pressure) application",
+        "raw_product_name": "Valves check for LP application",
+        "list_of_product_ids": "8343",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-5d6b8a7f-2da7-5dcf-a72d-dc5510c66132",
+      "score": 0.8437009,
+      "metadata": {
+        "text": "core_product_name: empty cylinder | operating_conditions: High Pressure",
+        "raw_product_name": "HIGH PRESSURE EMPTY CYLINDER",
+        "list_of_product_ids": "236,262,362,728,659",
+        "core_id": 1129.0
+      }
+    },
+    {
+      "id": "variant-cf2be52e-eece-5ee1-b3fa-02b4fdeb4c7d",
+      "score": 0.8431993,
+      "metadata": {
+        "text": "core_product_name: low capacity high head centrifugal pump",
+        "raw_product_name": "PUMP-CENT.(LOW CAPACITY HIGH HEAD)",
+        "list_of_product_ids": "5,894,672,310,489",
+        "core_id": 1808.0
+      }
+    },
+    {
+      "id": "variant-ab7c0fe6-7f89-58bd-a77d-96e26004063c",
+      "score": 0.8425864,
+      "metadata": {
+        "text": "core_product_name: gate valve | operating_conditions: LP (Low Pressure) application",
+        "raw_product_name": "Valve gate for LP application",
+        "list_of_product_ids": "14074,14930,22240,22352,35540",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-602c6911-f207-50b5-b1c9-988af059f707",
+      "score": 0.8416844,
+      "metadata": {
+        "text": "core_product_name: centrifugal seal less pump | special_attributes: seal less",
+        "raw_product_name": "PUMP-CENT.SEAL LESS",
+        "list_of_product_ids": "5892,6721,10485,10487,10835,10833,10834",
+        "core_id": 1813.0
+      }
+    },
+    {
+      "id": "variant-1984947e-3225-5f91-8208-003f79f6af7c",
+      "score": 0.8387367,
+      "metadata": {
+        "text": "core_product_name: seal oil pump",
+        "raw_product_name": "SEAL OIL PUMP",
+        "list_of_product_ids": "138,841,523,415,235",
+        "core_id": 1984.0
+      }
+    },
+    {
+      "id": "variant-11b27b9f-cdef-5e2f-b73e-cb8404f6e58d",
+      "score": 0.8372736,
+      "metadata": {
+        "text": "core_product_name: subsea piggable wye | operating_conditions: sour service",
+        "raw_product_name": "SUBSEA PIGGABLE WYE (SOUR SERVICE)",
+        "list_of_product_ids": "1,940,028,263",
+        "core_id": 2150.0
+      }
+    },
+    {
+      "id": "variant-48e84005-a524-5a31-aef4-3f1062700143",
+      "score": 0.8372441,
+      "metadata": {
+        "text": "core_product_name: horizontal centrifugal pump | operating_conditions: water service",
+        "raw_product_name": "HORIZONTAL CENTRIFUGAL PUMP WATER SERVICE",
+        "list_of_product_ids": "8690,13595,18706,19776,24105,22206,37242,37243,37244,37245,37718",
+        "core_id": 1142.0
+      }
+    },
+    {
+      "id": "variant-1a1c3be7-4ea3-59c3-ad9a-063e3b0af286",
+      "score": 0.83720124,
+      "metadata": {
+        "text": "core_product_name: centrifugal horizontal pump | operating_conditions: Molten Sulphur",
+        "raw_product_name": "PUMP-CENT.HOR.(MOLTEN SULPHUR)",
+        "list_of_product_ids": "6711,5882,10998,8715,37002,38898",
+        "core_id": 329.0
+      }
+    },
+    {
+      "id": "variant-83b3221a-96a0-5202-9858-abac866d31aa",
+      "score": 0.8372012,
+      "metadata": {
+        "text": "core_product_name: motor operated gate valve",
+        "raw_product_name": "VALVE GATE (MOTOR OPERATED)",
+        "list_of_product_ids": "6218,5387,11618,11637,10421,11240,11253,11261,11414,8378,8552,8619,12325,12447,13255,16547,19370,17641,21275,31563,24877,31716,34952,35533",
+        "core_id": 2357.0
+      }
+    },
+    {
+      "id": "variant-6b3d7d41-716a-5dcc-98b3-23e92b0e9616",
+      "score": 0.83718395,
+      "metadata": {
+        "text": "core_product_name: butterfly valve | operating_conditions: steam services",
+        "raw_product_name": "Butterfly Valves (Also for steam services)",
+        "list_of_product_ids": "8340",
+        "core_id": 277.0
+      }
+    },
+    {
+      "id": "variant-3333bb55-f4fe-5877-8576-2e8554396506",
+      "score": 0.8370866,
+      "metadata": {
+        "text": "core_product_name: gang operated isolator",
+        "raw_product_name": "GANG OPERATED ISOLATORS",
+        "list_of_product_ids": "1,370,014,636",
+        "core_id": 1015.0
+      }
+    },
+    {
+      "id": "variant-ccab5f66-3890-52ed-ac2d-18ceaab89fed",
+      "score": 0.8364213,
+      "metadata": {
+        "text": "core_product_name: closed drain pump",
+        "raw_product_name": "CLOSED DRAIN PUMPS",
+        "list_of_product_ids": "1,385,121,029",
+        "core_id": 369.0
+      }
+    },
+    {
+      "id": "variant-94ea3340-bef6-5933-8416-982a342511aa",
+      "score": 0.8361581,
+      "metadata": {
+        "text": "core_product_name: turbine meter | operating_conditions: liquid services",
+        "raw_product_name": "TURBINE METER – LIQUID SERVICES",
+        "list_of_product_ids": "14192",
+        "core_id": 2295.0
+      }
+    },
+    {
+      "id": "variant-85b17f61-0f65-578c-8e9f-d6bc4e131200",
+      "score": 0.8361295,
+      "metadata": {
+        "text": "core_product_name: melting cum holding furnace",
+        "raw_product_name": "MELTING CUM HOLDING FURNACE",
+        "list_of_product_ids": "2,441,726,857",
+        "core_id": 1457.0
+      }
+    },
+    {
+      "id": "variant-65e4b5c0-874a-5fb2-b108-70a12f290192",
+      "score": 0.8357914,
+      "metadata": {
+        "text": "core_product_name: hand control valve",
+        "raw_product_name": "Hand Control Valves",
+        "list_of_product_ids": "18259,18261,18258,18595,18636,18260,36509",
+        "core_id": 1212.0
+      }
+    },
+    {
+      "id": "variant-b75516ed-454e-594b-9be5-1e8e65405af9",
+      "score": 0.83569235,
+      "metadata": {
+        "text": "core_product_name: vapour seal chamber",
+        "raw_product_name": "VAPOUR SEAL CHAMBER",
+        "list_of_product_ids": "6027,5206,8291,23789",
+        "core_id": 2383.0
+      }
+    },
+    {
+      "id": "variant-5f07eb39-d2d8-57c5-8d17-e9a296199a94",
+      "score": 0.83567095,
+      "metadata": {
+        "text": "core_product_name: site fabricated storage tank",
+        "raw_product_name": "SITE FABRICATED STORAGE TANKS",
+        "list_of_product_ids": "1,395,423,053",
+        "core_id": 2038.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.8356417,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-11196abd-5057-5347-a0d2-4dd4ae4e49b2",
+      "score": 0.8354539,
+      "metadata": {
+        "text": "core_product_name: slurry pump",
+        "raw_product_name": "PUMP-SLURRY",
+        "list_of_product_ids": "37869,37882,37881,37879,37885,37886,37887,37892,39969",
+        "core_id": 1818.0
+      }
+    },
+    {
+      "id": "variant-b2e775cd-6de9-5542-ba6f-b5fb8aeeb2e7",
+      "score": 0.83523816,
+      "metadata": {
+        "text": "core_product_name: sump pump",
+        "raw_product_name": "SUMP PUMP",
+        "list_of_product_ids": "13922,18234,18287,19775,21530,37377,39964",
+        "core_id": 2152.0
+      }
+    },
+    {
+      "id": "variant-d455686a-491e-542a-8cae-85eff673c3dc",
+      "score": 0.8351821,
+      "metadata": {
+        "text": "core_product_name: centrifugal pump | operating_conditions: cryogenic",
+        "raw_product_name": "PUMP-CENT.SU.M(CRYO)",
+        "list_of_product_ids": "58,906,719",
+        "core_id": 328.0
+      }
+    },
+    {
+      "id": "variant-cdaa2bb4-0048-52d6-8109-8751b34f8278",
+      "score": 0.8350833,
+      "metadata": {
+        "text": "core_product_name: pump",
+        "raw_product_name": "PUMP",
+        "list_of_product_ids": "19073,13894,16991,17418,19783,20922,21362,21529,21511,21463,37047,37288,36119",
+        "core_id": 539.0
+      }
+    },
+    {
+      "id": "variant-eed0d397-9a1d-5396-8a83-4412d5c6f80a",
+      "score": 0.83485097,
+      "metadata": {
+        "text": "core_product_name: manufactured assembly pump",
+        "raw_product_name": "PUMP MANUFACTURED ASSEMBLY",
+        "list_of_product_ids": "29505,29279,29278,29277",
+        "core_id": 1807.0
+      }
+    },
+    {
+      "id": "variant-4878872f-c56a-53c7-922c-1596298ea898",
+      "score": 0.8347959,
+      "metadata": {
+        "text": "core_product_name: safety valve | operating_conditions: boiler service",
+        "raw_product_name": "SAFETY VALVES BOILER SERVICE",
+        "list_of_product_ids": "6504,5675,10198,8345,17586,21314,27548,28764,28766,28765,28811,36263,36416",
+        "core_id": 1950.0
+      }
+    },
+    {
+      "id": "variant-b51e087c-70fd-55e4-9d14-5f4aede85aa0",
+      "score": 0.8347436,
+      "metadata": {
+        "text": "core_product_name: centrifugal vertical pump | operating_conditions: Molten Sulphur",
+        "raw_product_name": "PUMP-CENT.VERT.(MOLTEN SULPHUR)",
+        "list_of_product_ids": "6716,5887,10999,8720",
+        "core_id": 331.0
+      }
+    },
+    {
+      "id": "variant-c216ccd6-df06-5a64-ab85-2c482c042fe2",
+      "score": 0.8341552,
+      "metadata": {
+        "text": "core_product_name: auxiliary oil filled transformer",
+        "raw_product_name": "Auxiliary Oil Filled Transformers",
+        "list_of_product_ids": "7304,7352,7927,7930,7929,19766,35395",
+        "core_id": 162.0
+      }
+    },
+    {
+      "id": "variant-22d16fba-0576-5731-939b-292a6a276060",
+      "score": 0.8340773,
+      "metadata": {
+        "text": "core_product_name: non return valve | operating_conditions: Liquefied Petroleum Gas (LPG)",
+        "raw_product_name": "VALVE NON RETURN - LIQUEFIED PETROLEUM GAS",
+        "list_of_product_ids": "39747,39769,39781,39854,39880,40074,40216,40307",
+        "core_id": 1555.0
+      }
+    },
+    {
+      "id": "variant-291e72e9-4ff3-5fec-b97d-e2333a7f5ad3",
+      "score": 0.83393466,
+      "metadata": {
+        "text": "core_product_name: pilot operated safety valve",
+        "raw_product_name": "PILOT OPERATED SAFETY VALVES",
+        "list_of_product_ids": "6503,5674,10294,10699,12189,12786,12847,12850,12913,13199,28219,28218,28217,28216,28215,28810,36167,36299,36315,36436",
+        "core_id": 1654.0
+      }
+    }
+  ]
+}

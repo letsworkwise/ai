@@ -1,0 +1,58 @@
+{
+  "query": "core_product_name: static weighing bridge | size: capacity: 50 MT | feature_or_specifications: location: near to central monitoring hub (CMH), accessories: load cells, cable from field to central monitoring hub (CMH), JB (junction box), instruments, jumbo display for TT, includes: static weighing bridges local marshalling/control panel, protocol: local marshalling/control panel protocol free of cost to M/s IOCL, supply & installation: jumbo display for TTs included",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: rail and road weigh bridge",
+        "raw_product_name": "RAIL & ROAD WEIGH BRIDGE",
+        "list_of_product_ids": [
+          "6133",
+          "5300",
+          "10482",
+          "9712",
+          "9752",
+          "9755",
+          "24271"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: weighing metering unit package | type_or_class: Weighing System",
+        "raw_product_name": "METERING UNIT PACKAGE ( WEIGHING SYSTEM)",
+        "list_of_product_ids": [
+          "615",
+          "053",
+          "209",
+          "757"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: electronic belt weigher",
+        "raw_product_name": "ELECTRONIC BELT WEIGHER",
+        "list_of_product_ids": [
+          "347",
+          "553",
+          "473",
+          "134",
+          "778"
+        ]
+      }
+    }
+  ]
+}

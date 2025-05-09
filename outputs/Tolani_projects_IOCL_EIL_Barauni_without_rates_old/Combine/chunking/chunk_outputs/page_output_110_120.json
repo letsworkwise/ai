@@ -1,0 +1,168 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FLANGE ASSEMBLIES NB 08.00     INCHES; THICKNESS  55 MM",
+      "core_product_name": "flange assemblies",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 8.00 inches, thickness: 55 mm",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FLANGE ASSEMBLIES NB 04.00     INCHES; THICKNESS  50 MM",
+      "core_product_name": "flange assemblies",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 4.00 inches, thickness: 50 mm",
+      "feature_or_specifications": "",
+      "quantity": "23.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Installation, testing and commissioning of miscellaneous surface mounted industrial/FLP control gear such as Weight of the unit up to 5 kg.",
+      "core_product_name": "control gear",
+      "acronymed_core_product_name": "",
+      "size": "weight: up to 5 kg",
+      "feature_or_specifications": "mounting: surface mounted, type: industrial or FLP (flame proof)",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Installation, testing and commissioning of miscellaneous surface mounted industrial/FLP control gear such as Weight of the unit above 5 kg. but upto 20 kg.",
+      "core_product_name": "control gear",
+      "acronymed_core_product_name": "",
+      "size": "weight: above 5 kg but upto 20 kg",
+      "feature_or_specifications": "mounting: surface mounted, type: industrial or FLP (flame proof)",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Installation, testing and commissioning of miscellaneous surface mounted industrial/FLP control gear such as Weight of the unit above 20 kg. but upto 100 kg.",
+      "core_product_name": "control gear",
+      "acronymed_core_product_name": "",
+      "size": "weight: above 20 kg but upto 100 kg",
+      "feature_or_specifications": "mounting: surface mounted, type: industrial or FLP (flame proof)",
+      "quantity": "1.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      110,
+      119
+    ],
+    "original_rows": [
+      {
+        "0": 111,
+        "1": 0,
+        "2": "M60118041310",
+        "3": "NB 04.00     INCHES; THICKNESS  50 MM",
+        "4": 23.0,
+        "5": "NOs",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 112,
+        "1": 0,
+        "2": "01EE",
+        "3": "ELECTRICAL WORKS",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 113,
+        "1": 0,
+        "2": "01EE.1040",
+        "3": "MISCELLANEOUS CONTROL GEAR",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 114,
+        "1": 0,
+        "2": "01EE.1040.10",
+        "3": "Installation, testing and commissioning of miscellaneous surface mounted industrial/FLP control gear such as",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 115,
+        "1": 0,
+        "2": "01EE.1040.10.10",
+        "3": "Weight of the unit up to 5 kg.",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 116,
+        "1": 0,
+        "2": "01EE.1040.10.20",
+        "3": "Weight of the unit above 5 kg. but upto 20 kg.",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 117,
+        "1": 0,
+        "2": "01EE.1040.10.30",
+        "3": "Weight of the unit above 20 kg. but upto 100 kg.",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 118,
+        "1": 0,
+        "2": "01EE.1060",
+        "3": "PLUGS, SOCKETS AND JUNCTION BOXES",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 119,
+        "1": 0,
+        "2": "01EE.1060.40",
+        "3": "Supply, installation, cable termination, connection, testing and commissioning of following types of FLP and  WP",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 120,
+        "1": 0,
+        "2": "01EE.1060.40.30",
+        "3": "FLP(II A/II B) and WP 3 way JB complete with 3 Nos. FLP cable glands and 1 Nos. blocking plug suitable for cables",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2295,
+    "completion_tokens": 876
+  }
+}

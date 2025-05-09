@@ -1,0 +1,408 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8811674,
+      "text": "core_product_name: engine servicing",
+      "core_id": 751.0,
+      "raw_product_name": "ENGINE SERVICING",
+      "list_of_product_ids": [
+        "24306",
+        "24359",
+        "24308",
+        "26865"
+      ]
+    },
+    {
+      "retrieval_score": 0.88031924,
+      "text": "core_product_name: server",
+      "core_id": 1999.0,
+      "raw_product_name": "SERVERS",
+      "list_of_product_ids": [
+        "13899",
+        "15300",
+        "15302",
+        "18836"
+      ]
+    },
+    {
+      "retrieval_score": 0.87964195,
+      "text": "core_product_name: motor servicing",
+      "core_id": 1505.0,
+      "raw_product_name": "MOTOR SERVICING",
+      "list_of_product_ids": [
+        "246",
+        "582",
+        "679",
+        "724",
+        "656"
+      ]
+    },
+    {
+      "retrieval_score": 0.87949973,
+      "text": "core_product_name: internal servicing telephone exchange",
+      "core_id": 1286.0,
+      "raw_product_name": "INTERNAL TELEPHONE EXCHANGE SERVICING",
+      "list_of_product_ids": [
+        "243",
+        "572",
+        "686",
+        "724",
+        "356"
+      ]
+    },
+    {
+      "retrieval_score": 0.8793001,
+      "text": "core_product_name: engineering service provider",
+      "core_id": 752.0,
+      "raw_product_name": "ENGINEERING SERVICE PROVIDERS",
+      "list_of_product_ids": [
+        "17042",
+        "17049",
+        "17128",
+        "17151",
+        "17143",
+        "17159",
+        "17176"
+      ]
+    },
+    {
+      "retrieval_score": 0.87800586,
+      "text": "core_product_name: turbine meter | operating_conditions: liquid services",
+      "core_id": 2295.0,
+      "raw_product_name": "TURBINE METER – LIQUID SERVICES",
+      "list_of_product_ids": [
+        "14192"
+      ]
+    },
+    {
+      "retrieval_score": 0.87245315,
+      "text": "core_product_name: computer maintenance",
+      "core_id": 422.0,
+      "raw_product_name": "COMPUTER MAINTENANCE",
+      "list_of_product_ids": [
+        "193",
+        "231",
+        "932",
+        "428",
+        "719"
+      ]
+    },
+    {
+      "retrieval_score": 0.87228775,
+      "text": "core_product_name: fire water service",
+      "core_id": 862.0,
+      "raw_product_name": "FIRE WATER SERVICES",
+      "list_of_product_ids": [
+        "142",
+        "571",
+        "640",
+        "921",
+        "796"
+      ]
+    },
+    {
+      "retrieval_score": 0.8709911,
+      "text": "core_product_name: refilling service fire extinguisher",
+      "core_id": 853.0,
+      "raw_product_name": "FIRE EXTINGUISHER REFILLING SERVICE",
+      "list_of_product_ids": [
+        "22319",
+        "22315",
+        "22312",
+        "27052"
+      ]
+    },
+    {
+      "retrieval_score": 0.8702989,
+      "text": "core_product_name: maintenance sanitary ware",
+      "core_id": 1958.0,
+      "raw_product_name": "SANITARY WARE MAINTENANCE",
+      "list_of_product_ids": [
+        "246",
+        "452",
+        "464",
+        "726",
+        "799"
+      ]
+    },
+    {
+      "retrieval_score": 0.869363,
+      "text": "core_product_name: safety valve | operating_conditions: boiler service",
+      "core_id": 1950.0,
+      "raw_product_name": "SAFETY VALVES BOILER SERVICE",
+      "list_of_product_ids": [
+        "6504",
+        "5675",
+        "10198",
+        "8345",
+        "17586",
+        "21314",
+        "27548",
+        "28764",
+        "28766",
+        "28765",
+        "28811",
+        "36263",
+        "36416"
+      ]
+    },
+    {
+      "retrieval_score": 0.8690146,
+      "text": "core_product_name: housekeeping",
+      "core_id": 1162.0,
+      "raw_product_name": "HOUSE KEEPING",
+      "list_of_product_ids": [
+        "2",
+        "339",
+        "027",
+        "850"
+      ]
+    },
+    {
+      "retrieval_score": 0.8687718,
+      "text": "core_product_name: appliance valve",
+      "core_id": 128.0,
+      "raw_product_name": "APPLIANCE VALVE",
+      "list_of_product_ids": [
+        "1",
+        "415",
+        "737",
+        "398"
+      ]
+    },
+    {
+      "retrieval_score": 0.8681459,
+      "text": "core_product_name: utility hose",
+      "core_id": 2331.0,
+      "raw_product_name": "UTILITY HOSE",
+      "list_of_product_ids": [
+        "19066",
+        "19078",
+        "19065",
+        "19064",
+        "19063",
+        "19048",
+        "19055",
+        "19054",
+        "19053",
+        "19052",
+        "19051",
+        "19050",
+        "19049",
+        "19047",
+        "19045",
+        "20027",
+        "20037",
+        "21599"
+      ]
+    },
+    {
+      "retrieval_score": 0.867771,
+      "text": "core_product_name: butterfly valve | operating_conditions: steam services",
+      "core_id": 277.0,
+      "raw_product_name": "Butterfly Valves (Also for steam services)",
+      "list_of_product_ids": [
+        "8340"
+      ]
+    },
+    {
+      "retrieval_score": 0.8675634,
+      "text": "core_product_name: subsea piggable wye | operating_conditions: sour service",
+      "core_id": 2150.0,
+      "raw_product_name": "SUBSEA PIGGABLE WYE (SOUR SERVICE)",
+      "list_of_product_ids": [
+        "1",
+        "940",
+        "028",
+        "263"
+      ]
+    },
+    {
+      "retrieval_score": 0.86724395,
+      "text": "core_product_name: electrical spare",
+      "core_id": 710.0,
+      "raw_product_name": "ELECTRICAL SPARES",
+      "list_of_product_ids": [
+        "207",
+        "782",
+        "077",
+        "728",
+        "462"
+      ]
+    },
+    {
+      "retrieval_score": 0.8671273,
+      "text": "core_product_name: management system",
+      "core_id": 2200.0,
+      "raw_product_name": "TANK FARM MANAGEMENT SYSTEM",
+      "list_of_product_ids": [
+        "6585",
+        "5755",
+        "11689",
+        "11698",
+        "10102",
+        "10116",
+        "11714",
+        "13223",
+        "21062",
+        "35434"
+      ]
+    },
+    {
+      "retrieval_score": 0.8667672,
+      "text": "core_product_name: electronic repair and servicing",
+      "core_id": 729.0,
+      "raw_product_name": "ELECTRONIC REPAIR & SERVICING",
+      "list_of_product_ids": [
+        "24355",
+        "24353",
+        "24351",
+        "24354",
+        "26868"
+      ]
+    },
+    {
+      "retrieval_score": 0.8666928,
+      "text": "core_product_name: damper | operating_conditions: Air and Gas services",
+      "core_id": 553.0,
+      "raw_product_name": "Dampers (Air and Gas services)",
+      "list_of_product_ids": [
+        "7",
+        "471",
+        "714",
+        "411",
+        "975"
+      ]
+    },
+    {
+      "retrieval_score": 0.86649966,
+      "text": "core_product_name: engine",
+      "core_id": 748.0,
+      "raw_product_name": "ENGINE",
+      "list_of_product_ids": [
+        "13931",
+        "18581",
+        "21040",
+        "21827",
+        "36855"
+      ]
+    },
+    {
+      "retrieval_score": 0.8657864,
+      "text": "core_product_name: instrument air package",
+      "core_id": 1252.0,
+      "raw_product_name": "INSTRUMENT AIR PACKAGE",
+      "list_of_product_ids": [
+        "137",
+        "061",
+        "645",
+        "718",
+        "956"
+      ]
+    },
+    {
+      "retrieval_score": 0.8654387,
+      "text": "core_product_name: tap",
+      "core_id": 805.0,
+      "raw_product_name": "FAUCETS & TAPS",
+      "list_of_product_ids": [
+        "1",
+        "420",
+        "422",
+        "905"
+      ]
+    },
+    {
+      "retrieval_score": 0.8651978,
+      "text": "core_product_name: instrument",
+      "core_id": 455.0,
+      "raw_product_name": "INSTRUMENT",
+      "list_of_product_ids": [
+        "13707",
+        "15297",
+        "15303",
+        "18441",
+        "20437",
+        "20411",
+        "24278",
+        "37920"
+      ]
+    },
+    {
+      "retrieval_score": 0.86516327,
+      "text": "core_product_name: instrument",
+      "core_id": 455.0,
+      "raw_product_name": "RECEIVER INSTRUMENTS",
+      "list_of_product_ids": [
+        "6595",
+        "5765",
+        "10075",
+        "12200"
+      ]
+    },
+    {
+      "retrieval_score": 0.8651118,
+      "text": "core_product_name: measurement",
+      "core_id": 2401.0,
+      "raw_product_name": "VIBRATION MEASUREMENT",
+      "list_of_product_ids": [
+        "242",
+        "652",
+        "426",
+        "624",
+        "269"
+      ]
+    },
+    {
+      "retrieval_score": 0.8650989,
+      "text": "core_product_name: instrument",
+      "core_id": 455.0,
+      "raw_product_name": "CONTROL PANEL INSTRUMENT",
+      "list_of_product_ids": [
+        "2",
+        "030",
+        "420",
+        "309"
+      ]
+    },
+    {
+      "retrieval_score": 0.8650417,
+      "text": "core_product_name: general cleaning",
+      "core_id": 1046.0,
+      "raw_product_name": "GENERAL CLEANING & GRASS CUTTING",
+      "list_of_product_ids": [
+        "2",
+        "421",
+        "526",
+        "884"
+      ]
+    },
+    {
+      "retrieval_score": 0.8650367,
+      "text": "core_product_name: for compressor spare",
+      "core_id": 2071.0,
+      "raw_product_name": "SPARES FOR COMPRESSOR",
+      "list_of_product_ids": [
+        "23452",
+        "23451",
+        "26070",
+        "26069",
+        "26676",
+        "23453"
+      ]
+    },
+    {
+      "retrieval_score": 0.8649285,
+      "text": "core_product_name: equipment insulation",
+      "core_id": 761.0,
+      "raw_product_name": "EQUIPMENT INSULATION WORKS",
+      "list_of_product_ids": [
+        "358",
+        "293",
+        "583",
+        "235",
+        "880"
+      ]
+    }
+  ]
+}

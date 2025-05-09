@@ -1,0 +1,238 @@
+{
+  "sheet_name": "Instrumentation",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "1/2 \" GI Conduit",
+      "core_product_name": "gi conduit",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 1/2 inch",
+      "feature_or_specifications": "",
+      "quantity": "20.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "3/4 \" GI Conduit",
+      "core_product_name": "gi conduit",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 3/4 inch",
+      "feature_or_specifications": "",
+      "quantity": "20.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "1 \" GI Conduit",
+      "core_product_name": "gi conduit",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 1 inch",
+      "feature_or_specifications": "",
+      "quantity": "20.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   ISO M20 x 1/2\" NPT(F)",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "iso thread: m20, npt(f) thread: 1/2 inch",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: iic",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   ISO M16 x 1/2\" NPT(F)",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "iso thread: m16, npt(f) thread: 1/2 inch",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: iic",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   ISO M20 x 3/4\" NPT(F)",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "iso thread: m20, npt(f) thread: 3/4 inch",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: iic",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   3/4\"NPT(M) x 1/2\" NPT(F)",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "npt(m) thread: 3/4 inch, npt(f) thread: 1/2 inch",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: iic",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   1/2\"NPT(M) x 3/4\" NPT(F)",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "npt(m) thread: 1/2 inch, npt(f) thread: 3/4 inch",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: iic",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   1\"NPT(M) x 1/2\" NPT(F)",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "npt(m) thread: 1 inch, npt(f) thread: 1/2 inch",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: iic",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "instrumentation | supply items",
+      "full_product_description": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   1.5\" NPT(M) x 1\" NPT(F)",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "npt(m) thread: 1.5 inch, npt(f) thread: 1 inch",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: iic",
+      "quantity": "5.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      50,
+      59
+    ],
+    "original_rows": [
+      {
+        "0": 292,
+        "1": 0,
+        "2": "01II.550.10.24",
+        "3": "1 \" GI Conduit",
+        "4": 20.0,
+        "5": "m",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 293,
+        "1": 0,
+        "2": "01II.550.10.32V1",
+        "3": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   ISO M20 x 1/2\" NPT(F)",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 294,
+        "1": 0,
+        "2": "01II.550.10.32V2",
+        "3": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   ISO M16 x 1/2\" NPT(F)",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 295,
+        "1": 0,
+        "2": "01II.550.10.32V3",
+        "3": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   ISO M20 x 3/4\" NPT(F)",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 296,
+        "1": 0,
+        "2": "01II.550.10.32V4",
+        "3": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   3/4\"NPT(M) x 1/2\" NPT(F)",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 297,
+        "1": 0,
+        "2": "01II.550.10.32V5",
+        "3": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   1/2\"NPT(M) x 3/4\" NPT(F)",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 298,
+        "1": 0,
+        "2": "01II.550.10.32V6",
+        "3": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   1\"NPT(M) x 1/2\" NPT(F)",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 299,
+        "1": 0,
+        "2": "01II.550.10.32V7",
+        "3": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   1.5\" NPT(M) x 1\" NPT(F)",
+        "4": 5.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 300,
+        "1": 0,
+        "2": "01II.550.20",
+        "3": "Supply of Junction boxes of various types and specifications",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 301,
+        "1": 0,
+        "2": "01II.550.20.2V2",
+        "3": "Junction Box, Weatherproof  + Flameproof   (Gas Groups - IIC)   type   3 Way",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2481,
+    "completion_tokens": 1392
+  }
+}

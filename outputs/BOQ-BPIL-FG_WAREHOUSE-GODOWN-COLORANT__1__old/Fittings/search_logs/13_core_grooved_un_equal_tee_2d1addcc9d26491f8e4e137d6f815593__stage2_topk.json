@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: grooved un equal tee | size: tee size: 100X40X100 NB",
+  "retrieval_results": [
+    {
+      "id": "variant-663cf76d-ffc4-5b4c-934a-31949f5c06be",
+      "score": 0.8556506,
+      "metadata": {
+        "text": "core_product_name: tee fitting",
+        "raw_product_name": "FITTINGS –TEES",
+        "list_of_product_ids": "14267,14693,14668,14710,14903,14915,15996,16049,18892,19403,18960,19725,19800,19793,20062,20171,20936,21919,22661,22656,22915,23197,27761,27751,27741,27731,27721,27780,37063,36444,36528",
+        "core_id": 881.0
+      }
+    },
+    {
+      "id": "variant-b8c4f5e0-8923-57e8-b479-e98457d37dd1",
+      "score": 0.8550139,
+      "metadata": {
+        "text": "core_product_name: unequal tee",
+        "raw_product_name": "UNEQUAL TEE",
+        "list_of_product_ids": "15470,27764,27754,27744,27734,27724,27777",
+        "core_id": 2320.0
+      }
+    },
+    {
+      "id": "variant-7200274a-d707-5227-ac1e-143a15e80f5e",
+      "score": 0.8460992,
+      "metadata": {
+        "text": "core_product_name: barred tee",
+        "raw_product_name": "BARRED TEE",
+        "list_of_product_ids": "14187,22417,27760,27750,27740,27730,27720,27781,36527",
+        "core_id": 175.0
+      }
+    },
+    {
+      "id": "variant-0ac14aa8-88e6-5346-8d34-683abe9ee02e",
+      "score": 0.84217894,
+      "metadata": {
+        "text": "core_product_name: flow tee",
+        "raw_product_name": "FLOW TEE",
+        "list_of_product_ids": "5371,6067,11152,11151,10737,11283,10560,12908,15980,17555,27536,27759,27749,27739,27729,27719,27782,36526",
+        "core_id": 940.0
+      }
+    },
+    {
+      "id": "variant-c4dd5da8-ce81-5c61-9d83-f5bcb7ada524",
+      "score": 0.83699566,
+      "metadata": {
+        "text": "core_product_name: scrapper tee",
+        "raw_product_name": "SCRAPPER TEES",
+        "list_of_product_ids": "13878,14911,15978,16124,17264,17263,17262,17550,18295,27762,27752,27742,27732,27722,27779,34727,34729,34855",
+        "core_id": 1975.0
+      }
+    },
+    {
+      "id": "variant-c054d8e4-1e8c-5ea7-b013-ef07cbeba8a2",
+      "score": 0.83664906,
+      "metadata": {
+        "text": "core_product_name: split tee",
+        "raw_product_name": "SPLIT TEE",
+        "list_of_product_ids": "14008,14586,27763,27753,27743,27733,27723,27778,36529",
+        "core_id": 2084.0
+      }
+    },
+    {
+      "id": "variant-dc892e41-60f1-5a16-a1bd-f106f106c78b",
+      "score": 0.8355697,
+      "metadata": {
+        "text": "core_product_name: as fitted drawing",
+        "raw_product_name": "AS FITTED DRAWING",
+        "list_of_product_ids": "295,042,928,129,280",
+        "core_id": 131.0
+      }
+    },
+    {
+      "id": "variant-578b44d5-4ccd-58bf-bd00-e0a7f89f00d6",
+      "score": 0.83518255,
+      "metadata": {
+        "text": "core_product_name: grass-jointed tile",
+        "raw_product_name": "GRASS-JOINTED TILES",
+        "list_of_product_ids": "9534,9543,14436,14506,14508,20240,23698,35256,35255",
+        "core_id": 1067.0
+      }
+    },
+    {
+      "id": "variant-223a653f-ce26-546e-9630-21d058f384c7",
+      "score": 0.83485264,
+      "metadata": {
+        "text": "core_product_name: grating",
+        "raw_product_name": "GRATINGS",
+        "list_of_product_ids": "218,522,185,428,606",
+        "core_id": 1068.0
+      }
+    },
+    {
+      "id": "variant-6caf8017-d55b-5441-bf5f-7eaed4cb420b",
+      "score": 0.83307576,
+      "metadata": {
+        "text": "core_product_name: grout",
+        "raw_product_name": "GROUT",
+        "list_of_product_ids": "13748,16708,16707,19125,22869,33348,38480,35419,35432",
+        "core_id": 1078.0
+      }
+    },
+    {
+      "id": "variant-b6cc49f4-1485-53a1-a1a7-68d77a587995",
+      "score": 0.832162,
+      "metadata": {
+        "text": "core_product_name: gallery",
+        "raw_product_name": "CONVEYER GALLERIES",
+        "list_of_product_ids": "210,412,104,227,102",
+        "core_id": 473.0
+      }
+    },
+    {
+      "id": "variant-ed951238-4b7d-57d2-a143-ad5933966b07",
+      "score": 0.83112705,
+      "metadata": {
+        "text": "core_product_name: sheet | material: Fibre Glass",
+        "raw_product_name": "FIBRE GLASS SHEETS",
+        "list_of_product_ids": "171,122,514,536,124",
+        "core_id": 132.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.83072066,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    },
+    {
+      "id": "variant-61f8572e-efe3-5cec-9e1a-f25b5d3308a6",
+      "score": 0.82993865,
+      "metadata": {
+        "text": "core_product_name: fitting",
+        "raw_product_name": "FITTINGS",
+        "list_of_product_ids": "6290,5461,11537,7894,11072,11094,11098,11099,11127,11129,10446,10452,11402,8101,8103,8105,7876,7878,7880,7882,7883,7875,7877,7879,8095,8018,8097,8099,8094,8096,8098,8100,8102,8104,8106,8130,9273,9274,8824,8107,8108,12258,12679,12666,12683,12688,13310,13317,13403,14515,14568,15748,16005,16058,16446,16530,16614,19374,19368,19267,19252,19261,17541,19356,19736,20066,21742,21303,19811,19277,16579,24581,30951,30637,30687,33435,37262,37014,37026,35746,36881,36884",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-d8d2ec4b-e90c-5b1c-91aa-aece6242d68e",
+      "score": 0.8294544,
+      "metadata": {
+        "text": "core_product_name: expansion joint | material: Fabric",
+        "raw_product_name": "EXPANSION JOINT-(FABRIC)",
+        "list_of_product_ids": "5993,5172,8564,8857,17223,36601",
+        "core_id": 773.0
+      }
+    },
+    {
+      "id": "variant-91f11189-0c2a-5fbb-b670-57922dde3583",
+      "score": 0.8288499,
+      "metadata": {
+        "text": "core_product_name: inner wrap | material: Fibre Glass",
+        "raw_product_name": "FIBRE GLASS INNER WRAP",
+        "list_of_product_ids": "1,403,122,566",
+        "core_id": 816.0
+      }
+    },
+    {
+      "id": "variant-fc11023f-6aa9-5a2a-9ffa-b1e3abd66cf0",
+      "score": 0.82881594,
+      "metadata": {
+        "text": "core_product_name: craft",
+        "raw_product_name": "SURVIVAL CRAFT",
+        "list_of_product_ids": "188,592,806,237,502",
+        "core_id": 2164.0
+      }
+    },
+    {
+      "id": "variant-cd6ddf57-09e6-5454-8210-336cd5415241",
+      "score": 0.82862306,
+      "metadata": {
+        "text": "core_product_name: geotextile",
+        "raw_product_name": "GEO TEXTILE",
+        "list_of_product_ids": "2,416,128,694",
+        "core_id": 1050.0
+      }
+    },
+    {
+      "id": "variant-3efeda5d-6e70-51e8-8f2e-ad8a9436822e",
+      "score": 0.82856077,
+      "metadata": {
+        "text": "core_product_name: bend",
+        "raw_product_name": "BENDS",
+        "list_of_product_ids": "219,382,194,421,936",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-9ab89513-d45f-5b41-a6ca-41ece6c44144",
+      "score": 0.8283518,
+      "metadata": {
+        "text": "core_product_name: tile",
+        "raw_product_name": "TILES",
+        "list_of_product_ids": "16686,16685,16749,16748,27035,39313,34417,35274,35320,35331,35335",
+        "core_id": 2.0
+      }
+    },
+    {
+      "id": "variant-c19ee262-7802-562f-b0fb-f1eebb94e5a6",
+      "score": 0.82781404,
+      "metadata": {
+        "text": "core_product_name: tensile fabric system",
+        "raw_product_name": "TENSILE FABRIC SYSTEM",
+        "list_of_product_ids": "15946,15955,16073,16072,33683",
+        "core_id": 2227.0
+      }
+    },
+    {
+      "id": "variant-c1debd99-9abd-535a-9ed5-3298c5692567",
+      "score": 0.8272651,
+      "metadata": {
+        "text": "core_product_name: tubing",
+        "raw_product_name": "TUBINGS",
+        "list_of_product_ids": "14396,14566,22505,35747",
+        "core_id": 2099.0
+      }
+    },
+    {
+      "id": "variant-ea615f6d-ddd7-5bf3-89fb-13bae00fb9b0",
+      "score": 0.8272166,
+      "metadata": {
+        "text": "core_product_name: seamless tube | special_attributes: Seamless",
+        "raw_product_name": "SEAMLESS TUBES",
+        "list_of_product_ids": "13885,14712,14878,21559,27372,36957,36666,37273",
+        "core_id": 1987.0
+      }
+    },
+    {
+      "id": "variant-f126676e-a62f-52a6-ba06-b09e7951e71e",
+      "score": 0.82640105,
+      "metadata": {
+        "text": "core_product_name: forged fitting",
+        "raw_product_name": "FORGED FITTINGS",
+        "list_of_product_ids": "13660,22252,24586,36933",
+        "core_id": 972.0
+      }
+    },
+    {
+      "id": "variant-a5fd3f29-0bb5-54cd-bc81-b9edc9d79d34",
+      "score": 0.82633835,
+      "metadata": {
+        "text": "core_product_name: tile | material: Granite",
+        "raw_product_name": "GRANITE TILES",
+        "list_of_product_ids": "16706,16705,27037,35277,35333",
+        "core_id": 2.0
+      }
+    },
+    {
+      "id": "variant-2453414f-2a7c-5818-8718-a658ff2c6da2",
+      "score": 0.8257821,
+      "metadata": {
+        "text": "core_product_name: tube axial fan",
+        "raw_product_name": "Tube Axial Fan",
+        "list_of_product_ids": "7110,7437,18430,18472,18521,19490",
+        "core_id": 2312.0
+      }
+    },
+    {
+      "id": "variant-f2e4daa9-7a7d-5b46-ace7-d3f984fd5fee",
+      "score": 0.82562315,
+      "metadata": {
+        "text": "core_product_name: kerbing",
+        "raw_product_name": "KERBING",
+        "list_of_product_ids": "20537,20575,20615,20617,20664,20722",
+        "core_id": 1312.0
+      }
+    },
+    {
+      "id": "variant-123f81c9-bb37-5180-9d3f-25fcda640179",
+      "score": 0.8255295,
+      "metadata": {
+        "text": "core_product_name: gear",
+        "raw_product_name": "GEARS",
+        "list_of_product_ids": "23954,23955,24993,25023",
+        "core_id": 1045.0
+      }
+    },
+    {
+      "id": "variant-5935ee01-a444-52d8-9615-fa4b0239701e",
+      "score": 0.8251764,
+      "metadata": {
+        "text": "core_product_name: geared motor",
+        "raw_product_name": "Geared Motor",
+        "list_of_product_ids": "7,543,721,735,410",
+        "core_id": 1084.0
+      }
+    },
+    {
+      "id": "variant-9aa36f08-e097-54b1-94fe-8359583782f8",
+      "score": 0.8251239,
+      "metadata": {
+        "text": "core_product_name: orifice fitting",
+        "raw_product_name": "ORIFICE - FITTINGS",
+        "list_of_product_ids": "36537,36541,36539,36546",
+        "core_id": 1602.0
+      }
+    }
+  ]
+}

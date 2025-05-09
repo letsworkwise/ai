@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: end termination | size: cores: 3, cross section: 2.5 sqmm",
+  "retrieval_results": [
+    {
+      "id": "variant-5f6025f4-d869-56e7-bced-6488b91fa952",
+      "score": 0.8678658,
+      "metadata": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": "6444,5614,11000,12263,12344,15781,23866,24503",
+        "core_id": 282.0
+      }
+    },
+    {
+      "id": "variant-59dd3339-fe74-56b7-802a-213aacb4499a",
+      "score": 0.86658025,
+      "metadata": {
+        "text": "core_product_name: end cap",
+        "raw_product_name": "END CAP",
+        "list_of_product_ids": "15480",
+        "core_id": 745.0
+      }
+    },
+    {
+      "id": "variant-72eec985-31f4-579d-8d75-17ce3f807158",
+      "score": 0.86598045,
+      "metadata": {
+        "text": "core_product_name: terminal block",
+        "raw_product_name": "TERMINAL BLOCKS",
+        "list_of_product_ids": "5940,6769,12287,11388,8256,9278,17855,18812",
+        "core_id": 2228.0
+      }
+    },
+    {
+      "id": "variant-694e9b22-1590-52c8-9da7-95e6af8ae4f3",
+      "score": 0.8650343,
+      "metadata": {
+        "text": "core_product_name: terminal strip",
+        "raw_product_name": "TERMINAL STRIPS",
+        "list_of_product_ids": "1,400,220,181",
+        "core_id": 2231.0
+      }
+    },
+    {
+      "id": "variant-9112cf55-afe4-5090-8742-bea6260431fa",
+      "score": 0.8644457,
+      "metadata": {
+        "text": "core_product_name: tertiary separator",
+        "raw_product_name": "TERTIARY SEPARATOR",
+        "list_of_product_ids": "60,965,263",
+        "core_id": 2234.0
+      }
+    },
+    {
+      "id": "variant-ed6e94f3-a1b4-59a6-9312-3fb0f5ef657c",
+      "score": 0.8633278,
+      "metadata": {
+        "text": "core_product_name: dyke end",
+        "raw_product_name": "DYKE END",
+        "list_of_product_ids": "143,631,446,014,497",
+        "core_id": 648.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.863309,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-7a81ebd3-21d8-54a3-a240-c819d8c11843",
+      "score": 0.8623159,
+      "metadata": {
+        "text": "core_product_name: quick opening end closure",
+        "raw_product_name": "QUICK OPENING END CLOSURE",
+        "list_of_product_ids": "15436,18787,22338,36605,34856",
+        "core_id": 1851.0
+      }
+    },
+    {
+      "id": "variant-bc08e481-a9ae-551e-9e13-ace49d85e974",
+      "score": 0.86168647,
+      "metadata": {
+        "text": "core_product_name: measurement",
+        "raw_product_name": "VIBRATION MEASUREMENT",
+        "list_of_product_ids": "242,652,426,624,269",
+        "core_id": 2401.0
+      }
+    },
+    {
+      "id": "variant-f2d4af06-494c-576d-904c-5608ebb84565",
+      "score": 0.8585734,
+      "metadata": {
+        "text": "core_product_name: section | material: Aluminum",
+        "raw_product_name": "ALUMINUM SECTION",
+        "list_of_product_ids": "20555,20518,20605,20596,20682,20740,38548,39312",
+        "core_id": 100.0
+      }
+    },
+    {
+      "id": "variant-96f0d271-0132-58b0-a5ff-30856e6f26b3",
+      "score": 0.8573061,
+      "metadata": {
+        "text": "core_product_name: semiconductor",
+        "raw_product_name": "SEMICONDUCTORS",
+        "list_of_product_ids": "1,642,716,476",
+        "core_id": 1994.0
+      }
+    },
+    {
+      "id": "variant-035e5d74-4fc0-5854-ace0-4826f9b36c25",
+      "score": 0.8568158,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+        "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+        "list_of_product_ids": "19885,19880,24078,23930,27348",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-0939de9d-e669-5a1a-879c-881e137e2952",
+      "score": 0.85655975,
+      "metadata": {
+        "text": "core_product_name: busbar terminal block",
+        "raw_product_name": "BUSBAR TERMINAL BLOCK",
+        "list_of_product_ids": "59,416,770",
+        "core_id": 260.0
+      }
+    },
+    {
+      "id": "variant-7724afe3-ceca-5c2f-ab88-940a8830c1c5",
+      "score": 0.85579586,
+      "metadata": {
+        "text": "core_product_name: measuring instrument",
+        "raw_product_name": "MEASURING INSTRUMENTS",
+        "list_of_product_ids": "22280,22279,22278,27344,30010",
+        "core_id": 1450.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.8556555,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-ba3d7620-8f6f-5c5a-bdc1-21d5c6b75b6f",
+      "score": 0.8555965,
+      "metadata": {
+        "text": "core_product_name: insulation material",
+        "raw_product_name": "INSULATION MATERIAL",
+        "list_of_product_ids": "10251,10256,10261,10266,10273,10278,10281,7088,7415,10172,10221,10226,10230,10234,10240,10245,11862,13008,38431,33383",
+        "core_id": 1274.0
+      }
+    },
+    {
+      "id": "variant-d1a8de61-13b6-578f-b367-9e91178fa074",
+      "score": 0.85537565,
+      "metadata": {
+        "text": "core_product_name: coalescer",
+        "raw_product_name": "COALESCER",
+        "list_of_product_ids": "6058,5237,8764,8878,16120,23027,22999,23560,36735,36779",
+        "core_id": 380.0
+      }
+    },
+    {
+      "id": "variant-64dd023c-4e0c-53f1-ae6a-c0cadf9b4ca1",
+      "score": 0.85505986,
+      "metadata": {
+        "text": "core_product_name: terminal bushing",
+        "raw_product_name": "TERMINAL BUSHING",
+        "list_of_product_ids": "1,399,814,467",
+        "core_id": 2232.0
+      }
+    },
+    {
+      "id": "variant-0cd54d4a-796e-5c3a-9747-181283b9856c",
+      "score": 0.855033,
+      "metadata": {
+        "text": "core_product_name: separator",
+        "raw_product_name": "SEPARATOR",
+        "list_of_product_ids": "9560,9520,14412,20122,24395,24394,24393,36778,36599,37078",
+        "core_id": 1866.0
+      }
+    },
+    {
+      "id": "variant-0859b49b-78bf-5420-917f-73bdcad0fd3d",
+      "score": 0.85497993,
+      "metadata": {
+        "text": "core_product_name: partition | material: Aluminium",
+        "raw_product_name": "PATITIONS - ALUMINIUM",
+        "list_of_product_ids": "15639,15633,15618,15724",
+        "core_id": 1637.0
+      }
+    },
+    {
+      "id": "variant-2db910c5-abe4-5192-a8f5-249c0cfd5fae",
+      "score": 0.8547849,
+      "metadata": {
+        "text": "core_product_name: column",
+        "raw_product_name": "MAIN COLUMN",
+        "list_of_product_ids": "20854,20877,21906,21953,22019,22117",
+        "core_id": 392.0
+      }
+    },
+    {
+      "id": "variant-b0c2061a-aa8d-5939-97cc-7b5703645203",
+      "score": 0.85475504,
+      "metadata": {
+        "text": "core_product_name: terminal box",
+        "raw_product_name": "TERMINAL BOX",
+        "list_of_product_ids": "141,951,736,936,609",
+        "core_id": 2230.0
+      }
+    },
+    {
+      "id": "variant-05c9db43-5c4d-52ba-ab45-526ce58a2d3e",
+      "score": 0.8547271,
+      "metadata": {
+        "text": "core_product_name: thermal insulation",
+        "raw_product_name": "Thermal Insulation",
+        "list_of_product_ids": "7572,7247,11774,11775,7759,7755,7757,9770,12863,13002,13009,16997,17020,17014,34601",
+        "core_id": 2305.0
+      }
+    },
+    {
+      "id": "variant-fb879217-9876-5ce0-86f6-605e1593cb4e",
+      "score": 0.8546565,
+      "metadata": {
+        "text": "core_product_name: diaphragm closure",
+        "raw_product_name": "DIAPHRAGM CLOSURE",
+        "list_of_product_ids": "19131,19138,19139,38481",
+        "core_id": 583.0
+      }
+    },
+    {
+      "id": "variant-88027b39-4ffc-5f56-ae3e-b729a9a8d1fd",
+      "score": 0.8546486,
+      "metadata": {
+        "text": "core_product_name: coupling device",
+        "raw_product_name": "COUPLING DEVICE",
+        "list_of_product_ids": "18582,18579,18578,18637",
+        "core_id": 499.0
+      }
+    },
+    {
+      "id": "variant-a66d1119-6bd0-59b4-afe4-715831505dd8",
+      "score": 0.8543886,
+      "metadata": {
+        "text": "core_product_name: transistor",
+        "raw_product_name": "TRANSISTORS",
+        "list_of_product_ids": "164,291,647,322,294",
+        "core_id": 2275.0
+      }
+    },
+    {
+      "id": "variant-92f48f61-cb6b-5d84-b93e-c8e5438b972e",
+      "score": 0.85433507,
+      "metadata": {
+        "text": "core_product_name: casing spacer",
+        "raw_product_name": "CASING SPACER",
+        "list_of_product_ids": "17535,17536,18674,37788",
+        "core_id": 303.0
+      }
+    },
+    {
+      "id": "variant-2ce23efe-d588-56de-9aaa-187d700a65d1",
+      "score": 0.8543215,
+      "metadata": {
+        "text": "core_product_name: column tray | size_or_capacity: High Capacity",
+        "raw_product_name": "COLUMN TRAYS-HIGH CAPACITY",
+        "list_of_product_ids": "6,705,587,612,418",
+        "core_id": 393.0
+      }
+    },
+    {
+      "id": "variant-35bdbbe9-b7f3-5e25-bd6d-8692b3ca9a57",
+      "score": 0.8541617,
+      "metadata": {
+        "text": "core_product_name: reducing socket",
+        "raw_product_name": "REDUCING SOCKET",
+        "list_of_product_ids": "1,547,915,481",
+        "core_id": 1881.0
+      }
+    },
+    {
+      "id": "variant-59b5e3e6-cca0-5578-9fb8-1da38d04a8ce",
+      "score": 0.8541092,
+      "metadata": {
+        "text": "core_product_name: test separator",
+        "raw_product_name": "TEST SEPARATOR",
+        "list_of_product_ids": "6093,5260,8755,23730",
+        "core_id": 2233.0
+      }
+    }
+  ]
+}

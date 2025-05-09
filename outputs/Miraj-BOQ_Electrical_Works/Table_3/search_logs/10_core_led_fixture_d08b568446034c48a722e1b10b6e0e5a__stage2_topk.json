@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: led fixture | size: mounting height: > 10m | feature_or_specifications: type: high bay, type: industrial, driver: integral",
+  "retrieval_results": [
+    {
+      "id": "variant-eb58eb3c-f1fc-59ff-ba71-ccf7d770f771",
+      "score": 0.8576131,
+      "metadata": {
+        "text": "core_product_name: incandescent lighting fixture",
+        "raw_product_name": "INCANDESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19026,19024,19022,19020,19163",
+        "core_id": 1228.0
+      }
+    },
+    {
+      "id": "variant-cf977c7c-e368-56f7-9ce9-23eb8659bb38",
+      "score": 0.85754186,
+      "metadata": {
+        "text": "core_product_name: lighting fixture",
+        "raw_product_name": "LIGHTING FIXTURES",
+        "list_of_product_ids": "13606,16555,16546,16591,16576,17657,17650,17702,17682,18058,20306,20834,21315,22108,23384,35044",
+        "core_id": 1006.0
+      }
+    },
+    {
+      "id": "variant-8971ab23-b860-595e-888e-8ef24922c459",
+      "score": 0.85577804,
+      "metadata": {
+        "text": "core_product_name: high mast lighting system",
+        "raw_product_name": "HIGH MAST LIGHTING SYSTEM",
+        "list_of_product_ids": "6416,5586,10566,10176,10177",
+        "core_id": 1127.0
+      }
+    },
+    {
+      "id": "variant-5ce39e66-51d3-5c8d-8399-07e58423611b",
+      "score": 0.84933114,
+      "metadata": {
+        "text": "core_product_name: tube light fixture",
+        "raw_product_name": "TUBE LIGHT FIXTURES",
+        "list_of_product_ids": "139,811,494,021,021",
+        "core_id": 2282.0
+      }
+    },
+    {
+      "id": "variant-e86062e6-2903-51eb-9c92-a29d8a2c92b5",
+      "score": 0.8463377,
+      "metadata": {
+        "text": "core_product_name: fluorescent lighting fixture",
+        "raw_product_name": "FLUORESCENT LIGHTING FIXTURE",
+        "list_of_product_ids": "19025,19023,19021,19019,19164",
+        "core_id": 951.0
+      }
+    },
+    {
+      "id": "variant-370c43d3-b815-5435-9810-24d97f958927",
+      "score": 0.8444611,
+      "metadata": {
+        "text": "core_product_name: indicating lamp fitting",
+        "raw_product_name": "INDICATING LAMP FITTING",
+        "list_of_product_ids": "20128,20443,20418,20465,20506,20645",
+        "core_id": 1232.0
+      }
+    },
+    {
+      "id": "variant-63f28b5e-8d64-503f-938b-d41f4b31f2fd",
+      "score": 0.84439385,
+      "metadata": {
+        "text": "core_product_name: industrial receptacle",
+        "raw_product_name": "INDUSTRIAL RECEPTACLE",
+        "list_of_product_ids": "136,891,479,414,813",
+        "core_id": 1235.0
+      }
+    },
+    {
+      "id": "variant-0e4d04c7-96ab-5803-96ea-fa89fe6f4c0f",
+      "score": 0.8443644,
+      "metadata": {
+        "text": "core_product_name: indicating pilot | type_or_class: HI-LO (High-Low) | construction_features: dial type",
+        "raw_product_name": "HI-LO PILOTS (INDICATING DIAL TYPE)",
+        "list_of_product_ids": "13816,38324,35544,36103",
+        "core_id": 1125.0
+      }
+    },
+    {
+      "id": "variant-2e53d84e-e3e8-5b7a-9692-1dff85b1b95f",
+      "score": 0.8438359,
+      "metadata": {
+        "text": "core_product_name: aviation marker lighting fixture | type_or_class: Div.2 (Division 2)",
+        "raw_product_name": "Div.2 Aviation Marker Lighting Fixtures",
+        "list_of_product_ids": "18715,18711,19014,37433",
+        "core_id": 659.0
+      }
+    },
+    {
+      "id": "variant-778645d4-85bb-59dd-8fa4-ed0ea95deb18",
+      "score": 0.843761,
+      "metadata": {
+        "text": "core_product_name: pin bush or bibby coupling | size_or_capacity: 10kW and above",
+        "raw_product_name": "Pin Bush/ Bibby Coupling (10kW and above)",
+        "list_of_product_ids": "7043,7370,9731,18766",
+        "core_id": 1831.0
+      }
+    },
+    {
+      "id": "variant-0bf51e3d-fa9b-53e0-8154-35e104f448de",
+      "score": 0.84345925,
+      "metadata": {
+        "text": "core_product_name: lighting mast",
+        "raw_product_name": "LIGHTING MAST",
+        "list_of_product_ids": "17348,17346,17338,17520,17538,18673,17707,32167,32166,32193,35983,35989",
+        "core_id": 1363.0
+      }
+    },
+    {
+      "id": "variant-5722049a-a798-5b88-81b3-11aec368d8cc",
+      "score": 0.84339875,
+      "metadata": {
+        "text": "core_product_name: lighting mast",
+        "raw_product_name": "Lighting Masts",
+        "list_of_product_ids": "15628,24242,15727,15629",
+        "core_id": 1363.0
+      }
+    },
+    {
+      "id": "variant-e51951de-8032-58ff-a06e-aae2de3d829d",
+      "score": 0.8424977,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: bolted",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+        "list_of_product_ids": "20000,19997,20035,21038,21002,21083,21901,22017,22116,22826,22992",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-d3918fb3-1dcf-5330-9bbe-6452020c252d",
+      "score": 0.84174705,
+      "metadata": {
+        "text": "core_product_name: plumbing fitting and fixture",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - PLUMBING FITTINGS AND FIXTURES",
+        "list_of_product_ids": "6364,5535,7874,12489,12648,12649,34680,34681",
+        "core_id": 1961.0
+      }
+    },
+    {
+      "id": "variant-a2d5443b-8b58-5842-81e9-dadde284f9dc",
+      "score": 0.8411119,
+      "metadata": {
+        "text": "core_product_name: ceiling girder | construction_features: bolted",
+        "raw_product_name": "CEILING GIRDER (BOLTED)",
+        "list_of_product_ids": "20959,20987,20957,21005,21905,22001,22113",
+        "core_id": 321.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.8404817,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-4fbda17f-559f-5825-bbe5-5435a6b56056",
+      "score": 0.8395006,
+      "metadata": {
+        "text": "core_product_name: ceiling girder | construction_features: welded",
+        "raw_product_name": "CEILING GIRDER (WELDED)",
+        "list_of_product_ids": "20958,20988,20956,21006,21904,22002,22114",
+        "core_id": 321.0
+      }
+    },
+    {
+      "id": "variant-7a47b8db-ee25-518f-9ee3-4b13bf063bda",
+      "score": 0.83882123,
+      "metadata": {
+        "text": "core_product_name: large-diameter pipe",
+        "raw_product_name": "Large-diameter pipe",
+        "list_of_product_ids": "758,772,628,028",
+        "core_id": 1410.0
+      }
+    },
+    {
+      "id": "variant-17b52f74-ab4a-5f07-bb88-6835cb6743fd",
+      "score": 0.8386204,
+      "metadata": {
+        "text": "core_product_name: high mast tower",
+        "raw_product_name": "HIGH MAST TOWER",
+        "list_of_product_ids": "17725,17692,17684,17683,18661",
+        "core_id": 1126.0
+      }
+    },
+    {
+      "id": "variant-190fd1d5-5fdf-5cf7-af06-66d3ec25db86",
+      "score": 0.83856905,
+      "metadata": {
+        "text": "core_product_name: industrial canopy",
+        "raw_product_name": "INDUSTRIAL CANOPY",
+        "list_of_product_ids": "13421",
+        "core_id": 1234.0
+      }
+    },
+    {
+      "id": "variant-6daccb7e-afc6-52ac-8f19-b716ca12c3a6",
+      "score": 0.83834815,
+      "metadata": {
+        "text": "core_product_name: video wall | material: LED (Light Emitting Diode)",
+        "raw_product_name": "Video Walls (LED)",
+        "list_of_product_ids": "7078,7405,18019,18418,18417",
+        "core_id": 2418.0
+      }
+    },
+    {
+      "id": "variant-264dbf59-32e9-5b3f-8f2f-ff8fd311b4c0",
+      "score": 0.8382875,
+      "metadata": {
+        "text": "core_product_name: resilient mounting",
+        "raw_product_name": "RESILIENT MOUNTINGS",
+        "list_of_product_ids": "22948,22951,22952,28652",
+        "core_id": 1900.0
+      }
+    },
+    {
+      "id": "variant-0cb3d965-6b71-56dc-a522-f463c04698ee",
+      "score": 0.8378022,
+      "metadata": {
+        "text": "core_product_name: light fabricated component",
+        "raw_product_name": "LIGHT FABRICATED COMPONENT",
+        "list_of_product_ids": "26019,26018,26017,26690",
+        "core_id": 1347.0
+      }
+    },
+    {
+      "id": "variant-e29a7a21-0d76-5a3d-8a3c-beb8e46fc788",
+      "score": 0.83748853,
+      "metadata": {
+        "text": "core_product_name: high tensile stud | type_or_class: High Tensile",
+        "raw_product_name": "HIGH TENSILE STUD",
+        "list_of_product_ids": "21476,21466,21469,21472,21860,28599",
+        "core_id": 1135.0
+      }
+    },
+    {
+      "id": "variant-dd1b57e2-1371-50a7-9530-6c5fdf79c267",
+      "score": 0.8373493,
+      "metadata": {
+        "text": "core_product_name: ceiling girder",
+        "raw_product_name": "CEILING GIRDER",
+        "list_of_product_ids": "21903,21889,21954,22000,22112,22979",
+        "core_id": 321.0
+      }
+    },
+    {
+      "id": "variant-538ee8b0-3bc5-51df-a346-f852b580ca15",
+      "score": 0.8373416,
+      "metadata": {
+        "text": "core_product_name: electric hoist | size_or_capacity: >5 MT",
+        "raw_product_name": "ELECTRIC HOIST >5 MT",
+        "list_of_product_ids": "13846,23074,29913,29914,29917,29916,29918,29921,29924,29926,29925,29929,29923,29922,29930",
+        "core_id": 692.0
+      }
+    },
+    {
+      "id": "variant-a807b261-d030-557d-80c2-edb07d018ba1",
+      "score": 0.8372909,
+      "metadata": {
+        "text": "core_product_name: accessory lighting fixture | protection_features: Non Hazardous",
+        "raw_product_name": "LIGHTING FIXTURE & ACCESORY-NON HZARDOUS",
+        "list_of_product_ids": "5630,6459,10568,10188,10179,19512,19508,19540,26082",
+        "core_id": 1352.0
+      }
+    },
+    {
+      "id": "variant-9d957f48-e072-5707-bdfa-bc5827850335",
+      "score": 0.83709365,
+      "metadata": {
+        "text": "core_product_name: shock mounting",
+        "raw_product_name": "SHOCK MOUNTINGS",
+        "list_of_product_ids": "22949,22950,22953,28654",
+        "core_id": 2016.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.83686095,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    },
+    {
+      "id": "variant-30ba7b7c-4349-5ae1-b9ed-81ec0b2af986",
+      "score": 0.83669907,
+      "metadata": {
+        "text": "core_product_name: high voltage capacitor | size_or_capacity: High Voltage",
+        "raw_product_name": "CAPACITORS-HIGH VOLTAGE",
+        "list_of_product_ids": "6427,5597,10503,10567,11340,12080",
+        "core_id": 295.0
+      }
+    }
+  ]
+}

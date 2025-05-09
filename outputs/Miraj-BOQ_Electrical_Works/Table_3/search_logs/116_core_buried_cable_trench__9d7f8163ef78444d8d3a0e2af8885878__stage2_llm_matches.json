@@ -1,0 +1,55 @@
+{
+  "query": "core_product_name: buried cable trench construction | size: size: 600x750x8000 mm | feature_or_specifications: includes: excavation, back filling, river sand bedding, spreading of brick",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable trench",
+        "raw_product_name": "CABLE TRENCHES",
+        "list_of_product_ids": [
+          "15786",
+          "15854",
+          "15876",
+          "15870",
+          "24073",
+          "23925"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: precast trench",
+        "raw_product_name": "PRECAST TRENCHES",
+        "list_of_product_ids": [
+          "15831",
+          "15829",
+          "15819",
+          "15840"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: box culvert",
+        "raw_product_name": "BOX CULVERTS",
+        "list_of_product_ids": [
+          "15805",
+          "15857",
+          "15874",
+          "15883"
+        ]
+      }
+    }
+  ]
+}

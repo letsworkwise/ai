@@ -1,0 +1,3597 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "header_rows": "Sl. No. | PART NO | ITEM NO | DESCRIPTION | QTY | UOM | Rate | AMOUNT",
+  "products_entries": [
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr); thk. <= 10mm; fabrication (butt weld)",
+      "full_product_description": "carbon steel piping (non ibr); thk. <= 10mm; fabrication (butt weld); nb 2 inch - 6 inch",
+      "core_product_name": "carbon steel piping",
+      "acronymed_core_product_name": "cs piping",
+      "size": "nominal bore: 2 inch - 6 inch, thickness: <= 10mm",
+      "feature_or_specifications": "type: non ibr(non indian boiler regulations), fabrication: butt weld, material: carbon steel",
+      "quantity": "1320.0",
+      "unit": "inch dia"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr); thk. <= 10mm; fabrication (butt weld)",
+      "full_product_description": "carbon steel piping (non ibr); thk. <= 10mm; fabrication (butt weld); nb 8 inch - 14 inch",
+      "core_product_name": "carbon steel piping",
+      "acronymed_core_product_name": "cs piping",
+      "size": "nominal bore: 8 inch - 14 inch, thickness: <= 10mm",
+      "feature_or_specifications": "type: non ibr(non indian boiler regulations), fabrication: butt weld, material: carbon steel",
+      "quantity": "65.0",
+      "unit": "inch dia"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr); fabrication (fillet weld)",
+      "full_product_description": "fabrication (fillet weld); nb upto 1.5 inch",
+      "core_product_name": "fabrication",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: upto 1.5 inch",
+      "feature_or_specifications": "type: fillet weld",
+      "quantity": "155.0",
+      "unit": "inch dia"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr); erection (other than spool)",
+      "full_product_description": "erection (other than spool); nb upto 1.5 inch",
+      "core_product_name": "erection",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: upto 1.5 inch",
+      "feature_or_specifications": "type: other than spool",
+      "quantity": "80.0",
+      "unit": "inch m"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr); steam tracers carbon steel",
+      "full_product_description": "steam tracers carbon steel; nb 0.500 inches",
+      "core_product_name": "steam tracers",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 0.500 inches",
+      "feature_or_specifications": "material: carbon steel",
+      "quantity": "885.0",
+      "unit": "metres"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr); steam tracers carbon steel",
+      "full_product_description": "steam tracers carbon steel; nb 0.750 inches",
+      "core_product_name": "steam tracers",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 0.750 inches",
+      "feature_or_specifications": "material: carbon steel",
+      "quantity": "10.0",
+      "unit": "metres"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr); valves :- transportation of all types of valves (including special valves, motor operated  valves, prds, psvs, tsvs,",
+      "full_product_description": "flanged/wafer valves including mov (upto 600#); nb 4.000 inches",
+      "core_product_name": "flanged or wafer valves",
+      "acronymed_core_product_name": "mov",
+      "size": "nominal bore: 4.000 inches",
+      "feature_or_specifications": "type: flanged or wafer, includes: motor operated valve (mov), pressure rating: upto 600#",
+      "quantity": "23.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "RADIOGRAPHY :- Performance of radiographic inspection on piping of all types & thicknesses including providing or FOR JOINTS THK. <= 8MM (FOR CS OTHER THAN CLASS lV OF JOB NDE SPECIFICATION) NB  4.000 INCHES",
+      "core_product_name": "radiographic inspection",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 4.000 inches, joint thickness: <= 8mm",
+      "feature_or_specifications": "application: piping of all types & thicknesses, specification: for cs(carbon steel) other than class iv of job nde specification",
+      "quantity": "17.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "DYE PENETRATION/MAGNETIC PARTICLE TEST :- Performance of magnetic particle/ dye penetrant test DYE PENETRANT TEST",
+      "core_product_name": "dye penetrant test",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "test type: magnetic particle or dye penetrant",
+      "quantity": "72.0",
+      "unit": "inches"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "PIPE SUPPORTS (FROM MATERIALS SUPPLIED BY OWNER) :- Fabrication, erection(at all elevations) of pipe C.S STRUCTURAL STEEL (OWNER SUPPLIED)",
+      "core_product_name": "pipe supports",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: cs(carbon steel) structural steel, supply: owner supplied, application: fabrication, erection at all elevations",
+      "quantity": "1.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "C.S STRUCTURAL STEEL (CONTRACTOR SUPPLIED)",
+      "core_product_name": "structural steel",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: cs(carbon steel), supply: contractor supplied",
+      "quantity": "1.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FLAME   CUTTING C.S PIPING  IBR/NON IBR",
+      "core_product_name": "cutting piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "cutting-type: flame, material: cs(carbon steel), standard: ibr(indian boiler regulations) or non ibr",
+      "quantity": "25.0",
+      "unit": "inch dia"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "HACKSAW CUTTING C.S PIPING  IBR/NON IBR",
+      "core_product_name": "cutting piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "cutting-type: hacksaw, material: cs(carbon steel), standard: ibr(indian boiler regulations) or non ibr",
+      "quantity": "10.0",
+      "unit": "inch dia"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "BEVELLING C.S PIPING  IBR/NON IBR",
+      "core_product_name": "bevelling piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: cs(carbon steel), standard: ibr(indian boiler regulations) or non ibr",
+      "quantity": "30.0",
+      "unit": "inch dia"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FITUP & WELDING  C.S PIPING  IBR/NON IBR",
+      "core_product_name": "fitup and welding piping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: cs(carbon steel), standard: ibr(indian boiler regulations) or non ibr",
+      "quantity": "30.0",
+      "unit": "inch dia"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "NB  4.000                     INCHES",
+      "core_product_name": "pipe",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 4.000 inches",
+      "feature_or_specifications": "",
+      "quantity": "20.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "LOW FRICTION PADS: Supply, fabrication and fixing of low friction pads with suitable bonding materials / fasteners, as TEFLON PAD WITH COMPRESSIVE STRENGTH (0.25 OFFSET) :1870 PSI",
+      "core_product_name": "low friction pad",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: teflon, compressive strength: 1870 psi, offset: 0.25, bonding materials: suitable, fasteners: suitable",
+      "quantity": "0.07",
+      "unit": "cu. m"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "LOW FRICTION PADS: Supply, fabrication and fixing of low friction pads with suitable bonding materials / fasteners, as GRAPHITE PAD WITH COMPRESSIVE STRENGTH : 2877 PSI",
+      "core_product_name": "low friction pad",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: graphite, compressive strength: 2877 psi, bonding materials: suitable, fasteners: suitable",
+      "quantity": "0.07",
+      "unit": "cu. m"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "OPENING & BOXING-UP OF PIPING / EQUIPMENT FLANGES & BLINDING OF FLANGESJOINTS: FLANGE ASSEMBLY 150# NB  2.000                     INCHES",
+      "core_product_name": "flange assembly",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 2.000 inches",
+      "feature_or_specifications": "pressure rating: 150#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "OPENING & BOXING-UP OF PIPING / EQUIPMENT FLANGES & BLINDING OF FLANGESJOINTS: FLANGE ASSEMBLY 150# NB  3.000                     INCHES",
+      "core_product_name": "flange assembly",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 3.000 inches",
+      "feature_or_specifications": "pressure rating: 150#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "OPENING & BOXING-UP OF PIPING / EQUIPMENT FLANGES & BLINDING OF FLANGESJOINTS: FLANGE ASSEMBLY 150# NB  4.000                     INCHES",
+      "core_product_name": "flange assembly",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 4.000 inches",
+      "feature_or_specifications": "pressure rating: 150#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "OPENING & BOXING-UP OF PIPING / EQUIPMENT FLANGES & BLINDING OF FLANGESJOINTS: FLANGE ASSEMBLY 150# NB  6.000                     INCHES",
+      "core_product_name": "flange assembly",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 6.000 inches",
+      "feature_or_specifications": "pressure rating: 150#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "OPENING & BOXING-UP OF PIPING / EQUIPMENT FLANGES & BLINDING OF FLANGESJOINTS: FLANGE ASSEMBLY 150# NB  8.000                     INCHES",
+      "core_product_name": "flange assembly",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 8.000 inches",
+      "feature_or_specifications": "pressure rating: 150#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "OPENING & BOXING-UP OF PIPING / EQUIPMENT FLANGES & BLINDING OF FLANGESJOINTS: FLANGE ASSEMBLY 150# NB 10.000                     INCHES",
+      "core_product_name": "flange assembly",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 10.000 inches",
+      "feature_or_specifications": "pressure rating: 150#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FLANGE ASSEMBLY 300# NB  2.000                     INCHES",
+      "core_product_name": "flange assembly",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 2.000 inches",
+      "feature_or_specifications": "pressure rating: 300#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FLANGE ASSEMBLY 300# NB  3.000                     INCHES",
+      "core_product_name": "flange assembly",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 3.000 inches",
+      "feature_or_specifications": "pressure rating: 300#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FLANGE ASSEMBLY 300# NB  4.000                     INCHES",
+      "core_product_name": "flange assembly",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 4.000 inches",
+      "feature_or_specifications": "pressure rating: 300#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FLANGE ASSEMBLY 300# NB  6.000                     INCHES",
+      "core_product_name": "flange assembly",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 6.000 inches",
+      "feature_or_specifications": "pressure rating: 300#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FLANGE ASSEMBLY 300# NB  8.000                     INCHES",
+      "core_product_name": "flange assembly",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 8.000 inches",
+      "feature_or_specifications": "pressure rating: 300#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FLANGE ASSEMBLY 300# NB 10.000                     INCHES",
+      "core_product_name": "flange assembly",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 10.000 inches",
+      "feature_or_specifications": "pressure rating: 300#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "MANHOLE OPENING AND BOX UP (FOR SIZE FROM 20\" TO 40\" DIA., ALL RATINGS) : Opening of manhole flanges",
+      "core_product_name": "manhole opening and box up",
+      "acronymed_core_product_name": "",
+      "size": "size: from 20\" to 40\" diameter",
+      "feature_or_specifications": "feature: all ratings, feature: opening of manhole flanges",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "MANHOLE OPENING AND BOX UP (FOR SIZE FROM 20\" TO 40\" DIA., ALL RATINGS) : Opening of manhole flanges",
+      "core_product_name": "manhole opening and box up",
+      "acronymed_core_product_name": "",
+      "size": "size: from 20\" to 40\" diameter",
+      "feature_or_specifications": "feature: all ratings, feature: opening of manhole flanges",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FABRICATION OF TAIL BLINDS:-Issuing and transportation of CS plates from owner store to work site, marking to the",
+      "core_product_name": "fabrication of tail blinds",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: issuing and transportation of cs(carbon steel) plates from owner store to work site, feature: marking to the",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FABRICATION OF TAIL BLINDS:-Issuing and transportation of CS plates from owner store to work site, marking to the 0.75 INCH",
+      "core_product_name": "fabrication of tail blinds",
+      "acronymed_core_product_name": "",
+      "size": "size: 0.75 inch",
+      "feature_or_specifications": "feature: issuing and transportation of cs(carbon steel) plates from owner store to work site, feature: marking to the",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FABRICATION OF TAIL BLINDS:-Issuing and transportation of CS plates from owner store to work site, marking to the 1.0 INCH",
+      "core_product_name": "fabrication of tail blinds",
+      "acronymed_core_product_name": "",
+      "size": "size: 1.0 inch",
+      "feature_or_specifications": "feature: issuing and transportation of cs(carbon steel) plates from owner store to work site, feature: marking to the",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FABRICATION OF TAIL BLINDS:-Issuing and transportation of CS plates from owner store to work site, marking to the 1.50 INCH",
+      "core_product_name": "fabrication of tail blinds",
+      "acronymed_core_product_name": "",
+      "size": "size: 1.50 inch",
+      "feature_or_specifications": "feature: issuing and transportation of cs(carbon steel) plates from owner store to work site, feature: marking to the",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FABRICATION OF TAIL BLINDS:-Issuing and transportation of CS plates from owner store to work site, marking to the 2.0 INCH",
+      "core_product_name": "fabrication of tail blinds",
+      "acronymed_core_product_name": "",
+      "size": "size: 2.0 inch",
+      "feature_or_specifications": "feature: issuing and transportation of cs(carbon steel) plates from owner store to work site, feature: marking to the",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FABRICATION OF TAIL BLINDS:-Issuing and transportation of CS plates from owner store to work site, marking to the 3.0 INCH",
+      "core_product_name": "fabrication of tail blinds",
+      "acronymed_core_product_name": "",
+      "size": "size: 3.0 inch",
+      "feature_or_specifications": "feature: issuing and transportation of cs(carbon steel) plates from owner store to work site, feature: marking to the",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FABRICATION OF TAIL BLINDS:-Issuing and transportation of CS plates from owner store to work site, marking to the 4.0 INCH",
+      "core_product_name": "fabrication of tail blinds",
+      "acronymed_core_product_name": "",
+      "size": "size: 4.0 inch",
+      "feature_or_specifications": "feature: issuing and transportation of cs(carbon steel) plates from owner store to work site, feature: marking to the",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FABRICATION OF TAIL BLINDS:-Issuing and transportation of CS plates from owner store to work site, marking to the 6.0 INCH",
+      "core_product_name": "fabrication of tail blinds",
+      "acronymed_core_product_name": "",
+      "size": "size: 6.0 inch",
+      "feature_or_specifications": "feature: issuing and transportation of cs(carbon steel) plates from owner store to work site, feature: marking to the",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FABRICATION OF TAIL BLINDS:-Issuing and transportation of CS plates from owner store to work site, marking to the 8.0 INCH",
+      "core_product_name": "fabrication of tail blinds",
+      "acronymed_core_product_name": "",
+      "size": "size: 8.0 inch",
+      "feature_or_specifications": "feature: issuing and transportation of cs(carbon steel) plates from owner store to work site, feature: marking to the",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "PAINTING (OFFSITES) :- Supply of paints and primers, preparation of surfaces and",
+      "core_product_name": "painting",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supply of paints and primers, feature: preparation of surfaces and",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "DESIGN TEMP GROUP: -16 TO 80 (DEG C)Surface Preparation & Pre-erection / Shop Primer: SSPC-SP-10; PIPES NB: .5        Inches",
+      "core_product_name": "pipes",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 0.5 inches",
+      "feature_or_specifications": "design temperature group: -16 to 80 deg c, surface preparation: sspc-sp-10, pre-erection/shop primer: sspc-sp-10",
+      "quantity": "590.0",
+      "unit": "metres"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "DESIGN TEMP GROUP: -16 TO 80 (DEG C)Surface Preparation & Pre-erection / Shop Primer: SSPC-SP-10; VALVES NB: .75       Inches",
+      "core_product_name": "valves",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 0.75 inches",
+      "feature_or_specifications": "design temperature group: -16 to 80 deg c, surface preparation: sspc-sp-10, pre-erection/shop primer: sspc-sp-10",
+      "quantity": "1.0",
+      "unit": "nos."
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "DESIGN TEMP GROUP: -16 TO 80 (DEG C)Surface Preparation & Pre-erection / Shop Primer: SSPC-SP-10; VALVES NB: 3         Inches",
+      "core_product_name": "valves",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 3 inches",
+      "feature_or_specifications": "design temperature group: -16 to 80 deg c, surface preparation: sspc-sp-10, pre-erection/shop primer: sspc-sp-10",
+      "quantity": "1.0",
+      "unit": "nos."
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "DESIGN TEMP GROUP: 81 TO 250 (DEG C)Surface Preparation & Pre-erection / Shop Primer: SSPC-SP-10; PIPES NB: .5        Inches",
+      "core_product_name": "pipes",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 0.5 inches",
+      "feature_or_specifications": "design temperature group: 81 to 250 deg c, surface preparation: sspc-sp-10, pre-erection/shop primer: sspc-sp-10",
+      "quantity": "130.0",
+      "unit": "metres"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "PIPES NB 00.50     INCHES; THICKNESS  60 MM",
+      "core_product_name": "pipes",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 0.50 inches, thickness: 60 mm",
+      "feature_or_specifications": "",
+      "quantity": "310.0",
+      "unit": "metres"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "PIPES NB 00.75     INCHES; THICKNESS  65 MM",
+      "core_product_name": "pipes",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 0.75 inches, thickness: 65 mm",
+      "feature_or_specifications": "",
+      "quantity": "15.0",
+      "unit": "metres"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "PIPES NB 01.50     INCHES; THICKNESS  70 MM",
+      "core_product_name": "pipes",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 1.50 inches, thickness: 70 mm",
+      "feature_or_specifications": "",
+      "quantity": "105.0",
+      "unit": "metres"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "PIPES NB 04.00     INCHES; THICKNESS  50 MM",
+      "core_product_name": "pipes",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 4.00 inches, thickness: 50 mm",
+      "feature_or_specifications": "",
+      "quantity": "385.0",
+      "unit": "metres"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FLANGE ASSEMBLIES NB 08.00     INCHES; THICKNESS  55 MM",
+      "core_product_name": "flange assemblies",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 8.00 inches, thickness: 55 mm",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "piping-offsites; piping (above ground) :-transportation of all piping items from owner's storage point to work site/work shop; carbon steel piping (non ibr)",
+      "full_product_description": "FLANGE ASSEMBLIES NB 04.00     INCHES; THICKNESS  50 MM",
+      "core_product_name": "flange assemblies",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 4.00 inches, thickness: 50 mm",
+      "feature_or_specifications": "",
+      "quantity": "23.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Installation, testing and commissioning of miscellaneous surface mounted industrial/FLP control gear such as Weight of the unit up to 5 kg.",
+      "core_product_name": "control gear",
+      "acronymed_core_product_name": "",
+      "size": "weight: up to 5 kg",
+      "feature_or_specifications": "mounting: surface mounted, type: industrial or FLP (flame proof)",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Installation, testing and commissioning of miscellaneous surface mounted industrial/FLP control gear such as Weight of the unit above 5 kg. but upto 20 kg.",
+      "core_product_name": "control gear",
+      "acronymed_core_product_name": "",
+      "size": "weight: above 5 kg but upto 20 kg",
+      "feature_or_specifications": "mounting: surface mounted, type: industrial or FLP (flame proof)",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Installation, testing and commissioning of miscellaneous surface mounted industrial/FLP control gear such as Weight of the unit above 20 kg. but upto 100 kg.",
+      "core_product_name": "control gear",
+      "acronymed_core_product_name": "",
+      "size": "weight: above 20 kg but upto 100 kg",
+      "feature_or_specifications": "mounting: surface mounted, type: industrial or FLP (flame proof)",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "FLP(II A/II B) and WP 4 way JB complete with 4 Nos. FLP cable glands and 2 Nos. blocking plug suitable for cables",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "jb",
+      "size": "type: 4 way",
+      "feature_or_specifications": "type: FLP (flame proof) (II A or II B) and WP (weather proof), complete with: 4 nos. FLP cable glands, 2 nos. blocking plug, suitability: suitable for cables",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply, fabrication and installation of GI canopies for outdoor electrical miscellaneous equipments such as Lighting Panel/Power panel/distribution junctions boxes.",
+      "core_product_name": "canopy",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: GI (galvanized iron), application: outdoor electrical miscellaneous equipments, includes: lighting panel, power panel, distribution junctions boxes",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply, fabrication and installation of GI canopies for outdoor electrical miscellaneous equipments such as Push button stations.",
+      "core_product_name": "canopy",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: GI (galvanized iron), application: outdoor electrical miscellaneous equipments, includes: push button stations",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply, fabrication and installation of GI canopies for outdoor electrical miscellaneous equipments such as FLP receptacles.",
+      "core_product_name": "canopy",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: GI (galvanized iron), application: outdoor electrical miscellaneous equipments, includes: FLP (flame proof) receptacles",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Disconnection, dismantaling of existing industrial / flameproof local control stations, including transporting to Existing LCS.",
+      "core_product_name": "local control station",
+      "acronymed_core_product_name": "lcs",
+      "size": "",
+      "feature_or_specifications": "type: industrial or flameproof, feature: disconnection, dismantling, transporting",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Cables from existing switchboards/panels/misc. electrical equipment.",
+      "core_product_name": "cable",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "source: existing switchboards, panels, miscellaneous electrical equipment",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Disconnection, dismantling of 30M High Mast Lighting (HML) system complete with associated lighting fixtures and",
+      "core_product_name": "high mast lighting system",
+      "acronymed_core_product_name": "hml",
+      "size": "height: 30m",
+      "feature_or_specifications": "feature: disconnection, dismantling, complete with associated lighting fixtures",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "SUPPLY OF MV CABLES",
+      "core_product_name": "mv cable",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of 1100 V grade, Copper Conductor,XLPE insulated and armoured, cables of following sizes as per EIL standard 3 C x 2.5 sq. mm",
+      "core_product_name": "cable",
+      "acronymed_core_product_name": "",
+      "size": "core: 3, cross-sectional area: 2.5 sq. mm",
+      "feature_or_specifications": "voltage: 1100 V grade, conductor: copper, insulation: XLPE, armouring: armoured, standard: EIL standard",
+      "quantity": "500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "LAYING OF CABLES",
+      "core_product_name": "cable laying",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Termination of XLPE insulated armoured power cables (up to 1100 V grade) and connection of leads excluding the Cables with OD upto 20 mm.",
+      "core_product_name": "end termination",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: upto 20 mm",
+      "feature_or_specifications": "insulation: XLPE (cross-linked polyethylene), armour: armoured, voltage grade: up to 1100 V",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Termination of XLPE insulated armoured power cables (up to 1100 V grade) and connection of leads excluding the Cables with OD above 20 mm but upto 30 mm.",
+      "core_product_name": "end termination",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: above 20 mm but upto 30 mm",
+      "feature_or_specifications": "insulation: XLPE (cross-linked polyethylene), armour: armoured, voltage grade: up to 1100 V",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Termination of XLPE insulated armoured power cables (up to 1100 V grade) and connection of leads excluding the Cables with OD above 30 mm but upto 40 mm.",
+      "core_product_name": "end termination",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: above 30 mm but upto 40 mm",
+      "feature_or_specifications": "insulation: XLPE (cross-linked polyethylene), armour: armoured, voltage grade: up to 1100 V",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and laying of following sizes of  G.I. Pipes (medium) in required length fixed on steel, concrete or similar 50 mm NB.",
+      "core_product_name": "pipe supply and laying",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 50 mm",
+      "feature_or_specifications": "material: G.I. (galvanized iron), type: medium, installation: fixed on steel, concrete or similar",
+      "quantity": "50.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and laying of following sizes of  G.I. Pipes (medium) in required length fixed on steel, concrete or similar 100 mm NB.",
+      "core_product_name": "pipe supply and laying",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 100 mm",
+      "feature_or_specifications": "material: G.I. (galvanized iron), type: medium, installation: fixed on steel, concrete or similar",
+      "quantity": "50.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "STRUCTURAL STEEL",
+      "core_product_name": "structural steel",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and installation of push button station supports complete with base plate, foundations bolts, grouting and As per std. 7-51-0306",
+      "core_product_name": "push button station support supply and installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "base plate: included, foundation bolts: included, grouting: included, standard: 7-51-0306",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "CABLE - TRAYS",
+      "core_product_name": "cable tray",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply, fabrication and  installation of 0.91 mm (20 gauge) GI sheet covers for cable trays, including necessary",
+      "core_product_name": "gi sheet cover supply fabrication and installation",
+      "acronymed_core_product_name": "",
+      "size": "thickness: 0.91 mm (20 gauge)",
+      "feature_or_specifications": "material: gi(galvanised iron)",
+      "quantity": "10.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of nickel-plated, flame proof IIA/IIB double compression type brass cable glands, suitable for out door Cables with OD upto 20 mm.",
+      "core_product_name": "brass cable gland supply",
+      "acronymed_core_product_name": "",
+      "size": "cable outer diameter: upto 20 mm",
+      "feature_or_specifications": "material: brass, plating: nickel-plated, flame proof: iia/iib, type: double compression, suitable for: outdoor",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of nickel-plated, flame proof IIA/IIB double compression type brass cable glands, suitable for out door Cables with OD above 20 mm but upto 30 mm.",
+      "core_product_name": "brass cable gland supply",
+      "acronymed_core_product_name": "",
+      "size": "cable outer diameter: above 20 mm but upto 30 mm",
+      "feature_or_specifications": "material: brass, plating: nickel-plated, flame proof: iia/iib, type: double compression, suitable for: outdoor",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of nickel-plated, flame proof IIA/IIB double compression type brass cable glands, suitable for out door Cables with OD above 30 mm but upto 40 mm.",
+      "core_product_name": "brass cable gland supply",
+      "acronymed_core_product_name": "",
+      "size": "cable outer diameter: above 30 mm but upto 40 mm",
+      "feature_or_specifications": "material: brass, plating: nickel-plated, flame proof: iia/iib, type: double compression, suitable for: outdoor",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of nickel-plated, flame proof IIA/IIB double compression type brass cable glands, suitable for out door Cables with OD above 40 mm but upto 50 mm.",
+      "core_product_name": "brass cable gland supply",
+      "acronymed_core_product_name": "",
+      "size": "cable outer diameter: above 40 mm but upto 50 mm",
+      "feature_or_specifications": "material: brass, plating: nickel-plated, flame proof: iia/iib, type: double compression, suitable for: outdoor",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of nickel-plated, flame proof IIA/IIB double compression type brass cable glands, suitable for out door Cables with OD above 50 mm but upto 60 mm.",
+      "core_product_name": "brass cable gland supply",
+      "acronymed_core_product_name": "",
+      "size": "cable outer diameter: above 50 mm but upto 60 mm",
+      "feature_or_specifications": "material: brass, plating: nickel-plated, flame proof: iia/iib, type: double compression, suitable for: outdoor",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and fixing of FLP(IIA/IIB) blocking plugs for blocking unused cable entries with following diameter in outdoor Cables with OD up to 20 mm",
+      "core_product_name": "flp blocking plug supply and fixing",
+      "acronymed_core_product_name": "flp blocking plug",
+      "size": "cable outer diameter: up to 20 mm",
+      "feature_or_specifications": "flame proof: iia/iib, suitable for: outdoor, function: blocking unused cable entries",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and fixing of FLP(IIA/IIB) blocking plugs for blocking unused cable entries with following diameter in outdoor Cables with OD above 20 mm but upto 30 mm",
+      "core_product_name": "flp blocking plug supply and fixing",
+      "acronymed_core_product_name": "flp blocking plug",
+      "size": "cable outer diameter: above 20 mm but upto 30 mm",
+      "feature_or_specifications": "flame proof: iia/iib, suitable for: outdoor, function: blocking unused cable entries",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and fixing of FLP(IIA/IIB) blocking plugs for blocking unused cable entries with following diameter in outdoor Cables with OD above 30 mm but upto 40 mm",
+      "core_product_name": "flp blocking plug supply and fixing",
+      "acronymed_core_product_name": "flp blocking plug",
+      "size": "cable outer diameter: above 30 mm but upto 40 mm",
+      "feature_or_specifications": "flame proof: iia/iib, suitable for: outdoor, function: blocking unused cable entries",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and fixing of FLP(IIA/IIB) blocking plugs for blocking unused cable entries with following diameter in outdoor Cables with OD above 40 mm but upto 50 mm",
+      "core_product_name": "flp blocking plug supply and fixing",
+      "acronymed_core_product_name": "flp blocking plug",
+      "size": "cable outer diameter: above 40 mm but upto 50 mm",
+      "feature_or_specifications": "flame proof: iia/iib, suitable for: outdoor, function: blocking unused cable entries",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and fixing of FLP(IIA/IIB) blocking plugs for blocking unused cable entries with following diameter in outdoor Cables with OD above 50 mm but upto 60 mm",
+      "core_product_name": "flp blocking plug supply and fixing",
+      "acronymed_core_product_name": "flp blocking plug",
+      "size": "cable outer diameter: above 50 mm but upto 60 mm",
+      "feature_or_specifications": "flame proof: iia/iib, suitable for: outdoor, function: blocking unused cable entries",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and installation of earth pit markers for directly buried GI pipe electrodes as per std. 7-51-0101 with 14",
+      "core_product_name": "earth pit marker supply and installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "for: directly buried gi(galvanized iron) pipe electrodes, standard: 7-51-0101, with: 14",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and installation of earth pit markers for directly buried GI pipe electrodes with 14 SWG enamelled steel",
+      "core_product_name": "earth pit marker supply and installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "for: directly buried gi(galvanized iron) pipe electrodes, with: 14 swg enamelled steel",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of crimping type long barrel tinned copper lugs with circular/sector shaped barrel for following conductor sizes, All sizes upto 10 sq. mm",
+      "core_product_name": "crimping type long barrel tinned copper lug supply",
+      "acronymed_core_product_name": "",
+      "size": "conductor size: upto 10 sq. mm",
+      "feature_or_specifications": "type: crimping, barrel type: long, material: tinned copper, barrel shape: circular or sector shaped",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of crimping type long barrel tinned copper lugs with circular/sector shaped barrel for following conductor sizes, All sizes from 16 to 35 sq. mm",
+      "core_product_name": "crimping type long barrel tinned copper lug supply",
+      "acronymed_core_product_name": "",
+      "size": "conductor size: 16 to 35 sq. mm",
+      "feature_or_specifications": "type: crimping, barrel type: long, material: tinned copper, barrel shape: circular or sector shaped",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of crimping type long barrel tinned copper lugs with circular/sector shaped barrel for following conductor sizes, All sizes from 50 to 185 sq. mm",
+      "core_product_name": "crimping type long barrel tinned copper lug supply",
+      "acronymed_core_product_name": "",
+      "size": "conductor size: 50 to 185 sq. mm",
+      "feature_or_specifications": "type: crimping, barrel type: long, material: tinned copper, barrel shape: circular or sector shaped",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of crimping type long barrel tinned copper lugs with circular/sector shaped barrel for following conductor sizes, All sizes from 240 to 400 sq. mm",
+      "core_product_name": "crimping type long barrel tinned copper lug supply",
+      "acronymed_core_product_name": "",
+      "size": "conductor size: 240 to 400 sq. mm",
+      "feature_or_specifications": "type: crimping, barrel type: long, material: tinned copper, barrel shape: circular or sector shaped",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of crimping type long barrel aluminium lugs with circular/sector shaped barrel for following conductor sizes, All sizes upto 10 sq. mm",
+      "core_product_name": "crimping type long barrel aluminium lug supply",
+      "acronymed_core_product_name": "",
+      "size": "conductor size: upto 10 sq. mm",
+      "feature_or_specifications": "type: crimping, barrel type: long, material: aluminium, barrel shape: circular or sector shaped",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of crimping type long barrel aluminium lugs with circular/sector shaped barrel for following conductor sizes, All sizes from 16 to 35 sq. mm",
+      "core_product_name": "crimping type long barrel aluminium lug supply",
+      "acronymed_core_product_name": "",
+      "size": "conductor size: 16 to 35 sq. mm",
+      "feature_or_specifications": "type: crimping, barrel type: long, material: aluminium, barrel shape: circular or sector shaped",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of crimping type long barrel aluminium lugs with circular/sector shaped barrel for following conductor sizes, All sizes from 50 to 185 sq. mm",
+      "core_product_name": "crimping type long barrel aluminium lug supply",
+      "acronymed_core_product_name": "",
+      "size": "conductor size: 50 to 185 sq. mm",
+      "feature_or_specifications": "type: crimping, barrel type: long, material: aluminium, barrel shape: circular or sector shaped",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of crimping type long barrel aluminium lugs with circular/sector shaped barrel for following conductor sizes, All sizes from 240 to 400 sq. mm",
+      "core_product_name": "crimping type long barrel aluminium lug supply",
+      "acronymed_core_product_name": "",
+      "size": "conductor size: 240 to 400 sq. mm",
+      "feature_or_specifications": "type: crimping, barrel type: long, material: aluminium, barrel shape: circular or sector shaped",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of crimping type long barrel Bimetallic lugs with Al barrel & tinned Cu palm with circular/sector shaped barrel All sizes from 16 to 35 sq. mm",
+      "core_product_name": "crimping type long barrel bimetallic lug supply",
+      "acronymed_core_product_name": "",
+      "size": "conductor size: 16 to 35 sq. mm",
+      "feature_or_specifications": "type: crimping, barrel type: long, material: bimetallic, barrel material: aluminium, palm material: tinned copper, barrel shape: circular or sector shaped",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of crimping type long barrel Bimetallic lugs with Al barrel & tinned Cu palm with circular/sector shaped barrel All sizes from 50 to 185 sq. mm",
+      "core_product_name": "crimping type long barrel bimetallic lug supply",
+      "acronymed_core_product_name": "",
+      "size": "conductor size: 50 to 185 sq. mm",
+      "feature_or_specifications": "type: crimping, barrel type: long, material: bimetallic, barrel material: aluminium, palm material: tinned copper, barrel shape: circular or sector shaped",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of crimping type long barrel Bimetallic lugs with Al barrel & tinned Cu palm with circular/sector shaped barrel All sizes from 240 to 400 sq. mm",
+      "core_product_name": "crimping type long barrel bimetallic lug supply",
+      "acronymed_core_product_name": "",
+      "size": "conductor size: 240 to 400 sq. mm",
+      "feature_or_specifications": "type: crimping, barrel type: long, material: bimetallic, barrel material: aluminium, palm material: tinned copper, barrel shape: circular or sector shaped",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "30M high flood light mast for Hazardous Area (Gas Group IIA/IIB, Temperature Class T3), including supply of FLP",
+      "core_product_name": "high flood light mast",
+      "acronymed_core_product_name": "flp (flame proof)",
+      "size": "height: 30m",
+      "feature_or_specifications": "area: hazardous, gas group: iia or iib, temperature class: t3, feature: including supply of flame proof",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "LIGHTING POLES",
+      "core_product_name": "lighting pole",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and  installation of platform Lighting pole as per std. 7-51-0202,  including all welding, structural works, paint and Lighting poles for hazardous areas.",
+      "core_product_name": "platform lighting pole supply and installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "standard: 7-51-0202, feature: including all welding, structural works, paint, area: hazardous",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "HAZARDOUS AREA LIGHTING FIXTURES AND ACCESSORIES",
+      "core_product_name": "hazardous area lighting fixture and accessory",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Installation, connection, testing and commissioning of following types of flame proof/Div.2 lighting fixtures and Well glass type pole mounting type for Platform.",
+      "core_product_name": "flame proof lighting fixture installation, connection, testing and commissioning",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: well glass, mounting: pole, location: platform, division: 2, feature: flame proof",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Installation, connection, testing and commissioning of following types of flame proof/Div.2 lighting fixtures and Well glass type bracket mounted.",
+      "core_product_name": "flame proof lighting fixture installation, connection, testing and commissioning",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: well glass, mounting: bracket, division: 2, feature: flame proof",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Installation, connection, testing and commissioning of following types of flame proof/Div.2 lighting fixtures and Well glass type ceiling mounted.",
+      "core_product_name": "flame proof lighting fixture installation, connection, testing and commissioning",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: well glass, mounting: ceiling, division: 2, feature: flame proof",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply of following FLP/Div.2 lighting fixtures complete with lamps, requisite FLP cable glands, plugs and necessary Type FLP-LED-1 Fixtures.",
+      "core_product_name": "flp lighting fixture supply",
+      "acronymed_core_product_name": "flp (flame proof)",
+      "size": "",
+      "feature_or_specifications": "division: 2, feature: complete with lamps, requisite flame proof cable glands, plugs and necessary, type: flp-led-1",
+      "quantity": "20.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and installation of Type-`A' clamps(for bracket mounted lighting fixtures) including bolt (MOC SS304) for",
+      "core_product_name": "clamp supply and installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: a, mounting: bracket, bolt material: ss304 (stainless steel 304)",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Supply and installation of Type-`B' clamps(for ceiling mounted lighting fixtures) including bolt (MOC SS304) for",
+      "core_product_name": "clamp supply and installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: b, mounting: ceiling, bolt material: ss304 (stainless steel 304)",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "LIGHTING / POWER PANELS AND DISTRIBUTION BOARDS",
+      "full_product_description": "Supply, installation, connection, testing and commissioning of  flame proof weather proof lighting/power panels  (for gas 40 A, 4 pole incomer MCB isolator and ELCB and 12 Nos. outgoing  double pole  MCBs (upto 20 A).",
+      "core_product_name": "lighting/power panel supply and installation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: flame proof, feature: weather proof, incomer: 40 a 4 pole mcb isolator and elcb, outgoing: 12 nos. double pole mcbs (upto 20 a)",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "WIRING",
+      "full_product_description": "Supply, installation, testing and commissioning of GI earth electrodes, complete with earth pit as per std. 7-51-0102. GI earth electrode as per std. 7-51-0102.",
+      "core_product_name": "gi earth electrode supply installation testing and commissioning",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: gi (galvanized iron), feature: complete with earth pit, standard: 7-51-0102",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "WIRING",
+      "full_product_description": "Supply, installation and connection of following GI earthing strip along the cable trenches or cable trays or fixing to walls. 50 x 6 mm",
+      "core_product_name": "gi earthing strip supply installation and connection",
+      "acronymed_core_product_name": "",
+      "size": "strip: 50 x 6 mm",
+      "feature_or_specifications": "material: gi (galvanized iron), installation location: along cable trenches or cable trays or fixing to walls",
+      "quantity": "300.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "WIRING",
+      "full_product_description": "Supply, installation and connection of following GI earthing strip along the cable trenches or cable trays or fixing to walls. 25 x 3 mm",
+      "core_product_name": "gi earthing strip supply installation and connection",
+      "acronymed_core_product_name": "",
+      "size": "strip: 25 x 3 mm",
+      "feature_or_specifications": "material: gi (galvanized iron), installation location: along cable trenches or cable trays or fixing to walls",
+      "quantity": "100.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "WIRING",
+      "full_product_description": "Connecting individual equipment to the earth strip or earth plate with following sizes of G.I. wire / G.I. wire rope 3/8\" dia (10 mm) flexible rope.",
+      "core_product_name": "gi wire or gi wire rope connecting individual equipment to earth strip or earth plate",
+      "acronymed_core_product_name": "gi wire or gi wire rope",
+      "size": "diameter: 3/8 inch (10 mm)",
+      "feature_or_specifications": "type: flexible rope",
+      "quantity": "100.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "WIRING",
+      "full_product_description": "Connecting individual equipment to the earth strip or earth plate with following sizes of G.I. wire / G.I. wire rope 5/8\" dia (16 mm) flexible rope.",
+      "core_product_name": "gi wire or gi wire rope connecting individual equipment to earth strip or earth plate",
+      "acronymed_core_product_name": "gi wire or gi wire rope",
+      "size": "diameter: 5/8 inch (16 mm)",
+      "feature_or_specifications": "type: flexible rope",
+      "quantity": "100.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "WIRING",
+      "full_product_description": "Connecting individual equipment to the earth strip or earth plate with following sizes of G.I. wire / G.I. wire rope 8 SWG GI Wire.",
+      "core_product_name": "gi wire or gi wire rope connecting individual equipment to earth strip or earth plate",
+      "acronymed_core_product_name": "gi wire or gi wire rope",
+      "size": "wire gauge: 8 swg",
+      "feature_or_specifications": "material: gi (galvanized iron), type: wire",
+      "quantity": "20.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "WIRING",
+      "full_product_description": "GI earth plate as per std. 7-51-0103.",
+      "core_product_name": "gi earth plate",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "standard: 7-51-0103",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENTATION > PRESSURE INSTRUMENTS (Excl. supply Impulse pipe or Tubing materials) > Installation of Pressure Transmitters or Pressure Switches (with or without Pulsation Dampener, Over-range Protector)",
+      "full_product_description": "In   Carbon Steel   as per Standard   7-52-1221",
+      "core_product_name": "installation of pressure transmitters or pressure switches",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: carbon steel, standard: 7-52-1221",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENTATION > RADAR LEVEL INSTRUMENTS > Installation of radar sensor and antenna, flanged type connection on equipment nozzle or rail mounting with or without",
+      "full_product_description": "Installation of Top Mounted Radar",
+      "core_product_name": "installation of top mounted radar",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENTATION > RADAR LEVEL INSTRUMENTS > Installation of radar sensor and antenna, flanged type connection on equipment nozzle or rail mounting with or without",
+      "full_product_description": "Installation of Still well (8\") of Carbon/Stainless steel",
+      "core_product_name": "installation of still well",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 8 inch",
+      "feature_or_specifications": "material: carbon steel or stainless steel",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENTATION > DISMANTLING OF EXISTING INSTRUMENTS",
+      "full_product_description": "Disconnection, Dismantling, removal of existing instruments with associated accessories presently installed on the Instruments",
+      "core_product_name": "instruments",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: disconnection, dismantling, removal, feature: with associated accessories",
+      "quantity": "50.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENTATION > TEMPERATURE INSTRUMENTS",
+      "full_product_description": "Installation of Temperature Indicators/ Gauges (Filled system/ Bimetallic) RTD/ Thermocouple/ Temperature Temperature Indicator/ Gauges (Bimetallic Type) with thermowell on flanged wells",
+      "core_product_name": "temperature indicators or gauges",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: filled system or bimetallic, feature: with thermowell on flanged wells",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENTATION > TEMPERATURE INSTRUMENTS",
+      "full_product_description": "Installation of Temperature Indicators/ Gauges (Filled system/ Bimetallic) RTD/ Thermocouple/ Temperature RTD with Thermowell on flanged wells",
+      "core_product_name": "rtd",
+      "acronymed_core_product_name": "rtd",
+      "size": "",
+      "feature_or_specifications": "feature: with thermowell on flanged wells",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "INSTRUMENTATION > TEMPERATURE INSTRUMENTS",
+      "full_product_description": "Installation of Temperature Indicators/ Gauges (Filled system/ Bimetallic) RTD/ Thermocouple/ Temperature Test Thermowell (flanged)",
+      "core_product_name": "test thermowell",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: flanged",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "DETECTOR SYSTEMS",
+      "full_product_description": "Installation of LEL and H2S detectors/monitors, beacon lights and hooters including supply of supports but exclusive LEL Detectors.",
+      "core_product_name": "lel detector",
+      "acronymed_core_product_name": "lel detector",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "6.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "DETECTOR SYSTEMS",
+      "full_product_description": "Installation of LEL and H2S detectors/monitors, beacon lights and hooters including supply of supports but exclusive Beacon Lights",
+      "core_product_name": "beacon light",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "DETECTOR SYSTEMS",
+      "full_product_description": "Installation of LEL and H2S detectors/monitors, beacon lights and hooters including supply of supports but exclusive Hooters",
+      "core_product_name": "hooter",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "miscellaneous items and devices",
+      "full_product_description": "Diaphragm Seal Pressure transmitters",
+      "core_product_name": "pressure transmitter",
+      "acronymed_core_product_name": "",
+      "size": "type: diaphragm seal",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "miscellaneous items and devices",
+      "full_product_description": "Temperature Transmitters",
+      "core_product_name": "temperature transmitter",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "miscellaneous items and devices",
+      "full_product_description": "Tank Level Instruments (Radar type)",
+      "core_product_name": "tank level instrument",
+      "acronymed_core_product_name": "",
+      "size": "type: radar",
+      "feature_or_specifications": "",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "miscellaneous items and devices",
+      "full_product_description": "Electronic Local Indicator",
+      "core_product_name": "local indicator",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: electronic",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "miscellaneous items and devices",
+      "full_product_description": "Gas Detectors",
+      "core_product_name": "gas detector",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "6.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "miscellaneous items and devices",
+      "full_product_description": "Push Button/Selector Switches/Lamps",
+      "core_product_name": "push button or selector switch or lamp",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "miscellaneous items and devices",
+      "full_product_description": "Hooter / Beacon",
+      "core_product_name": "hooter or beacon",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of Instrument items as per specifications enclosed elsewhere in the Tender.",
+      "core_product_name": "instrument item",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "specifications: enclosed elsewhere in the tender",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "3/4 \" GI Conduit",
+      "core_product_name": "gi conduit",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 3/4 inch",
+      "feature_or_specifications": "",
+      "quantity": "20.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "1 \" GI Conduit",
+      "core_product_name": "gi conduit",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 1 inch",
+      "feature_or_specifications": "",
+      "quantity": "20.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   ISO M20 x 1/2\" NPT(F)",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "iso thread: M20, npt female thread: 1/2 inch",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   ISO M16 x 1/2\" NPT(F)",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "iso thread: M16, npt female thread: 1/2 inch",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   ISO M20 x 3/4\" NPT(F)",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "iso thread: M20, npt female thread: 3/4 inch",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   3/4\"NPT(M) x 1/2\" NPT(F)",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "npt male thread: 3/4 inch, npt female thread: 1/2 inch",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   1/2\"NPT(M) x 3/4\" NPT(F)",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "npt male thread: 1/2 inch, npt female thread: 3/4 inch",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   1\"NPT(M) x 1/2\" NPT(F)",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "npt male thread: 1 inch, npt female thread: 1/2 inch",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Weatherproof & Flameproof Adapter for cable gland suitable for Gas Gr.IIC :   1.5\" NPT(M) x 1\" NPT(F)",
+      "core_product_name": "adapter for cable gland",
+      "acronymed_core_product_name": "",
+      "size": "npt male thread: 1.5 inch, npt female thread: 1 inch",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, suitable for: gas group IIC",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Junction Box, Weatherproof  + Flameproof   (Gas Groups - IIC)   type   3 Way",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "type: 3 way",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: IIC",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Junction Box, Weatherproof  + Flameproof   (Gas Groups - IIC)   type   for 12 Pair Cable",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "type: for 12 pair cable",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: IIC",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Junction Box, Weatherproof  + Flameproof   (Gas Groups - IIC)   type   for 8 Triad Cable",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "type: for 8 triad cable",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: IIC",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Junction Box, Weatherproof  + Flameproof   (Gas Groups - IIC)   type   for 6 Pair Cable",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "type: for 6 pair cable",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: IIC",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Junction Box Weatherproof + Flameproof   (Gas Groups - IIC)   for   2 Core X 10/16/35 mm2   Power Cable including",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "for: 2 core x 10/16/35 mm2 power cable",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: IIC",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Junction Box Weatherproof + Flameproof   (Gas Groups - IIC)   for   2 Core X 50/70 mm2   Power Cable including",
+      "core_product_name": "junction box",
+      "acronymed_core_product_name": "",
+      "size": "for: 2 core x 50/70 mm2 power cable",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: IIC",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of Cable glands of  various  types and specifications",
+      "core_product_name": "cable glands",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: various types and specifications",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "type: double compression",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: IIC, material: ss(stainless steel) 304",
+      "quantity": "15.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "type: double compression",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: IIC, material: ss(stainless steel) 304",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "type: double compression",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: IIC, material: ss(stainless steel) 304",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "type: double compression",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: IIC, material: ss(stainless steel) 304",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "type: double compression",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: IIC, material: ss(stainless steel) 304",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Double compression type Cable gland, weatherproof + Flameproof   (Gas Group IIC)   type, SS 304 material with",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "type: double compression",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: IIC, material: ss(stainless steel) 304",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "M20   Double compression type Cable gland, weatherproof + Flameproof  ( Gas Group IIC),Ni plated Brass material",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread size: M20, type: double compression",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: IIC, material: ni(nickel) plated brass",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "M25   Double compression type Cable gland, weatherproof + Flameproof  ( Gas Group IIC),Ni plated Brass material",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread size: M25, type: double compression",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: IIC, material: ni(nickel) plated brass",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "M32   Double compression type Cable gland, weatherproof + Flameproof  ( Gas Group IIC),Ni plated Brass material",
+      "core_product_name": "cable gland",
+      "acronymed_core_product_name": "",
+      "size": "thread size: M32, type: double compression",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, gas group: IIC, material: ni(nickel) plated brass",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of plugs for cable entries of various  types and specifications; Plug,  weatherproof + flameproof   (Gas Group IIC)   type, SS 304 material,   1/2\" NPTM",
+      "core_product_name": "plug",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1/2\" NPTM",
+      "feature_or_specifications": "application: cable entries, feature: various types and specifications, feature: weatherproof, feature: flameproof (Gas Group IIC), material: ss 304 (stainless steel 304), type: weatherproof + flameproof (Gas Group IIC)",
+      "quantity": "30.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of plugs for cable entries of various  types and specifications; Plug,  weatherproof + flameproof   (Gas Group IIC)   type, SS 304 material,   1\" NPTM",
+      "core_product_name": "plug",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1\" NPTM",
+      "feature_or_specifications": "application: cable entries, feature: various types and specifications, feature: weatherproof, feature: flameproof (Gas Group IIC), material: ss 304 (stainless steel 304), type: weatherproof + flameproof (Gas Group IIC)",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of plugs for cable entries of various  types and specifications; Plug,  weatherproof + flameproof   (Gas Group IIC)   type, SS 304 material,   1 1/2\" NPTM",
+      "core_product_name": "plug",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1 1/2\" NPTM",
+      "feature_or_specifications": "application: cable entries, feature: various types and specifications, feature: weatherproof, feature: flameproof (Gas Group IIC), material: ss 304 (stainless steel 304), type: weatherproof + flameproof (Gas Group IIC)",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of plugs for cable entries of various  types and specifications; Plug,  weatherproof + flameproof   (Gas Group IIC)   type, SS 304 material,   3/4\" NPTM",
+      "core_product_name": "plug",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 3/4\" NPTM",
+      "feature_or_specifications": "application: cable entries, feature: various types and specifications, feature: weatherproof, feature: flameproof (Gas Group IIC), material: ss 304 (stainless steel 304), type: weatherproof + flameproof (Gas Group IIC)",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of plugs for cable entries of various  types and specifications; Plug,  weatherproof + flameproof   (Gas Group IIC)   type, SS 304 material,   1 1/4\" NPTM",
+      "core_product_name": "plug",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1 1/4\" NPTM",
+      "feature_or_specifications": "application: cable entries, feature: various types and specifications, feature: weatherproof, feature: flameproof (Gas Group IIC), material: ss 304 (stainless steel 304), type: weatherproof + flameproof (Gas Group IIC)",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Male Connector:   Material:   SS-316   : Size:   1/4\" NPTM X 12 mm OD   153 Bar",
+      "core_product_name": "male connector",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1/4\" NPTM, tube outer diameter: 12 mm OD",
+      "feature_or_specifications": "material: ss 316 (stainless steel 316), pressure: 153 Bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Female Connector:   Material:   SS-316   : Size:   1/2\" NPTF X 1/2\" OD   153 Bar",
+      "core_product_name": "female connector",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1/2\" NPTF, tube outer diameter: 1/2\" OD",
+      "feature_or_specifications": "material: ss 316 (stainless steel 316), pressure: 153 Bar",
+      "quantity": "20.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Tube Union: Material:   SS-316   ; Size:   1/2\" OD x 1/2\" OD 153 Bar",
+      "core_product_name": "tube union",
+      "acronymed_core_product_name": "",
+      "size": "tube outer diameter: 1/2\" OD x 1/2\" OD",
+      "feature_or_specifications": "material: ss 316 (stainless steel 316), pressure: 153 Bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Tube Union: Material:   SS-316   ; Size:   1/4\" OD x 1/4\" OD 153 Bar",
+      "core_product_name": "tube union",
+      "acronymed_core_product_name": "",
+      "size": "tube outer diameter: 1/4\" OD x 1/4\" OD",
+      "feature_or_specifications": "material: ss 316 (stainless steel 316), pressure: 153 Bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Tube Union: Material:   SS-316   ; Size:   12 mm OD x 12 mm OD   153 Bar",
+      "core_product_name": "tube union",
+      "acronymed_core_product_name": "",
+      "size": "tube outer diameter: 12 mm OD x 12 mm OD",
+      "feature_or_specifications": "material: ss 316 (stainless steel 316), pressure: 153 Bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Tube Union: Material:   SS-316   ; Size:   6 mm OD x 6 mm OD   153 Bar",
+      "core_product_name": "tube union",
+      "acronymed_core_product_name": "",
+      "size": "tube outer diameter: 6 mm OD x 6 mm OD",
+      "feature_or_specifications": "material: ss 316 (stainless steel 316), pressure: 153 Bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Tube Union: Material:   SS-316   ; Size:   3/4\" OD x 3/4\" OD 153 Bar",
+      "core_product_name": "tube union",
+      "acronymed_core_product_name": "",
+      "size": "tube outer diameter: 3/4\" OD x 3/4\" OD",
+      "feature_or_specifications": "material: ss 316 (stainless steel 316), pressure: 153 Bar",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Tube Cap; Material:   SS-316   ; Size :   1/2\" OD   153 Bar",
+      "core_product_name": "tube cap",
+      "acronymed_core_product_name": "",
+      "size": "tube outer diameter: 1/2\" OD",
+      "feature_or_specifications": "material: ss 316 (stainless steel 316), pressure: 153 Bar",
+      "quantity": "20.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Tube Cap; Material:   SS-316   ; Size :   1/4\" OD   153 Bar",
+      "core_product_name": "tube cap",
+      "acronymed_core_product_name": "",
+      "size": "tube outer diameter: 1/4\" OD",
+      "feature_or_specifications": "material: ss 316 (stainless steel 316), pressure: 153 Bar",
+      "quantity": "10.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Tube Plug; Material:   SS-316   ; Size :   6mm OD   153 Bar",
+      "core_product_name": "tube plug",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: 6mm OD",
+      "feature_or_specifications": "material: ss 316 (stainless steel 316), pressure: 153 Bar",
+      "quantity": "80.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of Miniaturized Globe Pattern Needle Valve 1/2\" NB forged bar-stock type with inside screwed bonnet,back Body MOC   SS316",
+      "core_product_name": "needle valve",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 1/2\" NB",
+      "feature_or_specifications": "pattern: globe, type: miniaturized, construction: forged bar-stock, bonnet: inside screwed, body material: ss316 (stainless steel 316)",
+      "quantity": "5.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of compression tube fittings  in Brass of various types and specifications Female Connector   : Material: Brass : Size:   1/2\"   NPTF X   1/4\" OD   , 80 bar",
+      "core_product_name": "compression tube fitting",
+      "acronymed_core_product_name": "",
+      "size": "thread size: 1/2\" NPTF, outer diameter: 1/4\" OD",
+      "feature_or_specifications": "material: brass, pressure: 80 bar, type: female connector",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of compression tube fittings  in Brass of various types and specifications Tube Union ; Material: Brass ; Size:   1/4\" OD x 1/4\" OD   , 80 bar",
+      "core_product_name": "compression tube fitting",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: 1/4\" OD x 1/4\" OD",
+      "feature_or_specifications": "material: brass, pressure: 80 bar, type: tube union",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Bare Copper Tube, 1/4\"\" OD, 1.0mm THK, 80 bar",
+      "core_product_name": "copper tube",
+      "acronymed_core_product_name": "",
+      "size": "outer diameter: 1/4\"\", thickness: 1.0mm",
+      "feature_or_specifications": "material: copper, pressure: 80 bar",
+      "quantity": "5.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Installation of weatherproof and flameproof junction boxes including supply, fabrication and installation of supports, For cable size 6P x 0.5/1.0/1.5/2.5 mm²/16 AWG Signal/FF/Alarm/ Control",
+      "core_product_name": "junction box installation",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 6P x 0.5/1.0/1.5/2.5 mm²/16 AWG",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, application: signal/ff/alarm/control",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Installation of weatherproof and flameproof junction boxes including supply, fabrication and installation of supports, For cable size 12P x 0.5/1.0/1.5/2.5 mm²/16 AWG Signal/FF/Alarm/ Control",
+      "core_product_name": "junction box installation",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 12P x 0.5/1.0/1.5/2.5 mm²/16 AWG",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, application: signal/ff/alarm/control",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Installation of weatherproof and flameproof junction boxes including supply, fabrication and installation of supports, For cable size 8T x 1.5/ 2.5 mm²  RTD/ Gas Detector",
+      "core_product_name": "junction box installation",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 8T x 1.5/2.5 mm²",
+      "feature_or_specifications": "feature: weatherproof, feature: flameproof, application: RTD/gas detector",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Installation of Multi Cable transit frames complete with all insert blocks, stay plates, unused blocks with cables piece 8 + 8 x 10",
+      "core_product_name": "multi cable transit frame installation",
+      "acronymed_core_product_name": "",
+      "size": "configuration: 8 + 8 x 10",
+      "feature_or_specifications": "feature: complete with all insert blocks, feature: stay plates, feature: unused blocks with cables piece",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Installation of Multi Cable transit frames complete with all insert blocks, stay plates, unused blocks with cables piece 8 + 8 x 4",
+      "core_product_name": "multi cable transit frame installation",
+      "acronymed_core_product_name": "",
+      "size": "configuration: 8 + 8 x 4",
+      "feature_or_specifications": "feature: complete with all insert blocks, feature: stay plates, feature: unused blocks with cables piece",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "1 Pair / 2 Pair x 16/20 AWG Thermocouple Cable",
+      "core_product_name": "thermocouple cable",
+      "acronymed_core_product_name": "",
+      "size": "pair: 1 or 2, conductor size: 16/20 AWG",
+      "feature_or_specifications": "",
+      "quantity": "200.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "1 Triad/ Quad x 1.5 mm² RTD/ LEL Cable",
+      "core_product_name": "rtd or lel cable",
+      "acronymed_core_product_name": "",
+      "size": "triad or quad: 1, conductor size: 1.5 mm²",
+      "feature_or_specifications": "",
+      "quantity": "400.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "8 Triad/ Quad x 2.5 mm² RTD/ LEL Cable",
+      "core_product_name": "rtd or lel cable",
+      "acronymed_core_product_name": "",
+      "size": "triad or quad: 8, conductor size: 2.5 mm²",
+      "feature_or_specifications": "",
+      "quantity": "1500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Laying of power cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs), For cable size   2C x 6 mm²",
+      "core_product_name": "power cable laying",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 6 mm²",
+      "feature_or_specifications": "laying location: ducts, laying location: main trays, laying location: perforated trays, laying location: angle trays, laying location: trenches, laying location: through IRCs",
+      "quantity": "800.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Laying of power cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs), For cable size   2C x 10 mm²",
+      "core_product_name": "power cable laying",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 10 mm²",
+      "feature_or_specifications": "laying location: ducts, laying location: main trays, laying location: perforated trays, laying location: angle trays, laying location: trenches, laying location: through IRCs",
+      "quantity": "800.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Laying of power cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs), For cable size   2C x 2.5 mm²",
+      "core_product_name": "power cable laying",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 2.5 mm²",
+      "feature_or_specifications": "laying location: ducts, laying location: main trays, laying location: perforated trays, laying location: angle trays, laying location: trenches, laying location: through IRCs",
+      "quantity": "400.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Laying of power cables on ducts, main trays, perforated trays, angle trays, trenches (including through IRCs), For cable size   2C x 4 mm²",
+      "core_product_name": "power cable laying",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 2C x 4 mm²",
+      "feature_or_specifications": "laying location: ducts, laying location: main trays, laying location: perforated trays, laying location: angle trays, laying location: trenches, laying location: through IRCs",
+      "quantity": "800.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "SAND FILLING IN TRENCHES",
+      "core_product_name": "sand filling",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: trenches",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of sand and filling of concrete cable trenches with sand after cable laying is completed including levelling of Trench Size   2000 mm (W) x 1500 mm   (D, total for trench, not depth of sand)",
+      "core_product_name": "sand supply and filling",
+      "acronymed_core_product_name": "",
+      "size": "trench size: 2000 mm (W) x 1500 mm (D, total for trench, not depth of sand)",
+      "feature_or_specifications": "application: concrete cable trenches, feature: after cable laying is completed, feature: including levelling",
+      "quantity": "50.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply, laying and termination of both ends of earthing cables from earth grid pit to the DCS/ Local panels/ Barrier At both ends of earth grid/ Instruments of GI wire (12 AWG) in trays and conduits as required excluding earth-pit",
+      "core_product_name": "earthing cable supply, laying and termination",
+      "acronymed_core_product_name": "",
+      "size": "wire size: 12 AWG",
+      "feature_or_specifications": "material: GI(galvanized iron), application: trays and conduits, feature: at both ends of earth grid/instruments, exclusion: earth-pit",
+      "quantity": "500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply, laying and termination of both ends of earthing cables from earth grid pit to the DCS/ Local panels/ Barrier For earthing cable 25 mm² size with PVC insulation.",
+      "core_product_name": "earthing cable supply, laying and termination",
+      "acronymed_core_product_name": "",
+      "size": "cable size: 25 mm²",
+      "feature_or_specifications": "insulation: PVC(polyvinyl chloride)",
+      "quantity": "30.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Laying of copper tube for steam tracing of Instruments, primary impulse lines with steam traps/valve accessories For sizes 1/4\"/ 6 mm",
+      "core_product_name": "copper tube laying for steam tracing",
+      "acronymed_core_product_name": "",
+      "size": "tube size: 1/4\"/ 6 mm",
+      "feature_or_specifications": "application: steam tracing of instruments, application: primary impulse lines, inclusion: steam traps/valve accessories",
+      "quantity": "100.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Making of 1/2\" screwed connections on 1-1/2\" blind flanges of specified materials/ ratings, by drilling holes and tapping In   Carbon Steel   ,   150#   flange",
+      "core_product_name": "screwed connection making on blind flanges",
+      "acronymed_core_product_name": "",
+      "size": "connection size: 1/2\", flange size: 1-1/2\"",
+      "feature_or_specifications": "feature: drilling holes and tapping, material: carbon steel, rating: 150#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Making of 1/2\" screwed connections on 1-1/2\" blind flanges of specified materials/ ratings, by drilling holes and tapping In   Carbon Steel   ,   300#   flange",
+      "core_product_name": "screwed connection making on blind flanges",
+      "acronymed_core_product_name": "",
+      "size": "connection size: 1/2\", flange size: 1-1/2\"",
+      "feature_or_specifications": "feature: drilling holes and tapping, material: carbon steel, rating: 300#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Making of 1/2\" screwed connections on 2\" blind flanges of specified materials/ ratings, by drilling holes and tapping In   Carbon Steel   ,   150#   flange",
+      "core_product_name": "screwed connection making on blind flanges",
+      "acronymed_core_product_name": "",
+      "size": "connection size: 1/2\", flange size: 2\"",
+      "feature_or_specifications": "feature: drilling holes and tapping, material: carbon steel, rating: 150#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Making of 1/2\" screwed connections on 2\" blind flanges of specified materials/ ratings, by drilling holes and tapping In   Carbon Steel   ,   300#   flange",
+      "core_product_name": "screwed connection making on blind flanges",
+      "acronymed_core_product_name": "",
+      "size": "connection size: 1/2\", flange size: 2\"",
+      "feature_or_specifications": "feature: drilling holes and tapping, material: carbon steel, rating: 300#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Making of 1/2\" screwed connections on 3\" blind flanges of specified materials/ ratings, by drilling holes and tapping In   Carbon Steel   ,   150#   flange",
+      "core_product_name": "screwed connection making on blind flanges",
+      "acronymed_core_product_name": "",
+      "size": "connection size: 1/2\", flange size: 3\"",
+      "feature_or_specifications": "feature: drilling holes and tapping, material: carbon steel, rating: 150#",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "PWHT/ STRESS RELIEF - CARBON STEEL",
+      "core_product_name": "post-weld heat treatment or stress relief",
+      "acronymed_core_product_name": "pwht",
+      "size": "",
+      "feature_or_specifications": "material: carbon steel",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Post-weld Heat Treatment (PWHT)/ Stress Relieving of all weld joints in impulse piping of Pressure Instruments Installation standard 7-52-0439/ 0441/1133/1134",
+      "core_product_name": "post-weld heat treatment or stress relieving",
+      "acronymed_core_product_name": "pwht",
+      "size": "",
+      "feature_or_specifications": "application: all weld joints in impulse piping of pressure instruments, installation standard: 7-52-0439 or 0441 or 1133 or 1134",
+      "quantity": "2.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Radiography conforming to the requirements of the Piping Class for all weld joints in impulse piping of Pressure Installation standard 7-52-0439/ 0441/1133/1134",
+      "core_product_name": "radiography",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "requirement: piping class, application: all weld joints in impulse piping of pressure, installation standard: 7-52-0439 or 0441 or 1133 or 1134",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Tray of 50x 50 x 6mm angle",
+      "core_product_name": "tray",
+      "acronymed_core_product_name": "",
+      "size": "angle: 50x 50 x 6mm",
+      "feature_or_specifications": "",
+      "quantity": "500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply and erection of prefabricated Anodised Aluminium perforated trays and its supports including tees, bends and Tray of 60mm (W) X 20mm (H) with cover",
+      "core_product_name": "anodised aluminium perforated trays and supports",
+      "acronymed_core_product_name": "",
+      "size": "tray width: 60mm, tray height: 20mm",
+      "feature_or_specifications": "material: anodised aluminium, type: perforated, process: supply and erection, feature: prefabricated, feature: with cover, includes: tees, bends",
+      "quantity": "1500.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply and erection of prefabricated Anodised Aluminium perforated trays and its supports including tees, bends and Tray of 150mm (W) X 30mm (H) with cover",
+      "core_product_name": "anodised aluminium perforated trays and supports",
+      "acronymed_core_product_name": "",
+      "size": "tray width: 150mm, tray height: 30mm",
+      "feature_or_specifications": "material: anodised aluminium, type: perforated, process: supply and erection, feature: prefabricated, feature: with cover, includes: tees, bends",
+      "quantity": "300.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply and erection of prefabricated Anodised Aluminium perforated trays and its supports including tees, bends and Tray of 300mm (W) X 30mm (H) with cover",
+      "core_product_name": "anodised aluminium perforated trays and supports",
+      "acronymed_core_product_name": "",
+      "size": "tray width: 300mm, tray height: 30mm",
+      "feature_or_specifications": "material: anodised aluminium, type: perforated, process: supply and erection, feature: prefabricated, feature: with cover, includes: tees, bends",
+      "quantity": "200.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "CANOPY FOR INSTRUMENTS AND JUNCTION BOXES",
+      "core_product_name": "canopy for instruments and junction boxes",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of Prefabricated FRP canopies along with mounting accessories for local instruments, Transmitters, Junction FRP Canopy (All sides closed) - Field Instruments",
+      "core_product_name": "frp canopies",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: frp(fibre reinforced plastic), feature: prefabricated, includes: mounting accessories, application: local instruments, transmitters, junction, feature: all sides closed, application: field instruments",
+      "quantity": "40.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "GENERAL SITE WORK",
+      "core_product_name": "general site work",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of Yoke supports for transmitters/ preamplifiers (wherever applicable) including supply, fabrication and 2\" Yoke supports as per standard 7-52-0101",
+      "core_product_name": "yoke supports for transmitters or preamplifiers",
+      "acronymed_core_product_name": "",
+      "size": "size: 2 inch",
+      "feature_or_specifications": "process: supply, fabrication, application: transmitters or preamplifiers, feature: wherever applicable, standard: 7-52-0101",
+      "quantity": "50.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Identification of instrument items wherever required including supply of approved colour of paint/ paints Identification of instrument items",
+      "core_product_name": "identification of instrument items",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supply of approved colour of paint or paints, feature: wherever required",
+      "quantity": "100.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "CHIEF CONTROLLER OF EXPLOSIVE( CCE) CERTIFICATES FOR FIELD ELECTRICAL/ ELECTRONIC Obtaining  certificate of approval from Chief Controller Of Explosives( CCE) for field electrical/electronic  instruments",
+      "core_product_name": "certificate of approval for field electrical or electronic instruments",
+      "acronymed_core_product_name": "cce certificate",
+      "size": "",
+      "feature_or_specifications": "certification: chief controller of explosives (CCE), application: field electrical or electronic instruments",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "EQUIPMENT - STATIC",
+      "core_product_name": "equipment - static",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "IBR CLEARANCE AT SITE BEFORE AND/OR AFTER FABRICATION / ERECTION OF ANY STATIC Getting IBR Clearance at Grade at Site before and / or after fabrication, assembly, erection of any static equipment and",
+      "core_product_name": "ibr clearance at site",
+      "acronymed_core_product_name": "ibr clearance",
+      "size": "",
+      "feature_or_specifications": "process: before and/or after fabrication or erection, application: static equipment, process: assembly",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "SOR description same as item No. 01VV.MJ2.1",
+      "core_product_name": "sor description",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "reference: same as item no. 01vv.mj2.1",
+      "quantity": "7.5",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Surface preparation to SSPC-SP-10, application of primer and paint on underside of bottom plate (soil side) and on",
+      "core_product_name": "surface preparation and painting",
+      "acronymed_core_product_name": "",
+      "size": "area: 2078.0 sqm",
+      "feature_or_specifications": "standard: sspc-sp-10, application: primer and paint, location: underside of bottom plate (soil side)",
+      "quantity": "2078.0",
+      "unit": "sqm"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply, fabrication, installation, welding, radiography, PAUT, UT, DPT , heat treatment, inspection and testing as required",
+      "core_product_name": "appurtenances",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "processes: supply, fabrication, installation, welding, radiography, paut(phase array ultrasonic testing), ut(ultrasonic testing), dpt(dye penetrant testing), heat treatment, inspection and testing as required",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply, fabrication, erection, inspection and testing of steel structure for cone roof/ dome roof tank including curb angle,",
+      "core_product_name": "steel structure for cone roof or dome roof tank",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "processes: supply, fabrication, erection, inspection and testing, inclusion: curb angle",
+      "quantity": "15.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Design, Supply, fabrication, erection, inspection and testing of steel structure for cone roof/ dome roof supporting",
+      "core_product_name": "steel structure for cone roof or dome roof supporting",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "processes: design, supply, fabrication, erection, inspection and testing",
+      "quantity": "35.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "SUPPLY & INSTALLATION OF JET MIXER ASSEMBLY",
+      "core_product_name": "jet mixer assembly",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "processes: supply and installation",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Dismantling of Existing tanks:",
+      "core_product_name": "dismantling of existing tanks",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "30.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "STORAGE TANKS",
+      "core_product_name": "storage tanks",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "STRUCTURAL/PIPES",
+      "core_product_name": "structural or pipes",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "STILL WELLS/ DIP PIPES :",
+      "core_product_name": "still wells or dip pipes",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "SA 106 Gr. B",
+      "core_product_name": "sa 106 gr. b",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "1.9",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "APPURTENANCES",
+      "core_product_name": "appurtenances",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Roof   Nozzle   150   Class   WNRF   Type   1.5 Inch  Size SA 105   Material",
+      "core_product_name": "roof nozzle",
+      "acronymed_core_product_name": "",
+      "size": "size: 1.5 inch",
+      "feature_or_specifications": "class: 150, type: wnrf, material: sa 105",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Roof   Nozzle   300   Class   WNRF   Type   3 Inch  Size SA 105   Material",
+      "core_product_name": "roof nozzle",
+      "acronymed_core_product_name": "",
+      "size": "size: 3 inch",
+      "feature_or_specifications": "class: 300, type: wnrf, material: sa 105",
+      "quantity": "6.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Shell   Nozzle   300   Class   WNRF   Type   2 Inch  Size SA 105   Material",
+      "core_product_name": "shell nozzle",
+      "acronymed_core_product_name": "",
+      "size": "size: 2 inch",
+      "feature_or_specifications": "class: 300, type: wnrf, material: sa 105",
+      "quantity": "6.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Shell   Nozzle   300   Class   WNRF   Type   10 Inch  Size SA 105   Material",
+      "core_product_name": "shell nozzle",
+      "acronymed_core_product_name": "",
+      "size": "size: 10 inch",
+      "feature_or_specifications": "class: 300, type: wnrf, material: sa 105",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Roof   Nozzle   300   Class   WNRF   Type   24 Inch  Size SA 105   Material",
+      "core_product_name": "roof nozzle",
+      "acronymed_core_product_name": "",
+      "size": "size: 24 inch",
+      "feature_or_specifications": "class: 300, type: wnrf, material: sa 105",
+      "quantity": "9.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Shell   Nozzle   300   Class   WNRF   Type   24 Inch  Size SA 105   Material",
+      "core_product_name": "shell nozzle",
+      "acronymed_core_product_name": "",
+      "size": "size: 24 inch",
+      "feature_or_specifications": "class: 300, type: wnrf, material: sa 105",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Roof   Nozzle   150   Class   WNRF   Type   16 Inch  Size SA 105   Material",
+      "core_product_name": "roof nozzle",
+      "acronymed_core_product_name": "",
+      "size": "size: 16 inch",
+      "feature_or_specifications": "class: 150, type: wnrf, material: sa 105",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "CALIBRATION",
+      "core_product_name": "calibration",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Diameter (Meters) :   > 10 to 25   Height (Meters) :   > 10",
+      "core_product_name": "diameter height",
+      "acronymed_core_product_name": "",
+      "size": "diameter: > 10 to 25 meters, height: > 10 meters",
+      "feature_or_specifications": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "APPLICATION OF HOT INSULATION\nInsulation Type :   IH   Insulation Material :   Rockwool Thickness :   60 mm",
+      "core_product_name": "application of hot insulation",
+      "acronymed_core_product_name": "",
+      "size": "thickness: 60 mm",
+      "feature_or_specifications": "insulation type: IH, insulation material: rockwool",
+      "quantity": "4800.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "HEATING COIL\nHEATING COIL (STEAM TRACING etc.) / COOLING COIL\nCoil pipe material:   SA 106 Gr. B   Coil pipe Size (NB)   50",
+      "core_product_name": "heating coil",
+      "acronymed_core_product_name": "",
+      "size": "coil pipe size (NB): 50",
+      "feature_or_specifications": "coil pipe material: SA 106 Gr. B",
+      "quantity": "51.0",
+      "unit": "MT"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "DESIGN, SUPPLY & INSTALLATION OF EMERGENCY VENT\n16 Inch  of MOC   CS",
+      "core_product_name": "emergency vent",
+      "acronymed_core_product_name": "",
+      "size": "size: 16 inch",
+      "feature_or_specifications": "material of construction: cs(carbon steel)",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "DESIGN, SUPPLY & INSTALLATION OF EMERGENCY VENT\n20 Inch  of MOC   CS",
+      "core_product_name": "emergency vent",
+      "acronymed_core_product_name": "",
+      "size": "size: 20 inch",
+      "feature_or_specifications": "material of construction: cs(carbon steel)",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "DESIGN, SUPPLY & INSTALLATION OF EMERGENCY VENT\n24 Inch  of MOC   CS",
+      "core_product_name": "emergency vent",
+      "acronymed_core_product_name": "",
+      "size": "size: 24 inch",
+      "feature_or_specifications": "material of construction: cs(carbon steel)",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "PAINTING OF TANKS: PAINTING FOR CARBON STEEL AND LOW ALLOY STEEL TANKS: External  Surfaces (except underside of bottom plate): Surface  preparation to SSPC-SP-10,  application  of  primer Design Temperature Range:   126 °C  To   450 °C  Primer: 1 coat of F-16 @ 125μ DFT/coat   Finish Paint:   1 coat F-16",
+      "core_product_name": "painting of tanks",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "surface: external (except underside of bottom plate), surface preparation: SSPC-SP-10, design temperature range: 126 °C to 450 °C, primer: 1 coat of F-16 @ 125μ DFT/coat, finish paint: 1 coat F-16",
+      "quantity": "5000.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Earth work in EXCAVATION below ground level for all kinds of works in ALL TYPES OF SOILS EXCEPT SOFT ROCK",
+      "core_product_name": "earth work in excavation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "location: below ground level, soil type: all types of soils except soft rock",
+      "quantity": "50.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing and installing approved type of \"SHORING AND STRUTTING\" by open timbering method for all depths to",
+      "core_product_name": "shoring and strutting",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "method: open timbering, depth: all depths, approval: approved type",
+      "quantity": "100.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing and installing approved type of \"SHORING AND STRUTTING\" by close timbering method for all depths to",
+      "core_product_name": "shoring and strutting",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "method: close timbering, depth: all depths, approval: approved type",
+      "quantity": "100.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "BACKFILLING after execution of the WORK to proper grade and level with selected materials from available excavated",
+      "core_product_name": "backfilling",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: selected materials from available excavated, grade: proper grade and level",
+      "quantity": "2100.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "BACKFILLING after execution of the WORK to proper grade and level with selected materials from available excavated",
+      "core_product_name": "backfilling",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: selected materials from available excavated, grade: proper grade and level",
+      "quantity": "700.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "BACKFILLING after execution of the WORK to proper grade and level with selected materials from available excavated",
+      "core_product_name": "backfilling",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: selected materials from available excavated, grade: proper grade and level",
+      "quantity": "700.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Transporting and disposing the SURPLUS EARTH AND DEBRIS including shrubs and vegetations from construction",
+      "core_product_name": "transporting and disposing surplus earth and debris",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "includes: shrubs and vegetations from construction",
+      "quantity": "3300.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Transporting and disposing the SURPLUS EARTH AND DEBRIS including shrubs and vegetations from construction",
+      "core_product_name": "transporting and disposing surplus earth and debris",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "includes: shrubs and vegetations from construction",
+      "quantity": "1100.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Transporting and disposing the SURPLUS EARTH AND DEBRIS including shrubs and vegetations from construction",
+      "core_product_name": "transporting and disposing surplus earth and debris",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "includes: shrubs and vegetations from construction",
+      "quantity": "50.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Earth work in EXCAVATION BY MANUAL MEANS below ground level for all kinds of works in   ALL TYPES OF",
+      "core_product_name": "earth work in excavation by manual means",
+      "acronymed_core_product_name": "",
+      "size": "location: below ground level",
+      "feature_or_specifications": "method: manual means, application: all kinds of works, soil type: all types",
+      "quantity": "50.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Earth work in EXCAVATION BY MANUAL MEANS below ground level for all kinds of works in ALL TYPES OF SOILS",
+      "core_product_name": "earth work in excavation by manual means",
+      "acronymed_core_product_name": "",
+      "size": "location: below ground level",
+      "feature_or_specifications": "method: manual means, application: all kinds of works, soil type: all types of soils",
+      "quantity": "50.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Earth work in EXCAVATION BY MANUAL MEANS below ground level for all kinds of works in ALL TYPES OF SOILS",
+      "core_product_name": "earth work in excavation by manual means",
+      "acronymed_core_product_name": "",
+      "size": "location: below ground level",
+      "feature_or_specifications": "method: manual means, application: all kinds of works, soil type: all types of soils",
+      "quantity": "50.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Excavation of TRIAL PITS by Manual Means for determining the underground facilities in all type of soils for a depth",
+      "core_product_name": "excavation of trial pits",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "method: manual means, purpose: determining the underground facilities, soil type: all type of soils, depth: (not specified)",
+      "quantity": "50.0",
+      "unit": "cum"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Excavation of TRIAL PITS by Manual Means for determining the underground facilities in all type of soils for a depth",
+      "core_product_name": "excavation of trial pits",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "method: manual means, purpose: determining the underground facilities, soil type: all type of soils, depth: (not specified)",
+      "quantity": "50.0",
+      "unit": "cum"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "PLAIN & REINFORCED CEMENT CONCRETE: (REFER SPECIFICATION NO. 6-68-0004)",
+      "core_product_name": "plain and reinforced cement concrete",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "specification: 6-68-0004",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "PCC - Non FIM Items",
+      "core_product_name": "plain cement concrete",
+      "acronymed_core_product_name": "pcc",
+      "size": "",
+      "feature_or_specifications": "category: non fim items",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing and laying PLAIN CEMENT CONCRETE for all depths below and upto plinth level in foundations, drains,",
+      "core_product_name": "plain cement concrete",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: all depths below and upto plinth level, location: foundations, drains",
+      "quantity": "170.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing and laying PLAIN CEMENT CONCRETE for all depths below and upto plinth level in foundations, drains,",
+      "core_product_name": "plain cement concrete",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: all depths below and upto plinth level, location: foundations, drains",
+      "quantity": "5.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "RCC Substrutures - Non FIM Items",
+      "core_product_name": "reinforced cement concrete substructures",
+      "acronymed_core_product_name": "rcc substructures",
+      "size": "",
+      "feature_or_specifications": "category: non fim items",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing and laying REINFORCED CEMENT CONCRETE OF M-30 GRADE with 20 mm and down size graded",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "rcc",
+      "size": "grade: m-30, aggregate size: 20 mm and down",
+      "feature_or_specifications": "",
+      "quantity": "2300.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing and laying REINFORCED CEMENT CONCRETE OF M-30 GRADE with 20 mm and down size graded",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "rcc",
+      "size": "grade: m-30, aggregate size: 20 mm and down",
+      "feature_or_specifications": "",
+      "quantity": "10.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing and laying REINFORCED CEMENT CONCRETE OF M-25 GRADE with 20 mm and down size graded",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "",
+      "size": "aggregate size: 20 mm and down",
+      "feature_or_specifications": "grade: m-25",
+      "quantity": "650.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing and laying REINFORCED CEMENT CONCRETE OF M-30 GRADE with 20 mm and down size graded",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "",
+      "size": "aggregate size: 20 mm and down",
+      "feature_or_specifications": "grade: m-30",
+      "quantity": "5.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "RCC Flooring - Non FIM Items",
+      "core_product_name": "reinforced cement concrete flooring",
+      "acronymed_core_product_name": "rcc flooring",
+      "size": "",
+      "feature_or_specifications": "category: non fim items",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing and laying REINFORCED CEMENT CONCRETE OF M-30 GRADE with 20mm and down size graded crushed",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "",
+      "size": "aggregate size: 20mm and down",
+      "feature_or_specifications": "grade: m-30, aggregate type: crushed",
+      "quantity": "5.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Precast Elements - Non FIM Items",
+      "core_product_name": "precast elements",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "category: non fim items",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and placing in position HIGH YEILD-STRENGTH DEFORMED STEEL BARS REINFORCEMENT of Grade",
+      "core_product_name": "high yield-strength deformed steel bars reinforcement",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "300.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing and laying Reinforced Cement Concrete of grade M-30 with 20mm and down size graded stone aggregates",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "grade: m-30, aggregate size: 20mm and down size graded stone aggregates",
+      "quantity": "1.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing 20mm wide EXPANSION JOINTS in flooring and pavement slabs and ISOLATION JOINTS around equipment",
+      "core_product_name": "expansion joints and isolation joints",
+      "acronymed_core_product_name": "",
+      "size": "width: 20mm",
+      "feature_or_specifications": "location: flooring and pavement slabs, around equipment",
+      "quantity": "1.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and fixing in position 25mm thick BITUMEN IMPREGNATED FIBRE BOARD conforming to IS:1838 of",
+      "core_product_name": "bitumen impregnated fibre board",
+      "acronymed_core_product_name": "",
+      "size": "thickness: 25mm",
+      "feature_or_specifications": "standard: indian standard 1838",
+      "quantity": "5.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and fixing in position 50 mm (2X25 mm) thick BITUMEN IMPREGNATED FIBRE BOARD conforming to",
+      "core_product_name": "bitumen impregnated fibre board",
+      "acronymed_core_product_name": "",
+      "size": "thickness: 50 mm (2X25 mm)",
+      "feature_or_specifications": "",
+      "quantity": "1.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and sealing EXPANSION JOINTS 25 mm wide and 12mm deep at all locations and levels in Concrete",
+      "core_product_name": "expansion joints",
+      "acronymed_core_product_name": "",
+      "size": "width: 25 mm, depth: 12mm",
+      "feature_or_specifications": "location: all locations and levels in concrete",
+      "quantity": "15.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and sealing EXPANSION JOINTS 50 mm wide and 12mm deep at all locations and levels in Concrete",
+      "core_product_name": "expansion joints",
+      "acronymed_core_product_name": "",
+      "size": "width: 50 mm, depth: 12mm",
+      "feature_or_specifications": "location: all locations and levels in concrete",
+      "quantity": "1.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Mechanical Rebar Couplers - Non-FIM items",
+      "core_product_name": "mechanical rebar couplers",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: non-fim items",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "\"Supplying and fixing MECHANICAL REBAR COUPLER of approved make for jointing high strength deformed steel",
+      "core_product_name": "mechanical rebar coupler",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: approved make, application: jointing high strength deformed steel",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "\"Supplying and fixing MECHANICAL REBAR COUPLER of approved make for jointing high strength deformed steel",
+      "core_product_name": "mechanical rebar coupler",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: approved make, application: jointing high strength deformed steel",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Fixing Re-bars in already cast concrete - Non FIM Items",
+      "core_product_name": "fixing re-bars",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: already cast concrete, type: non fim items",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Designing, supplying and fixing rebars in already cast concrete, including drilling, cleaning hole with air blow-out &",
+      "core_product_name": "rebars",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: already cast concrete, process: drilling, cleaning hole with air blow-out",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Designing, supplying and fixing rebars in already cast concrete, including drilling, cleaning hole with air blow-out &",
+      "core_product_name": "rebars",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: already cast concrete, process: drilling, cleaning hole with air blow-out",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing and laying Leak Proof Reinforced Cement Concrete of GRADE M-30 (minimum Cement content shall",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "rcc",
+      "size": "",
+      "feature_or_specifications": "feature: leak proof, grade: m-30, minimum cement content: (not fully specified in input)",
+      "quantity": "15.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing and laying Leak Proof Reinforced Cement Concrete of GRADE M-30 (minimum Cement content shall",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "rcc",
+      "size": "",
+      "feature_or_specifications": "feature: leak proof, grade: m-30, minimum cement content: (not fully specified in input)",
+      "quantity": "2.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and mixing of approved brand of integral WATER PROOFING COMPOUND in cement concrete, cement",
+      "core_product_name": "water proofing compound",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: integral, application: cement concrete, cement, brand: approved brand",
+      "quantity": "40.0",
+      "unit": "kg"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and laying separating layer of approved polythylene sheet of mass 1 kg/sqm (minimum) in between",
+      "core_product_name": "polythylene sheet separating layer",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: polythylene, mass: 1 kg/sqm (minimum), approval: approved",
+      "quantity": "10.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, Fabricating at CONTRACTOR's shop outside the plant boundary, transporting fabricated items to site,",
+      "core_product_name": "fabricated items",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "fabrication location: contractor's shop outside the plant boundary, feature: transporting fabricated items to site",
+      "quantity": "2.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, Fabricating at CONTRACTOR's shop outside the plant boundary, transporting fabricated items to site,",
+      "core_product_name": "fabricated items",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "fabrication location: contractor's shop outside the plant boundary, feature: transporting fabricated items to site",
+      "quantity": "3.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and applying COATING (Post-erection/ Field) of approved quality and shade as per Sl. No. 9.2 of Table 9.0",
+      "core_product_name": "coating",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: post-erection/field, approval: approved quality and shade, reference: as per sl. no. 9.2 of table 9.0",
+      "quantity": "3.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and applying COATING (Post-erection/ Field) of approved quality and shade as per Sl. No. 8.1 of Table 8.0",
+      "core_product_name": "coating",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "application: post-erection/field, approval: approved quality and shade, reference: as per sl. no. 8.1 of table 8.0",
+      "quantity": "50.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and applying COATING (Post-erection/ Field) of approved quality and shade as per Sl. no. 8.1 of Table 8.0 of",
+      "core_product_name": "coating",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: post-erection/field, approval: approved quality and shade, reference: as per sl. no. 8.1 of table 8.0",
+      "quantity": "2.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, transporting, storing, fabricating & erecting in position and testing/ examining bolted and/ or welded",
+      "core_product_name": "bolted and/or welded structure",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, transporting, storing, fabricating, erecting in position, testing/examining",
+      "quantity": "70.0",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, transporting, storing, fabricating, erecting in position & testing/examining at all locations and levels,",
+      "core_product_name": "structure",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, transporting, storing, fabricating, erecting in position, testing/examining at all locations and levels",
+      "quantity": "0.5",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, fabricating, fixing and keeping in position at all levels and locations THREADED ANCHOR BOLTS of all",
+      "core_product_name": "threaded anchor bolts",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, fabricating, fixing, keeping in position at all levels and locations",
+      "quantity": "6.5",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, transporting, storing, fabricating and fixing in position M.S. METAL INSERT (with lugs) of any shape",
+      "core_product_name": "metal insert",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: m.s.(mild steel), feature: with lugs, feature: supplying, transporting, storing, fabricating, fixing in position, shape: any shape",
+      "quantity": "0.5",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, fabricating and fixing in position G.I. PIPE SLEEVES of all diameters including providing necessary",
+      "core_product_name": "pipe sleeves",
+      "acronymed_core_product_name": "",
+      "size": "diameter: all diameters",
+      "feature_or_specifications": "material: g.i.(galvanized iron), feature: supplying, fabricating, fixing in position, feature: including providing necessary",
+      "quantity": "0.2",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, fabricating and erecting in position at all levels and locations bolted, screwed and/or welded M.S.",
+      "core_product_name": "m.s.",
+      "acronymed_core_product_name": "m.s.",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, fabricating, erecting in position at all levels and locations, feature: bolted, screwed and/or welded, material: m.s.(mild steel)",
+      "quantity": "0.5",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, fabricating and erecting in position at all levels and locations ELECTROFORGED GALVANISED",
+      "core_product_name": "electroforged galvanised",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, fabricating, erecting in position at all levels and locations, feature: electroforged, feature: galvanised",
+      "quantity": "0.2",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Making openings in galvanized grating for pipes / ducts etc., at all levels and at at all locations by cutting the existing",
+      "core_product_name": "openings in galvanized grating",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: for pipes or ducts etc., feature: at all levels and at all locations, feature: by cutting the existing",
+      "quantity": "2.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, fabricating and fixing in position at all locations 1000mm high INCLINED HAND RAILING (for staircases)",
+      "core_product_name": "hand railing",
+      "acronymed_core_product_name": "",
+      "size": "height: 1000mm",
+      "feature_or_specifications": "feature: inclined, application: for staircases, feature: supplying, fabricating, fixing in position, location: at all locations",
+      "quantity": "10.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, fabricating and fixing in position (to already erected vertical posts for Hand Railing) at all locations",
+      "core_product_name": "hand railing",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, fabricating, fixing in position, installation: to already erected vertical posts for hand railing, location: at all locations",
+      "quantity": "5.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, fabricating and fixing in position at all locations 1000mm high HORIZONTAL HAND RAILING (for platforms,",
+      "core_product_name": "hand railing",
+      "acronymed_core_product_name": "",
+      "size": "height: 1000mm",
+      "feature_or_specifications": "feature: horizontal, application: for platforms, feature: supplying, fabricating, fixing in position, location: at all locations",
+      "quantity": "650.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, fabricating and fixing in position at all locations 500mm HIGH INCLINED HAND RAILING (for stair cases)",
+      "core_product_name": "hand railing",
+      "acronymed_core_product_name": "",
+      "size": "height: 500mm",
+      "feature_or_specifications": "feature: inclined, application: for stair cases, feature: supplying, fabricating, fixing in position, location: at all locations",
+      "quantity": "5.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, fabricating and fixing in position at all locations 500mm high HORIZONTAL HAND RAILING (for platforms,",
+      "core_product_name": "hand railing",
+      "acronymed_core_product_name": "",
+      "size": "height: 500mm",
+      "feature_or_specifications": "feature: horizontal, application: for platforms, feature: supplying, fabricating, fixing in position, location: at all locations",
+      "quantity": "5.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "\"Supplying, handling, transporting to site of work and fixing approved CHEMICAL ANCHOR FASTENERS consisting of",
+      "core_product_name": "chemical anchor fasteners",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, handling, transporting to site of work, fixing, approval: approved, feature: consisting of",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "\"Supplying, handling, transporting to site of work and fixing approved CHEMICAL ANCHOR FASTENERS consisting of",
+      "core_product_name": "chemical anchor fasteners",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, handling, transporting to site of work, fixing, approval: approved, feature: consisting of",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "\"Supplying, handling, transporting to site of work and fixing approved CHEMICAL ANCHOR FASTENERS consisting of",
+      "core_product_name": "chemical anchor fasteners",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: supplying, handling, transporting to site of work, fixing, approval: approved, feature: consisting of",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "HALF BRICK MASONARY  with bricks of CLASS 5.0-Non FIM Items. Providing and laying HALF BRICK MASONRY with bricks of CLASS 5.0 in cement mortar 1:4 (1 Cement : 4 Sand)in any",
+      "core_product_name": "half brick masonry",
+      "acronymed_core_product_name": "",
+      "size": "class: 5.0",
+      "feature_or_specifications": "material: bricks, mortar ratio: 1:4 (1 cement : 4 sand)",
+      "quantity": "5.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "DEMOLISHING AND DISMANTLING (REFER SPEC NO. 6- 68-0012). Brickwork - Non FIM Items. Demolishing BRICKWORK (taking all necessary safety precautions) for all depths below plinth level including supply",
+      "core_product_name": "demolishing brickwork",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: taking all necessary safety precautions, depth: below plinth level",
+      "quantity": "30.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "DEMOLISHING AND DISMANTLING (REFER SPEC NO. 6- 68-0012). Brickwork - Non FIM Items. Demolishing BRICKWORK (taking all necessary safety precautions) for all heights above plinth level including",
+      "core_product_name": "demolishing brickwork",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: taking all necessary safety precautions, height: above plinth level",
+      "quantity": "30.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Making cut-outs in RCC slab/ wall upto a thickness of 400mm (taking all necessary safety precautions) by",
+      "core_product_name": "making cut-outs in reinforced cement concrete slab or wall",
+      "acronymed_core_product_name": "rcc",
+      "size": "thickness: upto 400mm",
+      "feature_or_specifications": "feature: taking all necessary safety precautions",
+      "quantity": "0.5",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Cutting/ Dismantling RCC work in pavement, slabs, beams, columns, etc upto a depth of 450 mm by using vibration-less",
+      "core_product_name": "cutting or dismantling reinforced cement concrete work",
+      "acronymed_core_product_name": "rcc",
+      "size": "depth: upto 450 mm",
+      "feature_or_specifications": "feature: vibration-less",
+      "quantity": "0.5",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Cutting/ Dismantling of RCC block foundations, raft foundations, pile caps, mass concrete, equipment",
+      "core_product_name": "cutting or dismantling reinforced cement concrete block foundations or raft foundations or pile caps or mass concrete or equipment",
+      "acronymed_core_product_name": "rcc",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "0.5",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Demolishing RCC WORK (taking all necessary safety precautions) for all depths below plinth level including supply",
+      "core_product_name": "demolishing reinforced cement concrete work",
+      "acronymed_core_product_name": "rcc",
+      "size": "depth: all depths below plinth level",
+      "feature_or_specifications": "feature: taking all necessary safety precautions",
+      "quantity": "450.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Demolishing RCC WORK (taking all necessary safety precautions) for all heights above plinth level including",
+      "core_product_name": "demolishing reinforced cement concrete work",
+      "acronymed_core_product_name": "rcc",
+      "size": "height: all heights above plinth level",
+      "feature_or_specifications": "feature: taking all necessary safety precautions",
+      "quantity": "50.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Demolishing PLAIN CEMENT CONCRETE work (taking all necessary safety precautions) for all depths below plinth",
+      "core_product_name": "demolishing plain cement concrete work",
+      "acronymed_core_product_name": "pcc",
+      "size": "depth: all depths below plinth",
+      "feature_or_specifications": "feature: taking all necessary safety precautions",
+      "quantity": "100.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Demolishing PLAIN CEMENT CONCRETE work (taking all necessary safety precautions) for all heights above plinth",
+      "core_product_name": "demolishing plain cement concrete work",
+      "acronymed_core_product_name": "pcc",
+      "size": "height: all heights above plinth",
+      "feature_or_specifications": "feature: taking all necessary safety precautions",
+      "quantity": "1.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Dismantling GI/asbestos/translucent sheets, ridges, gutters etc. (taking all necessary safety precautions) in roofings and",
+      "core_product_name": "dismantling sheets",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: gi(galvanized iron), material: asbestos, material: translucent, feature: ridges, feature: gutters, feature: taking all necessary safety precautions, application: roofings",
+      "quantity": "1.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and filling approved SAND of specified quality under floors, in foundations, plinths, tank foundations etc. for",
+      "core_product_name": "sand filling",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: sand, quality: approved, application: under floors, application: in foundations, application: plinths, application: tank foundations",
+      "quantity": "4200.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and mixing of approved brand of BI-POLAR CONCRETE PENETRATING CORROSION INHIBITING",
+      "core_product_name": "concrete penetrating corrosion inhibiting admixture",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: bi-polar, feature: corrosion inhibiting, feature: penetrating, material: admixture, brand: approved",
+      "quantity": "7850.0",
+      "unit": "kg"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Epoxy Resin - non FIM Items Providing and applying approved EPOXY RESIN (prepared as per manufacturer's recommendation) for bonding of fresh",
+      "core_product_name": "epoxy resin",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: non FIM, preparation: as per manufacturer's recommendation, application: bonding of fresh",
+      "quantity": "10.0",
+      "unit": "kg"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Dismantling Of steel works Dismantling structural steel already erected by others including provision of adequate temporary supports,",
+      "core_product_name": "structural steel dismantling",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: already erected by others, feature: provision of adequate temporary supports",
+      "quantity": "0.5",
+      "unit": "mt"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Scanning the concrete surface with standard non- destructive embedded metal detecting instrument and",
+      "core_product_name": "embedded metal detecting instrument scanning",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: standard, feature: non-destructive",
+      "quantity": "20.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Preparation of complete health assessment report based on conducted visual inspection and non-destructive/ partial",
+      "core_product_name": "health assessment report preparation",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: based on conducted visual inspection and non-destructive or partial",
+      "quantity": "2.0",
+      "unit": "set"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of HSE personnel SAFETY STEWARD over and above the requirement as specified in EIL Standard",
+      "core_product_name": "hse personnel safety steward supply",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: over and above the requirement as specified in EIL Standard",
+      "quantity": "20.0",
+      "unit": "man month"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of HSE personnel SAFETY SUPERVISOR over and above the requirement as specified in EIL Standard",
+      "core_product_name": "hse personnel safety supervisor supply",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: over and above the requirement as specified in EIL Standard",
+      "quantity": "10.0",
+      "unit": "man month"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supply of HSE personnel SAFETY OFFICER over and above the requirement as specified in EIL Standard",
+      "core_product_name": "hse personnel safety officer supply",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: over and above the requirement as specified in EIL Standard",
+      "quantity": "10.0",
+      "unit": "man month"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Clearing and stripping of the areas earmarked for removing shrubs, grass, bushes, vegetables growth and other",
+      "core_product_name": "clearing and stripping",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: removing shrubs, grass, bushes, vegetables growth and other",
+      "quantity": "0.63",
+      "unit": "ha"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and laying of stone aggregate of 63mm down to 45mm size for WBM layer Base Course, tough, sound,",
+      "core_product_name": "stone aggregate supplying and laying",
+      "acronymed_core_product_name": "",
+      "size": "aggregate size: 63mm down to 45mm",
+      "feature_or_specifications": "feature: for WBM layer Base Course, tough, sound",
+      "quantity": "5940.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Earthwork in filling with borrow earth for all heights and depths for road embankments, shoulders or any other place",
+      "core_product_name": "earthwork in filling with borrow earth",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "feature: for all heights and depths for road embankments, shoulders or any other place",
+      "quantity": "500.0",
+      "unit": "cum"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and laying of stone aggregate of 53mm and down size for GRANULAR SUB-BASE COURSE (conforming to",
+      "core_product_name": "stone aggregate supplying and laying",
+      "acronymed_core_product_name": "",
+      "size": "aggregate size: 53mm and down",
+      "feature_or_specifications": "feature: for GRANULAR SUB-BASE COURSE (conforming to",
+      "quantity": "150.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and laying in position RCC pipes with collars conforming to IS:458 for pipe culverts, cable crossings etc. PIPE CLASS   NP3   Internal Pipe dia.   500 mm",
+      "core_product_name": "rcc pipe supplying and laying",
+      "acronymed_core_product_name": "rcc pipe",
+      "size": "internal pipe diameter: 500 mm",
+      "feature_or_specifications": "pipe class: NP3, feature: with collars, standard: indian standard 458, application: pipe culverts, cable crossings etc.",
+      "quantity": "10.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and fixing in the encasement concrete, cable crossing indicator, made out of 6mm thick MS circular of dia.",
+      "core_product_name": "cable crossing indicator supplying and fixing",
+      "acronymed_core_product_name": "",
+      "size": "thickness: 6 mm, shape: circular",
+      "feature_or_specifications": "material: ms(mild steel), application: encasement concrete",
+      "quantity": "1.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and Providing removable type PVC Cap at the open end of pipe all complete etc. as per drawings, Outer dia. of pipe   160 mm",
+      "core_product_name": "pvc cap supplying and providing",
+      "acronymed_core_product_name": "pvc cap",
+      "size": "outer diameter of pipe: 160 mm",
+      "feature_or_specifications": "type: removable, application: open end of pipe, feature: all complete etc. as per drawings",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and fixing in position medium/ heavy duty CI manhole frame with lugs and cover conforming to IS-1726 circular size 500 mm dia. Medium duty of grade MD-10",
+      "core_product_name": "ci manhole frame supplying and fixing",
+      "acronymed_core_product_name": "ci manhole frame",
+      "size": "circular size: 500 mm diameter",
+      "feature_or_specifications": "duty: medium/heavy, material: ci(cast iron), feature: with lugs and cover, standard: indian standard 1726, grade: md-10, type: medium duty",
+      "quantity": "5.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying, fabricating and fixing in position in RCC or brick masonry walls MS rungs made out of 20mm dia.",
+      "core_product_name": "ms rung supplying, fabricating and fixing",
+      "acronymed_core_product_name": "ms rung",
+      "size": "diameter: 20 mm",
+      "feature_or_specifications": "material: ms(mild steel), application: rcc or brick masonry walls",
+      "quantity": "55.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing 20mm wide expansion joints in lining for reservoir, channel, etc. including cleaning the joint of all loose for lining depth of 100mm",
+      "core_product_name": "expansion joints",
+      "acronymed_core_product_name": "",
+      "size": "width: 20mm, lining depth: 100mm",
+      "feature_or_specifications": "application: reservoir, channel, etc., feature: cleaning the joint of all loose",
+      "quantity": "570.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Supplying and laying film lining with cement concrete lining of M-20 grade with 20mm and down size graded stone For lining thickness of 100 mm on horizontal surface (All material including cement supplied by the contractor)",
+      "core_product_name": "film lining with cement concrete lining",
+      "acronymed_core_product_name": "",
+      "size": "lining thickness: 100 mm",
+      "feature_or_specifications": "grade: M-20, stone size: 20mm and down, surface: horizontal, material supply: all material including cement supplied by the contractor",
+      "quantity": "4580.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Fit-up and welding CS piping",
+      "core_product_name": "cs piping welding",
+      "acronymed_core_product_name": "cs piping",
+      "size": "",
+      "feature_or_specifications": "feature: fit-up and welding",
+      "quantity": "480.0",
+      "unit": "Inch Dia"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "NDT Testing DYE PENETRATION / MAGNETIC PARTICLE TEST Performing of magnetic particle test or dye penetration test DP TEST LENGTH(BW&SW)",
+      "core_product_name": "ndt testing",
+      "acronymed_core_product_name": "ndt testing",
+      "size": "",
+      "feature_or_specifications": "test type: dye penetration, test type: magnetic particle, feature: performing of magnetic particle test or dye penetration test, test length type: bw&sw",
+      "quantity": "150.0",
+      "unit": "Inch"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "NDT Testing DYE PENETRATION / MAGNETIC PARTICLE TEST Performing of magnetic particle test or dye penetration test MAGNETIC PARTICLE TEST",
+      "core_product_name": "ndt testing",
+      "acronymed_core_product_name": "ndt testing",
+      "size": "",
+      "feature_or_specifications": "test type: magnetic particle, feature: performing of magnetic particle test or dye penetration test",
+      "quantity": "150.0",
+      "unit": "Inch"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Removal of existing U/G piping Removal of existing U/G piping including excavation in all types of soils except soft rock and hard rock, including For CS Piping dismantling, Thickness <=10 mm , For following Nominal Sizes NB upto 1.5 inch",
+      "core_product_name": "underground piping removal",
+      "acronymed_core_product_name": "u/g piping removal",
+      "size": "nominal bore: upto 1.5 inch, thickness: <=10 mm",
+      "feature_or_specifications": "material: cs(carbon steel), feature: including excavation in all types of soils except soft rock and hard rock",
+      "quantity": "60.0",
+      "unit": "inch mtr"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Removal of existing U/G piping Removal of existing U/G piping including excavation in all types of soils except soft rock and hard rock, including For CS Piping dismantling, Thickness <=10 mm , For following Nominal Sizes NB 2 inch - 6 inch",
+      "core_product_name": "underground piping removal",
+      "acronymed_core_product_name": "u/g piping removal",
+      "size": "nominal bore: 2 inch - 6 inch, thickness: <=10 mm",
+      "feature_or_specifications": "material: cs(carbon steel), feature: including excavation in all types of soils except soft rock and hard rock",
+      "quantity": "460.0",
+      "unit": "inch mtr"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Removal of existing U/G piping Removal of existing U/G piping including excavation in all types of soils except soft rock and hard rock, including For CS Piping dismantling, Thickness <=10 mm , For following Nominal Sizes NB 8 inch - 14 inch",
+      "core_product_name": "underground piping removal",
+      "acronymed_core_product_name": "u/g piping removal",
+      "size": "nominal bore: 8 inch - 14 inch, thickness: <=10 mm",
+      "feature_or_specifications": "material: cs(carbon steel), feature: including excavation in all types of soils except soft rock and hard rock",
+      "quantity": "650.0",
+      "unit": "inch mtr"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Removal of existing U/G piping Removal of existing U/G piping including excavation in all types of soils except soft rock and hard rock, including For CS Piping dismantling, Thickness <=10 mm , For following Nominal Sizes NB 16 inch - 24 inch",
+      "core_product_name": "underground piping removal",
+      "acronymed_core_product_name": "u/g piping removal",
+      "size": "nominal bore: 16 inch - 24 inch, thickness: <=10 mm",
+      "feature_or_specifications": "material: cs(carbon steel), feature: including excavation in all types of soils except soft rock and hard rock",
+      "quantity": "110.0",
+      "unit": "inch mtr"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Laying and joining of externally 3L PE pre-coated Carbon Steel pipes and specials underground including Carbon Steel  Piping (Non IBR), Thickness <=10 mm Fabrication, For the following nominal sizes NB 2 inch - 6 inch",
+      "core_product_name": "carbon steel piping",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 2 inch - 6 inch, thickness: <=10 mm",
+      "feature_or_specifications": "coating: externally 3l pe pre-coated, type: non ibr, feature: laying and joining, feature: fabrication, installation: underground",
+      "quantity": "820.0",
+      "unit": "inch dia"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Laying and joining of externally 3L PE pre-coated Carbon Steel pipes and specials underground including Carbon Steel  Piping (Non IBR), Thickness <=10 mm Fabrication, For the following nominal sizes NB 8 inch - 14 inch",
+      "core_product_name": "carbon steel piping",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 8 inch - 14 inch, thickness: <=10 mm",
+      "feature_or_specifications": "coating: externally 3l pe pre-coated, type: non ibr, feature: laying and joining, feature: fabrication, installation: underground",
+      "quantity": "580.0",
+      "unit": "inch dia"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Erection including corrosion protection coating of field joints, for Waste Water Collection System (Gravity Flow), for NB 2 inch - 6 inch",
+      "core_product_name": "erection of field joints for waste water collection system",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 2 inch - 6 inch",
+      "feature_or_specifications": "feature: corrosion protection coating, system: gravity flow",
+      "quantity": "1560.0",
+      "unit": "inch mtr"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Erection including corrosion protection coating of field joints, for Waste Water Collection System (Gravity Flow), for NB 8 inch - 14 inch",
+      "core_product_name": "erection of field joints for waste water collection system",
+      "acronymed_core_product_name": "",
+      "size": "nominal bore: 8 inch - 14 inch",
+      "feature_or_specifications": "feature: corrosion protection coating, system: gravity flow",
+      "quantity": "3200.0",
+      "unit": "inch mtr"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Coating of pipe and fittings with Liquid epoxy coating (EP) as per DIN EN 10289, Class C, Type 3 at site including",
+      "core_product_name": "coating of pipe and fittings",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "coating: liquid epoxy coating (ep), standard: din en 10289, class: c, type: 3, location: at site",
+      "quantity": "25.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items > architecture > roofing",
+      "full_product_description": "Barricading of corrugated GI sheet of 0.8mm thickness",
+      "core_product_name": "barricading of corrugated gi sheet",
+      "acronymed_core_product_name": "gi sheet",
+      "size": "thickness: 0.8mm",
+      "feature_or_specifications": "",
+      "quantity": "2300.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items > geotech > ground improvement > sand gravel mix",
+      "full_product_description": "Supplying and filling sand gravel mix (1:1) with approved aggregate below road, RCC pavement, manholes, pits,",
+      "core_product_name": "supplying and filling sand gravel mix",
+      "acronymed_core_product_name": "",
+      "size": "mix ratio: 1:1",
+      "feature_or_specifications": "aggregate: approved, location: below road, rcc pavement, manholes, pits",
+      "quantity": "600.0",
+      "unit": "cum"
+    },
+    {
+      "section_context_for_this_product_block": "supply items > geotech > ground improvement > stone columns",
+      "full_product_description": "Installation of 900mm diameter stone columns of required length as per design by VIBROFLOAT method in triangular",
+      "core_product_name": "installation of stone columns",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 900mm",
+      "feature_or_specifications": "installation method: vibrofloat, layout: triangular, as per design",
+      "quantity": "9700.0",
+      "unit": "rm"
+    },
+    {
+      "section_context_for_this_product_block": "supply items > geotech > ground improvement > stone columns > sand blankets",
+      "full_product_description": "Supply and filling of approved sand as per specifications in sand blankets over stone columns including cost of sand,",
+      "core_product_name": "supply and filling of sand in sand blankets",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "material: approved sand, application: over stone columns, includes: cost of sand, as per specifications",
+      "quantity": "950.0",
+      "unit": "cum"
+    },
+    {
+      "section_context_for_this_product_block": "supply items > geotech > ground improvement > stone columns > footing load test (group of three stone columns)",
+      "full_product_description": "INITIAL TEST at trial site on THREE STONE COLUMN GROUP. Conducting footing load test on a GROUP OF THREE STONE COLUMNS as per specs.",
+      "core_product_name": "footing load test on group of three stone columns",
+      "acronymed_core_product_name": "",
+      "size": "group size: three stone columns",
+      "feature_or_specifications": "test type: initial test, location: trial site, as per specifications",
+      "quantity": "1.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items > geotech > ground improvement > stone columns > footing load test (group of three stone columns)",
+      "full_product_description": "ROUTINE TEST on job columns on THREE COLUMN GROUP. Conducting footing load test on a GROUP OF THREE STONE COLUMNS as per specs.",
+      "core_product_name": "footing load test on group of three stone columns",
+      "acronymed_core_product_name": "",
+      "size": "group size: three stone columns",
+      "feature_or_specifications": "test type: routine test, location: job columns, as per specifications",
+      "quantity": "3.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": "supply items > projects > pre-commissioning or commissioning assistance",
+      "full_product_description": "SKILLED MANPOWER LIKE Fitter/Welder/ Gas cutter/ Grinder/ Fabricator (WITH HAND TOOLS)",
+      "core_product_name": "skilled manpower",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: fitter, welder, gas cutter, grinder, fabricator, with hand tools",
+      "quantity": "900.0",
+      "unit": "mandays"
+    },
+    {
+      "section_context_for_this_product_block": "supply items > projects > pre-commissioning or commissioning assistance",
+      "full_product_description": "SEMI SKILLED LIKE RIGGER (WITH HAND TOOLS)",
+      "core_product_name": "semi skilled manpower",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: rigger, with hand tools",
+      "quantity": "90.0",
+      "unit": "mandays"
+    },
+    {
+      "section_context_for_this_product_block": "supply items > projects > pre-commissioning or commissioning assistance",
+      "full_product_description": "HELPER/ UNSKILLED LIKE Helper/ Khalasi",
+      "core_product_name": "helper or unskilled manpower",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: helper, khalasi",
+      "quantity": "360.0",
+      "unit": "mandays"
+    },
+    {
+      "section_context_for_this_product_block": "supply items > projects > pre-commissioning or commissioning assistance",
+      "full_product_description": "Supervisor (Trained Personal)",
+      "core_product_name": "supervisor",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "type: trained personal",
+      "quantity": "90.0",
+      "unit": "mandays"
+    },
+    {
+      "section_context_for_this_product_block": "supply items > projects > pre-commissioning or commissioning assistance",
+      "full_product_description": "Safety Officer",
+      "core_product_name": "safety officer",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "",
+      "quantity": "90.0",
+      "unit": "mandays"
+    }
+  ]
+}

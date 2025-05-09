@@ -1,0 +1,62 @@
+{
+  "query": "core_product_name: insulated rescue hook",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: hook",
+        "raw_product_name": "HOOKS",
+        "list_of_product_ids": [
+          "282",
+          "382",
+          "824",
+          "328",
+          "236"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: helicopter rescue kit",
+        "raw_product_name": "HELICOPTER RESCUE KIT",
+        "list_of_product_ids": [
+          "188",
+          "522",
+          "806",
+          "337",
+          "431"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: insulator",
+        "raw_product_name": "INSULATORS",
+        "list_of_product_ids": [
+          "13735",
+          "16095",
+          "16113",
+          "16245",
+          "16250",
+          "16327",
+          "16424",
+          "16423",
+          "16418",
+          "16417",
+          "16438",
+          "16460",
+          "16529",
+          "23142",
+          "16504"
+        ]
+      }
+    }
+  ]
+}

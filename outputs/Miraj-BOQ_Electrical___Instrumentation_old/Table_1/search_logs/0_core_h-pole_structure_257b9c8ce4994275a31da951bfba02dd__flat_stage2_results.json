@@ -1,0 +1,471 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8470139,
+      "text": "core_product_name: outdoor isolator | operating_conditions: Outdoor | type_or_class: High Voltage (H.V.) | size_or_capacity: Up to 33 kV",
+      "core_id": 9.0,
+      "raw_product_name": "ISOLATOR OUTDOOR H.V. UP TO 33 KV.",
+      "list_of_product_ids": [
+        "6457",
+        "5627",
+        "12370",
+        "26076",
+        "26075"
+      ]
+    },
+    {
+      "retrieval_score": 0.84569234,
+      "text": "core_product_name: check valve | construction_features: pre-insulation",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK PRE-INSULATION",
+      "list_of_product_ids": [
+        "1",
+        "544",
+        "118",
+        "796"
+      ]
+    },
+    {
+      "retrieval_score": 0.8443922,
+      "text": "core_product_name: outdoor insulator and bushing | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 8.0,
+      "raw_product_name": "33kV outdoor Insulator & Bushing",
+      "list_of_product_ids": [
+        "14156",
+        "16118",
+        "17436",
+        "18328",
+        "21499"
+      ]
+    },
+    {
+      "retrieval_score": 0.8412806,
+      "text": "core_product_name: primary structure | construction_features: bolted",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(BOLTED)",
+      "list_of_product_ids": [
+        "20000",
+        "19997",
+        "20035",
+        "21038",
+        "21002",
+        "21083",
+        "21901",
+        "22017",
+        "22116",
+        "22826",
+        "22992"
+      ]
+    },
+    {
+      "retrieval_score": 0.84038407,
+      "text": "core_product_name: outdoor insulator and bushing | size_or_capacity: 132 kV or 220 kV | operating_conditions: outdoor",
+      "core_id": 8.0,
+      "raw_product_name": "132kV/ 220 kV outdoor Insulator & Bushing",
+      "list_of_product_ids": [
+        "14148",
+        "14691",
+        "16117",
+        "17435",
+        "18327",
+        "21497"
+      ]
+    },
+    {
+      "retrieval_score": 0.8375083,
+      "text": "core_product_name: gang operated isolator",
+      "core_id": 1015.0,
+      "raw_product_name": "GANG OPERATED ISOLATORS",
+      "list_of_product_ids": [
+        "1",
+        "370",
+        "014",
+        "636"
+      ]
+    },
+    {
+      "retrieval_score": 0.83642334,
+      "text": "core_product_name: indicating pilot | type_or_class: HI-LO (High-Low) | construction_features: dial type",
+      "core_id": 1125.0,
+      "raw_product_name": "HI-LO PILOTS (INDICATING DIAL TYPE)",
+      "list_of_product_ids": [
+        "13816",
+        "38324",
+        "35544",
+        "36103"
+      ]
+    },
+    {
+      "retrieval_score": 0.83528817,
+      "text": "core_product_name: electric block",
+      "core_id": 682.0,
+      "raw_product_name": "ELECTRIC BLOCK",
+      "list_of_product_ids": [
+        "196",
+        "271",
+        "962",
+        "627",
+        "101"
+      ]
+    },
+    {
+      "retrieval_score": 0.8347685,
+      "text": "core_product_name: primary structure | construction_features: welded",
+      "core_id": 223.0,
+      "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+      "list_of_product_ids": [
+        "19999",
+        "20036",
+        "22016",
+        "21003",
+        "21084",
+        "21900",
+        "22115",
+        "21039",
+        "19993",
+        "22825",
+        "22991"
+      ]
+    },
+    {
+      "retrieval_score": 0.83415145,
+      "text": "core_product_name: earthing material",
+      "core_id": 672.0,
+      "raw_product_name": "EARTHING MATERIALS",
+      "list_of_product_ids": [
+        "378",
+        "733",
+        "788",
+        "037",
+        "898"
+      ]
+    },
+    {
+      "retrieval_score": 0.83341193,
+      "text": "core_product_name: gate valve | construction_features: Forged",
+      "core_id": 1041.0,
+      "raw_product_name": "VALVE GATE FORGED",
+      "list_of_product_ids": [
+        "6215",
+        "5384",
+        "10997",
+        "11616",
+        "11636",
+        "11221",
+        "11239",
+        "11252",
+        "11276",
+        "11397",
+        "11437",
+        "9259",
+        "8278",
+        "8376",
+        "8550",
+        "8641",
+        "8617",
+        "9409",
+        "9434",
+        "9450",
+        "9249",
+        "9168",
+        "9245",
+        "9339",
+        "11977",
+        "12023",
+        "12041",
+        "12032",
+        "12096",
+        "12491",
+        "12570",
+        "12654",
+        "13254",
+        "19380",
+        "19388",
+        "17620",
+        "17816",
+        "17909",
+        "18302",
+        "18032",
+        "19708",
+        "19859",
+        "31810",
+        "31714",
+        "32699",
+        "35523"
+      ]
+    },
+    {
+      "retrieval_score": 0.8330632,
+      "text": "core_product_name: outdoor lightning arrestor | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 12.0,
+      "raw_product_name": "33kV outdoor Lightning Arrestor",
+      "list_of_product_ids": [
+        "1",
+        "415",
+        "921",
+        "498"
+      ]
+    },
+    {
+      "retrieval_score": 0.83303255,
+      "text": "core_product_name: insulating joint",
+      "core_id": 1269.0,
+      "raw_product_name": "INSULATING JOINTS",
+      "list_of_product_ids": [
+        "6206",
+        "5375",
+        "12910",
+        "31006",
+        "31054",
+        "31064"
+      ]
+    },
+    {
+      "retrieval_score": 0.83241063,
+      "text": "core_product_name: electrical contact",
+      "core_id": 705.0,
+      "raw_product_name": "ELECTRICAL CONTACTS",
+      "list_of_product_ids": [
+        "211",
+        "562",
+        "115",
+        "228",
+        "503"
+      ]
+    },
+    {
+      "retrieval_score": 0.83226025,
+      "text": "core_product_name: hull panel fabrication",
+      "core_id": 1181.0,
+      "raw_product_name": "HULL PANEL FABRICATION",
+      "list_of_product_ids": [
+        "19972",
+        "19971",
+        "24909",
+        "26012"
+      ]
+    },
+    {
+      "retrieval_score": 0.8322525,
+      "text": "core_product_name: electrical strip",
+      "core_id": 714.0,
+      "raw_product_name": "ELECTRICAL STRIPS",
+      "list_of_product_ids": [
+        "211",
+        "512",
+        "115",
+        "528",
+        "461"
+      ]
+    },
+    {
+      "retrieval_score": 0.83221805,
+      "text": "core_product_name: signal isolator",
+      "core_id": 2026.0,
+      "raw_product_name": "SIGNAL ISOLATORS",
+      "list_of_product_ids": [
+        "197",
+        "521",
+        "975",
+        "327",
+        "080"
+      ]
+    },
+    {
+      "retrieval_score": 0.8321458,
+      "text": "core_product_name: insulation material",
+      "core_id": 1274.0,
+      "raw_product_name": "INSULATION MATERIAL",
+      "list_of_product_ids": [
+        "10251",
+        "10256",
+        "10261",
+        "10266",
+        "10273",
+        "10278",
+        "10281",
+        "7088",
+        "7415",
+        "10172",
+        "10221",
+        "10226",
+        "10230",
+        "10234",
+        "10240",
+        "10245",
+        "11862",
+        "13008",
+        "38431",
+        "33383"
+      ]
+    },
+    {
+      "retrieval_score": 0.8317454,
+      "text": "core_product_name: equipment insulation",
+      "core_id": 761.0,
+      "raw_product_name": "EQUIPMENT INSULATION WORKS",
+      "list_of_product_ids": [
+        "358",
+        "293",
+        "583",
+        "235",
+        "880"
+      ]
+    },
+    {
+      "retrieval_score": 0.83171606,
+      "text": "core_product_name: electrical-instrumentation work",
+      "core_id": 711.0,
+      "raw_product_name": "ELECTRICAL-INSTRUMENTATION WORKS",
+      "list_of_product_ids": [
+        "36860",
+        "36857",
+        "36888",
+        "36892"
+      ]
+    },
+    {
+      "retrieval_score": 0.83134437,
+      "text": "core_product_name: neutral grounding resistor | type_or_class: High Voltage (H.V.)",
+      "core_id": 1545.0,
+      "raw_product_name": "NEUTRAL GROUNDING RESISTORS-H.V.",
+      "list_of_product_ids": [
+        "6428",
+        "5598",
+        "10534",
+        "10546",
+        "10545",
+        "16915"
+      ]
+    },
+    {
+      "retrieval_score": 0.8313374,
+      "text": "core_product_name: surge isolator",
+      "core_id": 2157.0,
+      "raw_product_name": "SURGE ISOLATORS",
+      "list_of_product_ids": [
+        "83",
+        "981",
+        "393",
+        "722",
+        "383"
+      ]
+    },
+    {
+      "retrieval_score": 0.8312089,
+      "text": "core_product_name: insulation",
+      "core_id": 404.0,
+      "raw_product_name": "INSULATION WORK",
+      "list_of_product_ids": [
+        "7089",
+        "7416",
+        "11863",
+        "19372",
+        "39269",
+        "39319",
+        "39323",
+        "39417"
+      ]
+    },
+    {
+      "retrieval_score": 0.8311704,
+      "text": "core_product_name: gas insulated switchboard | type_or_class: HV (High Voltage)",
+      "core_id": 2172.0,
+      "raw_product_name": "SWITCHBOARD-HV-GAS INSULATED",
+      "list_of_product_ids": [
+        "6390",
+        "5561",
+        "7951",
+        "24453",
+        "24452"
+      ]
+    },
+    {
+      "retrieval_score": 0.8311697,
+      "text": "core_product_name: indoor isolator | type_or_class: Medium Voltage (M.V.) | operating_conditions: Indoor | size_or_capacity: Up to 3.3 kV - 11 kV",
+      "core_id": 1299.0,
+      "raw_product_name": "ISOLATOR INDOOR M.V. UP TO 3.3 KV. - 11KV.",
+      "list_of_product_ids": [
+        "175",
+        "761",
+        "866",
+        "917",
+        "542"
+      ]
+    },
+    {
+      "retrieval_score": 0.83112496,
+      "text": "core_product_name: insulation",
+      "core_id": 404.0,
+      "raw_product_name": "COMPARTMENTS INSULATION",
+      "list_of_product_ids": [
+        "23464",
+        "23467",
+        "23465",
+        "28660"
+      ]
+    },
+    {
+      "retrieval_score": 0.8309651,
+      "text": "core_product_name: insulating brick",
+      "core_id": 1267.0,
+      "raw_product_name": "INSULATING BRICKS",
+      "list_of_product_ids": [
+        "6137",
+        "5304",
+        "8830",
+        "8851",
+        "8855",
+        "8862",
+        "8863",
+        "8864",
+        "9618",
+        "9623",
+        "9625",
+        "9659",
+        "9800",
+        "13152",
+        "24285"
+      ]
+    },
+    {
+      "retrieval_score": 0.83082515,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    },
+    {
+      "retrieval_score": 0.83023316,
+      "text": "core_product_name: outdoor disconnecting switch | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 10.0,
+      "raw_product_name": "33kV outdoor Isolator/ Disconnecting Switch",
+      "list_of_product_ids": [
+        "7308",
+        "7331",
+        "7936",
+        "7940",
+        "7938"
+      ]
+    },
+    {
+      "retrieval_score": 0.8302127,
+      "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+      "core_id": 1262.0,
+      "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+      "list_of_product_ids": [
+        "19885",
+        "19880",
+        "24078",
+        "23930",
+        "27348"
+      ]
+    }
+  ]
+}

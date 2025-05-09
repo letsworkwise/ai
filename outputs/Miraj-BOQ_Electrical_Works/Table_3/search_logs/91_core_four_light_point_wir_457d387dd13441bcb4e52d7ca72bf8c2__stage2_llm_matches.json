@@ -1,0 +1,58 @@
+{
+  "query": "core_product_name: four light point wiring | feature_or_specifications: switch: 1no 6A, wire: 2 x 1.5 sq.mm pvc insulated 1100 V grade frls(fire retardant low smoke) copper conductor, earth wire: 1 x 1.5 sq.mm pvc insulated, conduit: 20 mm diameter rigid pvc conduit of medium guage, standard: IS 9537:3, approval: ISI(indian standards) and FIA(fire insurance approval), height of ceiling: 4.5 to 4.8 meters, feature: separate neutral for each circuit, feature: flexible pvc conduit wherever required, feature: inclusive of moduler switches, switch boxes, back box, connectors, junction box, ceiling rose, terminations",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "acronymed_core_product_name",
+        "Material",
+        "Size & Capacity",
+        "Type/Class",
+        "Protection"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire retardant low smoke cable | acronymed_core_product_name: frls cable (fire retardant low smoke cable) | size_or_capacity: 1.1 KV | protection_features: fire retardant | protection_features: low smoke | type_or_class: FRLS (Fire Retardant Low Smoke)",
+        "raw_product_name": "1.1 KV FIRE RETARDANT LOW SMOKE CABLES(FRLS)",
+        "list_of_product_ids": [
+          "1",
+          "029",
+          "021",
+          "403"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: lighting wire | type_or_class: Fire Retardant",
+        "raw_product_name": "LIGHTING WIRES FIRE RETARDANT TYPE",
+        "list_of_product_ids": [
+          "1",
+          "360",
+          "714",
+          "791"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: modular switch",
+        "raw_product_name": "MODULAR SWITCH",
+        "list_of_product_ids": [
+          "756",
+          "072",
+          "347",
+          "934"
+        ]
+      }
+    }
+  ]
+}

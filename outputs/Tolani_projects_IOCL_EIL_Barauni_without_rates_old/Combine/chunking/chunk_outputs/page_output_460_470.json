@@ -1,0 +1,168 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "APPLICATION OF HOT INSULATION\nInsulation Type :   IH   Insulation Material :   Rockwool Thickness :   60 mm",
+      "core_product_name": "application of hot insulation",
+      "acronymed_core_product_name": "",
+      "size": "thickness: 60 mm",
+      "feature_or_specifications": "insulation type: IH, insulation material: rockwool",
+      "quantity": "4800.0",
+      "unit": "m²"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "HEATING COIL\nHEATING COIL (STEAM TRACING etc.) / COOLING COIL\nCoil pipe material:   SA 106 Gr. B   Coil pipe Size (NB)   50",
+      "core_product_name": "heating coil",
+      "acronymed_core_product_name": "",
+      "size": "coil pipe size (NB): 50",
+      "feature_or_specifications": "coil pipe material: SA 106 Gr. B",
+      "quantity": "51.0",
+      "unit": "MT"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "DESIGN, SUPPLY & INSTALLATION OF EMERGENCY VENT\n16 Inch  of MOC   CS",
+      "core_product_name": "emergency vent",
+      "acronymed_core_product_name": "",
+      "size": "size: 16 inch",
+      "feature_or_specifications": "material of construction: cs(carbon steel)",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "DESIGN, SUPPLY & INSTALLATION OF EMERGENCY VENT\n20 Inch  of MOC   CS",
+      "core_product_name": "emergency vent",
+      "acronymed_core_product_name": "",
+      "size": "size: 20 inch",
+      "feature_or_specifications": "material of construction: cs(carbon steel)",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "DESIGN, SUPPLY & INSTALLATION OF EMERGENCY VENT\n24 Inch  of MOC   CS",
+      "core_product_name": "emergency vent",
+      "acronymed_core_product_name": "",
+      "size": "size: 24 inch",
+      "feature_or_specifications": "material of construction: cs(carbon steel)",
+      "quantity": "1.0",
+      "unit": "nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      460,
+      469
+    ],
+    "original_rows": [
+      {
+        "0": 461,
+        "1": 0,
+        "2": "01VV.10.9.1V22",
+        "3": "Insulation Type :   IH   Insulation Material :   Rockwool Thickness :   60 mm",
+        "4": 4800.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 462,
+        "1": 0,
+        "2": "01VV.10.11",
+        "3": "HEATING COIL",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 463,
+        "1": 0,
+        "2": "01VV.10.11.2",
+        "3": "HEATING COIL (STEAM TRACING etc.) / COOLING COIL",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 464,
+        "1": 0,
+        "2": "01VV.10.11.2.1V3",
+        "3": "Coil pipe material:   SA 106 Gr. B   Coil pipe Size (NB)   50",
+        "4": 51.0,
+        "5": "MT",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 465,
+        "1": 0,
+        "2": "01VV.10.14",
+        "3": "DESIGN, SUPPLY & INSTALLATION OF EMERGENCY VENT",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 466,
+        "1": 0,
+        "2": "01VV.10.14.1V2",
+        "3": "16 Inch  of MOC   CS",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 467,
+        "1": 0,
+        "2": "01VV.10.14.1V5",
+        "3": "20 Inch  of MOC   CS",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 468,
+        "1": 0,
+        "2": "01VV.10.14.1V6",
+        "3": "24 Inch  of MOC   CS",
+        "4": 1.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 469,
+        "1": 0,
+        "2": "01VV.10.25",
+        "3": "Slot Dipping Device:",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 470,
+        "1": 0,
+        "2": "01VV.10.25.1V1",
+        "3": "Size:   6 Inch  Material:   CS",
+        "4": 3.0,
+        "5": "nos",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2183,
+    "completion_tokens": 791
+  }
+}

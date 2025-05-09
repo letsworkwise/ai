@@ -1,0 +1,513 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8541499,
+      "text": "core_product_name: control desk",
+      "core_id": 452.0,
+      "raw_product_name": "CONTROL DESK",
+      "list_of_product_ids": [
+        "14011",
+        "17257",
+        "19417",
+        "19412",
+        "36643"
+      ]
+    },
+    {
+      "retrieval_score": 0.8528494,
+      "text": "core_product_name: control room",
+      "core_id": 457.0,
+      "raw_product_name": "CONTROL ROOM",
+      "list_of_product_ids": [
+        "19383",
+        "19371",
+        "19373",
+        "23748"
+      ]
+    },
+    {
+      "retrieval_score": 0.84918684,
+      "text": "core_product_name: access chamber",
+      "core_id": 26.0,
+      "raw_product_name": "ACCESS CHAMBER",
+      "list_of_product_ids": [
+        "158",
+        "151",
+        "585",
+        "815",
+        "880"
+      ]
+    },
+    {
+      "retrieval_score": 0.8473516,
+      "text": "core_product_name: gas metering system | special_attributes: dual chamber orifice",
+      "core_id": 1031.0,
+      "raw_product_name": "GAS METERING SYSTEM -DUAL CHAMBR ORIFICE",
+      "list_of_product_ids": [
+        "6614",
+        "5784",
+        "38506",
+        "38496"
+      ]
+    },
+    {
+      "retrieval_score": 0.8461696,
+      "text": "core_product_name: digital switch | operating_conditions: Temperature | mounting_or_installation: Panel mounted",
+      "core_id": 592.0,
+      "raw_product_name": "DIGITAL TEMP SWITCH PANEL MOUNTED TYPE",
+      "list_of_product_ids": [
+        "164",
+        "041",
+        "650",
+        "716",
+        "513"
+      ]
+    },
+    {
+      "retrieval_score": 0.84609115,
+      "text": "core_product_name: telemetry interface cabinet",
+      "core_id": 2214.0,
+      "raw_product_name": "TELEMETRY INTERFACE CABINET",
+      "list_of_product_ids": [
+        "13988",
+        "18052",
+        "18994",
+        "19044",
+        "21698"
+      ]
+    },
+    {
+      "retrieval_score": 0.845738,
+      "text": "core_product_name: system panel",
+      "core_id": 2180.0,
+      "raw_product_name": "SYSTEM PANELS",
+      "list_of_product_ids": [
+        "1",
+        "413",
+        "621",
+        "099"
+      ]
+    },
+    {
+      "retrieval_score": 0.84572875,
+      "text": "core_product_name: electronic controller | type_or_class: Control Panel Instrument",
+      "core_id": 724.0,
+      "raw_product_name": "ELECTRONIC CONTROLLER (CONTROL PANEL INSTRUMENT)",
+      "list_of_product_ids": [
+        "13897",
+        "20864",
+        "22602",
+        "22797"
+      ]
+    },
+    {
+      "retrieval_score": 0.8456928,
+      "text": "core_product_name: control panel | accessories_or_attachments: accessories",
+      "core_id": 453.0,
+      "raw_product_name": "CONTROL PANEL & ACCESSORIES",
+      "list_of_product_ids": [
+        "6599",
+        "5769",
+        "9463",
+        "8213",
+        "8215",
+        "8212",
+        "8214",
+        "9377",
+        "9156",
+        "9178",
+        "9378",
+        "9464",
+        "12191",
+        "8211",
+        "10743",
+        "31063",
+        "37694",
+        "37698",
+        "37703",
+        "37708",
+        "37712"
+      ]
+    },
+    {
+      "retrieval_score": 0.8456252,
+      "text": "core_product_name: fieldbus monitor",
+      "core_id": 821.0,
+      "raw_product_name": "FIELDBUS MONITOR",
+      "list_of_product_ids": [
+        "5",
+        "948",
+        "677",
+        "710",
+        "076"
+      ]
+    },
+    {
+      "retrieval_score": 0.8453253,
+      "text": "core_product_name: ventilation system",
+      "core_id": 2389.0,
+      "raw_product_name": "VENTILATION SYSTEM",
+      "list_of_product_ids": [
+        "7062",
+        "7389",
+        "8497",
+        "8501",
+        "18414"
+      ]
+    },
+    {
+      "retrieval_score": 0.84502715,
+      "text": "core_product_name: soldering station",
+      "core_id": 2064.0,
+      "raw_product_name": "SOLDERING STATION",
+      "list_of_product_ids": [
+        "154",
+        "291",
+        "875",
+        "238",
+        "511"
+      ]
+    },
+    {
+      "retrieval_score": 0.8446216,
+      "text": "core_product_name: local control station",
+      "core_id": 1380.0,
+      "raw_product_name": "LOCAL CONTROL STATIONS",
+      "list_of_product_ids": [
+        "99",
+        "911",
+        "003",
+        "018",
+        "831"
+      ]
+    },
+    {
+      "retrieval_score": 0.8446213,
+      "text": "core_product_name: equipment",
+      "core_id": 460.0,
+      "raw_product_name": "CONTROL ROOM EQUIPMENT",
+      "list_of_product_ids": [
+        "14034",
+        "14815",
+        "17256",
+        "21098"
+      ]
+    },
+    {
+      "retrieval_score": 0.84385055,
+      "text": "core_product_name: site fabricated storage tank",
+      "core_id": 2038.0,
+      "raw_product_name": "SITE FABRICATED STORAGE TANKS",
+      "list_of_product_ids": [
+        "1",
+        "395",
+        "423",
+        "053"
+      ]
+    },
+    {
+      "retrieval_score": 0.84364545,
+      "text": "core_product_name: miniature type hardwire console item",
+      "core_id": 1480.0,
+      "raw_product_name": "MINIATURE TYPE HARDWIRE CONSOLE ITEMS",
+      "list_of_product_ids": [
+        "5935",
+        "6764",
+        "10918",
+        "10920",
+        "10919"
+      ]
+    },
+    {
+      "retrieval_score": 0.8432956,
+      "text": "core_product_name: electrical component",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS",
+      "list_of_product_ids": [
+        "211",
+        "642",
+        "116",
+        "227",
+        "423"
+      ]
+    },
+    {
+      "retrieval_score": 0.84321445,
+      "text": "core_product_name: machine monitoring system",
+      "core_id": 1418.0,
+      "raw_product_name": "MACHINE MONITORING SYSTEMS",
+      "list_of_product_ids": [
+        "6478",
+        "5649",
+        "12455",
+        "32772",
+        "38192"
+      ]
+    },
+    {
+      "retrieval_score": 0.84317034,
+      "text": "core_product_name: column | material: CS (Carbon Steel) | construction_features: site fabricated",
+      "core_id": 392.0,
+      "raw_product_name": "COLUMN-CS SITE FABRICATED",
+      "list_of_product_ids": [
+        "6687",
+        "5858",
+        "9697",
+        "12010",
+        "12167",
+        "12592",
+        "13093",
+        "23509",
+        "37860",
+        "37727",
+        "37743"
+      ]
+    },
+    {
+      "retrieval_score": 0.8428384,
+      "text": "core_product_name: control panel",
+      "core_id": 453.0,
+      "raw_product_name": "CONTROL PANEL",
+      "list_of_product_ids": [
+        "7620",
+        "10723",
+        "10724",
+        "7294",
+        "11348",
+        "10704",
+        "10706",
+        "10708",
+        "10709",
+        "10705",
+        "10707",
+        "7889",
+        "8210",
+        "16017",
+        "16030",
+        "16028",
+        "36914",
+        "16897",
+        "18294",
+        "18873",
+        "18919",
+        "19439",
+        "20784",
+        "20783",
+        "21195",
+        "24829",
+        "24817",
+        "24932",
+        "24943",
+        "21198",
+        "36654",
+        "36677",
+        "33483",
+        "33678",
+        "35056"
+      ]
+    },
+    {
+      "retrieval_score": 0.8426983,
+      "text": "core_product_name: control valve positioner",
+      "core_id": 467.0,
+      "raw_product_name": "CONTROL VALVE POSITIONER",
+      "list_of_product_ids": [
+        "6488",
+        "5659",
+        "11718",
+        "8691"
+      ]
+    },
+    {
+      "retrieval_score": 0.8426552,
+      "text": "core_product_name: technological control system",
+      "core_id": 2209.0,
+      "raw_product_name": "TECHNOLOGICAL CONTROL SYSTEM",
+      "list_of_product_ids": [
+        "236",
+        "112",
+        "356",
+        "823",
+        "584"
+      ]
+    },
+    {
+      "retrieval_score": 0.842604,
+      "text": "core_product_name: monitor",
+      "core_id": 2443.0,
+      "raw_product_name": "WATER MONITOR",
+      "list_of_product_ids": [
+        "6039",
+        "5218",
+        "9825",
+        "9830",
+        "9835",
+        "9840",
+        "8259",
+        "8296",
+        "8316",
+        "8739",
+        "9230",
+        "16411",
+        "24091",
+        "23518",
+        "37476"
+      ]
+    },
+    {
+      "retrieval_score": 0.8424916,
+      "text": "core_product_name: check valve | construction_features: pre-insulation",
+      "core_id": 340.0,
+      "raw_product_name": "VALVE CHECK PRE-INSULATION",
+      "list_of_product_ids": [
+        "1",
+        "544",
+        "118",
+        "796"
+      ]
+    },
+    {
+      "retrieval_score": 0.8424688,
+      "text": "core_product_name: flame proof control station | protection_features: Flame proof",
+      "core_id": 463.0,
+      "raw_product_name": "CONTROL STATIONS-FLAME PROOF",
+      "list_of_product_ids": [
+        "6396",
+        "5567",
+        "10309",
+        "10586",
+        "10556",
+        "10599",
+        "16896",
+        "24100",
+        "22849",
+        "24498",
+        "24497",
+        "24496",
+        "24495",
+        "35767"
+      ]
+    },
+    {
+      "retrieval_score": 0.84241176,
+      "text": "core_product_name: addressable fire alarm panel",
+      "core_id": 48.0,
+      "raw_product_name": "ADDRESSABLE FIRE ALARM PANEL",
+      "list_of_product_ids": [
+        "37759",
+        "37764",
+        "37769",
+        "37774",
+        "37780",
+        "37790"
+      ]
+    },
+    {
+      "retrieval_score": 0.842257,
+      "text": "core_product_name: control valve",
+      "core_id": 468.0,
+      "raw_product_name": "CONTROL VALVES",
+      "list_of_product_ids": [
+        "6491",
+        "5662",
+        "10695",
+        "11716",
+        "8189",
+        "8692",
+        "11953",
+        "12128",
+        "12150",
+        "12173",
+        "12184",
+        "12609",
+        "12825",
+        "12826",
+        "12816",
+        "12830",
+        "13172",
+        "17317",
+        "17316",
+        "17315",
+        "17314",
+        "17478",
+        "17860",
+        "19701",
+        "19748",
+        "21532",
+        "21767",
+        "22686",
+        "27479",
+        "27478",
+        "27477",
+        "27476",
+        "27475",
+        "27474",
+        "27473",
+        "27480",
+        "35700",
+        "36122",
+        "36229",
+        "36381",
+        "39944",
+        "40005",
+        "40066",
+        "40127",
+        "40278",
+        "40269",
+        "40296"
+      ]
+    },
+    {
+      "retrieval_score": 0.8409009,
+      "text": "core_product_name: special control valve",
+      "core_id": 2075.0,
+      "raw_product_name": "SPECIAL CONTROL VALVES",
+      "list_of_product_ids": [
+        "13990",
+        "18539",
+        "23763",
+        "22458",
+        "22425",
+        "22487",
+        "22480",
+        "38452",
+        "40026"
+      ]
+    },
+    {
+      "retrieval_score": 0.8408966,
+      "text": "core_product_name: access control system",
+      "core_id": 30.0,
+      "raw_product_name": "ACCESS CONTROL SYSTEM",
+      "list_of_product_ids": [
+        "6601",
+        "5771",
+        "10891",
+        "10915",
+        "11070",
+        "10890",
+        "10892",
+        "19260",
+        "19270",
+        "34967",
+        "34987",
+        "35018"
+      ]
+    },
+    {
+      "retrieval_score": 0.84077936,
+      "text": "core_product_name: instrument panel",
+      "core_id": 1256.0,
+      "raw_product_name": "INSTRUMENT PANEL",
+      "list_of_product_ids": [
+        "13720",
+        "14806",
+        "14814",
+        "14824",
+        "21097",
+        "22773",
+        "36101"
+      ]
+    }
+  ]
+}

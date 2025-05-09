@@ -1,0 +1,54 @@
+{
+  "query": "core_product_name: grooved tee | size: nominal bore: 200X150",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: grout",
+        "raw_product_name": "GROUT",
+        "list_of_product_ids": [
+          "13748",
+          "16708",
+          "16707",
+          "19125",
+          "22869",
+          "33348",
+          "38480",
+          "35419",
+          "35432"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: grating",
+        "raw_product_name": "GRATINGS",
+        "list_of_product_ids": [
+          "218",
+          "522",
+          "185",
+          "428",
+          "606"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: geared motor",
+        "raw_product_name": "Geared Motor",
+        "list_of_product_ids": [
+          "7",
+          "543",
+          "721",
+          "735",
+          "410"
+        ]
+      }
+    }
+  ]
+}

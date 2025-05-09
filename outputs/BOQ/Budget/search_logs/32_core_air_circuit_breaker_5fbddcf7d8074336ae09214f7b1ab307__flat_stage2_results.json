@@ -1,0 +1,446 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8510021,
+      "text": "core_product_name: air circuit breaker",
+      "core_id": 54.0,
+      "raw_product_name": "AIR CIRCUIT BREAKER",
+      "list_of_product_ids": [
+        "6437",
+        "5607",
+        "11168",
+        "11217",
+        "20772",
+        "21201",
+        "24462",
+        "24461",
+        "24449",
+        "38509",
+        "38082"
+      ]
+    },
+    {
+      "retrieval_score": 0.84524167,
+      "text": "core_product_name: miniature circuit breaker | acronymed_core_product_name: mcb",
+      "core_id": 1446.0,
+      "raw_product_name": "MCB",
+      "list_of_product_ids": [
+        "6462",
+        "5633",
+        "10157",
+        "10663",
+        "9350",
+        "9447",
+        "9151",
+        "9187",
+        "9219",
+        "9361",
+        "11905",
+        "11944",
+        "17873",
+        "19028",
+        "19645",
+        "19652",
+        "20775",
+        "21203",
+        "19140",
+        "38290",
+        "36563"
+      ]
+    },
+    {
+      "retrieval_score": 0.840797,
+      "text": "core_product_name: inside panel | acronymed_core_product_name: mcb (miniature circuit breaker) panel | type_or_class: Flush type only",
+      "core_id": 1448.0,
+      "raw_product_name": "MCB Inside Panels (Flush type only)",
+      "list_of_product_ids": [
+        "1",
+        "371",
+        "214",
+        "885"
+      ]
+    },
+    {
+      "retrieval_score": 0.84036213,
+      "text": "core_product_name: molded case circuit breaker | acronymed_core_product_name: MCCB (Molded Case Circuit Breaker)",
+      "core_id": 1449.0,
+      "raw_product_name": "MCCB",
+      "list_of_product_ids": [
+        "6463",
+        "5634",
+        "10536",
+        "10191",
+        "9351",
+        "9152",
+        "9154",
+        "11938",
+        "19030",
+        "19029",
+        "20774",
+        "21202",
+        "36564",
+        "38080"
+      ]
+    },
+    {
+      "retrieval_score": 0.8398482,
+      "text": "core_product_name: outdoor circuit breaker | size_or_capacity: 132 kV or 220 kV | operating_conditions: outdoor",
+      "core_id": 11.0,
+      "raw_product_name": "132kV/ 220 kV outdoor Circuit Breaker",
+      "list_of_product_ids": [
+        "1",
+        "414",
+        "714",
+        "844"
+      ]
+    },
+    {
+      "retrieval_score": 0.8381233,
+      "text": "core_product_name: outdoor circuit breaker | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 11.0,
+      "raw_product_name": "33kV outdoor Circuit Breaker",
+      "list_of_product_ids": [
+        "141",
+        "551",
+        "464",
+        "036",
+        "000"
+      ]
+    },
+    {
+      "retrieval_score": 0.8379972,
+      "text": "core_product_name: outdoor circuit breaker | acronymed_core_product_name: vcb (vacuum circuit breaker) circuit breaker | type_or_class: VCB (Vacuum Circuit Breaker) | operating_conditions: HV (High Voltage)",
+      "core_id": 11.0,
+      "raw_product_name": "CIRCUIT BREAKERS-VCB OUTDOOR (HV)",
+      "list_of_product_ids": [
+        "24482",
+        "24481",
+        "24483",
+        "26851"
+      ]
+    },
+    {
+      "retrieval_score": 0.8378054,
+      "text": "core_product_name: earth leakage circuit breaker",
+      "core_id": 668.0,
+      "raw_product_name": "EARTH LEAKAGE CIRCUIT BREAKER",
+      "list_of_product_ids": [
+        "6449",
+        "5619",
+        "9349",
+        "9448",
+        "9149",
+        "9217",
+        "9363",
+        "11942",
+        "24537",
+        "24536",
+        "38287"
+      ]
+    },
+    {
+      "retrieval_score": 0.83568996,
+      "text": "core_product_name: uninterruptible power supply | acronymed_core_product_name: ups | accessories_or_attachments: acdb (alternating current distribution board)",
+      "core_id": 2316.0,
+      "raw_product_name": "UPS With ACDB",
+      "list_of_product_ids": [
+        "1",
+        "419",
+        "636",
+        "134"
+      ]
+    },
+    {
+      "retrieval_score": 0.8339263,
+      "text": "core_product_name: electrical accessory",
+      "core_id": 701.0,
+      "raw_product_name": "ELECTRICAL ACCESSORIES",
+      "list_of_product_ids": [
+        "211",
+        "632",
+        "705",
+        "121",
+        "165"
+      ]
+    },
+    {
+      "retrieval_score": 0.8336191,
+      "text": "core_product_name: motor protection circuit breaker | acronymed_core_product_name: mpcb (motor protection circuit breaker)",
+      "core_id": 1528.0,
+      "raw_product_name": "Motor Protection Circuit Breaker (MPCB)",
+      "list_of_product_ids": [
+        "7492",
+        "7167",
+        "11205",
+        "10539",
+        "10192",
+        "19629"
+      ]
+    },
+    {
+      "retrieval_score": 0.8332505,
+      "text": "core_product_name: intelligent battery charger | acronymed_core_product_name: dcdb (direct current distribution board) | size_or_capacity: 24V DC (24 Volt Direct Current)",
+      "core_id": 1304.0,
+      "raw_product_name": "Intelligent Battery charger 24V DC DCDB",
+      "list_of_product_ids": [
+        "1",
+        "375",
+        "215",
+        "290"
+      ]
+    },
+    {
+      "retrieval_score": 0.8315601,
+      "text": "core_product_name: compensating cable",
+      "core_id": 407.0,
+      "raw_product_name": "COMPENSATING CABLE",
+      "list_of_product_ids": [
+        "24082",
+        "21244",
+        "21234",
+        "23933",
+        "28345"
+      ]
+    },
+    {
+      "retrieval_score": 0.83064836,
+      "text": "core_product_name: moulded case circuit breaker",
+      "core_id": 1508.0,
+      "raw_product_name": "MOULDED CASE CIRCUIT BREAKER",
+      "list_of_product_ids": [
+        "178",
+        "541",
+        "784",
+        "318",
+        "652"
+      ]
+    },
+    {
+      "retrieval_score": 0.83016646,
+      "text": "core_product_name: minimum oil circuit breaker | acronymed_core_product_name: MOCB (Minimum Oil Circuit Breaker)",
+      "core_id": 1492.0,
+      "raw_product_name": "MOCB",
+      "list_of_product_ids": [
+        "1",
+        "377",
+        "621",
+        "549"
+      ]
+    },
+    {
+      "retrieval_score": 0.8295026,
+      "text": "core_product_name: electrical actuator",
+      "core_id": 702.0,
+      "raw_product_name": "ELECTRICAL ACTUATORS",
+      "list_of_product_ids": [
+        "13854",
+        "19083",
+        "20219",
+        "22224",
+        "22220",
+        "40240"
+      ]
+    },
+    {
+      "retrieval_score": 0.8290314,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: db | accessories_or_attachments: HRC (High Rupturing Capacity) fuse",
+      "core_id": 20.0,
+      "raw_product_name": "DB WITH HRC",
+      "list_of_product_ids": [
+        "13580",
+        "14783",
+        "15328",
+        "18070"
+      ]
+    },
+    {
+      "retrieval_score": 0.82878864,
+      "text": "core_product_name: distribution board | acronymed_core_product_name: a.c. (alternating current) distribution board (pdb (power distribution board))",
+      "core_id": 20.0,
+      "raw_product_name": "A.C. DISTRIBUTION BOARD (PDB)",
+      "list_of_product_ids": [
+        "14164",
+        "14792",
+        "14811",
+        "19308"
+      ]
+    },
+    {
+      "retrieval_score": 0.8285689,
+      "text": "core_product_name: microprocessor relay | acronymed_core_product_name: APFC (Automatic Power Factor Controller) relay",
+      "core_id": 126.0,
+      "raw_product_name": "APFC RELAYS (MICROPROCESSOR)",
+      "list_of_product_ids": [
+        "2",
+        "152",
+        "228",
+        "593"
+      ]
+    },
+    {
+      "retrieval_score": 0.82849157,
+      "text": "core_product_name: air admittance valve",
+      "core_id": 51.0,
+      "raw_product_name": "AIR ADMITTANCE VALVE",
+      "list_of_product_ids": [
+        "199",
+        "041",
+        "990",
+        "327",
+        "084"
+      ]
+    },
+    {
+      "retrieval_score": 0.82847726,
+      "text": "core_product_name: outdoor lightning arrestor | size_or_capacity: 132 kV or 220 kV | operating_conditions: Outdoor",
+      "core_id": 12.0,
+      "raw_product_name": "132kV/ 220 kV outdoor Lightning Arrestor",
+      "list_of_product_ids": [
+        "1",
+        "414",
+        "921",
+        "496"
+      ]
+    },
+    {
+      "retrieval_score": 0.82836884,
+      "text": "core_product_name: cable termination and jointing kit",
+      "core_id": 282.0,
+      "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+      "list_of_product_ids": [
+        "6444",
+        "5614",
+        "11000",
+        "12263",
+        "12344",
+        "15781",
+        "23866",
+        "24503"
+      ]
+    },
+    {
+      "retrieval_score": 0.8282877,
+      "text": "core_product_name: extra high voltage cable | size_or_capacity: Extra High Voltage",
+      "core_id": 288.0,
+      "raw_product_name": "CABLES - EXTRA HIGH VOLTAGE",
+      "list_of_product_ids": [
+        "6425",
+        "5595",
+        "10504",
+        "10183",
+        "14821",
+        "23994",
+        "23863"
+      ]
+    },
+    {
+      "retrieval_score": 0.82753074,
+      "text": "core_product_name: indoor switchboard | acronymed_core_product_name: switchboard-hv | type_or_class: High Voltage (HV) | accessories_or_attachments: Vacuum Circuit Breaker (VCB) | operating_conditions: Indoor",
+      "core_id": 2174.0,
+      "raw_product_name": "SWITCHBOARD-HV (INDOOR) WITH VCB BREAKR",
+      "list_of_product_ids": [
+        "6387",
+        "5558",
+        "9304",
+        "7950",
+        "9334",
+        "9216",
+        "9336",
+        "9367",
+        "24419",
+        "24415"
+      ]
+    },
+    {
+      "retrieval_score": 0.8273207,
+      "text": "core_product_name: a.c. (alternating current) variable speed drive | acronymed_core_product_name: a.c. variable speed drive | operating_conditions: hv (high voltage) | size_or_capacity: above 690v o/p (output)",
+      "core_id": 22.0,
+      "raw_product_name": "A.C. VARIABLE SPEED DRIVE - HV (ABOVE 690V O/P)",
+      "list_of_product_ids": [
+        "21987",
+        "24632",
+        "24646",
+        "24628",
+        "24631",
+        "24630",
+        "24629",
+        "24350",
+        "21979",
+        "35374"
+      ]
+    },
+    {
+      "retrieval_score": 0.82722855,
+      "text": "core_product_name: outdoor potential transformer | acronymed_core_product_name: pt | size_or_capacity: 33kV",
+      "core_id": 17.0,
+      "raw_product_name": "33kV outdoor CT/ PT",
+      "list_of_product_ids": [
+        "7061",
+        "7388",
+        "18218",
+        "18377",
+        "19058"
+      ]
+    },
+    {
+      "retrieval_score": 0.8266524,
+      "text": "core_product_name: air receiver",
+      "core_id": 78.0,
+      "raw_product_name": "AIR RECEIVER",
+      "list_of_product_ids": [
+        "15704",
+        "15703",
+        "15718",
+        "15787",
+        "15818",
+        "15899",
+        "16009",
+        "16046",
+        "16174",
+        "16567",
+        "16873",
+        "33333"
+      ]
+    },
+    {
+      "retrieval_score": 0.8265769,
+      "text": "core_product_name: electrical repair",
+      "core_id": 2009.0,
+      "raw_product_name": "SHIP REPAIR (ELECTRICAL WORK)",
+      "list_of_product_ids": [
+        "23965",
+        "24298",
+        "23966",
+        "24724",
+        "24966",
+        "36009"
+      ]
+    },
+    {
+      "retrieval_score": 0.826431,
+      "text": "core_product_name: outdoor insulator and bushing | size_or_capacity: 132 kV or 220 kV | operating_conditions: outdoor",
+      "core_id": 8.0,
+      "raw_product_name": "132kV/ 220 kV outdoor Insulator & Bushing",
+      "list_of_product_ids": [
+        "14148",
+        "14691",
+        "16117",
+        "17435",
+        "18327",
+        "21497"
+      ]
+    },
+    {
+      "retrieval_score": 0.82630426,
+      "text": "core_product_name: outdoor lightning arrestor | size_or_capacity: 33kV | operating_conditions: Outdoor",
+      "core_id": 12.0,
+      "raw_product_name": "33kV outdoor Lightning Arrestor",
+      "list_of_product_ids": [
+        "1",
+        "415",
+        "921",
+        "498"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.86036813,
+      "text": "core_product_name: cable termination and jointing kit",
+      "core_id": 282.0,
+      "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+      "list_of_product_ids": [
+        "6444",
+        "5614",
+        "11000",
+        "12263",
+        "12344",
+        "15781",
+        "23866",
+        "24503"
+      ]
+    },
+    {
+      "retrieval_score": 0.8533028,
+      "text": "core_product_name: cable lug",
+      "core_id": 280.0,
+      "raw_product_name": "CABLE LUG",
+      "list_of_product_ids": [
+        "2",
+        "064",
+        "720",
+        "116"
+      ]
+    },
+    {
+      "retrieval_score": 0.8506311,
+      "text": "core_product_name: cable lug | accessories_or_attachments: Lugs",
+      "core_id": 280.0,
+      "raw_product_name": "CABLE – LUGS",
+      "list_of_product_ids": [
+        "13715",
+        "14861",
+        "18113",
+        "19564",
+        "20439",
+        "20413",
+        "20462",
+        "20503",
+        "24057",
+        "23908",
+        "32998",
+        "33032",
+        "33185",
+        "33250",
+        "33552",
+        "33624",
+        "35913"
+      ]
+    },
+    {
+      "retrieval_score": 0.85018474,
+      "text": "core_product_name: cable | material: Copper",
+      "core_id": 1.0,
+      "raw_product_name": "CABLE -COPPER",
+      "list_of_product_ids": [
+        "32910",
+        "32911",
+        "33009",
+        "33041",
+        "33195",
+        "33260",
+        "33562",
+        "33633",
+        "35922"
+      ]
+    },
+    {
+      "retrieval_score": 0.84995866,
+      "text": "core_product_name: section | material: Aluminum",
+      "core_id": 100.0,
+      "raw_product_name": "ALUMINUM SECTION",
+      "list_of_product_ids": [
+        "20555",
+        "20518",
+        "20605",
+        "20596",
+        "20682",
+        "20740",
+        "38548",
+        "39312"
+      ]
+    },
+    {
+      "retrieval_score": 0.8498765,
+      "text": "core_product_name: cable | size_or_capacity: 33kV | material: XLPE (Cross-Linked Polyethylene)",
+      "core_id": 1.0,
+      "raw_product_name": "33kV cable XLPE",
+      "list_of_product_ids": [
+        "14154",
+        "15792",
+        "16795",
+        "20142",
+        "24052",
+        "20057",
+        "23903"
+      ]
+    },
+    {
+      "retrieval_score": 0.84950835,
+      "text": "core_product_name: cable | material: Rubber",
+      "core_id": 1.0,
+      "raw_product_name": "RUBBER CABLES",
+      "list_of_product_ids": [
+        "38749",
+        "38955",
+        "38670",
+        "38589",
+        "38533",
+        "38534",
+        "38615",
+        "38698",
+        "38775",
+        "38723",
+        "38643",
+        "38834",
+        "38866",
+        "38908",
+        "38934",
+        "38971",
+        "38998",
+        "39026",
+        "39060",
+        "39094",
+        "39124",
+        "39172",
+        "39225",
+        "39253",
+        "39295",
+        "39345",
+        "39381",
+        "39410",
+        "39440",
+        "39456",
+        "39491",
+        "39546",
+        "39573",
+        "39611",
+        "39635",
+        "39663",
+        "39697",
+        "39737",
+        "39807",
+        "39835",
+        "39906"
+      ]
+    },
+    {
+      "retrieval_score": 0.84879935,
+      "text": "core_product_name: compensating cable",
+      "core_id": 407.0,
+      "raw_product_name": "COMPENSATING CABLE",
+      "list_of_product_ids": [
+        "24082",
+        "21244",
+        "21234",
+        "23933",
+        "28345"
+      ]
+    },
+    {
+      "retrieval_score": 0.8487658,
+      "text": "core_product_name: cable tie",
+      "core_id": 284.0,
+      "raw_product_name": "CABLE TIES",
+      "list_of_product_ids": [
+        "24081",
+        "21169",
+        "21168",
+        "23932",
+        "27351"
+      ]
+    },
+    {
+      "retrieval_score": 0.8483692,
+      "text": "core_product_name: cable gland",
+      "core_id": 278.0,
+      "raw_product_name": "CABLE GLANDS",
+      "list_of_product_ids": [
+        "5961",
+        "6789",
+        "8221",
+        "8217",
+        "10553",
+        "10605",
+        "8222",
+        "8223",
+        "12107",
+        "15811",
+        "15929",
+        "16012",
+        "16032",
+        "16026",
+        "17577",
+        "22860",
+        "26078",
+        "26074",
+        "26071",
+        "36606",
+        "33509",
+        "33510",
+        "35776",
+        "35866",
+        "39358"
+      ]
+    },
+    {
+      "retrieval_score": 0.84761304,
+      "text": "core_product_name: fabricated component | material: Aluminium",
+      "core_id": 97.0,
+      "raw_product_name": "ALUMINIUM FABRICATED COMPONENT",
+      "list_of_product_ids": [
+        "23962",
+        "23964",
+        "23963",
+        "28691"
+      ]
+    },
+    {
+      "retrieval_score": 0.84705853,
+      "text": "core_product_name: structural | material: Aluminium",
+      "core_id": 2134.0,
+      "raw_product_name": "STRUCTURAL ALUMINIUM",
+      "list_of_product_ids": [
+        "234",
+        "572",
+        "603",
+        "826",
+        "686"
+      ]
+    },
+    {
+      "retrieval_score": 0.8469352,
+      "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+      "core_id": 1262.0,
+      "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+      "list_of_product_ids": [
+        "19885",
+        "19880",
+        "24078",
+        "23930",
+        "27348"
+      ]
+    },
+    {
+      "retrieval_score": 0.84650356,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLES",
+      "list_of_product_ids": [
+        "15455",
+        "13721",
+        "24275",
+        "15161",
+        "16241",
+        "19098",
+        "23820",
+        "23814",
+        "21319",
+        "19315",
+        "23819",
+        "23822",
+        "24273",
+        "23829",
+        "20141",
+        "23831",
+        "24058",
+        "23836",
+        "23909",
+        "23839",
+        "23828",
+        "24685",
+        "24726",
+        "24844",
+        "24955",
+        "31590",
+        "31591",
+        "26436",
+        "26438",
+        "31740",
+        "33330"
+      ]
+    },
+    {
+      "retrieval_score": 0.84625727,
+      "text": "core_product_name: cable",
+      "core_id": 1.0,
+      "raw_product_name": "CABLE STOCKIST/TRADERS",
+      "list_of_product_ids": [
+        "2",
+        "467",
+        "924",
+        "680"
+      ]
+    },
+    {
+      "retrieval_score": 0.84496164,
+      "text": "core_product_name: conduit fitting",
+      "core_id": 870.0,
+      "raw_product_name": "FITTINGS (CONDUIT)",
+      "list_of_product_ids": [
+        "165",
+        "391",
+        "654",
+        "021",
+        "574"
+      ]
+    },
+    {
+      "retrieval_score": 0.8444541,
+      "text": "core_product_name: conduit accessory",
+      "core_id": 439.0,
+      "raw_product_name": "CONDUIT ACCESSORIES",
+      "list_of_product_ids": [
+        "20550",
+        "20514",
+        "20591",
+        "20632",
+        "20686",
+        "20744"
+      ]
+    },
+    {
+      "retrieval_score": 0.8432423,
+      "text": "core_product_name: special cable",
+      "core_id": 2074.0,
+      "raw_product_name": "SPECIAL CABLES",
+      "list_of_product_ids": [
+        "13989",
+        "14840",
+        "20102",
+        "20070",
+        "24071",
+        "23923"
+      ]
+    },
+    {
+      "retrieval_score": 0.84271866,
+      "text": "core_product_name: finned tube | material: Aluminium",
+      "core_id": 2281.0,
+      "raw_product_name": "TUBE - ALUMINIUM FINNED",
+      "list_of_product_ids": [
+        "6063",
+        "5155",
+        "10988",
+        "10989",
+        "8492",
+        "17554",
+        "23035",
+        "23477",
+        "24438",
+        "23469",
+        "33845"
+      ]
+    },
+    {
+      "retrieval_score": 0.842595,
+      "text": "core_product_name: commercial cable",
+      "core_id": 400.0,
+      "raw_product_name": "COMMERCIAL CABLE",
+      "list_of_product_ids": [
+        "20779",
+        "20808",
+        "20806",
+        "21176",
+        "21175",
+        "27361"
+      ]
+    },
+    {
+      "retrieval_score": 0.8420442,
+      "text": "core_product_name: cast product | material: Aluminium",
+      "core_id": 305.0,
+      "raw_product_name": "CAST ALUMINIUM",
+      "list_of_product_ids": [
+        "249",
+        "682",
+        "496",
+        "726",
+        "776"
+      ]
+    },
+    {
+      "retrieval_score": 0.8419273,
+      "text": "core_product_name: wire | material: Copper | construction_features: Conductor | material: PVC (Polyvinyl Chloride) | construction_features: Insulated",
+      "core_id": 313.0,
+      "raw_product_name": "COPPER CONDUCTOR PVC INSULATED WIRES",
+      "list_of_product_ids": [
+        "140",
+        "901",
+        "478",
+        "121",
+        "282"
+      ]
+    },
+    {
+      "retrieval_score": 0.8413043,
+      "text": "core_product_name: screened cable | special_attributes: Screened cable",
+      "core_id": 1976.0,
+      "raw_product_name": "SCREENED CABLES",
+      "list_of_product_ids": [
+        "13881",
+        "14838",
+        "15808",
+        "20059",
+        "20100",
+        "24067",
+        "23919"
+      ]
+    },
+    {
+      "retrieval_score": 0.84102327,
+      "text": "core_product_name: solid conductor | material: Copper",
+      "core_id": 2063.0,
+      "raw_product_name": "SOLID COPPER CONDUCTOR",
+      "list_of_product_ids": [
+        "180",
+        "781",
+        "807",
+        "918",
+        "591"
+      ]
+    },
+    {
+      "retrieval_score": 0.8408707,
+      "text": "core_product_name: tube | material: Copper and Alloys",
+      "core_id": 88.0,
+      "raw_product_name": "TUBE COPPER AND ALLOYS",
+      "list_of_product_ids": [
+        "6308",
+        "5479",
+        "8815",
+        "8816",
+        "31806"
+      ]
+    },
+    {
+      "retrieval_score": 0.8403935,
+      "text": "core_product_name: cable | size_or_capacity: 33kV (33 kilovolt)",
+      "core_id": 1.0,
+      "raw_product_name": "CABLE 33kV",
+      "list_of_product_ids": [
+        "10253",
+        "10005",
+        "10017",
+        "24048",
+        "23899"
+      ]
+    },
+    {
+      "retrieval_score": 0.84038174,
+      "text": "core_product_name: hazardous area cable gland",
+      "core_id": 279.0,
+      "raw_product_name": "CABLE GLANDS ( HAZARDOUS AREA)",
+      "list_of_product_ids": [
+        "6443",
+        "5613",
+        "8218",
+        "10559",
+        "10589",
+        "10590",
+        "10604",
+        "8216",
+        "8219",
+        "8220",
+        "8224",
+        "12670",
+        "17578",
+        "23865",
+        "22857",
+        "24500",
+        "35772"
+      ]
+    },
+    {
+      "retrieval_score": 0.8402624,
+      "text": "core_product_name: lining | material: Rubber",
+      "core_id": 1367.0,
+      "raw_product_name": "LINING (RUBBER)",
+      "list_of_product_ids": [
+        "6167",
+        "5337",
+        "12267",
+        "12269",
+        "12265",
+        "12268",
+        "12480"
+      ]
+    },
+    {
+      "retrieval_score": 0.83994716,
+      "text": "core_product_name: perforated cable tray",
+      "core_id": 1054.0,
+      "raw_product_name": "Perforrated Cable Tray",
+      "list_of_product_ids": [
+        "7",
+        "013",
+        "732",
+        "126",
+        "432"
+      ]
+    },
+    {
+      "retrieval_score": 0.8399066,
+      "text": "core_product_name: partition | material: Aluminium",
+      "core_id": 1637.0,
+      "raw_product_name": "PATITIONS - ALUMINIUM",
+      "list_of_product_ids": [
+        "15639",
+        "15633",
+        "15618",
+        "15724"
+      ]
+    }
+  ]
+}

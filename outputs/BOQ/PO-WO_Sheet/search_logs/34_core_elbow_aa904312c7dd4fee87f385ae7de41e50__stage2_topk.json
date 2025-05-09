@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: elbow | size: diameter: 40 nb(nominal bore), angle: 90 degree | feature_or_specifications: end-type: b/w(butt weld)",
+  "retrieval_results": [
+    {
+      "id": "variant-debcf96a-5534-5d1a-a9c3-19d56dae7053",
+      "score": 0.8680031,
+      "metadata": {
+        "text": "core_product_name: elbow fitting",
+        "raw_product_name": "FITTINGS –ELBOW",
+        "list_of_product_ids": "14264,14692,14667,14709,14902,14914,15995,16042,18891,18937,19402,19723,19798,19792,20060,20167,20935,21918,22659,22655,22914,36880,36883,27766,27756,27746,27736,27726,27775,37065,36443",
+        "core_id": 880.0
+      }
+    },
+    {
+      "id": "variant-2e84cef9-327a-515b-8b9e-5d2b777c59cb",
+      "score": 0.86067325,
+      "metadata": {
+        "text": "core_product_name: elbowlet",
+        "raw_product_name": "ELBOWLET",
+        "list_of_product_ids": "14395,14719,14722,14725,19815,22922",
+        "core_id": 681.0
+      }
+    },
+    {
+      "id": "variant-ce40943d-1223-57f8-9558-6bcfb262f1b0",
+      "score": 0.8526974,
+      "metadata": {
+        "text": "core_product_name: butt welded fitting | material: CS (Carbon Steel)",
+        "raw_product_name": "FITTINGS BUTT WELDED(CS)",
+        "list_of_product_ids": "10262,10267,10090,10091,10161,10166,10169,10635,10227,10229,10231,10235,13391,13411,17670,17924,21974,23102,23090,23194,25830,36932,32279,32278,32277,32280,32327",
+        "core_id": 873.0
+      }
+    },
+    {
+      "id": "variant-44634665-b9e1-57e3-af03-39873a2eec40",
+      "score": 0.8516489,
+      "metadata": {
+        "text": "core_product_name: welding sleeve",
+        "raw_product_name": "WELDING SLEEVES",
+        "list_of_product_ids": "21894,21895,22215,22210,22233,22253,22229,22227,22222,22221,22219,22216",
+        "core_id": 2463.0
+      }
+    },
+    {
+      "id": "variant-1886b32f-5a28-5199-9c0a-4f4d9b21d2c6",
+      "score": 0.8507623,
+      "metadata": {
+        "text": "core_product_name: butt welded fitting | material: SS (Stainless Steel)",
+        "raw_product_name": "FITTINGS BUTT WELDED(SS)",
+        "list_of_product_ids": "9994,10027,10031,10636,10163,13392,13412,17671,17925,23103,23091,23195,25829,21973,36931,32328,10033",
+        "core_id": 873.0
+      }
+    },
+    {
+      "id": "variant-383781f7-59ee-5d5b-8a29-cf16569a65fc",
+      "score": 0.8492,
+      "metadata": {
+        "text": "core_product_name: welded fitting",
+        "raw_product_name": "FITTINGS – AS WELDED",
+        "list_of_product_ids": "14259,15973,19406,19805,19790,20139,22666,37085,37098",
+        "core_id": 878.0
+      }
+    },
+    {
+      "id": "variant-824f2910-758f-5186-a97d-32cc8f3de9d3",
+      "score": 0.8480654,
+      "metadata": {
+        "text": "core_product_name: primary structure | construction_features: welded",
+        "raw_product_name": "BOILER PRIMARY STRUCTURE(WELDED)",
+        "list_of_product_ids": "19999,20036,22016,21003,21084,21900,22115,21039,19993,22825,22991",
+        "core_id": 223.0
+      }
+    },
+    {
+      "id": "variant-87a566b6-5a86-509b-86ac-e597dd349665",
+      "score": 0.8467861,
+      "metadata": {
+        "text": "core_product_name: welded structural item",
+        "raw_product_name": "STRUCTURAL ITEM (WELDED)",
+        "list_of_product_ids": "173,361,733,427,923",
+        "core_id": 2136.0
+      }
+    },
+    {
+      "id": "variant-656a3a9a-c5a4-5f97-a8e6-8f208083dcbb",
+      "score": 0.8452911,
+      "metadata": {
+        "text": "core_product_name: welding receptacle",
+        "raw_product_name": "WELDING RECEPTACLES",
+        "list_of_product_ids": "19666,19656,19638,27341",
+        "core_id": 2460.0
+      }
+    },
+    {
+      "id": "variant-870a4f20-41ec-5310-886a-4b885369423e",
+      "score": 0.844935,
+      "metadata": {
+        "text": "core_product_name: butt weld pipe flange | construction_features: Butt Weld | construction_features: Pipe",
+        "raw_product_name": "Butt Weld Pipe Flanges",
+        "list_of_product_ids": "7596,7271,8017,24560",
+        "core_id": 274.0
+      }
+    },
+    {
+      "id": "variant-98279854-84dd-59c7-9a77-4d59d712ced7",
+      "score": 0.8438343,
+      "metadata": {
+        "text": "core_product_name: bend | special_attributes: 5D (5 times diameter) radius",
+        "raw_product_name": "5D BENDS",
+        "list_of_product_ids": "14162,18289,20009,20007,19998,21405,23291,37862,37395,40120,40094",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-1aae075d-e66f-5f89-bbc2-bdd42c2f351b",
+      "score": 0.8436801,
+      "metadata": {
+        "text": "core_product_name: bent pipe | size_or_capacity: large-diameter",
+        "raw_product_name": "Large-diameter pipe, bent",
+        "list_of_product_ids": "758,872,638,029",
+        "core_id": 1411.0
+      }
+    },
+    {
+      "id": "variant-1db4e99b-7e61-5b85-b423-76e2c8c1a44a",
+      "score": 0.8425475,
+      "metadata": {
+        "text": "core_product_name: welded pipe fitting",
+        "raw_product_name": "PIPE FITTINGS WELDED",
+        "list_of_product_ids": "14095,15741,16054,16259,16577,19721,20934,22919,16612",
+        "core_id": 1659.0
+      }
+    },
+    {
+      "id": "variant-b36f4e2f-98bf-53ec-a28b-ff2140fad1e5",
+      "score": 0.84240425,
+      "metadata": {
+        "text": "core_product_name: welding electrode",
+        "raw_product_name": "WELDING ELECTRODES",
+        "list_of_product_ids": "19553,19560,19542,19537,19528,19517,19630,38577",
+        "core_id": 2459.0
+      }
+    },
+    {
+      "id": "variant-dd92f318-9c0f-5e20-8416-bbf7131b54a3",
+      "score": 0.84186536,
+      "metadata": {
+        "text": "core_product_name: welding wire",
+        "raw_product_name": "WELDING WIRE",
+        "list_of_product_ids": "21866,21871,27042,33207,33272,33574,33645,35934",
+        "core_id": 2464.0
+      }
+    },
+    {
+      "id": "variant-947f8ce4-cdfc-5b77-ad3f-49be95b81762",
+      "score": 0.84185076,
+      "metadata": {
+        "text": "core_product_name: thermit welding",
+        "raw_product_name": "THERMIT WELING",
+        "list_of_product_ids": "1,403,836,668",
+        "core_id": 2244.0
+      }
+    },
+    {
+      "id": "variant-39fce78b-8d44-56c5-9c95-7e9a9934ea56",
+      "score": 0.8417817,
+      "metadata": {
+        "text": "core_product_name: width gauge",
+        "raw_product_name": "Width Gauge",
+        "list_of_product_ids": "7552,7226,10509,18014",
+        "core_id": 2491.0
+      }
+    },
+    {
+      "id": "variant-70fc9b81-eb6e-54f7-a50d-8cffb4b96674",
+      "score": 0.8417417,
+      "metadata": {
+        "text": "core_product_name: weld neck flange | construction_features: weld neck",
+        "raw_product_name": "FLANGE-WELD NECK",
+        "list_of_product_ids": "9902,9903,9908,9916,9917,9918,9919,17534,17651,24561",
+        "core_id": 904.0
+      }
+    },
+    {
+      "id": "variant-8dd04693-bfca-5cb1-8bad-aada8a7db235",
+      "score": 0.84082836,
+      "metadata": {
+        "text": "core_product_name: welding consumable",
+        "raw_product_name": "WELDING CONSUMABLES",
+        "list_of_product_ids": "17040,17034,17152,17155,27910,33206,33271,33573,33644,35933",
+        "core_id": 2461.0
+      }
+    },
+    {
+      "id": "variant-1a62a854-9399-5f1a-ac65-24924d70fdbf",
+      "score": 0.83980703,
+      "metadata": {
+        "text": "core_product_name: pipe-welded alloy steel",
+        "raw_product_name": "PIPE-WELDED ALLOY STEEL",
+        "list_of_product_ids": "6296,5467,10333,7776,7765,8068,13037,21833,30892",
+        "core_id": 1675.0
+      }
+    },
+    {
+      "id": "variant-d33ba9de-3ffd-548c-a52b-8317b71ec905",
+      "score": 0.83979946,
+      "metadata": {
+        "text": "core_product_name: welding holder",
+        "raw_product_name": "WELDING HOLDER",
+        "list_of_product_ids": "32875,32879,33001,33034,33188,33253,33554,33625,35914",
+        "core_id": 2462.0
+      }
+    },
+    {
+      "id": "variant-58b032b2-bfc8-58c5-b09c-f758859b2d22",
+      "score": 0.8397846,
+      "metadata": {
+        "text": "core_product_name: bolt and nut | protection_features: galvanised",
+        "raw_product_name": "BOLTS & NUTS (GALVANISED)",
+        "list_of_product_ids": "21576,21573,26271,26205,26208,26210,26219,26228,21578,27711",
+        "core_id": 231.0
+      }
+    },
+    {
+      "id": "variant-3efeda5d-6e70-51e8-8f2e-ad8a9436822e",
+      "score": 0.8396808,
+      "metadata": {
+        "text": "core_product_name: bend",
+        "raw_product_name": "BENDS",
+        "list_of_product_ids": "219,382,194,421,936",
+        "core_id": 19.0
+      }
+    },
+    {
+      "id": "variant-04f0e0c0-81f9-571a-b333-5c79b34da30d",
+      "score": 0.8395625,
+      "metadata": {
+        "text": "core_product_name: tube | special_attributes: Seamless | material: AS (Alloyed Steel)",
+        "raw_product_name": "PIPE/TUBE- A S (SEAMLESS)",
+        "list_of_product_ids": "6286,5457,10575,10616,10216,10828,6826,6821,7673,7676,7677,7678,7679,7680,7675,7681,7682,12133,12262,12677,17587,24026,24457,30022,29113,37050,39997",
+        "core_id": 88.0
+      }
+    },
+    {
+      "id": "variant-5772c935-a8e7-5c00-b817-cded289d9fcf",
+      "score": 0.8394766,
+      "metadata": {
+        "text": "core_product_name: welded welded pipe",
+        "raw_product_name": "WELDED PIPES",
+        "list_of_product_ids": "6293,5464,19344,26239,36943,36949,37094,37133,35976,37155",
+        "core_id": 2457.0
+      }
+    },
+    {
+      "id": "variant-9aa36f08-e097-54b1-94fe-8359583782f8",
+      "score": 0.8387407,
+      "metadata": {
+        "text": "core_product_name: orifice fitting",
+        "raw_product_name": "ORIFICE - FITTINGS",
+        "list_of_product_ids": "36537,36541,36539,36546",
+        "core_id": 1602.0
+      }
+    },
+    {
+      "id": "variant-7dfadcde-de2d-5210-8704-7e2d4bcb95a3",
+      "score": 0.8385696,
+      "metadata": {
+        "text": "core_product_name: fitting | material: SS (Stainless Steel) | construction_features: Welded",
+        "raw_product_name": "FITTINGS – SS WELDED",
+        "list_of_product_ids": "14263,15971,19408,19804,19791,20140,22665,37084,37097",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-6c64f3d3-117d-519a-9d82-5f60bdadbfa6",
+      "score": 0.8382974,
+      "metadata": {
+        "text": "core_product_name: tube fitting",
+        "raw_product_name": "TUBE FITTING",
+        "list_of_product_ids": "6474,5645,8110,10396,10379,10670,10674,10675,10683,8109,8111,8113,8112,8592,12052,12678,12685,12681,12693,16884,17200,17653,36870,26298,26297,26296,26295,26903,37156,36861",
+        "core_id": 2280.0
+      }
+    },
+    {
+      "id": "variant-c9606761-8875-5ecd-8e32-10a958b09ddd",
+      "score": 0.83825684,
+      "metadata": {
+        "text": "core_product_name: bolt",
+        "raw_product_name": "BOLT",
+        "list_of_product_ids": "13612,20911,20910,26266,26148,26200,26213,26223,26232,27708,33126,37287",
+        "core_id": 228.0
+      }
+    },
+    {
+      "id": "variant-7fd4cfef-d998-5282-9241-7387b128f297",
+      "score": 0.8380616,
+      "metadata": {
+        "text": "core_product_name: round | material: MS (Mild Steel)",
+        "raw_product_name": "MS ROUND",
+        "list_of_product_ids": "30196,32891,13504,13511,13489,13518,13524,13530,13537,13544,13558,13551,26246,29406,16067,16106,29429,31907,17722,17738,29467,29481,29534,23326,29888,30348,29540,29570,29855,30356,31544,31688,24732,31134,24751,24759,24870,24858,24847,24894,31379,24916,24925,24903,31573,25001,30790,25020,25005,25049,25038,25031,29605,30910,25083,25074,25065,25060,25108,25117,30379,30538,25129,25138,25156,25168,25195,25184,25177,25206,25218,25236,25257,25246,25271,25287,25297,25301,25314,25339,25323,25351,25367,25390,25379,25410,30948,31144,25495,29629,30031,30399,31166,31386,31832,25862,31862,25934,30547,31337,31842,31406,31597,25976,30061,26121,26155,29682,30572,31090,26180,26274,26306,30964,31446,26332,26357,30088,30594,26378,26443,26492,26466,26534,26540,26572,26598,30434,26621,26644,26702,29697,30105,26725,26821,26830,30619,30985,26913,26949,26976,27007,27157,30457,27186,30128,31198,27233,30168,30149,30657,27261,27290,29722,27313,27393,31454,27419,27445,27557,29742,31223,27585,27614,27668,27686,27846,27893,27853,27936,27966,29771,30671,31052,28000,30487,31737,28036,28102,28152,28138,30216,31644,28324,28301,31261,28358,30243,28389,28445,28470,28520,29799,31265,31477,31619,28552,28647,28685,28700,30700,28726,28863,28857,28887,29828,28939,30265,31291,28944,28976,31683,29016,29023,30721,31514,31010,29068,29072,30305,31315,31522,31070,29160,29136,29163,29192,29229,30313,29348,29325,29351,29375,31943,31951,31974,32024,31996,32052,32090,32114,32145,32173,32207,32257,32373,32309,32335,32411,32433,32455,32538,32588,32617,32637,32665,32735,32781,32824,32855,32916,32966,33052,33072,33104,33156,33131,33221,33288,33316,33358,33399,33468,33519,33580,33654,33693,33722,33741,33765,33793,33827,33877,33853,33924,33963,34046,34067,34096,34123,34148,34179,34201,34223,34261,34290,34356,34385,34424,34446,34468,34503,34525,34548,34605,34654,34707,34737,34758,34805,34784,34860,34831,34884,34935,35024,35059,35081,35103,35125,35168",
+        "core_id": 1511.0
+      }
+    }
+  ]
+}

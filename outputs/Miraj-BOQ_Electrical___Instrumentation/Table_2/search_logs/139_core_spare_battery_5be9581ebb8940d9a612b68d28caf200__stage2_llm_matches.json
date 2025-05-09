@@ -1,0 +1,62 @@
+{
+  "query": "core_product_name: spare battery | size: capacity: 1800 mAh | feature_or_specifications: model: Motorola GP 328, make: Motorola",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: battery | material: Lead Acid",
+        "raw_product_name": "BATTERY (LEAD ACID)",
+        "list_of_product_ids": [
+          "14131",
+          "16440",
+          "19102",
+          "17026",
+          "17770",
+          "21441",
+          "21690"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: battery | material: Nickle Cadmium",
+        "raw_product_name": "BATTERIES-NICKLE CADMIUM",
+        "list_of_product_ids": [
+          "6398",
+          "5569",
+          "12541",
+          "16373",
+          "24501"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: battery",
+        "raw_product_name": "BATTERY",
+        "list_of_product_ids": [
+          "17766",
+          "17749",
+          "18656",
+          "18679",
+          "18678",
+          "18677",
+          "36615"
+        ]
+      }
+    }
+  ]
+}

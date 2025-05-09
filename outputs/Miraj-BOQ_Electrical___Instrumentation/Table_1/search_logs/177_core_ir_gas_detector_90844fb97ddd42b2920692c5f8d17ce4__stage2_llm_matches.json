@@ -1,0 +1,70 @@
+{
+  "query": "core_product_name: ir gas detector | feature_or_specifications: type: flameproof, ex-proof (explosion proof), ingress protection: ip-66, area suitability: hazardous area zone-1, iia/b t3, accessories: canopy, other accessories included",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: gas detector",
+        "raw_product_name": "GAS DETECTORS",
+        "list_of_product_ids": [
+          "9806",
+          "9813",
+          "9861",
+          "19902",
+          "34955",
+          "36092",
+          "36086",
+          "36094",
+          "39317"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: multi gas detector",
+        "raw_product_name": "MULTI GAS DETECTOR",
+        "list_of_product_ids": [
+          "16470",
+          "16479",
+          "16499",
+          "34957"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: portable gas detector",
+        "raw_product_name": "PORTABLE GAS DETECTOR",
+        "list_of_product_ids": [
+          "13831",
+          "14336",
+          "14674",
+          "14682",
+          "14934",
+          "14935",
+          "14936",
+          "14937",
+          "19376",
+          "23210",
+          "33600",
+          "33610",
+          "33673",
+          "33689",
+          "34959",
+          "36085"
+        ]
+      }
+    }
+  ]
+}

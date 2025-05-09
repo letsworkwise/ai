@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: fire alarm system panel | feature_or_specifications: included: electronic card, electrical accessories, hardware and software for integration, communication: modbus, profibus, oem recommended serial link, common fault alarm, integration: plc(programmable logic controller)/esd(emergency shutdown device) at cr(control room), high availability and reliability, standard: ul(underwriters laboratories) listed, includes: manual call points (non-ex-proof and flame proof), isolator modules, control modules, multi criteria detector, response indicators, audio visual fire alarm siren, reference: fire detection drawing & ilsd(integrated leak detection system) drawing",
+  "retrieval_results": [
+    {
+      "id": "variant-413ae249-19f3-5238-9e1e-81c9b8824457",
+      "score": 0.8746809,
+      "metadata": {
+        "text": "core_product_name: addressable fire alarm panel",
+        "raw_product_name": "ADDRESSABLE FIRE ALARM PANEL",
+        "list_of_product_ids": "37759,37764,37769,37774,37780,37790",
+        "core_id": 48.0
+      }
+    },
+    {
+      "id": "variant-a4ebd8e5-7045-562f-b9cd-963999de4c2c",
+      "score": 0.8706389,
+      "metadata": {
+        "text": "core_product_name: fire alarm panel",
+        "raw_product_name": "FIRE ALARM PANEL",
+        "list_of_product_ids": "8896,8906,9845,9853,9863,8933,9076,9137,14320,14321,10735,16601,16125,34974,35217,36088,36458",
+        "core_id": 837.0
+      }
+    },
+    {
+      "id": "variant-132c533b-320e-537c-a412-ad6fd7b77d90",
+      "score": 0.8613437,
+      "metadata": {
+        "text": "core_product_name: fire alarm system",
+        "raw_product_name": "FIRE ALARM SYSTEM",
+        "list_of_product_ids": "6432,5602,10173,12289,12290,17862,18175,31111,25486,31761,31058,36635,36636,37801,37806,34963,34973,34970,34975,34988,34991,34998,35001,35005,35010,35015,35218,36087,36459,36517",
+        "core_id": 838.0
+      }
+    },
+    {
+      "id": "variant-38556993-23d0-512b-884c-fd1ea12aff26",
+      "score": 0.86068076,
+      "metadata": {
+        "text": "core_product_name: fire detection system",
+        "raw_product_name": "FIRE DETECTION SYSTEM",
+        "list_of_product_ids": "14244,17861,18174,20243,20302,22254,24381,24380,24695,31751,31753,26666,26669,26674,31756,31760,34972,34989,35006,35012,35016,35220,36456",
+        "core_id": 844.0
+      }
+    },
+    {
+      "id": "variant-44ef153c-f8c1-591b-bcfa-ee12e6ec437f",
+      "score": 0.8549398,
+      "metadata": {
+        "text": "core_product_name: fire and gas detection system",
+        "raw_product_name": "FIRE & GAS DETECTION SYSTEMS",
+        "list_of_product_ids": "6550,5721,10943,10040,11234,11244,11420,11423,11421,11425,12425,12818,17482,17481,19831,29874,37765,37770,37775,37791,35578,36117,36233,36385,36457",
+        "core_id": 836.0
+      }
+    },
+    {
+      "id": "variant-9958feea-789c-5aae-a14d-84cf4d8178d7",
+      "score": 0.8531639,
+      "metadata": {
+        "text": "core_product_name: fire detector",
+        "raw_product_name": "FIRE DETECTORS",
+        "list_of_product_ids": "20032,20033,20031,20040,21851,20044,24696,31749,31750,31752,31754,31755,26667,26668,26673,31757,31758,31759,37800,37805,35219,39917",
+        "core_id": 842.0
+      }
+    },
+    {
+      "id": "variant-0c022592-495c-58f9-9f30-f0bec8ff1ccd",
+      "score": 0.8514623,
+      "metadata": {
+        "text": "core_product_name: alarm card",
+        "raw_product_name": "ALARM CARDS",
+        "list_of_product_ids": "14173,15213,20875,22617",
+        "core_id": 83.0
+      }
+    },
+    {
+      "id": "variant-9d54fd87-21ea-5c1a-ae13-333a826234cd",
+      "score": 0.8505835,
+      "metadata": {
+        "text": "core_product_name: system panel",
+        "raw_product_name": "SYSTEM PANELS",
+        "list_of_product_ids": "1,413,621,099",
+        "core_id": 2180.0
+      }
+    },
+    {
+      "id": "variant-08ab2073-33de-5332-97b1-00494dc30690",
+      "score": 0.8505152,
+      "metadata": {
+        "text": "core_product_name: fire fighting system",
+        "raw_product_name": "FIRE FIGHTING SYSTEM",
+        "list_of_product_ids": "7097,7424,8287,8311,8734,14746,16265,24219,22762,22787,23519,20982,34962,34969,35000,35046",
+        "core_id": 849.0
+      }
+    },
+    {
+      "id": "variant-4bd75da8-b3ea-55fd-8691-73600fd313e0",
+      "score": 0.8500219,
+      "metadata": {
+        "text": "core_product_name: programmable logic controller | acronymed_core_product_name: programmable logic controller (esd) | type_or_class: ESD (Emergency Shutdown Device)",
+        "raw_product_name": "PROGRAMMABLE LOGIC CONTROLLER(ESD)",
+        "list_of_product_ids": "14140,15109,20984,23213,36203,36352",
+        "core_id": 1794.0
+      }
+    },
+    {
+      "id": "variant-2b04f37a-fd10-57bc-a269-68ba91254353",
+      "score": 0.85000116,
+      "metadata": {
+        "text": "core_product_name: flame detector",
+        "raw_product_name": "FLAME DETECTOR",
+        "list_of_product_ids": "14274,14672,14680,18190",
+        "core_id": 888.0
+      }
+    },
+    {
+      "id": "variant-456432a9-ab05-55ad-9b92-0bf762831942",
+      "score": 0.8494295,
+      "metadata": {
+        "text": "core_product_name: fire fighting accessory",
+        "raw_product_name": "FIRE FIGHTING ACCESSORIES",
+        "list_of_product_ids": "16168,16173,16277,16274,16273,16272,16271,16266,21064,21057,34088",
+        "core_id": 845.0
+      }
+    },
+    {
+      "id": "variant-8a57e52c-1f06-5280-b324-e236f82c9078",
+      "score": 0.84911174,
+      "metadata": {
+        "text": "core_product_name: fire suppression system",
+        "raw_product_name": "FIRE SUPPRESSION SYSTEM",
+        "list_of_product_ids": "32132,32131,36678,34971,34964,34983,34992,35004,35222",
+        "core_id": 859.0
+      }
+    },
+    {
+      "id": "variant-62910790-3afc-5300-9796-f3874f331d36",
+      "score": 0.8489339,
+      "metadata": {
+        "text": "core_product_name: flame proof control station | protection_features: Flame proof",
+        "raw_product_name": "CONTROL STATIONS-FLAME PROOF",
+        "list_of_product_ids": "6396,5567,10309,10586,10556,10599,16896,24100,22849,24498,24497,24496,24495,35767",
+        "core_id": 463.0
+      }
+    },
+    {
+      "id": "variant-95648999-c319-51e0-b255-72a38aa25e7e",
+      "score": 0.8485936,
+      "metadata": {
+        "text": "core_product_name: fire fighting equipment",
+        "raw_product_name": "FIRE FIGHTING EQUIPMENT",
+        "list_of_product_ids": "19962,21484,21482,21480,24379,26862,19964,37442,37440,37441,37443,37444,34995",
+        "core_id": 846.0
+      }
+    },
+    {
+      "id": "variant-04557174-00a9-5154-8b28-71d131bdaca2",
+      "score": 0.8480183,
+      "metadata": {
+        "text": "core_product_name: lighting and power distribution panel",
+        "raw_product_name": "Lighting & Power Distribution Panel",
+        "list_of_product_ids": "18723,18718,18735,18734,18733,19012,18997,18728,19000,38293,35861,38156",
+        "core_id": 1413.0
+      }
+    },
+    {
+      "id": "variant-28ec42bf-d339-5320-a74e-954d0df9085c",
+      "score": 0.847985,
+      "metadata": {
+        "text": "core_product_name: emergency lighting system",
+        "raw_product_name": "EMERGENCY LIGHTING SYSTEM",
+        "list_of_product_ids": "3,216,232,163",
+        "core_id": 740.0
+      }
+    },
+    {
+      "id": "variant-cd96ce6b-0cde-5594-93c5-89e5cbf7a710",
+      "score": 0.8479435,
+      "metadata": {
+        "text": "core_product_name: leak detection system",
+        "raw_product_name": "LEAK DETECTION SYSTEM",
+        "list_of_product_ids": "14255,18743,22983,31110,38294,34996",
+        "core_id": 1324.0
+      }
+    },
+    {
+      "id": "variant-4bf75b6d-4e44-564f-acf2-582be345eaf7",
+      "score": 0.84695065,
+      "metadata": {
+        "text": "core_product_name: electrical item",
+        "raw_product_name": "ELECTRICALS ITEMS",
+        "list_of_product_ids": "240,232,403,028,576",
+        "core_id": 713.0
+      }
+    },
+    {
+      "id": "variant-6c44a355-32b7-537d-902f-7c52b25ea550",
+      "score": 0.846693,
+      "metadata": {
+        "text": "core_product_name: portable fire extinguisher",
+        "raw_product_name": "Portable Fire Extinguishers",
+        "list_of_product_ids": "7103,7430,8261,15762,16407,18427,23511,38383,37506",
+        "core_id": 1837.0
+      }
+    },
+    {
+      "id": "variant-9f376ba2-bfd9-569d-9df5-c33008feb16d",
+      "score": 0.8466114,
+      "metadata": {
+        "text": "core_product_name: relay and control panel",
+        "raw_product_name": "RELAY & CONTROL PANEL",
+        "list_of_product_ids": "6389,5560,11172,11457,7888,19357,24445,24450,24448,24827,24815,24451,19363,24930,24941,38203,38204",
+        "core_id": 187.0
+      }
+    },
+    {
+      "id": "variant-95725655-b9d5-5abd-b826-0ad218cf768a",
+      "score": 0.846602,
+      "metadata": {
+        "text": "core_product_name: instrument panel",
+        "raw_product_name": "INSTRUMENT PANEL",
+        "list_of_product_ids": "13720,14806,14814,14824,21097,22773,36101",
+        "core_id": 1256.0
+      }
+    },
+    {
+      "id": "variant-00f51218-255e-5e84-b9b5-3bd24df941ba",
+      "score": 0.8464337,
+      "metadata": {
+        "text": "core_product_name: fire hydrant system",
+        "raw_product_name": "FIRE HYDRANT SYSTEM",
+        "list_of_product_ids": "14125,20105,38855,38687,38883,38824,38885,38889",
+        "core_id": 855.0
+      }
+    },
+    {
+      "id": "variant-1fb108ad-2a85-5385-a3ab-0c77de7e6de9",
+      "score": 0.84635985,
+      "metadata": {
+        "text": "core_product_name: flood alarm system",
+        "raw_product_name": "FLOOD ALARM SYSTEM",
+        "list_of_product_ids": "243,872,438,626,860",
+        "core_id": 918.0
+      }
+    },
+    {
+      "id": "variant-3ed2b8d0-9200-57ee-93d7-347d83b99d24",
+      "score": 0.8461562,
+      "metadata": {
+        "text": "core_product_name: conventional relay and control panel",
+        "raw_product_name": "CONVENTIONAL RELAY & CONTROL PANEL",
+        "list_of_product_ids": "38185,38198,38206,38387",
+        "core_id": 470.0
+      }
+    },
+    {
+      "id": "variant-61a25548-383b-5b43-b6f5-a3fe1adbb579",
+      "score": 0.8461324,
+      "metadata": {
+        "text": "core_product_name: fire protection system | accessories_or_attachments: Valves and Accessories",
+        "raw_product_name": "FIRE PROTECTION SYSTEM (VALVES & ACC.)",
+        "list_of_product_ids": "6603,5773,10731,7858,35221",
+        "core_id": 858.0
+      }
+    },
+    {
+      "id": "variant-ba352a37-db3b-5375-bfcd-46763d5daee7",
+      "score": 0.8461264,
+      "metadata": {
+        "text": "core_product_name: flame scanner",
+        "raw_product_name": "FLAME SCANNER",
+        "list_of_product_ids": "5965,6793,10940,7007,11921",
+        "core_id": 893.0
+      }
+    },
+    {
+      "id": "variant-c03e0ba5-aa70-53fc-9eb3-267f46d459cb",
+      "score": 0.84577966,
+      "metadata": {
+        "text": "core_product_name: cathodic protection power supply module",
+        "raw_product_name": "CATHODIC PROTECTION POWER SUPPLY MODULE",
+        "list_of_product_ids": "6413,5583,8417,12209",
+        "core_id": 315.0
+      }
+    },
+    {
+      "id": "variant-2e21f2c9-7d64-55fd-aee2-28e0f9186645",
+      "score": 0.8455648,
+      "metadata": {
+        "text": "core_product_name: flameproof power distribution board | protection_features: Flameproof",
+        "raw_product_name": "FLAMEPROOF POWER DISTRIBUTION BOARD",
+        "list_of_product_ids": "13583,14851,20281,22858,26788,26787,26786,26789,35773",
+        "core_id": 899.0
+      }
+    },
+    {
+      "id": "variant-c4660c0c-9632-5220-97c7-a36a0f62297c",
+      "score": 0.8453153,
+      "metadata": {
+        "text": "core_product_name: electronic control",
+        "raw_product_name": "ELECTRONIC CONTROL & POWER",
+        "list_of_product_ids": "24342,22285,22284,22283,22282,22265,22277,26869,27491",
+        "core_id": 721.0
+      }
+    }
+  ]
+}

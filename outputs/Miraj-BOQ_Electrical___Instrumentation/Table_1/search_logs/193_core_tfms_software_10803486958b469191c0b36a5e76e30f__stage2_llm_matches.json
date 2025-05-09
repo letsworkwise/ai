@@ -1,0 +1,56 @@
+{
+  "query": "core_product_name: tfms software | size: licence: minimum 12 nos | feature_or_specifications: make: same as radar manufacturer, compatibility: servo gauges",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: computer software",
+        "raw_product_name": "COMPUTER SOFTWARE",
+        "list_of_product_ids": [
+          "193",
+          "121",
+          "931",
+          "327",
+          "257"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: measurement system",
+        "raw_product_name": "MEASUREMENT SYSTEM",
+        "list_of_product_ids": [
+          "188",
+          "511",
+          "884",
+          "918",
+          "973"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: technological control system",
+        "raw_product_name": "TECHNOLOGICAL CONTROL SYSTEM",
+        "list_of_product_ids": [
+          "236",
+          "112",
+          "356",
+          "823",
+          "584"
+        ]
+      }
+    }
+  ]
+}

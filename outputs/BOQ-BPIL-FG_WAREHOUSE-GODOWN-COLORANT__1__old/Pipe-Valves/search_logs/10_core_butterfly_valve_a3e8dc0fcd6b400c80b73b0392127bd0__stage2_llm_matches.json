@@ -1,0 +1,71 @@
+{
+  "query": "core_product_name: butterfly valve | size: nominal bore: 100 | feature_or_specifications: manufacturer: L&T or AUDCO",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: butterfly valve | material: CSS (Cast Stainless Steel)",
+        "raw_product_name": "VALVE BUTTERFLY -CSS",
+        "list_of_product_ids": [
+          "6250",
+          "5419",
+          "8174",
+          "8177",
+          "8339",
+          "8559",
+          "8701",
+          "12338",
+          "19424",
+          "23770",
+          "25968",
+          "35495"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: butterfly valve | material: PTFE (Polytetrafluoroethylene)",
+        "raw_product_name": "VALVE BUTTERFLY (PTFE SEATED)",
+        "list_of_product_ids": [
+          "6252",
+          "5421",
+          "8179",
+          "8664",
+          "12453",
+          "25973",
+          "35500"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: butterfly valve | type_or_class: Butterfly | material: CAS",
+        "raw_product_name": "VALVE BUTTERFLY -CAS",
+        "list_of_product_ids": [
+          "6251",
+          "5420",
+          "8175",
+          "8178",
+          "12332",
+          "19425",
+          "25970",
+          "35493"
+        ]
+      }
+    }
+  ]
+}

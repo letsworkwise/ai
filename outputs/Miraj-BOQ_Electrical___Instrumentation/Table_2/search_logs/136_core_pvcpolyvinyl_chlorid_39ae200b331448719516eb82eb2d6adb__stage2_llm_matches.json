@@ -1,0 +1,59 @@
+{
+  "query": "core_product_name: pvc(polyvinyl chloride) conduit casing pipe",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: rigid rigid polyvinyl chloride (PVC) conduit pipe | material: Polyvinyl Chloride (PVC)",
+        "raw_product_name": "RIGID PVC CONDUIT PIPE",
+        "list_of_product_ids": [
+          "20551",
+          "20515",
+          "20592",
+          "20631",
+          "20685",
+          "20743"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "PVC Conduit",
+        "list_of_product_ids": [
+          "16287",
+          "17401",
+          "21575",
+          "16288"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "Material",
+        "accessories_or_attachments"
+      ],
+      "match_details": {
+        "text": "core_product_name: conduit | material: PVC (Polyvinyl Chloride) | accessories_or_attachments: accessories",
+        "raw_product_name": "PVC Conduit and accessories",
+        "list_of_product_ids": [
+          "7222",
+          "7548",
+          "10494",
+          "10502"
+        ]
+      }
+    }
+  ]
+}

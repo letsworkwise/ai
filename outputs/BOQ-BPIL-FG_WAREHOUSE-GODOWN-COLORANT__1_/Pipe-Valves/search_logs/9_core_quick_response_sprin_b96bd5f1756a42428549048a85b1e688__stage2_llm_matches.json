@@ -1,0 +1,70 @@
+{
+  "query": "core_product_name: quick response sprinkler | acronymed_core_product_name: q.b sprinkler | feature_or_specifications: make: newage, type: pendent, temperature rating: 68° c, k-factor: 80",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: sprinkler",
+        "raw_product_name": "SPRINKLER",
+        "list_of_product_ids": [
+          "13482",
+          "13498",
+          "13499",
+          "31059",
+          "37496",
+          "35014",
+          "37488",
+          "37491",
+          "37492",
+          "37495"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: water sprinkler",
+        "raw_product_name": "WATER SPRINKLER",
+        "list_of_product_ids": [
+          "6032",
+          "5211",
+          "8921",
+          "8925",
+          "8928",
+          "8956",
+          "8959",
+          "9061",
+          "9066",
+          "9070",
+          "9101",
+          "9105",
+          "22756",
+          "31060",
+          "34994"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: fire water sprinkler system",
+        "raw_product_name": "FIRE WATER SPRINKLER SYSTEM",
+        "list_of_product_ids": [
+          "23980",
+          "23982",
+          "23983",
+          "27056"
+        ]
+      }
+    }
+  ]
+}

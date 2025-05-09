@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: quick response sprinkler | acronymed_core_product_name: q.b sprinkler | size: type: upright, temperature rating: 68° c, k-factor: 200 | feature_or_specifications: make: newage, type: esfr (early suppression fast response)",
+  "retrieval_results": [
+    {
+      "id": "variant-7fa3b25f-1368-5176-aad5-701306d3255c",
+      "score": 0.8469634,
+      "metadata": {
+        "text": "core_product_name: sprinkler",
+        "raw_product_name": "SPRINKLER",
+        "list_of_product_ids": "13482,13498,13499,31059,37496,35014,37488,37491,37492,37495",
+        "core_id": 2090.0
+      }
+    },
+    {
+      "id": "variant-db5bf6a9-26d9-5efa-913d-ef1f02ca3c2b",
+      "score": 0.84657264,
+      "metadata": {
+        "text": "core_product_name: water sprinkler",
+        "raw_product_name": "WATER SPRINKLER",
+        "list_of_product_ids": "6032,5211,8921,8925,8928,8956,8959,9061,9066,9070,9101,9105,22756,31060,34994",
+        "core_id": 2455.0
+      }
+    },
+    {
+      "id": "variant-7c83b144-2261-5ef3-ada0-0823013e3c85",
+      "score": 0.8455833,
+      "metadata": {
+        "text": "core_product_name: fire water sprinkler system",
+        "raw_product_name": "FIRE WATER SPRINKLER SYSTEM",
+        "list_of_product_ids": "23980,23982,23983,27056",
+        "core_id": 864.0
+      }
+    },
+    {
+      "id": "variant-9988271a-59ee-57cb-9616-702a2cea2636",
+      "score": 0.84086335,
+      "metadata": {
+        "text": "core_product_name: spray nozzle | type_or_class: Fire Fighting",
+        "raw_product_name": "SPRAY NOZZLE- FIRE FIGHTING",
+        "list_of_product_ids": "6036,5215,8013,8012,8262,8263,8294,8738,8923,8927,8929,8958,9064,9069,9072,9104,9145,19631,24003,21213,19986,36157",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-7ff74fb8-0733-5a78-b024-455c93c2edc4",
+      "score": 0.84060043,
+      "metadata": {
+        "text": "core_product_name: foam sprinkler",
+        "raw_product_name": "FOAM SPRINKLER",
+        "list_of_product_ids": "8996,8995,9062,9067,9071,9102,24711",
+        "core_id": 970.0
+      }
+    },
+    {
+      "id": "variant-5cab0b16-4402-5956-badd-9d7271a6904a",
+      "score": 0.83589786,
+      "metadata": {
+        "text": "core_product_name: quick erect scaffolding | type_or_class: Furnace",
+        "raw_product_name": "QUICK ERECT SCAFFOLDING - FURNACE",
+        "list_of_product_ids": "22517,22543,22548,22557,35422",
+        "core_id": 1848.0
+      }
+    },
+    {
+      "id": "variant-ea91e298-a5e8-5fb5-9567-6e22f6a8d8d7",
+      "score": 0.8354927,
+      "metadata": {
+        "text": "core_product_name: quick opening closure | type_or_class: pipelines",
+        "raw_product_name": "QUICK OPENING CLOSURE(PIPELINES)",
+        "list_of_product_ids": "5373,6204,11485,16151,23564,30766,30901,36603",
+        "core_id": 1849.0
+      }
+    },
+    {
+      "id": "variant-7606644a-4edd-5fea-81c9-7414b8a77e6e",
+      "score": 0.8351053,
+      "metadata": {
+        "text": "core_product_name: spray nozzle",
+        "raw_product_name": "SPRAY NOZZLES",
+        "list_of_product_ids": "8288",
+        "core_id": 2088.0
+      }
+    },
+    {
+      "id": "variant-0f65ae9a-96f2-5688-a949-d7158ab2dd48",
+      "score": 0.83318985,
+      "metadata": {
+        "text": "core_product_name: quick connect fitting | construction_features: quick connect | construction_features: quick connect",
+        "raw_product_name": "FITTINGS-QUICK CONNECT BODY & STEM",
+        "list_of_product_ids": "229,102,291,128,622",
+        "core_id": 883.0
+      }
+    },
+    {
+      "id": "variant-0b1eb72b-24d6-57b1-8753-3b0839932dde",
+      "score": 0.8329815,
+      "metadata": {
+        "text": "core_product_name: vapour absorption refrigeration system",
+        "raw_product_name": "REFRIGERATION SYSTEM- VAPOUR ABSORPTION",
+        "list_of_product_ids": "7025,7353,10213,19825,22804",
+        "core_id": 1885.0
+      }
+    },
+    {
+      "id": "variant-47fd86fe-de58-5526-978d-5a567f35e2d7",
+      "score": 0.8307587,
+      "metadata": {
+        "text": "core_product_name: air heater | type_or_class: Direct Fired",
+        "raw_product_name": "AIR HEATER (DIRECT FIRED)",
+        "list_of_product_ids": "5986,5165,10747,10753,8325,8433,8870,33905",
+        "core_id": 72.0
+      }
+    },
+    {
+      "id": "variant-7a81ebd3-21d8-54a3-a240-c819d8c11843",
+      "score": 0.83070743,
+      "metadata": {
+        "text": "core_product_name: quick opening end closure",
+        "raw_product_name": "QUICK OPENING END CLOSURE",
+        "list_of_product_ids": "15436,18787,22338,36605,34856",
+        "core_id": 1851.0
+      }
+    },
+    {
+      "id": "variant-a17fd78e-0a80-5e83-8bfc-b675b3dda993",
+      "score": 0.83060396,
+      "metadata": {
+        "text": "core_product_name: refilling service fire extinguisher",
+        "raw_product_name": "FIRE EXTINGUISHER REFILLING SERVICE",
+        "list_of_product_ids": "22319,22315,22312,27052",
+        "core_id": 853.0
+      }
+    },
+    {
+      "id": "variant-d57d54de-f40c-539e-8057-478b97a834b0",
+      "score": 0.8297514,
+      "metadata": {
+        "text": "core_product_name: thermal relief valve",
+        "raw_product_name": "THERMAL RELIEF VALVE",
+        "list_of_product_ids": "14016,15348,15353,15358,22349,36633,37438,37439,34694,34696,34698,34700",
+        "core_id": 2242.0
+      }
+    },
+    {
+      "id": "variant-1d9db4e0-7018-5ebc-90d6-8520667bbe4e",
+      "score": 0.8294724,
+      "metadata": {
+        "text": "core_product_name: fire sealing system | type_or_class: Type B",
+        "raw_product_name": "Fire sealing system Type B",
+        "list_of_product_ids": "731,273,277,979",
+        "core_id": 1002.0
+      }
+    },
+    {
+      "id": "variant-a559bf05-9a48-5c02-825d-99be39c8bab7",
+      "score": 0.8294628,
+      "metadata": {
+        "text": "core_product_name: reaceable liner butterfly valve | special_attributes: Low Torque",
+        "raw_product_name": "VALVE BUTTERFLY REACEABLE LINER (LOW TORQUE)",
+        "list_of_product_ids": "154,391,879,135,507",
+        "core_id": 2345.0
+      }
+    },
+    {
+      "id": "variant-35d2a4d9-ecce-5dfe-b8c6-a6d351b3c8ed",
+      "score": 0.82925797,
+      "metadata": {
+        "text": "core_product_name: special control valve | type_or_class: Flush Bottom",
+        "raw_product_name": "SPECIAL CONTROL VALVE ( FLUSH BOTTOM)",
+        "list_of_product_ids": "6,513,568,428,795",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-8a57e52c-1f06-5280-b324-e236f82c9078",
+      "score": 0.8291862,
+      "metadata": {
+        "text": "core_product_name: fire suppression system",
+        "raw_product_name": "FIRE SUPPRESSION SYSTEM",
+        "list_of_product_ids": "32132,32131,36678,34971,34964,34983,34992,35004,35222",
+        "core_id": 859.0
+      }
+    },
+    {
+      "id": "variant-b8253929-c920-5130-9b6e-7e7371c7d50b",
+      "score": 0.82915,
+      "metadata": {
+        "text": "core_product_name: skin type resistance temperature detector",
+        "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR(SKIN TYPE)",
+        "list_of_product_ids": "182,021,821,418,562",
+        "core_id": 1903.0
+      }
+    },
+    {
+      "id": "variant-87ef4e1c-9f69-58dd-b5c5-6b7ba29cc8a9",
+      "score": 0.8286031,
+      "metadata": {
+        "text": "core_product_name: special control valve | size_or_capacity: Low Cv (Low Flow Coefficient)",
+        "raw_product_name": "SPECIAL CONTROL VALVES (LOW CV)",
+        "list_of_product_ids": "6512,5683,28792,28791,28790,28788,28789",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-a947ab69-11c3-5478-b1b6-fa5978c60e03",
+      "score": 0.8284314,
+      "metadata": {
+        "text": "core_product_name: flushing apparatus",
+        "raw_product_name": "FLUSHING APPARATUS",
+        "list_of_product_ids": "143,601,444,714,482",
+        "core_id": 958.0
+      }
+    },
+    {
+      "id": "variant-e710300d-3583-5d7e-8fed-45342f49a4f0",
+      "score": 0.82836515,
+      "metadata": {
+        "text": "core_product_name: special control valve",
+        "raw_product_name": "SPECIAL CONTROL VALVES",
+        "list_of_product_ids": "13990,18539,23763,22458,22425,22487,22480,38452,40026",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-11552573-e1b5-542c-8c2d-23e255c34741",
+      "score": 0.8281505,
+      "metadata": {
+        "text": "core_product_name: special control valve | type_or_class: Mixed",
+        "raw_product_name": "SPECIAL CONTROL VALVES-MIXED",
+        "list_of_product_ids": "6502,5673,8695,12188,28214,28213,28212,28211,28210,28209,28208,28207,28206,36259,36412",
+        "core_id": 2075.0
+      }
+    },
+    {
+      "id": "variant-b15e4332-fd46-5fd8-b4fb-936a9774dd2d",
+      "score": 0.8280969,
+      "metadata": {
+        "text": "core_product_name: fast bus transfer panel",
+        "raw_product_name": "FAST BUS TRANSFER PANEL",
+        "list_of_product_ids": "14205,36918,22097,24831,24819,24934,24945,33490,33680,36146",
+        "core_id": 801.0
+      }
+    },
+    {
+      "id": "variant-ee21be37-7683-5a3d-8756-84b1a08b8fa6",
+      "score": 0.82806176,
+      "metadata": {
+        "text": "core_product_name: fabric belting | protection_features: FR (Fire Resistant) grade",
+        "raw_product_name": "FABRIC BELTING(FR GRADE)",
+        "list_of_product_ids": "1,396,214,555",
+        "core_id": 791.0
+      }
+    },
+    {
+      "id": "variant-3b6fd501-a4aa-5f0e-a5f4-14d273ad963d",
+      "score": 0.8277865,
+      "metadata": {
+        "text": "core_product_name: surge relief valve",
+        "raw_product_name": "SURGE RELIEF VALVE",
+        "list_of_product_ids": "6505,5676,12130,22347,28768",
+        "core_id": 2159.0
+      }
+    },
+    {
+      "id": "variant-4f8eeda9-b182-5e71-b249-50a86a4f2f70",
+      "score": 0.82775927,
+      "metadata": {
+        "text": "core_product_name: buzzer",
+        "raw_product_name": "BUZZER",
+        "list_of_product_ids": "200,472,009,020,712",
+        "core_id": 263.0
+      }
+    },
+    {
+      "id": "variant-2ba5bcd4-a54a-5296-8dad-fc0ac3d9896f",
+      "score": 0.82765406,
+      "metadata": {
+        "text": "core_product_name: slurry reciprocating pump",
+        "raw_product_name": "PUMP-SLURRY.RECIPRO",
+        "list_of_product_ids": "5,900,672,910,837",
+        "core_id": 1820.0
+      }
+    },
+    {
+      "id": "variant-808cb5c1-0ad0-5acd-a87d-fc7689db9ddd",
+      "score": 0.827608,
+      "metadata": {
+        "text": "core_product_name: tube suppression system",
+        "raw_product_name": "TUBE SUPPRESSION SYSTEM",
+        "list_of_product_ids": "3,247,232,473",
+        "core_id": 2284.0
+      }
+    },
+    {
+      "id": "variant-31a63a03-e3b0-5171-8ec3-c5e3e1658862",
+      "score": 0.8275556,
+      "metadata": {
+        "text": "core_product_name: flange | material: Carbon steel | construction_features: Raised Face (RF)",
+        "raw_product_name": "Carbon steel Flange (RF)",
+        "list_of_product_ids": "68,157,318",
+        "core_id": 216.0
+      }
+    }
+  ]
+}

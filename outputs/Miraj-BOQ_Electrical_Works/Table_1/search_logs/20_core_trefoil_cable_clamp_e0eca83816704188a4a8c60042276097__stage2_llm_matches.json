@@ -1,0 +1,50 @@
+{
+  "query": "core_product_name: trefoil cable clamp | size: cable: 1Cx300 mm2, diameter: 45mm | feature_or_specifications: sheathed: armoured cables, material: PVC (polyvinyl chloride)",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: fabricated clamp",
+        "raw_product_name": "FABRICATED COMPONENT - CLAMP",
+        "list_of_product_ids": [
+          "295",
+          "032",
+          "928",
+          "329",
+          "282"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [],
+      "match_details": {
+        "text": "core_product_name: clamp",
+        "raw_product_name": "CLAMP",
+        "list_of_product_ids": [
+          "26021",
+          "26020",
+          "26693",
+          "37265"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "Material"
+      ],
+      "match_details": {
+        "text": "core_product_name: ship repair | material: Insulation | material: Cement | material: PVC (Polyvinyl Chloride)",
+        "raw_product_name": "SHIP REPAIR (INSULATION/CEMENT/ PVC)",
+        "list_of_product_ids": [
+          "2",
+          "929",
+          "229",
+          "499"
+        ]
+      }
+    }
+  ]
+}

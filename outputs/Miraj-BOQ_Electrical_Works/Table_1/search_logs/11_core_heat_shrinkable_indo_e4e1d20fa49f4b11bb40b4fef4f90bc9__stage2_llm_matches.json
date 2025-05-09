@@ -1,0 +1,71 @@
+{
+  "query": "core_product_name: heat shrinkable indoor end termination | size: cable: 3C x 185 sqmm | feature_or_specifications: voltage: 6.6 kV (unarmoured extruded), gland: double compression, conductor material: aluminium",
+  "final_matches": [
+    {
+      "rank": 1,
+      "fields_matched": [
+        "core_product_name"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable termination and jointing kit",
+        "raw_product_name": "CABLE TERMN. & JOINTING KIT",
+        "list_of_product_ids": [
+          "6444",
+          "5614",
+          "11000",
+          "12263",
+          "12344",
+          "15781",
+          "23866",
+          "24503"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "Size & Capacity"
+      ],
+      "match_details": {
+        "text": "core_product_name: high tension (H.T.) cable | acronymed_core_product_name: h.t. cable | size_or_capacity: up to 33kV",
+        "raw_product_name": "H.T. CABLE UPTO 33KV",
+        "list_of_product_ids": [
+          "13744",
+          "14790",
+          "14822",
+          "14828",
+          "24064",
+          "23916",
+          "33894"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "fields_matched": [
+        "core_product_name",
+        "acronymed_core_product_name",
+        "Size & Capacity",
+        "Material",
+        "Type/Class"
+      ],
+      "match_details": {
+        "text": "core_product_name: cable | acronymed_core_product_name: ht (high tension) cable | size_or_capacity: up to 11kV | type_or_class: HT (High Tension) | material: XLPE (Cross Linked Polyethylene)",
+        "raw_product_name": "HT (up to 11kV) cable XLPE",
+        "list_of_product_ids": [
+          "13659",
+          "14787",
+          "14826",
+          "15794",
+          "16794",
+          "20058",
+          "20143",
+          "24054",
+          "23905"
+        ]
+      }
+    }
+  ]
+}

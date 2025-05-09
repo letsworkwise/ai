@@ -1,0 +1,168 @@
+{
+  "sheet_name": "Combine",
+  "boq_context": "|  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing and laying REINFORCED CEMENT CONCRETE OF M-25 GRADE with 20 mm and down size graded",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "",
+      "size": "aggregate size: 20 mm and down",
+      "feature_or_specifications": "grade: m-25",
+      "quantity": "650.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing and laying REINFORCED CEMENT CONCRETE OF M-30 GRADE with 20 mm and down size graded",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "",
+      "size": "aggregate size: 20 mm and down",
+      "feature_or_specifications": "grade: m-30",
+      "quantity": "5.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "RCC Flooring - Non FIM Items",
+      "core_product_name": "reinforced cement concrete flooring",
+      "acronymed_core_product_name": "rcc flooring",
+      "size": "",
+      "feature_or_specifications": "category: non fim items",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Providing and laying REINFORCED CEMENT CONCRETE OF M-30 GRADE with 20mm and down size graded crushed",
+      "core_product_name": "reinforced cement concrete",
+      "acronymed_core_product_name": "",
+      "size": "aggregate size: 20mm and down",
+      "feature_or_specifications": "grade: m-30, aggregate type: crushed",
+      "quantity": "5.0",
+      "unit": "m³"
+    },
+    {
+      "section_context_for_this_product_block": "supply items",
+      "full_product_description": "Precast Elements - Non FIM Items",
+      "core_product_name": "precast elements",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "category: non fim items",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      510,
+      519
+    ],
+    "original_rows": [
+      {
+        "0": 511,
+        "1": 0,
+        "2": "01CS.2.19.16",
+        "3": "Providing and laying REINFORCED CEMENT CONCRETE OF M-25 GRADE with 20 mm and down size graded",
+        "4": 650.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 512,
+        "1": 0,
+        "2": "01CS.2.19.17",
+        "3": "Providing and laying REINFORCED CEMENT CONCRETE OF M-30 GRADE with 20 mm and down size graded",
+        "4": 5.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 513,
+        "1": 0,
+        "2": "01CS.2.20",
+        "3": "RCC Flooring - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 514,
+        "1": 0,
+        "2": "01CS.2.20.4",
+        "3": "Providing and laying REINFORCED CEMENT CONCRETE OF M-30 GRADE with 20mm and down size graded crushed",
+        "4": 5.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 515,
+        "1": 0,
+        "2": "01CS.2.22",
+        "3": "Precast Elements - Non FIM Items",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 516,
+        "1": 0,
+        "2": "01CS.2.22.7",
+        "3": "Manufacturing, transporting, supplying and erecting in position Reinforced Cement Concrete PRECAST",
+        "4": 5.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 517,
+        "1": 0,
+        "2": "01CS.2.22.27",
+        "3": "Manufacturing, transporting, supplying and erecting in position Reinforced Cement Concrete PRECAST",
+        "4": 5.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 518,
+        "1": 0,
+        "2": "01CS.2.22.28",
+        "3": "Manufacturing, transporting, supplying and erecting in position Reinforced Cement Concrete PRECAST",
+        "4": 5.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 519,
+        "1": 0,
+        "2": "01CS.2.22.29",
+        "3": "Manufacturing, transporting, supplying and erecting in position Reinforced Cement Concrete PRECAST",
+        "4": 5.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": 520,
+        "1": 0,
+        "2": "01CS.2.22.30",
+        "3": "Manufacturing, transporting, supplying and erecting in position Reinforced Cement Concrete PRECAST",
+        "4": 5.0,
+        "5": "m³",
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2256,
+    "completion_tokens": 1083
+  }
+}

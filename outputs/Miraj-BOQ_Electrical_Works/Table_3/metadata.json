@@ -1,0 +1,14 @@
+{
+  "file_path": "inputs/Miraj-BOQ Electrical Works.xlsx",
+  "sheet_name": "Table 3",
+  "output_folder": "outputs/Miraj-BOQ_Electrical_Works/Table_3",
+  "schedule_path": "outputs/Miraj-BOQ_Electrical_Works/Table_3/schedule_only.xlsx",
+  "context_md": "Text:\nAnnexure 4 - Illumination Sytem (LED Based) |  |  |  | \n |  |  |  | \nSl. No. | Items Description | Description | UOM | Total Qty Supply\n | LED based Illumination System (Indoor & Outdoor) complete with LED Lighting fixtures, Lighting Panels, Lighting Poles, Switch boxes, single phase Receptacles, three phase welding Receptacles, Conduits, Portable emergency Lantern with sealed maintenance free lead acid battery, Cables, Wires, Poles, Earthing wires, etc. (Lighting fixture : Unit rate of installation of Lighting fixtures shall be applicable for the quantity supplied, complete with all the components required for installation e.g. support clamp, lamps, ballast, starter, igniter, terminal blocks, brackets, cable glands and lugs, threaded rods, anchor, clamps & connectors, Strut channels, Spring washers, Nuts, GSS H U Bolts, conduit Hanging clamps, Straight clamps, Z-Purling clamp, S-Hooks etc of required sizes.) All high bay fixtures will have vibration damper. |  |  | \nA | Lighting Fixtures |  |  | ",
+  "header_md": "1 | Luminaire Type FC06 (LED) | Industrial type LED fixture suitable for conduit/ surface/ suspended  mounting with integral driver aesthetically designed for Switchgear/ Equipment room/ stair case/ corridors. | Nos. | 2300",
+  "schedule_start_idx": 6,
+  "max_col_idx": 5,
+  "tokens_used_ctx": [
+    972,
+    314
+  ]
+}

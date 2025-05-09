@@ -1,0 +1,88 @@
+{
+  "sheet_name": "General Civil",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "GENERAL CIVIL > SITE GRADING & ROCK CUTTING FOR SITE GRADING",
+      "full_product_description": "Clearing and stripping of the areas earmarked for removing shrubs, grass, bushes, vegetables growth and other objectionable materials, trees upto and inclusive of girth of 30 cms. (girth measured at a height of one metre from ground level) including uprooting of roots, etc. leveling, dressing and consolidating the surface and stacking the serviceable material/ unserviceable material as directed by Engineer-in-Charge including dumping and dressing the same in demarcated areas etc. anywhere within the plant boundary limit and disposal of unserviceable materials outside the plant boundary limit as directed by Engineer-in-Charge.  (Disposal area shall be arranged by Contractor at his own cost. The rate quoted shall include all royalties, right-of-way etc. complete.) (ITEM NO: 01GC.5.60)",
+      "core_product_name": "clearing and stripping",
+      "acronymed_core_product_name": "",
+      "size": "tree girth: upto and inclusive of 30 cms (measured at a height of one metre from ground level), area: 0.63 ha",
+      "feature_or_specifications": "feature: includes uprooting of roots, leveling, dressing, consolidating, stacking serviceable/unserviceable material, dumping and dressing in demarcated areas, disposal of unserviceable materials outside plant boundary, disposal area by contractor at own cost, includes all royalties and right-of-way",
+      "quantity": "0.63",
+      "unit": "ha"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      0,
+      4
+    ],
+    "original_rows": [
+      {
+        "0": 649,
+        "1": 0,
+        "2": "01GC",
+        "3": "GENERAL CIVIL",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 650,
+        "1": 0,
+        "2": "01GC.5",
+        "3": "SITE GRADING & ROCK CUTTING FOR SITE GRADING",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 651,
+        "1": 0,
+        "2": "01GC.5.60",
+        "3": "Clearing and stripping of the areas earmarked for removing shrubs, grass, bushes, vegetables growth and other objectionable materials, trees upto and inclusive of girth of 30 cms. (girth measured at a height of one metre from ground level) including uprooting of roots, etc. leveling, dressing and consolidating the surface and stacking the serviceable material/ unserviceable material as directed by Engineer-in-Charge including dumping and dressing the same in demarcated areas etc. anywhere within the plant boundary limit and disposal of unserviceable materials outside the plant boundary limit as directed by Engineer-in-Charge.  (Disposal area shall be arranged by Contractor at his own cost. The rate quoted shall include all royalties, right-of-way etc. complete.)",
+        "4": 0.63,
+        "5": "ha",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 652,
+        "1": 0,
+        "2": "01GC.6",
+        "3": "ROADS & FLEXIBLE PAVEMENT (UPTO WBM/WMM LAYER)",
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      },
+      {
+        "0": 653,
+        "1": 0,
+        "2": "01GC.6.11",
+        "3": "Supplying and laying of stone aggregate of 63mm down to 45mm size for WBM layer Base Course, tough, sound, clean and durable including cost of stone aggregate, all royalties, taxes, handling, transportation to site, unloading the same by the side of road with all leads and lifts, spreading and laying to form water bound macadam in one layer of 75mm compacted thickness to proper grade, camber and level, filling voids with screenings and binding material of plasticity index upto 6%, including cost of supply of screening and binding material, consolidating with power driven road roller, watering, with all leads and lifts etc. complete as per drawings, specifications and directions of Engineer-in-Charge.",
+        "4": 5940.0,
+        "5": "m²",
+        "6": NaN,
+        "7": NaN,
+        "8": NaN,
+        "9": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2378,
+    "completion_tokens": 756
+  }
+}

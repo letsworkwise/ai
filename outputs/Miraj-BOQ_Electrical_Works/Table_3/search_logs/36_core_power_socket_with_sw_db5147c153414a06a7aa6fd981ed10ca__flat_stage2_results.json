@@ -1,0 +1,471 @@
+{
+  "flat_stage2_results": [
+    {
+      "retrieval_score": 0.8469778,
+      "text": "core_product_name: electrical accessory",
+      "core_id": 701.0,
+      "raw_product_name": "ELECTRICAL ACCESSORIES",
+      "list_of_product_ids": [
+        "211",
+        "632",
+        "705",
+        "121",
+        "165"
+      ]
+    },
+    {
+      "retrieval_score": 0.84597635,
+      "text": "core_product_name: switch plate",
+      "core_id": 2169.0,
+      "raw_product_name": "SWITCH PLATE",
+      "list_of_product_ids": [
+        "20511",
+        "20547",
+        "20587",
+        "20634",
+        "20689",
+        "20747"
+      ]
+    },
+    {
+      "retrieval_score": 0.84264404,
+      "text": "core_product_name: power supply",
+      "core_id": 250.0,
+      "raw_product_name": "BUIL POWER SUPPLY",
+      "list_of_product_ids": [
+        "5",
+        "937",
+        "676",
+        "612",
+        "114"
+      ]
+    },
+    {
+      "retrieval_score": 0.8410652,
+      "text": "core_product_name: socket",
+      "core_id": 2048.0,
+      "raw_product_name": "SOCKET",
+      "list_of_product_ids": [
+        "7559",
+        "7233",
+        "10501",
+        "22289",
+        "26077",
+        "26073",
+        "26072",
+        "36553",
+        "37010",
+        "37292",
+        "35869",
+        "35891",
+        "35944"
+      ]
+    },
+    {
+      "retrieval_score": 0.84073323,
+      "text": "core_product_name: level switch | protection_features: Explosion Proof",
+      "core_id": 1337.0,
+      "raw_product_name": "Level Switches (Explosion Proof)",
+      "list_of_product_ids": [
+        "17095",
+        "17094",
+        "17093",
+        "17092",
+        "17091",
+        "17090",
+        "17096",
+        "27177"
+      ]
+    },
+    {
+      "retrieval_score": 0.8402705,
+      "text": "core_product_name: fuse switch combination",
+      "core_id": 991.0,
+      "raw_product_name": "FUSE SWITCH COMBINATION",
+      "list_of_product_ids": [
+        "6470",
+        "5641",
+        "10189",
+        "19034",
+        "19033",
+        "19032",
+        "26087",
+        "38285"
+      ]
+    },
+    {
+      "retrieval_score": 0.839339,
+      "text": "core_product_name: surge protection device",
+      "core_id": 2156.0,
+      "raw_product_name": "SURG PROTECTION DEVICES",
+      "list_of_product_ids": [
+        "5954",
+        "6782",
+        "12132",
+        "14671",
+        "14679",
+        "18191",
+        "20174",
+        "36159"
+      ]
+    },
+    {
+      "retrieval_score": 0.83895004,
+      "text": "core_product_name: heavy duty switch",
+      "core_id": 1118.0,
+      "raw_product_name": "HEAVY DUTY SWITCHES",
+      "list_of_product_ids": [
+        "6451",
+        "5621",
+        "24539",
+        "24538"
+      ]
+    },
+    {
+      "retrieval_score": 0.83886313,
+      "text": "core_product_name: switch",
+      "core_id": 603.0,
+      "raw_product_name": "SWITCHES",
+      "list_of_product_ids": [
+        "13967",
+        "14807",
+        "15296",
+        "36552",
+        "17540",
+        "24101",
+        "22217",
+        "22288",
+        "23682"
+      ]
+    },
+    {
+      "retrieval_score": 0.8385546,
+      "text": "core_product_name: switch",
+      "core_id": 603.0,
+      "raw_product_name": "DISTANCE SWITCHES",
+      "list_of_product_ids": [
+        "19150",
+        "27607",
+        "19152",
+        "38467"
+      ]
+    },
+    {
+      "retrieval_score": 0.8385546,
+      "text": "core_product_name: switch",
+      "core_id": 603.0,
+      "raw_product_name": "RECEIVER SWITCHES",
+      "list_of_product_ids": [
+        "137",
+        "612",
+        "033",
+        "723",
+        "684"
+      ]
+    },
+    {
+      "retrieval_score": 0.83827305,
+      "text": "core_product_name: modular switch",
+      "core_id": 1493.0,
+      "raw_product_name": "MODULAR SWITCH",
+      "list_of_product_ids": [
+        "756",
+        "072",
+        "347",
+        "934"
+      ]
+    },
+    {
+      "retrieval_score": 0.83814645,
+      "text": "core_product_name: switch",
+      "core_id": 603.0,
+      "raw_product_name": "LEVEL SWITCHES",
+      "list_of_product_ids": [
+        "13588",
+        "14220",
+        "17089",
+        "17076",
+        "17070",
+        "17066",
+        "23998",
+        "21753",
+        "31744",
+        "36106"
+      ]
+    },
+    {
+      "retrieval_score": 0.8379663,
+      "text": "core_product_name: pressure switch",
+      "core_id": 1777.0,
+      "raw_product_name": "PRESSURE SWITCHES",
+      "list_of_product_ids": [
+        "6591",
+        "5761",
+        "10082",
+        "10084",
+        "10628",
+        "7944",
+        "7946",
+        "7948",
+        "9043",
+        "12721",
+        "12730",
+        "12724",
+        "12726",
+        "12900",
+        "12905",
+        "16623",
+        "16824",
+        "19378",
+        "18142",
+        "18406",
+        "18882",
+        "18928",
+        "30690",
+        "31309",
+        "37434",
+        "37435",
+        "36690",
+        "35676",
+        "39387"
+      ]
+    },
+    {
+      "retrieval_score": 0.8379347,
+      "text": "core_product_name: fixed switch board | mounting_or_installation: for package equipments | protection_features: flame proof",
+      "core_id": 2168.0,
+      "raw_product_name": "SWITCH BOARD FIXED FOR PACKAGE EQUIPMENTS FLAME PROOF",
+      "list_of_product_ids": [
+        "13973",
+        "14603",
+        "14849",
+        "19440",
+        "20280",
+        "22864",
+        "35781"
+      ]
+    },
+    {
+      "retrieval_score": 0.83788705,
+      "text": "core_product_name: flameproof socket | protection_features: Flameproof",
+      "core_id": 900.0,
+      "raw_product_name": "FLAMEPROOF SOCKET",
+      "list_of_product_ids": [
+        "20118",
+        "20440",
+        "20416",
+        "20650",
+        "22853"
+      ]
+    },
+    {
+      "retrieval_score": 0.8378466,
+      "text": "core_product_name: micro switch",
+      "core_id": 1472.0,
+      "raw_product_name": "MICRO SWITCHES",
+      "list_of_product_ids": [
+        "164",
+        "261",
+        "647",
+        "516",
+        "624"
+      ]
+    },
+    {
+      "retrieval_score": 0.8371621,
+      "text": "core_product_name: switchgear",
+      "core_id": 1178.0,
+      "raw_product_name": "SWITCHGEAR",
+      "list_of_product_ids": [
+        "20771",
+        "20773",
+        "21200",
+        "27083",
+        "36613",
+        "36676",
+        "35358"
+      ]
+    },
+    {
+      "retrieval_score": 0.83697265,
+      "text": "core_product_name: flameproof switch | protection_features: Flameproof",
+      "core_id": 2173.0,
+      "raw_product_name": "SWITCH- FLAMEPROOF",
+      "list_of_product_ids": [
+        "228",
+        "782",
+        "301",
+        "335",
+        "779"
+      ]
+    },
+    {
+      "retrieval_score": 0.8365857,
+      "text": "core_product_name: network switch",
+      "core_id": 1541.0,
+      "raw_product_name": "NETWORK SWITCHES",
+      "list_of_product_ids": [
+        "5945",
+        "6774",
+        "7942",
+        "7941",
+        "11855"
+      ]
+    },
+    {
+      "retrieval_score": 0.8355167,
+      "text": "core_product_name: electrical component | accessories_or_attachments: Accessories",
+      "core_id": 703.0,
+      "raw_product_name": "ELECTRICAL COMPONENTS & ACCESSORIES",
+      "list_of_product_ids": [
+        "222",
+        "862",
+        "228",
+        "728",
+        "574"
+      ]
+    },
+    {
+      "retrieval_score": 0.83521205,
+      "text": "core_product_name: bulk power supply",
+      "core_id": 254.0,
+      "raw_product_name": "BULK POWER SUPPLY",
+      "list_of_product_ids": [
+        "7",
+        "561",
+        "723",
+        "518",
+        "220"
+      ]
+    },
+    {
+      "retrieval_score": 0.8343516,
+      "text": "core_product_name: coupling device",
+      "core_id": 499.0,
+      "raw_product_name": "COUPLING DEVICE",
+      "list_of_product_ids": [
+        "18582",
+        "18579",
+        "18578",
+        "18637"
+      ]
+    },
+    {
+      "retrieval_score": 0.8338044,
+      "text": "core_product_name: control switch",
+      "core_id": 462.0,
+      "raw_product_name": "CONTROL SWITCH",
+      "list_of_product_ids": [
+        "140",
+        "491",
+        "529",
+        "838",
+        "269"
+      ]
+    },
+    {
+      "retrieval_score": 0.8333241,
+      "text": "core_product_name: insulator | accessories_or_attachments: hardware accessories",
+      "core_id": 1276.0,
+      "raw_product_name": "INSULATOR & HARDWARE ACCESSORIES",
+      "list_of_product_ids": [
+        "18804",
+        "18813",
+        "18984",
+        "18992",
+        "18979",
+        "18981",
+        "18987",
+        "18980",
+        "18978",
+        "37519",
+        "37688",
+        "37714",
+        "37719"
+      ]
+    },
+    {
+      "retrieval_score": 0.8333241,
+      "text": "core_product_name: insulator | accessories_or_attachments: hardware accessories",
+      "core_id": 1276.0,
+      "raw_product_name": "INSULATOR AND HARDWARE ACCESSORIES",
+      "list_of_product_ids": [
+        "1",
+        "883",
+        "029",
+        "108"
+      ]
+    },
+    {
+      "retrieval_score": 0.8332989,
+      "text": "core_product_name: accessory",
+      "core_id": 354.0,
+      "raw_product_name": "DRILL ACCESSORIES",
+      "list_of_product_ids": [
+        "24194",
+        "24195",
+        "36867",
+        "27800",
+        "36876"
+      ]
+    },
+    {
+      "retrieval_score": 0.8332494,
+      "text": "core_product_name: accessory",
+      "core_id": 354.0,
+      "raw_product_name": "EARTHWIRE ACCESSORIES",
+      "list_of_product_ids": [
+        "18805",
+        "18806",
+        "18847",
+        "18866",
+        "18855",
+        "18832",
+        "18908",
+        "18955",
+        "18966",
+        "18952",
+        "18963"
+      ]
+    },
+    {
+      "retrieval_score": 0.83310133,
+      "text": "core_product_name: power contactor relay",
+      "core_id": 1839.0,
+      "raw_product_name": "Power Contactors relays",
+      "list_of_product_ids": [
+        "7123",
+        "7450",
+        "10540",
+        "7901",
+        "8227",
+        "8228",
+        "11939",
+        "12178"
+      ]
+    },
+    {
+      "retrieval_score": 0.83296615,
+      "text": "core_product_name: push button and indicating lamp",
+      "core_id": 1821.0,
+      "raw_product_name": "PUSH BUTTON AND INDICATING LAMPS",
+      "list_of_product_ids": [
+        "6469",
+        "5640",
+        "9352",
+        "9148",
+        "9153",
+        "9155",
+        "11848",
+        "19079",
+        "17539",
+        "17810",
+        "19007",
+        "20969",
+        "36691",
+        "38266",
+        "38081"
+      ]
+    }
+  ]
+}

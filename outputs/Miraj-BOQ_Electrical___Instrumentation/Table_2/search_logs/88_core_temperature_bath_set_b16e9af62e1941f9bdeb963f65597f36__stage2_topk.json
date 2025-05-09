@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: temperature bath set | size: range: 0~200°C",
+  "retrieval_results": [
+    {
+      "id": "variant-c8f97f77-9d1f-5a04-a2b8-adda5f94075b",
+      "score": 0.8774357,
+      "metadata": {
+        "text": "core_product_name: bath heater",
+        "raw_product_name": "BATH HEATERS",
+        "list_of_product_ids": "8750,14188,16456,17548,22671",
+        "core_id": 181.0
+      }
+    },
+    {
+      "id": "variant-58f7f950-a885-5f94-a678-9ffcb756d242",
+      "score": 0.871609,
+      "metadata": {
+        "text": "core_product_name: temperature element",
+        "raw_product_name": "TEMPERATURE ELEMENT",
+        "list_of_product_ids": "15482,15465,14003,15304,15311,17794,17180,16563,37414,37413,34379",
+        "core_id": 2221.0
+      }
+    },
+    {
+      "id": "variant-59caacf0-2771-53a3-844e-b2c03e89997d",
+      "score": 0.8696175,
+      "metadata": {
+        "text": "core_product_name: special temperature element",
+        "raw_product_name": "SPECIAL TEMPERATURE ELEMENTS",
+        "list_of_product_ids": "6548,5719,10143,11458,11891,12796,31357,31333,35160,35199,35204,35212",
+        "core_id": 2078.0
+      }
+    },
+    {
+      "id": "variant-6dba5e49-7e42-5b48-997c-782b204e0c38",
+      "score": 0.868526,
+      "metadata": {
+        "text": "core_product_name: temperature switch",
+        "raw_product_name": "TEMPERATURE SWITCHES",
+        "list_of_product_ids": "10252,10257,10271,10272,10274,10279,10282,10286,10285,9993,10028,10083,10085,10222,10241,10246,12732,12902,12907,36536,16622,16826,17069,17288,18163,23112,37681,36620,35672,35668,39389",
+        "core_id": 2224.0
+      }
+    },
+    {
+      "id": "variant-a595b92c-c451-5f5b-a7d2-c3960b5cbbce",
+      "score": 0.86778176,
+      "metadata": {
+        "text": "core_product_name: temperature recorder",
+        "raw_product_name": "TEMPERATURE RECORDERS",
+        "list_of_product_ids": "6620,5790,10045,10155,11903,12893,12892",
+        "core_id": 2223.0
+      }
+    },
+    {
+      "id": "variant-f137bdce-af71-511f-9954-636b434a08d5",
+      "score": 0.86747754,
+      "metadata": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPARETURE GAUGE",
+        "list_of_product_ids": "13992,36535,17284,17283,17282,23171,35667,35957,35960,35972,37406",
+        "core_id": 2222.0
+      }
+    },
+    {
+      "id": "variant-f36f9a26-b202-54c5-b8bf-b0bf8137e3a4",
+      "score": 0.8673876,
+      "metadata": {
+        "text": "core_product_name: temperature gauge",
+        "raw_product_name": "TEMPERATURE GAUGES",
+        "list_of_product_ids": "19536,19516,27065,37528,35959,35961,37407",
+        "core_id": 2222.0
+      }
+    },
+    {
+      "id": "variant-1fe6caaa-8193-5668-9fe1-01bba48a41b8",
+      "score": 0.8650114,
+      "metadata": {
+        "text": "core_product_name: heating element",
+        "raw_product_name": "HEATING ELEMENT",
+        "list_of_product_ids": "214,212,142,627,045",
+        "core_id": 1117.0
+      }
+    },
+    {
+      "id": "variant-81654678-5e37-56b6-a4c2-b32410d87659",
+      "score": 0.86296976,
+      "metadata": {
+        "text": "core_product_name: infrared temperature measurement system",
+        "raw_product_name": "INFRARED TEMP MEASUREMENT SYSTEM",
+        "list_of_product_ids": "6598,5768,10909,11112",
+        "core_id": 1243.0
+      }
+    },
+    {
+      "id": "variant-35c0b277-6a3b-5856-9c86-096972d7c0d3",
+      "score": 0.8625963,
+      "metadata": {
+        "text": "core_product_name: temperature transmitter",
+        "raw_product_name": "TEMPERATURE TRANSMITTER",
+        "list_of_product_ids": "13422,36532,15082,15245,15259,15305,15312,17117,17116,17115,17114,18212,36177,36325,36511",
+        "core_id": 2226.0
+      }
+    },
+    {
+      "id": "variant-824e620c-9454-58ca-b3a3-b9bc5765fe8d",
+      "score": 0.8622246,
+      "metadata": {
+        "text": "core_product_name: skin thermocouple",
+        "raw_product_name": "SKIN THERMOCOUPLES",
+        "list_of_product_ids": "6547,5718,10142,11460,11890,12795,13236,17146,17179,19250,31356,29847,31332,35159,35198,35203,35211,36273,36425",
+        "core_id": 2041.0
+      }
+    },
+    {
+      "id": "variant-086d7fe9-d9ca-5135-8525-0b804f5e02ae",
+      "score": 0.86140794,
+      "metadata": {
+        "text": "core_product_name: temperature scanner",
+        "raw_product_name": "TEMPERATURE SCANNER",
+        "list_of_product_ids": "164,011,640,216,506",
+        "core_id": 2225.0
+      }
+    },
+    {
+      "id": "variant-c184836f-fc8c-5421-96c9-57703770e0df",
+      "score": 0.8608879,
+      "metadata": {
+        "text": "core_product_name: thermocouple",
+        "raw_product_name": "THERMOCOUPLES",
+        "list_of_product_ids": "6546,5717,16564,17217,24281,36622",
+        "core_id": 2246.0
+      }
+    },
+    {
+      "id": "variant-e26ec213-d88e-51b9-bc11-86ce46c292a2",
+      "score": 0.8604779,
+      "metadata": {
+        "text": "core_product_name: temperature element | accessories_or_attachments: thermowell",
+        "raw_product_name": "TEMP.ELEMENTS,THERMOWELLS",
+        "list_of_product_ids": "6545,5716,10122,11461,11870,12777,12794,12797,12803,12805,12798,13205,13235,13394,17145,17178,17216,18226,31359,29846,36584,34380,35197,35202,35213,35974,36271,36424",
+        "core_id": 2221.0
+      }
+    },
+    {
+      "id": "variant-1f15d0c3-625d-57b9-ab68-c43842bbca73",
+      "score": 0.86045337,
+      "metadata": {
+        "text": "core_product_name: oil temperature indicator",
+        "raw_product_name": "OIL TEMPERATURE INDICATOR",
+        "list_of_product_ids": "6466,5637,15947,16111",
+        "core_id": 1590.0
+      }
+    },
+    {
+      "id": "variant-e99ab31d-678a-5f81-a7b5-bef530477e8f",
+      "score": 0.8596601,
+      "metadata": {
+        "text": "core_product_name: sanitary fitting",
+        "raw_product_name": "SANITARY, PLUMBING FITTINGS & FIXTURES - SANITARY FITTINGS",
+        "list_of_product_ids": "6363,5534,11009,35051",
+        "core_id": 1962.0
+      }
+    },
+    {
+      "id": "variant-7cc5ca9a-c9fd-5cb7-8b41-1167a6d57856",
+      "score": 0.8591585,
+      "metadata": {
+        "text": "core_product_name: turbine generator set",
+        "raw_product_name": "TURBINE GENERATOR SET",
+        "list_of_product_ids": "9481,9594,14798,24321,37420,36130,37401",
+        "core_id": 2290.0
+      }
+    },
+    {
+      "id": "variant-a8edda9a-3136-55fa-8209-23fe9f3c97be",
+      "score": 0.85871553,
+      "metadata": {
+        "text": "core_product_name: belt scale",
+        "raw_product_name": "BELT SCALE",
+        "list_of_product_ids": "752,471,989,711",
+        "core_id": 197.0
+      }
+    },
+    {
+      "id": "variant-8535f89a-d50f-5258-a834-50de94e32dcb",
+      "score": 0.8585678,
+      "metadata": {
+        "text": "core_product_name: dial thermometer",
+        "raw_product_name": "DIAL THERMOMETER",
+        "list_of_product_ids": "220,132,203,522,051",
+        "core_id": 582.0
+      }
+    },
+    {
+      "id": "variant-eb1a4b06-b649-5f63-ada7-72c171b54c39",
+      "score": 0.858536,
+      "metadata": {
+        "text": "core_product_name: heat exchanger",
+        "raw_product_name": "HEAT EXCHANGER",
+        "list_of_product_ids": "6660,5831,8523,11965,12047,12855,12976,16931,17274,17385,23724,23754,21191,26141,36717,36587,36648,37716,37721,36077,36287,36281",
+        "core_id": 1110.0
+      }
+    },
+    {
+      "id": "variant-05c9db43-5c4d-52ba-ab45-526ce58a2d3e",
+      "score": 0.8585129,
+      "metadata": {
+        "text": "core_product_name: thermal insulation",
+        "raw_product_name": "Thermal Insulation",
+        "list_of_product_ids": "7572,7247,11774,11775,7759,7755,7757,9770,12863,13002,13009,16997,17020,17014,34601",
+        "core_id": 2305.0
+      }
+    },
+    {
+      "id": "variant-b8253929-c920-5130-9b6e-7e7371c7d50b",
+      "score": 0.8583803,
+      "metadata": {
+        "text": "core_product_name: skin type resistance temperature detector",
+        "raw_product_name": "RESISTANCE TEMPERATURE DETECTOR(SKIN TYPE)",
+        "list_of_product_ids": "182,021,821,418,562",
+        "core_id": 1903.0
+      }
+    },
+    {
+      "id": "variant-bc08e481-a9ae-551e-9e13-ace49d85e974",
+      "score": 0.8580281,
+      "metadata": {
+        "text": "core_product_name: measurement",
+        "raw_product_name": "VIBRATION MEASUREMENT",
+        "list_of_product_ids": "242,652,426,624,269",
+        "core_id": 2401.0
+      }
+    },
+    {
+      "id": "variant-d4aaf1b4-f963-5410-af4f-1bb04365fa42",
+      "score": 0.85792893,
+      "metadata": {
+        "text": "core_product_name: submersible pump-motor set",
+        "raw_product_name": "Submersible Pump-Motor Set",
+        "list_of_product_ids": "1,408,023,236",
+        "core_id": 2193.0
+      }
+    },
+    {
+      "id": "variant-c1ae1201-97cd-5797-b03b-a76f484b9305",
+      "score": 0.8577088,
+      "metadata": {
+        "text": "core_product_name: strip heater",
+        "raw_product_name": "STRIP HEATER",
+        "list_of_product_ids": "1,552,014,072",
+        "core_id": 2131.0
+      }
+    },
+    {
+      "id": "variant-3e56e920-9278-5fe1-a379-e389cf4364f8",
+      "score": 0.85766935,
+      "metadata": {
+        "text": "core_product_name: heat tracing system",
+        "raw_product_name": "HEAT TRACING SYSTEM",
+        "list_of_product_ids": "17441,17440,36617,27796,35888,35941",
+        "core_id": 1113.0
+      }
+    },
+    {
+      "id": "variant-f23555b4-6776-5418-b12f-82367d57d9b5",
+      "score": 0.8576685,
+      "metadata": {
+        "text": "core_product_name: fitting | type_or_class: ERMETO",
+        "raw_product_name": "ERMETO FITTINGS",
+        "list_of_product_ids": "254,072,567,926,699",
+        "core_id": 273.0
+      }
+    },
+    {
+      "id": "variant-621e820c-97eb-5eee-b6a5-cc212c11ea20",
+      "score": 0.8573764,
+      "metadata": {
+        "text": "core_product_name: protective clothing | operating_conditions: Low Temperature",
+        "raw_product_name": "Low Temperature Protective Clothing",
+        "list_of_product_ids": "14339",
+        "core_id": 1416.0
+      }
+    },
+    {
+      "id": "variant-3e27553b-b4e8-5882-a85c-9509908254ff",
+      "score": 0.85727185,
+      "metadata": {
+        "text": "core_product_name: heat tracer",
+        "raw_product_name": "HEAT TRACERS",
+        "list_of_product_ids": "12271,6452,5622,11829,22038,24540,35352",
+        "core_id": 1112.0
+      }
+    },
+    {
+      "id": "variant-f33d0a7e-0b00-525a-89f2-33ee968fb551",
+      "score": 0.85720456,
+      "metadata": {
+        "text": "core_product_name: winding temperature indicator",
+        "raw_product_name": "WINDING TEMPERATURE INDICATOR",
+        "list_of_product_ids": "6473,5644,15948,16112",
+        "core_id": 2474.0
+      }
+    }
+  ]
+}

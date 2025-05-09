@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: tongue tester | feature_or_specifications: make: FLUKE or YAKOGAWA",
+  "retrieval_results": [
+    {
+      "id": "variant-40f5e806-4a91-59d6-8fea-bf521847066a",
+      "score": 0.84772867,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: Forged",
+        "raw_product_name": "VALVE CHECK FORGED",
+        "list_of_product_ids": "6231,5400,11625,11641,11223,11242,11255,9246,11448,9262,8280,8383,8555,8649,8626,9412,9451,9253,9166,9343,12098,12493,12572,12656,13266,13360,19382,19390,17623,17908,18030,19711,19860,31813,36763,32701",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-2f18490d-3e94-559d-8612-8a3ac4904980",
+      "score": 0.8471697,
+      "metadata": {
+        "text": "core_product_name: stop check valve | type_or_class: Y type",
+        "raw_product_name": "STOP CHECK VALVES (Y TYPE)",
+        "list_of_product_ids": "14060,15006,15014,22370,31565,37166",
+        "core_id": 2116.0
+      }
+    },
+    {
+      "id": "variant-8e7d59a2-4690-5fdf-9d61-5ca0f9f5be48",
+      "score": 0.8465528,
+      "metadata": {
+        "text": "core_product_name: level indicator | type_or_class: Float or Tape",
+        "raw_product_name": "LEVEL INDICATORS (FLOAT & TAPE)",
+        "list_of_product_ids": "13978,15132,15140,15148,18394,18393,21981,23535",
+        "core_id": 1332.0
+      }
+    },
+    {
+      "id": "variant-a947ab69-11c3-5478-b1b6-fa5978c60e03",
+      "score": 0.8460247,
+      "metadata": {
+        "text": "core_product_name: flushing apparatus",
+        "raw_product_name": "FLUSHING APPARATUS",
+        "list_of_product_ids": "143,601,444,714,482",
+        "core_id": 958.0
+      }
+    },
+    {
+      "id": "variant-51099c41-aa43-5333-9366-8cb60cfc4c26",
+      "score": 0.845679,
+      "metadata": {
+        "text": "core_product_name: flange | material: Incoloy",
+        "raw_product_name": "FLANGES (INCOLOY)",
+        "list_of_product_ids": "20905,24572,24650,37037",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-0eb5d02c-397d-58fc-80d8-1ab2e3a705cc",
+      "score": 0.84548736,
+      "metadata": {
+        "text": "core_product_name: test and measuring equipment",
+        "raw_product_name": "Test & Measuring Equipment",
+        "list_of_product_ids": "1,401,515,286",
+        "core_id": 2303.0
+      }
+    },
+    {
+      "id": "variant-e989a7c2-db03-5440-a92d-22d0ec0f0d2c",
+      "score": 0.84422123,
+      "metadata": {
+        "text": "core_product_name: float operated level instrument | accessories_or_attachments: tank",
+        "raw_product_name": "TANK LEVEL INSTRUMENTS (FLOAT OPERATED)",
+        "list_of_product_ids": "6582,5752,11686,11695,11711,12356,13221,21059,38277",
+        "core_id": 2203.0
+      }
+    },
+    {
+      "id": "variant-ac6617c9-bc13-5677-b0d1-2bde7708d1d7",
+      "score": 0.84333044,
+      "metadata": {
+        "text": "core_product_name: product quality analyser | type_or_class: Flash Point",
+        "raw_product_name": "PRODUCT QUALITY ANALYSERS (FLASH POINT)",
+        "list_of_product_ids": "6555,5725,11197,10146,11894,20860,22042,29877,29647,32945,35349,36236,36388",
+        "core_id": 1793.0
+      }
+    },
+    {
+      "id": "variant-ec24adf3-64c0-5cab-a601-956105d3788f",
+      "score": 0.8431502,
+      "metadata": {
+        "text": "core_product_name: fieldbus tester",
+        "raw_product_name": "FIELDBUS TESTER",
+        "list_of_product_ids": "5,949,677,810,923",
+        "core_id": 823.0
+      }
+    },
+    {
+      "id": "variant-244b8c71-608d-55cc-ab40-d9438704ec8e",
+      "score": 0.84311867,
+      "metadata": {
+        "text": "core_product_name: manual pump | testing_or_inspection: Hydro test",
+        "raw_product_name": "HYDRO TESTING PUMP (MANUAL)",
+        "list_of_product_ids": "32806,32807,32995,33029,33182,33247,33550,33621,35909",
+        "core_id": 1207.0
+      }
+    },
+    {
+      "id": "variant-e7e04532-b49c-5150-96b2-f4f28d6bfbda",
+      "score": 0.84248865,
+      "metadata": {
+        "text": "core_product_name: valve | type_or_class: Globe | type_or_class: Y type | type_or_class: Stop check | type_or_class: Straight | type_or_class: Y type",
+        "raw_product_name": "VALVES GLOBE Y TYPE & STOP CHECK STRAIGHT/Y TYPE",
+        "list_of_product_ids": "8381",
+        "core_id": 307.0
+      }
+    },
+    {
+      "id": "variant-9b25b784-a1a1-5ce1-9130-4075d704d02b",
+      "score": 0.84224087,
+      "metadata": {
+        "text": "core_product_name: globe valve | construction_features: forged",
+        "raw_product_name": "VALVE GLOBE FORGED",
+        "list_of_product_ids": "6222,5391,11621,11639,11241,11254,11278,8279,8380,8554,8644,8621,9386,9428,9410,9452,9251,9165,9247,9341,11976,12097,12492,12571,13261,13361,19389,17622,17817,17907,18303,18031,19861,31811,19381,32700,36762,35556",
+        "core_id": 1062.0
+      }
+    },
+    {
+      "id": "variant-79e34a67-ef11-56c8-9cb0-0ea71ddda0de",
+      "score": 0.8412369,
+      "metadata": {
+        "text": "core_product_name: flange",
+        "raw_product_name": "FLANGES",
+        "list_of_product_ids": "5445,6068,6902,9990,9987,11093,11095,40331,40332,10738,11699,10739,11251,10740,10742,10165,36909,11403,6908,6900,6925,6929,6933,6927,6931,7714,7715,9313,8791,8792,8794,8790,8823,8793,8880,12380,13051,13319,15743,16378,16613,16580,24554,18182,18206,29472,36906,18894,18938,20065,19843,7713,36873,30636,30688,37305,36934,32262,36591,37264,36864,35744,35743,36525",
+        "core_id": 216.0
+      }
+    },
+    {
+      "id": "variant-27d39f8f-5c88-5af7-a7c1-b8ebd1346284",
+      "score": 0.841015,
+      "metadata": {
+        "text": "core_product_name: gate valve | construction_features: Forged",
+        "raw_product_name": "VALVE GATE FORGED",
+        "list_of_product_ids": "6215,5384,10997,11616,11636,11221,11239,11252,11276,11397,11437,9259,8278,8376,8550,8641,8617,9409,9434,9450,9249,9168,9245,9339,11977,12023,12041,12032,12096,12491,12570,12654,13254,19380,19388,17620,17816,17909,18302,18032,19708,19859,31810,31714,32699,35523",
+        "core_id": 1041.0
+      }
+    },
+    {
+      "id": "variant-480b5587-5fb6-572c-95ab-e13c28298ad6",
+      "score": 0.840408,
+      "metadata": {
+        "text": "core_product_name: forged flange",
+        "raw_product_name": "FLANGE- FORGED",
+        "list_of_product_ids": "7601,7276,8118,12390,13298,19714,22675,17413,37072,37073,37079,37080",
+        "core_id": 901.0
+      }
+    },
+    {
+      "id": "variant-1e1cbeb6-aa70-597e-8331-32946c4b64b1",
+      "score": 0.8402526,
+      "metadata": {
+        "text": "core_product_name: forged flange",
+        "raw_product_name": "FORGED FLANGES",
+        "list_of_product_ids": "8771",
+        "core_id": 901.0
+      }
+    },
+    {
+      "id": "variant-8c805029-f261-5b54-bee7-50c6b0705928",
+      "score": 0.8398576,
+      "metadata": {
+        "text": "core_product_name: special level instrument | type_or_class: TUNNING FORK",
+        "raw_product_name": "SPECIAL LEVEL INSTRUMENTS (TUNNING FORK)",
+        "list_of_product_ids": "6485,5656,10964,11312,11320,11322,10100,10114,12355,12861,35437",
+        "core_id": 2076.0
+      }
+    },
+    {
+      "id": "variant-b4eba39e-30b3-52c8-a146-4c13ded805f2",
+      "score": 0.83977777,
+      "metadata": {
+        "text": "core_product_name: y-type strainer | type_or_class: Y-Type",
+        "raw_product_name": "STRAINERS (Y-TYPE)",
+        "list_of_product_ids": "7523,7778,7197,11868,12839,23596,23594,23619,23625,23658,23660,23622,23665,23676,22585,22682,37069,38002,36728,35601",
+        "core_id": 2123.0
+      }
+    },
+    {
+      "id": "variant-55f29422-ef46-5cd6-8317-ebfba9db3a18",
+      "score": 0.8395437,
+      "metadata": {
+        "text": "core_product_name: flatness or shape gauge",
+        "raw_product_name": "Flatness/ Shape Gauge",
+        "list_of_product_ids": "7554,7228,10510,18015",
+        "core_id": 1005.0
+      }
+    },
+    {
+      "id": "variant-51c43b3e-2c5b-5170-8ed6-b9bf1a05f727",
+      "score": 0.8391456,
+      "metadata": {
+        "text": "core_product_name: check valve | construction_features: pre-insulation",
+        "raw_product_name": "VALVE CHECK PRE-INSULATION",
+        "list_of_product_ids": "1,544,118,796",
+        "core_id": 340.0
+      }
+    },
+    {
+      "id": "variant-bba82e27-1deb-56d8-ade2-d0100ba76378",
+      "score": 0.8389572,
+      "metadata": {
+        "text": "core_product_name: lubricated valve | type_or_class: Plug",
+        "raw_product_name": "Plug Valve(Lubricated)",
+        "list_of_product_ids": "8696",
+        "core_id": 1834.0
+      }
+    },
+    {
+      "id": "variant-8dc24b6d-5968-5ab6-bdfd-656a88c69cda",
+      "score": 0.8382262,
+      "metadata": {
+        "text": "core_product_name: check cryogenic valve | construction_features: forged",
+        "raw_product_name": "VALVE CHECK CRYOGENIC FORGED",
+        "list_of_product_ids": "6232,5401,11626,10425,11418,8650,8627",
+        "core_id": 2346.0
+      }
+    },
+    {
+      "id": "variant-035e5d74-4fc0-5854-ace0-4826f9b36c25",
+      "score": 0.83820134,
+      "metadata": {
+        "text": "core_product_name: instrumentation cable | special_attributes: Screened",
+        "raw_product_name": "INSTRUMENTATION CABLES (SCREENED)",
+        "list_of_product_ids": "19885,19880,24078,23930,27348",
+        "core_id": 1262.0
+      }
+    },
+    {
+      "id": "variant-cbae75ef-1f57-51fb-a18d-88a528fb3ab5",
+      "score": 0.83800846,
+      "metadata": {
+        "text": "core_product_name: measuring special gauge",
+        "raw_product_name": "SPECIAL MEASURING GAUGES",
+        "list_of_product_ids": "216,522,165,021,743",
+        "core_id": 2077.0
+      }
+    },
+    {
+      "id": "variant-c4e119cc-aafe-5001-a6b3-3284be36811b",
+      "score": 0.83790314,
+      "metadata": {
+        "text": "core_product_name: turnkey instrumentation",
+        "raw_product_name": "TURNKEY INSTRUMENTATION",
+        "list_of_product_ids": "6627,5797,10074,8347,30050,29691,27064,30481,38274,32771,38190,37692,37693,37700,37702,37706,37710,34960,36098,36246,36399",
+        "core_id": 2299.0
+      }
+    },
+    {
+      "id": "variant-bc4a43e5-ae89-513e-b435-8a2fa0f517cc",
+      "score": 0.8377888,
+      "metadata": {
+        "text": "core_product_name: test product",
+        "raw_product_name": "TEST PRODUCT",
+        "list_of_product_ids": "1,310,627,675",
+        "core_id": 2235.0
+      }
+    },
+    {
+      "id": "variant-6a56931e-5f55-5233-bb97-17b9f3971750",
+      "score": 0.8376927,
+      "metadata": {
+        "text": "core_product_name: line throwing apparatus",
+        "raw_product_name": "LINE THROWING APPARATUS",
+        "list_of_product_ids": "234,142,341,527,044",
+        "core_id": 1365.0
+      }
+    },
+    {
+      "id": "variant-7b71d168-9a37-5ed7-8cfe-9ea790102c1e",
+      "score": 0.837604,
+      "metadata": {
+        "text": "core_product_name: y type globe valve | type_or_class: Y Type",
+        "raw_product_name": "Y TYPE GLOBE VALVE",
+        "list_of_product_ids": "6226,5395,11525,11538,11544,11541,11263,11506,8387,13263,31564,35557",
+        "core_id": 2496.0
+      }
+    },
+    {
+      "id": "variant-87f43f4c-bd58-50d6-912f-2d51a8c53a7e",
+      "score": 0.837604,
+      "metadata": {
+        "text": "core_product_name: y type globe valve | type_or_class: Y Type",
+        "raw_product_name": "Y TYPE GLOBE VALVES",
+        "list_of_product_ids": "86,468,623",
+        "core_id": 2496.0
+      }
+    },
+    {
+      "id": "variant-8cab609d-81bc-5515-ab6b-14bc64e36228",
+      "score": 0.83742535,
+      "metadata": {
+        "text": "core_product_name: liquid metering system | type_or_class: Turbine",
+        "raw_product_name": "LIQUID METERING SYSTEM (TURBINE)",
+        "list_of_product_ids": "5786,6616,11754,11816,11826,11831,10123,11748,11752,11871,12211,16989,38504,38471,38476,38484,38494",
+        "core_id": 1372.0
+      }
+    }
+  ]
+}

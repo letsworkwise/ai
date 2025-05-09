@@ -1,0 +1,118 @@
+{
+  "sheet_name": "Geotech",
+  "boq_context": "",
+  "header_rows": "Sl. No. | PART NO | ITEM NO | DESCRIPTION | QTY | UOM | RATE | AMOUNT | TPPL Estimate | TPPL Amount",
+  "products_entries": [
+    {
+      "section_context_for_this_product_block": [
+        "GEOTECH",
+        "GROUND IMPROVEMENT",
+        "SAND GRAVEL MIX"
+      ],
+      "full_product_description": "Supplying and filling sand gravel mix (1:1) with approved aggregate below road, RCC pavement, manholes, pits, foundations, bedding of UG piping etc. in layers of 150 mm loose thickness (maximum) including watering, ramming, rolling, compacting to achieve 85% relative density as per IS 2720 Part-XIV, quarrying, royalties, transportation, handling, etc. all complete as per drawings, specifications and directions of Engineer-in-Charge. (The rate shall be inclusive of the cost of all labour, material, equipment etc. all complete)",
+      "core_product_name": "sand gravel mix",
+      "acronymed_core_product_name": "",
+      "size": "layer thickness: 150 mm (loose)",
+      "feature_or_specifications": "mix ratio: 1:1, aggregate: approved, application: below road, RCC pavement, manholes, pits, foundations, bedding of UG piping, compaction: 85% relative density, standard: indian standard 2720 Part-XIV, feature: watering, ramming, rolling, compacting, quarrying, royalties, transportation, handling, as per drawings, specifications and directions of Engineer-in-Charge, inclusive of all labour, material, equipment",
+      "quantity": "600.0",
+      "unit": "cum"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GEOTECH",
+        "GROUND IMPROVEMENT",
+        "GEOGRID"
+      ],
+      "full_product_description": "Supplying and laying of Tensar Geogrid SS-40 or equivalent below roads, RCC pavements, manholes, in pipe trenches, culverts, foundations, hard stand etc. including overlap length, royalties, taxes, handling, transportation, unloading, storage, etc. all complete as per drawings, manufacturers specification and direction of Engineer-in-Charge.",
+      "core_product_name": "geogrid",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "brand: Tensar or equivalent, model: SS-40, application: below roads, RCC pavements, manholes, pipe trenches, culverts, foundations, hard stand, feature: overlap length, royalties, taxes, handling, transportation, unloading, storage, as per drawings, manufacturers specification and direction of Engineer-in-Charge",
+      "quantity": "1200.0",
+      "unit": "sqm"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GEOTECH",
+        "DESIGN & INSTALLATION OF STONE COLUMNS",
+        "STONE COLUMNS BY VIBROFLOAT METHOD"
+      ],
+      "full_product_description": "Installation of 900mm diameter stone columns of required length as per design by VIBROFLOAT method in triangular pattern at 1.8 to 2.0m c/c spacing (tentative) as shown in approved drawings, with approved stone material up to finished grade level, removal of slush & undesirable material accumulated on surface if any during stone column installation, including necessary dewatering & keeping the surface dry for subsequent works, including mobilizing Plant, equipment, tools and tackles and personnel at site complete for all types of field tests, installation of stone columns, testing, etc. and demobilization at the end of the work, shifting of plant and equipment between locations, supply of all necessary materials with any adjunct ancillary works and cleaning of site after installation etc. all complete, as per specifications, drawings and directions of Engineer-in-Charge.",
+      "core_product_name": "stone columns",
+      "acronymed_core_product_name": "",
+      "size": "diameter: 900 mm, spacing: 1.8 to 2.0 m c/c",
+      "feature_or_specifications": "installation method: vibrofloat, pattern: triangular, material: approved stone, feature: removal of slush & undesirable material, dewatering, keeping surface dry, mobilizing plant, equipment, tools, tackles, personnel, field tests, testing, demobilization, shifting plant and equipment, supply of all necessary materials, ancillary works, cleaning of site, as per specifications, drawings and directions of Engineer-in-Charge",
+      "quantity": "9700.0",
+      "unit": "RM"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GEOTECH",
+        "SAND BLANKETS OVER STONE COLUMNS"
+      ],
+      "full_product_description": "Supply and filling of approved sand as per specifications in sand blankets over stone columns including cost of sand, royalties, transportation to site, spreading, watering, ramming and compaction in layers of 150 mm loose thickness to achieve 85% relative density as per IS:2720 Part XIV, including preparation of sub-grade, dressing to the required slopes with all leads and lifts, testing, etc. complete as per drawings, specifications and directions of Engineer-in Charge.",
+      "core_product_name": "sand blankets",
+      "acronymed_core_product_name": "",
+      "size": "layer thickness: 150 mm (loose)",
+      "feature_or_specifications": "material: approved sand, application: over stone columns, feature: royalties, transportation, spreading, watering, ramming, compaction, compaction: 85% relative density, standard: indian standard 2720 Part XIV, preparation of sub-grade, dressing to required slopes, all leads and lifts, testing, as per drawings, specifications and directions of Engineer-in-Charge",
+      "quantity": "950.0",
+      "unit": "cum"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GEOTECH",
+        "FOOTING LOAD TEST (SINGLE STONE COLUMN)",
+        "Conducting footing load test on a single stone column as per specs."
+      ],
+      "full_product_description": "01GG.308.1.1 Initial load test at trial site on single stone column. Conducting footing load test on a single column as per specs. with appropriate sized footing, adequate reaction kentledge and hydraulic jack of suitable capacity, spreading and compacting of medium to coarse sand blanket as specified and as per direction of Engineer In Charge all complete",
+      "core_product_name": "footing load test",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "test type: initial load test, location: trial site, column type: single stone column, feature: appropriate sized footing, adequate reaction kentledge, hydraulic jack of suitable capacity, spreading and compacting of medium to coarse sand blanket, as per direction of Engineer In Charge",
+      "quantity": "1.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GEOTECH",
+        "FOOTING LOAD TEST (SINGLE STONE COLUMN)",
+        "Conducting footing load test on a single stone column as per specs."
+      ],
+      "full_product_description": "01GG.308.1.2 Routine load test on job columns on single stone column Conducting footing load test on a single column as per specs. with appropriate sized footing,adequate reaction kentledge and hydraulic jack of suitable capacity, spreading and compacting of medium to coarse sand blanket as specified and as per direction of Engineer In Charge all complete).",
+      "core_product_name": "footing load test",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "test type: routine load test, location: job columns, column type: single stone column, feature: appropriate sized footing, adequate reaction kentledge, hydraulic jack of suitable capacity, spreading and compacting of medium to coarse sand blanket, as per direction of Engineer In Charge",
+      "quantity": "3.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GEOTECH",
+        "FOOTING LOAD TEST ON  THREE STONE COLUMN GROUP",
+        "Conducting footing load test on a GROUP OF THREE STONE COLUMNS as per specs."
+      ],
+      "full_product_description": "01GG.309.1.1 INITIAL TEST at trial site on THREE STONE COLUMN GROUP Conducting footing load test on a group of three columns as per specs. With appropriate sized footing, adequate reaction kentledge and hydraulic jack of suitable capacity spreading and compacting medium to coarse sand blanket as specified and direction of Engineer In Charge.",
+      "core_product_name": "footing load test",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "test type: initial test, location: trial site, column group: three stone column group, feature: appropriate sized footing, adequate reaction kentledge, hydraulic jack of suitable capacity, spreading and compacting medium to coarse sand blanket, as per direction of Engineer In Charge",
+      "quantity": "1.0",
+      "unit": "each"
+    },
+    {
+      "section_context_for_this_product_block": [
+        "GEOTECH",
+        "FOOTING LOAD TEST ON  THREE STONE COLUMN GROUP",
+        "Conducting footing load test on a GROUP OF THREE STONE COLUMNS as per specs."
+      ],
+      "full_product_description": "01GG.309.1.2 ROUTINE TEST on job columns on THREE COLUMN GROUP Conducting footing load test on a group of three columns as per specs. with appropriate sized footing, adequate reaction kentledge and hydraulic jack of suitable capacity spreading and compacting medium to coarse sand blanket as specified and direction of Engineer In Charge.",
+      "core_product_name": "footing load test",
+      "acronymed_core_product_name": "",
+      "size": "",
+      "feature_or_specifications": "test type: routine test, location: job columns, column group: three column group, feature: appropriate sized footing, adequate reaction kentledge, hydraulic jack of suitable capacity, spreading and compacting medium to coarse sand blanket, as per direction of Engineer In Charge",
+      "quantity": "3.0",
+      "unit": "each"
+    }
+  ]
+}

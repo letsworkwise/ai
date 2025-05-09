@@ -1,0 +1,305 @@
+{
+  "query": "core_product_name: analog telephone | feature_or_specifications: display: LCD, memory: incoming call, outgoing call, functions: redial, pause, ringing tone: 5 types, intercom: selection, call transfer: parallel, volume control: included, caller ID: included, features: standard",
+  "retrieval_results": [
+    {
+      "id": "variant-760f80e5-c1c7-5bd9-a10f-267445f26362",
+      "score": 0.8574237,
+      "metadata": {
+        "text": "core_product_name: telephone system",
+        "raw_product_name": "TELEPHONE SYSTEM",
+        "list_of_product_ids": "193,772,764,139,783",
+        "core_id": 2217.0
+      }
+    },
+    {
+      "id": "variant-64683814-d005-5886-9723-6ec80b92c8c2",
+      "score": 0.8567651,
+      "metadata": {
+        "text": "core_product_name: telephone instrument",
+        "raw_product_name": "TELEPHONE INSTRUMENT",
+        "list_of_product_ids": "20448,20540,20579,20639,20696,20753",
+        "core_id": 2218.0
+      }
+    },
+    {
+      "id": "variant-6f41ca38-b46b-522d-bf50-5c00f9a6fd4f",
+      "score": 0.85602516,
+      "metadata": {
+        "text": "core_product_name: telephone",
+        "raw_product_name": "TELEPHONE",
+        "list_of_product_ids": "181,681,816,518,576",
+        "core_id": 2215.0
+      }
+    },
+    {
+      "id": "variant-73ac1663-9c33-5076-bc1d-29bfe0484357",
+      "score": 0.85066897,
+      "metadata": {
+        "text": "core_product_name: telecommunication system",
+        "raw_product_name": "TELECOMMUNICATION SYSTEM",
+        "list_of_product_ids": "14203,18336,22435,36100",
+        "core_id": 2212.0
+      }
+    },
+    {
+      "id": "variant-98ffb5b2-ba7e-59ba-975e-6977c0b87585",
+      "score": 0.8493541,
+      "metadata": {
+        "text": "core_product_name: analogue meter",
+        "raw_product_name": "ANALOGUE METER",
+        "list_of_product_ids": "181,191,811,818,590",
+        "core_id": 104.0
+      }
+    },
+    {
+      "id": "variant-1469320a-e6e2-5607-9729-54bb70363ee1",
+      "score": 0.84699595,
+      "metadata": {
+        "text": "core_product_name: sound power telephone",
+        "raw_product_name": "SOUND POWER TELEPHONE",
+        "list_of_product_ids": "23968,22937,22936,22935,27933",
+        "core_id": 2067.0
+      }
+    },
+    {
+      "id": "variant-3ed2b8d0-9200-57ee-93d7-347d83b99d24",
+      "score": 0.84621036,
+      "metadata": {
+        "text": "core_product_name: conventional relay and control panel",
+        "raw_product_name": "CONVENTIONAL RELAY & CONTROL PANEL",
+        "list_of_product_ids": "38185,38198,38206,38387",
+        "core_id": 470.0
+      }
+    },
+    {
+      "id": "variant-6b086f26-3ab4-545b-adc8-b69f1decdb1d",
+      "score": 0.8453688,
+      "metadata": {
+        "text": "core_product_name: telecommunication package",
+        "raw_product_name": "TELECOM PACKAGE",
+        "list_of_product_ids": "14004,19206,19262,18697,19229,19218,20983,22436,22704,23211",
+        "core_id": 2213.0
+      }
+    },
+    {
+      "id": "variant-acb2293f-88b9-5225-8d9b-658e5124afcc",
+      "score": 0.84435683,
+      "metadata": {
+        "text": "core_product_name: internal servicing telephone exchange",
+        "raw_product_name": "INTERNAL TELEPHONE EXCHANGE SERVICING",
+        "list_of_product_ids": "243,572,686,724,356",
+        "core_id": 1286.0
+      }
+    },
+    {
+      "id": "variant-c9c58aff-a0f1-50b5-b1f4-9bd02d954bc4",
+      "score": 0.84373146,
+      "metadata": {
+        "text": "core_product_name: auto telephone system",
+        "raw_product_name": "AUTO TELEPHONE SYSTEM",
+        "list_of_product_ids": "23967,22940,22939,22938,27057,22941",
+        "core_id": 138.0
+      }
+    },
+    {
+      "id": "variant-0e4d04c7-96ab-5803-96ea-fa89fe6f4c0f",
+      "score": 0.842071,
+      "metadata": {
+        "text": "core_product_name: indicating pilot | type_or_class: HI-LO (High-Low) | construction_features: dial type",
+        "raw_product_name": "HI-LO PILOTS (INDICATING DIAL TYPE)",
+        "list_of_product_ids": "13816,38324,35544,36103",
+        "core_id": 1125.0
+      }
+    },
+    {
+      "id": "variant-35edf62b-a83f-553d-9019-f1a2256ad6d6",
+      "score": 0.84086627,
+      "metadata": {
+        "text": "core_product_name: signal distributor",
+        "raw_product_name": "SIGNAL DISTRIBUTORS",
+        "list_of_product_ids": "13943,15212,20873,22615",
+        "core_id": 2023.0
+      }
+    },
+    {
+      "id": "variant-8535f89a-d50f-5258-a834-50de94e32dcb",
+      "score": 0.84086233,
+      "metadata": {
+        "text": "core_product_name: dial thermometer",
+        "raw_product_name": "DIAL THERMOMETER",
+        "list_of_product_ids": "220,132,203,522,051",
+        "core_id": 582.0
+      }
+    },
+    {
+      "id": "variant-2a448522-5b9b-55e2-b887-8aea9bfab754",
+      "score": 0.8407343,
+      "metadata": {
+        "text": "core_product_name: telephone cable | type_or_class: Telephone",
+        "raw_product_name": "TELEPHONE CABLE",
+        "list_of_product_ids": "13984,20103,20071,24070,21238,23922",
+        "core_id": 2219.0
+      }
+    },
+    {
+      "id": "variant-9236b9d5-2708-5606-986d-3cf16528215f",
+      "score": 0.84073126,
+      "metadata": {
+        "text": "core_product_name: interposing relay",
+        "raw_product_name": "INTERPOSING RELAYS",
+        "list_of_product_ids": "137,572,030,523,679",
+        "core_id": 1287.0
+      }
+    },
+    {
+      "id": "variant-9f376ba2-bfd9-569d-9df5-c33008feb16d",
+      "score": 0.8402163,
+      "metadata": {
+        "text": "core_product_name: relay and control panel",
+        "raw_product_name": "RELAY & CONTROL PANEL",
+        "list_of_product_ids": "6389,5560,11172,11457,7888,19357,24445,24450,24448,24827,24815,24451,19363,24930,24941,38203,38204",
+        "core_id": 187.0
+      }
+    },
+    {
+      "id": "variant-2a5c6f03-3f41-50df-8011-ff13dab79de9",
+      "score": 0.83802336,
+      "metadata": {
+        "text": "core_product_name: relay",
+        "raw_product_name": "RELAYS",
+        "list_of_product_ids": "5939,6768,7908,12286,8231,12095,12177,12706,22295,34802",
+        "core_id": 151.0
+      }
+    },
+    {
+      "id": "variant-1ac01704-2fd4-529e-876e-41ade03f18c1",
+      "score": 0.8379309,
+      "metadata": {
+        "text": "core_product_name: relay",
+        "raw_product_name": "BUCHHOLZ RELAY",
+        "list_of_product_ids": "64,425,612",
+        "core_id": 151.0
+      }
+    },
+    {
+      "id": "variant-c86d00f3-2833-5146-9fa1-8346c07ea025",
+      "score": 0.8376341,
+      "metadata": {
+        "text": "core_product_name: offshore paging and intercom system",
+        "raw_product_name": "PAGING AND INTERCOM SYSTEM - OFFSHORE",
+        "list_of_product_ids": "6431,5601,39444,39507,39552",
+        "core_id": 1621.0
+      }
+    },
+    {
+      "id": "variant-de47ff96-bd93-5d30-b6a8-28e7215a5255",
+      "score": 0.83732975,
+      "metadata": {
+        "text": "core_product_name: interface device",
+        "raw_product_name": "INTERFACE DEVICES",
+        "list_of_product_ids": "6630,5800,11596,11597,10310,11701,11702,11703,12288,8405,13108,13117,21089,21081,21077,21070",
+        "core_id": 1280.0
+      }
+    },
+    {
+      "id": "variant-18909d01-ade7-5b6d-8f15-e409a6ab83ac",
+      "score": 0.8370635,
+      "metadata": {
+        "text": "core_product_name: digital indicator",
+        "raw_product_name": "DIGITAL INDICATOR",
+        "list_of_product_ids": "1,365,123,180",
+        "core_id": 590.0
+      }
+    },
+    {
+      "id": "variant-139ba762-3e19-5b9f-a7e8-4cbcd98c8082",
+      "score": 0.83675504,
+      "metadata": {
+        "text": "core_product_name: electrical terminal",
+        "raw_product_name": "ELECTRICAL TERMINALS",
+        "list_of_product_ids": "21153,21157,28575,36610",
+        "core_id": 712.0
+      }
+    },
+    {
+      "id": "variant-3e1e7a81-dc6f-583b-94af-f17793c3043f",
+      "score": 0.8366502,
+      "metadata": {
+        "text": "core_product_name: speaker",
+        "raw_product_name": "SPEAKER",
+        "list_of_product_ids": "139,852,101,035,052",
+        "core_id": 2072.0
+      }
+    },
+    {
+      "id": "variant-699a43b0-7687-5c69-996f-3aebb9c05522",
+      "score": 0.8365218,
+      "metadata": {
+        "text": "core_product_name: disposal level transmitter",
+        "raw_product_name": "Disposal Level Transmitters",
+        "list_of_product_ids": "17087,17086,17996,17997,18641",
+        "core_id": 653.0
+      }
+    },
+    {
+      "id": "variant-094e13b9-9469-50ab-ba24-d3c43fe0d0c2",
+      "score": 0.8360993,
+      "metadata": {
+        "text": "core_product_name: on-off valve",
+        "raw_product_name": "ON-OFF VALVES",
+        "list_of_product_ids": "6494,5665,11273,11719,9263,8149,8160,8188,8187,8386,8597,8693,8669,8674,8688,12185,12293,12610,12821,12914,12934,12959,12969,12925,12935,12957,12961,12967,12968,12970,16129,16458,18305,18468,18462,18451,18447,18444,19712,23746,21621,21764,25964,28149,28148,28147,31883,37526,34316,36255,36408",
+        "core_id": 1594.0
+      }
+    },
+    {
+      "id": "variant-0c3f77fa-76a3-5c86-a778-78ccb3ad95e4",
+      "score": 0.83605874,
+      "metadata": {
+        "text": "core_product_name: wireless communication equipment",
+        "raw_product_name": "Wireless Communication Equipment",
+        "list_of_product_ids": "7073,7400,18829,18864",
+        "core_id": 2493.0
+      }
+    },
+    {
+      "id": "variant-2f824904-7a85-5dc5-b4d5-cb5597db0ca7",
+      "score": 0.83596194,
+      "metadata": {
+        "text": "core_product_name: indicating meter",
+        "raw_product_name": "INDICATING METERS",
+        "list_of_product_ids": "13682,14947,19149,19123,19142",
+        "core_id": 1230.0
+      }
+    },
+    {
+      "id": "variant-78618fb7-ff75-5ae5-b81e-6d5a90fce523",
+      "score": 0.8358206,
+      "metadata": {
+        "text": "core_product_name: level transmitter",
+        "raw_product_name": "LEVEL TRANSMITTER",
+        "list_of_product_ids": "14042,36533,17995,18211,19929,19985,19983,36512,40096",
+        "core_id": 1080.0
+      }
+    },
+    {
+      "id": "variant-bcf81070-a371-5aea-8bcf-47e5eb712834",
+      "score": 0.83580446,
+      "metadata": {
+        "text": "core_product_name: auxiliary relay",
+        "raw_product_name": "AUXILIARY RELAY",
+        "list_of_product_ids": "2,013,420,111",
+        "core_id": 149.0
+      }
+    },
+    {
+      "id": "variant-7d68d97c-be70-5217-a1bd-87344c05d442",
+      "score": 0.83567846,
+      "metadata": {
+        "text": "core_product_name: signal isolator",
+        "raw_product_name": "SIGNAL ISOLATORS",
+        "list_of_product_ids": "197,521,975,327,080",
+        "core_id": 2026.0
+      }
+    }
+  ]
+}
