@@ -1,0 +1,25 @@
+{
+  "sheet_name": "Sheet1",
+  "boq_context": "",
+  "product_entries": [],
+  "original_rows_info": {
+    "row_range": [
+      0,
+      0
+    ],
+    "original_rows": [
+      {
+        "0": "Temperature (T) Instruments",
+        "1": "Grade: 316 Stainless Steel, Material: Aluminum casing, Teflon seal, Other: Temperature range -50°C to +100°C, 150 PSI pressure rating",
+        "2": "4 inches (100 mm) diameter dial",
+        "3": 25,
+        "4": "Pieces",
+        "5": "High accuracy temperature instruments for industrial automation."
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 1818,
+    "completion_tokens": 225
+  }
+}

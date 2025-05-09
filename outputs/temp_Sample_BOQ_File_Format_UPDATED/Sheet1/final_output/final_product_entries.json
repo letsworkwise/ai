@@ -1,0 +1,597 @@
+{
+  "sheet_name": "Sheet1",
+  "boq_context": "",
+  "header_rows": "Product Name | specifications | Size | Quantity | Unit | Comments",
+  "products_entries": [
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "INSTRUMENTATION EARTHING | Earthing with CU earth plate 600mmX600mmX3mm thick, GI Pipe of 19mm dia, 2 meter length including accessories as required as per IS-3043. Following points to be considered with earth pit.",
+      "core_product_name": "earthing",
+      "size": "earth plate: 600mmX600mmX3mm, pipe diameter: 19mm, pipe length: 2 meter",
+      "feature_or_specifications": "material: copper (earth plate), material: gi(galvanized iron) (pipe), standard: indian standard 3043, feature: including accessories as required, feature: following points to be considered with earth pit",
+      "acronymed_core_product_name": "",
+      "quantity": "6.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "INSTRUMENTATION EARTHING | a. Masonary enclosure with cover plate having locking arrangement.",
+      "core_product_name": "masonary enclosure with cover plate",
+      "size": "",
+      "feature_or_specifications": "feature: locking arrangement",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "INSTRUMENTATION EARTHING | b. watering pipe",
+      "core_product_name": "watering pipe",
+      "size": "",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "INSTRUMENTATION EARTHING | c. charcole, salt (approximately 15kg charcoal and 15kg salt for each pit ) Refer attached drawing for further consideration.",
+      "core_product_name": "charcoal and salt",
+      "size": "",
+      "feature_or_specifications": "feature: approximately 15kg charcoal and 15kg salt for each pit, feature: refer attached drawing for further consideration",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | 25mmX3mm CU strip for instrument panel earthing.",
+      "core_product_name": "cu(copper) strip",
+      "size": "strip: 25mmX3mm",
+      "feature_or_specifications": "application: instrument panel earthing",
+      "acronymed_core_product_name": "",
+      "quantity": "150.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | 16 ways earthing copper plate with accessories",
+      "core_product_name": "earthing copper plate",
+      "size": "",
+      "feature_or_specifications": "feature: 16 ways, feature: with accessories",
+      "acronymed_core_product_name": "",
+      "quantity": "4.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | Earthing with GI earth pipe 3 meter long, 100 mm diameter including accessories as required as per IS-3043.  Following points to be considered with earth pit. a. Masonary enclosure with cover plate having locking arrangement. b. charcole, salt (approximately 15kg charcoal and 15kg salt for each pit) Refer attached drawing for further consideration.",
+      "core_product_name": "earthing",
+      "size": "pipe length: 3 meter, pipe diameter: 100 mm",
+      "feature_or_specifications": "material: gi(galvanized iron) (pipe), standard: indian standard 3043, feature: including accessories as required, feature: following points to be considered with earth pit, feature: masonary enclosure with cover plate having locking arrangement, feature: charcoal, salt (approximately 15kg charcoal and 15kg salt for each pit), feature: refer attached drawing for further consideration",
+      "acronymed_core_product_name": "",
+      "quantity": "12.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | 50mmX6mm GI strip for main grid, panel earthing etc.",
+      "core_product_name": "gi(galvanized iron) strip",
+      "size": "strip: 50mmX6mm",
+      "feature_or_specifications": "application: main grid, panel earthing etc.",
+      "acronymed_core_product_name": "",
+      "quantity": "250.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | 25mmX3mm GI strip for main grid, panel earthing etc.",
+      "core_product_name": "gi(galvanized iron) strip",
+      "size": "strip: 25mmX3mm",
+      "feature_or_specifications": "application: main grid, panel earthing etc.",
+      "acronymed_core_product_name": "",
+      "quantity": "525.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | 10Sqmm CU earthing wire.",
+      "core_product_name": "cu(copper) earthing wire",
+      "size": "wire: 10Sqmm",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "300.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | Conductor Material: Plain annealed high conductivity Flexible copper conductor as per Class 5 of IS 8130/84 latest.",
+      "core_product_name": "copper conductor",
+      "size": "",
+      "feature_or_specifications": "conductor material: plain annealed high conductivity flexible copper, standard: indian standard 8130/84 class 5 latest",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | Insulation material: PVC Type 'D' with FR-LSH Propertes.",
+      "core_product_name": "insulation material",
+      "size": "",
+      "feature_or_specifications": "insulation material: pvc type 'd', feature: fr-lsh properties",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | Rated voltage: 1100 V",
+      "core_product_name": "rated voltage",
+      "size": "",
+      "feature_or_specifications": "voltage: 1100 v",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | FRLS properties:",
+      "core_product_name": "frls properties",
+      "size": "",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | Oxygen Index Min. 29% as per ASTM D- 2863",
+      "core_product_name": "oxygen index",
+      "size": "",
+      "feature_or_specifications": "oxygen index: min. 29%, standard: astm d-2863",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | Temperature Index Min. 250 Deg.C as per ASTM D- 2863",
+      "core_product_name": "temperature index",
+      "size": "",
+      "feature_or_specifications": "temperature index: min. 250 deg.c, standard: astm d-2863",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | Smoke Density Rating Max. 60% as per ASTM D- 2843",
+      "core_product_name": "smoke density rating",
+      "size": "",
+      "feature_or_specifications": "smoke density rating: max. 60%, standard: astm d-2843",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | Acid Gas Generation Max. 20% as per IEC- 754- 1",
+      "core_product_name": "acid gas generation",
+      "size": "",
+      "feature_or_specifications": "acid gas generation: max. 20%, standard: iec-754-1",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | Max. conductor temp. under normal operating conditions 70deg C",
+      "core_product_name": "conductor temperature",
+      "size": "",
+      "feature_or_specifications": "max. conductor temp. under normal operating conditions: 70deg c",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | 16 ways earting GI plate with accessories",
+      "core_product_name": "earthing gi(galvanized iron) plate",
+      "size": "",
+      "feature_or_specifications": "feature: 16 ways, feature: with accessories",
+      "acronymed_core_product_name": "",
+      "quantity": "12.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "GI PIPE | 50Sqmm, 30m length CU earthing wire with clip reel & accessories",
+      "core_product_name": "cu(copper) earthing wire",
+      "size": "wire: 50Sqmm, length: 30m",
+      "feature_or_specifications": "feature: with clip reel & accessories",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "LIGHTNING ARRESTORS | 25mm dia, 1800mm long GI tube having single prong at top with 85mm dia 3mm thick GI base plate",
+      "core_product_name": "lightning arrestor",
+      "size": "tube diameter: 25mm, tube length: 1800mm, base plate diameter: 85mm, base plate thickness: 3mm",
+      "feature_or_specifications": "material: gi(galvanized iron) (tube and base plate), feature: single prong at top",
+      "acronymed_core_product_name": "",
+      "quantity": "3.0",
+      "unit": "nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Cable Tray | 150 mm GI perforated cable tray with coupler plate and accessories",
+      "core_product_name": "gi(galvanized iron) perforated cable tray",
+      "size": "tray: 150 mm",
+      "feature_or_specifications": "feature: with coupler plate and accessories",
+      "acronymed_core_product_name": "",
+      "quantity": "45.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "nan | 300 mm GI perforated cable tray with coupler plate and accessories",
+      "core_product_name": "gi(galvanized iron) perforated cable tray",
+      "size": "tray: 300 mm",
+      "feature_or_specifications": "feature: with coupler plate and accessories",
+      "acronymed_core_product_name": "",
+      "quantity": "120.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "PVC Conduit and accessories | 50mm dia double corrugated HDPE conduit",
+      "core_product_name": "hdpe(high density polyethylene) conduit",
+      "size": "conduit diameter: 50mm",
+      "feature_or_specifications": "feature: double corrugated",
+      "acronymed_core_product_name": "",
+      "quantity": "416.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "nan | 100mm dia double corrugated HDPE conduit",
+      "core_product_name": "hdpe(high density polyethylene) conduit",
+      "size": "conduit diameter: 100mm",
+      "feature_or_specifications": "feature: double corrugated",
+      "acronymed_core_product_name": "",
+      "quantity": "260.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "SPEAKER | Hand operated siren range 500 m",
+      "core_product_name": "hand operated siren",
+      "size": "range: 500 m",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "nan | Electrical siren range 500 m, Voltage: 230VAC",
+      "core_product_name": "electrical siren",
+      "size": "range: 500 m",
+      "feature_or_specifications": "voltage: 230VAC",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "CONTROL PANEL & ACCESSORIES | Panel Constructional details:  Panel suitable for 415VAC,50Hz, 3Wire AC supply system fabricated in compartmentalised with CRCA sheet steel, thickness 2mm, treated with 7tank procees. Painting shall be powder coated and oven dried. Panel shall have withstand capacity of 25KA for 1 sec. Ingress protection shall be IP-42. It will have suitable MS base channel with powder coated. panel shall be fabricated in transportable section. The panel shall have a common CU earthbar of size 25mmX5mm at the rear with 2 nos earth stud. Stud type power terminal suitable for rated load to be considered. Connection to be done with PVC insulated CU conductor cable of required current rating. Paint shall be finalised during detail engineering.",
+      "core_product_name": "control panel",
+      "size": "sheet steel thickness: 2mm, earthbar size: 25mmX5mm",
+      "feature_or_specifications": "supply system: 415VAC, 50Hz, 3Wire AC, construction: compartmentalised, material: crca sheet steel, treatment: 7tank process, painting: powder coated and oven dried, withstand capacity: 25KA for 1 sec, ingress protection: IP-42, base channel: ms(mild steel) with powder coated, fabrication: transportable section, earthbar material: cu(copper), earth stud: 2 nos, terminal: stud type power terminal suitable for rated load, connection: pvc insulated cu(copper) conductor cable, paint: to be finalised during detail engineering",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "CONTROL PANEL & ACCESSORIES | Dual Incomer with Bus-coupler: 4 Pole 100A microprocessor based O/C, S/C & E/F releases with extended door handle.  SINGLE POINT EMERGENCY STOP SHALL BE PROVIDED. Out Going feeders:  a) 8 nos 32A, 4 Pole microprocessor based MCCB power feeder with On,Off, Trip indication lamps. b) 4 nos 63A, 4 Pole microprocessor based MCCB power feeder with On,Off, Trip indication lamps.  c) 1 no 16A, 4 Pole microprocessor based MCCB power feeder with On,Off, Trip indication lamps.",
+      "core_product_name": "dual incomer with bus-coupler and outgoing feeders",
+      "size": "dual incomer: 4 pole 100A, outgoing feeders: a) 8 nos 32A 4 pole, b) 4 nos 63A 4 pole, c) 1 no 16A 4 pole",
+      "feature_or_specifications": "feature: microprocessor based O/C(over current), S/C(short circuit) & E/F(earth fault) releases, feature: extended door handle, feature: single point emergency stop, feature: MCCB power feeder with On,Off, Trip indication lamps",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "CONTROL PANEL & ACCESSORIES | 32A TPN+E CU Bus (10KA) shall be considered. d) 6A, DP MCB 2 Nos and  16A, DP MCB 6 Nos shall be considered in a separate feeder.",
+      "core_product_name": "control panel and accessories",
+      "size": "",
+      "feature_or_specifications": "busbar: 32A TPN+E CU(copper) Bus (10KA), feeder: 6A DP(double pole) MCB 2 Nos, feeder: 16A DP(double pole) MCB 6 Nos",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "MLDB | NON FLAMEPROOF TYPE,",
+      "core_product_name": "mldb",
+      "size": "",
+      "feature_or_specifications": "type: non flameproof",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "NO"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "MLDB | NON FLAMEPROOF TYPE,",
+      "core_product_name": "mldb",
+      "size": "",
+      "feature_or_specifications": "type: non flameproof",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "NO"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "UPS -ACDB | NON FLAMEPROOF TYPE,",
+      "core_product_name": "ups acdb",
+      "size": "",
+      "feature_or_specifications": "type: non flameproof",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "NO"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "SOLAR POWER SYSTEM MODULES | NON FLAMEPROOF TYPE,",
+      "core_product_name": "solar power system modules",
+      "size": "",
+      "feature_or_specifications": "type: non flameproof",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "NO"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "UPS SYSTEM | NON FLAMEPROOF TYPE,",
+      "core_product_name": "ups system",
+      "size": "",
+      "feature_or_specifications": "type: non flameproof",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "NO"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "HT (up to 11kV) cable XLPE | 4CX16Sqmm, AL conductor XLPE Insulated, FRLS, Voltage grade 1100V",
+      "core_product_name": "ht cable xlpe",
+      "size": "size: 4CX16Sqmm",
+      "feature_or_specifications": "conductor: al(aluminium), insulation: xlpe(cross-linked polyethylene), feature: frls(flame retardant low smoke), voltage grade: 1100V",
+      "acronymed_core_product_name": "",
+      "quantity": "136.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "nan | 4CX4Sqmm, CU conductor XLPE Insulated, FRLS, Voltage grade 1100V",
+      "core_product_name": "ht cable xlpe",
+      "size": "size: 4CX4Sqmm",
+      "feature_or_specifications": "conductor: cu(copper), insulation: xlpe(cross-linked polyethylene), feature: frls(flame retardant low smoke), voltage grade: 1100V",
+      "acronymed_core_product_name": "",
+      "quantity": "136.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Cable Gland | Flameproof cable gland for 4CX16Sqmm",
+      "core_product_name": "cable gland",
+      "size": "size: 4CX16Sqmm",
+      "feature_or_specifications": "feature: flameproof",
+      "acronymed_core_product_name": "",
+      "quantity": "10.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "nan | Flameproof cable gland for 4CX4Sqmm",
+      "core_product_name": "cable gland",
+      "size": "size: 4CX4Sqmm",
+      "feature_or_specifications": "feature: flameproof",
+      "acronymed_core_product_name": "",
+      "quantity": "58.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Cable Lugs | Ring type AL Lugs 4CX16Sqmm power cable",
+      "core_product_name": "cable lugs",
+      "size": "size: 4CX16Sqmm",
+      "feature_or_specifications": "type: ring, material: al(aluminium), application: 4CX16Sqmm power cable",
+      "acronymed_core_product_name": "",
+      "quantity": "40.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "nan | Ring type CU Lugs 4CX4Sqmm power cable",
+      "core_product_name": "cable lugs",
+      "size": "size: 4CX4Sqmm",
+      "feature_or_specifications": "type: ring, material: cu(copper), application: 4CX4Sqmm power cable",
+      "acronymed_core_product_name": "",
+      "quantity": "232.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "LIGHTING WIRES FIRE RETARDANT TYPE | Primary wiring 12M",
+      "core_product_name": "lighting wires fire retardant type",
+      "size": "primary wiring: 12M",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "10.0",
+      "unit": "Point"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "nan | Secondary wiring 4M",
+      "core_product_name": "lighting wires fire retardant type",
+      "size": "secondary wiring: 4M",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "10.0",
+      "unit": "Point"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "LIGHTING WIRES FIRE RETARDANT TYPE | Primary wiring 12M",
+      "core_product_name": "lighting wires fire retardant type",
+      "size": "primary wiring: 12M",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "22.1",
+      "unit": "Point"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "nan | Secondary wiring 4M",
+      "core_product_name": "lighting wires fire retardant type",
+      "size": "secondary wiring: 12M",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "22.1",
+      "unit": "Point"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "SOCKET | 6PIN 15/16 & 5/6 AMPS MODULAR SOCKET",
+      "core_product_name": "socket",
+      "size": "",
+      "feature_or_specifications": "type: 6PIN, rating: 15/16 & 5/6 AMPS, type: modular",
+      "acronymed_core_product_name": "",
+      "quantity": "4.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "nan | 15/16 Amp modular switch board",
+      "core_product_name": "switch board",
+      "size": "",
+      "feature_or_specifications": "rating: 15/16 Amp, type: modular",
+      "acronymed_core_product_name": "",
+      "quantity": "5.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "LED | Fixture 2X40W wall/ceiling mount or equivalent light fixture",
+      "core_product_name": "led light fixture",
+      "size": "",
+      "feature_or_specifications": "fixture: 2X40W, mounting: wall/ceiling, feature: or equivalent",
+      "acronymed_core_product_name": "",
+      "quantity": "5.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "nan | FLP Fixture 2X40W wall/ceiling mount or equivalent light fixture",
+      "core_product_name": "flp light fixture",
+      "size": "",
+      "feature_or_specifications": "fixture: 2X40W, mounting: wall/ceiling, feature: or equivalent, type: flp(flameproof)",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "nan | Fixture 1X20W wall/ceiling mount or equivalent light fixture",
+      "core_product_name": "light fixture",
+      "size": "",
+      "feature_or_specifications": "fixture: 1X20W, mounting: wall/ceiling, feature: or equivalent",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Ceiling Fan | Ceiling fan of 1200mm",
+      "core_product_name": "ceiling fan",
+      "size": "size: 1200mm",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Exhaust fan | 450mm dia FLP exhaust fan with louvers",
+      "core_product_name": "flp exhaust fan",
+      "size": "diameter: 450mm",
+      "feature_or_specifications": "feature: with louvers, type: flp(flameproof)",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "nan | 300mm dia FLP exhaust fan with louvers",
+      "core_product_name": "flp exhaust fan",
+      "size": "diameter: 300mm",
+      "feature_or_specifications": "feature: with louvers, type: flp(flameproof)",
+      "acronymed_core_product_name": "",
+      "quantity": "4.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "FITTINGS (CONDUIT) | 25mm dia PVC conduit",
+      "core_product_name": "pvc conduit",
+      "size": "diameter: 25mm",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "100.0",
+      "unit": "m"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "DG SET | 15KVA/12KW 3 PHASE MAHINDRA CPCB II compliant Gas Genset, Prime rated, radiator cooled, 15KVA equivalent electric alternator, microprocessor based controller, silencer, anti-vibration mountings, exhaust flexible connector, batteries with cable, acoustic enclosure and pressure converter valve.",
+      "core_product_name": "gas genset",
+      "size": "capacity: 15KVA/12KW, phase: 3 phase",
+      "feature_or_specifications": "manufacturer: mahindra, compliance: cpcb(central pollution control board) II, rating: prime rated, cooling: radiator cooled, alternator: 15KVA equivalent electric, controller: microprocessor based, feature: silencer, feature: anti-vibration mountings, feature: exhaust flexible connector, feature: batteries with cable, feature: acoustic enclosure, feature: pressure converter valve",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "No"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "OUTDOOR CTS | FLP 110W LED for mounting on 7m hexagonal light pole suitable for hazardous Zone-2 area",
+      "core_product_name": "flp led",
+      "size": "power: 110W",
+      "feature_or_specifications": "mounting: on 7m hexagonal light pole, suitability: hazardous Zone-2 area, type: flp(flameproof)",
+      "acronymed_core_product_name": "",
+      "quantity": "22.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "OUTDOOR CTS | 7 meter height hexagonal/octagonal street pole with suitable size of JB",
+      "core_product_name": "street pole",
+      "size": "height: 7 meter",
+      "feature_or_specifications": "shape: hexagonal/octagonal, feature: with suitable size of JB(junction box)",
+      "acronymed_core_product_name": "",
+      "quantity": "22.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "OUTDOOR CTS | Wiring 3CX2.5 Sqmm XLPE Insulated Cable",
+      "core_product_name": "wiring cable",
+      "size": "size: 3CX2.5 Sqmm",
+      "feature_or_specifications": "insulation: xlpe(cross-linked polyethylene)",
+      "acronymed_core_product_name": "",
+      "quantity": "220.0",
+      "unit": "m"
+    }
+  ]
+}

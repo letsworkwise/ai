@@ -1,0 +1,14 @@
+{
+  "file_path": "temp_Sample BOQ File Format (1)k.xlsx",
+  "sheet_name": "Sheet1",
+  "output_folder": "outputs/temp_Sample_BOQ_File_Format__1_k/Sheet1",
+  "schedule_path": "outputs/temp_Sample_BOQ_File_Format__1_k/Sheet1/schedule_only.xlsx",
+  "context_md": "",
+  "header_md": "Product Name | specifications | Size | Quantity | Unit | Comments",
+  "schedule_start_idx": 1,
+  "max_col_idx": 6,
+  "tokens_used_ctx": [
+    294,
+    28
+  ]
+}

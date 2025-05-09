@@ -1,0 +1,14 @@
+{
+  "file_path": "/home/student2/Documents/GitHub/1st_AI_Project_Kothari/boq_extraction_2/pipeline_copy_2/inputs/R4_ELECTRICAL OFFER  CITCO (2).xlsx",
+  "sheet_name": "FINISHED GOOD 2",
+  "output_folder": "outputs/R4_ELECTRICAL_OFFER__CITCO__2_/FINISHED_GOOD_2",
+  "schedule_path": "outputs/R4_ELECTRICAL_OFFER__CITCO__2_/FINISHED_GOOD_2/schedule_only.xlsx",
+  "context_md": "",
+  "header_md": "SL NO. | DESCRIPTION | UNIT | TOTAL QTY",
+  "schedule_start_idx": 1,
+  "max_col_idx": 4,
+  "tokens_used_ctx": [
+    600,
+    27
+  ]
+}

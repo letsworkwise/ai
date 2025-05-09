@@ -1,0 +1,14 @@
+{
+  "file_path": "/home/student2/Documents/GitHub/1st_AI_Project_Kothari/boq_extraction_2/pipeline_copy/inputs/BOQ-BPIL-FG WAREHOUSE-GODOWN-COLORANT (1).xlsx",
+  "sheet_name": "Fittings",
+  "output_folder": "outputs/BOQ-BPIL-FG_WAREHOUSE-GODOWN-COLORANT__1_/Fittings",
+  "schedule_path": "outputs/BOQ-BPIL-FG_WAREHOUSE-GODOWN-COLORANT__1_/Fittings/schedule_only.xlsx",
+  "context_md": "| BOQ OF SPRINKLER SYSTEM AT BONDED GODWON, COLOUR & PLANT AREA AND FG WAREHOUSE  AT BERGER PAINTS (I) LTD, RISHRA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n | BERGER PAINTS INDIA         LIMITED,RISHRA |  |  |  |  |  |  |  |  |  |  |  |  | Date: 07.12.18 |  | Rev- 02",
+  "header_md": "SN | Description of works | Unit | PROPOSED COLORANT PLANT |  |  |  | FG WAREHOSE | BONDED WAREHOSE |  | Existing Rates |  | Escallation  % |  |  |  | \n |  |  | GROUND FLOOR | FIRST FLOOR | SECOND FLOOR | THIRD FLOOR |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  | SOR QTY | Supply  (Rs) | Erection  (Rs) | Supply | Erection | DESIGN QTY | PURCHASE QTY | \n |  |  |  |  |  |  |  |  |  |  |  |  |  |  | AS ON DATE 24/12/18 |",
+  "schedule_start_idx": 6,
+  "max_col_idx": 17,
+  "tokens_used_ctx": [
+    1141,
+    325
+  ]
+}

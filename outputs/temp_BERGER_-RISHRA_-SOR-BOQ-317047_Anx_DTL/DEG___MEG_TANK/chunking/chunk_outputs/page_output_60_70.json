@@ -1,0 +1,158 @@
+{
+  "sheet_name": "DEG & MEG TANK",
+  "boq_context": "Annexure I |  |  |  |  |  |  | \nP.O. No. 317047               Dt. 24.11.23 |  |  |  |  |  |  | \n |  |  |  |  |  |  | \nScope of Supply & Erection : |  |  |  |  |  |  | \n |  |  |  |  |  |  | ",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "N | DEG & MEG TANK > N2 | FOAM GENERATOR",
+      "full_product_description": "Supply, erection, testing & commissioning of analogue addressable Monitor module",
+      "core_product_name": "monitor module",
+      "size": "",
+      "feature_or_specifications": "feature: analogue addressable",
+      "acronymed_core_product_name": "",
+      "quantity": "4.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "N | DEG & MEG TANK > N2 | FOAM GENERATOR",
+      "full_product_description": "Supply, erection, testing & commissioning of  IR Detector",
+      "core_product_name": "ir detector",
+      "size": "",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "4.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "N | DEG & MEG TANK > N2 | FOAM GENERATOR",
+      "full_product_description": "Providing & fixing ARMOURED CABLING complete with lugs, laying and termination of both ends.",
+      "core_product_name": "armoured cabling",
+      "size": "",
+      "feature_or_specifications": "feature: complete with lugs, laying and termination of both ends",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "N | DEG & MEG TANK > N2 | FOAM GENERATOR",
+      "full_product_description": "2C x 1.5 mm2 Armoured ( Loop cable)",
+      "core_product_name": "armoured cable",
+      "size": "size: 2C x 1.5 mm2",
+      "feature_or_specifications": "feature: loop cable",
+      "acronymed_core_product_name": "",
+      "quantity": "56.0",
+      "unit": "Mtr"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      60,
+      69
+    ],
+    "original_rows": [
+      {
+        "0": "1",
+        "1": "Supply, erection, testing & commissioning of analogue addressable Monitor module",
+        "2": "Nos",
+        "3": 4.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "2",
+        "1": "Supply, erection, testing & commissioning of  IR Detector",
+        "2": "Nos",
+        "3": 4.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "3",
+        "1": "Providing & fixing ARMOURED CABLING complete with lugs, laying and termination of both ends.",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "a",
+        "1": "2C x 1.5 mm2 Armoured ( Loop cable)",
+        "2": "Mtr",
+        "3": 56.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": "4",
+        "1": "Supply, fabrication, erection & testing of GI CABLE TRAYS FOR LAYING ALL TYPE OF CABLES AS INDICATED ABOVE INCLUDING ALL NECESSARY STRUCTURAL SUPPORTS.",
+        "2": "Mtr",
+        "3": 56.0,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": NaN,
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      },
+      {
+        "0": NaN,
+        "1": "TOTAL",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN,
+        "6": NaN,
+        "7": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2195,
+    "completion_tokens": 666
+  }
+}

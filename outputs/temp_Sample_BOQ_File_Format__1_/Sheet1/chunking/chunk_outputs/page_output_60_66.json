@@ -1,0 +1,116 @@
+{
+  "sheet_name": "Sheet1",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+      "full_product_description": "100 mm Dia Double corugated HDPE Pipe. Scope including Cutting  & installation, excavation & restoration at site works | 100 mm Dia | 350.0 | Meter (M) | nan",
+      "core_product_name": "double corugated hdpe pipe",
+      "size": "diameter: 100 mm",
+      "feature_or_specifications": "scope: cutting & installation, excavation & restoration at site works",
+      "acronymed_core_product_name": "hdpe pipe",
+      "quantity": "350.0",
+      "unit": "Meter (M)"
+    },
+    {
+      "section_context_for_this_product_block": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+      "full_product_description": "100 mm NB 500 mm bending radius | 100 mm NB 500 | nan | Nos. | NO QUANTITY FOUND. PLEASE PROVIDE DRAWING IN THIS REGARD FOR PROCUREMENT ACTION.",
+      "core_product_name": "pipe",
+      "size": "diameter: 100 mm nb, bending radius: 500 mm",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+      "full_product_description": "Supply, Installation  of 50 mm Dia Double corugated HDPE Pipe. Scope including Cutting  & installation, excavation & restoration at site works | 50 mm | 350.0 | Meter (M) | nan",
+      "core_product_name": "double corugated hdpe pipe",
+      "size": "diameter: 50 mm",
+      "feature_or_specifications": "scope: cutting & installation, excavation & restoration at site works",
+      "acronymed_core_product_name": "hdpe pipe",
+      "quantity": "350.0",
+      "unit": "Meter (M)"
+    },
+    {
+      "section_context_for_this_product_block": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+      "full_product_description": "Supply, Installation  of 50 mm NB 300 mm bending radius | 50 mm NB 300 mm | 5.0 | Nos. | nan",
+      "core_product_name": "pipe",
+      "size": "diameter: 50 mm nb, bending radius: 300 mm",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "5.0",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+      "full_product_description": "62.5kVA, 3 phase CPCB II compliant Gas Genset, Prime Rated, radiator cooled, 62.5 KVA Equivalent electric alternator, PLC based AMF Panel, microprocessor based Controller, Silencer, Anti-Vibration mountings, exhaust flexible connector, Batteries with cables, Acoustic Enclosure and Pressure converter valve etc. in complete as per specification, data sheet. | nan | 1.0 | Nos. | nan",
+      "core_product_name": "gas genset",
+      "size": "capacity: 62.5kva, phase: 3",
+      "feature_or_specifications": "compliance: cpcb ii, rating: prime rated, cooling: radiator cooled, alternator: 62.5 kva equivalent electric, panel: plc based amf, controller: microprocessor based, silencer: included, mountings: anti-vibration, connector: exhaust flexible, batteries: with cables, enclosure: acoustic, valve: pressure converter, specification: as per specification, data sheet: as per data sheet",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "Nos."
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      60,
+      65
+    ],
+    "original_rows": [
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "100 mm Dia Double corugated HDPE Pipe. Scope including Cutting  & installation, excavation & restoration at site works",
+        "2": "100 mm Dia",
+        "3": 350.0,
+        "4": "Meter (M)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "100 mm NB 500 mm bending radius",
+        "2": "100 mm NB 500",
+        "3": NaN,
+        "4": "Nos.",
+        "5": "NO QUANTITY FOUND. PLEASE PROVIDE DRAWING IN THIS REGARD FOR PROCUREMENT ACTION."
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "Supply, Installation  of 50 mm Dia Double corugated HDPE Pipe. Scope including Cutting  & installation, excavation & restoration at site works",
+        "2": "50 mm",
+        "3": 350.0,
+        "4": "Meter (M)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "Supply, Installation  of 50 mm NB 300 mm bending radius",
+        "2": "50 mm NB 300 mm",
+        "3": 5.0,
+        "4": "Nos.",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "62.5kVA, 3 phase CPCB II compliant Gas Genset, Prime Rated, radiator cooled, 62.5 KVA Equivalent electric alternator, PLC based AMF Panel, microprocessor based Controller, Silencer, Anti-Vibration mountings, exhaust flexible connector, Batteries with cables, Acoustic Enclosure and Pressure converter valve etc. in complete as per specification, data sheet.",
+        "2": NaN,
+        "3": 1.0,
+        "4": "Nos.",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "Dismantling of existing panels, cables, structures etc. as required, relocating of existing lighting poles along with termination etc. to complete the job.",
+        "2": NaN,
+        "3": 1.0,
+        "4": "Lot (LOT)",
+        "5": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 5402,
+    "completion_tokens": 1040
+  }
+}

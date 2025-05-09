@@ -1,0 +1,423 @@
+{
+  "sheet_name": "Fittings",
+  "boq_context": "| BOQ OF SPRINKLER SYSTEM AT BONDED GODWON, COLOUR & PLANT AREA AND FG WAREHOUSE  AT BERGER PAINTS (I) LTD, RISHRA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n | BERGER PAINTS INDIA         LIMITED,RISHRA |  |  |  |  |  |  |  |  |  |  |  |  | Date: 07.12.18 |  | Rev- 02",
+  "header_rows": "SN | Description of works | Unit | PROPOSED COLORANT PLANT |  |  |  | FG WAREHOSE | BONDED WAREHOSE |  | Existing Rates |  | Escallation  % |  |  |  | \n |  |  | GROUND FLOOR | FIRST FLOOR | SECOND FLOOR | THIRD FLOOR |  |  |  |  |  |  |  |  |  | \n |  |  |  |  |  |  |  |  | SOR QTY | Supply  (Rs) | Erection  (Rs) | Supply | Erection | DESIGN QTY | PURCHASE QTY | \n |  |  |  |  |  |  |  |  |  |  |  |  |  |  | AS ON DATE 24/12/18 |",
+  "products": [
+    {
+      "raw_product_description": "Grooved Coupling (pipe to pipe) for 200 NB Pipe.",
+      "core_product_name": "grooved coupling",
+      "size": "nominal bore: 200",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "18.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved Coupling (pipe to pipe) for 150 NB Pipe.",
+      "core_product_name": "grooved coupling",
+      "size": "nominal bore: 150",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "120.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved Coupling (pipe to pipe) for 100 NB Pipe.",
+      "core_product_name": "grooved coupling",
+      "size": "nominal bore: 100",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "30.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved Coupling (pipe to pipe) for 80 NB Pipe.",
+      "core_product_name": "grooved coupling",
+      "size": "nominal bore: 80",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "12.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved Coupling (pipe to pipe) for 65NB Pipe",
+      "core_product_name": "grooved coupling",
+      "size": "nominal bore: 65",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved Coupling (pipe to pipe) for 50 NB Pipe.",
+      "core_product_name": "grooved coupling",
+      "size": "nominal bore: 50",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "17.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved Coupling (pipe to pipe) for 40 NB Pipe.",
+      "core_product_name": "grooved coupling",
+      "size": "nominal bore: 40",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved Coupling (pipe to pipe) for 25NB Pipe.",
+      "core_product_name": "grooved coupling",
+      "size": "nominal bore: 25",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "GROOVED UN EQUAL TEE 150X100X150 NB",
+      "core_product_name": "grooved unequal tee",
+      "size": "nominal bore: 150X100X150",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "Y"
+    },
+    {
+      "raw_product_description": "GROOVED UN EQUAL TEE 150X80X150 NB",
+      "core_product_name": "grooved unequal tee",
+      "size": "nominal bore: 150X80X150",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "60.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "GROOVED UN EQUAL TEE 150X50X150 NB",
+      "core_product_name": "grooved unequal tee",
+      "size": "nominal bore: 150X50X150",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "GROOVED UN EQUAL TEE 100X65X100 NB",
+      "core_product_name": "grooved unequal tee",
+      "size": "nominal bore: 100X65X100",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "GROOVED UN EQUAL TEE 100X50X100 NB",
+      "core_product_name": "grooved unequal tee",
+      "size": "nominal bore: 100X50X100",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "GROOVED UN EQUAL TEE 100X40X100 NB",
+      "core_product_name": "grooved unequal tee",
+      "size": "nominal bore: 100X40X100",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "10.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "GROOVED UN EQUAL TEE 80X65X80NB",
+      "core_product_name": "grooved unequal tee",
+      "size": "nominal bore: 80X65X80",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "GROOVED UN EQUAL TEE 80X50X80NB",
+      "core_product_name": "grooved unequal tee",
+      "size": "nominal bore: 80X50X80",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "GROOVED UN EQUAL TEE 80X40X80NB",
+      "core_product_name": "grooved unequal tee",
+      "size": "nominal bore: 80X40X80",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "4.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved 90° Elbow, GROOVED UN EQUAL TEE 65X50X65NB",
+      "core_product_name": "elbow",
+      "size": "",
+      "feature_or_specifications": "type: grooved, angle: 90 degrees",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "raw_product_description": "Grooved Concentric Reducer, GROOVED UN EQUAL TEE 65X50X65NB",
+      "core_product_name": "reducer",
+      "size": "",
+      "feature_or_specifications": "type: grooved, type: concentric",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "raw_product_description": "Grooved 90° Elbow 200NB",
+      "core_product_name": "grooved elbow",
+      "size": "nominal bore: 200",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "4.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved 90° Elbow 150NB",
+      "core_product_name": "grooved elbow",
+      "size": "nominal bore: 150",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "11.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved 90° Elbow 100NB",
+      "core_product_name": "grooved elbow",
+      "size": "nominal bore: 100",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "6.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved 90° Elbow 80NB",
+      "core_product_name": "grooved elbow",
+      "size": "nominal bore: 80",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "10.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved 90° Elbow 65NB",
+      "core_product_name": "grooved elbow",
+      "size": "nominal bore: 65",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "7.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved 90° Elbow 50NB",
+      "core_product_name": "grooved elbow",
+      "size": "nominal bore: 50",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "8.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved 90° Elbow 25NB",
+      "core_product_name": "grooved elbow",
+      "size": "nominal bore: 25",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "27.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 200NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 200",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 150NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 150",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 100NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 100",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 65NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 65",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "8.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 50NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 50",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "17.0",
+      "unit": "Nos",
+      "is_only_product_specs_entry": "N"
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 200X150NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 200X150",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 150x100NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 150x100",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 150x80NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 150x80",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 150X50NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 150X50",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 100 x 80NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 100 x 80",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "7.0",
+      "unit": "Nos."
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 80 x 65NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 80 x 65",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "7.0",
+      "unit": "Nos."
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 80 x 25NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 80 x 25",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "Nos."
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 65 x 50NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 65 x 50",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "15.0",
+      "unit": "Nos."
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 65 x 40NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 65 x 40",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "5.0",
+      "unit": "Nos."
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 50 x 25NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 50 x 25",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "1.0",
+      "unit": "Nos."
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 50 x 40NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 50 x 40",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "47.0",
+      "unit": "Nos."
+    },
+    {
+      "raw_product_description": "Grooved Equal Tee 40 x 25NB",
+      "core_product_name": "grooved tee",
+      "size": "nominal bore: 40 x 25",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "143.0",
+      "unit": "Nos."
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "sheet_name": "Sheet1",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "CABLE & TERMINATIONS :",
+      "full_product_description": "Cable lugs suitable to 3Cx 2.5 mm2 2XWY | 3Cx 2.5 mm2 2XWY | nan | Nos. | nan",
+      "core_product_name": "cable lugs",
+      "size": "suitable cable size: 3Cx 2.5 mm2 2xwy",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": "Nos."
+    },
+    {
+      "section_context_for_this_product_block": "CABLE & TERMINATIONS :",
+      "full_product_description": "5Cx 1.0 mm2 2XWY Screen | 5Cx 1.0 mm2 2XWY | nan | Meter (M) | nan",
+      "core_product_name": "2xwy cable",
+      "size": "cable size: 5Cx 1.0 mm2",
+      "feature_or_specifications": "screen: yes",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": "Meter (M)"
+    },
+    {
+      "section_context_for_this_product_block": "DISTRIBUTION PANELS, DISTRIBUTION BOARD & Lighting Panel",
+      "full_product_description": "Electrical / Control  Panels  suitable  for  415  Volt, 3 phase, 3 wire  50Hz  AC  supply  system  fabricated  in compartmentlized  from CRCA sheet  steel not less than 2mm thick duly treated with  7 tanks  process, powder coated with  approved shade and oven dried . The complete panel will have a short circuit with stand capacity of 35 KA for 1 Second, IP 52 rating. It will have a suitable MS base channel powder coated. The panel will be fabricated  in transportable sections. The panel shall have a common copper  earth bar of size 25mm x 5mm at the rear with 2 Nos. earth studs.  The  LT  panel  will  have  suitable  arrangement  for  bus-ducting/  cable  termination  into  various  incoming/outgoing  switchgear  as  required.  Cable termination will be at suitable terminal block at top/bottom of the panel and from the terminal block to switch, connection will be made with solid insulated strip/PVC insulated copper conductor cable of required current rating as required as per SLD. Spares for these LT Panels are included, based on PTS.",
+      "core_product_name": "electrical control panels",
+      "size": "",
+      "feature_or_specifications": "voltage: 415 volt, phase: 3 phase, wire: 3 wire, frequency: 50hz, material: crca sheet steel (not less than 2mm thick), treatment: 7 tanks process, finish: powder coated with approved shade and oven dried, short circuit withstand capacity: 35 ka for 1 second, rating: ip 52, base channel: ms powder coated, earth bar: copper, earth bar size: 25mm x 5mm, earth studs: 2 nos, arrangement: bus-ducting/cable termination, cable termination: suitable terminal block at top/bottom, connection: solid insulated strip/pvc insulated copper conductor cable, spares: included based on pts",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "DISTRIBUTION PANELS, DISTRIBUTION BOARD & Lighting Panel",
+      "full_product_description": "415V, 35 KA single front Floor mounted type indoor MEDB to receive input power at CNG Station consisting of  bus bar chamber, cable alley, etc including all  labour  and  materials  with  operating  mechanism,  all  accessories,  mandatory  spares  as  per  PTS,  data  sheet,  auxiliaries   etc  complete  in  all  respects  as specified  in  technical specification,  data  sheet & SLD (Al Bus, I/C-1  & I/C-2: 150A 4P  MCCB, O/G: refer SLD) with  APFC realy and  capacitor 20kVAR (2x2kVAR+2x3kVAR+2x5kVAR)",
+      "core_product_name": "medb",
+      "size": "",
+      "feature_or_specifications": "voltage: 415v, short circuit withstand capacity: 35 ka, type: single front floor mounted, location: indoor, bus bar: al, i/c-1 & i/c-2: 150a 4p mccb, apfc relay: included, capacitor: 20 kvar (2x2kvar+2x3kvar+2x5kvar), accessories: all accessories, mandatory spares as per pts, data sheet, auxiliaries, technical specification, sld",
+      "acronymed_core_product_name": "medb",
+      "quantity": "1.0",
+      "unit": "Number (NO)"
+    },
+    {
+      "section_context_for_this_product_block": "UPS & UPS Panel",
+      "full_product_description": "Supply, Installation, testing & commissioning of UPS ;- PARALLEL REDUNDANT UPS  of 2 X 100% , with BYPASS 230V, 15 kVA rating  with battery charger   each. Installation,  testing & commissioning  of  Parallel redundant  UPS should  be DSP  (Digital Signal Processing), controlled  true on  line double conversion 3 phase input and 1 phase output UPS system with each UPS module having IGBT based rectifier, THD shall be less than 5% at 100% linear load. input power factor should be 0.90 across the load spectrum DSP (Digital signal processing) technology invertor. Supply of UPS DB as mentioned  above & SLD Supply of Battery Bank:- Installation, testing and Commissioning of sealed maintenance free batteries for 15 kVA load, battery charger of suitable capacity, battery MCCB, input panel, Battery racks,connectors and accessories, cable from UPS to batteries etc. 2 nos x 50% VRLA, 12V battery with backup 4 hour . | nan | 1.0 | Lot (LOT) | nan",
+      "core_product_name": "parallel redundant ups",
+      "size": "rating: 15 kVA, input voltage: 230V, battery voltage: 12V, backup: 4 hour",
+      "feature_or_specifications": "type: parallel redundant, bypass: yes, battery charger: included, control: dsp (digital signal processing), conversion: true on line double, input: 3 phase, output: 1 phase, rectifier: igbt based, thd: less than 5% at 100% linear load, input power factor: 0.90, technology: dsp (digital signal processing) invertor, ups db: included, battery bank: sealed maintenance free, battery mccb: included, input panel: included, battery racks: included, connectors: included, accessories: included, cable from ups to batteries: included, battery: 2 nos x 50% vrla, standard: sld",
+      "acronymed_core_product_name": "ups",
+      "quantity": "1.0",
+      "unit": "Lot (LOT)"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      30,
+      59
+    ],
+    "original_rows": [
+      {
+        "0": "CABLE & TERMINATIONS :",
+        "1": "Cable lugs suitable to 3Cx 2.5 mm2 2XWY",
+        "2": "3Cx 2.5 mm2 2XWY",
+        "3": NaN,
+        "4": "Nos.",
+        "5": NaN
+      },
+      {
+        "0": "CABLE & TERMINATIONS :",
+        "1": "5Cx 1.0 mm2 2XWY Screen",
+        "2": "5Cx 1.0 mm2 2XWY",
+        "3": NaN,
+        "4": "Meter (M)",
+        "5": NaN
+      },
+      {
+        "0": "DISTRIBUTION PANELS, DISTRIBUTION BOARD & Lighting Panel",
+        "1": "Electrical / Control  Panels  suitable  for  415  Volt, 3 phase, 3 wire  50Hz  AC  supply  system  fabricated  in compartmentlized  from CRCA sheet  steel not less than 2mm thick duly treated with  7 tanks  process, powder coated with  approved shade and oven dried . The complete panel will have a short circuit with stand capacity of 35 KA for 1 Second, IP 52 rating. It will have a suitable MS base channel powder coated. The panel will be fabricated  in transportable sections. The panel shall have a common copper  earth bar of size 25mm x 5mm at the rear with 2 Nos. earth studs.  The  LT  panel  will  have  suitable  arrangement  for  bus-ducting/  cable  termination  into  various  incoming/outgoing  switchgear  as  required.  Cable termination will be at suitable terminal block at top/bottom of the panel and from the terminal block to switch, connection will be made with solid insulated strip/PVC insulated copper conductor cable of required current rating as required as per SLD. Spares for these LT Panels are included, based on PTS.",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN
+      },
+      {
+        "0": "DISTRIBUTION PANELS, DISTRIBUTION BOARD & Lighting Panel",
+        "1": "415V, 35 KA single front Floor mounted type indoor MEDB to receive input power at CNG Station consisting of  bus bar chamber, cable alley, etc including all  labour  and  materials  with  operating  mechanism,  all  accessories,  mandatory  spares  as  per  PTS,  data  sheet,  auxiliaries   etc  complete  in  all  respects  as specified  in  technical specification,  data  sheet & SLD (Al Bus, I/C-1  & I/C-2: 150A 4P  MCCB, O/G: refer SLD) with  APFC realy and  capacitor 20kVAR (2x2kVAR+2x3kVAR+2x5kVAR)",
+        "2": NaN,
+        "3": 1.0,
+        "4": "Number (NO)",
+        "5": NaN
+      },
+      {
+        "0": "UPS & UPS Panel",
+        "1": "Supply, Installation, testing & commissioning of UPS ;- PARALLEL REDUNDANT UPS  of 2 X 100% , with BYPASS 230V, 15 kVA rating  with battery charger   each. Installation,  testing & commissioning  of  Parallel redundant  UPS should  be DSP  (Digital Signal Processing), controlled  true on  line double conversion 3 phase input and 1 phase output UPS system with each UPS module having IGBT based rectifier, THD shall be less than 5% at 100% linear load. input power factor should be 0.90 across the load spectrum DSP (Digital signal processing) technology invertor. Supply of UPS DB as mentioned  above & SLD Supply of Battery Bank:- Installation, testing and Commissioning of sealed maintenance free batteries for 15 kVA load, battery charger of suitable capacity, battery MCCB, input panel, Battery racks,connectors and accessories, cable from UPS to batteries etc. 2 nos x 50% VRLA, 12V battery with backup 4 hour .",
+        "2": NaN,
+        "3": 1.0,
+        "4": "Lot (LOT)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "Electrical  Building  Internal lighting Wiring",
+        "2": NaN,
+        "3": NaN,
+        "4": NaN,
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "Wiring  for  light  point  with  2.5  sq.  mm  FRLS  PVC  insulated  copper  conductor  three  core  cable/wire  in surface/ recesses steel conduit in roof & PVC conduit in wall, with modular switch (AHOSXXW061/101 or equivalent), modular plate, suitable GI box and earthing the point with 1.5 sq.mm.FR PVC insulated copper conductor single/ three core wire etc as required.",
+        "2": "2.5  sq.  mm",
+        "3": NaN,
+        "4": NaN,
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "Primary Wiring 12 M",
+        "2": NaN,
+        "3": 12.0,
+        "4": "Points (P)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "Secondary Wiring 4 M",
+        "2": NaN,
+        "3": 12.0,
+        "4": "Points (P)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "Wiring for  mm dia Exhaust Fan and ceiling fan point with 2.5 sq. mm FRLS PVC insulated copper conductor  three core cable/wire in surface/ recesses steel conduit, with modular switch (AHOSXXW061/101 or equivalent), modular plate, suitable GI box and earthing the point with 1.5 sq.mm.FR PVC insulated copper conductor single/ three core cable/wire complete with Junction box. etc as required.",
+        "2": "2.5 sq. mm",
+        "3": NaN,
+        "4": NaN,
+        "5": "5 nos point of ceiling fan & 8 nos Exhaust fan point as per indoor lighting layout drawing."
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "Primary Wiring 12 M",
+        "2": NaN,
+        "3": 13.0,
+        "4": "Points (P)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "Secondary Wiring 4 M",
+        "2": NaN,
+        "3": 13.0,
+        "4": "Points (P)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "GI box with modular plate and cover in front on surface or in recess, including providing and fixing 6 pin 15/16 modular socket outlet and 15/16 amps modular switch (AHOSIG101 or equivalent), connection, painting etc. as required.",
+        "2": NaN,
+        "3": 10.0,
+        "4": "Number (NO)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "GI box with modular plate and cover in front on surface or in recess, including providing and fixing 6 pin 5/6 modular socket outlet and 15/16 amps modular switch (AHOSIG101 or equivalent), connection, painting etc. as required.",
+        "2": NaN,
+        "3": 13.0,
+        "4": "Number (NO)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "wall / ceiling/recess mount, decorative Fixture 2x40 W or equivalent LED Indoor  Industrial light fixture complete in all respects.",
+        "2": NaN,
+        "3": 8.0,
+        "4": "Number (NO)",
+        "5": "LED LIGHT FITTINGS RECESS MOUNTED"
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "wall / ceiling mount   Fixture 1x40 W or equivalent  LED   Indoor  Industrial light fixture complete in all respects.",
+        "2": NaN,
+        "3": 6.0,
+        "4": "Number (NO)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "wall / ceiling mount  FLP Fixture 2x40 W or equivalent LED Indoor  Industrial light fixture complete in all respects.",
+        "2": NaN,
+        "3": 5.0,
+        "4": "Number (NO)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "25 amps, 230 volts, SPN, industrial type switch socket outlet, with 2 poles and earth metal enclosed  plug top along  with 16  amps.rotary switch in sheet steel enclosure, on surface or in recess, with chained  metal cover for the socket outlet, and complete with connections, testing  and  commissioning etc. as required.",
+        "2": NaN,
+        "3": 3.0,
+        "4": "Number (NO)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "Ceiling Fan of 1200mm sweep complete erected in position with all accessories.",
+        "2": NaN,
+        "3": 5.0,
+        "4": "Number (NO)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "Wall mounted single phase decorative fan ,High Air Delivery ,Corrosion protection ,standard make with all accessories.",
+        "2": NaN,
+        "3": NaN,
+        "4": "Number (NO)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "Supply, installation, Testing and Commissioning of 1.5 Tr. Split AC , 5+ star rating, complete with piping and all accessories.",
+        "2": NaN,
+        "3": 3.0,
+        "4": "Number (NO)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "450 mm dia FLP Exhaust Fan with louvers complete in all respects.",
+        "2": "450 mm dia",
+        "3": 1.0,
+        "4": "Number (NO)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "300 mm dia ,single phase Exhaust Fan with louvers complete in all respects.",
+        "2": "300 mm dia",
+        "3": 7.0,
+        "4": "Number (NO)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "FLP JB for FLP exhaust fan",
+        "2": NaN,
+        "3": 1.0,
+        "4": "Number (NO)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "25 mm PVC/MS Conduit",
+        "2": "25 mm",
+        "3": 300.0,
+        "4": "Meter (M)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "lightning conductor finial made of 25 mm dia 1800 mm long GI tube having single prong at top with 85 mm dia 3 mm thick GI base plate including holes etc. complete as required.",
+        "2": "25 mm dia 1800 mm",
+        "3": 2.0,
+        "4": "Number (NO)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "GI strip of 25 x 3 mm thick on parapet or surface of wall for lightning conductor complete with joints and other accessories as required.(for horizental run).",
+        "2": "25 x 3 mm",
+        "3": 85.0,
+        "4": "Meter (M)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "GI Tape of 25 x 3 mm thick on parapet or surface of wall for lightning conductor complete with joints and other accessories as required.(for vertical run).",
+        "2": "25 x 3",
+        "3": 20.0,
+        "4": "Meter (M)",
+        "5": NaN
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "Steel Structure Angle, Chanels, Sq. bar, round Bar. Scope including Cutting, fabrication, painting & installation at site works",
+        "2": NaN,
+        "3": NaN,
+        "4": "Kilogram (KG)",
+        "5": "NO QUANTITY FOUND. PLEASE PROVIDE DRAWING IN THIS REGARD FOR PROCUREMENT ACTION."
+      },
+      {
+        "0": "SUPPLY, INSTALLATION, TESTING & COMMISSIONING",
+        "1": "Chequred plate 6 mm thick, Scope including Cutting, fabrication, painting & installation at site works",
+        "2": "6 mm",
+        "3": NaN,
+        "4": "Kilogram (KG)",
+        "5": "NO QUANTITY FOUND. PLEASE PROVIDE DRAWING IN THIS REGARD FOR PROCUREMENT ACTION."
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 5621,
+    "completion_tokens": 5128
+  }
+}

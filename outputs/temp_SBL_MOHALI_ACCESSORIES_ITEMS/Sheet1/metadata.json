@@ -1,0 +1,14 @@
+{
+  "file_path": "temp_SBL MOHALI ACCESSORIES ITEMS.xlsx",
+  "sheet_name": "Sheet1",
+  "output_folder": "outputs/temp_SBL_MOHALI_ACCESSORIES_ITEMS/Sheet1",
+  "schedule_path": "outputs/temp_SBL_MOHALI_ACCESSORIES_ITEMS/Sheet1/schedule_only.xlsx",
+  "context_md": "|  |  | \n| SBL MOHALI CONSUMAABLE ITEMS |  | \n|  |  | \n|  |  | ",
+  "header_md": "| ACCESSORIES | QTY | ",
+  "schedule_start_idx": 5,
+  "max_col_idx": 4,
+  "tokens_used_ctx": [
+    589,
+    57
+  ]
+}

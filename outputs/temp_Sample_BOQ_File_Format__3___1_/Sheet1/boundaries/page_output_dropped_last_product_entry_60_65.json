@@ -1,0 +1,108 @@
+{
+  "sheet_name": "Sheet1",
+  "boq_context": "",
+  "product_entries": [
+    {
+      "section_context_for_this_product_block": "Site Misc materials",
+      "full_product_description": "Site Misc materials | Single Line Diagram complete with laminated  A2 size colour print.",
+      "core_product_name": "single line diagram",
+      "size": "print size: a2",
+      "feature_or_specifications": "finish: laminated, color: colour print",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "Set"
+    },
+    {
+      "section_context_for_this_product_block": "Site Misc materials",
+      "full_product_description": "Site Misc materials | shock treatment  chart framed in good quality  glass in English / Hindi / Local Language).",
+      "core_product_name": "shock treatment chart",
+      "size": "",
+      "feature_or_specifications": "frame: good quality glass, language: english/hindi/local language",
+      "acronymed_core_product_name": "",
+      "quantity": "10.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "Site Misc materials",
+      "full_product_description": "Site Misc materials | Insulating mat (2 or 2.5mm  thick X 0.9 or 1Mtr w , 11 KV) as per IS15652/IEC61111",
+      "core_product_name": "insulating mat",
+      "size": "thickness: 2 or 2.5mm, width: 0.9 or 1mtr",
+      "feature_or_specifications": "voltage: 11 kv, standard: is15652(indian standard 15652), standard: iec61111(international electrotechnical commission 61111)",
+      "acronymed_core_product_name": "",
+      "quantity": "10.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "Site Misc materials",
+      "full_product_description": "Site Misc materials | Pairs of Rubber hand gloves IS Mark",
+      "core_product_name": "rubber hand gloves",
+      "size": "",
+      "feature_or_specifications": "certification: is mark(indian standard mark)",
+      "acronymed_core_product_name": "",
+      "quantity": "10.0",
+      "unit": "Nos"
+    },
+    {
+      "section_context_for_this_product_block": "Site Misc materials",
+      "full_product_description": "Site Misc materials | Fiirst aid box with Snake serum",
+      "core_product_name": "first aid box",
+      "size": "",
+      "feature_or_specifications": "accessory: snake serum",
+      "acronymed_core_product_name": "",
+      "quantity": "2.0",
+      "unit": "Nos"
+    }
+  ],
+  "original_rows_info": {
+    "row_range": [
+      60,
+      64
+    ],
+    "original_rows": [
+      {
+        "0": "Site Misc materials",
+        "1": "Single Line Diagram complete with laminated  A2 size colour print.",
+        "2": NaN,
+        "3": 2.0,
+        "4": "Set",
+        "5": NaN
+      },
+      {
+        "0": "Site Misc materials",
+        "1": "shock treatment  chart framed in good quality  glass in English / Hindi / Local Language).",
+        "2": NaN,
+        "3": 10.0,
+        "4": "Nos",
+        "5": NaN
+      },
+      {
+        "0": "Site Misc materials",
+        "1": "Insulating mat (2 or 2.5mm  thick X 0.9 or 1Mtr w , 11 KV) as per IS15652/IEC61111",
+        "2": NaN,
+        "3": 10.0,
+        "4": "Nos",
+        "5": NaN
+      },
+      {
+        "0": "Site Misc materials",
+        "1": "Pairs of Rubber hand gloves IS Mark",
+        "2": NaN,
+        "3": 10.0,
+        "4": "Nos",
+        "5": NaN
+      },
+      {
+        "0": "Site Misc materials",
+        "1": "Fiirst aid box with Snake serum",
+        "2": NaN,
+        "3": 2.0,
+        "4": "Nos",
+        "5": NaN
+      }
+    ]
+  },
+  "token_usage": {
+    "prompt_tokens": 2080,
+    "completion_tokens": 714
+  }
+}

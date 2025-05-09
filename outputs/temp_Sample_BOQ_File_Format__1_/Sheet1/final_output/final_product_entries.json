@@ -1,0 +1,37 @@
+{
+  "sheet_name": "Sheet1",
+  "boq_context": "",
+  "header_rows": "Product Name | specifications | Size | Quantity | Unit | Comments",
+  "products_entries": [
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "Temperature (T) Instruments | Grade: 316 Stainless Steel, Material: Aluminum casing, Teflon seal, Other: Temperature range -50°C to +100°C, 150 PSI pressure rating | 4 inches (100 mm) diameter dial | 25.0 | Pieces | High accuracy temperature instruments for industrial automation.",
+      "core_product_name": "temperature instruments",
+      "size": "dial diameter: 4 inches (100 mm)",
+      "feature_or_specifications": "grade: 316 stainless steel, casing material: aluminum, seal material: teflon, temperature range: -50°C to +100°C, pressure rating: 150 PSI, feature: high accuracy, application: industrial automation",
+      "acronymed_core_product_name": "t instruments",
+      "quantity": "25.0",
+      "unit": "Pieces"
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "flanges | nan | nan | nan | nan | nan",
+      "core_product_name": "flanges",
+      "size": "",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    },
+    {
+      "section_context_for_this_product_block": "",
+      "full_product_description": "pipe/low | nan | nan | nan | nan | nan",
+      "core_product_name": "pipe",
+      "size": "",
+      "feature_or_specifications": "",
+      "acronymed_core_product_name": "",
+      "quantity": "",
+      "unit": ""
+    }
+  ]
+}
